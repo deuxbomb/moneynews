@@ -13,7 +13,10 @@ import os
 import re
 from datetime import datetime
 
-WEBHOOK_URL = "https://hooks.slack.com/services/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"
+WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL")
+if not WEBHOOK_URL:
+    print("❌ SLACK_WEBHOOK_URL 환경변수가 설정되어 있지 않습니다.")
+    sys.exit(1)
 
 
 def extract_slack_summary(md_path):
