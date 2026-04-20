@@ -1,89 +1,101 @@
-# 큐레이션 브리프 — 자율주행 (2026-04-20, 월)
+# 큐레이션 브리프 — 자율주행 뉴스
+
+**발행일**: 2026년 4월 20일 (월)
+**큐레이터**: Curator Agent
+**수집 범위**: 24시간 이내 기준 (2026-04-19 ~ 2026-04-20), 최신 관련 기사 포함
+
+---
 
 ## 이번 호 테마
-- **메인 테마**: 테슬라 vs 웨이모 vs 중국 3파전 — 로보택시 전장 확전
-- **서브 테마**: 자율주행 L3 상용화 원년, 한국·중국의 플랫폼·부품 패권 경쟁
-- **타깃 독자**: 자율주행·모빌리티 투자자, 테크 산업 실무자
-- **발행 맥락**: 테슬라 4/18 댈러스·휴스턴 무인 로보택시 공식 런칭 직후 첫 월요일 개장 전야
+
+- **메인 테마**: 로보택시 글로벌 전쟁 — 웨이모 런던 진출, 테슬라 유럽 FSD 승인, Lucid-Uber 대형 투자
+- **서브 테마**: 폭스바겐 MOIA의 LA 진출, 현대·기아의 웨이모 파트너십 가시화
+- **타깃 독자**: 자율주행 및 모빌리티 투자자, 테크 비즈니스 관계자, EV/자율주행 산업 종사자
+- **발행 맥락**: 웨이모 런던 공도 테스트(4/14), 테슬라 FSD 네덜란드 승인(4/10), Lucid 신규 투자(4/14), Lyft-Waymo 내슈빌 허브(4/15) 등 4월 중순 굵직한 뉴스들이 집중되며 로보택시·자율주행 섹터의 본격 상용화 국면 진입을 알리는 시점
 
 ---
 
-## 오늘의 톱 헤드라인 3선
+## 큐레이션 콘텐츠
 
-### 1. 테슬라 로보택시, 댈러스·휴스턴 무인 서비스 개시 — $TSLA 12% 급등 💥
-- **원문 제목**: Tesla Robotaxi Dallas Houston Launch: 573 Vehicles, 12% Stock Surge
-- **URL**: https://tech-insider.org/tesla-robotaxi-dallas-houston-unsupervised-launch-2026/
-- **발행일**: 2026-04-18 (주말 보도 지속)
-- **요약 (3줄)**:
-  1. 테슬라가 4월 18일 댈러스·휴스턴에서 **운전자 없는(unsupervised)** 로보택시 서비스를 동시 개시, 오스틴 포함 총 3개 도시에서 상업 운행 중.
-  2. 휴스턴 25제곱마일 지오펜스와 비슷한 규모의 댈러스 존이 일반 대중에 개방, 향후 10주 내 4개 도시 추가 예정.
-  3. $TSLA 주가는 4/14 $357.67 → 4/17 $400.62로 **4거래일 만에 약 12% 급등**.
-- **왜 중요한가**: 웨이모(11개 도시·주 50만 회)의 아성을 정면 도전하는 "Unsupervised" 데뷔. 실적 시즌 초입 $TSLA 서프라이즈 트리거가 될 수 있다.
+### 메인 스토리
 
-### 2. 웨이모, 런던 상륙 — 영국 첫 자율주행 시험 운행 시작 🇬🇧
-- **원문 제목**: Waymo self-driving cars face toughest test yet: London
-- **URL**: https://www.theregister.com/2026/04/15/waymo_london/
-- **발행일**: 2026-04-15 (지속 업데이트)
-- **요약 (3줄)**:
-  1. 웨이모가 **좌측통행·로터리·협소 도로**라는 최악의 난이도를 지닌 런던에서 소프트웨어 주도 주행 시작.
-  2. 6세대 로보택시 시스템(다중 센서 스위트) 정식 가동, 세이프티 스페셜리스트 탑승 단계.
-  3. 단계적 검증 → 완전 무인 로봇 호출 런칭 로드맵.
-- **왜 중요한가**: 미국·UAE 이후 **유럽 교두보 확보**. 주 50만 건 기록을 유럽 트래픽에서 복제할 수 있는지가 $GOOGL 자율주행 밸류에이션 핵심.
-
-### 3. 중국 L3 자율주행 정식 번호판 1호 — '渝AD0001Z' 충칭서 교부 🇨🇳
-- **원문 제목**: [차이나 급보] 중국의 자율주행 L3, 6G, 재활용 발사체, 어떻게 극복할 것인가?
-- **URL**: https://www.hellodd.com/news/articleView.html?idxno=110376
-- **발행일**: 2026-04-19~20
-- **요약 (3줄)**:
-  1. 충칭시 공안국이 **장안자동차에 L3 전용 공식 번호판**을 국내 최초 교부, 중국 L3 상용화 원년 선언.
-  2. 폭스바겐이 샤오펑 자율주행 SW 도입 — 중국 SW 기술력이 글로벌 최상위 도달한 상징적 사건.
-  3. 한국은 L3 규제 샌드박스 단계에 머무르며 **정책 격차 재확인**.
-- **왜 중요한가**: 美·中 로보택시 전쟁이 기술 우열 경쟁에서 **규제·라이선스 레이스**로 이동. $BIDU $PONY $WRD 재평가 촉매.
+- **제목**: 웨이모, 런던 공도 테스트 개시 — 첫 해외 상업 시장 선점 노린다
+- **원문 제목**: London gets closer to its first robotaxi service as Waymo begins testing
+- **소스**: https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/
+- **발행일시**: 2026년 4월 14일
+- **핵심 요약**: 웨이모가 4월 14일부터 런던 공도에서 자율주행 테스트를 공식 시작했다. 재규어 I-Pace 전기차 100대를 투입하여 100평방마일 면적을 커버하며, 초기에는 안전요원(human safety operator)이 탑승한다. 영국 정부의 최종 승인이 나면 런던은 웨이모의 첫 해외 상업 시장이 된다. 경쟁자로는 영국 스타트업 Wayve와 Uber·Baidu 연합이 있다.
+- **뉴스레터 앵글**: "웨이모가 미국을 넘어 런던을 노린다" — 미국 도시 11곳 진출에 이어 국제 확장 카드를 꺼냈다. 도쿄와 함께 런던을 해외 1호 상업 시장으로 선점하려는 전략적 의미를 짚는다.
+- **독자 가치**: $GOOGL 알파벳 주가에 직접 영향. 웨이모의 해외 확장이 기업가치 재평가로 이어질 수 있는 시점의 핵심 뉴스.
 
 ---
 
-## 카테고리별 뉴스
+### 서브 스토리 (5건)
 
-### 🏢 기업/M&A/투자
-| # | 제목 | 소스 | 요약 | 앵글 |
-|---|------|------|------|------|
-| 1 | AMD·Arm·Qualcomm, Wayve에 $60M 추가 투자 | [TechCrunch](https://techcrunch.com/2026/04/15/chipmakers-amd-arm-and-qualcomm-are-all-investing-in-this-buzzy-self-driving-tech-startup/) | 英 웨이브에 6천만불, 시리즈D $12억 확장분. | 반도체 빅3가 E2E AI 드라이빙에 베팅 — $NVDA 경쟁 구도 |
-| 2 | 현대모비스, R&D 2조원 투입·1만 시간 검증→1주로 단축 | [뉴스WA](https://www.news-wa.com/article/automobiles/new-car/2026/04/18/20260418500019) | 의왕 테크브릿지 2025서 SDV·자율주행 ECU 평가 플랫폼 공개. | "검증 속도"가 새 해자 — 글로벌 톱3 부품사 도약 시나리오 |
-| 3 | Atoms(T. 칼라닉), Pronto 인수 완료 — Atoms Mining 출범 | [TechCrunch](https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/) | 자율 채굴트럭 상업 배치. | 우버 창업자의 두 번째 모빌리티 빅스윙 |
-
-### 🚦 규제/정책
-| # | 제목 | 소스 | 요약 | 앵글 |
-|---|------|------|------|------|
-| 1 | NHTSA, FMVSS 102 개정 의견수렴 4/15 마감 | [Repairer Driven News](https://www.repairerdrivennews.com/2026/03/23/nhtsa-shares-autonomous-driving-system-research-rulemaking-update/) | 운전대·페달 없는 완전자율차의 변속기 표시 요건 면제. 2026년 4건 추가 입법예고 예정. | 트럼프 행정부 AV 프레임워크, 제도적 빗장 해제 가속 |
-
-### 🌏 중국·UAE 확장
-| # | 제목 | 소스 | 요약 | 앵글 |
-|---|------|------|------|------|
-| 1 | Chinese robotaxis forge ahead with UAE expansion | [CNBC](https://www.cnbc.com/2026/04/15/china-robotaxi-didi-weride-baidu-dubai-uae-expansion.html) | 바이두 아폴로고·위라이드, 두바이 유료 무인 서비스 개시. 포니AI 라이선스 신청 중. 바이두 2026년 3,000대 목표. | 중동이 중국 AV의 첫 글로벌 거점 — 지정학 리스크 속 가속 |
-
-### 🔧 기술/하드웨어
-| # | 제목 | 소스 | 요약 | 앵글 |
-|---|------|------|------|------|
-| 1 | Leapmotor D19, QNX+LiDAR+13개 카메라 센서퓨전 양산 임박 | [Hawaii Telegraph](http://www.hawaiitelegraph.com/news/278998549/leapmotor-selects-qnx-for-d19-premium-electric-suv-production-starts-april-2026) | 4/19 발표, 이달 말 양산. QNX SDP 8.0 기반 통합 아키텍처. | 중국 OEM의 "SDV 풀스택" 완성도 — BlackBerry QNX 수혜 |
-| 2 | Volvo Autonomous Solutions, 자율트럭 상업 배치 단계 | [Robotics & Automation News](https://roboticsandautomationnews.com/2026/04/15/interview-with-volvo-autonomous-solutions-driverless-trucks-are-upon-us/100636/) | 파일럿 → 상업 배치 전환, 미국 내 정기 화물 노선 운행. | 로보택시보다 먼저 수익화되는 "로보트럭" 테마 |
+| # | 제목 (한글) | 원문 제목 | 소스 URL | 발행일 | 핵심 요약 | 앵글 |
+|---|------------|----------|---------|--------|----------|------|
+| 1 | 테슬라 FSD, 네덜란드서 유럽 첫 승인 — 독일·프랑스 도미노 기대 | Tesla gets FSD Supervised approved in the Netherlands | https://electrek.co/2026/04/10/tesla-fsd-supervised-approved-netherlands-rdw-europe/ | 2026-04-10 | 네덜란드 차량등록청(RDW)이 UN Regulation 171 기준 하에 테슬라 FSD Supervised를 승인(4/10). 18개월 검토 + 160만km 유럽 도로 데이터 기반. 독일·프랑스·이탈리아는 4~8주 내 인정 예상. 월 €99 또는 일시납 €7,500. | $TSLA에 유럽이라는 거대 시장이 열린다. 미국 내 FSD 확산에 더해 유럽 수익화 스토리가 더해지는 국면 |
+| 2 | Lucid·Uber, 로보택시 1조 원 규모 파트너십 확대 — 차량 3.5만 대 배치 목표 | Lucid names new CEO as it raises over $1 billion and ramps up robotaxi ambitions | https://electrek.co/2026/04/14/lucid-names-new-ceo-raises-over-1-billion-ramps-robotaxi-ambitions/ | 2026-04-14 | Lucid가 사우디 PIF 자회사 Ayar(5.5억 달러)·Uber(2억 달러)로부터 총 10.5억 달러 조달. Uber는 Lucid Gravity 기반 로보택시 3.5만 대 구매 약속. Nuro 자율주행 시스템 탑재, 2026년 말 샌프란시스코 베이에어리어 상업 출시 목표. CEO도 교체. | 로보택시 공급망이 테슬라·웨이모 외 다극 체제로 재편 중. 사우디 오일머니가 자율주행 생태계에 깊숙이 들어오는 지정학적 맥락 |
+| 3 | 폭스바겐 MOIA, Uber 손잡고 LA 자율 마이크로버스 테스트 개시 | Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber | https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/ | 2026-04-08 | VW 자회사 MOIA가 자율주행 전기 미니밴 ID. Buzz 10대로 LA 공도 테스트 시작. 2026년 말 안전요원 탑승 유료 서비스, 2027년 완전 무인화 목표. 2027년 3분기까지 LA에 500대 이상 배치 계획. Uber 플랫폼 통해 예약 제공. | 웨이모 독주에 도전하는 두 번째 진영 — VW+Uber 연합이 LA를 발판으로 세력을 키운다 |
+| 4 | 테슬라 FSD v14.3 배포 — 반응속도 20% 개선, 플릿 학습 도입 | Tesla Unveils FSD 14.3 with 20% Faster Reactions and Fleet Learning | https://nationaltoday.com/us/tx/austin/news/2026/04/11/teslas-fsd-14-3-upgrade-boosts-autonomous-driving-with-fleet-learning/ | 2026-04-11 | FSD 14.3이 MLIR 기반으로 AI 컴파일러를 전면 재작성해 반응속도 20% 향상. 희귀·저시인성 시나리오 학습 능력 강화. 전용 Self-Driving 앱과 사용 '스트릭(연속 사용일수)' 기능 추가돼 구독 전환 유도. Spring 2026 업데이트 번들로 배포. | 기술 진화보다 중요한 것은 '구독 전환율' — 스트릭·게임화 전략으로 FSD 수익화를 본격화하려는 테슬라의 의도 읽기 |
+| 5 | 현대차·기아, 웨이모와 로보택시 공급 협력 가시화 | 현대차 아이오닉5·기아 PBV, 웨이모 6세대 자율주행 탑재 로보택시로 공급 추진 | https://www.news1.kr/industry/auto-industry/5583608 | 2026년 4월 (최근) | 현대차 아이오닉5가 웨이모 6세대 자율주행 시스템 탑재 로보택시로 양산이 가시화됐고, 기아도 첫 PBV를 웨이모 로보택시로 공급하는 방안 추진. 자율주행 역량(포티투닷·모셔널)을 엔비디아 플랫폼으로 통합하는 전략도 병행. | 현대·기아 입장에서 웨이모 협력은 단순 공급이 아닌 '자율주행 생태계 진입'의 발판. 모셔널의 라스베가스 상용화(2026년 말)와 맞물려 주목 |
 
 ---
 
-## 오늘의 인사이트 🔍
+### 트렌드 & 인사이트
 
-- **"L3 상용화 원년" 공식화**: 중국(충칭 1호 번호판), 미국(테슬라 Unsupervised), 유럽(웨이모 런던)이 같은 주에 각자 첫 포스트를 꽂았다. 2026년은 **규제·라이선스·도시 수** 3축으로 KPI가 재편된다.
-- **엔드투엔드 AI 드라이빙에 머니 몰림**: 웨이브 $60M·현대모비스 2조원·엔비디아+딥마인드+현대차 동맹 — 전통 OEM이 **모듈형 HD맵을 버리고 E2E 뉴럴넷으로 선회**. $NVDA·$GOOGL·$TSLA 삼국지에 한·중 플레이어가 합류.
-- **로보트럭·로보마이닝의 조용한 선점**: 칼라닉의 Atoms, 볼보 AS가 보여주듯 B2B 자율주행은 이미 **매출 인식 단계**. 개인 로보택시보다 현금흐름이 먼저 도는 구간.
+- **트렌드 1 — 로보택시 전쟁의 국제화**: 웨이모의 런던 테스트, Baidu·Uber의 런던 연합, Lucid-Nuro-Uber의 글로벌 배치 계획 등 로보택시 경쟁이 미국을 벗어나 유럽·아시아로 확산 중. 2026년이 '미국 실험 → 글로벌 상업화'의 변곡점.
+  - 근거: Waymo 런던(4/14), Lucid 3.5만 대 글로벌 배치(4/14), CaoCao 2030년 10만 대 목표(4/16)
+
+- **트렌드 2 — 자율주행 공급망 다극화**: 테슬라(카메라 비전 독자 노선), 웨이모(구글 계열), Lucid-Nuro-Uber 삼각 연합, VW-MOIA-Uber, 현대-웨이모 등 다양한 플레이어 연합이 형성. 한 기업의 독점보다는 '플랫폼 통합자(Uber)' 역할이 커지는 구조.
+  - 근거: Uber가 Waymo·Lucid·MOIA·Baidu 등 복수 자율주행 파트너와 동시 협력
+
+- **트렌드 3 — 유럽 자율주행 규제 개문**: 테슬라 FSD가 네덜란드에서 UN Reg. 171 기준 승인을 획득하며 유럽 시장 대문이 열렸다. 독일·프랑스·이탈리아 4~8주 내 인정 전망. 유럽 내 FSD 구독 수익이 2026년 하반기부터 테슬라 실적에 반영될 가능성.
 
 ---
 
-## 카피라이터 전달 사항 ✍️
-- **제목줄 후보**: "$TSLA 로보택시, 한 주만에 +12%…웨이모는 런던 상륙 🇬🇧"
-- **훅**: "지난 주말 자율주행 지도가 다시 그려졌다. 댈러스·휴스턴·런던·충칭 — 4개 도시, 3개 대륙, 1주일."
-- **CTA**: "머뉴 딥다이브 — $TSLA 옵션 플로우 분석 보러가기"
+### 추천 리소스
 
-## 분석가 전달 사항 📊
-- **A/B 제목 A**: "테슬라 4거래일 +12%, 댈러스·휴스턴 Unsupervised 개시"
-- **A/B 제목 B**: "L3 상용화 원년 — 충칭·런던·휴스턴에서 동시에 터진 한 주"
-- **키워드**: "Unsupervised robotaxi", "L3 번호판", "로보트럭 상업 배치", "E2E AI driving"
-- **관련 티커**: $TSLA $GOOGL $NVDA $BIDU $PONY $WRD $BB(BlackBerry QNX)
+| 리소스 | 유형 | 링크 | 추천 이유 |
+|--------|------|------|----------|
+| Waymo 공식 블로그 런던 테스트 현장 | 공식 블로그 | https://waymo.com/blog/shorts/autonomous-driving-in-london/ | 런던 공도 테스트 현장 영상 및 공식 코멘트 |
+| Tesla FSD EU 규제 승인 트래커 | 실시간 트래커 | https://fsdtracker.eu/ | EU 각국 FSD 승인 진행 상황 실시간 모니터링 |
+| Auto Connected Car News 4월 자율주행 종합 | 뉴스 허브 | https://www.autoconnectedcar.com/2026/04/autonomous-self-driving-vehicle-news-aymo-lucid-group-pif-uber-nuro-illinois-teamsters-massimo-group-aibo-robotics-gac-aion-weride-qualcomm-nvidia/ | 4월 자율주행 업계 전반 종합 뉴스 |
+
+---
+
+## 카피라이터 전달 사항
+
+1. **메인 스토리**: "웨이모의 런던 상륙" — 미국 11개 도시 정복 후 해외로 확장하는 웨이모의 야망을 중심 서사로. $GOOGL 주가 임팩트와 연결.
+2. **서브 스토리 1**: 테슬라 FSD 유럽 승인 — "드디어 유럽이 문을 열었다"는 기대감 강조. €99 vs $TSLA 수익화 스토리.
+3. **서브 스토리 2**: Lucid-Uber 빅딜 — "로보택시 공급망이 다극화됐다"는 메시지. 사우디 오일머니의 모빌리티 투자 각도.
+4. **서브 스토리 4**: FSD v14.3 — 기술 업데이트보다 '스트릭(게임화)' 전략에 포커스. 구독자가 더 흥미롭게 느낄 각도.
+5. **서브 스토리 5**: 현대·기아-웨이모 협력 — 국내 독자들에게 친숙한 브랜드 연결. "우리 차가 웨이모 로보택시가 된다"는 접근.
+6. **톤**: 머니네버슬립 스타일 — 전문적이면서 위트 있게. 이모지 적극 활용. 티커 심볼($GOOGL, $TSLA) 표기.
+
+---
+
+## 분석가 전달 사항
+
+1. **A/B 테스트 소재 후보**:
+   - 제목 A: "웨이모, 런던 상륙 — 로보택시 전쟁이 대서양을 건넜다"
+   - 제목 B: "2026 자율주행 빅뱅 — 웨이모 런던 + 테슬라 유럽 + Lucid 1조 딜"
+
+2. **트렌드 키워드** (SEO/소셜 활용 가능):
+   - 웨이모 런던, Tesla FSD 유럽, 로보택시 상용화, Lucid 로보택시, MOIA LA, 자율주행 규제 승인
+
+3. **관심 종목 연계**:
+   - $GOOGL: 웨이모 런던 → 해외 확장 모멘텀
+   - $TSLA: FSD 유럽 승인 → 구독 수익화 가속
+   - $NVDA: 현대차 자율주행 통합 플랫폼으로 채택
+
+---
+
+## 품질검증자 전달 사항
+
+- 메인 스토리 및 서브 스토리 1·2·4: 4월 10~15일 기사로 24시간 기준 다소 초과. 4월 20일 당일 신규 기사 추가 수집 권장.
+- 서브 스토리 5(현대·기아-웨이모): 발행일이 "4월 최근"으로 불명확. 정확한 날짜 재확인 필요.
+- 전체 기사 URL 유효성 최종 점검 필요.
+
+---
+
+*수집 기준일: 2026-04-20 | 소스: TechCrunch, Electrek, The Next Web, News1, Investing.com, Auto Connected Car News, Waymo Blog*
