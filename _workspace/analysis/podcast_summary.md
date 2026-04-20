@@ -1,33 +1,32 @@
-# 테크 팟캐스트 요약 — 2026-04-18
+# 테크 팟캐스트 요약 — 2026-04-20
 
-> 수집 기간: 2026-04-11 ~ 2026-04-18 | 대상: TBPN, Lenny's, 20VC, No Priors, All-In, Acquired, Lex Fridman
+> 수집 기간: 2026-04-13 ~ 2026-04-20 | 대상: TBPN, Lenny's, 20VC, No Priors, All-In, Acquired, Lex Fridman
 
 ---
 
-## 하이라이트 3선 (상세 요약)
+## 하이라이트 TOP 3
 
-### 1. All-In Podcast — "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence"
-- **발행일**: 2026-04-10
-- **에피소드**: #267 (89분)
-- **게스트**: Brad Gerstner (Altimeter Capital 창업자 & CEO) 특별 출연
+### 1. All-In Podcast — "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News" (E268)
+- **발행일**: 2026-04-17
+- **에피소드**: #268 (91분)
+- **게스트**: Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg (호스트 4인)
 - **주요 내용**:
-  Anthropic의 신형 AI 모델 'Mythos'가 사이버 무기 수준의 위험성으로 인해 외부 공개가 전면 차단된 사건을 중심으로 논쟁이 펼쳐졌다. Chamath, Sacks, Calacanis, Friedberg 및 Brad Gerstner는 Mythos 차단이 진정한 안보 우려인지 아니면 Anthropic의 마케팅 전략인지를 두고 설전을 벌였다. Anthropic의 ARR이 $1B에서 $30B으로 급증한 배경과 AI 코딩 도구 시장에서의 독점적 지위를 집중 분석했다. OpenClaw(OpenAI의 새 제품)가 시장에서 고전하는 이유와 Anthropic이 엔터프라이즈 AI 코딩 시장을 장악하게 된 구조적 요인도 다뤘다. 이란-이스라엘 지정학 긴장과 대외 정책에서의 AI 활용 가능성까지 확장되어 AI-안보 교차점을 탐구했다.
+  OpenAI가 내부 유출 메모와 엔터프라이즈 전략 전환으로 심각한 정체성 위기를 맞이한 상황을 집중 해부했다. 앤트로픽이 밸류에이션에서 OpenAI를 역전하는 분위기가 형성됐고, 빅테크의 컴퓨트 독점 문제가 프론티어 AI 랩들의 미래를 좌우할 핵심 변수로 거론됐다. 데이터센터 전쟁의 실체와 AI 인프라 패권 경쟁 심층 논의와 함께, 이란전 휴전 소식에 시장이 급등한 배경도 연결해서 분석했다. Allbirds의 AI 피벗 후 주가 400% 급등 사례도 다루며 AI 전환이 기업 밸류에이션에 미치는 즉각적 효과를 짚었다. 정치 섹션에서는 에릭 스월웰 의원의 캘리포니아 주지사 경선 탈퇴 및 의회직 사임을 다뤘다.
 - **핵심 인사이트**:
-  1. Anthropic의 Mythos 모델: "사이버 무기"로 분류될 수준의 역량을 갖춰 공개가 차단됨 — AI 안전 논쟁의 새 전선 개막
-  2. Anthropic ARR $30B 돌파: 기업용 AI 코딩 도구(Claude for Code)가 성장 엔진, OpenAI와의 기업 시장 경쟁에서 우위 점유
-  3. 오픈소스 AI 생태계(OpenClaw 등)의 한계: 엔터프라이즈 신뢰·보안·지원 측면에서 폐쇄형 모델에 밀리는 구조 확인
-  4. Brad Gerstner 관점: AI 인프라 투자 사이클은 아직 초입, 2026~2027년이 진짜 변곡점
-- **머뉴 인사이트**: Anthropic의 $30B ARR 달성과 Mythos 차단 이슈는 $GOOGL(Gemini), $MSFT(Copilot) 등 경쟁사 대비 Anthropic의 기업 시장 침투력을 부각시킨다. 비상장인 Anthropic에 직접 투자는 불가하나, Anthropic 최대 투자자인 Amazon($AMZN)과 Google($GOOGL)의 AI 모멘텀 수혜 관점이 유효하다.
-- **관련 종목**: $GOOGL, $MSFT, $AMZN, $NVDA
+  1. OpenAI 정체성 위기: 유출 메모가 폭로한 엔터프라이즈 피벗 내홍 — 소비자용 ChatGPT와 B2B 전략 사이 갈등 심화
+  2. 앤트로픽 밸류에이션 역전: AI 코딩 시장 지배력 기반으로 OpenAI 대비 투자자 신뢰 우위 가능성 부상
+  3. 빅테크 컴퓨트 독점: $MSFT·$GOOGL·$AMZN의 데이터센터 장악이 독립 AI 랩의 생존 비용을 구조적으로 올리는 메커니즘
+- **머뉴 인사이트**: OpenAI의 엔터프라이즈 전략 혼선은 $MSFT 코파일럿 사업부의 단기 불확실성 요인이나, 앤트로픽 강세는 $GOOGL·$AMZN(앤트로픽 최대 투자자)에 AI 리더십 수혜를 줄 수 있다.
+- **관련 종목**: $MSFT, $GOOGL, $AMZN, $NVDA
 - **링크**:
-  - Apple Podcasts: https://podcasts.apple.com/us/podcast/anthropics-%2430b-ramp-mythos-doomsday-openclaw-ankled/id1502871393?i=1000760748945
-  - 공식 사이트: https://allin.com/episodes
+  - YouTube: https://www.youtube.com/watch?v=SFdqX7IY7RY
+  - Apple Podcasts: https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393
 
 ---
 
 ### 2. Lenny's Podcast — "Head of Growth (Anthropic): 'Claude is growing itself at this point' | Amol Avasare"
-- **발행일**: 2026-04-14 (에피소드 공개) / 실질 녹화 기준 2026-04-05 전후
-- **에피소드 길이**: 1시간 53분
+- **발행일**: 2026-04-05
+- **에피소드 길이**: 1시간 52분
 - **게스트**: Amol Avasare (Anthropic Head of Growth; 전 Mercury·MasterClass 그로스팀)
 - **주요 내용**:
   Anthropic이 ARR $1B에서 $19B으로 14개월 만에 성장한 비결을 당사자인 그로스 헤드가 직접 공개했다. Amol은 채용 공고도 없던 Anthropic에 Mike Krieger(CPO, Instagram 공동창업자)에게 콜드 이메일을 보내 합류한 스토리를 공유했다. 가장 주목할 부분은 Anthropic 내부에서 Claude를 활용해 그로스 실험을 자동화하는 도구 'CASH(Claude-Automated Scaling Hub)'의 존재를 공개한 것이다 — "Claude가 Claude를 성장시키고 있다"는 의미. 일반적 그로스팀이 소규모 A/B 테스트에 70%, 빅벳에 30%를 쏟는 것과 반대로, Anthropic은 빅벳 70%·소규모 최적화 30% 전략을 택한다는 점도 공유했다. AI 시대에 PM 대 엔지니어 비율이 역전될 수 있다(PM이 더 많아질 수도)는 논의도 포함됐다.
@@ -67,21 +66,32 @@
 
 | 팟캐스트 | 에피소드 제목 | 발행일 | 한줄 요약 |
 |---------|-------------|--------|---------|
-| **TBPN** | "OpenAI Acquires TBPN" (OpenAI, TBPN 인수 발표 라이브) | 2026-04-02 | OpenAI가 TBPN을 수억 달러에 인수 — Jordi Hays·John Coogan이 생방송으로 발표, "편집권 독립 유지" 강조 |
-| **TBPN** | "Thomas Laffont Interview — From Hollywood to Legendary Tech Investor" | 2026-04-07 | Coatue Management 공동창업자 Thomas Laffont가 할리우드 어시스턴트에서 테크 VC 거물이 된 여정과 Apple 조기 발굴 스토리 공개 |
-| **20VC** | "DeepMind's Demis Hassabis on Why AGI is Bigger than the Industrial Revolution" | 2026-04-07 | Google DeepMind CEO가 AGI 5년 내 달성 전망, LLM 상품화 부정, AI 에너지 위기, 불평등 문제를 해리 스테빙스와 심층 논의 |
-| **No Priors** | Ep. 156 — "The Agentic Economy: How AI Agents Will Transform" (에이전트 경제: AI 에이전트가 변혁할 미래) | 2026-04-09 | Circle CEO Jeremy Allaire가 AI 에이전트를 위한 결제 인프라(Arc Blockchain)와 스테이블코인 USDC의 역할, GDP 두 자릿수 성장 전망 공유 |
-| **Lex Fridman** | #495 — "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age" (바이킹: 라그나르, 버서커, 발할라) | 2026-04-09 | 역사학자 Lars Brownworth와 300년간 중세를 재편한 바이킹 문명 심층 탐구 — 테크 투자와 직접 연관 낮음 |
-| **Lex Fridman** | #494 — "Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution" | 2026-03-23 | NVIDIA CEO 젠슨 황이 익스트림 코디자인 철학, CUDA 전략, 1:1 미팅 없는 조직 문화, AI 혁명의 미래를 3시간 이상 심층 공개 |
+| **All-In** | E267 — "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire" | 2026-04-10 | Brad Gerstner 특별 출연, Anthropic Mythos 모델 차단 논쟁·$30B ARR 달성 배경 심층 분석 |
+| **All-In** | "Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race" | 2026-04-08 | 민주당 차기 유력 대선 주자 펜실베이니아 주지사의 경제·외교 정책 견해 (62분) |
+| **All-In** | "The State of Modern War: Palantir & Anduril Execs on Drones, AI, and the End of Traditional Warfare" | 2026-04-06 | 드론·AI 전쟁 시대 선언 — $PLTR 투자자 필수 청취 (69분) |
+| **TBPN** | CZ (Binance 창업자) 전체 인터뷰 | 2026-04-10 | CZ의 법적 분쟁 후 복귀 스토리, 크립토 규제·프라이버시 솔직 견해 — $COIN 관련 |
+| **TBPN** | Thomas Laffont (Coatue Management) 인터뷰 | 2026-04-07~08 | CAA 메일룸 → 할리우드 → AI/반도체 투자 거물, Coatue 창업 여정 공개 |
+| **Acquired** | Ferrari | 2026-04-13 | 79년간 33만 대 판매, F1 4억 팬과의 모순적 공존 — 극단적 희소성 비즈니스 모델 해부 ($RACE) |
+| **20VC** | Jake Paul & Geoffrey Woo (Anti Fund) | 2026-04-14 | $3,000만 규모 인플루언서 VC 실험, 유튜버 출신 VC가 전통 VC와 맞서는 Anti Fund 전략 |
+| **Lex Fridman** | #495 — "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age" | 2026-04-09 | 역사학자 Lars Brownworth와 바이킹 문명 심층 탐구 — 테크 투자 직접 관련성 낮음 |
+| **Lex Fridman** | #494 — "Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution" | 2026-03-23* | NVIDIA CEO 젠슨 황, 익스트림 코디자인·CUDA 전략·AGI 타임라인 3시간 심층 공개 ($NVDA 필독) |
+
+> *#494는 1주일 범위 외 에피소드이나 이번 주에도 활발히 회자 중
 
 ---
+
+## 이번 주 핵심 테마 정리
+
+1. **OpenAI vs. 앤트로픽 패권 전쟁 격화**: OpenAI 정체성 위기(E268)와 앤트로픽 $30B ARR(E267)이 같은 주에 터지며 AI 왕좌 경쟁 절정. $MSFT·$GOOGL·$AMZN 지분 구도가 투자 관점의 핵심 판단 기준
+2. **AI 미디어 전쟁 개막**: OpenAI의 TBPN 인수는 AI 기업이 직접 서사를 통제하는 전략의 시작. 이는 테크 저널리즘 생태계 변화를 의미하며 미디어 관련 종목에도 장기 영향
+3. **럭셔리 희소성 모델 재조명**: Acquired의 Ferrari 에피소드가 "AI 시대에도 희소성 기반 프리미엄 브랜드는 불변"이라는 반론을 제기 — $RACE는 AI 포트폴리오 헤지 옵션으로 재평가 가능
 
 ## 큐레이터 공유 사항
 
-팟캐스트 전반에서 **Anthropic Mythos** 이슈가 지배적 테마로 부상했습니다. All-In Ep.267, The Register Kettle 팟캐스트, This Week in Startups 등 여러 채널에서 동시 다발적으로 다뤄지고 있으며, 블룸버그도 4월 16일 심층 기사를 게재했습니다. Mythos의 차단 배경과 AI 안전 논쟁은 이번 주 뉴스레터 자율주행/AI 섹션과 직접 연결됩니다.
+**카피라이터에게**: All-In E268의 "OpenAI 정체성 위기" 테마와 Lenny의 "Claude가 Claude를 성장시킨다" 프레임을 이번 주 AI 섹션 헤드라인으로 활용 추천합니다.
 
-**TBPN + OpenAI 인수** 이슈도 주목 — "AI 기업이 미디어를 직접 인수하는" 트렌드의 첫 사례로, 테크 저널리즘 생태계 변화 관련 큐레이션과 연계 추천합니다.
+**큐레이터 팀에게**: All-In E267에서 다룬 Anthropic Mythos 모델 차단 이슈는 이번 주 AI 뉴스 큐레이션의 주요 사건과 겹칩니다. TBPN의 OpenAI 인수 에피소드는 "AI 기업의 미디어 직접 장악" 트렌드 큐레이션과 연계 추천합니다.
 
 ---
 
-*수집일: 2026-04-18 | 출처: Apple Podcasts, Spotify, 팟캐스트 공식 사이트, TechCrunch, CNBC, Bloomberg*
+*수집일: 2026-04-20 | 출처: Apple Podcasts, Spotify, YouTube, 팟캐스트 공식 사이트, TechCrunch, CNBC, Slate, NPR, Inc.*
