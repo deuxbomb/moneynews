@@ -17,11 +17,11 @@ if not WEBHOOK_URL:
     print("❌ SLACK_WEBHOOK_URL 환경변수가 설정되어 있지 않습니다.")
     sys.exit(1)
 
-SLACK_CHAR_LIMIT = 3800  # 슬랙 분할 방지 (4000자 미만)
+SLACK_CHAR_LIMIT = 39000  # 슬랙 text 필드 한도 40KB. 긴 메시지는 "더 보기"로 접힘 (분할 아님)
 
 
 def extract_slack_summary(md_path):
-    """마크다운에서 PART 1(3분 캐치업) + 주요 헤드라인만 추출"""
+    """마크다운을 슬랙 친화적 포맷으로 변환 (전체 내용 포함)"""
 
     with open(md_path, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -33,18 +33,9 @@ def extract_slack_summary(md_path):
     result = []
     in_table = False
     table_rows = []
-    current_part = 0
 
     for line in lines:
         stripped = line.strip()
-
-        # PART 감지
-        if re.search(r'PART\s*[23456789]|딥다이브|팟캐스트|상세\s*기사', stripped, re.IGNORECASE):
-            current_part = 2  # PART 2 이상이면 중단
-
-        # PART 1만 포함 (3분 캐치업 + 관심 종목까지)
-        if current_part >= 2:
-            break
 
         # 테이블 처리 → 리스트로 변환
         if stripped.startswith('|') and '|' in stripped[1:]:
