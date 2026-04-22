@@ -1,103 +1,91 @@
-# 테슬라, 오늘 밤 1조 달러의 답을 내놓는다 💡
+# 오클로($OKLO) 완전 해부 — 원자력 르네상스의 가장 위험한 베팅
 
-*2026년 4월 22일 — $TSLA Q1 실적 발표 당일 딥다이브*
-
----
-
-## 자동차를 덜 팔았는데 시총은 그대로다
-
-테슬라는 지난 분기에 차를 덜 팔았습니다. 2025년 전체 인도량은 163만 대로 전년 대비 8.5% 줄었고, 2년 연속 판매 감소는 회사 역사상 처음 있는 일이에요. 그런데도 시총은 여전히 약 1.3조 달러(약 1,800조 원)입니다.
-
-이 역설의 답이 오늘 밤 나옵니다. 한국 시각 4월 23일 오전 6시 30분, 테슬라가 Q1 2026 실적을 발표합니다. "테슬라는 자동차 회사인가, AI 회사인가" — 이 1조 달러짜리 질문에 대한 첫 번째 진지한 답변이 될 테니까요.
+**📊 종목 해부 | 2026.04.22**
 
 ---
 
-## 📊 숫자로 보는 Q1의 민낯
+"매출 0원, 시가총액 109억 달러."
 
-### 인도량: 컨센서스를 밑돌았다
-
-Q1 2026 인도대수는 358,023대. 월가 컨센서스 365,645대에서 7,622대 부족합니다. 그보다 더 눈에 띄는 건 생산량인데요. 테슬라는 이 기간 약 408,000대를 만들었습니다. 팔린 것보다 50,363대 더 많이 만들었다는 뜻이에요. 주차장에 차가 쌓이고 있는 겁니다.
-
-### 에너지 사업: 급격한 역주행
-
-또 하나의 찬물이 에너지 저장 사업에서 쏟아졌습니다. Q1 2026 에너지 저장 배포량은 8.8 GWh. Q4 2025의 14.2 GWh 대비 무려 38% 급감입니다. 애널리스트 컨센서스(12~14 GWh)를 30% 이상 밑도는 수준이에요. Q4 2025에 29.8%의 놀라운 마진을 기록했던 에너지 사업이 이렇게 꺾이면, 전체 실적을 받쳐줄 버팀목이 없어집니다.
-
-### 마진: 17%가 마지노선
-
-오늘 결과에서 투자자들이 가장 예의주시하는 건 자동차 총마진입니다. 월가 컨센서스는 약 17.5%. 하지만 이 수치가 17% 아래로 떨어지는 순간, "수익성 방어" 내러티브가 무너집니다. 참고로 테슬라의 EV/EBITDA는 95.7배인데, GM이 7.4배, BYD가 7.2배입니다. 자동차 회사로 보기엔 너무 비싼 밸류에이션이 지금 마진에 걸려 있는 거예요.
+이 한 줄이 오클로(Oklo Inc.)라는 회사의 현재를 가장 정확하게 요약한다. 2025년 9월 아이다호 국립연구소에서 첫 오로라(Aurora) 원자로 기공식을 올렸을 때, 주가는 20달러대였다. 그로부터 7개월, 주가는 한때 194달러까지 치솟았다가 현재 62달러 부근에서 숨을 고르고 있다. 이 회사가 만드는 건 소형모듈원자로(SMR)다. 정확히는 '마이크로리액터'—데이터센터 하나, 군사기지 하나에 딱 맞는 15~75MW급 소형 원자력 발전소. 기존 원전이 아파트 단지라면, 오클로의 오로라는 개인 주택이다. 액체금속 냉각재와 금속 연료를 쓰는 고속 중성자로 방식으로, 기존 원전의 사용후핵연료까지 재활용할 수 있다는 게 핵심 차별점이다. OpenAI의 샘 올트먼이 SPAC을 통해 상장을 이끌었고(2024년 5월), 2025년 4월까지 이사회 의장을 맡았다. AI 시대의 전력 수요 폭증이라는 거대한 내러티브 위에 올라탄 기업이다.
 
 ---
 
-## 🚗 진짜 실적 발표는 컨퍼런스콜에서 시작된다
+## 숫자로 보는 현재
 
-### 4월 18일: 로보택시의 텍사스 상륙
+| 항목 | 수치 |
+|------|------|
+| 주가 (4/21 종가) | $62.61 (-8.10%) |
+| 시가총액 | $108.7억 |
+| 52주 범위 | $19.89 ~ $193.84 |
+| EPS (TTM) | -$0.72 |
+| 2026E EPS | -$0.81 |
+| 매출 (TTM) | $0 |
+| 2026E 매출 | $32.9만 |
+| 현금 보유 | ~$25억 (2026.1 유증 후) |
+| 부채비율 | 0% |
+| 직원 수 | 205명 |
+| 애널리스트 컨센서스 | Strong Buy (13명) |
+| 평균 목표가 | $99.58 (+59%) |
 
-실적 발표 나흘 전인 4월 18일, 테슬라는 Dallas와 Houston에서 무감독(unsupervised) 로보택시 서비스를 시작했습니다. 운전석에 안전 요원이 없습니다. 앱으로 호출하면 차가 오고, 정해진 지오펜스 안에서 완전 자율로 목적지까지 데려다 줍니다.
-
-현재 Austin, Dallas, Houston 3개 도시에서 573대가 운행 중이고, 2026년 6월까지 Phoenix, Miami, Orlando, Tampa, Las Vegas까지 포함해 총 7개 이상 도시로 확장할 계획입니다. 완전히 무인으로 설계된 Cybercab(스티어링 휠·페달 없음)은 이미 4월부터 Giga Texas에서 양산에 들어갔어요. 가격 목표는 약 $25,000(약 3,400만 원)입니다.
-
-### FSD v14에서 v15로: 10배의 도약
-
-소프트웨어 쪽에서도 큰 변화가 준비 중입니다. 현재 배포 중인 FSD v14.3.1은 강화학습(RL)과 신경망 비전 인코더를 대폭 개선했고, 누적 주행 데이터는 이미 84억 마일을 넘었습니다. 그리고 머스크는 v15의 존재를 공개했는데요.
-
-배경이 흥미롭습니다. 머스크는 이렇게 말했어요: *"Our rate of advancement with the small model has been so fast that the large model has not yet caught up. V15 will be the large model."* 즉, 소형 모델이 너무 빠르게 발전한 나머지, 더 큰 모델로 도약이 필요해진 겁니다.
-
-v15의 핵심은 신경망 파라미터의 10배 확장입니다. 현재 10억 개에서 100억 개로 늘어납니다. 머스크는 덧붙였어요: *"V15 will far exceed human levels of safety, even in completely unsupervised and complex situations."* 출시는 2026년 하반기로 예상됩니다.
-
-네덜란드 RDW도 유럽 최초로 FSD(감독형)를 공식 승인했습니다. 현재 미국, 캐나다, 중국, 멕시코, 한국 등 8개국에서 사용 가능하며 글로벌 확산이 가속되고 있어요.
-
----
-
-## 🔮 오늘 밤의 시나리오: Bull vs Bear
-
-### 🟢 Bull Case — "AI 회사로의 완전한 전환"
-실적이 컨센서스($21.4B)를 살짝이라도 상회하고, 자동차 마진이 17%를 수호하며, 컨퍼런스콜에서 Cybercab 생산 가이던스와 7개 도시 로보택시 확장 로드맵이 구체적으로 나온다면? 시장은 이걸 "전환점"으로 읽을 겁니다. 옵션 시장이 예상하는 ±5% 변동폭을 넘어 +10% 이상 급등도 가능해요. 목표주가 $600을 제시하는 애널리스트들의 논리가 바로 이 시나리오입니다.
-
-### 🔴 Bear Case — "자동차 회사의 민낯"
-에너지 사업 급감(-38%)이 본격 반영되고, 자동차 마진이 17% 아래로 떨어지면 얘기가 달라집니다. Jefferies는 이미 Q1 자동차 마진을 15.5%로 예상 중이에요. 50,000대 재고 해소를 위한 추가 할인 가능성까지 제기된다면? 1.3조 달러 밸류에이션을 지탱하는 AI 내러티브가 흔들립니다. DCF 펀더멘털 가치는 약 2,500억 달러 수준으로 추정되는데, 시총의 5분의 1이에요. $119 목표주가를 제시하는 쪽이 이 시나리오를 씁니다.
-
-### ⚪ Base Case — "또 한 번의 기대치 관리"
-예상치와 비슷한 결과가 나오고, 머스크가 컨퍼런스콜에서 로보택시 확장에 낙관적 메시지를 내놓으면? 장 마감 후 ±3% 안에서 움직일 가능성이 높습니다. 이 경우 "결론 없는 실적"으로 기록되며, AI 논쟁은 다음 분기로 넘어갑니다.
+2025년 영업손실 1.39억 달러. 2026년 현금 소진 가이던스 0.8~1억 달러. 매출이 사실상 없는 상태에서 109억 달러의 밸류에이션은 순전히 '미래 가치'에 대한 베팅이다. 다만 25억 달러의 현금은 최소 5년간의 런웨이를 보장한다. PER, PSR 같은 전통적 밸류에이션 지표는 무의미하며, PBR 6.81배가 유일하게 의미 있는 숫자다. 경쟁사 NuScale(SMR)은 이미 NRC 설계인증을 받았지만 상업 운전 실적은 마찬가지로 없다.
 
 ---
 
-## 💡 투자 시사점
+## 강점 3가지
 
-옵션 시장은 이미 정보를 선반영하고 있습니다. 콜 감마 $400, 풋 감마 $380이 지지·저항선으로 형성됐고, 예상 변동폭은 역사적으로 낮은 ±5% 수준이에요. 이건 "큰 서프라이즈를 기대하지 않는다"는 시장의 신호입니다.
+**1. AI 빅테크의 전력 파트너로 부상**
+2026년 1월 메타(Meta)와 오하이오주에 1.2GW 규모 원전 캠퍼스 건설 계약을 체결했다. 2030년 1차 가동, 2034년 풀 스케일 목표. 메타 외에도 DOE 원자로 파일럿 프로그램에서 3개 프로젝트 슬롯을 확보(오클로 2개, 자회사 아토믹 알케미 1개)했다. 빅테크가 원전에 직접 투자하는 시대, 오클로는 가장 앞줄에 서 있다.
 
-Jefferies는 실적 발표 이틀 전(4월 20일) 목표주가를 $300에서 $350으로 올렸습니다(Hold 유지). 반면 오늘 장중 주가는 $385~396 사이를 오가며 이미 상당한 기대를 반영한 상태예요.
+**2. 핵연료 재활용이라는 독보적 기술**
+오클로의 고속로는 기존 원전의 사용후핵연료를 재활용할 수 있다. 미국에 쌓여 있는 8만 톤 이상의 사용후핵연료가 곧 연료 공급원이 된다. 2025년 11월 DOE로부터 핵연료 제조시설(A3F) 설계안전합의서도 승인받았다. HALEU(고농축 저농축 우라늄) 공급망 병목이 업계 전체의 문제인 상황에서, 연료 자급 능력은 결정적 경쟁우위다.
 
-**$TSLA를 보유 중인 분들께**: 오늘 밤 가장 중요한 건 EPS보다 컨퍼런스콜입니다. 머스크가 Cybercab 생산 램프업, 7개 도시 로보택시 타임라인, FSD v15 출시 일정에 대해 얼마나 구체적인 숫자를 내놓느냐가 주가 방향을 결정할 거예요. "AI 회사"라는 주장을 지지하는 건 사업 실적이 아니라 결국 로드맵의 설득력이니까요.
+**3. 현금 25억 달러—시간을 살 수 있는 체력**
+2026년 1월 11.8억 달러 유증 완료 후 현금 보유액 약 25억 달러. 부채 제로. 연간 현금 소진 1억 달러 수준이라면 최소 5~7년간 추가 자금 조달 없이 버틸 수 있다. 원자력 사업의 최대 리스크인 '자금 고갈'을 당분간 걱정할 필요가 없다는 뜻이다.
 
 ---
 
-## 머뉴's Advice 🎯
+## 약점 3가지
 
-1. **오늘 밤 컨퍼런스콜 3가지만 확인하세요**: ① 자동차 총마진 (17% 사수 여부), ② Cybercab 2026년 인도 가이던스, ③ FSD v15 출시 타임라인
-2. **Waymo와 비교하세요**: Waymo는 이미 주당 45만 건 이상 유료 탑승 중. 테슬라의 573대는 아직 갈 길이 멉니다. 로보택시 내러티브는 실적이 아닌 '속도'로 평가해야 해요.
-3. **밸류에이션 함정 주의**: $1.3T 시총 중 최소 $500B은 AI와 로보택시에 대한 '믿음'입니다. 오늘 실적이 그 믿음을 강화하느냐 희석하느냐가 핵심이에요.
+**1. 내부자 매도가 너무 노골적이다**
+지난 6개월간 내부자 거래 165건, 전부 매도. 공동창업자인 CEO 제이콥 드위트와 COO 캐롤라인 코크런이 각각 약 1.75억 달러 상당을 매각했다. 총 3.64억 달러. 주식보상 행사에 따른 세금 목적 매도라는 설명이 있지만, 이 규모는 시장에 불편한 신호를 보낸다. "우리 회사의 미래를 믿는다"면서 주식을 이렇게 파는 건 설득력이 약하다.
 
-이번 실적이 $1.3조 달러짜리 테슬라를 정당화할까요, 아니면 1조 달러짜리 환상에 첫 균열을 낼까요? 🚗
+**2. 매출 0원인데 시총 109억 달러**
+오로라 원자로의 상업 운전은 빨라야 2028~2030년. 그때까지 의미 있는 매출은 없다. 2026년 예상 매출 33만 달러는 사실상 통계적 오차 수준이다. NRC 인허가 지연, 건설 비용 초과, 기술적 난관 등 어느 하나라도 어긋나면 상업화는 수년 더 밀린다. 희석도 이미 진행 중—2025년 주식 수가 전년 대비 23% 증가했고, 15억 달러 규모의 ATM 프로그램이 추가로 대기 중이다.
+
+**3. 경쟁이 갈수록 치열하다**
+NuScale은 NRC 설계인증을 이미 보유하고 있고, Constellation Energy와 Vistra는 기존 원전을 활용해 빅테크에 전력을 '지금 당장' 공급할 수 있다. 배터리 저장 기술의 급속한 발전도 위협 요인이다. 그리드 수준의 배터리가 태양광+풍력의 24시간 백업을 가능하게 하면, 마이크로리액터의 경제성은 크게 약화된다.
+
+---
+
+## Bull vs Bear Case
+
+**Bull Case 🐂**: AI 데이터센터의 전력 수요는 2030년까지 3배 이상 폭증하며, 재생에너지만으로는 24/7 베이스로드를 감당할 수 없다. 오클로는 메타 계약(1.2GW)을 시작으로 빅테크 원전 공급자의 표준이 된다. 2026년 7월 DOE 파일럿 프로그램 임계 달성 시, NRC 인허가 가속화의 교두보가 마련된다. 핵연료 재활용 기술은 HALEU 공급 부족 시대에 독보적 해자(moat)가 되며, 25억 달러 현금은 상업화까지의 시간을 충분히 벌어준다. 목표가: $100~$150.
+
+**Bear Case 🐻**: 2025~2026년에 이미 3.64억 달러를 매각한 내부자들이 회사의 타임라인을 누구보다 잘 안다. NRC 인허가는 예측 불가능하게 지연될 수 있고(2020년 첫 신청은 거부당했다), 매출 0원 상태에서의 반복적 희석은 주가를 갉아먹는다. 배터리+재생에너지 조합이 SMR보다 빠르게 경제성을 확보하면, 오클로의 시장 자체가 축소될 수 있다. 기존 원전 사업자들의 빅테크 납품도 이미 시작됐다. 목표가: $25~$40.
+
+---
+
+## 지금 사야 하나?
+
+냉정하게 보자. 주가 $62.61, 애널리스트 평균 목표가 $99.58(+59%). 13명 중 11명이 매수 의견이다. 하지만 이 회사는 **매출이 0원**이다. 상업화까지 최소 2~4년, NRC 인허가라는 거대한 불확실성이 남아 있다. 52주 고점($193.84) 대비 68% 하락한 지금이 "싸다"고 느낄 수 있지만, 전통적 밸류에이션 기준으로는 여전히 비싸다. **풀 포지션 진입보다는 분할 매수가 합리적**이며, 포트폴리오의 5% 이내로 제한하는 것이 현명하다. 2026년 7월 DOE 파일럿 임계 달성 여부가 첫 번째 중대 변곡점이다.
+
+---
+
+## 머뉴's Advice
+
+> 오클로는 "비전은 S급, 실적은 F급"인 전형적 꿈의 주식이다. 원자력 르네상스라는 메가트렌드는 진짜지만, 오클로가 그 수혜의 중심에 설지는 아직 증명되지 않았다. 내부자들이 3.6억 달러를 팔아치우는 동안 개인투자자가 풀 베팅하는 건 현명하지 않다. **관심 목록에 올리되, 7월 DOE 임계 달성 결과를 확인한 후 본격 진입해도 늦지 않다.** 원자력은 마라톤이지, 스프린트가 아니다.
 
 ---
 
 ## 출처
 
-1. Tesla Q1 2026 실적 발표 일정 및 예상치: https://coindcx.com/blog/us-stock/tesla-earnings-q1-2026-preview/
-2. Tesla Q1 2026 인도대수 (358,023대) 및 재고 과잉 (50,363대): https://www.tradingkey.com/analysis/stocks/us-stocks/261804129-tesla-q1-2026-earnings-preview-5-key-metrics-tradingkey
-3. 에너지저장 8.8 GWh (-38% QoQ) 및 마진 데이터: 검색 결과 종합 (Tradingkey, CNBC, Yahoo Finance)
-4. 2026 CapEx $20B+ 가이던스: https://www.indexbox.io/blog/tesla-stock-a-long-term-bet-on-ai-and-autonomous-tech/
-5. 로보택시 Dallas/Houston 런치 (4/18/2026): https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/
-6. 로보택시 3개 도시 573대, 7개 도시 계획: https://tech-insider.org/tesla-robotaxi-dallas-houston-unsupervised-launch-2026/
-7. Cybercab 생산 개시 (4월 Giga Texas), 60대 목격, $25K 목표가: https://teslanorth.com/2026/04/08/record-60-tesla-cybercabs-spotted-at-giga-texas-as-production-ramp-begins/
-8. FSD v14.3.1 세부사항, 누적 84억 마일: https://www.notateslaapp.com/software-updates/version/2026.2.9.7/release-notes
-9. FSD v15 10배 파라미터 (10억→100억) / 머스크 발언: https://teslanorth.com/2026/04/09/tesla-fsd-v15-musk-teases-unsupervised-safety-with-10x-larger-ai-model/
-10. 머스크 FSD v15 두 번째 인용 (large model 설명): https://www.notateslaapp.com/news/3933/elon-musk-fsd-10x-parameter-upgrade-now-coming-with-v15
-11. 머스크 FSD 슬리피지 역사: https://electrek.co/2026/04/09/elon-musk-tesla-fsd-v15-safer-than-humans-same-claim-every-version/
-12. 네덜란드 FSD 승인 / 글로벌 8개국: https://www.teslaoracle.com/2026/04/03/tesla-rolls-out-the-2026-8-6-update-which-hints-at-fsd-v14-launch-in-europe-release-notes/
-13. Tesla 밸류에이션 (P/E 300x, EV/EBITDA 95.7x, DCF $250B, 목표주가 $119~$600): https://www.tradingkey.com/analysis/stocks/us-stocks/261732341-tesla-2026-stock-analysis-ai-robotaxi-valuation-tradingkey
-14. 주가 당일 범위 ($385~$396), 옵션 ±5% 예상: https://seekingalpha.com/article/4892409-tesla-earnings-reaction-may-be-more-subdued-than-usual
-15. Jefferies 목표주가 $300→$350 (4월 20일, Hold): https://www.tipranks.com/news/the-fly/tesla-price-target-raised-to-350-from-300-at-jefferies-thefly-news
-16. Jefferies Q1 자동차 마진 15.5% 예상: https://www.investing.com/news/analyst-ratings/jefferies-raises-tesla-stock-price-target-to-350-on-growth-outlook-93CH-4623728
-17. Waymo 주당 45만 건 탑승 / 1억 5천만 무인 마일: 검색 결과 종합 (Medium 분석 기사)
-18. 2025년 연간 인도 1.63M (-8.5% YoY), 2년 연속 감소: https://www.tradingkey.com/analysis/stocks/us-stocks/261732341-tesla-2026-stock-analysis-ai-robotaxi-valuation-tradingkey
+- [Finviz — OKLO Quote](https://finviz.com/quote.ashx?t=OKLO)
+- [Stock Analysis — OKLO Forecast](https://stockanalysis.com/stocks/oklo/forecast/)
+- [Motley Fool — Is Oklo Stock a Buy, Sell, or Hold?](https://www.fool.com/investing/2026/04/21/is-oklo-stock-a-buy-sell-or-hold-after-its-nuclear/)
+- [Motley Fool — Nuclear Stock Face-Off: Oklo vs Cameco](https://www.fool.com/investing/2026/04/21/nuclear-stock-face-off-is-oklo-or-cameco/)
+- [24/7 Wall St. — White House Space Nuclear Mandate](https://247wallst.com/investing/2026/04/16/oklo-nano-nuclear-centrus-nuscale-surge-as-white-house-space-nuclear-mandate-electrifies-the-sector/)
+- [Rolling Out — Oklo Stock Surges 32%](https://rollingout.com/2026/04/20/oklo-soars-32-insiders-sold-174m-stock/)
+- [Oklo 공식 뉴스룸 — DOE 승인](https://oklo.com/newsroom/news-details/2026/Oklo-Announces-U-S--Department-of-Energy-Approval-for-Nuclear-Safety-Design-Agreement-of-Aurora-Powerhouse-at-Idaho-National-Laboratory/default.aspx)
+- [World Nuclear News — Aurora 기공](https://www.world-nuclear-news.org/articles/oklo-breaks-ground-for-first-aurora-powerhouse)
+- [TipRanks — Insider Sell-Off](https://www.tipranks.com/news/insider-trading/two-oklo-directors-quietly-cash-out-in-a-major-insider-sell-off-insider-trading-news)
+- [Canary Media — Oklo and Sam Altman](https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-looks-to-rebound-with-backing-from-sam-altman)
