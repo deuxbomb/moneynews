@@ -1,92 +1,265 @@
-# 🔮 테슬라, 자동차 회사의 탈피각 — Q1 2026 실적이 말해주는 것
+# 오늘 밤 반도체가 뜬다 — 인텔이 쏘아올린 공
 
-> **2026년 4월 22일 밤, Elon Musk는 실적 발표 콜에서 이렇게 말했다.**
-> *"제 생각엔, 옵티머스는 우리 역사상 가장 큰 제품일 뿐 아니라, 아마도 역사상 가장 큰 제품이 될 것입니다."*
-> $TSLA는 그날 +4%를 벌었다가, 같은 날 밤 전부 반납했다. 시장이 숫자를 계산하기 시작했기 때문이다.
+**머뉴 MoneyNews 오후 브리핑 | 2026년 4월 24일(금) | 돈이 되는 모든 것에 대한 소식**
 
 ---
 
-## 실적 비트가 아니라 방향의 선언
+## 🇰🇷 오늘 한국 장 마감
 
-테슬라 Q1 2026 실적표는 표면적으로 '가뿐한 비트'다. 매출 $22.39B — 컨센서스 $21.92B을 가볍게 넘었고, 조정 EPS $0.41은 예상치 $0.37보다 11% 높았다. 전년 동기 대비 매출 성장률은 16%였다([Stocktitan](https://www.stocktitan.net/sec-filings/TSLA/8-k-tesla-inc-reports-material-event-1911b8f568a6.html)).
+**코스피 6,475.63 (▼0.18p, 0.00%) / 코스닥 1,203.84 (▲29.53p, +2.51%) / 원달러 1,484.91원**
 
-더 인상적인 건 마진이다. 자동차 부문 총이익률이 21.1%로, 1년 전 16.3%에서 4.78%포인트 도약했다([Drive Tesla Canada](https://driveteslacanada.ca/news/tesla-q1-2026-earnings-beat-expectations-as-margins-cash-flow-rebound/)). 제조업에서 이 정도 마진 개선은 웬만한 구조조정으로는 나오지 않는다. FSD 구독 수익이 마진에 얹히기 시작했다는 뜻이다. 잉여현금흐름도 $1.4B — 전년 동기보다 117% 늘었다([Stocktitan](https://www.stocktitan.net/sec-filings/TSLA/8-k-tesla-inc-reports-material-event-1911b8f568a6.html)).
-
-그런데 콜이 끝날 무렵, 주가 반등이 사라진 이유는 하나다. CFO가 발표한 숫자 — 2026년 CapEx 가이던스 $25B 이상. 직전 분기에 제시했던 $20B에서 단숨에 $5B 증액. 2025년 전체 CapEx $8.6B의 거의 3배를 올해 한 해에 쏟아붓겠다는 선언이었다([Seeking Alpha](https://seekingalpha.com/news/4578385-tesla-signals-over-25b-2025minus-2026-capex-as-it-targets-optimus-production-by-late-july)). Q1 FCF가 $1.4B이었으니, 연간 FCF 예상치(약 $5~6B)의 4~5배를 투자에 쏟는 셈이다. 이게 주가가 반등을 반납한 이유다.
+오늘 한국 증시는 두 얼굴이었다. 코스피는 개장 직후 강보합으로 출발했다가 외국인이 무려 2조1,000억 원 넘게 팔아치우며 약보합 마감. 반면 코스닥은 달랐다. 무려 **닷컴버블 이후 25년 8개월 만에 처음으로 1200선을 돌파**해 1,203.84에 마감했다. 외국인과 기관이 코스닥에서 각각 7,322억 원, 1,875억 원을 순매수하며 지수를 끌어올렸다. 주인공은 바이오주(알테오젠, 삼천당제약, 에이비엘바이오, 펩트론)와 반도체 소부장(고영, 대주전자재료, SFA반도체). 2000년 3월 닷컴버블 당시 장중 2,900선에 거래됐던 코스닥이 그 그림자에서 벗어나는 데 꼬박 26년이 걸렸다. 원달러 환율은 1,484.91원으로 오늘 최고 1,488.40원까지 치솟았다가 소폭 되돌림. [[뉴스핌](https://www.newspim.com/news/view/20260424001094)] [[서울경제](https://www.sedaily.com/article/20036826)]
 
 ---
 
-## HW3에 쏘아올린 폭탄
+## 🇺🇸 미국 프리마켓
 
-이날 발표 중 가장 조용하지만 파급력이 큰 선언은 하드웨어 관련이었다. Musk는 "HW3 차량은 무감독(Unsupervised) FSD를 영원히 지원받지 못할 것"이라고 확언했다([Shacknews](https://www.shacknews.com/article/148813/tesla-will-never-ship-unsupervised-fsd-hardware-3)). 이유는 명확했다. "메모리 대역폭이 병목입니다. HW3는 HW4의 8분의 1밖에 안 돼요." 결자해지로, 테슬라는 할인 트레이드인과 컴퓨터 업그레이드 프로그램을 제공하겠다고 했다.
+**선물: S&P +0.4% / 나스닥 +0.5% / WTI $96/배럴 / BTC $78,266 (+0.55%)**
 
-이게 왜 중요하냐면 — 테슬라 차량을 FSD 옵션 포함으로 구매한 HW3 오너들은 수년 전부터 '완전자율주행'을 기다려왔다. 이번 선언은 그 약속이 소프트웨어 업데이트만으로는 불가능하다는 것을 공식화한 것이다. 브랜드 신뢰도에는 타격이지만, 역설적으로 HW4·HW5 탑재 신차와 업그레이드 수요를 동시에 당긴다.
-
----
-
-## 로보택시 + 사이버캡: 텍사스를 넘어 12개 주로
-
-로보택시 전선에서는 숫자가 말한다. Q1 중 유상 로보택시 마일이 전 분기 대비 약 2배로 늘었다([Stocktitan](https://www.stocktitan.net/sec-filings/TSLA/8-k-tesla-inc-reports-material-event-1911b8f568a6.html)). 테슬라는 오스틴의 무감독 서비스(안전 운전자 없음)를 달라스와 휴스턴으로 확장했고, 연말까지 12개 주에 서비스를 배포하겠다고 밝혔다([TeslaNorth](https://teslanorth.com/2026/04/22/tesla-targets-robotaxi-expansion-across-a-dozen-states-by-year-end/)).
-
-차량 자체도 주목할 만하다. 사이버캡(Cybercab)은 기가텍사스에서 이미 양산에 착수했다. 초기 생산 속도는 느리지만 연말로 갈수록 지수적으로 늘어난다는 게 테슬라 설명이다. AI4 하드웨어를 탑재했으며, AI5로의 전환은 2027년 중후반으로 예고됐다([Benzinga](https://www.benzinga.com/markets/earnings/26/04/51985386/tesla-q1-revenue-miss-eps-beat-fsd-hits-record-semi-cybercab-timelines-softened)). FSD(Supervised) 구독자는 128만 명으로 전년 대비 51% 증가하며 분기 신기록을 썼다([TeslaNorth](https://teslanorth.com/2026/04/22/tesla-targets-robotaxi-expansion-across-a-dozen-states-by-year-end/)). 소프트웨어 매출은 제조 원가가 거의 없으니, FSD 구독자 증가는 마진 개선의 구조적 드라이버다.
-
-다만 경쟁 지형이 녹록지 않다. Waymo는 이미 복수 도시에서 유상 서비스를 운영 중이며, 뉴욕시에서는 규제 장벽에 부딪혀 서비스를 종료하는 등 자율주행 시장 전반에서 규제 변수가 크다는 점은 업계 공통의 리스크다. GLJ Research는 테슬라 로보택시의 사고 빈도가 여전히 인간 운전보다 높다며 매도 의견을 유지 중이다([Investing.com](https://www.investing.com/news/analyst-ratings/glj-research-reiterates-tesla-stock-sell-rating-on-earnings-outlook-93CH-4628382)).
+오늘 밤 뉴욕 증시 개장 전 분위기는 뜨겁다. 어제 밤 장 마감 후 인텔(INTC)이 예상치를 압도하는 1분기 실적을 발표하며 프리마켓 +28%를 찍었고, 이 온기가 AMD를 포함한 반도체 섹터 전체로 번지는 중이다. S&P 500 선물 +0.4%, 나스닥 선물 +0.5%로 출발 신호를 보내고 있다. 위험 요소는 유가다. 호르무즈 해협 봉쇄 여파가 이어지며 WTI는 $96/배럴로 고공행진 중. 비트코인은 $78,266으로 $80,000 돌파를 노리고 있다. [[Bloomberg](https://www.bloomberg.com/news/articles/2026-04-24/us-stock-futures-today-intel-maxlinear-organon-procter-gamble)]
 
 ---
 
-## 옵티머스: 가장 큰 베팅
+## 📌 오늘 밤 판을 흔들 세 가지 이야기
 
-Musk의 "역사상 최대 제품" 발언이 과장처럼 들릴 수 있지만, 테슬라가 베팅하는 규모는 진지하다. Q2에 첫 대규모 옵티머스 공장 설립에 착수하고, 7월 말~8월 중 생산을 시작한다([Seeking Alpha](https://seekingalpha.com/news/4578385-tesla-signals-over-25b-2025minus-2026-capex-as-it-targets-optimus-production-by-late-july)). 1세대 라인의 연간 목표 생산 능력은 100만 대. 기가텍사스에 건설할 2세대 라인은 연간 1,000만 대를 목표로 한다.
+**1. 인텔의 부활인가, 일회성 서프라이즈인가 — $100 목표가의 진실**
+인텔이 1분기 실적에서 매출 $136억(컨센서스 $122.6억)과 Non-GAAP EPS $0.29(컨센서스 $0.01)를 기록하며 역대급 어닝 서프라이즈를 냈다. 데이터센터 사업부 매출은 전년 대비 22% 증가한 $51억. 2분기 가이던스도 매출 $138~148억으로 월가 예상($130억)을 훌쩍 뛰어넘었다. HSBC는 즉각 목표가를 $100으로 올렸다. 프리마켓 +28% 급등으로 52주 신고가를 경신했다. [[Yahoo Finance](https://finance.yahoo.com/sectors/technology/article/intel-to-report-first-quarter-earnings-as-cpus-become-key-to-ai-growth-191552358.html)]
 
-이 숫자의 무게가 느껴지게 비교해보자. 테슬라 Q1 2026에만 인도한 차량은 358,023대다([Drive Tesla Canada](https://driveteslacanada.ca/news/tesla-q1-2026-earnings-beat-expectations-as-margins-cash-flow-rebound/)). 2세대 옵티머스 라인 하나의 연간 생산 목표는 그 분기 인도량의 약 28배다. Musk는 옵티머스가 테슬라 내부 생산 현장에 먼저 투입된 뒤 단계적으로 외부 판매로 확대될 것이라고 밝혔다([Seeking Alpha](https://seekingalpha.com/news/4578385-tesla-signals-over-25b-2025minus-2026-capex-as-it-targets-optimus-production-by-late-july)).
+**2. AMD도 사상 최고가 — 필라델피아 반도체지수 16일 연속 상승**
+AMD 주가가 $303를 돌파하며 사상 최고가를 갈아치웠다. DA Davidson이 목표주가를 상향 조정했고, Stifel은 $280에서 $320으로 목표가를 높이며 매수 의견을 유지했다. 2025년 연간 데이터센터 매출 $166억 달성에 이어 Meta와의 6기가와트 규모 파트너십까지. 필라델피아 반도체지수(SOX)는 16일 연속 상승이라는 사상 최장 기록을 써나가고 있다. [[Bloomberg](https://www.bloomberg.com/news/articles/2026-04-22/chipmakers-on-track-for-longest-ever-rally-amid-ai-optimism)]
 
-$25B CapEx의 상당 부분이 여기로 흘러간다. 문제는 이 베팅이 결실을 맺으려면 최소 2~3년의 시간이 더 필요하고, 그 사이에도 자동차 사업은 계속 팔려야 한다는 것이다.
-
----
-
-## 불편한 숫자 두 개
-
-아름다운 마진 스토리 뒤에는 불편한 숫자가 있다. 첫째, 캘리포니아 테슬라 차량 등록이 Q1 2026에 24.3% 감소했다([EVXL](https://evxl.co/2026/04/21/tesla-california-registrations-drop-q1-2026/)). 같은 기간 캘리포니아 전체 자동차 시장은 8.9% 줄었으니, 테슬라의 낙폭이 시장 평균의 2.7배다. Musk의 정치적 행보와 중국산 EV의 부상이 겹친 결과라는 분석이 나온다.
-
-둘째, 에너지 부문(태양광·Megapack) 매출이 $2.41B으로 전년 동기 $2.73B보다 12% 줄었다([Drive Tesla Canada](https://driveteslacanada.ca/news/tesla-q1-2026-earnings-beat-expectations-as-margins-cash-flow-rebound/)). 그동안 테슬라의 제2성장 엔진으로 꼽히던 에너지 사업이 역성장으로 돌아선 것이다. Megapack 3 양산이 시작되면 반등할 수 있다는 기대는 있지만, 당장은 구멍이다.
+**3. 팀 쿡 은퇴 — 애플의 다음 챕터**
+애플 CEO 팀 쿡이 올해 9월 1일 자로 퇴임한다. 후임은 하드웨어 엔지니어링 SVP 존 터너스. 애플은 4월 30일 2026 회계연도 2분기 실적(EPS $1.91, 매출 $56.5억 아이폰 포함)을 발표한다. AI 기능 확장과 서비스 사업(2Q 예상 $300억)이 핵심 관전 포인트다. [[Yahoo Finance](https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-apple-stock-slips-after-ceo-tim-cook-announces-he-will-step-down-144220058.html)]
 
 ---
 
-## 황소 vs. 곰: 같은 숫자, 다른 해석
+## 💰 관심 종목
 
-**황소 시나리오**: FSD 구독자 128만 명이 성장을 지속하고, 로보택시가 연말까지 12개 주에 착근하면 2027년부터 소프트웨어·서비스 매출이 하드웨어 마진 개선을 끌어올리는 플라이휠이 돌아간다. 소프트웨어 구독에는 추가 제조원가가 없다 — 구독자 한 명이 늘 때마다 이익이 거의 100% 마진으로 쌓인다. 옵티머스 외부 판매가 본궤도에 오르면 밸류에이션 재평가가 불가피하다. Wedbush의 Dan Ives는 "테슬라는 이제 자동차가 아닌 AI 기업"이라며 목표주가 $600을 유지했다([CNBC](https://www.cnbc.com/video/2026/04/22/dan-ives-tesla-is-now-more-an-ai-company-than-a-car-company.html)).
-
-**곰 시나리오**: $25B CapEx를 매년 쏟아붓는 동안 FCF는 고갈될 수 있다. 로보택시 12개 주 목표는 Musk 특유의 '낙관적 타임라인'일 가능성이 높다 — 오스틴·달라스·휴스턴의 실제 서비스 대수는 수십 대에 불과하다. HW3 폐기 선언은 브랜드 신뢰를 갉아먹는다. 캘리포니아 등록 -24.3%가 전국으로 번진다면, "자동차 매출 감소 + CapEx 폭증"의 최악의 조합이 온다.
-
----
-
-## 올해 $TSLA의 세 개 분기점
-
-투자 관점에서 올해 $TSLA의 분기점은 세 가지다. **①** 하반기 사이버캡 생산 속도 — "지수적 증가"가 실제로 일어나는지. **②** 옵티머스 7월 말~8월 생산 착수 여부 — Musk가 예고한 타임라인이 맞는다면 그 자체로 시장 이벤트가 된다. **③** 로보택시 실제 확장 — 연말까지 12개 주가 현실이 된다면 경쟁 서사가 바뀐다.
-
-2026년 전체 컨센서스는 매출 $105B, EPS $2.08(56개 기관 평균)이다([TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/261813489-tesla-q1-earnings-exceed-expectations-musk-25-billion-cools-market-tradingkey)). 지금의 $TSLA 밸류에이션이 이 실적 수준을 다 반영하고도 남는다면, 이 주식을 움직이는 건 실적이 아니라 베팅이다. 문제는 — 베팅의 크기가 역사상 최대라는 것, 그리고 그 베팅을 하는 사람이 Elon Musk라는 것이다.
-
----
-
-## 머뉴's Advice 🧠
-
-1. **FSD 구독자 성장률이 실적의 선행지표다**: 128만 명, YoY +51%가 지속된다면 마진 개선이 구조적으로 이어진다. 다음 분기 FSD 구독자 숫자를 먼저 확인하라.
-
-2. **CapEx $25B의 배분을 추적하라**: 옵티머스 공장, 사이버캡 라인, AI 컴퓨팅 인프라 — 어디에 얼마나 쓰이는지가 2~3년 후 수익성을 결정한다. Q2 실적 발표 때 항목별 내역을 살펴볼 것.
-
-3. **HW3 오너라면 지금 계산해두라**: 트레이드인·업그레이드 프로그램의 조건이 공개되면 즉시 비용-편익 계산이 필요하다. 이탈할지 업그레이드할지의 선택이 테슬라 단기 수익과 브랜드 신뢰도를 동시에 결정한다. 전환율이 예상보다 높다면 주가에 단기 부담이지만 장기 구독 기반이 확대된다.
+| 티커 | 가격 | 등락 | 목표가(컨센서스) | 한줄 |
+|------|------|------|-----------------|------|
+| $TSLA | $374.99 | -3.23% | — | Cybercab 생산 시작 발표했지만, capex 증가로 주가 하락 |
+| $GOOGL | $338.69 | — | $387.68 | 4/29 실적 발표 대기 중, 클라우드 50%+ 성장 기대 |
+| $NVDA | $199.64 | -1.41% | — | 반도체 랠리 속 소폭 조정, $200 지지 테스트 중 |
+| $COIN | $206.24 | +5.25% | — | BTC $78K 랠리 수혜, 52주 저점($139) 대비 회복 중 |
+| $NFLX | $92.82 | — | — | 52주 범위 $75~134, 중간 구간 횡보 |
+| $OKLO | $76.46 | — | — | 청정에너지 수요 강세 지속, AI 전력 수요 수혜 |
+| $OHI | ~$45.00 | — | — | 헬스케어 리츠, 금리 방향성 주시 |
+| $SPY | $708.45 | -0.39% | — | S&P 500 반도체 랠리 속 소폭 조정 |
+| $QQQ | $655.95 | — | — | 나스닥 100, 반도체 강세로 견조 |
 
 ---
 
-## 출처
+## 👀 오늘 밤 주목할 것
 
-- [Seeking Alpha](https://seekingalpha.com/news/4578385-tesla-signals-over-25b-2025minus-2026-capex-as-it-targets-optimus-production-by-late-july) — Tesla Q1 2026 CapEx, Optimus 생산 타임라인
-- [Drive Tesla Canada](https://driveteslacanada.ca/news/tesla-q1-2026-earnings-beat-expectations-as-margins-cash-flow-rebound/) — Q1 2026 실적 요약
-- [Stocktitan (Tesla IR 8-K)](https://www.stocktitan.net/sec-filings/TSLA/8-k-tesla-inc-reports-material-event-1911b8f568a6.html) — 공식 실적 발표
-- [Shacknews](https://www.shacknews.com/article/148813/tesla-will-never-ship-unsupervised-fsd-hardware-3) — HW3 무감독 FSD 미지원 선언
-- [TeslaNorth](https://teslanorth.com/2026/04/22/tesla-targets-robotaxi-expansion-across-a-dozen-states-by-year-end/) — 로보택시 12개 주 확장, FSD 구독자
-- [Benzinga](https://www.benzinga.com/markets/earnings/26/04/51985386/tesla-q1-revenue-miss-eps-beat-fsd-hits-record-semi-cybercab-timelines-softened) — 사이버캡 양산 착수, AI4/AI5 하드웨어
-- [CNBC](https://www.cnbc.com/video/2026/04/22/dan-ives-tesla-is-now-more-an-ai-company-than-a-car-company.html) — Dan Ives, "테슬라는 AI 기업"
-- [EVXL](https://evxl.co/2026/04/21/tesla-california-registrations-drop-q1-2026/) — 캘리포니아 등록 -24.3%
-- [Investing.com](https://www.investing.com/news/analyst-ratings/glj-research-reiterates-tesla-stock-sell-rating-on-earnings-outlook-93CH-4628382) — GLJ Research 매도 의견
-- [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/261813489-tesla-q1-earnings-exceed-expectations-musk-25-billion-cools-market-tradingkey) — 2026 연간 컨센서스
+**빅테크 어닝 위크 카운트다운 — 4월 29일이 진짜 클라이맥스**
+오늘 밤은 Intel/AMD 서프라이즈 여진을 소화하는 시간이다. 하지만 진짜 클라이맥스는 다음 주 화요일(4/29). 구글($GOOGL), 마이크로소프트($MSFT), 메타, 아마존이 동시에 실적을 발표한다. 구글은 EPS $2.63(YoY -6%, 클라우드 +50% 기대), 마이크로소프트는 Azure 성장률이 핵심. 메타는 $115~135억 capex 정당성 증명이 과제다. 4월 30일에는 팀 쿡의 마지막 실적발표가 될 수 있는 애플 실적도 나온다. 오늘 밤 장은 인텔 서프라이즈 소화 + 다음 주 대형 실적 기대를 선반영하는 시간이 될 것이다.
+
+---
+
+## 🔥 오늘의 픽
+
+### 🌡️ 시장 온도
+
+공포탐욕지수 69(탐욕), VIX 19.31. 숫자가 말해준다 — 시장은 지금 겁쟁이가 아닌 탐욕스러운 투자자들이 주도하고 있다. 인텔의 어닝 서프라이즈가 반도체 섹터 전체에 불을 질렀고, 필라델피아 반도체지수는 1994년 지수 산출 이래 최장인 16일 연속 상승 기록을 쓰고 있다. 지금 이 랠리에서 소외되는 종목이 더 이상해 보이는 환경이다.
+
+---
+
+### 🎯 주목 섹터
+
+**AI 반도체 — "CPU가 돌아왔다"**
+2024년까지 GPU(엔비디아)의 독무대였던 AI 칩 시장에 CPU가 귀환을 선언했다. 인텔의 데이터센터 부문 매출 +22% YoY, AMD의 연간 AI칩 매출 기록 달성. 여기에 테슬라가 인텔 파운드리와 $30억 규모 협력을 검토 중이라는 소식까지 더해지며 인텔의 파운드리 사업이 주목받고 있다. 반도체 섹터 비중을 점검할 시점이다. [[Bloomberg](https://www.bloomberg.com/news/articles/2026-04-22/chipmakers-on-track-for-longest-ever-rally-amid-ai-optimism)]
+
+---
+
+### 💡 오늘의 픽
+
+---
+
+**① 반도체 황제의 귀환**
+
+**$INTC | Intel Corporation**
+
+이 분기의 서프라이즈 주인공은 의심의 여지가 없다. 23일 장 마감 후 발표된 인텔의 1분기 실적은 그야말로 충격적이었다 — 좋은 의미로. 매출 $136억(컨센서스 $122.6억 대비 11% 상회), Non-GAAP EPS $0.29 vs 컨센서스 $0.01. 숫자 하나만으로도 충분하지만, 2분기 가이던스는 더 강했다. 매출 가이던스 $138~148억 중간값 $143억 — 월가 예상($130.3억)을 10% 뛰어넘었다. 프리마켓에서 +28% 급등 중이며 HSBC는 즉각 목표가를 $100으로 상향했다.
+
+**배경**: 인텔은 지난 2년간 AI 칩 경쟁에서 완전히 소외된 것처럼 보였다. 엔비디아의 GPU가 AI 트레이닝을 독점하는 동안 인텔의 CPU는 "시대에 뒤처진 기술"로 여겨졌다. 하지만 이번 분기는 다른 이야기를 했다. AI 추론(inference) 단계에서 CPU 수요가 폭발적으로 늘어나고 있으며, 인텔의 데이터센터 부문이 그 혜택을 톡톡히 누렸다. 여기에 테슬라($30억 파운드리 협력 검토)와 스페이스X 등 굵직한 고객사들이 인텔 파운드리에 관심을 보이며 "Intel foundry = TSMC 대안"이라는 내러티브가 형성 중이다.
+
+**전망/리스크**: HSBC $100 목표가는 현재 프리마켓 가격($85 추정) 대비 17% 추가 상승 여력을 의미한다. 다만 한 분기 서프라이즈 후 "팔아버리는" 심리도 무시할 수 없다. 과거 인텔이 좋은 분기 이후에도 시장을 실망시킨 전례가 있기에 포지션 규모 조절이 핵심이다. [[Yahoo Finance](https://finance.yahoo.com/sectors/technology/article/intel-to-report-first-quarter-earnings-as-cpus-become-key-to-ai-growth-191552358.html)] [[InvestingCube](https://www.investingcube.com/shares/intel-stock-skyrockets-28-in-pre-market-trading-and-100-target-isnt-too-far-off/)]
+
+📊 **스코어카드**
+기술적 2/3 | 수급 2/3 | 카탈리스트 2/2 | 펀더멘털 2/2 | **종합 8/10**
+
+---
+
+**② 사상 최고가 클럽 입성**
+
+**$AMD | Advanced Micro Devices**
+
+AMD가 4월 24일 $303를 돌파하며 사상 최고가를 갱신했다. 2023년 AI 붐 시작 이후 가장 강한 모멘텀이다. 오늘 프리마켓에서 +12%로 시작한 AMD는 Intel의 실적 서프라이즈 → 데이터센터 CPU 수요 확인 → AMD도 수혜라는 논리적 연쇄반응의 결과물이다.
+
+**배경**: AMD는 2025년 연간 매출 $346억을 기록하며 사상 최대 실적을 달성했다. 특히 데이터센터 분기 매출 $54억은 엔비디아 독주 속에서 AMD가 AI 반도체 시장에서 의미 있는 점유율을 확보했음을 보여준다. Meta와의 6기가와트 규모 파트너십(2H 2026 배송 연동)은 대규모 장기 수요를 담보한다. DA Davidson 업그레이드와 Stifel의 $280→$320 목표가 상향이 오늘 아침 주가를 더욱 밀어올렸다. 필라델피아 반도체지수의 역사적 16일 연속 상승이라는 강력한 조류를 타고 있다.
+
+**전망/리스크**: 5월 5일 예정된 분기 실적이 다음 분기점이다. 지금 가격에 이미 상당한 기대치가 선반영된 만큼, 실적 발표 전까지는 "사더라도 작게, 실적 후 판단"하는 접근이 합리적이다. 최고가 근처에서 매수하는 것은 항상 신경을 곤두세우는 일임을 기억하자. [[Meyka](https://meyka.com/blog/amd-stock-today-april-24-record-high-above-300-fuels-ai-rally-2404-2/)] [[FX Leaders](https://www.fxleaders.com/news/2026/04/23/amd-stock-surges-toward-330-after-hours-as-chip-demand-and-upgrades-fuel-rally/)]
+
+📊 **스코어카드**
+기술적 3/3 | 수급 2/3 | 카탈리스트 1/2 | 펀더멘털 2/2 | **종합 8/10**
+
+---
+
+**③ 비트코인이 $80K를 노린다**
+
+**$COIN | Coinbase Global**
+
+코인베이스가 오늘 +5.25% 상승 중이다. 배경은 단순하고 명확하다 — 비트코인이 $78,266에 거래되며 $80,000 돌파를 목전에 두고 있다. Strategy(구 MicroStrategy)가 34,164개의 비트코인을 $25.4억에 추가 매입했고, 글로벌 크립토 펀드에 주간 $14억이 유입됐다. 코인베이스는 미국 최대 크립토 거래소로 비트코인 거래량이 늘어날수록 수수료 수익이 폭발한다.
+
+**배경**: 코인베이스 주가는 2025년 7월 $444.65 사상 최고가 이후 2026년 2월 $139.36까지 추락했다. 현재 $206은 그 바닥에서 48% 반등한 수준이지만 여전히 고점 대비 54% 아래에 있다. BTC가 $65,000에서 $78,000으로 4월 한 달 만에 20% 급등한 것은 2025년 4분기 조정 이후 첫 번째 의미 있는 회복세다. 이란 휴전 연장, 기관 매입 가속화가 겹치며 크립토 시장에 훈풍이 불고 있다.
+
+**전망/리스크**: $80,000 돌파 시 코인베이스의 거래량과 수수료 수익이 동반 급등할 가능성이 높다. 반면 $80,000 저항에서 재차 밀린다면 단기 조정 불가피. 암호화폐는 규제 리스크가 항상 꼬리를 물고 있다는 점도 잊지 말 것. [[CoinDesk](https://www.coindesk.com/markets/2026/04/22/bitcoin-climbs-to-usd77-500-on-trump-ceasefire-extension-strategy-s-usd2-5-billion-buy)]
+
+📊 **스코어카드**
+기술적 2/3 | 수급 2/3 | 카탈리스트 2/2 | 펀더멘털 1/2 | **종합 7/10**
+
+---
+
+> ⚠️ 투자 조언이 아닌 데이터 기반 분석입니다. 투자 결정은 본인의 판단과 책임으로 하세요.
+
+---
+
+## 📰 오늘의 뉴스 (12시간 이내)
+
+---
+
+### 🏭 반도체가 쓴 역사 — CPU의 반격, GPU의 시대가 끝나는가
+
+인텔의 1분기 실적 서프라이즈는 단순한 한 기업의 실적 이벤트가 아니다. 이는 AI 인프라 수요의 판이 바뀌고 있다는 신호다. 그동안 AI = 엔비디아 GPU라는 등식이 시장을 지배했지만, AI 모델 학습(Training) 이후 실제 서비스 단계인 추론(Inference)이 확대되면서 CPU 수요가 다시 부상하고 있다. 인텔의 데이터센터 매출 +22% YoY가 그 증거다. AMD는 오늘 사상 최고가를 경신했고, 필라델피아 반도체지수는 16일 연속 상승이라는 1994년 이후 최장 기록을 써나가고 있다. 반도체 섹터는 이제 "AI 수혜주"가 아니라 "AI 인프라 그 자체"가 됐다. [[Bloomberg](https://www.bloomberg.com/news/articles/2026-04-22/chipmakers-on-track-for-longest-ever-rally-amid-ai-optimism)] [[Yahoo Finance](https://finance.yahoo.com/sectors/technology/article/intel-to-report-first-quarter-earnings-as-cpus-become-key-to-ai-growth-191552358.html)]
+
+---
+
+### 🚗 자율주행: 머스크가 영상을 올렸다
+
+**$TSLA 사이버캡, 드디어 공장 문을 열다 — 그런데 주가는 왜 빠졌나**
+
+오늘 오전 일론 머스크는 X에 38초짜리 영상 하나를 올렸다. 자막은 간결했다. "Cybercab has started production." 핸들도 없고 페달도 없는 순수 로보택시, 사이버캡이 공장 라인에서 굴러나와 도로 위를 달리는 장면이었다. 심지어 금빛 사이버캡 여러 대가 차선을 맞춰 달리는 장면까지. 머스크는 테슬라 세미와 사이버캡 모두 올해 양산 체제에 진입할 것이라고 밝혔다.
+
+**이야기의 배경**: 사이버캡은 2024년 가을 공개됐다. 당시 머스크는 2027년 출시를 약속했는데, 이번 생산 개시 발표는 그보다 1년 이상 빠른 것이다. 테슬라는 1분기에 $4.77억의 순이익을 기록했고, 2026년 AI·로보틱스 투자(capex)를 대폭 상향하겠다고 밝혔다. 오스틴에서는 이미 2025년 중반부터 제한적 로보택시 테스트를 진행해왔다.
+
+**전망과 리스크**: 그런데 왜 주가는 프리마켓에서 -3.23%인가? 시장은 "생산 시작"보다 늘어난 capex와 여전히 불명확한 수익화 타임라인에 더 민감하게 반응했다. 게다가 하드웨어 구형 차량 소유자들은 FSD 업그레이드를 위해 하드웨어 교체 비용을 내야 한다는 소식에 실망했다. 한편 머스크가 5월부터 DOGE 업무를 대폭 줄이고 테슬라에 집중하겠다고 밝힌 것은 주가에 호재였다 — 그 발표 직후 테슬라 시총은 $670억 증가했다. [[Bloomberg](https://www.bloomberg.com/news/articles/2026-04-24/musk-says-tesla-has-begun-production-of-its-cybercab-robotaxi)] [[BusinessToday](https://www.businesstoday.in/technology/story/elon-musk-shares-first-cybercab-production-footage-robotaxi-push-intensifies-527332-2026-04-24)]
+
+---
+
+**1. 오토 차이나 2026: 중국 자율주행 군웅할거**
+
+오늘 베이징에서 열린 오토 차이나 2026에서 자율주행 업체들이 총출동했다. Pony.ai는 차세대 Gen-7 로보택시 원가를 RMB 23만 원(약 4,700만 원) 이하로 낮추겠다는 계획을 발표했다. 토요타와 협력해 올해 1,000대의 bZ4X 로보택시를 베이징·상하이 등 1선 도시에 배치한다. CATL과 공동 개발한 L4 자율 전기 경트럭도 세계 최초로 공개했다. 지리(Geely)는 중국 최초의 목적 설계형 자율주행 로보택시 프로토타입을 공개했고, 산하 차오차오 모빌리티 플랫폼 전용 버전은 2027년 양산 예정이다. 
+
+**배경**: Pony.ai는 이미 광저우·선전·베이징에서 완전 무인 Gen-7 로보택시 상업 서비스를 운영 중이며, 누적 사용자 수는 100만 명을 돌파했다. 차량 대수는 270대에서 1,400대 이상으로 급증했다.
+
+**의미**: 미국에서 웨이모와 테슬라가 양강 구도를 형성하는 동안, 중국에서는 Pony.ai·Geely·BAIC 등 다수 업체가 실제 상업 배치로 치고 나가고 있다. 로보택시는 이제 "개발 중인 기술"이 아니라 "확장 중인 사업"이다. [[PR Newswire](https://www.prnewswire.com/news-releases/ponyai-drives-commercialization-at-scale-with-lower-cost-robotaxis-and-new-l4-light-truck-302752560.html)]
+
+---
+
+**2. 테슬라 FSD, 중국 출시 또 연기 — 집단소송까지**
+
+테슬라의 FSD 중국 출시가 3분기로 다시 미뤄졌다. 1년 넘게 시범 운행만 하고 있다. 동시에 구형 하드웨어 차주들의 집단소송도 이어지고 있다. 10년 가까이 약속된 완전 자율주행 기능이 하드웨어 한계로 구현되지 않는다는 것이 핵심 논거다. 웨이모는 카메라·레이더·라이다 다중 센서 조합의 안전성을 강조하며 테슬라의 카메라 중심 접근을 공개 비판하고 있다. [[글로벌이코노믹](https://www.g-enews.com/article/Global-Biz/2026/04/2026042113545792532bd56fbc3c_1)]
+
+---
+
+### 🏢 기업 뉴스
+
+**$TSLA — 사이버캡은 달리는데, 머스크는 DOGE를 내려놓는다**
+
+이미 위에서 다뤘지만 한 가지를 추가한다. 머스크의 DOGE 참여가 테슬라에 얼마나 큰 부담이었는지 숫자가 말해준다. 머스크가 5월부터 DOGE에서 물러나겠다고 밝힌 직후 1.5일 만에 테슬라 시총이 $670억 증가했다. Fortune이 보도한 이 숫자는 "머스크 없는 테슬라"에 대한 시장의 갈망을 그대로 보여준다. 사이버캡 생산 시작 + 머스크 귀환이라는 두 개의 카탈리스트가 중기 내러티브를 다시 짜고 있다. 다만 단기적으로는 capex 증가 부담이 주가에 압력을 줄 것이다. [[Fortune](https://fortune.com/article/elon-musks-pledge-to-step-back-from-doge-tesla-stock-earnings-outlook/)]
+
+**$GOOGL — 4월 29일, 진짜 시험대**
+
+알파벳은 오늘 $338.69에 거래되고 있다. Morningstar의 공정가치 추정치($340)와 거의 일치하는 수준이다. 5일 후인 4월 29일 1분기 실적이 발표된다. 애널리스트 컨센서스: EPS $2.63(YoY -6%), 매출 $1,068억(+19%). 핵심은 구글 클라우드 성장률 +50% 돌파 여부와 Gemini 통합 성과다. 제로 셀(Sell) 레이팅에 26개 바이, 5개 홀드. 평균 목표가 $387.68로 현재 대비 14% 업사이드. capex가 2025년 $914억의 두 배인 $1,750~1,850억으로 늘어나는 만큼 자유현금흐름 압박도 관전 포인트다. [[IG](https://www.ig.com/ae/news-and-trade-ideas/alphabet-q1-2026-earnings-preview-260420)]
+
+**$NVDA — $200 지지선 테스트 중**
+
+엔비디아는 오늘 $199.64로 $200선이 흔들리고 있다. 반도체 섹터 전반이 강세임에도 불구하고 소폭 조정 중인 것은 "CPU 부각 = GPU 상대적 소외"라는 심리가 작동한 영향으로 보인다. 그러나 중장기적으로 엔비디아의 GPU는 AI 트레이닝 수요에서 대체 불가한 위치를 유지한다. $197~204 박스권에서 지지를 확인하는 구간이다.
+
+---
+
+### 🌐 오늘 흥미로운 이야기
+
+**1. 팀 쿡 은퇴 — 스티브 잡스의 후계자도 이제 역사가 된다**
+애플의 팀 쿡 CEO가 9월 1일 퇴임을 발표했다. 2011년 스티브 잡스 타계 후 직책을 이어받아 애플 시총을 $3,000억에서 $3.8조로 키워낸 주인공. 후임 존 터너스는 아이폰·아이패드·맥의 하드웨어 엔지니어링을 총괄해온 인물로 AI 시대 애플 하드웨어를 이끌 적임자로 평가받는다. [[Yahoo Finance](https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-apple-stock-slips-after-ceo-tim-cook-announces-he-will-step-down-144220058.html)]
+
+**2. WTI $96 — 유가가 경기 회복의 발목을 잡나**
+호르무즈 해협 봉쇄 여파로 WTI 원유가 $96/배럴을 넘었다. 미국 소비자물가 상승 압력이 다시 커지는 구조다. 연준의 금리 인하 기대가 다시 후퇴할 수 있는 시나리오. 오늘 밤 에너지 섹터 강세가 예상된다. [[CoinDesk](https://www.coindesk.com/markets/2026/04/12/oil-futures-up-7-on-hyperliquid-as-trump-orders-naval-blockade-of-hormuz)]
+
+---
+
+## 🔭 딥다이브 — 스마트머니는 지금 어디를 보나
+
+### 📅 이번 주 실적 캘린더 — 어닝 위크가 진짜로 시작된다
+
+지난 이틀이 예열 단계였다면, 다음 주가 본게임이다. 인텔의 서프라이즈가 "AI 반도체는 GPU뿐만 아니라 CPU도 먹힌다"는 시장의 인식을 바꿔놓은 지금, 4월 29일 나오는 알파벳·마이크로소프트·메타·아마존의 실적은 "AI capex가 진짜 매출로 연결되는가"를 검증하는 시험대가 된다.
+
+- **4월 29일(화)**: $GOOGL (EPS $2.63 예상, 클라우드 +50% 기대) / $MSFT (Azure 성장률, $80B 백로그) / Meta ($115~135B capex 정당성) / Amazon
+- **4월 30일(수)**: $AAPL (팀 쿡 마지막 실적 발표 가능성, EPS $1.91 예상, 서비스 $300억)
+- **5월 5일(월)**: $AMD (Q1 실적, 사상 최고가 선반영 여부 확인)
+
+관심 종목 중에서는 $GOOGL이 가장 주목할 종목이다. 목표가 $387.68 vs 현재가 $338.69로 14% 업사이드. 클라우드 성장률과 Gemini 모멘텀이 재확인된다면 이 갭을 좁히는 속도가 빨라질 수 있다.
+
+---
+
+### 📊 애널리스트 컨센서스
+
+| 종목 | 컨센서스 | 평균목표가 | 현재가 | 업사이드 |
+|------|---------|-----------|--------|---------|
+| $GOOGL | 26 Buy / 5 Hold / 0 Sell | $387.68 | $338.69 | +14.5% |
+| $INTC | — | $100 (HSBC) | ~$85 | +17.6% |
+| $AMD | Buy (Stifel $320) | $320 | $303 | +5.6% |
+
+---
+
+### 🎯 옵션/수급 신호
+
+오늘 옵션 시장에서 두드러진 움직임이 포착됐다. TSLA에서는 만기 1일짜리 $370 풋옵션 스윕이 106계약(약 $25,900)에 체결됐다 — 단기 하락 베팅이 쌓이는 흐름이다. BABA에서는 5월 15일 만기 $130 콜옵션 1,451계약이 불안정하게 실행됐다. 금융주(JEF)에서는 9월 만기 $47.5 풋이 250계약(약 $137,500) 매입. 오늘 전체적으로 반도체 강세 속에서도 TSLA에 대한 단기 헤지 수요가 존재한다는 점이 눈에 띈다. [[Benzinga](https://www.benzinga.com/calendars/unusual-options-activity)]
+
+공포탐욕지수 69(탐욕), VIX 19.31 — 시장이 탐욕 모드에 있지만 과매수까지는 아닌 수준이다.
+
+---
+
+### 🏦 스마트머니 동향
+
+**ARK Invest — 테슬라를 대규모 매도했다**
+
+오늘 ARK 투자 트래커에서 포착된 가장 충격적인 움직임: ARKK 펀드에서 $TSLA 주식 180,455주를 매도했다. ARKK 내 TSLA 비중은 여전히 19.49%로 최대 보유 종목이지만, 하루 만에 약 9.7%의 지분을 줄인 것은 의미심장하다. 캐시 우드는 테슬라를 가장 사랑하는 투자자 중 한 명이었는데 — 오늘 실적 발표 직후 이런 결정을 내렸다는 것이 흥미롭다.
+
+반면 ARKX(우주 ETF)에서는 Rocket Lab($RKLB)을 32,820주 추가 매수했다. 우주 인프라에 대한 낙관론은 유지되고 있다. ARKG(유전체학 ETF)에서는 CRISPR Therapeutics($CRSP) 28,083주를 매도. 의료·유전체 섹터에 대해서는 포지션을 줄이는 방향이다. [[ARK Invest Trades Tracker](https://blog.arkinvesttrades.com/2026/04/24/companies-04-24-2026/)]
+
+**내부자 거래 — TNL CFO의 확신**
+
+Travel + Leisure Co.(TNL)의 CFO Erik Hoag가 주당 $65.67에 1,000주(약 $65,670)를 매수했다. CFO가 회사 주식을 개인 자금으로 사는 것은 가장 강한 내부자 신뢰 신호 중 하나다. TNL은 여행·레저 멤버십 사업을 운영하는 회사로 경기 소비 회복 수혜주 카테고리에 속한다. 
+
+바이오텍 에이크리번 테라퓨틱스($ACRV)는 RA Capital Management가 389만 주(약 $700만)를 $1.80에 취득했다 — 임상 단계 바이오주에 대한 기관 확신 투자의 전형적인 패턴이다. [[Meyka](https://meyka.com/blog/tnl-insider-buying-cfo-hoag-acquires-1000-shares-april-24-2026-2404/)]
+
+---
+
+## 🎧 이번 주 들을 만한 팟캐스트
+
+---
+
+**1. TBPN | "Verizon vs Salesforce, Blue Origin's Test, Robot Marathon" (4월 20일)**
+John Coogan과 Jordi Hays가 진행하는 TBPN이 Verizon과 Salesforce의 기업 전략 대결, 블루오리진의 최신 테스트, 그리고 로봇 마라톤 이야기를 다뤘다. 에피소드 타이틀부터 2026년 테크씬의 단면을 보여준다 — 통신사의 AI 플랫폼 도전, 우주 경쟁, 로봇공학의 일상화. TBPN은 평일 오전 11시~오후 2시(PT) X와 유튜브에서 라이브 스트리밍되며 에피소드가 스포티파이에 올라온다. 참고로 OpenAI가 TBPN을 인수했다는 소식이 화제가 됐는데, 미디어와 AI의 경계가 어떻게 무너지는지를 보여주는 상징적 사건이다. [[Spotify](https://open.spotify.com/show/2L6WMqY3GUPCGBD0dX6p00)]
+
+---
+
+**2. All-In Podcast | E268 "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax" (4월 17일)**
+Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg가 이번 에피소드(91분)에서 다룬 주제들이 지금 이 순간을 이해하는 데 꼭 필요하다. OpenAI의 정체성 위기(for-profit 전환 논란), 데이터센터 전쟁, 이란 뉴스에 반응하는 시장, 그리고 뉴욕시 맘다니 시장의 첫 과세 정책. 특히 OpenAI가 TBPN을 인수하고, 샘 알트만이 미디어 지형을 어떻게 장악하려 하는지에 대한 논의는 미디어·AI 교차점을 이해하는 데 필수 청취다. [[All-In Podcast](https://allin.com/episodes)]
+
+---
+
+**3. No Priors | Simon Last(Notion 공동창업자) 에피소드 (4월 중순)**
+Sarah Guo와 Elad Gil이 진행하는 No Priors에서 Notion 공동창업자 Simon Last가 AI 에이전트가 엔터프라이즈 소프트웨어를 어떻게 바꾸고 있는지를 이야기했다. 핵심 주제: Notion이 AI 에이전트 플랫폼으로 진화하는 과정, 시맨틱 인덱싱과 검색의 기술적 도전, 코딩 에이전트의 부상, 그리고 인간이 에이전트 무리를 관리하는 새로운 협업 모델. "에이전트 오케스트레이션"이 요즘 VC들의 화두인데, Notion 수준의 실제 프로덕트 레이어에서 이 문제를 어떻게 해결하는지를 들을 수 있다. [[Apple Podcasts](https://podcasts.apple.com/us/podcast/no-priors-artificial-intelligence-technology-startups/id1668002688)]
+
+---
+
+**4. Acquired | "Ferrari" (4월 12일)**
+Ben Gilbert와 David Rosenthal의 Acquired 팟캐스트가 페라리를 심층 해부했다. 79년 역사에 걸쳐 33만 대(평균 가격 $50만)만 팔고도 F1 400만 팬을 거느린 이 회사가 어떻게 상반된 두 고객층을 동시에 관리하는지를 스토리로 풀었다. 오늘 머뉴에서 자율주행과 반도체를 다뤘다면, 이 에피소드는 완전히 반대 방향 — "희소성이 어떻게 가치를 만드는가"를 이야기한다. 테크 투자자라도 럭셔리 브랜드 경영을 이해하는 것은 포트폴리오를 보는 시야를 넓혀준다. [[Acquired](https://www.acquired.fm/episodes)]
+
+---
+
+*머뉴(MoneyNews) | 돈이 되는 모든 것에 대한 소식*
+*이 브리핑은 공개된 데이터와 뉴스를 기반으로 작성된 정보 제공용 콘텐츠입니다. 투자 조언이 아닙니다.*
+
