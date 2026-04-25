@@ -1,82 +1,80 @@
----
-
-## 📈 "인텔의 기적, 그리고 두 얼굴의 시장"
-
-지난 25년간 인텔은 IT 버블의 상징이었습니다. 2000년 천장을 한 번도 뚫지 못했는데, 어제 드디어 그 벽을 넘었습니다. 비결은 단순했는데요. 애널리스트들이 분기 EPS를 1센트로 예상했는데 실제론 29센트가 나왔습니다. 데이터센터 매출이 22% 성장한 덕분입니다. 이 한 방이 반도체 섹터 전체를 들어 올렸고, NVIDIA는 시총 5조달러를 다시 넘었으며 나스닥은 사상 최고치로 마감했습니다.
-
-그런데 같은 날 다우존스는 -0.16% 하락 마감했습니다. 나스닥과 다우의 분기 같은 하루였는데요. 반도체·AI 기술주는 파티를 벌이는 동안 전통 산업주, 방어주는 고개를 숙였습니다. 에너지와 기술이 서로 다른 방향으로 당기는 힘이 시장 안에 공존하고 있어요. S&P 500이 기록을 경신하면서도 속을 들여다보면 두 개의 서로 다른 이야기가 펼쳐지고 있습니다.
-[Yahoo Finance](https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-april-24-224547261.html)
 
 ---
 
-## 🛢️ "파이프가 막혔습니다" — 호르무즈와 유가 폭등
-
-한 주 동안 WTI 유가가 17% 올랐습니다. 기준점을 잡자면, 지난 주초에 배럴당 81달러 선이었는데 어제 95달러를 넘었습니다. 2주 만에 이 정도 움직임은 단순한 수급 변화가 아닙니다.
-
-핵심은 호르무즈 해협입니다. 이란과의 핵 협상이 최종 결렬되자 이란이 해협을 사실상 봉쇄했는데요. 세계 석유 교역량의 약 20%가 이 좁은 목을 통과하는 만큼, 차단이 현실화되면 충격은 수치 이상으로 큽니다. IEA에 따르면 3월 전세계 원유 공급이 하루 1,010만 배럴 감소해 사상 최대 공급 차질을 기록했습니다. 브렌트유는 2분기에 배럴당 115달러를 넘을 것이란 전망도 나옵니다.
-
-에너지 섹터 입장에선 호재이지만, 인플레이션과 금리 전망에는 다시 불확실성이 더해졌습니다. 기름값이 오르면 소비자 물가가 올라가고, 그게 연준의 금리 인하 시기를 늦출 수 있거든요. 지금 에너지주로 돈이 몰리는 건 맞는데, 그 흐름이 나머지 시장에 미치는 파급효과를 잘 봐야 합니다.
-[Fortune](https://fortune.com/article/price-of-oil-04-24-2026/) · [IEA](https://www.iea.org/reports/oil-market-report-april-2026)
+## 📰 뉴스 브리핑
 
 ---
 
-## 🚗 자율주행 뉴스: "웨이모는 시카고에, 머스크는 또 연기 중"
+### 🤖 오늘 자율주행 세계의 중심은 베이징이었다
 
-**웨이모, 시카고 상륙... 반응은 엇갈렸는데요**
+**Auto China 2026, 자율주행 기술 전쟁터로**
 
-웨이모가 4월 24일 시카고에 자율주행차 배치를 시작했습니다. 2월부터 거리 매핑을 해 왔고, 이제 실제 차량이 도심을 달리고 있는데요. 단, 아직 인간 안전운전자가 동승해야 합니다. 시카고에서 완전 무인 운행을 하려면 일리노이주 의회에서 자율주행 파일럿 법안이 통과돼야 합니다.
+토요일 베이징 모터쇼(Auto China 2026) 현장은 중국 자율주행 산업의 글로벌 선언문이 됐다. 오늘(4/25) 하루에만 세 건의 굵직한 발표가 쏟아졌다.
 
-시카고 주민 반응은 둘로 갈렸습니다. 노스웨스턴대 캠퍼스 근처 주민들은 "미래 기술이 우리 동네에 왔다"고 환영했지만, 일리노이 팀스터스(트럭운전사 노조) 등 노동단체는 일자리 위협을 이유로 반대 목소리를 냈습니다. 반면 뉴욕시에서는 정반대 수순이 펼쳐졌는데요. 8대짜리 소규모 파일럿이 3월 31일 조용히 종료됐고, 마만다니 시장은 재개 의사를 전혀 보이지 않고 있습니다. 같은 회사가, 같은 기술로, 도시에 따라 전혀 다른 반응을 만나고 있다는 점이 흥미롭습니다.
-[Daily Northwestern](https://dailynorthwestern.com/2026/04/24/city/residents-divided-as-self-driving-waymo-vehicles-begin-chicago-deployment/)
+**1. Pony.ai + NVIDIA DRIVE Hyperion, 로보택시 상업화 박차**
 
-**테슬라 FSD 비감독 버전: "Q4까지 기다리세요"**
+_이야기:_ 중국 자율주행 스타트업 Pony.ai가 오늘 NVIDIA DRIVE Hyperion 플랫폼 기반의 차세대 자율주행 도메인 컨트롤러를 공식 발표했다. NVIDIA DRIVE AGX Thor with NVLink를 탑재해 컴퓨팅 파워를 대폭 끌어올린 이 시스템은 Pony.ai의 로보택시 상업화를 위한 핵심 인프라다.
 
-머스크가 한 번 더 연기를 선언했습니다. 소비자용 테슬라 차량에서 완전 비감독 FSD를 쓸 수 있는 시점이 "2026년 4분기 이후"라고 밝혔는데요. 더 중요한 발표도 있었습니다. HW3(하드웨어 3세대) 탑재 차량은 아예 비감독 FSD가 불가능하다는 것입니다. 메모리 대역폭이 HW4의 8분의 1밖에 안 된다는 게 이유였는데요. 이미 수백만 대가 팔린 HW3 차량 소유자들에게는 청천벽력 같은 소식입니다.
+_배경:_ Pony.ai는 현재 중국 2개 대도시에서 단위경제(unit economics) 손익분기점을 이미 달성했다고 밝혔다. 2026년 말까지 로보택시 차량을 3,000대 이상으로 늘리고 전 세계 20개 이상 도시로 확장할 계획이다. NVIDIA는 하드웨어를 공급하는 동시에 자율주행 클라우드 훈련 인프라도 통째로 제공한다. 이 파트너십이 의미하는 건 단순한 칩 공급이 아니다 — NVIDIA가 웨이모·테슬라에 이어 중국 자율주행 생태계까지 표준 인프라로 장악하고 있다는 신호다.
 
-캘리포니아에서는 자율주행 서비스 이용이 19개월 새 500% 늘었다는 데이터가 나왔습니다. 2025년 12월 한 달에만 120만 건의 자율주행 탑승이 이루어졌는데요. 웨이모가 주도하는 이 수치를 보면, 소비자의 수용도는 이미 충분한데 기술과 인허가가 병목이라는 구조가 보입니다.
-[Electrek](https://electrek.co/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/) · [Local News Matters](https://localnewsmatters.org/2026/04/20/californians-hit-the-gas-on-self-driving-rides-autonomous-car-use-surges-500-since-2024/)
+_의미:_ NVDA의 자율주행 TAM(전체 시장)이 美 시장을 넘어 중국까지 확장. 웨이모가 없는 시장에서 Pony.ai는 사실상 중국의 웨이모다. [PR Newswire](http://www.prnewswire.com/news-releases/ponyai-announces-new-generation-autonomous-driving-compute-platform-built-on-nvidia-drive-hyperion-302753517.html)
 
 ---
 
-## 💼 관심 종목 뉴스
+**2. DeepRoute.ai, 중국 도로 위 30만 대**
 
-**$TSLA — "250억달러를 어디에 쓰겠다는 거죠?"**
+_이야기:_ 중국 자율주행 소프트웨어 기업 DeepRoute.ai가 오늘 현재 30만 대 이상의 차량에 자사 첨단 운전보조 시스템(ADAS)이 탑재돼 중국 도로를 달리고 있다고 밝혔다. 올해 안에 추가로 100만 대를 목표로 한다.
 
-테슬라가 1분기에 EPS 예상치를 15% 웃돌았지만, 발표 다음 날인 4월 23일 주가는 3.7% 하락했습니다. 실적보다 강한 충격을 준 건 올해 설비투자(CapEx) 가이던스 상향이었는데요. 당초 200억달러 계획을 250억달러로 올렸습니다. 이 돈의 상당 부분이 AI 인프라와 로보틱스, 즉 옵티머스 로봇에 투입됩니다.
-
-머스크는 실적 발표에서 "옵티머스가 올여름 생산에 들어가고, 내년에는 테슬라 밖에서도 유용하게 쓰일 것"이라고 했습니다. 새 로드스터는 4월 말 공개를 예고했고요. 웨드부시의 댄 아이브스는 목표가를 $600로 유지하며 "AI·로보틱스 전환이 세대를 넘는 기회"라고 했지만, 웰스파고는 $125 하방 목표를 제시하며 자동차 사업 펀더멘털 악화를 지적하고 있습니다. 양극단의 분석이 공존하는 게 지금 테슬라의 현실입니다.
-[Fortune](https://fortune.com/2026/04/23/tesla-stock-price-earnings-call-outlook/) · [Electrek](https://electrek.co/2026/04/22/tesla-elon-musk-unsupervised-fsd-consumer-cars-q4-delay-again/)
-
-**$GOOGL — "실적 전야, AI 코딩 경쟁의 열패자?"**
-
-알파벳이 4월 29일 1분기 실적을 발표합니다. 요즘 구글 내부에서 AI 코딩 도구 경쟁에 대한 위기감이 높아지고 있다는 보도가 나왔는데요. 앤트로픽의 Claude Sonnet, 기타 AI 코딩 어시스턴트들이 기업 고객들 사이에서 더 선호된다는 것입니다. 반면 구글 클라우드 넥스트 2026에서는 NVIDIA, Broadcom, Marvell과 함께 AI 인프라 파트너십을 대거 공개했습니다. Google Cloud의 새 A5X AI 기계는 AI 연산 속도를 10배 빠르게, 10배 저렴하게 만든다고 하는데요. EU에서는 안드로이드와 Gemini에 대한 새로운 규제 조사가 시작됐고, 브라질도 뉴스 콘텐츠 사용에 대한 심층 조사를 승인했습니다.
-
-실적에서 가장 중요한 숫자는 구글 클라우드 성장률과 검색 광고 매출인데요. AI 경쟁 속에서 검색이 여전히 지배적 위치를 유지하느냐가 투자자들의 핵심 체크포인트입니다.
-[Bloomberg](https://www.bloomberg.com/news/articles/2026-04-21/google-struggles-to-gain-ground-in-ai-coding-as-rivals-advance)
-
-**$NVDA — "5조달러로의 귀환, 다음 목표는?"**
-
-NVIDIA가 어제 시가총액 5조달러를 재탈환했습니다. 이란 전쟁 리스크와 유가 급등으로 인해 한때 4조달러대로 내려앉았던 게 불과 몇 주 전 일인데요. 인텔의 데이터센터 호실적이 AI 수요가 건재하다는 신호를 시장에 보내자 바로 5조달러로 복귀했습니다. NVIDIA 자신의 다음 실적 발표는 5월로 예정돼 있는데, 시장 기대치는 "세 자릿수 이익 성장"입니다.
-
-이번 주 OKLO, 로스앨러모스 국립연구소와 함께 발표한 핵연료 검증 협약도 주목할 만합니다. AI 데이터센터 전력을 핵에너지로 직접 공급하는 '핵 기반 AI 팩토리' 개념인데, 그린워싱이 아닌 실질적인 전력 솔루션으로서의 원자력을 빅테크가 공식 인정한 사례입니다.
-[The Motley Fool](https://www.fool.com/investing/2026/04/24/why-nvidia-stock-popped-today/) · [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development)
-
-**$OKLO — "NVIDIA가 선택한 에너지 파트너"**
-
-자세한 내용은 위 '오늘의 픽' 섹션을 참고하세요. 이번 주 OKLO 흐름의 핵심은 하나입니다. NVIDIA가 직접 파트너십을 택했다는 것. 에너지 기업에 최고의 마케팅이 생긴 셈입니다.
-[Oklo Newsroom](https://oklo.com/newsroom/news-details/2026/Oklo-NVIDIA-and-Los-Alamos-National-Laboratory-Collaborate-to-Advance-Nuclear-Fuel-Validation-at-Los-Alamos-in-Support-of-Nuclear-Powered-AI-Factories/default.aspx)
-
-**$OHI — "배당 $0.67, 조용하지만 꾸준한 헬스케어 리츠"**
-
-오메가 헬스케어($OHI)가 분기 배당 주당 $0.67을 선언했습니다. 현재 주가 $46.84 기준 연간 배당수익률 약 5.7%입니다. 헬스케어 리츠는 노인요양시설(SNF)에 투자하는 구조인데, 베이비붐 세대 고령화와 함께 수요가 꾸준히 증가하는 섹터입니다. 시장이 기술주와 에너지주에 시선을 빼앗기는 동안, 배당 재투자로 조용히 복리를 쌓아가는 종목입니다.
-[The Markets Daily](https://www.themarketsdaily.com/2026/04/24/omega-healthcare-investors-inc-nyseohi-declares-0-67-quarterly-dividend.html)
+_배경·의미:_ 한국의 카카오모빌리티가 100만 가입자에 도달하는 데 수년이 걸렸다면, 중국 ADAS 보급은 지금 다른 속도로 움직이고 있다. 30만 → 130만은 올 한 해에 이루어질 일이다. 웨이모·테슬라 방식의 '완전 자율주행' 논쟁이 길어지는 동안, 중국은 ADAS 대량 보급으로 데이터를 쌓고 점진적 자율화를 밀어붙이는 투-트랙 전략을 구사한다. [ChinaTechNews](https://www.chinatechnews.com/2026/04/25/120509-pony-ai-announces-new-generation-autonomous-driving-compute-platform-built-on-nvidia-drive-hyperion)
 
 ---
 
-## 🌏 그 외 주목할 이야기들
+**3. XPENG VLA 2.0 — 물리적 AI가 운전석에 탄다**
 
-1. **코스피 사상 최고치 경신 행진** — 코스피가 5,967.75로 오늘도 +2.74% 상승했습니다. 지난달 기사에서 코스피 신고가 이후 "차익실현 물량 나오나"는 우려가 있었지만, 미국 반도체 강세 + 환율 안정이 맞물려 상승세가 이어지고 있습니다. 삼성전자, SK하이닉스 등 반도체주가 연동 수혜를 받는 구조입니다.
+_이야기:_ 오늘 Auto China 2026에서 XPENG은 VLA(Vision-Language-Action) 2.0 지능형 주행 시스템 풀스택 물리 AI 생태계를 선보였다. 3월 양산 적용 이후 소비자 테스트드라이브 참여 10만명, 만족도 98%, 시승 후 주문 전환 시간 -44.7% 단축이라는 성과를 공개했다.
 
-2. **Apple CEO 교체** — 팀 쿡의 후임으로 존 터너스(John Ternus)가 새 CEO에 오를 것이라는 보도가 나왔습니다. 올인 팟캐스트도 이번 주 이 이슈를 다뤘는데요. 터너스는 애플의 하드웨어 엔지니어링 SVP로, AI 하드웨어 시대를 이끌 인물로 평가받습니다.
+_의미:_ VLA는 GPT 계열 언어모델이 자동차 제어에 직결되는 구조다. 테슬라 FSD처럼 시각 데이터를 AI로 처리하지만, 자연어 명령과 상황 추론까지 통합한 더 고도화된 접근이다. 중국 내수 시장이 이 기술의 실험장이 되고 있다. [Manila Times](https://www.manilatimes.net/2026/04/25/tmt-newswire/pr-newswire/ai-transforms-the-world-xpeng-showcases-its-full-stack-physical-ai-ecosystem-at-auto-china-2026/2328312)
 
-3. **알파벳 실적 D-4** — 4월 29일 구글 모기업 알파벳의 1분기 실적이 발표됩니다. AI 검색, 클라우드, 유튜브 광고 세 개 엔진의 속도를 확인할 수 있는 자리인데요. 경쟁사들이 AI에 공격적으로 투자하는 가운데 구글의 성장률이 어떤 숫자를 보여줄지 주목됩니다.
+---
+
+### 💼 기업 뉴스: 한 주를 정리한다
+
+---
+
+#### $TSLA — 수익은 냈고, 베팅은 더 커졌다
+
+_이야기:_ 4월 22일 테슬라 Q1 2026 실적 발표는 단순한 서프라이즈가 아니었다. EPS $0.41로 월가 예상($0.36)을 14% 상회했고, 매출 $22.39B, 자동차 총이익률 19.2%로 3분기 만에 반등했다. 에너지 스토리지 사업부 마진은 39.5%로 역대 최고를 찍었다. Q1 역대 최다 주문 잔고라는 표현도 등장했다.
+
+_배경:_ 그런데 진짜 뉴스는 지출이었다. 머스크는 2026년 전체 캐팩스를 $25B로 늘리겠다고 선언했다. 공장 확장, AI 인프라, 로보택시 런치, Optimus 생산이 목적지다. 머스크는 "올해 FCF는 마이너스가 될 것"이라고 직접 말했고, Optimus는 올 여름 생산 시작 → 2027년 외부 판매가 목표다. 또 하나의 카탈리스트: 사이버캡이 연방 안전 기준을 자체 인증 방식으로 충족하면서 2,500대 정부 한도를 피했다. 대량 생산의 법적 장벽이 사라진 것이다.
+
+_전망:_ $25B 지출 베팅이 현실화되면 테슬라는 완성차 기업이 아닌 AI·로보틱스 플랫폼 기업으로의 전환을 이번 사이클에 완성한다. 단기 FCF 마이너스를 참을 수 있는 투자자에겐 중장기 매력. [NPR](https://www.npr.org/2026/04/22/nx-s1-5791653/tesla-earnings-first-quarter-2026) · [TechXplore](https://techxplore.com/news/2026-04-tesla-robotaxi-production-cybercab-ramp.html)
+
+---
+
+#### $OKLO — NVIDIA가 핵발전을 선택한 이유
+
+_이야기:_ 이번 주 가장 임팩트 있는 파트너십은 OKLO-NVIDIA-LANL 삼각 협업이었다. AI 데이터센터의 전력 소비가 기하급수적으로 늘어나는 상황에서 NVIDIA가 직접 핵에너지 기업과 손잡은 건 업계 최초다. 구체적으로 NVIDIA의 디지털 트윈·AI 시뮬레이션 기술을 핵연료 연구, 소재 개발, 발전소 그리드 안정화에 적용한다.
+
+_배경:_ OKLO는 아직 수익이 없지만 SMR 인허가 절차가 진행 중이다. 이번 파트너십은 기술적 신뢰성과 기관 투자자의 주목을 동시에 끌어올리는 효과가 있다. HSBC가 즉각 Buy 등급에 목표가 $96을 제시했고, 주가는 일주일 사이 $54 → $72 수준으로 +33% 상승했다.
+
+_전망:_ 원자력 규제 완화(에너지부, NRC 개혁), AI 전력 수요 급증, ESG 탄소중립 요구라는 3가지 순풍이 동시에 작동한다. 리스크는 규제 지연과 '수익 없는 성장주' 프리미엄의 변동성. [BusinessWire](https://www.businesswire.com/news/home/20260423742786/en/Oklo-NVIDIA-and-Los-Alamos-National-Laboratory-Collaborate-to-Advance-Nuclear-Fuel-Validation-at-Los-Alamos-in-Support-of-Nuclear-Powered-AI-Factories) · [Carbon Credits](https://carboncredits.com/oklo-stock-jumps-15-as-nvidia-partnership-sparks-nuclear-ai-momentum/)
+
+---
+
+#### $GOOGL — 실적 발표 4일 전, 월가는 무엇을 보고 있나
+
+_이야기:_ 알파벳은 4월 29일(수) 장 마감 후 Q1 2026 실적을 발표한다. 마이크로소프트·메타·아마존과 같은 날이다. 월가의 초점은 단 하나: 2026년 캐팩스 $175~185B를 정당화할 만큼 AI가 돈을 버는가? 직전 Q4 2025에선 EPS $2.82로 예상($2.61) 대비 +8% 서프라이즈를 기록했다.
+
+_배경:_ 알파벳은 올해 Wiz 인수를 마무리했고, Google Cloud 성장 가속화, YouTube 광고 모멘텀, Gemini 모델 고도화(Gemma 4, Gemini Robotics-ER 1.6)가 진행 중이다. 주가는 현재 $343으로 52주 범위 $335~$345 안팎에서 움직이며 실적을 기다리고 있다.
+
+_전망:_ AI capex ROI 정당화에 성공하면 $350 이상 돌파 시도. 미달 시 변동성 확대. 수요일은 나스닥 전체가 빅테크 실적에 흔들리는 날이다. [Meyka](https://meyka.com/blog/googl-alphabet-inc-earnings-preview-april-22-2026-2104/)
+
+---
+
+### 🪙 흥미로운 이야기들
+
+**1. OpenAI가 팟캐스트를 샀다** — 테크 팟캐스트 TBPN(Technology Business Programming Network)을 OpenAI가 "수억 달러"(FT 보도, '저수억 달러')에 인수했다. 실리콘밸리 최신 뉴스를 매일 라이브로 전달하는 쇼였는데, OpenAI는 이를 미디어 전략의 일환으로 가져간 것. 기술이 아닌 서사를 사는 시대다. [Slate](https://slate.com/business/2026/04/openai-podcast-sam-altman-tbpn.html)
+
+**2. Bill Ackman의 다음 타깃은 SpaceX?** — SpaceX IPO가 최대 $2T 가치로 수주 내 임박했다는 보도 속에서 Ackman의 Pershing Square가 참여할지 시장의 주목이 쏠린다. Ackman은 현재 Uber, Amazon, Meta, Alphabet을 보유 중이며 포트폴리오의 39%를 3개 종목에 집중한 상태다. 분석가들은 "그의 스타일(성숙 기업·합리적 밸류)과 IPO는 안 맞는다"고 본다. [Motley Fool](https://www.fool.com/investing/2026/04/21/will-billionaire-bill-ackman-jump-into-spacex-ipo/)
+
+**3. 캘리포니아 자율주행 이용자 500% 급증** — 캘리포니아주 자율주행 승차 건수가 2024년 대비 500% 급증했다는 데이터가 나왔다. 웨이모가 주당 50만 건 유료 운행을 기록하며 로보택시가 '실험'에서 '생활 인프라'로 넘어가는 변곡점이 보인다. [Local News Matters](https://localnewsmatters.org/2026/04/20/californians-hit-the-gas-on-self-driving-rides-autonomous-car-use-surges-500-since-2024/)
