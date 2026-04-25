@@ -7,6 +7,16 @@
 - **태그라인**: "돈이 되는 모든 것에 대한 소식"
 - **구독 해지 링크**: 포함하지 않음
 
+## ⚠️ 링크 표기 규칙 (모든 에이전트 필수 준수)
+- 링크 텍스트는 **해당 뉴스 매체명**으로 짧게 표기한다
+- ❌ `https://techcrunch.com/2026/04/14/waymo-london...`
+- ❌ `[Waymo opens robotaxi service in Nashville, partners with Lyft](https://techcrunch.com/...)`
+- ✅ `[TechCrunch](https://techcrunch.com/2026/04/14/waymo-london...)`
+- ✅ `[Bloomberg](https://bloomberg.com/news/...)`
+- ✅ `[매경](https://mk.co.kr/news/...)`
+- 복수 출처: `[TechCrunch](URL) · [Reuters](URL)`
+- 이 규칙은 뉴스레터, 딥다이브, 팟캐스트 등 모든 산출물에 동일 적용
+
 ## ⚠️ 최신성 규칙 (모든 에이전트 필수 준수)
 - **24시간 이내 뉴스만 포함**한다. 2일 이상 지난 기사는 절대 포함하지 않는다.
 - 검색 시 반드시 **오늘 날짜**를 키워드에 포함한다 (예: "April 15 2026", "2026년 4월 15일", "today")
