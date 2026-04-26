@@ -1,92 +1,55 @@
+---
+
+## 📰 뉴스 — 이번 주말 시장을 움직인 것들
 
 ---
 
-## 📰 이번 주 꼭 알아야 할 뉴스
+### 반도체 ETF +40%, 한 달 만에 세상이 바뀌었다
+
+3월 말, VIX는 31이었다. 이란 전쟁 리스크에 시장이 흔들렸다. 그리고 지금, 반도체 ETF(iShares Semiconductor ETF)가 4월 한 달간 +40.4%를 기록했다. 4월 첫째 주에 폭락한 종목들이 이제 신고가를 향해 달리고 있다. 인텔이 4월에만 +21.3%, 엔비디아 +19%, 어드밴스드 마이크로 디바이시스(AMD)는 DA Davidson이 중립에서 매수로 업그레이드하며 $305에서 $337로 갭 상승했다. ON 세미컨덕터도 BofA가 목표가를 $85로 올리며 매수 전환. 이게 단순한 반등인지, 구조적 전환인지는 이번 주 빅테크 실적이 답을 줄 것이다. [IndexBox](https://www.indexbox.io/blog/mixed-us-stock-market-semiconductor-surge-lifts-nasdaq-dow-drops/)
 
 ---
 
-### 🌐 증시 포인트 — "이란전쟁 전으로 돌아왔다, 이제는 그 이상으로"
+### 🚗 자율주행 — 텍사스에서 열린 로보택시 전쟁
 
-2026년 4월 12일, 트럼프가 호르무즈 해협에 해군 봉쇄령을 내렸을 때만 해도 S&P 500은 공포로 흔들렸습니다. 세계 원유의 약 20%가 통과하는 해협이 막힌다는 것, 브렌트유가 한때 $120에 육박했고 에너지 섹터만 혼자 신났습니다.
+**테슬라, 달라스·휴스턴 진출 — 웨이모보다 56% 저렴**
 
-그런데 불과 2주 만에 분위기가 완전히 뒤집혔습니다. 미국과 이란이 파키스탄에서 평화협상을 타진한다는 소식이 흘러나오자, 투자자들은 전쟁 프리미엄을 빠르게 걷어냈습니다. 나스닥은 +1.63%, S&P 500은 +0.80%로 사상 최고치를 경신하며 4월 24일 마감했습니다. 다우만 -0.16%로 소폭 약했는데, 에너지·방산주가 빠지면서 전통적 블루칩이 상대적으로 부진했습니다.
+테슬라가 달라스와 휴스턴에 무감독(Unsupervised) 로보택시 서비스를 론칭했다. 텍사스 주 전역 운행 허가를 취득한 뒤 두 번째 도시 확장이다. 숫자 하나가 모든 걸 말한다. 달라스에서 동일한 2.25마일 노선을 테슬라로 타면 $6.15, 웨이모로 타면 $13.93. 56% 저렴하다. 웨이모가 규모를 키워도 가격 경쟁에서 테슬라를 이기기 어렵다는 분석이 나오는 이유다. [Tesla Oracle](https://www.teslaoracle.com/2026/04/20/tesla-expands-unsupervised-robotaxi-service-to-two-new-cities-in-texas-and-its-cheaper-than-waymo/)
 
-여기서 중요한 것 하나. CNBC는 4월 22일 "연초부터 이어졌던 기술주 탈출 대행진이 이미 끝났다"고 보도했습니다. 기술주로 다시 돈이 흘러들어오고 있다는 뜻입니다. 실제로 이번 주 S&P 500 주간 기준으로 +0.6%, 나스닥 +1.5%였지만, 다우는 -0.4%였습니다. 전통 가치주에서 AI·기술주로의 자금 이동이 가시화되고 있습니다. [Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/04/24/stock-market-today-april-24-s-and-p-500-and-nasdaq-set-new-highs-on-tech-surge/) · [CNBC](https://www.cnbc.com/2026/04/22/the-much-hyped-great-rotation-out-of-tech-for-2026-may-be-over-already.html)
+반면 뉴욕시는 3월 31일 웨이모 파일럿을 조용히 종료했다. 8대가 운행하던 파일럿이 계약 만료와 함께 끝났다. 블룸버그는 "NYC의 웨이모 중단이 다른 도시들에 메시지를 보냈다"고 분석했다. 규제 환경이 로보택시 확산의 핵심 변수임을 다시 확인한 사건이다. [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-22/nyc-s-waymo-pause-sends-message-to-other-cities-on-autonomous-vehicles)
 
----
-
-### 🚗 자율주행 뉴스 — "베이징에 로보택시가 쏟아졌다"
-
-**1. Auto China 2026: 중국이 로보택시 전쟁을 선포하다**
-
-4월 24~25일, 베이징에서 열린 오토차이나 2026은 단순한 자동차 전시회가 아니었습니다. 중국이 로보택시 시장의 실력을 세계에 과시하는 무대였습니다.
-
-길리(Geely) 자동차 그룹이 공개한 'Eva Cab'는 중국 최초의 전용 로보택시 차체입니다. 일반 승용차를 개조한 게 아니라, 처음부터 L4 자율주행을 위해 설계된 차량이죠. 탑재된 2,160선 디지털 라이다는 600m 거리까지 감지하는 세계 최초 사양입니다. 여기에 카오카오(CaoCao) 모빌리티와 협력해 2027년 상용화를 목표로 합니다.
-
-이게 왜 중요하냐면요 — 지금까지 중국의 로보택시는 대부분 기존 차종을 개조하는 방식이었습니다. 전용 설계 차체는 비용 구조와 안전성에서 차원이 다릅니다. 골드만삭스는 중국 로보택시 대수가 2025년 약 5,000대에서 2026년 1만 4,000대로 3배 증가할 것으로 전망하고 있습니다. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/24/3280986/0/en/Geely-Technology-Ecosystem-on-Full-Display-and-Debut-of-China-s-First-Purpose-Built-Robotaxi-at-Auto-China-2026.html)
-
-**2. Pony.ai, "2027년 로보택시 한 대 가격 2.3만 위안 아래로"**
-
-Pony.ai도 오토차이나에서 큰 발표를 했습니다. 차세대 Gen-7 로보택시의 차량 원가를 RMB 230,000(약 3,200만원) 이하로 낮추겠다는 계획입니다. 여기에 NVIDIA와 협력한 새로운 자율주행 컴퓨팅 플랫폼을 공개하고, 올해 주요 1선 도시에 1,000대의 bZ4X 기반 로보택시를 배포할 계획이라고 밝혔습니다.
-
-상용화의 핵심은 비용입니다. 웨이모의 재규어 기반 로보택시가 대당 수억원이 넘는 시대에서, 3,000만원대 로보택시가 나온다면 사업 모델이 완전히 달라집니다. [StockTitan](https://www.stocktitan.net/news/PONY/pony-ai-announces-new-generation-autonomous-driving-compute-platform-cwsd9eie06zb.html)
-
-**3. 테슬라 로보택시 — 8개월에 14번 사고의 민낯**
-
-좋은 소식만 있는 건 아닙니다. 텍사스 오스틴에서 로보택시 서비스를 시작한 테슬라는 8개월 만에 14건의 사고를 기록하며 안전성 논란의 중심에 섰습니다. 머스크는 Q1 어닝 콜에서 "무감독 FSD는 Q4 2026 이후"라고 또 한 번 일정을 미뤘습니다.
-
-그럼에도 테슬라는 라스베가스, 마이애미, 올란도, 피닉스, 탬파로 로보택시 서비스를 확장할 계획입니다. '양보다 속도' vs '속도보다 안전' — 테슬라가 어느 쪽을 선택할지가 2026년 하반기의 핵심 관전 포인트입니다. [뉴스-와](https://www.news-wa.com/article/automobiles/new-car/2026/04/21/20260421500013)
+단, 머스크는 Q1 실적 발표에서 컨슈머 차량용 무감독 FSD 출시 시점을 또 한 번 미뤘다. "2026년 4분기 이후 가능"이라는 발언이 나왔다. 로보택시 플릿은 확장 중이지만, 일반 소비자 차량에 FSD가 탑재되려면 아직 시간이 필요하다. [Electrek](https://electrek.co/2026/04/22/tesla-elon-musk-unsupervised-fsd-consumer-cars-q4-delay-again/)
 
 ---
 
-### 💼 기업 뉴스
+### 🏢 기업 뉴스 — 빅테크의 한 주
 
-**$TSLA — "25조짜리 꿈, 주주들의 혼돈"**
+**$TSLA — 마진은 살아났지만, 돈이 너무 많이 나간다**
 
-테슬라가 4월 22일 Q1 2026 실적을 발표했습니다. EPS $0.41로 예상($0.37)을 상회했고, 전년 대비 이익은 16% 증가했습니다. 여기까지는 좋았습니다.
+4월 22일, 테슬라 Q1 실적이 나왔다. EPS $0.41 — 컨센서스 $0.37을 크게 웃돌았다. 총마진 21.1%, 전년 16.3% 대비 478bp 개선. 1년 전 마진 위기를 기억하는가? 완전히 회복됐다.
 
-문제는 그 다음이었습니다. 머스크가 올해 자본지출(CapEx)을 기존 $20B에서 $25B으로 올린다고 발표하자, 주가는 초기 +4%에서 -3.7%로 뒤집혔습니다. 연초 대비로는 -17%입니다.
+문제는 재무이사의 입에서 나왔다. 2026년 capex(설비투자) $25B 이상이 예상되고, 이로 인해 올해 남은 기간 잉여현금흐름이 마이너스가 될 가능성이 있다고 했다. AI와 로보틱스에 천문학적 돈이 들어간다는 의미다. 지금 당장의 이익보다 미래에 더 큰 판을 깔겠다는 선택이지만, 주가는 한 주간 -3.6% 반응했다. 현재 주가 $375. [Electrek](https://electrek.co/2026/04/22/tesla-tsla-q1-2026-financial-results/) · [Motley Fool](https://www.fool.com/investing/2026/04/25/tesla-is-down-after-its-earnings-report-time-to-bu/)
 
-$25B은 어디에 쓰일까요. 텍사스에 짓는 AI 반도체 팹($3B, SpaceX·xAI와 공유), 옵티머스 휴머노이드 로봇 생산라인, 사이버캡(Cybercab) 대량 생산 준비, 그리고 FSD 인프라입니다. 실제로 테슬라는 모델 S와 모델 X를 단종시키고 그 생산라인을 옵티머스 로봇 제조에 넘겼습니다. 머스크는 "옵티머스가 올 여름 생산에 돌입하고, 내년엔 테슬라 밖에서도 유용하게 쓰일 것"이라고 했습니다.
+**$GOOGL — 이번 주 가장 중요한 실적이 온다**
 
-웨드부시는 목표가 $600을 유지했고, TD 코웬은 $490으로 재확인했습니다. 반면 시장은 "실제 수익화는 2027년 이후"라는 현실에 먼저 반응했습니다. [CNBC](https://www.cnbc.com/2026/04/22/tesla-tsla-q1-2026-earnings-report.html) · [Fortune](https://fortune.com/2026/04/23/tesla-stock-price-earnings-call-outlook/)
-
----
-
-**$NVDA — "공급이 없으면 수요는 쌓인다"**
-
-4월 24일 NVDA는 +4.32%를 기록했습니다. AI 칩 수요가 "완전히 지수적으로 폭증하고 있다"는 젠슨 황의 발언이 다시 회자되고 있습니다. Blackwell 시스템은 2026년 중반까지 예약이 꽉 찼고, 마이크로소프트·아마존·구글·메타가 2026년에만 AI 인프라에 $200B 이상을 투자할 계획입니다. NVDA로 향하는 자금의 절대적 비중이 여기서 나옵니다.
-
-미즈호는 NVDA를 Outperform으로 유지하며, AI 훈련·추론 칩 시장에서 2028년까지 75%+ 점유율을 유지할 것으로 전망했습니다. 공급 제약이 오히려 가격 결정력을 강화하는 구조입니다.
+알파벳이 수요일(4/29) 장 마감 후 Q1 실적을 발표한다. 컨센서스: EPS $2.68, 매출 $106.9B. 포인트는 세 가지다. 첫째, 구글 클라우드 성장률이 50%를 넘는가. 둘째, AI 오버뷰가 검색 광고 수익에 미치는 영향. 셋째, 천문학적 capex($175-185B) 증가를 시장이 어떻게 받아들이는가. 테슬라와 마찬가지로 capex 이슈가 쟁점이 될 수 있지만, 알파벳은 이미 클라우드에서 캐시를 뽑아내고 있다는 점이 다르다. [IG AE](https://www.ig.com/ae/news-and-trade-ideas/alphabet-q1-2026-earnings-preview-260420) · [Motley Fool](https://www.fool.com/investing/2026/04/25/is-alphabet-stock-a-buy-ahead-of-earnings/)
 
 ---
 
-**$NFLX — "$25B 바이백도 못 막은 10% 하락"**
+### 🌐 흥미로운 이야기들
 
-넷플릭스가 Q1 2026 실적을 발표했습니다. 매출과 마진은 가이던스를 상회했지만, 시장이 원한 건 연간 전망 상향이었습니다. 넷플릭스가 이를 유지하자 주가는 10% 급락했습니다.
+**1. 팀 쿡이 떠난다 — 애플의 시대가 바뀐다**
 
-넷플릭스는 $25B 규모의 자사주 매입 프로그램을 추가 승인했습니다. 그럼에도 시장의 실망감을 달래기엔 역부족이었는데요. 워너브라더스 인수가 불발된 이후 독자 콘텐츠 투자 방향에 대한 불안감도 겹쳤습니다. $92.44, -10%. [HistoricalOptionData](https://historicaloptiondata.com/nflx-trading-analysis-04-24-2026-0538-pm/)
+4월 20일, 팀 쿡이 9월 1일 애플 CEO 자리에서 물러난다고 발표했다. 65세. 스티브 잡스로부터 바통을 받은 2011년, 애플 시총은 $3,000억이었다. 그가 떠날 때 시총은 $4조다. 13배를 키운 셈이다. 후임은 존 터너스(John Ternus) — 하드웨어 엔지니어링 담당 SVP. M칩 시리즈, 애플 실리콘 혁명을 이끈 인물이다. 쿡은 이사회 회장으로 남는다. AI 시대에 진입한 애플이 새 선장을 맞는 순간이다. [NPR](https://www.npr.org/2026/04/20/g-s1-118159/apple-ceo-tim-cook-stepping-down) · [Fortune](https://fortune.com/2026/04/20/apple-ceo-tim-cook-stepping-down-hardware-exec-john-ternus-new-ceo/)
 
----
+**2. 오픈AI가 팟캐스트를 샀다 — 수백억 원짜리 영향력 게임**
 
-**$OKLO — "핵에너지에 월가가 손을 들다"**
+4월 2일, 오픈AI가 테크 토크쇼 TBPN을 "수억 달러 초반대"에 인수했다. 유튜브 7만 4천 구독자, X 34만 팔로워짜리 팟캐스트에 그 돈을 왜 쓰는가. 답은 청중의 질에 있다. 창업자, 투자자, 빅테크 임원들이 보는 쇼다. 알트만은 "내가 가장 좋아하는 테크 쇼"라며 "그들이 우리를 더 쉽게 대해주길 바라지 않는다"고 했다. 미디어가 아닌 내러티브 통제 전략이다. [TechCrunch](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/)
 
-4월 24일, HSBC가 OKLO에 대한 신규 커버리지를 Buy, 목표가 $96으로 시작했습니다. "AI 전력 수요 급증이 소형모듈원전(SMR)의 상업화 타임라인을 앞당기고 있다"는 게 핵심 논리입니다. OKLO 주가는 최근 1년 사이 3배 이상 올랐고, 14명 애널리스트의 컨센서스 목표가는 $102입니다. [CNBC](https://www.cnbc.com/2026/04/23/this-nuclear-energy-stock-has-more-than-tripled-hsbc-sees-more-gains-ahead.html)
+**3. 머스크가 SpaceX IPO를 소매 투자자들에게 30% 배정한다**
 
----
+SpaceX IPO에서 머스크가 개인 소매 투자자에게 30%를 배정하겠다는 방침을 밝혔다. 예상 밸류에이션은 $1.75조. 비상장 기업 역대 최고 IPO 규모가 될 전망이다. 소매 투자자에게 이 기회를 나눠주겠다는 건 기업공개 민주화처럼 들리지만, 실제 배정 방식은 미정이다. [Motley Fool](https://www.fool.com/investing/2026/04/26/spacex-ipo-2-things-every-investor-should-understa/)
 
-**$OHI — "소파에 앉아서 연 5.8% 받는 방법"**
+**4. 전쟁이 끝나도 기름값은 여전히 $94 — 중동발 구조적 변수**
 
-오메가 헬스케어 인베스터스(OHI)가 주당 $0.67의 분기 배당을 선언했습니다. 연환산 $2.68, 현 주가($46.36) 기준 배당수익률은 **5.8%**입니다. 기관투자자인 Evergreen Capital Management가 4월 24일 OHI 지분을 추가 매입했다는 소식도 함께 나왔습니다. 고금리 환경에서도 헬스케어 리츠의 배당 안정성이 주목받고 있습니다. [The Markets Daily](https://www.themarketsdaily.com/2026/04/24/omega-healthcare-investors-inc-nyseohi-declares-0-67-quarterly-dividend.html)
-
----
-
-### 🎙️ 흥미로운 이야기
-
-**1. "OpenAI가 팟캐스트를 샀다" — TBPN 인수의 의미**
-
-4월 초, OpenAI가 테크 뉴스 팟캐스트 TBPN(Tech Business Programming Network)을 인수했습니다. 금액은 "수백억달러 수준(low hundreds of millions)"으로 알려졌는데요. TBPN은 매일 3시간씩 유튜브와 X에서 라이브로 진행되는 테크·AI·스타트업 전문 팟캐스트입니다. 호스트인 John Coogan과 Jordi Hays는 "편집 독립성은 유지된다"고 했지만, 시장은 회의적입니다. AI 기업이 언론을 직접 통제하는 첫 사례가 될 수 있다는 우려입니다. [TechCrunch](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/) · [Inc](https://www.inc.com/ben-sherry/openai-acquires-tbpn-the-irreverent-tech-podcast-with-a-cult-following/91326232)
-
-**2. SpaceX $60B에 AI 코딩툴 Cursor 인수설**
-
-폴리마켓에서 유통되는 루머인데요. SpaceX가 AI 코딩 도구 Cursor를 $60B에 인수할 수 있다는 얘기가 실리콘밸리를 떠돌고 있습니다. All-In 팟캐스트도 이 주제를 다룬 것으로 알려졌습니다. 아직 공식 확인은 없습니다.
+이란 휴전 연장 소식에도 WTI는 $94-95선을 유지하고 있다. 에너지 섹터는 2026년 연초 대비 +21% — 반도체 다음으로 뜨거운 섹터다. 데이터센터 전력 수요 + 중동 프리미엄이 겹친 구조적 상황이다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/iran-war-led-market-volatility-180000103.html)
