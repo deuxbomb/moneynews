@@ -1,50 +1,55 @@
 
 ---
 
-## 🎙️ 팟캐스트: 실리콘밸리의 귀를 빌려라
+## 🎧 이번 주 귀 기울여야 할 대화들
 
 ---
 
-### 1. All-In Podcast — "애플의 다음 챕터, SpaceX가 Cursor를 샀다, Palantir의 논란"
-
-*에피소드 | 2026년 4월 24~25일*
-
-팀 쿡 퇴임 이후 팬들이 가장 궁금해하던 질문에 All-In이 달려들었다. 새 CEO 존 터너스(John Ternus)는 애플을 어디로 이끌까? Chamath·Jason·Sacks·Friedberg 사천왕은 터너스가 '하드웨어 정의 미래'를 그린다고 분석한다. Vision Pro, Apple Silicon, AR/VR의 삼각 축을 중심으로 팀 쿡의 서비스-수익 시대와는 다른 엔지니어 중심 문화로 복귀할 것이라는 관측이다.
-
-두 번째 폭탄은 SpaceX-Cursor 딜이었다. 일론 머스크가 AI 코딩 도구 Cursor를 $600억에 인수하려 한다는 보도가 나왔다. 팟캐스트는 이를 단순한 M&A가 아니라 "컴퓨팅 파워를 레버리지로 쓰는 AI 시대의 새로운 자산 논리"로 해석했다. SpaceX의 스타링크 컴퓨팅 자원 + Cursor의 코드 생성 AI를 결합하면 개발자 생산성의 새로운 표준을 만들 수 있다는 논리다.
-
-세 번째 주제는 SaaS 대량 학살(bloodbath). 기업용 SaaS 업체들이 AI 에이전트에 대체되며 구독 해지가 급증하고 있다는 데이터가 나왔고, Sacks는 "SaaS 벨류에이션이 아직 현실을 반영 못 했다"고 경고했다. Palantir의 논란적 매니페스토, 젊은 세대 대장암 급증의 원인 추적(Science Corner)도 다뤘다.
-
-왜 봐야 하나: 애플 CEO 교체 + SpaceX Cursor 딜 + SaaS 붕괴론, 세 가지 투자 내러티브가 한 에피소드에 압축됐다.
-
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393)
+### 🎙️ 팟캐스트 하이라이트 (4월 3주~4주차)
 
 ---
 
-### 2. TBPN (OpenAI 인수 후) — "OpenAI가 팟캐스트를 왜 샀나"
+**1. [All-In Podcast] "SpaceX IPO, 2026 IPO 폭풍, OpenAI 다운라운드" (4월 4주차)**
 
-*최신 에피소드 | "Thoma Bravo Loses Medallia, OpenAI Drops ChatGPT 5.5, Bob Iger Returns"*
+차마트, 제이슨, 색스, 프리드버그 넷이 다시 모였습니다. 이번 주 에피소드의 핵심 토픽은 세 가지였습니다.
 
-실리콘밸리 팟캐스트 씬의 가장 큰 사건: OpenAI가 테크 팟캐스트 TBPN(Technology Business Programming Network)을 '저수억 달러'에 인수했다. 호스트 John Coogan·Jordi Hays가 진행하는 이 쇼는 평일 매일 X와 YouTube로 생중계하며 빠른 속도의 테크 뉴스 해설로 실리콘밸리의 컬트적 팬덤을 쌓았다. NYT는 "실리콘밸리의 최신 강박"이라 표현했다.
+첫 번째, SpaceX IPO 이야기가 드디어 구체화되고 있다는 얘기입니다. '우주'를 단순한 탐험이 아닌 새로운 산업 프론티어로 보는 시각이 에피소드 전반에 깔려 있었습니다. 두 번째는 2026년 IPO 폭발 국면입니다. 전쟁 공포로 움츠러들었던 IPO 시장이 평화협상 기대감으로 다시 열리고 있다는 분석이 나왔습니다. 세 번째는 OpenAI 다운라운드 우려 — AI 인프라 비용이 치솟는 상황에서 수익화는 늦어지고 있다는 진단입니다.
 
-왜 OpenAI가 팟캐스트를 샀나? 답은 단순하다 — 미디어가 AI 시대의 새로운 브랜딩 전쟁터이기 때문이다. GPT 5.5 출시, ChatGPT 사용자 습관 형성, 개발자 커뮤니티 영향력 확보에 있어 TBPN의 일간 라이브 포맷은 유효한 무기다. Slate는 "이건 팟캐스트 구매가 아니라 서사(narrative) 구매"라고 날카롭게 짚었다.
-
-최신 에피소드는 Thoma Bravo의 Medallia 인수 무산, OpenAI ChatGPT 5.5 공개, Bob Iger의 복귀설을 다룬다.
-
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/tbpn/id1772360235) · [Slate](https://slate.com/business/2026/04/openai-podcast-sam-altman-tbpn.html)
+덤으로 SPLC(빈곤법률센터) 기소 이슈와, 젊은층 대장암 급증의 잠재적 원인에 대한 사이언스 코너도 있었습니다. All-In이 시장 이야기만 하지 않는다는 걸 보여주는 대목입니다. [All-In Podcast](https://allin.com/episodes)
 
 ---
 
-### 3. No Priors — "AI 시대의 CEO는 다르게 리드한다"
+**2. [TBPN] "OpenAI에 팔렸습니다" — 테크 저널리즘의 새 챕터**
 
-*에피소드 | 2026년 4월 17일 | 게스트: Bill McDermott (ServiceNow CEO)*
+TBPN 자체가 뉴스가 됐습니다. 4월 초, OpenAI가 일간 테크 뉴스 팟캐스트 TBPN을 수백억달러에 인수했습니다. 호스트 John Coogan과 Jordi Hays는 "편집 독립성을 유지한다"고 선언했지만, 테크 저널리즘 커뮤니티에서는 뜨거운 논쟁이 일었습니다.
 
-All-In이 투자자 시각이라면, No Priors는 기술 실무자들의 언어를 쓴다. 이번 에피소드에서 ServiceNow CEO 빌 맥더못은 "AI가 SaaS를 죽인다는 말은 틀렸다. 워크플로우 자동화가 플랫폼을 더 강하게 만든다"고 주장한다. All-In의 Sacks와 정반대 시각인데, 어느 쪽이 맞는지는 올해 실적이 말해줄 것이다.
-
-맥더못이 특히 강조한 포인트: 기업들이 AI를 도입할 때 실패하는 이유의 80%는 기술이 아니라 변화 관리(change management)라는 것. "데이터 레이어가 통합되지 않은 기업에 AI는 소음을 증폭시킬 뿐"이라는 그의 말은 AI 투자 ROI 논쟁에 실무적 맥락을 제공한다. 수요일 GOOGL·MSFT 실적 발표 전에 들어두면 좋은 에피소드.
-
-[Spotify](https://open.spotify.com/show/0O65xhqvGVhpgdIrrdlEYk)
+왜 OpenAI는 팟캐스트를 샀을까요. 실리콘밸리의 주도권 내러티브를 미디어 차원에서 통제하려는 전략이라는 분석이 지배적입니다. CNN은 "OpenAI가 AI를 사는 게 아니라 영향력을 샀다"고 표현했습니다. 하루 3시간 유튜브+X 라이브, AI·스타트업·국방·빅테크를 아우르는 TBPN의 콘텐츠 방향이 앞으로 어떻게 바뀔지가 진짜 이야기입니다. [TechCrunch](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/) · [CNN](https://www.cnn.com/2026/04/03/media/openai-tbpn-podcast-sale-lehane)
 
 ---
 
-> 📱 **이번 주 팟캐스트 원라이너**: 애플은 하드웨어로 돌아가고, OpenAI는 미디어를 사고, AI는 기업의 워크플로우를 재편한다. 세 팟캐스트가 각자 다른 언어로 같은 미래를 묘사한다.
+**3. [Lex Fridman Podcast #490] "2026년 AI의 현재: LLM, 코딩, 스케일링 법칙, 중국, 에이전트" (2026년 초)**
+
+Lex Fridman이 Nathan Lambert와 Sebastian Raschka를 불러 앉혔습니다. 이 에피소드는 올해 초 공개됐지만, 지금 들어도 너무 밀도 높은 콘텐츠입니다.
+
+핵심 논점은 두 가지였습니다. 첫째, 스케일링 법칙이 여전히 유효한가? (두 사람의 대답: "에이전트와 추론 시간 컴퓨팅 측면에서는 여전히 유효하다") 둘째, 중국 AI는 어디까지 왔는가? DeepSeek 이후 미국과의 격차가 좁혀졌다는 평가와 함께, 오픈소스가 중국의 추격을 도와주고 있다는 우려가 나왔습니다.
+
+AI 에이전트가 실제로 소프트웨어 엔지니어를 대체하기 시작하는 시점에 대한 이야기도 나왔는데요. "2026년은 도구 사용 에이전트의 원년"이라는 말이 지금 돌아보면 꽤 정확한 예언이었습니다. [Spotify](https://open.spotify.com/episode/4UBPQG2Z7s70DpRVD5kMbC) · [YouTube](https://www.youtube.com/watch?v=EV7WhVT270Q)
+
+---
+
+**4. [Lenny's Podcast] "마케팅에서 대부분이 놓치는 것 — Rory Sutherland"**
+
+오길비 부회장이자 행동경제학자인 Rory Sutherland가 등장했습니다. 그의 주장은 단순합니다. "논리적인 것이 최선의 선택이 아닐 때가 많다." 사람들이 왜 비논리적으로 보이는 결정을 내리는지, 그리고 스타트업과 마케터들이 이 비논리성을 어떻게 활용할 수 있는지를 풀어냈습니다.
+
+투자자 입장에서 왜 이 에피소드가 유익하냐면요 — 결국 소비자 심리가 주가를 움직이기 때문입니다. "좋은 제품인데 왜 안 팔리나"가 아니라 "사람들이 어떤 프레임에서 이 제품을 인식하는가"를 이해하는 게 먼저라는 메시지입니다. [Lenny's Podcast](https://www.lennyspodcast.com/episodes/)
+
+---
+
+**5. [No Priors] AI, 머신러닝, 스타트업 최신 동향**
+
+Elad Gil과 Sarah Guo가 진행하는 No Priors는 AI 투자자와 창업자의 시각에서 기술 트렌드를 조명합니다. 최근 에피소드들에서는 '에이전트 엔지니어링'이 개발 방식을 어떻게 바꾸는지, 그리고 AI 스타트업 생태계에서 모델 레이어 vs 애플리케이션 레이어의 가치 분배 문제가 핵심 주제로 다뤄졌습니다. 기술 이해와 투자 논리를 자연스럽게 연결하는 팟캐스트로, AI 섹터 투자자라면 구독 필수입니다. [No Priors Podcast](https://feeds.megaphone.fm/nopriors)
+
+---
+
+*머뉴 MoneyNews | 2026년 4월 26일 | 돈이 되는 모든 것에 대한 소식*
+*© 2026 MoneyNews. 본 뉴스레터의 내용은 투자 조언이 아닙니다.*

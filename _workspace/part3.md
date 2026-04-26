@@ -1,80 +1,92 @@
 
 ---
 
-## 📰 뉴스 브리핑
+## 📰 이번 주 꼭 알아야 할 뉴스
 
 ---
 
-### 🤖 오늘 자율주행 세계의 중심은 베이징이었다
+### 🌐 증시 포인트 — "이란전쟁 전으로 돌아왔다, 이제는 그 이상으로"
 
-**Auto China 2026, 자율주행 기술 전쟁터로**
+2026년 4월 12일, 트럼프가 호르무즈 해협에 해군 봉쇄령을 내렸을 때만 해도 S&P 500은 공포로 흔들렸습니다. 세계 원유의 약 20%가 통과하는 해협이 막힌다는 것, 브렌트유가 한때 $120에 육박했고 에너지 섹터만 혼자 신났습니다.
 
-토요일 베이징 모터쇼(Auto China 2026) 현장은 중국 자율주행 산업의 글로벌 선언문이 됐다. 오늘(4/25) 하루에만 세 건의 굵직한 발표가 쏟아졌다.
+그런데 불과 2주 만에 분위기가 완전히 뒤집혔습니다. 미국과 이란이 파키스탄에서 평화협상을 타진한다는 소식이 흘러나오자, 투자자들은 전쟁 프리미엄을 빠르게 걷어냈습니다. 나스닥은 +1.63%, S&P 500은 +0.80%로 사상 최고치를 경신하며 4월 24일 마감했습니다. 다우만 -0.16%로 소폭 약했는데, 에너지·방산주가 빠지면서 전통적 블루칩이 상대적으로 부진했습니다.
 
-**1. Pony.ai + NVIDIA DRIVE Hyperion, 로보택시 상업화 박차**
-
-_이야기:_ 중국 자율주행 스타트업 Pony.ai가 오늘 NVIDIA DRIVE Hyperion 플랫폼 기반의 차세대 자율주행 도메인 컨트롤러를 공식 발표했다. NVIDIA DRIVE AGX Thor with NVLink를 탑재해 컴퓨팅 파워를 대폭 끌어올린 이 시스템은 Pony.ai의 로보택시 상업화를 위한 핵심 인프라다.
-
-_배경:_ Pony.ai는 현재 중국 2개 대도시에서 단위경제(unit economics) 손익분기점을 이미 달성했다고 밝혔다. 2026년 말까지 로보택시 차량을 3,000대 이상으로 늘리고 전 세계 20개 이상 도시로 확장할 계획이다. NVIDIA는 하드웨어를 공급하는 동시에 자율주행 클라우드 훈련 인프라도 통째로 제공한다. 이 파트너십이 의미하는 건 단순한 칩 공급이 아니다 — NVIDIA가 웨이모·테슬라에 이어 중국 자율주행 생태계까지 표준 인프라로 장악하고 있다는 신호다.
-
-_의미:_ NVDA의 자율주행 TAM(전체 시장)이 美 시장을 넘어 중국까지 확장. 웨이모가 없는 시장에서 Pony.ai는 사실상 중국의 웨이모다. [PR Newswire](http://www.prnewswire.com/news-releases/ponyai-announces-new-generation-autonomous-driving-compute-platform-built-on-nvidia-drive-hyperion-302753517.html)
+여기서 중요한 것 하나. CNBC는 4월 22일 "연초부터 이어졌던 기술주 탈출 대행진이 이미 끝났다"고 보도했습니다. 기술주로 다시 돈이 흘러들어오고 있다는 뜻입니다. 실제로 이번 주 S&P 500 주간 기준으로 +0.6%, 나스닥 +1.5%였지만, 다우는 -0.4%였습니다. 전통 가치주에서 AI·기술주로의 자금 이동이 가시화되고 있습니다. [Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/04/24/stock-market-today-april-24-s-and-p-500-and-nasdaq-set-new-highs-on-tech-surge/) · [CNBC](https://www.cnbc.com/2026/04/22/the-much-hyped-great-rotation-out-of-tech-for-2026-may-be-over-already.html)
 
 ---
 
-**2. DeepRoute.ai, 중국 도로 위 30만 대**
+### 🚗 자율주행 뉴스 — "베이징에 로보택시가 쏟아졌다"
 
-_이야기:_ 중국 자율주행 소프트웨어 기업 DeepRoute.ai가 오늘 현재 30만 대 이상의 차량에 자사 첨단 운전보조 시스템(ADAS)이 탑재돼 중국 도로를 달리고 있다고 밝혔다. 올해 안에 추가로 100만 대를 목표로 한다.
+**1. Auto China 2026: 중국이 로보택시 전쟁을 선포하다**
 
-_배경·의미:_ 한국의 카카오모빌리티가 100만 가입자에 도달하는 데 수년이 걸렸다면, 중국 ADAS 보급은 지금 다른 속도로 움직이고 있다. 30만 → 130만은 올 한 해에 이루어질 일이다. 웨이모·테슬라 방식의 '완전 자율주행' 논쟁이 길어지는 동안, 중국은 ADAS 대량 보급으로 데이터를 쌓고 점진적 자율화를 밀어붙이는 투-트랙 전략을 구사한다. [ChinaTechNews](https://www.chinatechnews.com/2026/04/25/120509-pony-ai-announces-new-generation-autonomous-driving-compute-platform-built-on-nvidia-drive-hyperion)
+4월 24~25일, 베이징에서 열린 오토차이나 2026은 단순한 자동차 전시회가 아니었습니다. 중국이 로보택시 시장의 실력을 세계에 과시하는 무대였습니다.
 
----
+길리(Geely) 자동차 그룹이 공개한 'Eva Cab'는 중국 최초의 전용 로보택시 차체입니다. 일반 승용차를 개조한 게 아니라, 처음부터 L4 자율주행을 위해 설계된 차량이죠. 탑재된 2,160선 디지털 라이다는 600m 거리까지 감지하는 세계 최초 사양입니다. 여기에 카오카오(CaoCao) 모빌리티와 협력해 2027년 상용화를 목표로 합니다.
 
-**3. XPENG VLA 2.0 — 물리적 AI가 운전석에 탄다**
+이게 왜 중요하냐면요 — 지금까지 중국의 로보택시는 대부분 기존 차종을 개조하는 방식이었습니다. 전용 설계 차체는 비용 구조와 안전성에서 차원이 다릅니다. 골드만삭스는 중국 로보택시 대수가 2025년 약 5,000대에서 2026년 1만 4,000대로 3배 증가할 것으로 전망하고 있습니다. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/24/3280986/0/en/Geely-Technology-Ecosystem-on-Full-Display-and-Debut-of-China-s-First-Purpose-Built-Robotaxi-at-Auto-China-2026.html)
 
-_이야기:_ 오늘 Auto China 2026에서 XPENG은 VLA(Vision-Language-Action) 2.0 지능형 주행 시스템 풀스택 물리 AI 생태계를 선보였다. 3월 양산 적용 이후 소비자 테스트드라이브 참여 10만명, 만족도 98%, 시승 후 주문 전환 시간 -44.7% 단축이라는 성과를 공개했다.
+**2. Pony.ai, "2027년 로보택시 한 대 가격 2.3만 위안 아래로"**
 
-_의미:_ VLA는 GPT 계열 언어모델이 자동차 제어에 직결되는 구조다. 테슬라 FSD처럼 시각 데이터를 AI로 처리하지만, 자연어 명령과 상황 추론까지 통합한 더 고도화된 접근이다. 중국 내수 시장이 이 기술의 실험장이 되고 있다. [Manila Times](https://www.manilatimes.net/2026/04/25/tmt-newswire/pr-newswire/ai-transforms-the-world-xpeng-showcases-its-full-stack-physical-ai-ecosystem-at-auto-china-2026/2328312)
+Pony.ai도 오토차이나에서 큰 발표를 했습니다. 차세대 Gen-7 로보택시의 차량 원가를 RMB 230,000(약 3,200만원) 이하로 낮추겠다는 계획입니다. 여기에 NVIDIA와 협력한 새로운 자율주행 컴퓨팅 플랫폼을 공개하고, 올해 주요 1선 도시에 1,000대의 bZ4X 기반 로보택시를 배포할 계획이라고 밝혔습니다.
 
----
+상용화의 핵심은 비용입니다. 웨이모의 재규어 기반 로보택시가 대당 수억원이 넘는 시대에서, 3,000만원대 로보택시가 나온다면 사업 모델이 완전히 달라집니다. [StockTitan](https://www.stocktitan.net/news/PONY/pony-ai-announces-new-generation-autonomous-driving-compute-platform-cwsd9eie06zb.html)
 
-### 💼 기업 뉴스: 한 주를 정리한다
+**3. 테슬라 로보택시 — 8개월에 14번 사고의 민낯**
 
----
+좋은 소식만 있는 건 아닙니다. 텍사스 오스틴에서 로보택시 서비스를 시작한 테슬라는 8개월 만에 14건의 사고를 기록하며 안전성 논란의 중심에 섰습니다. 머스크는 Q1 어닝 콜에서 "무감독 FSD는 Q4 2026 이후"라고 또 한 번 일정을 미뤘습니다.
 
-#### $TSLA — 수익은 냈고, 베팅은 더 커졌다
-
-_이야기:_ 4월 22일 테슬라 Q1 2026 실적 발표는 단순한 서프라이즈가 아니었다. EPS $0.41로 월가 예상($0.36)을 14% 상회했고, 매출 $22.39B, 자동차 총이익률 19.2%로 3분기 만에 반등했다. 에너지 스토리지 사업부 마진은 39.5%로 역대 최고를 찍었다. Q1 역대 최다 주문 잔고라는 표현도 등장했다.
-
-_배경:_ 그런데 진짜 뉴스는 지출이었다. 머스크는 2026년 전체 캐팩스를 $25B로 늘리겠다고 선언했다. 공장 확장, AI 인프라, 로보택시 런치, Optimus 생산이 목적지다. 머스크는 "올해 FCF는 마이너스가 될 것"이라고 직접 말했고, Optimus는 올 여름 생산 시작 → 2027년 외부 판매가 목표다. 또 하나의 카탈리스트: 사이버캡이 연방 안전 기준을 자체 인증 방식으로 충족하면서 2,500대 정부 한도를 피했다. 대량 생산의 법적 장벽이 사라진 것이다.
-
-_전망:_ $25B 지출 베팅이 현실화되면 테슬라는 완성차 기업이 아닌 AI·로보틱스 플랫폼 기업으로의 전환을 이번 사이클에 완성한다. 단기 FCF 마이너스를 참을 수 있는 투자자에겐 중장기 매력. [NPR](https://www.npr.org/2026/04/22/nx-s1-5791653/tesla-earnings-first-quarter-2026) · [TechXplore](https://techxplore.com/news/2026-04-tesla-robotaxi-production-cybercab-ramp.html)
+그럼에도 테슬라는 라스베가스, 마이애미, 올란도, 피닉스, 탬파로 로보택시 서비스를 확장할 계획입니다. '양보다 속도' vs '속도보다 안전' — 테슬라가 어느 쪽을 선택할지가 2026년 하반기의 핵심 관전 포인트입니다. [뉴스-와](https://www.news-wa.com/article/automobiles/new-car/2026/04/21/20260421500013)
 
 ---
 
-#### $OKLO — NVIDIA가 핵발전을 선택한 이유
+### 💼 기업 뉴스
 
-_이야기:_ 이번 주 가장 임팩트 있는 파트너십은 OKLO-NVIDIA-LANL 삼각 협업이었다. AI 데이터센터의 전력 소비가 기하급수적으로 늘어나는 상황에서 NVIDIA가 직접 핵에너지 기업과 손잡은 건 업계 최초다. 구체적으로 NVIDIA의 디지털 트윈·AI 시뮬레이션 기술을 핵연료 연구, 소재 개발, 발전소 그리드 안정화에 적용한다.
+**$TSLA — "25조짜리 꿈, 주주들의 혼돈"**
 
-_배경:_ OKLO는 아직 수익이 없지만 SMR 인허가 절차가 진행 중이다. 이번 파트너십은 기술적 신뢰성과 기관 투자자의 주목을 동시에 끌어올리는 효과가 있다. HSBC가 즉각 Buy 등급에 목표가 $96을 제시했고, 주가는 일주일 사이 $54 → $72 수준으로 +33% 상승했다.
+테슬라가 4월 22일 Q1 2026 실적을 발표했습니다. EPS $0.41로 예상($0.37)을 상회했고, 전년 대비 이익은 16% 증가했습니다. 여기까지는 좋았습니다.
 
-_전망:_ 원자력 규제 완화(에너지부, NRC 개혁), AI 전력 수요 급증, ESG 탄소중립 요구라는 3가지 순풍이 동시에 작동한다. 리스크는 규제 지연과 '수익 없는 성장주' 프리미엄의 변동성. [BusinessWire](https://www.businesswire.com/news/home/20260423742786/en/Oklo-NVIDIA-and-Los-Alamos-National-Laboratory-Collaborate-to-Advance-Nuclear-Fuel-Validation-at-Los-Alamos-in-Support-of-Nuclear-Powered-AI-Factories) · [Carbon Credits](https://carboncredits.com/oklo-stock-jumps-15-as-nvidia-partnership-sparks-nuclear-ai-momentum/)
+문제는 그 다음이었습니다. 머스크가 올해 자본지출(CapEx)을 기존 $20B에서 $25B으로 올린다고 발표하자, 주가는 초기 +4%에서 -3.7%로 뒤집혔습니다. 연초 대비로는 -17%입니다.
 
----
+$25B은 어디에 쓰일까요. 텍사스에 짓는 AI 반도체 팹($3B, SpaceX·xAI와 공유), 옵티머스 휴머노이드 로봇 생산라인, 사이버캡(Cybercab) 대량 생산 준비, 그리고 FSD 인프라입니다. 실제로 테슬라는 모델 S와 모델 X를 단종시키고 그 생산라인을 옵티머스 로봇 제조에 넘겼습니다. 머스크는 "옵티머스가 올 여름 생산에 돌입하고, 내년엔 테슬라 밖에서도 유용하게 쓰일 것"이라고 했습니다.
 
-#### $GOOGL — 실적 발표 4일 전, 월가는 무엇을 보고 있나
-
-_이야기:_ 알파벳은 4월 29일(수) 장 마감 후 Q1 2026 실적을 발표한다. 마이크로소프트·메타·아마존과 같은 날이다. 월가의 초점은 단 하나: 2026년 캐팩스 $175~185B를 정당화할 만큼 AI가 돈을 버는가? 직전 Q4 2025에선 EPS $2.82로 예상($2.61) 대비 +8% 서프라이즈를 기록했다.
-
-_배경:_ 알파벳은 올해 Wiz 인수를 마무리했고, Google Cloud 성장 가속화, YouTube 광고 모멘텀, Gemini 모델 고도화(Gemma 4, Gemini Robotics-ER 1.6)가 진행 중이다. 주가는 현재 $343으로 52주 범위 $335~$345 안팎에서 움직이며 실적을 기다리고 있다.
-
-_전망:_ AI capex ROI 정당화에 성공하면 $350 이상 돌파 시도. 미달 시 변동성 확대. 수요일은 나스닥 전체가 빅테크 실적에 흔들리는 날이다. [Meyka](https://meyka.com/blog/googl-alphabet-inc-earnings-preview-april-22-2026-2104/)
+웨드부시는 목표가 $600을 유지했고, TD 코웬은 $490으로 재확인했습니다. 반면 시장은 "실제 수익화는 2027년 이후"라는 현실에 먼저 반응했습니다. [CNBC](https://www.cnbc.com/2026/04/22/tesla-tsla-q1-2026-earnings-report.html) · [Fortune](https://fortune.com/2026/04/23/tesla-stock-price-earnings-call-outlook/)
 
 ---
 
-### 🪙 흥미로운 이야기들
+**$NVDA — "공급이 없으면 수요는 쌓인다"**
 
-**1. OpenAI가 팟캐스트를 샀다** — 테크 팟캐스트 TBPN(Technology Business Programming Network)을 OpenAI가 "수억 달러"(FT 보도, '저수억 달러')에 인수했다. 실리콘밸리 최신 뉴스를 매일 라이브로 전달하는 쇼였는데, OpenAI는 이를 미디어 전략의 일환으로 가져간 것. 기술이 아닌 서사를 사는 시대다. [Slate](https://slate.com/business/2026/04/openai-podcast-sam-altman-tbpn.html)
+4월 24일 NVDA는 +4.32%를 기록했습니다. AI 칩 수요가 "완전히 지수적으로 폭증하고 있다"는 젠슨 황의 발언이 다시 회자되고 있습니다. Blackwell 시스템은 2026년 중반까지 예약이 꽉 찼고, 마이크로소프트·아마존·구글·메타가 2026년에만 AI 인프라에 $200B 이상을 투자할 계획입니다. NVDA로 향하는 자금의 절대적 비중이 여기서 나옵니다.
 
-**2. Bill Ackman의 다음 타깃은 SpaceX?** — SpaceX IPO가 최대 $2T 가치로 수주 내 임박했다는 보도 속에서 Ackman의 Pershing Square가 참여할지 시장의 주목이 쏠린다. Ackman은 현재 Uber, Amazon, Meta, Alphabet을 보유 중이며 포트폴리오의 39%를 3개 종목에 집중한 상태다. 분석가들은 "그의 스타일(성숙 기업·합리적 밸류)과 IPO는 안 맞는다"고 본다. [Motley Fool](https://www.fool.com/investing/2026/04/21/will-billionaire-bill-ackman-jump-into-spacex-ipo/)
+미즈호는 NVDA를 Outperform으로 유지하며, AI 훈련·추론 칩 시장에서 2028년까지 75%+ 점유율을 유지할 것으로 전망했습니다. 공급 제약이 오히려 가격 결정력을 강화하는 구조입니다.
 
-**3. 캘리포니아 자율주행 이용자 500% 급증** — 캘리포니아주 자율주행 승차 건수가 2024년 대비 500% 급증했다는 데이터가 나왔다. 웨이모가 주당 50만 건 유료 운행을 기록하며 로보택시가 '실험'에서 '생활 인프라'로 넘어가는 변곡점이 보인다. [Local News Matters](https://localnewsmatters.org/2026/04/20/californians-hit-the-gas-on-self-driving-rides-autonomous-car-use-surges-500-since-2024/)
+---
+
+**$NFLX — "$25B 바이백도 못 막은 10% 하락"**
+
+넷플릭스가 Q1 2026 실적을 발표했습니다. 매출과 마진은 가이던스를 상회했지만, 시장이 원한 건 연간 전망 상향이었습니다. 넷플릭스가 이를 유지하자 주가는 10% 급락했습니다.
+
+넷플릭스는 $25B 규모의 자사주 매입 프로그램을 추가 승인했습니다. 그럼에도 시장의 실망감을 달래기엔 역부족이었는데요. 워너브라더스 인수가 불발된 이후 독자 콘텐츠 투자 방향에 대한 불안감도 겹쳤습니다. $92.44, -10%. [HistoricalOptionData](https://historicaloptiondata.com/nflx-trading-analysis-04-24-2026-0538-pm/)
+
+---
+
+**$OKLO — "핵에너지에 월가가 손을 들다"**
+
+4월 24일, HSBC가 OKLO에 대한 신규 커버리지를 Buy, 목표가 $96으로 시작했습니다. "AI 전력 수요 급증이 소형모듈원전(SMR)의 상업화 타임라인을 앞당기고 있다"는 게 핵심 논리입니다. OKLO 주가는 최근 1년 사이 3배 이상 올랐고, 14명 애널리스트의 컨센서스 목표가는 $102입니다. [CNBC](https://www.cnbc.com/2026/04/23/this-nuclear-energy-stock-has-more-than-tripled-hsbc-sees-more-gains-ahead.html)
+
+---
+
+**$OHI — "소파에 앉아서 연 5.8% 받는 방법"**
+
+오메가 헬스케어 인베스터스(OHI)가 주당 $0.67의 분기 배당을 선언했습니다. 연환산 $2.68, 현 주가($46.36) 기준 배당수익률은 **5.8%**입니다. 기관투자자인 Evergreen Capital Management가 4월 24일 OHI 지분을 추가 매입했다는 소식도 함께 나왔습니다. 고금리 환경에서도 헬스케어 리츠의 배당 안정성이 주목받고 있습니다. [The Markets Daily](https://www.themarketsdaily.com/2026/04/24/omega-healthcare-investors-inc-nyseohi-declares-0-67-quarterly-dividend.html)
+
+---
+
+### 🎙️ 흥미로운 이야기
+
+**1. "OpenAI가 팟캐스트를 샀다" — TBPN 인수의 의미**
+
+4월 초, OpenAI가 테크 뉴스 팟캐스트 TBPN(Tech Business Programming Network)을 인수했습니다. 금액은 "수백억달러 수준(low hundreds of millions)"으로 알려졌는데요. TBPN은 매일 3시간씩 유튜브와 X에서 라이브로 진행되는 테크·AI·스타트업 전문 팟캐스트입니다. 호스트인 John Coogan과 Jordi Hays는 "편집 독립성은 유지된다"고 했지만, 시장은 회의적입니다. AI 기업이 언론을 직접 통제하는 첫 사례가 될 수 있다는 우려입니다. [TechCrunch](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/) · [Inc](https://www.inc.com/ben-sherry/openai-acquires-tbpn-the-irreverent-tech-podcast-with-a-cult-following/91326232)
+
+**2. SpaceX $60B에 AI 코딩툴 Cursor 인수설**
+
+폴리마켓에서 유통되는 루머인데요. SpaceX가 AI 코딩 도구 Cursor를 $60B에 인수할 수 있다는 얘기가 실리콘밸리를 떠돌고 있습니다. All-In 팟캐스트도 이 주제를 다룬 것으로 알려졌습니다. 아직 공식 확인은 없습니다.
