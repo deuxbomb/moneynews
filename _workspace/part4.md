@@ -1,54 +1,51 @@
 ---
 
-## 🔬 딥다이브 + 스마트머니 — 돈은 어디로 가고 있나
+## 🔬 딥다이브 + 스마트머니
 
 ---
 
-### 실적 캘린더 — 이번 주 바이너리 이벤트들
+### "이번 주가 끝나면, 시장의 판도가 바뀝니다"
 
-이번 주는 빅테크 실적의 주간이다. 알파벳(4/29)을 필두로 아마존(5/1), 마이크로소프트가 줄줄이 대기하고 있다. 옵션 시장이 반영하는 알파벳의 실적 당일 예상 변동폭은 ±7% 내외다. 클라우드 성장률이 50%를 넘으면 상단, capex 증가가 시장 기대 이상이면 하단이다. 코인베이스 실적(5/7)도 주목할 이벤트다. 비트코인이 $77,000 근방에서 방향을 잡지 못하는 상황에서 거래량 기반 수익이 어떻게 나왔는지가 핵심이다.
+2026년 어닝 시즌의 하이라이트가 수요일(4월 29일) 단 하루에 몰렸습니다. Alphabet(GOOGL), Meta(META), Amazon(AMZN), Microsoft(MSFT)가 같은 날 장 마감 후 실적을 공개합니다. 이 네 기업의 시총 합계는 약 $15조 달러. 이들이 AI 인프라 투자의 열매를 제대로 보여준다면, S&P 500은 7,300을 향해 올라갈 수 있습니다. 실망스러운 결과가 나오면 기록적 고점에서 이익 실현이 쏟아질 수 있는 구조입니다.
 
-**주요 실적 발표 일정**
-- 4/29 (수): $GOOGL 알파벳 Q1 (장 마감 후) — EPS $2.68, 매출 $106.9B 컨센서스
-- 5/7 (목): $COIN 코인베이스 Q1 — EPS $0.24 컨센서스, 구독·서비스 매출 $550-630M 예상
-- 5/20 (수): $NVDA 엔비디아 FY26 Q1 — $78B 매출 가이던스
+시장이 특히 주목하는 것은 **구글 클라우드의 +50% 성장 달성 여부**, **메타의 광고 AI 수익화**, **아마존 AWS의 지속 성장**, **마이크로소프트 Azure AI 채택률**입니다. 이 네 가지 숫자가 동시에 나오는 날, 시장은 AI 투자 사이클이 실제로 수익을 낳고 있는지 첫 번째 본격적인 성적표를 받아보게 됩니다. [fool.com](https://www.fool.com/investing/2026/04/26/meta-google-amazon-microsoft-and-sofi-all-report-o/)
 
 ---
 
-### 애널리스트 컨센서스 — 숫자 뒤의 이야기
+### 📊 관심 종목 애널리스트 컨센서스
 
-$GOOGL은 이번 주 월가에서 가장 주목받는 실적이다. 매도 추천 제로, TipRanks Smart Score 8/10. 클라우드 50%+ 성장을 자신하는 이유는 2026년 capex를 $175-185B으로 두 배 늘리겠다는 결정에 있다. "돈을 이렇게 많이 쓰는 건 그만큼 수요가 확실하다는 것"이라는 해석이다. 금요일 종가 $341.81, ATH($344.40) 바로 아래.
+**$GOOGL**: 매출 $106~107B (컨센서스), EPS $2.60, 클라우드 +50% 기대. 기술적으로 약간 과매수 신호가 있으나 실적 모멘텀이 강합니다. Morningstar는 "적정가치" 수준으로 봅니다. Seeking Alpha 커뮤니티는 "올해 최고 픽"으로 꼽고 있습니다. [fool.com](https://www.fool.com/investing/2026/04/25/is-alphabet-stock-a-buy-ahead-of-earnings/)
 
-$NVDA의 38개 커버리지 애널리스트 평균 목표가는 $266 — 현재가 $208 대비 27.8% 업사이드. 4월 한 달간 +19% 올랐음에도 여전히 목표가까지 갭이 크다. 이번 주 알파벳 실적이 클라우드 AI 수요를 확인해주면, 엔비디아의 5/20 실적 기대감도 높아진다.
+**$NVDA**: Jensen Huang이 2027년까지 GPU 주문 잔고 $1조를 공개했습니다. 애널리스트들은 다가오는 실적 발표에서 세 자릿수 이익 성장을 기대합니다. Brookwood Investment Group은 최근 NVDA 비중을 크게 늘렸습니다. [indexbox.io](https://www.indexbox.io/blog/nvidia-stock-analysis-market-alignment-and-financial-performance-overview/)
 
-$TSLA Q1 실적: EPS $0.41(beat $0.37 est), 매출 $22.38B, 총마진 21.1%(+478bp YoY). 시장은 이익 개선을 반겼지만, 2026년 capex $25B+ 경고와 무감독 FSD 지연(Q4 이후)이 주가를 주간 -3.6% 눌렀다. 단기 투자자는 capex 부담을, 장기 투자자는 마진 회복을 본다.
+**$TSLA**: FSD 구독 성장(+51% YoY)이 강력한 반면, HW3 제한 발표가 일부 실망감을 줬습니다. Motley Fool은 "Bull case와 Bear case 모두 이번 업데이트로 강화됐다"고 분석합니다. [fool.com](https://www.fool.com/investing/2026/04/26/how-teslas-latest-update-changed-the-bull-and-bear/)
+
+**$NFLX**: Q2 가이던스 미스로 충격을 받았지만, 광고 매출 2배 성장 예상이 장기 bull case를 유지합니다. WBD 인수 완료는 2027년 이후. 그 전까지 불확실성이 주가에 프리미엄 할인으로 작용할 것입니다.
 
 ---
 
-### 옵션·수급 신호 — 스마트머니가 읽는 것들
+### 🎯 옵션 플로우 신호
 
-반도체 섹터는 오버바이 상태다. 4월 25일자로 나스닥 RSI가 70을 돌파 — 3월 30일 과매도(RSI 30) 이후 단 11 거래일 만의 전환으로, 1980년대 이후 가장 빠른 스윙이다. 이는 "추격 매수는 위험, 조정 시 진입"을 의미한다. 단, 알파벳 실적(4/29)이 예상을 상회하면 나스닥이 새 고점을 쓸 에너지가 있다.
+이번 주 특이 옵션 거래에서 주목되는 두 가지 신호가 포착됐습니다.
 
-비트코인은 $77,199, 전일 대비 -0.77%. 크립토 공포탐욕지수는 32(공포 구간). 주식 시장의 탐욕(69)과 크립토 시장의 공포(32)가 동시에 존재하는 상황. $COIN은 5/7 실적 전까지 크립토 가격 방향성에 연동되는 흐름이 이어질 전망이다.
+**Eaton Corp(ETN)**: 콜 옵션 거래량이 8,432계약으로 일평균 대비 11배 급증했습니다. 5월 15일 만기 $500 스트라이크 콜을 대량 매도하는 패턴으로, 5월 4일 실적 발표를 앞두고 고점에서 이익을 실현하려는 수요로 해석됩니다.
+
+**Burlington Stores(BURL)**: 풋 옵션 거래량이 3,872계약으로 일평균 풋 거래량의 7배입니다. 6월 5일 만기 $260 풋 3,815계약이 블록으로 거래됐습니다. 소비재 섹터에 대한 헤지 수요로 읽힙니다. [benzinga.com](https://www.benzinga.com/calendars/unusual-options-activity)
 
 ---
 
 ### 🏦 스마트머니 동향
 
-**ARK 인베스트 (4월 24일 거래 기준)**
+#### ARK Invest: 기록적 고점에서 멈춰서다
 
-캐시 우드의 이번 주 가장 눈에 띄는 베팅은 X-Energy(XE)다. IPO 첫날 $92.5M(약 1,270억원)어치를 매수했다. 동시에 아마존(AMZN)도 $71.5M 추가 매수. 반면 AMD는 $65.8M어치를 매도했다. AMD 주가가 DA Davidson 업그레이드로 $305→$337 갭 상승한 직후 차익실현을 한 셈이다. 로켓랩(RKLB)과 테라다인(TER)도 일부 줄였다. ARK의 메시지는 명확하다: AI → 전력 → 핵에너지 체인에 집중, 단기 급등한 반도체는 일부 트리밍.
+Cathie Wood의 ARK가 조용합니다. S&P 500이 사상 최고치를 경신하는 동안 ARK는 대규모 매수를 자제하고 있습니다. Benzinga 제목이 인상적입니다: "Cathie Wood Slams The Brakes — Ark Invest Sits Out As S&P 500 Smashes Records". 그러면서도 두 가지 움직임이 눈에 띕니다. 첫째, NFLX 하락 시 저점 매수. 둘째, 스타트업 직접 투자 — 피트니스 AI 앱 Lucra에 $2,000만 달러 Series B를 리드했습니다. ARK의 첫 스타트업 리드 투자라는 점에서 의미가 있습니다. [benzinga.com](https://www.benzinga.com/etfs/specialty-etfs/26/04/51863847/cathie-wood-slams-the-brakes-ark-invest-sits-out-as-sp-500-smashes-records) · [techcrunch.com](https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/)
 
-[TipRanks](https://www.tipranks.com/news/xe-amzn-amd-rklb-cathie-wood-bets-big-on-nuclear-ipo-and-amazon-trims-stakes-in-amd-and-rklb-4-25-26)
+#### 내부자 동향: Palantir CEO의 거대한 베팅
 
----
+Palantir 공동창업자 Alexander Karp가 1월 22일부터 4월 22일 사이 약 147만 주를 매수했습니다. 이 기간 미국 성장주 내부자 매수 중 단연 최대 규모입니다. 다른 내부자들이 팔 때 창업자가 직접 사고 있다는 것, 이 시그널은 무겁습니다.
 
-**외국인 수급 — 한국 증시에 귀환한 돈**
+반면 BigBear.ai(BBAI)는 지난 6개월 내부자 거래가 전부 매도입니다. 이사, CFO 모두 팔았습니다. 이런 엇갈림이 스마트머니가 어디에 컨빅션(conviction)을 갖고 있는지 보여줍니다. [heygotrade.com](https://www.heygotrade.com/en/blog/insider-buying-april-2026-growth-stocks/) · [quiverquant.com](https://www.quiverquant.com/news/Insider+Stock+Purchases:+April+25,+2026)
 
-4월 한 달 외국인은 코스피에서 5.9조원 순매수. 1~3월 55조원 순매도 후 방향 전환이다. 집중 종목은 SK하이닉스(약 2조원)와 삼성전자(약 1조원). AI 메모리 수요가 외국인을 끌어들이는 논리다. 기관투자자(금융투자)도 4월에만 12조원 가까이 코스피를 매수했다. 코스피 시총이 5,200조원을 넘어선 배경이다. [머니투데이](https://www.mt.co.kr/stock/2026/04/21/2026042115304962870)
+#### 헤지펀드 동향: 아마존 비중 확대
 
----
-
-**내부자 거래 & 헤지펀드 관심 종목**
-
-Oklo(OKLO) — NVIDIA와의 파트너십 발표 후 HSBC가 목표가를 상향하며 23% 업사이드를 제시했다. 기관 관심이 높아지는 구간이다. X-Energy(XE) — 아마존, 다우케미칼이 전략적 투자자이자 고객. 순수 재무 투자자가 아닌 산업 파트너들이 IPO에 참여했다는 점이 신뢰도를 높인다. 알파벳(GOOGL) — 이번 주 실적 앞두고 인사이더 매도 없음. 내부자들이 실적에 자신 있다는 시그널로 읽힌다.
+Whale Rock Capital Management가 아마존 포지션을 지난 분기에 28% 늘렸습니다 (+41만 주). 포트폴리오의 5.48% 비중입니다. AWS와 광고, 이 두 성장 엔진에 대한 구조적 확신을 보여주는 포지션입니다. 4월 29일 아마존 실적이 이 베팅의 1차 검증이 될 것입니다.
