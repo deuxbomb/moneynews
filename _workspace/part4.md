@@ -1,51 +1,58 @@
 ---
 
-## 🔬 딥다이브 + 스마트머니
+## 📊 딥다이브 + 스마트머니
 
 ---
 
-### "이번 주가 끝나면, 시장의 판도가 바뀝니다"
+### "AI에 투자한 6,450억달러, 이번 주 성적표가 공개됩니다"
 
-2026년 어닝 시즌의 하이라이트가 수요일(4월 29일) 단 하루에 몰렸습니다. Alphabet(GOOGL), Meta(META), Amazon(AMZN), Microsoft(MSFT)가 같은 날 장 마감 후 실적을 공개합니다. 이 네 기업의 시총 합계는 약 $15조 달러. 이들이 AI 인프라 투자의 열매를 제대로 보여준다면, S&P 500은 7,300을 향해 올라갈 수 있습니다. 실망스러운 결과가 나오면 기록적 고점에서 이익 실현이 쏟아질 수 있는 구조입니다.
+지금 월스트리트의 중심에는 하나의 질문이 있습니다. "AI 인프라에 이렇게 많은 돈을 쏟아붓고 있는데, 그게 정말 매출이 되고 있나?" 이번 주는 그 질문에 대한 가장 큰 답을 받는 주간입니다.
 
-시장이 특히 주목하는 것은 **구글 클라우드의 +50% 성장 달성 여부**, **메타의 광고 AI 수익화**, **아마존 AWS의 지속 성장**, **마이크로소프트 Azure AI 채택률**입니다. 이 네 가지 숫자가 동시에 나오는 날, 시장은 AI 투자 사이클이 실제로 수익을 낳고 있는지 첫 번째 본격적인 성적표를 받아보게 됩니다. [fool.com](https://www.fool.com/investing/2026/04/26/meta-google-amazon-microsoft-and-sofi-all-report-o/)
+**4월 29일(내일) 실적 발표 예정:**
+- $GOOGL (구글): EPS $2.63 예상, 매출 $92.2B. 클라우드 성장률 +50%+ 예상. 지난 분기(+48%) 가속 여부가 핵심.
+- $MSFT (마이크로소프트): Azure +38% 예상. 올해 AI 투자 약 1,460억달러 집행 중.
+- $META (메타): EPS $7.51 예상, 매출 $55.5B(+31% YoY). 2026년 capex 1,150~1,350억달러.
+- $AMZN (아마존): AWS 성장률과 광고 매출 가속이 핵심 변수.
 
----
+**4월 30일 발표:**
+- $AAPL (애플): 이번 달 이미 +6% 상승하며 결산에 임박.
 
-### 📊 관심 종목 애널리스트 컨센서스
-
-**$GOOGL**: 매출 $106~107B (컨센서스), EPS $2.60, 클라우드 +50% 기대. 기술적으로 약간 과매수 신호가 있으나 실적 모멘텀이 강합니다. Morningstar는 "적정가치" 수준으로 봅니다. Seeking Alpha 커뮤니티는 "올해 최고 픽"으로 꼽고 있습니다. [fool.com](https://www.fool.com/investing/2026/04/25/is-alphabet-stock-a-buy-ahead-of-earnings/)
-
-**$NVDA**: Jensen Huang이 2027년까지 GPU 주문 잔고 $1조를 공개했습니다. 애널리스트들은 다가오는 실적 발표에서 세 자릿수 이익 성장을 기대합니다. Brookwood Investment Group은 최근 NVDA 비중을 크게 늘렸습니다. [indexbox.io](https://www.indexbox.io/blog/nvidia-stock-analysis-market-alignment-and-financial-performance-overview/)
-
-**$TSLA**: FSD 구독 성장(+51% YoY)이 강력한 반면, HW3 제한 발표가 일부 실망감을 줬습니다. Motley Fool은 "Bull case와 Bear case 모두 이번 업데이트로 강화됐다"고 분석합니다. [fool.com](https://www.fool.com/investing/2026/04/26/how-teslas-latest-update-changed-the-bull-and-bear/)
-
-**$NFLX**: Q2 가이던스 미스로 충격을 받았지만, 광고 매출 2배 성장 예상이 장기 bull case를 유지합니다. WBD 인수 완료는 2027년 이후. 그 전까지 불확실성이 주가에 프리미엄 할인으로 작용할 것입니다.
+**5월 20일 발표:**
+- $NVDA (엔비디아): 오늘 신고가 경신($215.58). 다음 촉매는 5월 20일 실적.
 
 ---
 
-### 🎯 옵션 플로우 신호
+### 애널리스트 컨센서스
 
-이번 주 특이 옵션 거래에서 주목되는 두 가지 신호가 포착됐습니다.
+지금 시장에서 가장 컨센서스가 단단한 종목들을 보면 패턴이 보입니다. AI 인프라 체인에 속한 기업들에 대한 확신이 강하고, 그 중에서도 "실제로 AI 투자를 매출로 전환하는 능력"을 증명한 기업과 그렇지 못한 기업 사이에 평가가 갈리고 있어요.
 
-**Eaton Corp(ETN)**: 콜 옵션 거래량이 8,432계약으로 일평균 대비 11배 급증했습니다. 5월 15일 만기 $500 스트라이크 콜을 대량 매도하는 패턴으로, 5월 4일 실적 발표를 앞두고 고점에서 이익을 실현하려는 수요로 해석됩니다.
+- $GOOGL: 애널리스트 31명 중 26명 Buy, 5명 Hold, Sell 0명. Strong Buy 컨센서스.
+- $NVDA: 데이터센터 수요 탄탄. 목표가 컨센서스 $220~240 범위.
+- $OKLO: 15명 전원 Strong Buy. 평균 목표가 $99.32(현재 대비 +33%).
+- $TSLA: Tigress Financial이 4월 27일 신규 Buy 커버리지 개시.
+- $COIN: Goldman Sachs 강세 전환, 크립토 규제 정상화 수혜 기대.
+- $ADBE (어도비): Mizuho가 4월 27일 Outperform → Neutral로 하향, 목표가 $270로 인하. AI 경쟁 우려.
 
-**Burlington Stores(BURL)**: 풋 옵션 거래량이 3,872계약으로 일평균 풋 거래량의 7배입니다. 6월 5일 만기 $260 풋 3,815계약이 블록으로 거래됐습니다. 소비재 섹터에 대한 헤지 수요로 읽힙니다. [benzinga.com](https://www.benzinga.com/calendars/unusual-options-activity)
+---
+
+### 옵션 플로우 신호
+
+- $NVDA: P/C Ratio 0.84 — 풋보다 콜이 더 많아요. 강세 포지션 지배.
+- $GOOGL: 5월 1일 주간 콜 옵션 내재변동성(IV) 66 — 내일 실적 앞두고 옵션 베팅 급증 중.
+- $CCK (크라운 홀딩스): 오늘 콜/풋 비율 35:1. 오늘 어닝 발표 앞두고 강세 베팅 포착.
+- $GPK (그래픽 패키징): 일평균 대비 219배 옵션 거래량. 이상 급등.
 
 ---
 
 ### 🏦 스마트머니 동향
 
-#### ARK Invest: 기록적 고점에서 멈춰서다
+이번 주 스마트머니의 가장 큰 뉴스는 역설적이게도 스마트머니 자체가 IPO를 한다는 소식입니다. 빌 애크먼의 퍼싱 스퀘어 캐피털 매니지먼트가 NYSE 상장을 위해 50억달러 규모 IPO 가격 책정을 오늘(4월 28일) 합니다. 기관 투자자 관심이 85%에 달할 만큼 수요가 폭발적이에요. 애크먼은 "다음 버크셔 해서웨이를 만들겠다"고 공언하고 있습니다.
 
-Cathie Wood의 ARK가 조용합니다. S&P 500이 사상 최고치를 경신하는 동안 ARK는 대규모 매수를 자제하고 있습니다. Benzinga 제목이 인상적입니다: "Cathie Wood Slams The Brakes — Ark Invest Sits Out As S&P 500 Smashes Records". 그러면서도 두 가지 움직임이 눈에 띕니다. 첫째, NFLX 하락 시 저점 매수. 둘째, 스타트업 직접 투자 — 피트니스 AI 앱 Lucra에 $2,000만 달러 Series B를 리드했습니다. ARK의 첫 스타트업 리드 투자라는 점에서 의미가 있습니다. [benzinga.com](https://www.benzinga.com/etfs/specialty-etfs/26/04/51863847/cathie-wood-slams-the-brakes-ark-invest-sits-out-as-sp-500-smashes-records) · [techcrunch.com](https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/)
+애크먼의 현재 포트폴리오를 보면 $GOOGL, $AMZN, $META 세 종목이 전체 150억달러 포트폴리오의 38%를 차지합니다. 내일 이 세 기업 모두 실적을 발표합니다. 단 하루에 포트폴리오의 3분의 1 이상이 시험대에 오르는 셈이에요.
 
-#### 내부자 동향: Palantir CEO의 거대한 베팅
+캐시 우드의 ARK 인베스트는 4월 초 TSLA를 약 1,430만달러 추가 매수했습니다. ARKK 내 TSLA 비중은 현재 19.71%로 최대 포지션을 유지하고 있습니다. "테슬라의 로보택시·에너지 사업이 주가를 재평가받을 것"이라는 캐시 우드의 확신은 여전히 흔들림이 없는 것 같습니다.
 
-Palantir 공동창업자 Alexander Karp가 1월 22일부터 4월 22일 사이 약 147만 주를 매수했습니다. 이 기간 미국 성장주 내부자 매수 중 단연 최대 규모입니다. 다른 내부자들이 팔 때 창업자가 직접 사고 있다는 것, 이 시그널은 무겁습니다.
+내부자 매수 측면에서는 팔란티어($PLTR)의 공동창업자 알렉산더 카프가 1월 22일부터 4월 22일 사이 무려 147만 주를 장내 매수한 것이 눈에 띕니다. 최근 미국 성장주 내부자 매수 중 가장 큰 규모입니다. "내 회사가 싸다"는 베팅이죠.
 
-반면 BigBear.ai(BBAI)는 지난 6개월 내부자 거래가 전부 매도입니다. 이사, CFO 모두 팔았습니다. 이런 엇갈림이 스마트머니가 어디에 컨빅션(conviction)을 갖고 있는지 보여줍니다. [heygotrade.com](https://www.heygotrade.com/en/blog/insider-buying-april-2026-growth-stocks/) · [quiverquant.com](https://www.quiverquant.com/news/Insider+Stock+Purchases:+April+25,+2026)
+퍼싱 스퀘어 IPO와 함께, 헤지펀드 업계에서는 지금이 "2021년 밈주식 시대 이후 개인 투자자에게 헤지펀드 전략이 가장 열린 시기"라는 분석도 나옵니다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/bill-ackman-pershing-square-raise-232739846.html) · [Benzinga](https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/04/51695670/cathie-wood-buys-tesla-tsla-adds-robinhood-hood-stock)
 
-#### 헤지펀드 동향: 아마존 비중 확대
-
-Whale Rock Capital Management가 아마존 포지션을 지난 분기에 28% 늘렸습니다 (+41만 주). 포트폴리오의 5.48% 비중입니다. AWS와 광고, 이 두 성장 엔진에 대한 구조적 확신을 보여주는 포지션입니다. 4월 29일 아마존 실적이 이 베팅의 1차 검증이 될 것입니다.
