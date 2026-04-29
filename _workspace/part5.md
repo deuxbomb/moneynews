@@ -1,36 +1,38 @@
 ---
 
-## 🎙️ 이번 주 꼭 들어야 할 팟캐스트
+## 🎙️ 이번 주 꼭 들어야 할 대화들
 
 ---
 
-### 1. **All-In Podcast** — "스페이스X IPO, OpenAI 다운라운드, 2026 IPO 폭발"
-📅 4월 28일 최신 에피소드
+**1. [All-In] E268 — "OpenAI의 정체성 위기, 데이터센터 전쟁" (4월 17일)**
 
-Chamath Palihapitiya, Jason Calacanis, David Sacks, David Friedberg — 실리콘밸리의 솔직한 입 네 개가 오늘 나온 가장 뜨거운 주제들을 다뤘습니다. 스페이스X의 IPO 가능성과 우주 경제가 만들어낼 기회, 2026년의 IPO 대폭발(AI 스타트업 중심), 그리고 매우 흥미로운 주제 — OpenAI의 내부 균열과 다운라운드 가능성. 오늘 WSJ 보도로 현실화된 OpenAI 매출 미달 이슈를 이 팟캐스트가 앞서 분석했다면, 그 맥락을 이해하기 위한 필청 에피소드입니다. 또한 SPLC(빈곤법률센터) 기소 이슈, 대장암 급증의 과학적 원인에 대한 사이언스 코너도 포함됩니다. 투자자라면 IPO 섹션과 OpenAI 분석 파트는 반드시 들어야 합니다. [All-In Podcast](https://allin.com/episodes)
+Chamath, Jason Calacanis, David Sacks, David Friedberg가 나란히 앉아 오늘 시장을 뒤흔든 바로 그 주제를 3주 전에 꺼냈습니다. OpenAI의 정체성 위기(비영리 → 영리 전환 논란), AI 인프라 데이터센터를 둘러싼 빅테크 간의 자원 전쟁, 그리고 이란 뉴스가 시장에 미치는 영향까지 91분 동안 치열하게 다룹니다.
 
----
-
-### 2. **TBPN** — "OpenAI에 인수된 팟캐스트가 들려주는 테크 뉴스"
-📅 4월 23일 에피소드 (최신 공개분)
-
-아이러니가 극대화됐습니다. OpenAI가 TBPN을 인수한 바로 그 시점, 이 팟캐스트는 Thoma Bravo의 Medallia 매각 실패, GPT-5.5 출시, 그리고 자율주행 포크리프트 스타트업 Cavalla Industries의 CTO Victor Boyd와의 인터뷰를 담았습니다. 자율주행이 단순히 '자동차'에 국한되지 않는다는 것 — 물류창고의 포크리프트, 공장 내 운반 로봇이 이미 실용화 단계에 들어섰다는 이야기는 투자자들이 자율주행 섹터를 좁게 보지 말아야 한다는 시각을 줍니다. 이제 OpenAI 소유의 팟캐스트가 됐으니 향후 보도 중립성에 관심을 두고 모니터링할 필요가 있습니다. [Podbean](https://www.podbean.com/podcast-detail/2avnk-327c89/TBPN-Podcast)
+특히 이번 주 Alphabet, Microsoft, Meta 실적을 앞두고 들으면 AI 인프라 투자의 '과잉인가 vs. 필수인가' 논쟁에 대한 프레임을 잡는 데 도움이 됩니다. Sacks의 "정부가 AI 거버넌스를 어떻게 잡아야 하는가"에 대한 발언도 흥미롭습니다. [All-In Podcast](https://allin.com/episodes)
 
 ---
 
-### 3. **No Priors** — "$3,000억 — AI에 쏟아진 Q1 2026의 숫자"
-📅 4월 최신 에피소드
+**2. [TBPN] "Intel Rips, Thrive Launches Eternal, GPT 5.5" (4월 23일)**
 
-Sarah Guo와 Elad Gil이 진행하는 No Priors는 이번 에피소드에서 2026년 1분기 VC 투자액 3,000억 달러($300B)의 80%가 AI 스타트업에 집중됐다는 충격적인 데이터를 분석했습니다. 오늘 OpenAI의 매출 미달 이슈와 맞닿아 있습니다. "이렇게 많은 돈이 AI에 쏟아지는데, 정작 OpenAI는 내부 목표도 못 맞추고 있다면 이 돈은 다 어디로 가는가?" 라는 질문이 자연스럽게 따라옵니다. Notion CEO Simon Last와의 대화도 수록됐는데, AI 에이전트가 팀 운영 방식 자체를 어떻게 바꾸는지에 대한 실용적 인사이트를 제공합니다. AI 스타트업 투자 트렌드를 파악하고 싶다면 이 에피소드가 현 시점 가장 밀도 높은 정보를 담고 있습니다. [Spotify](https://open.spotify.com/show/70XnfzZH7nKFPYckeFnS4k)
+John Coogan과 Jordi Hays의 테크 데일리 쇼. 인텔의 주가 급등 배경, Sam Altman이 지원한 Thrive Capital의 새로운 AI 펀드 'Eternal', GPT 5.5의 성능에 대한 업계 반응을 빠르게 훑습니다.
 
----
-
-### 4. **Acquired** — "페라리: 33만 대, 500만 달러, 4억 팬"
-📅 4월 12일 공개
-
-포트폴리오에 $TSLA나 럭셔리 EV 관련 투자를 고민 중이라면 이 에피소드는 비즈니스 케이스 스터디로 탁월합니다. 79년 역사 동안 단 33만 대만 판매한 회사가 어떻게 시총 기준 세계 최고 수준의 이익률을 유지하는가. 페라리의 '희소성 관리' 전략 — 수요가 있어도 공급을 늘리지 않는다는 원칙 — 은 프리미엄 브랜드 가치 창출의 교과서입니다. 동시에 F1 팀으로 4억 명의 팬을 확보한 '스포츠 팀 + 럭셔리 제품'의 이중 구조가 어떻게 상충하지 않고 서로를 강화하는지를 분석합니다. 레거시 자동차 브랜드 vs. 테슬라 브랜드 전략 비교 관점에서도 읽힙니다. [Acquired FM](https://www.acquired.fm/episodes)
+특히 GPT 5.5와 Claude, Gemini의 경쟁 구도를 정리하는 내용이 실용적입니다. NVDA 투자자라면 인텔 섹션이 경쟁 위협을 가늠하는 데 도움이 됩니다. 하루 3시간짜리 라이브 쇼를 30분짜리 Diet 버전으로 요약해주는 포맷도 매력적이에요. [TBPN](https://www.tbpn.com/)
 
 ---
 
-*머뉴 MoneyNews — 돈이 되는 모든 것에 대한 소식*
-*오후 브리핑은 매일 오후 10시(22:00 KST) 발행됩니다.*
+**3. [Acquired] "Ferrari" (4월 12일)**
+
+Ben Gilbert와 David Rosenthal이 Ferrari의 79년 역사를 해부합니다. 330,000대, 평균 $500,000. 숫자만 봐도 이 회사가 자동차 회사가 아닌 명품 기업임을 알 수 있죠. 그런데 동시에 400만 명의 열혈 팬을 거느린 F1 스포츠 팀이기도 합니다. 두 완전히 다른 고객층이 어떻게 같은 브랜드 아래 공존할 수 있는가.
+
+EV 전환과 자율주행이 자동차 산업의 수익 공식을 흔들고 있는 지금, Ferrari가 왜 "모빌리티 회사"로 전락하지 않고 '희소성'을 무기로 프리미엄을 지킬 수 있는지 — TSLA나 전통 OEM 투자자에게 풍부한 통찰을 줍니다. [Acquired](https://www.acquired.fm/episodes)
+
+---
+
+**4. [No Priors] Bill McDermott, CEO of ServiceNow (4월 17일)**
+
+AI 시대의 기업 리더십, 엔터프라이즈 AI 수요의 실체에 대해 가장 현실적인 인사이트를 줄 수 있는 인물이 나왔습니다. ServiceNow는 NVIDIA, Microsoft와 함께 B2B AI 전환의 최대 수혜주로 꼽히는 기업이에요. "SaaS의 종말이 온다"는 비관론에 맞서 McDermott이 어떤 그림을 그리는지, 그리고 AI가 실제로 엔터프라이즈 생산성을 어떻게 바꾸는지를 직접 들을 수 있습니다. 오늘 Mag 7 실적 발표 후 AI 모멘텀을 어떻게 봐야 하는지 판단할 때 보조 지표로 삼기 좋은 에피소드입니다. [No Priors](https://feeds.megaphone.fm/nopriors)
+
+---
+
+*머뉴 MoneyNews | 2026년 4월 29일 | 매일 아침, 돈이 되는 이야기*
+*본 뉴스레터는 투자 권유가 아닙니다. 모든 투자 판단은 본인의 책임 하에 하시기 바랍니다.*
