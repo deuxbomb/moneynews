@@ -1,44 +1,41 @@
 ---
 
-## 🎧 이번 주 들을 팟캐스트 — 스마트머니가 듣는 것들
+## 🎙️ 주말 팟캐스트 — 귀로 공부하는 머뉴 픽
 
 ---
 
-### 1. **All-In Podcast** — "SpaceX IPO의 모든 것 + 2026 IPO 폭발"
-*(2026년 4월 말, 최신 에피소드)*
+### 1. All-In Podcast — "AI 재판과 빅테크 어닝의 주간 결산"
+**에피소드**: "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze"
+**날짜**: 2026년 5월 1일 (금)
 
-차마트, 제이슨, 색스, 프리드버그 4인방이 이번 주 가장 뜨거운 주제를 집었다: SpaceX IPO와 우주 산업의 경제적 기회. 빌 애크먼의 SPARC 제안부터 머스크가 "$100조 기업" 가능성을 언급한 배경까지, 그리고 2026년 IPO 시즌이 갑자기 활기를 띠는 이유를 분석했다. 추가 토픽: OpenAI의 다운라운드 가능성과 투자자들의 AI 스타트업 밸류에이션 재계산. 실리콘밸리 최상단 VC들이 실제로 어떻게 생각하는지가 이 팟캐스트의 핵심 가치다. 한국 투자자에게도 SpaceX 유니버스(스타링크, 팔콘, 스타십)가 포트폴리오에 들어오는 날이 멀지 않았다.
-
-[All-In Podcast](https://allin.com/episodes)
-
----
-
-### 2. **Acquired Podcast** — "Ferrari: 희소성의 경제학"
-*(2026년 4월 12일 발행)*
-
-매년 한두 편, Acquired는 세상을 다시 보게 만드는 에피소드를 낸다. 이번은 페라리다. 79년 역사 동안 단 33만 대. 평균 판매가 $50만. 그러면서도 400만 명의 열성 F1 팬과 함께 존재한다. 럭셔리 스카시티와 대중적 스포츠 열정이 어떻게 하나의 기업 안에 공존할 수 있는가. 브랜드가 어떻게 '수요를 절대 다 충족시키지 않는다'는 원칙으로 기업가치를 극대화하는지 — 투자자라면 반드시 이해해야 할 프리미엄 브랜드의 생리다. 애플의 프리미엄 전략과 묘하게 겹쳐 읽힌다.
-
-[Acquired - Ferrari Episode](https://www.acquired.fm/episodes)
+이번 주의 모든 이슈가 한 에피소드에 담겼다. Chamath, Jason, Sacks, Friedberg 네 명의 베스트프렌드가 머스크 vs 알트만 재판을 정면으로 다뤘다. Sacks는 "오픈AI의 비영리→영리 전환은 처음부터 명확하지 않았던 구조적 실수"라고 지적했다. Chamath는 xAI가 오픈AI 모델로 Grok을 훈련한다는 머스크의 법정 고백을 두고 "오픈AI의 가장 강력한 증거가 됐다"고 분석했다. 빅테크 어닝 서프라이즈(Apple, Meta, Alphabet, Amazon 모두 상회) 분석도 상세하다. AI 데이터센터 투자가 멈추지 않는다는 결론이 뚜렷했다. 추가로 Retatrutide(GLP-1 계열 비만약) 임상 결과가 화두 — 투자 측면에서도 주목해야 할 헬스케어 섹터 트리거가 될 수 있다는 논의도 흥미롭다. [All-In 에피소드](https://allin.com/episodes)
 
 ---
 
-### 3. **No Priors AI Podcast** — Ep.157 "프로그래머블 머니와 AI 에이전트 경제"
-*(2026년 4월 17일, Jeremy Allaire / Circle CEO)*
+### 2. Acquired Podcast — "페라리: 럭셔리 희소성의 79년"
+**에피소드**: Ferrari
+**날짜**: 2026년 4월 12일
 
-Circle의 공동창업자 제러미 알레어가 사라 구오, 엘라드 길과 함께한 에피소드. 핵심 테제: AI 에이전트들이 서로 돈을 주고받으며 경제 활동을 하는 시대가 오면, 기존 금융 인프라는 작동하지 않는다. USDC 같은 스테이블코인과 프로그래머블 머니가 '에이전트 경제'의 기반 인프라가 될 것이라는 주장이다. $COIN 투자자라면 필청 — 코인베이스는 Circle의 주요 파트너이며, 스테이블코인 수익이 이미 분기 $364M(+61% YoY)에 달한다. AI와 크립토의 교차점이 어디로 향하는지 45분 만에 정리된다.
-
-[No Priors AI Podcast](https://open.spotify.com/show/70XnfzZH7nKFPYckeFnS4k)
-
----
-
-### 4. **Lex Fridman Podcast** — #495 "바이킹: 전사와 문명의 역사"
-*(2026년 4월 9일)*
-
-이번 주는 투자보다는 인문학 충전이다. 렉스 프리드먼의 바이킹 에피소드 — 라그나르, 버서커, 발할라와 바이킹 전사의 심리학. AI, 물리학, 기업 창업자 인터뷰 사이에 이런 에피소드를 배치하는 게 렉스의 방식이다. 지난 3월에는 젠슨 황(NVIDIA CEO)과 'AI 혁명과 $4조 기업의 조건'을 얘기했다 — 그 에피소드(#494)와 함께 들으면 인간과 기술, 전쟁과 혁신의 패턴이 겹쳐 보인다.
-
-[Lex Fridman Podcast](https://lexfridman.com/podcast/)
+Ben Gilbert와 David Rosenthal의 Acquired가 이번에는 자동차 섹터를 깊게 팠다. 79년 역사에 누적 판매 33만 대 — 일부러 적게 만드는 회사. 400만 명의 F1 팬덤을 품은 브랜드 파워. EV 전환 압박 속에서도 가격결정력을 잃지 않는 비결을 분해한다. 투자자 관점에서 Ferrari는 '럭셔리 소비재'로 분류해야 하는가 '기술주'로 봐야 하는가라는 프레임 논쟁도 흥미롭다. 자율주행·EV 전환의 파도 속에서 기존 자동차 산업이 살아남는 방식을 이해하고 싶은 투자자에게 강력 추천. [Acquired FM](https://www.acquired.fm/episodes)
 
 ---
 
-> 머뉴(MoneyNews) 오후 브리핑 | 2026.05.01
-> 돈이 되는 모든 것에 대한 소식
+### 3. No Priors — "젠슨 황과 AI 2026 전망"
+**에피소드**: Ep. 144 "The 2026 AI Forecast with Sarah & Elad" + Jensen Huang 특별편
+**날짜**: 2026년 3월 20일
+
+Sarah Guo(Conviction VC)와 Elad Gil이 NVIDIA CEO 젠슨 황을 게스트로 맞았다. 스케일링 법칙이 여전히 작동하는가? AGI는 얼마나 멀었나? 중국 AI의 위협을 어떻게 보는가? 젠슨은 "추론 컴퓨팅은 이제 막 시작됐다"며 GPU 수요 전망을 낙관했다. Blackwell 이후 다음 아키텍처인 Rubin에 대한 힌트도 나왔다. $NVDA의 5/20 실적 발표를 앞둔 지금, 이 에피소드는 CEO의 생각을 직접 들을 수 있는 필청 콘텐츠다. [No Priors YouTube](https://www.youtube.com/watch?v=TOsNrV3bXtQ)
+
+---
+
+### 4. Lex Fridman Podcast — "#494 젠슨 황 — $4조짜리 회사와 AI 혁명"
+**에피소드**: #494 Jensen Huang: "NVIDIA – The $4 Trillion Company & the AI Revolution"
+**날짜**: 2026년 3월 23일
+
+Lex Fridman이 젠슨 황과 3시간 이상 대화한 에피소드. NVIDIA가 어떻게 GPU 회사에서 AI 인프라의 중심으로 성장했는지 처음부터 끝까지 파고든다. 젠슨의 경영 철학("고통을 피하지 마라"), 반도체 지정학, 다음 10년의 AI 산업 구조에 대한 깊은 통찰. 단순히 투자 정보를 넘어 기술 패러다임을 이해하는 데 도움이 된다. $NVDA 롱포지션을 갖고 있다면 이 에피소드는 확신을 더해줄 것이다. [Spotify](https://open.spotify.com/episode/4UBPQG2Z7s70DpRVD5kMbC)
+
+---
+
+*머뉴 MoneyNews | 2026년 5월 2일 오후 브리핑*
+*"돈이 되는 모든 것에 대한 소식"*
+
