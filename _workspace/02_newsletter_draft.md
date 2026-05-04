@@ -1,108 +1,275 @@
-# 200대가 동시에 멈췄다 — 중국 로보택시의 브레이크가 걸린 날
-
-**2026년 5월 4일 | 머뉴 딥다이브**
-
----
-
-## 오후 8시 57분, 우한의 고가도로 위에서
-
-2026년 3월 31일 저녁 8시 57분. 우한 시내 곳곳에서 이상한 일이 벌어졌다.
-
-바이두 Apollo Go 로보택시 100대 이상이 동시에 멈췄다 — 일부 현지 보도는 200대로 전했다. 그냥 멈춘 게 아니었다. 고가 순환도로 추월차선, 주요 교차로 한가운데, 다리 위. 차들은 경고 없이, 갓길로 빠지지도 않고, 그 자리에서 그대로 얼어붙었다 — [CNBC](https://www.cnbc.com/2026/04/01/baidu-robotaxis-caused-crashes-in-wuhan-reports.html) · [Carscoops](https://www.carscoops.com/2026/05/china-robotaxi-permit-freeze/).
-
-승객들은 SOS 버튼을 눌렀다. "서비스 불가"라는 메시지가 떴다. 고객센터에 전화했다. 자동 차단됐다. 그렇게 최대 2시간을 차 안에서 기다렸다 — [CnEVPost](https://cnevpost.com/2026/04/29/china-suspends-new-robotaxi-permits-after-baidu-outage/).
-
-다행히 부상자는 없었다. 하지만 이 사건은 단순한 기술 결함으로 끝나지 않았다. 4주 뒤, 중국 정부가 전국 자율주행 신규 퍼밋을 무기한 동결했다. 글로벌 로보택시 전쟁의 판이 바뀌는 순간이었다.
+# 🔔 코스피 7천피 63포인트 앞! 반도체가 지수를 들고 뛴다
+**머뉴 MoneyNews 오후 브리핑 | 2026년 5월 4일 | 돈이 되는 모든 것에 대한 소식**
 
 ---
 
-## 클라우드가 무너지면 차도 멈춘다
+## 🇰🇷 오늘 한국 장 마감
 
-우한 경찰의 성명은 짧았다. *"예비 조사 결과 시스템 오작동이 원인으로 파악된다."* 그게 전부였다.
+**코스피 6,936.99 (+5.12%)** / **코스닥 1,220.26** / **원달러 1,370원**
 
-기술 분석가들의 진단은 달랐다. 문제는 차량이 아니었다. 문제는 클라우드였다. 바이두의 배차·통신 인프라가 통째로 다운됐고 — 그 순간 연결된 100대 이상이 일제히 판단 불능 상태에 빠진 것이다 — [CnEVPost](https://cnevpost.com/2026/04/01/baidu-apollo-go-robotaxis-mass-paralysis-wuhan/).
-
-이 구조가 갖는 아이러니가 있다. 로보택시의 핵심 장점은 "사람이 운전하지 않아도 된다"는 것이다. 그 전제는 클라우드 인프라가 끊기지 않는다는 신뢰 위에 서있다. 분산 시스템이 아닌 중앙 집중형 아키텍처를 선택한 바이두에게, 이번 사태는 설계 철학 자체에 대한 물음표가 됐다.
-
-더 불편한 사실은, 이게 첫 번째 사고가 아니라는 점이다. 바이두는 2024년 말에도 유사한 집단 정지 사고를 겪었다 — [Carscoops](https://www.carscoops.com/2026/05/china-robotaxi-permit-freeze/). 업계에서는 "두 번째 경고"라는 표현이 나왔다.
+오늘 코스피는 역사를 새로 썼다. 전 거래일보다 338포인트, 무려 **+5.12%** 급등하며 **사상 처음으로 6,900선을 돌파**, 6,936.99로 마감했다. "칠천피(7,000)"까지는 이제 단 **63포인트** 남았다. 외국인이 **3조 2,098억원**, 기관이 **1조 9,345억원**을 쏟아붓는 동안 SK하이닉스는 **+11%** 폭등하며 140만원을 터치했고, 삼성전자도 **+4%**대로 따라붙었다. 코스피 시가총액은 5,653조원으로 불어났다 — 불과 12거래일 만에 650조원이 증가한 것이다. 증권주도 삼성증권이 상한가를 기록하는 등 불기둥을 세웠다. 반도체 실적 모멘텀 + 외국인 역대급 수급. 시장이 말하고 있다: "아직 안 끝났다."
 
 ---
 
-## 중국 정부의 해머 — 전업계 퍼밋 동결
+## 🇺🇸 미국 프리마켓
 
-4월 29일. 중국 공업정보화부(MIIT) 등 3개 기관이 공동 통보를 발송했다. 수신자는 바이두만이 아니었다. Pony.ai, AutoX, WeRide — 중국 내 모든 자율주행 기업이 포함됐다.
+**선물: S&P 7,253.75 (-0.06%) / 나스닥 27,863 (+0.10%) / 다우 49,514 (-0.27%) / WTI $101.70 / BTC $79,200**
 
-내용은 단순하지만 파급력은 컸다. 신규 차량 추가 금지. 새 테스트 프로그램 시작 금지. 신도시 진출 금지. 재개 시점? 미정 — [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage).
-
-시장은 즉각 반응했다. Pony.ai -5.5%, WeRide -4.7%. 연초 대비로 보면 더 가혹하다. WeRide는 올해 -10%, Pony.ai는 무려 -30% 하락 중이다 — [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/china-suspends-autonomous-driving-permits-034604276.html). 바이두는 홍콩에서 -4% 급락했고, 3거래일 내내 하락했다 — [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage).
-
-닛케이아시아는 최종 결정이 5월 말 이전에는 나오지 않을 것이라고 보도했다 — [Carscoops](https://www.carscoops.com/2026/05/china-robotaxi-permit-freeze/). 오늘(5월 4일) 기준으로 아직 동결이 풀리지 않았다.
+미국 선물 시장은 월요일 개장을 앞두고 엇갈린 신호를 보내고 있다. 기술주 중심의 나스닥 선물은 소폭 플러스를 유지하는 반면 다우는 약세다. 배경은 이란發 지정학적 리스크 — 트럼프 대통령이 호르무즈 해협 봉쇄 선박 구출 작전 **"프로젝트 프리덤"**을 발표했지만, 협상 진전 기대감에 WTI는 $101 수준으로 3거래일 연속 하락 중이다. 오늘 밤 미장의 핵심 이벤트는 장 마감 후 발표될 **팔란티어(PLTR) Q1 실적** — 옵션 시장은 10.55% 스윙을 예상하고 있다.
 
 ---
 
-## 역설: 동결이 미국에게 기회가 되는 이유
+## 📌 오늘 알아야 할 세 가지
 
-이 사태를 가장 차분하게 바라보는 곳은 어디일까. 아이러니하게도 Waymo와 Tesla다.
+**1. 코스피 역대급 랠리, 진짜 이유는 "반도체 슈퍼사이클 재점화"**
+외국인이 SK하이닉스 단일 종목에만 1조7,768억원을 쏘아 넣었다. 이번 급등은 단순한 투심 회복이 아니다 — AI 서버용 HBM 수요 폭증과 실적 시즌 가시화가 "사자" 신호로 전환된 결과다. 7천피는 이미 기정사실처럼 거론되기 시작했다.
+[파이낸셜뉴스](https://www.fnnews.com/news/202605041625556482)
 
-Waymo는 중국에 없다. 미국 내 11개 도시 추가 개장 계획을 착실히 진행 중이다 — [CNBC](https://www.cnbc.com/2025/12/16/waymo-amazon-zoox-tesla-robotaxi-expansion.html). 중국의 규제 쇼크는 $GOOGL에게 직접적인 영향이 없다. 오히려 "안전성으로 검증된 미국 자율주행 서비스"라는 내러티브가 강화되는 효과가 생긴다.
+**2. 팔란티어(PLTR) 오늘 밤 실적 발표 — 115% EPS 성장 vs 주가 -19% YTD**
+팔란티어는 오늘 장 마감 후(한국 시간 5월 5일 오전 6시) Q1 실적을 공개한다. 월가 컨센서스는 매출 $1.54B(+74% YoY), EPS $0.28(+115% YoY). 옵션 시장은 ±10.55% 스윙을 베팅 중이고, 폴리마켓은 96% 확률로 EPS 컨센서스 초과를 점치고 있다. PLTR은 역사적으로 90% 확률로 어닝 비트를 기록했다.
+[TipRanks](https://www.tipranks.com/news/palantir-pltr-q1-earnings-on-may-4-options-market-braces-for-a-10-55-swing)
 
-Tesla는 다르다. 샌프란시스코 기반 로보택시 서비스의 가격은 Waymo의 절반 수준이다. 2025년 12월 이후 41% 인상했음에도 그렇다 — [Electrek](https://electrek.co/2026/04/30/tesla-robotaxi-unsupervised-finally-signs-ramping-up/). 텍사스를 중심으로 점진적인 확장을 이어가고 있다. 느리지만, 최소한 멈추지는 않는다.
-
-반면 바이두의 경쟁력은 비용이었다. 대당 생산원가 2만 8,000달러. Waymo는 수십만 달러 — [recodechinaai Substack](https://recodechinaai.substack.com/p/as-tesla-enters-the-robotaxi-race). 절반이 아니라 수배, 수십 배의 차이다. 2026년 2월 기준 누적 탑승 2,000만 건을 돌파하며 스케일에서도 앞서있었다. 이 모든 모멘텀이 지금 규제의 벽에 막혀있다.
-
----
-
-## 시장이 얼마나 큰지를 알아야 아프다는 게 보인다
-
-중국이 멈춘 이 시점에, 시장이 얼마나 커지고 있는지를 짚어보면 이 동결의 의미가 선명해진다.
-
-골드만삭스는 중국 로보택시 플릿이 2025년 5,000대에서 2026년 말 14,000대로 거의 3배 증가할 것으로 봤다. 2035년에는 310만 대로 전체 라이드쉐어 차량의 36%를 차지할 전망이다 — [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/chinas-robotaxi-fleet-nearly-triple-190000680.html). 단, 이 성장이 수익으로 연결되는 시점은 다르다. 골드만삭스는 1급 도시 기준 단위 총마진 손익분기가 2026년 안에 달성되더라도, 업계 전반의 영업 이익 흑자 전환은 2032년에나 가능할 것으로 봤다.
-
-글로벌 시장 전체로는 더 가파르다. 2025년 6.1억 달러였던 시장이 2033년 1,472억 달러로 성장한다는 예측이 나온다. CAGR 99.1% — [Electronics Weekly](https://www.electronicsweekly.com/news/business/robotaxi-services-2026-04/). 매년 시장이 두 배씩 커진다는 의미다.
-
-이 레이스에서 중국이 잠시 피트 스톱에 들어간 셈이다. 문제는 레이스 자체가 멈추지 않는다는 것이다.
+**3. WTI $101 — 이란 협상에 유가 3일 연속 하락, 시장은 숨 고르기**
+트럼프의 "프로젝트 프리덤" 발표 이후 협상 기대가 유가를 끌어내리고 있다. 4월 말 Brent $118을 터치했던 것과 비교하면 분위기가 달라졌다. 에너지 섹터(-1.45%)는 오늘 하락 중이지만 기술(-0.44% → 반등)은 강세를 보이고 있다. 에너지→테크 섹터 로테이션이 재개될 가능성에 주목할 타이밍.
+[CNBC](https://www.cnbc.com/2026/04/29/oil-prices-brent-wti-trump-iran.html)
 
 ---
 
-## 투자 지형도 — 지금 누가 유리한가
+## 💰 관심 종목 현황
 
-**$GOOGL (Waymo)**: 중국 규제 리스크 제로. 11개 도시 미국 내 확장 진행 중. "검증된 안전성" 브랜드 프리미엄이 높아지는 구간. 단기 투자 관점에서 자율주행 섹터 내 최선호주.
-
-**$TSLA**: 중국발 경쟁 리스크가 일시적으로 완화됐다. 다만 Tesla 자체 확장도 계획 대비 느리다는 점은 주의. 로보택시 서비스의 수익화 타임라인이 여전히 불확실하다.
-
-**중국 AV 주식 (BIDU, Pony.ai, WeRide)**: 단기 헤드윈드는 명확하다. 퍼밋 동결이 풀리기 전까지는 성장 스토리에 브레이크가 걸린다. 단, 주목할 점이 있다 — 중국 기업들은 국내 규제에도 불구하고 이미 해외로 영역을 넓히고 있다. 바이두는 두바이·아부다비에서 서비스를 시작했고, WeRide는 Uber와 손잡고 아부다비 파일럿을 운영 중이다 — [CNBC](https://www.cnbc.com/2025/11/20/global-robotaxi-race-heats-up-between-us-and-chinese-rivals.html). 5월 말 이후 규제 완화 신호가 나오면 낙폭 과대 종목의 단기 반등 가능성도 열린다. Pony.ai는 연초 대비 -30% — 리스크와 리바운드 기회가 동시에 존재하는 구간이다.
-
----
-
-## 머뉴's Advice 🔮
-
-**1. 안전 내러티브가 다음 경쟁 축이다**
-기술에서 비용으로, 비용에서 이제 안전성으로 — 로보택시의 경쟁 축이 이동하고 있다. 우한 사태는 이 세 번째 축을 다시 꺼내들었다. Waymo가 조용히 이 프레임의 수혜자가 될 수 있다.
-
-**2. 중국 AV 주식은 5월 말을 주목하라**
-닛케이아시아 보도 기준, 중국 당국의 최종 결정은 5월 말이 기준점이다. 규제 완화 신호가 나오면 WeRide, Pony.ai 등 낙폭 과대 종목에 단기 기회가 생길 수 있다. 단, 동결이 연장되거나 강화되면 추가 하락 시나리오도 열려있다.
-
-**3. 클라우드 의존형 자율주행의 취약점을 주시하라**
-이번 사태의 핵심은 AI가 아닌 클라우드 인프라였다. 이 문제가 해결되지 않으면 어느 기업이든 같은 취약점을 안고 있다. 엣지 컴퓨팅, 차량 내 독립 판단 시스템에 투자하는 기업들의 기술 차별성이 앞으로 더 중요해질 전망이다.
+| 티커 | 현재가 | 등락 | 한줄 요약 |
+|------|--------|------|-----------|
+| $TSLA | $390.82 | +2.4% | FSD 100억 마일 돌파, 오스틴 야간 무감독 로보택시 운행 시작 |
+| $GOOGL | $385.33 | +0.14% | Q1 어닝 비트 여파 지속, AI Overviews 광고 모멘텀 |
+| $NVDA | $198~200 | 보합 | OKLO·LANL 핵연료 AI 파트너십으로 에너지 테마 선도 |
+| $COIN | $193.53 | 보합 | BTC $79,200 횡보, ARK 지속 보유 |
+| $NFLX | $93.61 | - | 목표가 $115, 광고 수익화 가속 기대 |
+| $OKLO | $70.40 | +15% (4/23 이후) | NVDA 파트너십, 목표가 $101, 실적 발표 5/12 |
+| $OHI | $46.97 | - | 오늘 Ex-배당일! $0.67/주, 연배당수익률 5.7% |
+| $SPY | ~$725 | 소폭 하락 | 이란 리스크로 프리마켓 소폭 약세 |
+| $QQQ | ~$486 | +0.1% | 나스닥 선물 강세 지속 |
 
 ---
 
-오늘 우한의 고가도로 위에서 시작된 질문은 아직 답이 없다. 200대가 동시에 멈추는 세상에서, 우리는 자율주행을 얼마나 신뢰할 준비가 됐을까. 그리고 그 신뢰를 돈으로 환산하면 — 어떤 티커가 가장 먼저 떠오르는가.
+## 👀 오늘 밤 주목할 것
+
+**🏆 팔란티어(PLTR) Q1 실적 발표 (장 마감 후 5:00 PM ET)**
+AI 데이터 분석 플랫폼 AIP의 미국 상업 매출이 115% 성장 예상치를 충족할지가 핵심. 주가는 YTD -19% 눌려있어 서프라이즈 시 반등 탄성이 크다. 옵션 시장은 이미 큰 스윙을 준비 중.
+
+**📊 AMD 실적 (화요일 장 마감 후)**
+AI GPU 경쟁에서 NVDA를 추격 중인 AMD의 실적. 지난 분기 어닝 비트에도 주가가 -17% 빠졌던 전례가 있어 결과보다 가이던스가 더 중요.
+
+**⚖️ Musk vs Altman 오클랜드 연방법원 재판 계속**
+일론 머스크가 개막 전날 OpenAI에 합의를 타진했다는 법원 서류가 오늘 공개됐다. 브록만에게 "이번 주 말이면 당신들이 미국에서 가장 미움받는 사람이 될 것"이라는 메시지도 함께. 재판은 5월 중순 판결 예정.
+
+**🛢️ 이란 협상 진전 vs 호르무즈 해협 리스크**
+트럼프의 "프로젝트 프리덤" 향방이 WTI 방향을 결정한다. 협상 가속 시 에너지 하락→테크 로테이션, 협상 결렬 시 유가 재반등.
+---
+
+## 🔥 오늘의 픽
+
+### 🌡️ 시장 온도
+
+공포탐욕지수 **67 (탐욕)**, VIX **16.99**. 숫자가 말해준다 — 투자자들은 겁먹지 않았다. 코스피가 역대 최고치를 갱신하고, 나스닥 선물이 플러스를 유지하는 가운데 에너지→테크 섹터 로테이션 신호가 감지되고 있다. 이란 리스크는 협상 진전으로 완화되는 분위기지만, 오늘 밤 팔란티어 실적이 미장의 방향을 결정할 중요한 분기점이다.
+
+### 🎯 주목 섹터: 원자력 + AI 인프라 교차점
+
+에너지가 YTD +21%로 시장을 주도해온 가운데, AI 데이터센터의 전력 수요 폭증이 두 테마를 하나로 엮고 있다. NVIDIA의 Oklo 파트너십, 마이크로소프트·구글의 SMR 발전 계약, 그리고 트럼프 행정부의 "Genesis Mission(핵발전 AI 팩토리 구축)" — 원자력 + AI 인프라는 2026년 하반기 가장 강력한 구조적 테마로 부상 중이다. [Yahoo Finance](https://finance.yahoo.com/sectors/energy/articles/oklo-links-nuclear-reactors-ai-051056484.html)
 
 ---
 
-## 출처
+### 💡 오늘의 픽
 
-- [CNBC](https://www.cnbc.com/2026/04/01/baidu-robotaxis-caused-crashes-in-wuhan-reports.html) — "Baidu robotaxis reportedly halted mid-traffic causing crashes in Wuhan, China" (2026.04.01)
-- [CnEVPost](https://cnevpost.com/2026/04/29/china-suspends-new-robotaxi-permits-after-baidu-outage/) — "China suspends new robotaxi permits after Baidu's Wuhan outage" (2026.04.29)
-- [CnEVPost](https://cnevpost.com/2026/04/01/baidu-apollo-go-robotaxis-mass-paralysis-wuhan/) — "Baidu Apollo Go robotaxis hit by rare mass paralysis in Chinese city" (2026.04.01)
-- [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage) — "China Suspends Autonomous Driving Permits After Baidu Outage" (2026.04.29)
-- [Carscoops](https://www.carscoops.com/2026/05/china-robotaxi-permit-freeze/) — "200 Robotaxis Stopped In Traffic, Now China Has Stopped Issuing Permits" (2026.05)
-- [Yahoo Finance / Goldman Sachs](https://finance.yahoo.com/sectors/technology/articles/chinas-robotaxi-fleet-nearly-triple-190000680.html) — "China's Robotaxi Fleet to Nearly Triple in 2026, Goldman Says"
-- [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/china-suspends-autonomous-driving-permits-034604276.html) — "China Suspends Autonomous Driving Permits After Baidu Outage"
-- [Electrek](https://electrek.co/2026/04/30/tesla-robotaxi-unsupervised-finally-signs-ramping-up/) — "Tesla 'Robotaxi' unsupervised fleet finally shows some signs of ramping up" (2026.04.30)
-- [CNBC](https://www.cnbc.com/2025/12/16/waymo-amazon-zoox-tesla-robotaxi-expansion.html) — "Waymo, Zoox and Tesla drive 2025 robotaxi boom"
-- [CNBC](https://www.cnbc.com/2025/11/20/global-robotaxi-race-heats-up-between-us-and-chinese-rivals.html) — "Global Robotaxi Race Heats Up Between US and Chinese Rivals"
-- [recodechinaai Substack](https://recodechinaai.substack.com/p/as-tesla-enters-the-robotaxi-race) — "As Tesla Enters the Robotaxi Race, Chinese Firms Pull Ahead Globally"
-- [Electronics Weekly](https://www.electronicsweekly.com/news/business/robotaxi-services-2026-04/) — "Robotaxi market to be worth $168bn in 2035"
-- [Automotive World](https://www.automotiveworld.com/news/china-suspends-new-av-permits-after-baidus-mass-outage/) — "China suspends new AV permits after Baidu's mass outage" (2026.04.29)
+---
+
+**🥇 Pick #1: $OKLO — 핵연료에 불 지른 NVIDIA**
+
+**Oklo Inc | NYSE: OKLO | 현재가 $70.40 | 목표가 $101 (+43%)**
+
+**📖 이야기**
+4월 23일, 조용히 폭탄이 하나 터졌다. NVIDIA가 Oklo, 그리고 로스앨러모스 국립연구소(LANL)와 손을 잡고 **핵연료 개발에 AI를 적용**하는 파트너십을 발표한 것. Oklo 주가는 발표 당일 **+15%** 뛰었고, 그 후로 사흘간 추가 상승해 지난 1주일간 **+33%**를 기록했다.
+
+**📚 배경**
+AI 데이터센터는 24시간 탄소제로 전력을 원한다. 태양광과 풍력은 날씨에 따라 출력이 흔들려 대규모 AI 연산에 부적합하다. 소형모듈원자로(SMR)는 이 문제의 완벽한 해답이다. Oklo의 Aurora·Pluto 반응로는 수백 MW를 날씨와 무관하게 안정 공급할 수 있다. 이번 LANL 파트너십의 핵심은 Oklo의 플루토늄 연료 개발에 NVIDIA의 AI(디지털 트윈·시뮬레이션)를 접목해 검증 속도를 획기적으로 높이는 것. 트럼프 행정부의 "제네시스 미션(핵 기반 AI 팩토리)"과도 맞닿아 있다.
+
+**📈 전망 & 리스크**
+5월 12일 실적 발표가 예정된 가운데, Oklo는 아직 매출이 없는 전前단계 기업이다. 상업 발전은 2027년 말 목표. 즉 이 주식은 "미래에 베팅하는" 테마주다. 규제 승인(NRC)과 일정 지연이 최대 리스크. 그러나 NVIDIA라는 보증수표가 붙었고, 26명 애널리스트의 컨센서스는 **Strong Buy / 목표가 $101**. VIX가 낮은 지금은 테마주 익스포저를 늘리기 좋은 환경이다.
+
+📊 **스코어카드**
+기술적 **3**/3 (52주 신고가 부근, 강한 상승 모멘텀) | 수급 **3**/3 (NVDA 파트너십 촉매, 기관 매수 유입) | 카탈리스트 **2**/2 (NVDA 딜 + 5/12 실적 이벤트) | 펀더멘털 **1**/2 (무수익 전단계, 장기 스토리는 탁월) | **종합 9/10**
+
+---
+
+**🥈 Pick #2: $PLTR — 오늘 밤 115% EPS 성장을 증명할 시간**
+
+**Palantir Technologies | NASDAQ: PLTR | 현재가 $144 | 목표가 $175**
+
+**📖 이야기**
+팔란티어가 오늘 밤 Q1 성적표를 내놓는다. 월가의 기대치는 놀랍다 — EPS +115% YoY, 매출 $1.54B(+74% YoY). 그런데 주가는 YTD -19% 눌려있다. 어닝 시즌에 90% 확률로 컨센서스를 초과해온 이 회사가 오늘 어떤 숫자를 던질지, 그 숫자가 주가에 얼마나 탄성을 줄지가 오늘 밤 미장의 최대 관전 포인트다.
+
+**📚 배경**
+팔란티어의 AI 플랫폼(AIP)은 미국 국방부·정보기관의 핵심 분석 시스템으로 자리잡은 동시에, 상업 분야에서도 빠르게 확장 중이다. 작년 Q4 이후 경영진은 "미국 상업 매출 연간 +115%" 가이던스를 제시했는데, 이를 Q1에 입증하면 AI 수익화 스토리의 실증 사례가 된다. 옵션 시장은 오늘 결과에 ±10.55% 스윙을 준비했다.
+
+**📈 전망 & 리스크**
+어닝 비트 시 눌려있던 -19% YTD를 빠르게 되돌릴 잠재력이 있다. 폴리마켓은 EPS 초과 확률을 96%로 보고 있다. 다만 주가 컨센서스 $175는 현재가 대비 +21%로 스윙 이후 추가 상승 여지가 있다. 리스크: 실적을 초과해도 "가이던스가 더 중요" — 경영진의 향후 전망 발언에 주목해야 한다. AMD처럼 어닝 비트에도 -17% 빠진 전례를 기억하라.
+
+📊 **스코어카드**
+기술적 **2**/3 (YTD 눌려있어 반등 탄성 큼, 트렌드는 혼재) | 수급 **2**/3 (기관 보유 안정적, ARK 지속 보유) | 카탈리스트 **2**/2 (오늘 밤 Q1 실적 발표, AIP 미국 상업 매출 증명) | 펀더멘털 **2**/2 (90% 어닝 비트 확률, 구조적 AI 방어 수혜) | **종합 8/10**
+
+---
+
+**🥉 Pick #3: $OHI — 오늘이 배당일, 5.7% 수익률의 조용한 강자**
+
+**Omega Healthcare Investors | NYSE: OHI | 현재가 $46.97 | Ex-배당일 오늘**
+
+**📖 이야기**
+오늘이 $OHI의 **Ex-배당일**이다. $0.67/주, 연환산 $2.68, 배당수익률 **5.7%**. 오늘 종가 기준으로 주식을 보유하면 5월 15일에 배당을 받는다. 주가는 52주 고가($49.14) 근처에서 안정적으로 지지되고 있다.
+
+**📚 배경**
+오메가 헬스케어는 미국과 영국의 요양원·노인 돌봄 시설을 대상으로 한 헬스케어 리츠(REIT)다. 고령화 구조적 수요와 금리 안정이 맞물리면서 2026년 FY 가이던스를 상향 발표했다(4월 30일). AI 테마 없이 조용히, 꾸준히 배당을 쌓아가는 "지루한 챔피언"이다.
+
+**📈 전망 & 리스크**
+이란 리스크·실적 변동성이 큰 현재 시장 환경에서 헬스케어 리츠는 포트폴리오 방어 역할을 한다. 금리가 추가 하락하면 리츠 섹터 전체에 밸류에이션 팽창 기대감이 붙는다. 리스크는 금리 재반등 시 리츠 압박 가능성, 그리고 요양원 공급 과잉 우려다.
+
+📊 **스코어카드**
+기술적 **2**/3 (52주 고가 근처 지지, 안정적 횡보) | 수급 **2**/3 (배당 수령 목적 기관 보유 안정) | 카탈리스트 **2**/2 (오늘 Ex-배당일, FY 2026 가이던스 상향) | 펀더멘털 **2**/2 (배당 지속성 우수, FY 가이던스 상향) | **종합 8/10**
+
+---
+
+⚠️ *투자 조언이 아닌 데이터 기반 분석입니다. 투자의 최종 결정과 책임은 본인에게 있습니다.*
+---
+
+## 📰 오늘의 뉴스
+
+---
+
+### 🏛️ "7천피까지 63포인트" — 코스피, 반도체가 지수를 들고 달린 하루
+
+2026년 5월 4일, 코스피는 전 거래일 대비 338포인트(+5.12%) 급등해 **6,936.99**로 마감했다. 사상 최초 장중 6,900 돌파다. 외국인과 기관이 각각 3조2천억원, 1조9천억원을 순매수했고, SK하이닉스 단일 종목에만 외국인 자금 1조7,768억원이 몰렸다. SK하이닉스는 +11% 폭등해 140만원을 터치했고, 삼성전자는 +4%대 강세를 이어갔다. AI 서버향 HBM 수요 폭증이 실적 시즌 가시화와 맞물리면서 "반도체 슈퍼사이클 재점화" 내러티브가 시장을 지배하고 있다. 증권주도 삼성증권이 상한가를 기록하며 동반 상승했다. 코스피 시총은 이제 5,653조원 — 12거래일 만에 650조원이 불어난 수치다. 이미 복수의 증권사가 "코스피 8,000" 전망을 내놓기 시작했다. [서울신문](https://www.seoul.co.kr/news/economy/2026/05/04/20260504500152) · [파이낸셜뉴스](https://www.fnnews.com/news/202605041625556482)
+
+---
+
+### 🤖 자율주행 최신: 100억 마일을 넘어서도, 핸들에서 손을 뗄 수 없는 이유
+
+**Tesla FSD 100억 마일 돌파 — 그래도 "아직은 안 돼"**
+
+5월 3일, 테슬라가 FSD(Full Self-Driving) 누적 주행 거리 **100억 1,068만 4,206마일** 돌파를 공식화했다. 마지막 10억 마일은 단 31일 만에 쌓였다. 이 숫자는 중요하다 — 올해 1월 머스크가 직접 "10억 마일이 완전 무감독 운전의 전제조건"이라고 밝혔기 때문이다. 그런데 정작 테슬라는 이 마일스톤이 "무감독 전환 신호"라는 공식 발표를 내놓지 않았다. 4월 22일 Q1 컨퍼런스콜에서 머스크는 소비자용 무감독 FSD 전개를 **"최소 2026년 Q4"**로 또 미뤘다. 데이터는 통과했지만 지리적·기술적 과제가 남아있다는 설명이다. 테슬라의 FSD는 Waymo 대비 "2년 뒤처져 있다"는 내부 평가도 나온다. 10억 마일 데이터가 어떤 기적을 만들어낼지, 아니면 또 다른 지연의 서막이 될지 — 2026년 하반기가 결정한다. [Electrek](https://electrek.co/2026/05/03/tesla-fsd-10-billion-miles-no-magical-milestone-autonomy/)
+
+**Tesla 오스틴 로보택시, 야간 무감독 운행 개시**
+
+오스틴에서 테슬라 로보택시가 이제 **야간에도 안전 모니터 없이** 달린다. 기존에는 오전 6시~자정 사이로 제한됐던 운행 시간이 확장됐고, 도심 구역 지오펜스도 넓어졌다. 현재 플릿은 오스틴 19대 포함 텍사스 3개 도시 25대 규모다. 작지만 의미 있는 전진이다. [Teslarati](https://www.teslarati.com/tesla-robotaxi-service-austin-achieves-monumental-new-accomplishment/)
+
+---
+
+### 🏢 기업 뉴스
+
+**$NVDA + $OKLO | 핵연료에 디지털 트윈을 입히다**
+
+4월 23일 발표된 NVIDIA·Oklo·LANL(로스앨러모스 국립연구소) 3자 파트너십의 파장이 계속되고 있다. 핵심은 NVIDIA의 AI 인프라(디지털 트윈, 시뮬레이션, 물리-화학 기반 AI 모델)를 Oklo의 **플루토늄 핵연료 개발**에 적용하는 것. Oklo의 플루토 반응로 연료 검증 속도를 수년 단위로 앞당길 수 있다는 게 파트너십의 약속이다. AI 하이퍼스케일러들이 요구하는 24시간 탄소제로 전력 — 풍력·태양광이 답을 못 주는 이 질문에 SMR이 가장 강력한 후보로 떠오르면서, NVIDIA는 연산 능력과 에너지 인프라를 동시에 확보하는 그림을 그리고 있다. Oklo 주가는 발표 후 1주일간 **+33%** 뛰었고, 목표 상업 발전 시점은 **2027년 말**이다. [BusinessWire](https://www.businesswire.com/news/home/20260423742786/en/Oklo-NVIDIA-and-Los-Alamos-National-Laboratory-Collaborate-to-Advance-Nuclear-Fuel-Validation-at-Los-Alamos-in-Support-of-Nuclear-Powered-AI-Factories) · [Carbon Credits](https://carboncredits.com/oklo-stock-jumps-15-as-nvidia-partnership-sparks-nuclear-ai-momentum/)
+
+**$TSLA | 머스크 vs. 알트만 재판 — "합의" 타진 뒤 법정 드라마 계속**
+
+오늘 법원 서류에서 폭발적인 사실이 공개됐다. 일론 머스크가 재판 개막 이틀 전, OpenAI 그렉 브록만에게 직접 합의 의사를 타진했다는 것. 브록만이 "서로 모든 청구를 철회하자"고 제안하자, 머스크는 "이번 주 말이면 당신과 샘이 미국에서 가장 미움받는 사람이 될 것"이라고 응수했다. 재판은 계속되고 있다. 오클랜드 연방법원에서 머스크는 "비영리 자선단체를 빼앗을 수 없다"를 핵심 논거로, OpenAI 측은 "트위터 내 머스크 자신의 트윗이 의도를 증명한다"며 맞서고 있다. 판결은 5월 중순 예정. 어떤 결과가 나오든 AI 산업 지형에 파장을 미칠 재판이다. [CNBC](https://www.cnbc.com/2026/05/04/musk-sought-settlement-with-openai-before-oakland-trial-filing-shows.html) · [Bloomberg](https://www.bloomberg.com/news/newsletters/2026-05-04/musk-says-fate-of-humanity-at-risk-in-openai-lawsuit)
+
+**$COIN | ARK, 비트코인 $79,200 횡보 속 포지션 유지**
+
+코인베이스($COIN)는 $193.53 수준에서 거래되고 있다. 비트코인이 오늘 $80,000 돌파를 시도했다가 $78,975 수준으로 후퇴하면서 COIN도 방향을 잡지 못하는 모습이다. ARK는 오늘 ARKK에서 TSLA 5,790주를 소량 매도했지만, 코인베이스 포지션은 유지 중이다. 크립토 방향성의 다음 촉매는 연준의 금리 결정과 트럼프 행정부의 디지털자산 규제 명확화가 될 가능성이 높다.
+
+---
+
+### 💎 오늘의 흥미로운 이야기
+
+**1. "빌 애크먼의 PSUS, 데뷔 첫날 -18%" — 헤지펀드 제왕의 체면 구긴 IPO**
+4월 29일, 빌 애크먼의 퍼싱스퀘어 USA(PSUS)가 뉴욕증권거래소에 상장하자마자 IPO가 $50에서 $40.90으로 **-18%** 추락했다. 그는 X에 장문의 해명을 올렸다 — "오후 1시 55분에야 주식이 거래를 시작했고, 기관보다 리테일에 더 많은 물량을 배분했다." 버크셔 스타일의 버핏 클론 펀드를 꿈꿨지만 데뷔는 혹독했다. [Benzinga](https://www.benzinga.com/markets/hedge-funds/26/05/52237585/ackman-we-favored-retail-allocations-over-institutional-orders)
+
+**2. "WTI $101 — 이란 전쟁의 역설, 유가는 오히려 하락 중"**
+지난달 이란 전쟁으로 Brent가 $118을 찍었지만, 지금 WTI는 $101이다. 트럼프의 "프로젝트 프리덤" — 호르무즈 해협 봉쇄 해소 작전 + 이란 협상 신호 — 이 동시에 작동하면서 유가가 역방향으로 움직이고 있다. 엑슨모빌 CEO는 "시장이 이란 리스크를 아직도 과소평가하고 있다"고 경고했지만, 시장은 일단 안도하는 분위기다. [CNBC](https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html)
+---
+
+## 🔬 딥다이브: 실적 시즌 막판 승부처
+
+### 📅 이번 주 실적 캘린더 — 팔란티어가 포문을 연다
+
+이번 주(5월 4~8일)는 실적 시즌의 마지막 하이라이트 구간이다. 오늘 밤 **팔란티어(PLTR)**가 먼저 패를 내놓고, 화요일 **AMD**, 수요일 **월트 디즈니·노보 노디스크**, 목요일 **에어비앤비·쇼피파이·우버**가 뒤따른다. 4월 내내 시장을 흔든 빅테크 어닝 시즌(알파벳 +10%, 메타 -9%, 애플 +급등, 캐터필러 +10%)의 여진 속에서, 이번 주 결과는 2026년 Q2 기대치를 재설정하는 역할을 한다.
+
+**$PLTR 핵심 체크포인트:**
+- 매출 $1.54B (컨센서스) — 달성 여부
+- 미국 상업 매출 성장률 (+115% 가이던스 확인)
+- AI 플랫폼(AIP) 고객 수 증가 추세
+- Q2 가이던스 — "비트했지만 가이던스 실망"으로 주가 빠진 AMD 전례를 기억하라
+
+**$AMD 화요일 포인트:**
+- MI300X GPU 수요 지속 여부
+- 데이터센터 매출 성장률
+- NVIDIA 대비 AI 칩 시장 점유율 트렌드
+
+---
+
+### 📊 애널리스트 컨센서스 스냅샷
+
+| 티커 | 현재가 | 평균 목표가 | 상승 여력 | 컨센서스 |
+|------|--------|------------|---------|---------|
+| $TSLA | $390 | ~$410 | +5% | Hold/Buy 혼재 |
+| $GOOGL | $385 | ~$220→시장 재조정 중 | - | Strong Buy |
+| $NVDA | $199 | ~$250 | +25% | Strong Buy |
+| $OKLO | $70 | $101 | +44% | Strong Buy (26인) |
+| $NFLX | $93 | $115 | +23% | Buy |
+| $OHI | $46.97 | ~$50 | +6% | Hold/Buy |
+
+---
+
+### 🔮 옵션·수급 신호
+
+**$PLTR 옵션**: 오늘 만기 옵션 시장이 ±10.55% 스윙을 가격에 반영. 풋/콜 비율은 다소 높아 "하락 헷지" 수요도 공존. 그러나 폴리마켓의 EPS 초과 확률 96%와 역사적 90% 어닝 비트율은 불(bull) 편에 있다.
+
+**$OKLO 옵션**: NVDA 파트너십 발표 후 콜 옵션 거래량 급증. 시장은 추가 상승에 베팅 중. 5월 12일 실적 발표 전까지 모멘텀 유지 가능성.
+
+**$TSLA 수급**: ARK가 오늘 TSLA 소량(-5,790주) 매도했지만 여전히 최대 보유 종목 #1(163만주). 외국인·기관 수급 측면에서 큰 이상 신호 없음.
+
+---
+
+### 🏦 스마트머니 동향
+
+**📌 ARK Invest (오늘 5/4 거래)**
+캐시 우드의 ARK는 오늘 조용히 포지션을 조정했다.
+- ARKK: $TSLA 5,790주 소량 매도 (포지션 163만주 → 164.7만주의 -0.35%)
+- ARKW: $TSLA 1,549주 추가 감소
+- 전체적으로 TSLA에 대한 소규모 차익실현 움직임. 단, 대규모 방향 전환은 아님.
+- 코인베이스($COIN) 포지션은 변동 없이 유지.
+[ARK Invest Trades](https://blog.arkinvesttrades.com/2026/05/04/combined-holdings-05-04-2026/)
+
+**📌 빌 애크먼 / 퍼싱스퀘어**
+PSUS IPO 첫날 -18% 급락 충격 속에서, 애크먼은 "리테일 투자자를 우선 배정했기 때문"이라고 설명. 현재 PSUS 주요 보유 종목은 메타·아마존(최근 추가), 알파벳(최근 축소). 치폴레는 완전히 청산.
+
+**📌 슈퍼인베스터 최신 트렌드 (Q4 2025 13F 기준)**
+워런 버핏의 버크셔 해서웨이는 42개 종목, 포트폴리오 규모 $274.1B를 유지. 최근 13F에서는 애플 비중 소폭 축소, 에너지 섹터 선호가 확인됐다. 전반적으로 AI 테마보다 현금 흐름이 확실한 기업 위주의 방어적 포트폴리오를 유지 중.
+
+**📌 팔란티어 내부자 매수 (Alexander Karp)**
+팔란티어 공동창업자 알렉산더 카프가 1월 22일~4월 22일 사이 **147만 주**를 취득 — 올해 미국 성장주 중 최대 규모의 내부자 매수다. "내가 가장 잘 아는 회사에 내 돈을 넣는다"는 신호.
+---
+
+## 🎧 이번 주 들을 팟캐스트 — AI 전쟁, 핵 에너지, 그리고 시장의 민낯
+
+---
+
+**1. All-In Podcast** | "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats" (5월 1일)
+
+이번 주 All-In의 주인공은 단연 Elon vs Sam 재판이다. Chamath·Jason·Sacks·Friedberg 네 명의 베스트 프렌즈는 머스크가 "자선단체를 훔칠 수 없다"는 논거로 OpenAI의 영리 전환을 막으려는 이 재판의 법적·도덕적 함의를 가감 없이 파헤친다. 동시에 OpenAI가 자체 타겟을 미달했다는 폭로와, Codex(OpenAI 코딩 에이전트)가 Claude를 좁혀오고 있다는 AI 코딩 전쟁의 최신 전황도 다룬다. 빅테크 1분기 실적의 공통 테마 — "AI에 수십 조 원을 쏟아붓는 하이퍼스케일러들, 언제 ROI가 나오나?" — 에 대한 4인 4색 시각도 흥미롭다. 거기에 Friedberg의 수퍼인간 수명 연장 펩타이드 Retatrutide 임상시험 결과까지. 주당 120분이 짧게 느껴지는 에피소드. [Apple Podcasts](https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393)
+
+---
+
+**2. Lex Fridman Podcast** | "#490 — State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI"
+
+렉스 프리드만이 앨런 AI 인스티튜트(AI2) 포스트-트레이닝 리드 Nathan Lambert와 "2026년 AI의 현주소"를 정밀 해부한다. 스케일링 법칙은 여전히 유효한가? 중국 AI는 얼마나 따라왔나? 에이전트와 코딩 AI의 실용화 한계는 어디인가? GPU 공급망의 진짜 병목은 무엇인가? — AGI 논쟁이 아니라 "지금 실제로 작동하는 것"에 집중한 이 에피소드는, AI 투자 판단을 내리려는 모든 이에게 깊이 있는 기준점을 제공한다. 렉스 특유의 3시간 롱폼 인터뷰. [Spotify](https://open.spotify.com/episode/4UBPQG2Z7s70DpRVD5kMbC)
+
+---
+
+**3. TBPN** | "AI Profits Surge, $70B Capex Surge Raises Investor Concerns, Automated Skin Exams" (최신)
+
+테크놀로지 브라더스(John Coogan & Jordi Hays)의 TBPN은 매일 오전 11시~오후 2시(PT) X와 유튜브에서 생방송하는 테크계 데일리 뉴스쇼다. 이번 에피소드의 핵심 긴장: AI 기업들의 수익이 급증하는 동안, 빅테크의 연간 AI 설비투자가 **$700억**을 돌파하면서 투자자들이 "언제 이게 ROI로 돌아오나"를 묻기 시작했다. 동시에 AI 기반 피부 진단 자동화 의료 기기의 실용화 — 헬스케어와 AI의 접점이 생각보다 빠르게 현실이 되고 있다는 이야기도 나온다. 매일 들으면 테크 업계 감각이 살아있는 느낌이 드는 팟캐스트. [TBPN.com](https://www.tbpn.com/)
+
+---
+
+*머뉴(MoneyNews) | 돈이 되는 모든 것에 대한 소식*
+*오후 브리핑 | 2026년 5월 4일*
+*다음 브리핑은 내일 아침 7시에 찾아옵니다.*
