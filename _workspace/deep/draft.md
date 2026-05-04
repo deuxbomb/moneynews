@@ -1,126 +1,107 @@
-# 로보택시 전쟁 2026: 한쪽은 주당 50만 건, 다른 쪽은 고작 25대
+# 200대가 동시에 멈췄다 — 중국 로보택시의 브레이크가 걸린 날
 
-*2026년 5월 3일 | 머뉴 딥다이브*
-
----
-
-한쪽은 주당 50만 건. 다른 쪽은 고작 25대.
-
-같은 산업, 같은 꿈을 쫓고 있는 두 회사의 현주소입니다. 웨이모(Waymo)와 테슬라($TSLA)가 2026년 로보택시 시장에서 쏘아올리고 있는 숫자의 간극은, 단순한 '진행 속도 차이'가 아닙니다. 두 회사가 완전히 다른 철학으로 완전히 다른 게임을 하고 있다는 신호입니다.
-
-그리고 그 사이에는 조용히 세 번째 선수가 등장했습니다. Amazon의 자율주행 자회사 죽스(Zoox)가 미국 연방도로교통안전청(NHTSA)의 승인을 받아 라스베이거스에서 유료 서비스를 시작하려 하고 있거든요. 로보택시 전쟁이 드디어 결전의 해를 맞이하고 있습니다.
+**2026년 5월 4일 | 머뉴 딥다이브**
 
 ---
 
-## 이 싸움이 왜 하필 지금 터지는가
+## 오후 8시 57분, 우한의 고가도로 위에서
 
-로보택시는 사실 오래된 꿈입니다. 구글이 자율주행 프로젝트를 시작한 게 2009년이고, 웨이모가 독립 법인으로 분사한 것도 2016년이에요. 테슬라가 "완전자율주행이 1년 안에 온다"고 약속하기 시작한 것도 벌써 수년 전 얘기입니다.
+2026년 3월 31일 저녁 8시 57분. 우한 시내 곳곳에서 이상한 일이 벌어졌다.
 
-그런데 왜 2026년이 실제 전환점이 됐을까요?
+바이두 Apollo Go 로보택시 100여 대가 동시에 멈췄다. 그냥 멈춘 게 아니었다. 고가 순환도로 추월차선, 주요 교차로 한가운데, 다리 위. 차들은 경고 없이, 갓길로 빠지지도 않고, 그 자리에서 그대로 얼어붙었다 — [CNBC](https://www.cnbc.com/2026/04/01/baidu-robotaxis-caused-crashes-in-wuhan-reports.html).
 
-크게 세 가지가 맞물렸습니다. 첫째는 **실제 상업 서비스의 임계점**입니다. 웨이모가 주당 50만 건을 넘기면서 "기술 증명"을 넘어 "사업 모델 증명" 단계로 진입했어요. 규모가 커지면 유닛 이코노믹스(단위 경제성)가 보이기 시작하고, 투자자들이 진짜 숫자를 볼 수 있게 됩니다. 둘째는 **자본의 유입**입니다. 웨이모가 2026년 2월 $160억(약 22조 원)을 드라고니어·시쿼이아·DST글로벌 등으로부터 조달하며 기업가치 $1,260억(약 173조 원)을 찍었습니다. 이 규모의 돈이 들어오면 경쟁사들도 "이제 진짜다"라고 판단할 수밖에 없습니다. 셋째는 **규제 장벽의 해소**입니다. NHTSA가 죽스에게 핸들 없는 차량 2,500대 운행 허가를 내주는 등 미국 규제당국의 태도가 눈에 띄게 유연해지고 있어요.
+승객들은 SOS 버튼을 눌렀다. "서비스 불가"라는 메시지가 떴다. 고객센터에 전화했다. 자동 차단됐다. 그렇게 최대 2시간을 차 안에서 기다렸다 — [CnEVPost](https://cnevpost.com/2026/04/29/china-suspends-new-robotaxi-permits-after-baidu-outage/).
 
-세 가지가 동시에 움직이는 지금이, 로보택시의 실제 '빅뱅' 시점입니다.
-
----
-
-## 웨이모: 돈과 시간을 쏟아부은 자의 여유
-
-웨이모는 지금 확실한 선두 주자입니다. 단순히 앞서가는 게 아니라, 다른 플레이어들이 아직 시작도 못 한 영역에서 이미 사업을 운영하고 있어요.
-
-주당 유료 탑승 50만 건. 1년 전인 2025년 4월의 25만 건에서 정확히 2배가 된 수치입니다. 서울 시내버스가 하루에 약 400~500만 명을 나르는데, 웨이모는 일주일에 미국 전역에서 50만 건의 유료 탑승을 소화하고 있는 거예요. 그리고 목표는 2026년 말까지 주당 100만 건입니다.
-
-이 성장을 뒷받침하는 건 $160억의 탄환입니다. Alphabet이 이 라운드에서만 $130억을 쏟아부었고, 외부 투자자들도 $30억을 더했습니다. "웨이모는 스스로 운전하는 차를 만들었을 뿐 아니라, 인간이나 경쟁 시스템보다 의미 있게 더 잘 운전한다. 우리는 이 리드가 지속될 것이라 믿는다"는 리드 투자자 드라고니어의 Jared Middleman 파트너의 발언이 투자자들의 심리를 잘 보여줍니다.
-
-확장 계획도 공격적입니다. 현재 미국 10개 이상 도시에서 런던, 도쿄까지. 런던은 해외 진출 첫 시장이 되고, 도쿄는 우측통행(우핸들) 시장 첫 도전입니다. 2026년 중 추가로 20개 도시에 문을 여는 게 목표예요.
-
-한 가지 아킬레스건이 있다면 **비용**입니다. 웨이모의 현재 마일당 운영 비용은 모건스탠리 추정치 기준 $1.43. 여기에 6세대 하드웨어를 통해 센서 비용을 40%까지 낮췄지만, 카메라+라이다+레이더 조합(13+4+6)의 기본 코스트 구조가 테슬라와 결이 다릅니다.
+다행히 부상자는 없었다. 하지만 이 사건은 단순한 기술 결함으로 끝나지 않았다. 4주 뒤, 중국 정부가 전국 자율주행 신규 퍼밋을 무기한 동결했다. 글로벌 로보택시 전쟁의 판이 바뀌는 순간이었다.
 
 ---
 
-## 테슬라: 25대로 무엇을 증명하려는가
+## 클라우드가 무너지면 차도 멈춘다
 
-테슬라의 숫자는 솔직히 말해 초라합니다. 2026년 4월 말 기준, 비지도(운전자 없이 완전 자율) 로보택시 차량은 고작 25대. 오스틴 19대, 달라스 3대, 휴스턴 3대. 2025년 6월 오스틴에서 처음 서비스를 시작한 후, 거의 1년이 지났는데도 세 도시에서 25대에 머물러 있습니다.
+우한 경찰의 성명은 짧았다. *"예비 조사 결과 시스템 오작동이 원인으로 파악된다."* 그게 전부였다.
 
-Elon Musk 본인도 Q1 2026 어닝 콜에서 "로보택시 매출은 2026년엔 미미할 것(not material), 의미 있는 기여는 2027년부터"라고 직접 인정했어요. 이게 보통 스타트업의 솔직한 자기 고백이라면 그냥 넘어갈 수 있는데, 수년간 "올해 안에"를 반복해온 회사라서 시장 반응이 복잡합니다.
+기술 분석가들은 좀 더 구체적인 지점을 짚었다. 문제는 개별 차량의 AI가 아니었다. 바이두의 클라우드 기반 배차·통신 인프라가 통째로 다운됐다는 게 중론이다 — [CnEVPost](https://cnevpost.com/2026/04/01/baidu-apollo-go-robotaxis-mass-paralysis-wuhan/). 차량 한 대가 사고 난 게 아니라, 중앙 두뇌가 멈추자 100여 대가 동시에 판단 불능 상태에 빠진 것이다.
 
-그런데 여기서 흥미로운 역전이 있어요.
+이 구조가 갖는 아이러니가 있다. 로보택시의 핵심 장점은 "사람이 운전하지 않아도 된다"는 것인데, 그 전제는 클라우드 인프라가 끊기지 않는다는 신뢰 위에 서있다. 분산 시스템이 아닌 중앙 집중형 아키텍처를 선택한 바이두에게 이번 사태는 설계 철학 자체에 대한 물음표가 됐다.
 
-테슬라의 **비용 구조**는 웨이모를 압도합니다. 달라스에서 실제 운행된 요금 기준으로, 같은 2.25마일 구간에서 테슬라는 $6.15, 웨이모는 $13.93을 청구했어요. 56% 저렴합니다. 모건스탠리 추정 마일당 원가도 테슬라 $0.81 vs 웨이모 $1.43으로 확연한 차이입니다. 전통 차량공유(Uber·Lyft)의 $1.71과 비교하면 테슬라의 경쟁력이 더 두드러지죠.
-
-테슬라의 또 다른 무기는 **데이터 규모**입니다. FSD 누적 주행 거리가 84억 마일(8.4 billion miles)입니다. 웨이모의 완전 비지도 주행 누적인 2억 마일의 42배에 달해요. "더 많이 달릴수록 더 똑똑해진다"는 딥러닝의 본질에서, 테슬라의 누적 데이터는 잠재적 경쟁 우위일 수 있습니다.
-
-다음 변곡점은 **FSD V15**입니다. Musk가 "major architectural improvement"라고 표현하며 현행 모델 대비 파라미터 수가 10배 많은 대형 모델을 탑재할 예정입니다. 타깃은 2026년 4분기, AI4(HW4) 전용 구동. 이 버전이 안착되면 "연말까지 수십 개 주(dozen or so states)"로 확장하겠다는 Musk의 공약과 연결됩니다.
+더 불편한 사실은, 이게 첫 번째 사고가 아니라는 점이다. 바이두는 2024년 말에도 유사한 집단 정지 사고를 겪었다 — [Carscoops](https://www.carscoops.com/2026/05/china-robotaxi-permit-freeze/). 업계에서는 "두 번째 경고"라는 표현이 나왔다.
 
 ---
 
-## 죽스: 조용히 핵폭탄 하나를 손에 들다
+## 중국 정부의 해머 — 전업계 퍼밋 동결
 
-웨이모와 테슬라의 싸움에 가려서 잘 보이지 않지만, Amazon의 죽스(Zoox)가 최근 매우 중요한 카드를 얻었습니다.
+4월 29일. 중국 공업정보화부(MIIT) 등 3개 기관이 공동 통보를 발송했다. 수신자는 바이두만이 아니었다. Pony.ai, AutoX, WeRide — 중국 내 모든 자율주행 기업이 포함됐다.
 
-NHTSA가 죽스에게 핸들과 페달이 없는 완전 맞춤형 로보택시 차량 2,500대를 라스베이거스에서 연간 운행할 수 있도록 정식 허가(exemption)를 내줬습니다. 이 결정이 왜 중요하냐면, 기존 연방 자동차 안전 기준이 '조향휠 필수' 등 인간 운전을 전제로 만들어졌는데, 죽스는 처음부터 그 기준 바깥에 있는 설계를 했거든요. NHTSA가 이를 공식 허용했다는 건 규제 패러다임의 실질적 전환입니다.
+내용은 단순하지만 파급력은 컸다. 신규 차량 추가 금지. 새 테스트 프로그램 시작 금지. 신도시 진출 금지. 재개 시점? 미정 — [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage).
 
-더 흥미로운 건 **Uber와의 파트너십**입니다. 죽스는 단독 앱을 만들지 않고, 라스베이거스에서 Uber 앱을 통해 죽스 로보택시를 호출하는 방식을 채택했습니다. 이미 수천만 명의 월간 활성 사용자를 가진 Uber의 플랫폼을 빌려 쓰는 거예요. 마케팅 비용과 고객 확보 비용(CAC)을 제로에 가깝게 만드는 전략입니다. 2026년 여름 라스베이거스, 2027년 LA 확장이 목표고, 오스틴·마이애미 진출도 2026년 내로 예정되어 있습니다.
+시장은 즉각 반응했다. Pony.ai -5.5%, WeRide -4.7%. 연초 대비로 보면 더 가혹하다. WeRide는 올해 -10%, Pony.ai는 무려 -30% 하락 중이다 — [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/china-suspends-autonomous-driving-permits-034604276.html). 바이두는 홍콩에서 -4% 급락했고, 3거래일 내내 하락했다 — [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage).
 
-아직 유료 서비스 전 단계이고, 지금까지 30만 명에게 무료 시승을 제공하며 데이터와 브랜드 인지도를 쌓는 중이에요. 하지만 Amazon의 자금력과 Uber의 네트워크가 뒤를 받쳐주는 이 조합은, 결코 무시할 수 없습니다.
-
----
-
-## 세 전략이 충돌하면 누가 이기는가
-
-세 회사를 나란히 놓고 보면, 이건 단순한 속도 경쟁이 아닙니다. **세 개의 근본적으로 다른 사업 모델이 충돌하는 구도**입니다.
-
-웨이모의 모델: **안전과 밀도 우선**. 라이다+레이더+카메라로 최대한 신뢰할 수 있는 시스템을 만들고, 도시별로 완전히 숙달된 다음에 다음 도시로 넘어간다. 비용이 높지만 사고 가능성은 최소화한다.
-
-테슬라의 모델: **비용과 규모 우선**. 카메라만으로(Vision-only) 최대한 저렴하게 구현하고, 세계 수억 대의 테슬라 차량이 수집하는 데이터로 모델을 지속적으로 개선한다. 지금은 비싸지만 결국엔 누구도 못 따라올 원가 구조를 만든다.
-
-죽스의 모델: **플랫폼 기생 전략**. 직접 네트워크를 구축하는 대신 Uber라는 기존 플랫폼에 올라타, Amazon의 자금력으로 차량을 만들고 규제를 통과시킨다.
-
-모건스탠리의 2032년 시장점유율 전망은 웨이모 34%, 테슬라 25%. 하지만 이 숫자가 나오려면 테슬라가 FSD V15 이후 실제로 대규모 확장을 해내야 합니다. 지금의 25대로는 아무것도 증명되지 않았습니다.
-
-로보택시 글로벌 시장 전체는 2026년 $55억에서 2032년 $2,751억으로 성장할 것으로 전망됩니다. 파이가 커지는 건 확실합니다. 문제는 그 파이를 누가 얼마나 가져가느냐.
+닛케이아시아는 최종 결정이 5월 말 이전에는 나오지 않을 것이라고 보도했다 — [Carscoops](https://www.carscoops.com/2026/05/china-robotaxi-permit-freeze/). 오늘(5월 4일) 기준으로 아직 동결이 풀리지 않았다.
 
 ---
 
-## 투자 지형도: $GOOGL이냐 $TSLA냐
+## 역설: 동결이 미국에게 기회가 되는 이유
 
-투자자 입장에서 이 전쟁을 어떻게 볼까요?
+이 사태를 가장 차분하게 바라보는 곳은 어디일까. 아이러니하게도 Waymo와 Tesla다.
 
-**$GOOGL(Waymo)**: 웨이모의 기업가치 $1,260억은 이미 Alphabet 시가총액에 일부 반영되어 있지만, Alphabet 전체 시가총액 대비 아직 작은 비중입니다. 웨이모가 2026년 말 주당 100만 건 목표에 근접하거나 달성한다면, 재평가 여지가 있습니다. 단기 수혜 가능성이 더 명확합니다.
+Waymo는 중국에 없다. 미국 내 11개 도시 추가 개장 계획을 착실히 진행 중이다 — [CNBC](https://www.cnbc.com/2025/12/16/waymo-amazon-zoox-tesla-robotaxi-expansion.html). 중국의 규제 쇼크는 $GOOGL에게 직접적인 영향이 없다. 오히려 "안전성으로 검증된 미국 자율주행 서비스"라는 내러티브가 강화되는 효과가 생긴다.
 
-**$TSLA**: 모건스탠리 Hold 등급, 목표주가 $415. 단기로는 FSD V15 출시와 대규모 확장이 실제로 이뤄지는지가 핵심 촉매입니다. Musk는 "연말까지 수십 개 주"를 약속했는데, 만약 하반기에 실제 확장 속도가 나온다면 주가 재평가의 강력한 이유가 됩니다. 반대로 또 한 번 딜레이가 나오면 신뢰도 문제가 더 깊어질 수 있어요.
+Tesla는 다르다. 샌프란시스코 기반 로보택시 서비스의 가격은 Waymo의 절반 수준이다. 2025년 12월 이후 41% 인상했음에도 그렇다 — [Electrek](https://electrek.co/2026/04/30/tesla-robotaxi-unsupervised-finally-signs-ramping-up/). Austin, Dallas, Houston으로 점진적 확장 중이다. 느리지만, 최소한 멈추지는 않는다.
 
-리스크 요인도 공통됩니다. 자율주행 차량 관련 중대 사고 한 건이 모든 플레이어의 확장을 동시에 멈출 수 있어요. 규제가 하루아침에 뒤집어질 수 있는 산업입니다. 중국에서는 Baidu, WeRide, Pony.ai가 훨씬 빠른 속도로 로보택시 생태계를 키우고 있어, 글로벌 기술 주도권 경쟁도 변수입니다.
-
----
-
-## 머뉴's Advice 🧭
-
-**① 지금 당장의 모멘텀은 $GOOGL(웨이모)**입니다. 숫자가 가장 명확하고, 자본이 충분하며, 국제 확장이 가시화되어 있습니다. 로보택시 익스포저를 가져가고 싶다면, Alphabet 주식이 가장 직접적인 베팅입니다.
-
-**② $TSLA는 FSD V15 이후를 보는 게임**입니다. 2026년 4분기 V15 출시와 실제 도시 확장 속도가 나오는지를 모니터링하세요. 실현되면 강력한 매수 촉매, 또 딜레이되면 그 반대입니다. 지금 당장은 "증명 중"이지 "증명된" 상태가 아닙니다.
-
-**③ 죽스·Uber 조합은 간접 수혜를 노릴 수 있는 포인트**입니다. Zoox가 성공하면 Uber의 네트워크 가치가 재평가될 수 있어요. Uber 자체도 로보택시 전환의 수혜주로 볼 수 있습니다.
+반면 바이두의 경쟁력은 비용이었다. 로보택시 1대당 생산원가를 2만 8,000달러까지 낮췄다 — Waymo의 수십만 달러와 비교하면 혁명적인 숫자다 — [recodechinaai Substack](https://recodechinaai.substack.com/p/as-tesla-enters-the-robotaxi-race). 2026년 2월 기준 누적 탑승 2,000만 건을 돌파하며 스케일에서도 앞서있었다. 이 모든 모멘텀이 지금 규제의 벽에 막혀있다.
 
 ---
 
-로보택시는 "10년 뒤의 이야기"가 아닙니다. 지금 이 순간, 텍사스에선 운전석이 비어있는 테슬라가 달리고 있고, 샌프란시스코에선 사람들이 웨이모를 일상 교통수단으로 쓰고 있습니다. 당신이 이 기술에 투자할 것인지, 아니면 구경만 할 것인지 결정해야 할 시간이 다가오고 있습니다.
+## 시장이 얼마나 큰지를 알아야 아프다는 게 보인다
+
+중국이 멈춘 이 시점에, 시장이 얼마나 커지고 있는지를 짚어보면 이 동결의 의미가 선명해진다.
+
+골드만삭스는 중국 로보택시 플릿이 2025년 5,000대에서 2026년 말 14,000대로 거의 3배 증가할 것으로 봤다. 2035년에는 310만 대로 전체 라이드쉐어 차량의 36%를 차지할 전망이다 — [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/chinas-robotaxi-fleet-nearly-triple-190000680.html).
+
+글로벌 시장 전체로는 더 가파르다. 2025년 6.1억 달러였던 시장이 2033년 1,472억 달러로 성장한다는 예측이 나온다. CAGR 99.1% — [Electronics Weekly](https://www.electronicsweekly.com/news/business/robotaxi-services-2026-04/). 매년 시장이 두 배씩 커진다는 의미다.
+
+이 레이스에서 중국이 잠시 피트 스톱에 들어간 셈이다. 문제는 레이스 자체가 멈추지 않는다는 것이다.
+
+---
+
+## 투자 지형도 — 지금 누가 유리한가
+
+**$GOOGL (Waymo)**: 중국 규제 리스크 제로. 11개 도시 미국 내 확장 진행 중. "검증된 안전성" 브랜드 프리미엄이 높아지는 구간. 단기 투자 관점에서 자율주행 섹터 내 최선호주.
+
+**$TSLA**: 중국발 경쟁 리스크가 일시적으로 완화됐다. 다만 Tesla 자체 확장도 계획 대비 느리다는 점은 주의. 로보택시 서비스의 수익화 타임라인이 여전히 불확실하다.
+
+**중국 AV 주식 (BIDU, Pony.ai, WeRide)**: 단기 헤드윈드는 명확하다. 퍼밋 동결이 풀리기 전까지는 성장 스토리에 브레이크가 걸린다. 단, 5월 말 이후 규제 완화 기대감이 형성될 경우 단기 반등 가능성. Pony.ai는 연초 대비 -30%로 낙폭이 가장 크다 — 리스크와 리바운드 기회가 동시에 존재하는 구간.
+
+---
+
+## 머뉴's Advice 🔮
+
+**1. 안전 내러티브가 다음 경쟁 축이다**
+기술 경쟁력에서 비용 경쟁력으로 전선이 이동하고 있었다. 그런데 우한 사태는 세 번째 축 — 안전성과 신뢰 — 을 다시 꺼내들었다. Waymo가 조용히 이 프레임의 수혜자가 될 수 있다.
+
+**2. 중국 AV 주식은 5월 말을 주목하라**
+닛케이아시아 보도 기준, 중국 당국의 최종 결정은 5월 말이 기준점이다. 규제 완화 신호가 나오면 WeRide, Pony.ai 등 낙폭 과대 종목에 단기 기회가 생길 수 있다. 단, 동결이 연장되거나 강화되면 추가 하락 시나리오도 열려있다.
+
+**3. 클라우드 의존형 자율주행의 취약점을 주시하라**
+이번 사태의 핵심은 AI가 아닌 클라우드 인프라였다. 이 문제가 해결되지 않으면 어느 기업이든 같은 취약점을 안고 있다. 엣지 컴퓨팅, 차량 내 독립 판단 시스템에 투자하는 기업들의 기술 차별성이 앞으로 더 중요해질 전망이다.
+
+---
+
+오늘 우한의 고가도로 위에서 시작된 질문은 아직 답이 없다. 200대가 동시에 멈추는 세상에서, 우리는 자율주행을 얼마나 신뢰할 준비가 됐을까. 그리고 그 신뢰를 돈으로 환산하면 — 어떤 티커가 가장 먼저 떠오르는가.
 
 ---
 
 ## 출처
 
-1. [CNBC](https://www.cnbc.com/2026/02/02/waymo-announced-16-billion-fundraising-round.html) — Waymo $160억 펀딩 라운드 발표 (2026.02.02)
-2. [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-11/waymo-co-ceo-outlines-path-to-1-million-weekly-trips-in-2026) — Waymo Co-CEO의 2026년 100만 건 목표 발언 (2026.02.11)
-3. [Electrek](https://electrek.co/2026/04/30/tesla-robotaxi-unsupervised-finally-signs-ramping-up/) — Tesla 비지도 로보택시 25대 현황 (2026.04.30)
-4. [Not A Tesla App](https://www.notateslaapp.com/news/4039/tesla-to-wait-for-fsd-v15-before-launching-robotaxi-at-scale-lists-next-cities) — Tesla FSD V15 대기 전략 및 다음 도시 목록
-5. [Not A Tesla App](https://www.notateslaapp.com/news/4004/tesla-launches-unsupervised-robotaxi-service-in-dallas-and-houston) — Tesla 달라스·휴스턴 론칭 (2026.04.18)
-6. [TechBuzz](https://www.techbuzz.ai/articles/tesla-undercuts-waymo-with-8-robotaxi-rides-at-a-cost) — Tesla vs Waymo 달라스 요금 비교
-7. [WebProNews](https://www.webpronews.com/zoox-wins-nhtsa-exemption-for-2500-driverless-robotaxis-in-las-vegas/) — Zoox NHTSA 허가 2,500대
-8. [TechCrunch](https://techcrunch.com/2026/03/11/zoox-plans-to-put-its-robotaxis-on-the-uber-app-in-vegas-this-year/) — Zoox-Uber 파트너십 (2026.03.11)
-9. [CNBC](https://www.cnbc.com/2026/03/24/amazon-zoox-robotaxi-rides-austin-miami.html) — Zoox 오스틴·마이애미 확장 계획 (2026.03.24)
-10. [TipRanks](https://www.tipranks.com/news/morgan-stanley-weighs-in-on-teslas-tsla-robotaxi-expansion-ahead-of-q1-earnings) — Morgan Stanley TSLA 분석, 마일당 비용 추정
-11. [TipRanks](https://www.tipranks.com/news/tsla-googl-tesla-and-waymo-set-for-a-major-robotaxi-breakout-in-2026-says-morgan-stanley) — Morgan Stanley 2032년 시장점유율 전망
-12. [Contrary Research](https://research.contrary.com/report/tesla-waymo-and-the-great-sensor-debate) — Tesla vs Waymo 센서·주행 거리 비교
-13. [National Law Review](https://natlawreview.com/press-releases/robotaxi-industry-analysis-report-2026-important-trends-growth-factors-and) — 로보택시 시장 규모 전망
-14. [HeyGoTrade](https://www.heygotrade.com/en/blog/tesla-q1-2026-earnings-recap/) — Elon Musk Q1 2026 어닝콜 발언
+- [CNBC](https://www.cnbc.com/2026/04/01/baidu-robotaxis-caused-crashes-in-wuhan-reports.html) — "Baidu robotaxis reportedly halted mid-traffic causing crashes in Wuhan, China" (2026.04.01)
+- [CnEVPost](https://cnevpost.com/2026/04/29/china-suspends-new-robotaxi-permits-after-baidu-outage/) — "China suspends new robotaxi permits after Baidu's Wuhan outage" (2026.04.29)
+- [CnEVPost](https://cnevpost.com/2026/04/01/baidu-apollo-go-robotaxis-mass-paralysis-wuhan/) — "Baidu Apollo Go robotaxis hit by rare mass paralysis in Chinese city" (2026.04.01)
+- [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage) — "China Suspends Autonomous Driving Permits After Baidu Outage" (2026.04.29)
+- [Carscoops](https://www.carscoops.com/2026/05/china-robotaxi-permit-freeze/) — "200 Robotaxis Stopped In Traffic, Now China Has Stopped Issuing Permits" (2026.05)
+- [Yahoo Finance / Goldman Sachs](https://finance.yahoo.com/sectors/technology/articles/chinas-robotaxi-fleet-nearly-triple-190000680.html) — "China's Robotaxi Fleet to Nearly Triple in 2026, Goldman Says"
+- [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/china-suspends-autonomous-driving-permits-034604276.html) — "China Suspends Autonomous Driving Permits After Baidu Outage"
+- [Electrek](https://electrek.co/2026/04/30/tesla-robotaxi-unsupervised-finally-signs-ramping-up/) — "Tesla 'Robotaxi' unsupervised fleet finally shows some signs of ramping up" (2026.04.30)
+- [CNBC](https://www.cnbc.com/2025/12/16/waymo-amazon-zoox-tesla-robotaxi-expansion.html) — "Waymo, Zoox and Tesla drive 2025 robotaxi boom"
+- [recodechinaai Substack](https://recodechinaai.substack.com/p/as-tesla-enters-the-robotaxi-race) — "As Tesla Enters the Robotaxi Race, Chinese Firms Pull Ahead Globally"
+- [Electronics Weekly](https://www.electronicsweekly.com/news/business/robotaxi-services-2026-04/) — "Robotaxi market to be worth $168bn in 2035"
+- [Automotive World](https://www.automotiveworld.com/news/china-suspends-new-av-permits-after-baidus-mass-outage/) — "China suspends new AV permits after Baidu's mass outage" (2026.04.29)
