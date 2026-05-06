@@ -2,46 +2,71 @@
 
 ## 📰 오늘의 뉴스
 
+### 호르무즈가 흔들리는데 나스닥은 신고가 — 이 시장의 속내
+
+이란이 UAE를 미사일로 타격하고 미 해군이 크루즈미사일을 요격하는 사이, 나스닥은 25,326포인트 사상 최고치를 찍었습니다. 상식적으로 말이 안 되는 것 같지만, 사실 논리가 있습니다.
+
+시장은 전쟁이 아니라 협상을 보고 있습니다. 트럼프 대통령이 "이란과의 협상에서 큰 진전이 있었다"고 발언하자마자 선물 시장이 반응했습니다. "Project Freedom"(호르무즈 해협 미 해군 진입 작전) 일시 중단, 미 상선 2척과 구축함이 이미 해협을 통과했다는 소식도 전해졌습니다.
+
+결과적으로 시장은 두 가지 시나리오를 동시에 가격에 반영하는 중입니다. 협상 타결 → 유가 급락 + 시장 대세 상승. 협상 결렬 → 유가 $120 돌파 + 에너지·방산 수혜. 어느 쪽이든 빅테크는 괜찮다는 계산이 깔려 있습니다. [sundayguardianlive.com](https://sundayguardianlive.com/business/us-stock-market-today-06-may-2026-dow-falls-nasdaq-sp-500-edge-higher-as-oil-surges-110-on-us-iran-tensions-gold-silver-climb-bitcoin-retreats-81k-what-investors-should-watch-189522/)
+
 ---
 
-### 🏛️ "7천피까지 63포인트" — 코스피, 반도체가 지수를 들고 달린 하루
+### 🚗 자율주행 — 테슬라 vs 웨이모, 같은 목적지 다른 속도
 
-2026년 5월 4일, 코스피는 전 거래일 대비 338포인트(+5.12%) 급등해 **6,936.99**로 마감했다. 사상 최초 장중 6,900 돌파다. 외국인과 기관이 각각 3조2천억원, 1조9천억원을 순매수했고, SK하이닉스 단일 종목에만 외국인 자금 1조7,768억원이 몰렸다. SK하이닉스는 +11% 폭등해 140만원을 터치했고, 삼성전자는 +4%대 강세를 이어갔다. AI 서버향 HBM 수요 폭증이 실적 시즌 가시화와 맞물리면서 "반도체 슈퍼사이클 재점화" 내러티브가 시장을 지배하고 있다. 증권주도 삼성증권이 상한가를 기록하며 동반 상승했다. 코스피 시총은 이제 5,653조원 — 12거래일 만에 650조원이 불어난 수치다. 이미 복수의 증권사가 "코스피 8,000" 전망을 내놓기 시작했다. [서울신문](https://www.seoul.co.kr/news/economy/2026/05/04/20260504500152) · [파이낸셜뉴스](https://www.fnnews.com/news/202605041625556482)
+#### 1. 테슬라 FSD, 10억 마일이 아닌 100억 마일을 넘었습니다
 
----
+머스크가 2026년 초에 이런 말을 했습니다. "FSD 무인 운전을 위해선 100억 마일의 실주행 데이터가 필요하다." 그리고 테슬라 FSD가 드디어 100억 마일(약 161억km)을 넘어섰습니다. 테슬라 FSD 안전 페이지는 FSD 감독 모드에서 530만 마일당 1건의 충돌을 기록, 미국 평균(66만 마일당 1건)보다 8배 안전하다고 밝혔습니다.
 
-### 🤖 자율주행 최신: 100억 마일을 넘어서도, 핸들에서 손을 뗄 수 없는 이유
+그런데 반전이 있습니다. 오스틴 로보택시 플릿은 2026년 2월까지 약 80만 마일을 주행하면서 NHTSA에 14건의 충돌을 신고했습니다. 이는 인간 운전자의 평균보다 4배 높은 사고율입니다. 100억 마일 마일스톤이 상업적 자율주행의 안전성 달성을 의미하지는 않는다는 반론입니다.
 
-**Tesla FSD 100억 마일 돌파 — 그래도 "아직은 안 돼"**
+그럼에도 비즈니스는 확장 중입니다. 4월 초 9대였던 오스틴 로보택시가 4월 말 26대로 늘었습니다. 휴스턴·달라스에도 각 3대가 배치됐고, 피닉스·마이애미·올랜도·탬파·라스베이거스 진출도 준비 중입니다. 네덜란드에서 FSD 감독 모드 승인을 받았고, EU 전역 승인도 추진 중입니다. [Electrek](https://electrek.co/2026/05/03/tesla-fsd-10-billion-miles-no-magical-milestone-autonomy/) · [Carscoops](https://www.carscoops.com/2026/05/tesla-fsd-unsupervised-threshold/)
 
-5월 3일, 테슬라가 FSD(Full Self-Driving) 누적 주행 거리 **100억 1,068만 4,206마일** 돌파를 공식화했다. 마지막 10억 마일은 단 31일 만에 쌓였다. 이 숫자는 중요하다 — 올해 1월 머스크가 직접 "10억 마일이 완전 무감독 운전의 전제조건"이라고 밝혔기 때문이다. 그런데 정작 테슬라는 이 마일스톤이 "무감독 전환 신호"라는 공식 발표를 내놓지 않았다. 4월 22일 Q1 컨퍼런스콜에서 머스크는 소비자용 무감독 FSD 전개를 **"최소 2026년 Q4"**로 또 미뤘다. 데이터는 통과했지만 지리적·기술적 과제가 남아있다는 설명이다. 테슬라의 FSD는 Waymo 대비 "2년 뒤처져 있다"는 내부 평가도 나온다. 10억 마일 데이터가 어떤 기적을 만들어낼지, 아니면 또 다른 지연의 서막이 될지 — 2026년 하반기가 결정한다. [Electrek](https://electrek.co/2026/05/03/tesla-fsd-10-billion-miles-no-magical-milestone-autonomy/)
+#### 2. 웨이모 월드모델 — 존재하지 않는 시나리오를 가르칩니다
 
-**Tesla 오스틴 로보택시, 야간 무감독 운행 개시**
+웨이모가 구글 딥마인드의 Genie 3를 기반으로 구축한 '웨이모 월드모델'을 공개했습니다. 핵심은 이겁니다: 자율주행차가 도로에서 한 번도 만나지 않은 상황을 시뮬레이션으로 학습하게 한다. 눈보라 속 금문교, 도로 위 토네이도, 코끼리가 굴러다니는 장면까지 포함됩니다.
 
-오스틴에서 테슬라 로보택시가 이제 **야간에도 안전 모니터 없이** 달린다. 기존에는 오전 6시~자정 사이로 제한됐던 운행 시간이 확장됐고, 도심 구역 지오펜스도 넓어졌다. 현재 플릿은 오스틴 19대 포함 텍사스 3개 도시 25대 규모다. 작지만 의미 있는 전진이다. [Teslarati](https://www.teslarati.com/tesla-robotaxi-service-austin-achieves-monumental-new-accomplishment/)
+웨이모는 이미 실제 도로 2억 마일을 자율주행으로 주행했지만, 가상 세계에서는 수백억 마일을 선행 학습합니다. 카메라 영상과 3D 라이다 데이터를 동시에 생성하기 때문에 현실의 멀티센서 환경과 동일한 학습이 가능합니다. 머스크가 "웨이모보다 몇 년 뒤처졌다"고 인정한 배경이 여기 있습니다. [Waymo Blog](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation/)
 
 ---
 
 ### 🏢 기업 뉴스
 
-**$NVDA + $OKLO | 핵연료에 디지털 트윈을 입히다**
+#### $TSLA — 세미 대량생산 + '머스크 생태계' 573억달러의 비밀
 
-4월 23일 발표된 NVIDIA·Oklo·LANL(로스앨러모스 국립연구소) 3자 파트너십의 파장이 계속되고 있다. 핵심은 NVIDIA의 AI 인프라(디지털 트윈, 시뮬레이션, 물리-화학 기반 AI 모델)를 Oklo의 **플루토늄 핵연료 개발**에 적용하는 것. Oklo의 플루토 반응로 연료 검증 속도를 수년 단위로 앞당길 수 있다는 게 파트너십의 약속이다. AI 하이퍼스케일러들이 요구하는 24시간 탄소제로 전력 — 풍력·태양광이 답을 못 주는 이 질문에 SMR이 가장 강력한 후보로 떠오르면서, NVIDIA는 연산 능력과 에너지 인프라를 동시에 확보하는 그림을 그리고 있다. Oklo 주가는 발표 후 1주일간 **+33%** 뛰었고, 목표 상업 발전 시점은 **2027년 말**이다. [BusinessWire](https://www.businesswire.com/news/home/20260423742786/en/Oklo-NVIDIA-and-Los-Alamos-National-Laboratory-Collaborate-to-Advance-Nuclear-Fuel-Validation-at-Los-Alamos-in-Support-of-Nuclear-Powered-AI-Factories) · [Carbon Credits](https://carboncredits.com/oklo-stock-jumps-15-as-nvidia-partnership-sparks-nuclear-ai-momentum/)
+테슬라 세미가 드디어 대량생산 체제에 돌입했습니다. 네바다 공장에서 고객 배송을 시작했으며, 파일럿 생산에서 본격 볼륨 제조로 전환이 이루어졌습니다. 2017년 발표 후 9년 만의 일입니다.
 
-**$TSLA | 머스크 vs. 알트만 재판 — "합의" 타진 뒤 법정 드라마 계속**
+동시에 불편한 뉴스도 나왔습니다. 테슬라가 수정 제출한 연간보고서(10-K)에 따르면, 2025년에 SpaceX와 xAI로부터 5억7,300만달러의 매출이 발생했고, The Boring Company·X(구 트위터)·머스크 개인 경호 회사로 수천만달러가 흘러갔습니다. 머스크의 여러 기업이 테슬라를 중심으로 자금을 주고받는 복잡한 거미줄 구조입니다.
 
-오늘 법원 서류에서 폭발적인 사실이 공개됐다. 일론 머스크가 재판 개막 이틀 전, OpenAI 그렉 브록만에게 직접 합의 의사를 타진했다는 것. 브록만이 "서로 모든 청구를 철회하자"고 제안하자, 머스크는 "이번 주 말이면 당신과 샘이 미국에서 가장 미움받는 사람이 될 것"이라고 응수했다. 재판은 계속되고 있다. 오클랜드 연방법원에서 머스크는 "비영리 자선단체를 빼앗을 수 없다"를 핵심 논거로, OpenAI 측은 "트위터 내 머스크 자신의 트윗이 의도를 증명한다"며 맞서고 있다. 판결은 5월 중순 예정. 어떤 결과가 나오든 AI 산업 지형에 파장을 미칠 재판이다. [CNBC](https://www.cnbc.com/2026/05/04/musk-sought-settlement-with-openai-before-oakland-trial-filing-shows.html) · [Bloomberg](https://www.bloomberg.com/news/newsletters/2026-05-04/musk-says-fate-of-humanity-at-risk-in-openai-lawsuit)
+주가는 목표가(~$398)에 딱 붙어있는 상황입니다. 애널리스트들도 방향을 못 잡고 있고, 로보택시 스케일업과 FSD 무인화 진전이 다음 모멘텀의 키가 될 것 같습니다. 어닝은 이미 발표됐고(Q1), 무인 FSD는 Q4 목표, 세미 양산은 지금부터 시작입니다. [Electrek](https://electrek.co/2026/05/01/tesla-tsla-web-transactions-musk-companies-spacex-xai-10ka-2025/) · [Simplywall.st](https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla/news/tesla-semi-enters-mass-production-as-investors-weigh-rich-va)
 
-**$COIN | ARK, 비트코인 $79,200 횡보 속 포지션 유지**
+#### $NVDA — 젠슨 황의 고백: "중국 점유율 0%, 제재는 역효과"
 
-코인베이스($COIN)는 $193.53 수준에서 거래되고 있다. 비트코인이 오늘 $80,000 돌파를 시도했다가 $78,975 수준으로 후퇴하면서 COIN도 방향을 잡지 못하는 모습이다. ARK는 오늘 ARKK에서 TSLA 5,790주를 소량 매도했지만, 코인베이스 포지션은 유지 중이다. 크립토 방향성의 다음 촉매는 연준의 금리 결정과 트럼프 행정부의 디지털자산 규제 명확화가 될 가능성이 높다.
+젠슨 황이 공개 인터뷰에서 폭탄 발언을 했습니다. "우리의 중국 시장점유율은 지금 0%입니다." 한때 90%를 넘었던 중국 AI 반도체 시장 점유율이 미국의 수출 제한으로 완전히 증발했다는 공식 시인입니다.
+
+NVIDIA는 직전 회계연도에 중국(홍콩 포함)에서 196억7,000만달러의 매출을 올렸지만, 이제 1분기부터 중국 매출을 전혀 기대하지 않는다고 밝혔습니다. 젠슨은 "중국처럼 거대한 시장 전체를 양보하는 건 전략적으로 말이 안 된다"며 미 수출 정책을 정면 비판했습니다. "이미 크게 역효과를 냈다"고도 했죠.
+
+그런데 주가는 여전히 $198대를 유지 중입니다. 시장은 중국 손실을 이미 반영했고, 미국·유럽·일본·중동의 AI 인프라 투자 붐이 그 공백을 채우고 있기 때문입니다. 문제는 중국 AI 기업들이 그 빈자리를 빠르게 채우고 있다는 점 — 화웨이 Ascend 칩이 중국 시장에서 급격히 성장 중입니다. [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-says-nvidia-now-has-zero-percent-market-share-in-china-says-us-export-policy-has-already-largely-backfired) · [Yahoo Finance](https://finance.yahoo.com/sectors/technology/article/nvidia-ceo-jensen-huang-says-company-now-has-zero-market-share-in-china-150805330.html)
+
+#### $COIN — AI가 직원 14%를 쫓아냈습니다
+
+코인베이스가 전체 직원의 14%인 약 660명을 해고했습니다. 표면적 이유는 크립토 시장 침체, 하지만 CEO 브라이언 암스트롱이 직접 밝힌 속내는 'AI 가속'입니다. "AI가 우리 방식으로 일하는 법을 바꾸고 있다"는 것이죠.
+
+구조조정의 핵심은 조직도를 뒤집는 겁니다. 5개 관리 레이어로 압축, 관리자 1명당 15명 이상 보고. "AI 네이티브 팟(pod)" 중심으로 재편. 비용은 $5,000~6,000만달러가 예상됩니다. 내일(5/7) Q1 실적 발표가 예정돼 있고, 컨센서스는 이익 58% YoY 감소를 예상하고 있습니다.
+
+역설적으로 주가는 해고 발표 당일 오히려 반등했습니다. "비용을 줄이고 있다 = 바닥을 잡고 실적 개선을 준비 중"이라는 해석이 지배했습니다. 애널리스트 목표가($304)와 현재가($196)의 갭은 54%에 달합니다. 내일 실적이 변곡점이 될 수 있습니다. [TechCrunch](https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/) · [CoinDesk](https://www.coindesk.com/business/2026/05/05/coinbase-cuts-14-of-staff-as-ai-reshapes-how-crypto-companies-operate)
 
 ---
 
-### 💎 오늘의 흥미로운 이야기
+### 🎲 흥미로운 이야기 — 이번 주 월가가 주목한 것들
 
-**1. "빌 애크먼의 PSUS, 데뷔 첫날 -18%" — 헤지펀드 제왕의 체면 구긴 IPO**
-4월 29일, 빌 애크먼의 퍼싱스퀘어 USA(PSUS)가 뉴욕증권거래소에 상장하자마자 IPO가 $50에서 $40.90으로 **-18%** 추락했다. 그는 X에 장문의 해명을 올렸다 — "오후 1시 55분에야 주식이 거래를 시작했고, 기관보다 리테일에 더 많은 물량을 배분했다." 버크셔 스타일의 버핏 클론 펀드를 꿈꿨지만 데뷔는 혹독했다. [Benzinga](https://www.benzinga.com/markets/hedge-funds/26/05/52237585/ackman-we-favored-retail-allocations-over-institutional-orders)
+#### 1. 빌 애크먼이 스페이스X IPO를 설계하고 있습니다
 
-**2. "WTI $101 — 이란 전쟁의 역설, 유가는 오히려 하락 중"**
-지난달 이란 전쟁으로 Brent가 $118을 찍었지만, 지금 WTI는 $101이다. 트럼프의 "프로젝트 프리덤" — 호르무즈 해협 봉쇄 해소 작전 + 이란 협상 신호 — 이 동시에 작동하면서 유가가 역방향으로 움직이고 있다. 엑슨모빌 CEO는 "시장이 이란 리스크를 아직도 과소평가하고 있다"고 경고했지만, 시장은 일단 안도하는 분위기다. [CNBC](https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html)
+퍼싱스퀘어 창업자 빌 애크먼이 파격적인 제안을 내놨습니다. SPARC(Special Purpose Acquisition Rights Company) 구조를 통해 스페이스X를 상장시키고, 그 권리를 테슬라 주주들에게 우선 배분하자는 겁니다. 머스크가 오래전부터 "테슬라 주주들에게 스페이스X IPO 접근권을 주고 싶다"고 언급해 왔는데, 애크먼이 그 방법론을 구체화한 겁니다.
+
+스페이스X는 이미 IPO를 위해 20개 이상의 투자은행을 고용한 상황. 머스크는 스페이스X가 언젠가 $100조 기업이 될 수 있다고 발언했습니다. 참고로 현재 전 세계 주식시장 시가총액 합계가 약 $120조입니다. [Yahoo Finance](https://finance.yahoo.com/news/bill-ackman-proposes-elon-musks-193012345.html)
+
+#### 2. ARK인베스트, 쇼피파이를 쓸어담았습니다
+
+캐시 우드의 ARK인베스트가 5월 5일 쇼피파이($SHOP) 72,322주를 추가 매수했습니다. 실적 발표를 앞두고 공격적으로 포지션을 늘린 겁니다. ARK는 최근 코어위브(CRWV), 스포티파이(SPOT), 알파벳(GOOGL)도 매수하며 AI+미디어+클라우드 테마 비중을 높이고 있습니다. [Cathie's Ark](https://cathiesark.com/ark-funds-combined/trades)
+

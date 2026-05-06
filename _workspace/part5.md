@@ -1,27 +1,48 @@
 ---
 
-## 🎧 이번 주 들을 팟캐스트 — AI 전쟁, 핵 에너지, 그리고 시장의 민낯
+## 🎧 이번 주 들어야 할 팟캐스트
+
+### "귀로 읽는 실리콘밸리" — 이번 주 놓치면 아까운 대화들
+
+AI가 일을 바꾸고, 소송이 진행되고, 럭셔리 브랜드가 역설로 가르쳐 주는 비즈니스의 진수까지. 이번 주는 투자자에게 특히 유익한 에피소드들이 쏟아졌습니다.
 
 ---
 
-**1. All-In Podcast** | "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats" (5월 1일)
+**1. [All-In Podcast] "OpenAI 실적 실망, Codex vs Claude, 머스크 vs 샘 알트만 소송"** (5월 1일)
 
-이번 주 All-In의 주인공은 단연 Elon vs Sam 재판이다. Chamath·Jason·Sacks·Friedberg 네 명의 베스트 프렌즈는 머스크가 "자선단체를 훔칠 수 없다"는 논거로 OpenAI의 영리 전환을 막으려는 이 재판의 법적·도덕적 함의를 가감 없이 파헤친다. 동시에 OpenAI가 자체 타겟을 미달했다는 폭로와, Codex(OpenAI 코딩 에이전트)가 Claude를 좁혀오고 있다는 AI 코딩 전쟁의 최신 전황도 다룬다. 빅테크 1분기 실적의 공통 테마 — "AI에 수십 조 원을 쏟아붓는 하이퍼스케일러들, 언제 ROI가 나오나?" — 에 대한 4인 4색 시각도 흥미롭다. 거기에 Friedberg의 수퍼인간 수명 연장 펩타이드 Retatrutide 임상시험 결과까지. 주당 120분이 짧게 느껴지는 에피소드. [Apple Podcasts](https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393)
+All-In의 네 사람(챠마스, 제이슨, 삭스, 프리드버그)이 이번 주 굵직한 사건들을 모두 다뤘습니다. OpenAI가 목표치를 밑돌자 구글의 Codex와 앤트로픽의 Claude가 빈자리를 파고드는 역학 관계, 빅테크의 분기 실적 서프라이즈와 AI 설비투자 경쟁이 어디까지 갈 것인지를 분석했습니다.
 
----
-
-**2. Lex Fridman Podcast** | "#490 — State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI"
-
-렉스 프리드만이 앨런 AI 인스티튜트(AI2) 포스트-트레이닝 리드 Nathan Lambert와 "2026년 AI의 현주소"를 정밀 해부한다. 스케일링 법칙은 여전히 유효한가? 중국 AI는 얼마나 따라왔나? 에이전트와 코딩 AI의 실용화 한계는 어디인가? GPU 공급망의 진짜 병목은 무엇인가? — AGI 논쟁이 아니라 "지금 실제로 작동하는 것"에 집중한 이 에피소드는, AI 투자 판단을 내리려는 모든 이에게 깊이 있는 기준점을 제공한다. 렉스 특유의 3시간 롱폼 인터뷰. [Spotify](https://open.spotify.com/episode/4UBPQG2Z7s70DpRVD5kMbC)
+개인적으로 가장 흥미로운 부분은 머스크 vs 샘 알트만 소송 이야기입니다. OpenAI의 비영리→영리 전환을 둘러싼 법적 분쟁이 실리콘밸리의 근본적 질문 하나를 건드립니다. "기술 회사의 미션과 수익은 양립 가능한가?" 투자자라면 OpenAI의 기업 구조 변화가 Anthropic, xAI, Google의 경쟁 포지션에 어떤 영향을 주는지를 주목하세요. 마지막 섹션의 '리타트루타이드 펩타이드' 이야기는 GLP-1 다음 비만 치료 패러다임을 예고합니다. [Apple Podcasts](https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393)
 
 ---
 
-**3. TBPN** | "AI Profits Surge, $70B Capex Surge Raises Investor Concerns, Automated Skin Exams" (최신)
+**2. [Lex Fridman #490] "2026년 AI의 현주소 — LLM, 스케일링 법칙, 중국, 에이전트, AGI"**
 
-테크놀로지 브라더스(John Coogan & Jordi Hays)의 TBPN은 매일 오전 11시~오후 2시(PT) X와 유튜브에서 생방송하는 테크계 데일리 뉴스쇼다. 이번 에피소드의 핵심 긴장: AI 기업들의 수익이 급증하는 동안, 빅테크의 연간 AI 설비투자가 **$700억**을 돌파하면서 투자자들이 "언제 이게 ROI로 돌아오나"를 묻기 시작했다. 동시에 AI 기반 피부 진단 자동화 의료 기기의 실용화 — 헬스케어와 AI의 접점이 생각보다 빠르게 현실이 되고 있다는 이야기도 나온다. 매일 들으면 테크 업계 감각이 살아있는 느낌이 드는 팟캐스트. [TBPN.com](https://www.tbpn.com/)
+Allen Institute for AI(Ai2)의 포스트트레이닝 리드 Nathan Lambert와 AI 교과서 저자 Sebastian Raschka가 게스트입니다. 두 사람은 연구자이자 실무자의 시각으로 AI가 지금 어디쯤 있는지를 솔직하게 이야기합니다.
+
+핵심 화두는 두 가지입니다. 첫째, "스케일링 법칙이 여전히 작동하는가" — 모델이 커질수록 똑똑해지는 공식이 한계에 도달했다는 논쟁. 둘째, "AI가 프로그래머를 대체할 것인가" — 에이전트가 코드를 쓰는 지금, 소프트웨어 엔지니어의 역할이 근본적으로 변하고 있습니다. AGI 타임라인에 대한 두 사람의 평가는 의외로 신중합니다. "시스템은 더 강력해졌지만, 진짜 이해하는지는 모른다"는 솔직한 고백. 중국 AI 섹션은 NVDA 투자자라면 필청입니다. [Spotify](https://open.spotify.com/episode/4UBPQG2Z7s70DpRVD5kMbC)
 
 ---
 
-*머뉴(MoneyNews) | 돈이 되는 모든 것에 대한 소식*
-*오후 브리핑 | 2026년 5월 4일*
-*다음 브리핑은 내일 아침 7시에 찾아옵니다.*
+**3. [Acquired] "페라리 — 79년간 33만대, $50만짜리 차가 말해주는 비즈니스의 역설"** (4월 12일)
+
+Acquired는 회당 4~6시간짜리 기업 역사 심층 분석으로 유명합니다. 이번 에피소드는 페라리입니다. 79년 역사, 전체 판매량 33만대, 평균 판매가 $50만. 놀라운 건 희소성 자체가 전략이라는 겁니다. 페라리는 수요보다 항상 조금 적게 공급합니다. 의도적으로.
+
+이 에피소드가 투자자에게 의미 있는 이유는 "모든 빠른 성장이 좋은 건 아니다"는 역설을 설득력 있게 보여주기 때문입니다. 럭셔리 브랜드의 가치는 성장에서 오지 않고 제한에서 옵니다. LVMH, 에르메스, 페라리의 주가 멀티플이 왜 그렇게 높은지, 브랜드 희소성이 왜 가장 방어적인 해자(moat)인지를 이해하게 됩니다. [Acquired.fm](https://www.acquired.fm/episodes)
+
+---
+
+**4. [Lenny's Podcast] "Notion이 AI 에이전트 플랫폼이 되는 법 — Max Schoening, Notion 제품 헤드"** (5월 3일)
+
+노션이 메모 앱에서 AI 에이전트 플랫폼으로 진화하는 과정을 제품 리드가 직접 설명합니다. 핵심은 "에이전트 떼(swarms of agents)를 인간이 어떻게 관리할 것인가"입니다. 클라우드·에이전트 시대의 협업 툴이 어떻게 변해야 하는지를 실전 제품 관점에서 풀어냅니다.
+
+투자자에게 중요한 시그널: 기업용 소프트웨어가 에이전트 중심으로 재편되는 속도가 생각보다 빠릅니다. $MSFT(Teams+Copilot), $GOOGL(Workspace+Gemini), $CRM(Salesforce Einstein)이 이 파이를 두고 싸우는 배경이 여기 있습니다. [Lenny's Podcast](https://www.lennysnewsletter.com/podcast)
+
+---
+
+**5. [No Priors] "ServiceNow CEO와의 대화 — AI 시대의 리더십과 엔터프라이즈 혁신"**
+
+Sarah Guo가 ServiceNow($NOW) CEO 빌 맥더모트와 나눈 대화입니다. 어릴 때부터 창업가였던 그가 어떻게 글로벌 기업의 CEO가 됐는지, 그리고 AI 시대에 기업 소프트웨어가 어떻게 변해야 하는지를 다룹니다.
+
+ServiceNow는 엔터프라이즈 워크플로우 자동화 분야에서 독보적입니다. AI 에이전트가 IT·HR·재무 프로세스를 자동화하는 흐름에서 가장 직접적인 수혜를 받는 기업 중 하나죠. 주가는 올해 꾸준히 우상향 중이고, "AI-first 엔터프라이즈 소프트웨어"라는 테마의 핵심 플레이어입니다. [No Priors on Spotify](https://open.spotify.com/show/70XnfzZH7nKFPYckeFnS4k)
+
