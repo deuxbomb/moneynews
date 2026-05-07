@@ -1,47 +1,61 @@
 ---
 
-## 📰 오늘의 뉴스
+## 🌍 전쟁이 끝날 수도 있다 — 이란 평화협상이 바꾸는 것들
+
+10주간의 전쟁이 끝날 수도 있다. 이란과 미국이 파키스탄 이슬라마바드를 중재지로 삼아 '한 장짜리 협상 프레임워크'를 논의 중이며, 빠르면 오늘(5월 7일 현지 시간) 이란 측이 공식 답변을 내놓을 것으로 알려졌다. 호르무즈 해협 봉쇄 해제 가능성이 현실화되면서, WTI 원유는 하루 만에 3.5% 급락해 $91.73까지 밀렸다. 이는 4월 초 미 해군 봉쇄 이후 최저치다.
+
+에너지 가격 하락의 파급 효과는 빠르게 번졌다. 미국 증시는 이미 전날 나스닥 +2%, S&P 500 사상 첫 7,300 돌파로 기념비적 날을 보냈고, 한국 코스피는 오늘 6.45% 급등이라는 역사적 랠리로 화답했다. 공급망 비용이 낮아지는 시나리오에서 가장 수혜를 보는 것은 제조업, 항공, 물류, 소비재다. 에너지 주식들은 이 구도에서 명확한 패자가 됐다. [[Yahoo Finance](https://finance.yahoo.com/markets/stocks/live/stock-market-today-thursday-may-7-iran-peace-records-231446268.html)] · [[TheStreet](https://www.thestreet.com/latest-news/stock-market-today-may-7-2026-updates)]
 
 ---
 
-### 🏛️ "7천피까지 63포인트" — 코스피, 반도체가 지수를 들고 달린 하루
+## 🚗 국내 자율주행, 오늘 두 가지 큰 움직임
 
-2026년 5월 4일, 코스피는 전 거래일 대비 338포인트(+5.12%) 급등해 **6,936.99**로 마감했다. 사상 최초 장중 6,900 돌파다. 외국인과 기관이 각각 3조2천억원, 1조9천억원을 순매수했고, SK하이닉스 단일 종목에만 외국인 자금 1조7,768억원이 몰렸다. SK하이닉스는 +11% 폭등해 140만원을 터치했고, 삼성전자는 +4%대 강세를 이어갔다. AI 서버향 HBM 수요 폭증이 실적 시즌 가시화와 맞물리면서 "반도체 슈퍼사이클 재점화" 내러티브가 시장을 지배하고 있다. 증권주도 삼성증권이 상한가를 기록하며 동반 상승했다. 코스피 시총은 이제 5,653조원 — 12거래일 만에 650조원이 불어난 수치다. 이미 복수의 증권사가 "코스피 8,000" 전망을 내놓기 시작했다. [서울신문](https://www.seoul.co.kr/news/economy/2026/05/04/20260504500152) · [파이낸셜뉴스](https://www.fnnews.com/news/202605041625556482)
+### 오토노머스에이투지 × HL만도 — "제어" 기술로 승부수
 
----
+오늘 오전, 국내 유일의 풀스택 자율주행 기업 오토노머스에이투지(에이투지)가 글로벌 SDV(소프트웨어 정의 차량) 선도 기업 HL만도와 MOU를 공식 체결했다. 두 회사가 집중하는 영역은 자율주행의 '마지막 퍼즐'인 제어(Control)다. 인지→판단→제어로 이어지는 자율주행 메커니즘 중, 실제 도로에서 차량이 얼마나 안전하고 매끄럽게 움직이는가를 결정하는 핵심 기술이다.
 
-### 🤖 자율주행 최신: 100억 마일을 넘어서도, 핸들에서 손을 뗄 수 없는 이유
+에이투지는 현재 서울 강남에서 심야 자율주행 택시, 강릉 벽지노선 마실버스 등 실증 운행을 수행 중이며, HL만도는 조향·제동 등 차량 제어 하드웨어에서 글로벌 경쟁력을 보유하고 있다. 두 회사의 협업은 소프트웨어와 하드웨어를 하나의 통합 솔루션으로 묶는 시도다. 국내 자율주행 생태계가 '실증'에서 '상업화'로 한 발 더 나아가는 장면이다. [[헤럴드경제](https://biz.heraldcorp.com/article/10733090)]
 
-**Tesla FSD 100억 마일 돌파 — 그래도 "아직은 안 돼"**
+### 국토부, 전국 17개 광역지자체·기업과 자율주행 협의체 개최
 
-5월 3일, 테슬라가 FSD(Full Self-Driving) 누적 주행 거리 **100억 1,068만 4,206마일** 돌파를 공식화했다. 마지막 10억 마일은 단 31일 만에 쌓였다. 이 숫자는 중요하다 — 올해 1월 머스크가 직접 "10억 마일이 완전 무감독 운전의 전제조건"이라고 밝혔기 때문이다. 그런데 정작 테슬라는 이 마일스톤이 "무감독 전환 신호"라는 공식 발표를 내놓지 않았다. 4월 22일 Q1 컨퍼런스콜에서 머스크는 소비자용 무감독 FSD 전개를 **"최소 2026년 Q4"**로 또 미뤘다. 데이터는 통과했지만 지리적·기술적 과제가 남아있다는 설명이다. 테슬라의 FSD는 Waymo 대비 "2년 뒤처져 있다"는 내부 평가도 나온다. 10억 마일 데이터가 어떤 기적을 만들어낼지, 아니면 또 다른 지연의 서막이 될지 — 2026년 하반기가 결정한다. [Electrek](https://electrek.co/2026/05/03/tesla-fsd-10-billion-miles-no-magical-milestone-autonomy/)
-
-**Tesla 오스틴 로보택시, 야간 무감독 운행 개시**
-
-오스틴에서 테슬라 로보택시가 이제 **야간에도 안전 모니터 없이** 달린다. 기존에는 오전 6시~자정 사이로 제한됐던 운행 시간이 확장됐고, 도심 구역 지오펜스도 넓어졌다. 현재 플릿은 오스틴 19대 포함 텍사스 3개 도시 25대 규모다. 작지만 의미 있는 전진이다. [Teslarati](https://www.teslarati.com/tesla-robotaxi-service-austin-achieves-monumental-new-accomplishment/)
+같은 날, 국토교통부는 경기도 화성에서 '제4차 자율주행자동차 시범운행지구 광역협의체'를 열었다. 전국 17개 시·도와 자율주행 기업들이 한자리에 모여 규제 합리화 과제를 논의하고, 서울·강원 등 시범지구 운영 노하우를 공유했다. 정부가 '규제 샌드박스'에서 '규제 정상화'로 속도를 내고 있다는 신호다. [[파이낸셜뉴스](https://www.fnnews.com/news/202605041711105867)] · [[로봇신문](https://www.irobotnews.com/news/articleView.html?idxno=46229)]
 
 ---
 
-### 🏢 기업 뉴스
+## 💼 기업 뉴스
 
-**$NVDA + $OKLO | 핵연료에 디지털 트윈을 입히다**
+### $GOOGL — 알파벳이 NVIDIA 왕좌를 넘보다
 
-4월 23일 발표된 NVIDIA·Oklo·LANL(로스앨러모스 국립연구소) 3자 파트너십의 파장이 계속되고 있다. 핵심은 NVIDIA의 AI 인프라(디지털 트윈, 시뮬레이션, 물리-화학 기반 AI 모델)를 Oklo의 **플루토늄 핵연료 개발**에 적용하는 것. Oklo의 플루토 반응로 연료 검증 속도를 수년 단위로 앞당길 수 있다는 게 파트너십의 약속이다. AI 하이퍼스케일러들이 요구하는 24시간 탄소제로 전력 — 풍력·태양광이 답을 못 주는 이 질문에 SMR이 가장 강력한 후보로 떠오르면서, NVIDIA는 연산 능력과 에너지 인프라를 동시에 확보하는 그림을 그리고 있다. Oklo 주가는 발표 후 1주일간 **+33%** 뛰었고, 목표 상업 발전 시점은 **2027년 말**이다. [BusinessWire](https://www.businesswire.com/news/home/20260423742786/en/Oklo-NVIDIA-and-Los-Alamos-National-Laboratory-Collaborate-to-Advance-Nuclear-Fuel-Validation-at-Los-Alamos-in-Support-of-Nuclear-Powered-AI-Factories) · [Carbon Credits](https://carboncredits.com/oklo-stock-jumps-15-as-nvidia-partnership-sparks-nuclear-ai-momentum/)
+"클라우드 $20B 돌파, AI 칩을 직접 팔기 시작했다."
 
-**$TSLA | 머스크 vs. 알트만 재판 — "합의" 타진 뒤 법정 드라마 계속**
+지난 4월 29일 발표된 Alphabet의 Q1 2026 실적은 빅테크 어닝 시즌의 압도적 MVP였다. 매출 $109.9B(컨센서스 $107B 대비 +3B 상회), 순이익 $62.58B(EPS $5.11, +81% YoY). Google Cloud는 역사상 처음으로 분기 매출 $20B을 돌파하며 +63% 성장을 기록했고, 클라우드 수주 잔고(backlog)는 $460B을 넘어섰다.
 
-오늘 법원 서류에서 폭발적인 사실이 공개됐다. 일론 머스크가 재판 개막 이틀 전, OpenAI 그렉 브록만에게 직접 합의 의사를 타진했다는 것. 브록만이 "서로 모든 청구를 철회하자"고 제안하자, 머스크는 "이번 주 말이면 당신과 샘이 미국에서 가장 미움받는 사람이 될 것"이라고 응수했다. 재판은 계속되고 있다. 오클랜드 연방법원에서 머스크는 "비영리 자선단체를 빼앗을 수 없다"를 핵심 논거로, OpenAI 측은 "트위터 내 머스크 자신의 트윗이 의도를 증명한다"며 맞서고 있다. 판결은 5월 중순 예정. 어떤 결과가 나오든 AI 산업 지형에 파장을 미칠 재판이다. [CNBC](https://www.cnbc.com/2026/05/04/musk-sought-settlement-with-openai-before-oakland-trial-filing-shows.html) · [Bloomberg](https://www.bloomberg.com/news/newsletters/2026-05-04/musk-says-fate-of-humanity-at-risk-in-openai-lawsuit)
+더 흥미로운 건 Alphabet의 전략 변화다. 구글은 이번 실적 발표에서 자체 개발 AI 칩인 TPU(Tensor Processing Unit)를 선별된 외부 고객에게 판매하겠다고 밝혔다. 이는 데이터센터에 NVIDIA GPU를 설치하는 대신 구글의 TPU를 도입할 수 있다는 의미다. 투자자들은 이를 NVIDIA에 대한 직접적인 도전으로 읽었다.
 
-**$COIN | ARK, 비트코인 $79,200 횡보 속 포지션 유지**
+GOOGL과 NVDA의 시가총액 차이가 약 $2,000억 달러까지 좁혀졌으며, 옵션 시장은 5월 중순 이전에 GOOGL이 NVDA를 추월할 확률을 53%로 보고 있다. NVDA 실적 발표는 5월 20일이다. [[The Next Web](https://thenextweb.com/news/alphabet-overtake-nvidia-market-cap-mag-seven)] · [[Motley Fool](https://www.fool.com/investing/2026/05/06/googl-signal-next-phase-ai-revolution-nvda-crown/)]
 
-코인베이스($COIN)는 $193.53 수준에서 거래되고 있다. 비트코인이 오늘 $80,000 돌파를 시도했다가 $78,975 수준으로 후퇴하면서 COIN도 방향을 잡지 못하는 모습이다. ARK는 오늘 ARKK에서 TSLA 5,790주를 소량 매도했지만, 코인베이스 포지션은 유지 중이다. 크립토 방향성의 다음 촉매는 연준의 금리 결정과 트럼프 행정부의 디지털자산 규제 명확화가 될 가능성이 높다.
+### $COIN — 인력 감축 카드를 먼저 꺼낸 CEO의 계산
+
+"700명을 내보내고 실적 발표를 기다린다."
+
+Brian Armstrong Coinbase CEO는 5월 5일 전사 직원의 14%인 약 700명 해고를 발표했다. 타이밍이 절묘하다. 실적 발표 이틀 전, '선제적 비용 절감'이라는 메시지를 시장에 심은 것이다. 주가는 당일 프리마켓에서 4% 올랐다.
+
+크립토 1분기는 BTC가 $78K~$85K 사이에서 움직이며 2025년 고점보다 낮은 수준을 유지했다. 거래량은 전년 동기 대비 약 40% 줄었다. 그러나 기관 커스터디 수수료, USDC 스테이블코인 이자 수익, 스테이킹 수익 등 '비트코인 가격과 덜 연동된' 수익원이 얼마나 버텼는지가 오늘 밤 실적의 핵심 열쇠다. [[Barchart](https://www.barchart.com/story/news/1624555/wall-street-split-on-coinbase-ahead-of-may-7-earnings-trade-coin-with-2x-leverage)] · [[IG](https://www.ig.com/en/news-and-trade-ideas/coinbase-1Q26-earnings-preview1-260430)]
+
+### ARM — 실적은 이겼는데 주가는 졌다
+
+"$10억 추가 수요가 있는데, 공급이 없다."
+
+ARM Holdings는 전날 실적 발표에서 EPS·매출 모두 컨센서스를 상회했다. 그러나 주가는 7.3% 급락했다. 이유는 단 한 마디의 코멘트 때문이었다. "신형 AGI CPU에 연결된 $10억 규모의 추가 수요를 충족할 생산 용량이 아직 확보되지 않았다." 반도체 패브리케이션(파운드리) 용량 부족이 ARM의 성장 ceiling으로 작용하고 있다는 고백이다. 실적 서프라이즈도 '공급 부족'이라는 현실에 막히면 주가는 빠진다는 교훈을 다시 확인시킨 날이었다. [[Bloomberg](https://www.bloomberg.com/news/articles/2026-05-07/us-stock-futures-today-doordash-fortinet-mcdonald-s-whirlpool)]
 
 ---
 
-### 💎 오늘의 흥미로운 이야기
+## 🎲 흥미로운 이야기
 
-**1. "빌 애크먼의 PSUS, 데뷔 첫날 -18%" — 헤지펀드 제왕의 체면 구긴 IPO**
-4월 29일, 빌 애크먼의 퍼싱스퀘어 USA(PSUS)가 뉴욕증권거래소에 상장하자마자 IPO가 $50에서 $40.90으로 **-18%** 추락했다. 그는 X에 장문의 해명을 올렸다 — "오후 1시 55분에야 주식이 거래를 시작했고, 기관보다 리테일에 더 많은 물량을 배분했다." 버크셔 스타일의 버핏 클론 펀드를 꿈꿨지만 데뷔는 혹독했다. [Benzinga](https://www.benzinga.com/markets/hedge-funds/26/05/52237585/ackman-we-favored-retail-allocations-over-institutional-orders)
+### Berkshire Hathaway가 자율주행 트럭을 주문했다
 
-**2. "WTI $101 — 이란 전쟁의 역설, 유가는 오히려 하락 중"**
-지난달 이란 전쟁으로 Brent가 $118을 찍었지만, 지금 WTI는 $101이다. 트럼프의 "프로젝트 프리덤" — 호르무즈 해협 봉쇄 해소 작전 + 이란 협상 신호 — 이 동시에 작동하면서 유가가 역방향으로 움직이고 있다. 엑슨모빌 CEO는 "시장이 이란 리스크를 아직도 과소평가하고 있다"고 경고했지만, 시장은 일단 안도하는 분위기다. [CNBC](https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html)
+버크셔 해서웨이 산하 유통 자회사 McLane이 Aurora Innovation의 자율주행 대형 트럭을 실제 물류 루트에 배치한다고 발표했다. 텍사스 및 미국 선벨트 지역의 레스토랑 납품 루트에 연내 투입 예정이다. 워렌 버핏의 회사가 자율주행 트럭을 쓴다. 그것도 레스토랑 납품용으로. 자율주행이 테크 스타트업의 영역을 벗어나 '현금 흐름이 확실한 사업'에서 쓰이기 시작했다는 신호다. [[CNBC](https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html)]
+
+### DoorDash, 기름값 걱정하면서도 10% 뛰었다
+
+DoorDash는 Q1에서 EPS $0.42(컨센서스 $0.37 상회), GOV(총 주문액) $31.6B(+37% YoY)를 기록했다. 주가는 10% 급등. 그런데 회사는 Q2 가이던스에서 "이란 전쟁에 따른 고유가로 드라이버 지원에 $5,000만 추가 비용이 발생할 것"이라고 경고했다. 이란 협상이 성사된다면 이 $5,000만짜리 먹구름도 사라진다. DASH에게 이란 평화협상은 비즈니스 변수다. [[CNBC](https://www.cnbc.com/2026/05/06/doordash-dash-earnings-q1-2026.html)]
