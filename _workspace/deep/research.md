@@ -1,112 +1,103 @@
-# 리서치 노트: 로보택시 가격전쟁 (2026-05-06)
+# 딥다이브 리서치 노트
 
 ## 테마
-로보택시 가격전쟁 개막 — 테슬라 저가 공세 vs 웨이모 안전 프리미엄
+NVIDIA 광학 제국 건설 — 구리 시대의 종말과 포토닉스 AI 인프라의 부상
 
 ## 유형
-📡 테크 트렌드
+🔍 딥 리서치 (소스 8개 이상 수렴, 구조적 산업 전환 기획기사)
 
 ## 선정 이유
-테슬라가 2026년 4월 18일 댈러스·휴스턴에 진출하면서 이미 두 도시에 먼저 들어가 있던 웨이모와 직접 맞붙었다. 같은 2.25마일 노선 요금 비교에서 56% 차이가 드러나 가격 전쟁이 수면 위로 떠올랐다. 동시에 웨이모는 92% 사고 감소 안전 데이터를 무기로 프리미엄 포지셔닝을 고수 중. $TSLA와 $GOOGL 모두 관심 종목.
+NVIDIA가 2026년 3~5월, 3개월 사이에 광학/포토닉스 기업 3곳(Coherent, Lumentum, Corning)에 총 72억 달러 이상을 투자했다. 각각의 딜은 개별 뉴스로 보도됐지만, 묶어서 보면 AI 인프라의 물리적 한계(구리의 한계)를 해결하는 NVIDIA의 체계적 전략이 드러난다. 2026년 5월 6일 Corning 딜 발표 당일 이를 심층 분석할 최적의 타이밍.
 
 ---
 
 ## 팩트 (출처 필수)
 
-### 테슬라 로보택시
+### NVIDIA-Corning 딜 (2026년 5월 6일)
+1. NVIDIA가 코닝(Corning)에 최대 32억 달러를 투자하는 장기 파트너십 계약 체결. 초기 5억 달러로 코닝 주식매수청구권(warrant) 확보: 주당 180달러에 최대 1,500만 주 매수 가능한 워런트 + 300만 주에 대한 사전납입 워런트. — 출처: [CNBC](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-06/nvidia-buys-500-million-of-rights-for-stock-in-corning)
 
-1. 테슬라는 2026년 4월 18일 댈러스·휴스턴에 비감독(무안전요원) 로보택시 서비스를 공식 론치했다. 서비스는 Tesla 앱을 통해 일반 공개되었으며, 차량 내 안전요원이 없다. — 출처: [TechCrunch](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)
+2. 코닝은 노스캐롤라이나·텍사스에 3개의 신규 첨단 제조 공장 건설. 미국 내 광학 커넥티비티 제조 용량 **10배** 확대, 광섬유 생산 용량 **50% 이상** 확대. 신규 일자리 3,000개 이상 창출. — 출처: [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure) / [Corning IR](https://investor.corning.com/news-and-events/news/news-details/2026/05/default.aspx)
 
-2. 현재 테슬라 로보택시 차량 대수는 약 573대이며, 2026년 말까지 1,500~2,000대 목표다. — 출처: [tech-insider.org](https://tech-insider.org/tesla-robotaxi-dallas-houston-unsupervised-launch-2026/)
+3. 코닝 주가는 발표 당일 장중 최대 **+20.8%** 급등, 종가 기준 약 +14% 마감. 코닝 주가는 발표 전 1년간 이미 **250%** 이상 상승한 상태. — 출처: [Invezz](https://invezz.com/news/2026/05/06/corning-stock-surges-20-on-nvidia-deal-to-expand-ai-optical-manufacturing/) / [NAI500](https://nai500.com/blog/2026/05/beyond-the-nvidia-hype-corning-stock-has-trounced-top-semiconductor-peers-this-year/)
 
-3. 댈러스 2.25마일(약 3.6km) 노선 실제 요금 비교: 테슬라 $6.15 vs 웨이모 $13.93 — 테슬라가 56% 저렴하다. — 출처: [eletric-vehicles.com](https://eletric-vehicles.com/tesla/tesla-undercuts-waymo-by-half-in-first-dallas-fare-comparison/)
+4. NVIDIA 주가는 발표 당일 **+5.41%** 상승. — 출처: [Yahoo Finance 검색결과](https://finance.yahoo.com/quote/NVDA/)
 
-4. 테슬라 댈러스 요금 구조: 기본료 $3.00 + 마일당 $1.40. — 출처: [eletric-vehicles.com](https://eletric-vehicles.com/tesla/tesla-undercuts-waymo-by-half-in-first-dallas-fare-comparison/)
+### NVIDIA의 광학 투자 패턴 (3개월 연속)
+5. 2026년 3월 2일: NVIDIA가 Coherent와 Lumentum에 각각 **20억 달러, 총 40억 달러** 투자 발표. 다년간 구매 약정 + 생산 용량 우선 접근권 포함. Lumentum +12%, Coherent +15% 급등. — 출처: [CNBC](https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html) / [SiliconANGLE](https://siliconangle.com/2026/03/02/nvidia-invests-4b-co-packaged-optics-suppliers-lumentum-coherent/)
 
-5. 모건스탠리 추산 단가: 테슬라 $0.81/마일 vs 웨이모 $1.36~$1.43/마일. — 출처: [tipranks.com](https://www.tipranks.com/news/tsla-googl-tesla-and-waymo-set-for-a-major-robotaxi-breakout-in-2026-says-morgan-stanley)
+6. 2026년 5월 4일: GlobalFoundries가 AI 데이터센터용 co-packaged optics 솔루션 'SCALE' 발표. 업계 최초 OCI MSA(Optical Compute Interconnect Multi-Source Agreement) 지원 플랫폼. — 출처: [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/04/3286711/0/en/globalfoundries-accelerates-adoption-of-co-packaged-optics-for-advanced-ai-data-centers-with-scale-optical-module-solution.html)
 
-6. 테슬라 사이버캡(Cybercab): 2026년 2월 17일 기가텍사스에서 첫 양산차 출고. 목표가 $30,000 이하, 목표 원가 $0.20/마일. — 출처: [teslarati.com](https://www.teslarati.com/tesla-is-showing-us-that-cybercab-mass-production-is-well-underway/)
+### Corning-Meta 선행 딜 (2026년 1월)
+7. 2026년 1월 27일: Meta가 코닝과 최대 **60억 달러** 규모 다년간 광섬유 케이블 공급 계약 체결. 코닝이 노스캐롤라이나 히코리 공장을 대폭 확장. 2026년 3월 착공 시작. 코닝은 AI 데이터센터 전용 소형 고밀도 광섬유 케이블 'Contour' 출시. — 출처: [CNBC](https://www.cnbc.com/2026/01/27/apple-supplier-corning-wins-6-billion-from-meta-for-ai-optical-fiber.html) / [Corning](https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/01/corning-and-meta-announce-multiyear-up-to-6-billion-agreement-to-accelerate-us-data-center-buildout.html)
 
-7. 사이버캡 설계: 핸들·페달 없음, 무선 유도충전, 주요 부품 80개. "언박스드" 조립법으로 5초당 1대 생산 목표, 연간 최대 400만 대. — 출처: [tesery.com](https://www.tesery.com/blogs/news/tesla-signals-cybercab-mass-production-with-autonomous-rollout-from-giga-texas)
+### 기술 배경: 왜 구리에서 광섬유/CPO로
+8. NVIDIA의 Vera Rubin 랙 스케일 시스템에는 현재 **구리 케이블 5,000개**가 내장. NVIDIA는 Corning의 광섬유 유리 케이블로 이를 교체하는 것을 목표로 함. — 출처: [CNBC 검색결과](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html) / [Tom's Hardware 검색결과](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-invests-usd300-million-in-corning-to-build-three-new-us-based-optical-fiber-plants-ai-infrastructure-deal-would-boost-fiber-production-capacity-by-over-50-percent)
 
-8. 테슬라 기술 방식: 카메라 + AI 신경망 전용, 라이다·HD맵 불사용. 전 세계 수백만 대 테슬라 차량의 실주행 데이터를 매일 학습에 활용. — 출처: [carriermanagement.com](https://www.carriermanagement.com/news/2025/08/29/278917.htm)
+9. Co-Packaged Optics(CPO): 광학 엔진을 칩 패키지 내부에 직접 통합하는 기술. 전기-광학 변환 병목 해소. NVIDIA CPO는 구리 대비 **전력 효율 5배** 개선. 광자(photon) 이동은 전자(electron) 이동 대비 **5~20배** 낮은 전력 사용. — 출처: [NVIDIA Technical Blog](https://developer.nvidia.com/blog/scaling-ai-factories-with-co-packaged-optics-for-better-power-efficiency/) / [EDN](https://www.edn.com/where-co-packaged-optics-cpo-technology-stands-in-2026/)
 
-9. 안전 사고: 오스틴 로보택시 출시 후 8개월간 14건 사고 보고(2026년 2월 NHTSA 제출 데이터). — 출처: [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-17/tesla-s-austin-robotaxis-report-14-crashes-in-first-eight-months)
+10. NVIDIA Quantum-X InfiniBand: 총 **115 Tb/s** 처리량, 800 Gb/s 포트 144개. NVIDIA Spectrum-X Ethernet Photonics: 2026년 하반기 상용화 예정. — 출처: [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-spectrum-x-co-packaged-optics-networking-switches-ai-factories)
 
-10. 충돌율: 테슬라 자체 기준(22만9000마일당 1건) 대비 약 4배 높음(5만7000마일당 1건). NHTSA 기준(50만마일당 1건)으로는 8~9배 높음. — 출처: [electrek.co](https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/)
+### AI 인프라 물리적 한계 (배경 맥락)
+11. AI 데이터센터가 미국 신규 전력 수요 증가분의 **50%** 차지. 구리 가격은 2026년 1월 파운드당 **6달러** 사상 최고 기록, 현재 5.61달러. 구리 공급 부족 2026년 15만 톤 예상(당초 20만 톤 흑자 전망에서 반전). — 출처: [Fortune](https://fortune.com/2026/04/20/us-data-center-electricity-demand-public-opinion/) / [Tom's Hardware 구리 기사](https://www.tomshardware.com/tech-industry/ai-data-center-buildout-pushes-copper-toward-shortages-analysts-warn)
 
-11. 테슬라는 NHTSA에 제출하는 충돌 내러티브를 전부 삭제 처리(redact). 웨이모, 조옥스, 오로라, 누로 등 모든 ADS 경쟁사는 상세 설명을 공개. — 출처: [ecoportal.net](https://www.ecoportal.net/en/tesla-robotaxi-fleet-crash-data/19205/)
+12. 데이터센터 메가와트당 구리 **27톤** 필요. AI 데이터센터는 기존 클라우드 인프라보다 훨씬 많은 광섬유 필요. — 출처: [Tom's Hardware 구리 기사](https://www.tomshardware.com/tech-industry/ai-data-center-buildout-pushes-copper-toward-shortages-analysts-warn)
 
-12. NHTSA는 2026년 3분기 테슬라 비감독 운영에 대한 공식 조사 착수 예정. — 출처: [finance.biggo.com](https://finance.biggo.com/news/202604200113_Tesla_Robotaxi_Dallas_Houston_Launch)
+### 시장 전망
+13. CPO 시장 규모: 2036년 **200억 달러** 초과 전망, 2026~2036년 CAGR **37%**. — 출처: [EDN CPO 분석](https://www.edn.com/where-co-packaged-optics-cpo-technology-stands-in-2026/)
 
-### 웨이모
+14. McKinsey: 하이퍼스케일러가 2029년까지 백엔드 광학 장비의 **87%**를 800G 이상으로 전환 예상. 800G 트랜시버 공급이 2027년까지 수요의 40~60% 부족할 전망. — 출처: [Industrial Analyst Substack 검색결과](https://industrialanalyst.substack.com/p/the-backbone-of-ai-optical-networking)
 
-13. 웨이모는 2026년 3월 기준 미국 10개 도시에서 로보택시를 운영 중 (샌프란시스코, 피닉스, LA, 오스틴, 댈러스, 휴스턴, 샌안토니오, 올랜도 등). — 출처: [TechCrunch](https://techcrunch.com/2026/02/24/waymo-robotaxis-are-now-operating-in-10-us-cities/)
-
-14. 웨이모 차량 대수: 3,000대 (2026년 3월 기준). 주당 50만 건 유료 탑승 서비스. — 출처: [carboncredits.com](https://carboncredits.com/waymo-hits-2500-robotaxi-in-u-s-the-future-of-driverless-rides/)
-
-15. 웨이모 완전 자율 누적 주행거리: 2026년 2월 기준 2억 마일 돌파. — 출처: [waymo.com](https://waymo.com/blog/shorts/waymo-safety-impact-update-170m/)
-
-16. 웨이모 안전성: 인간 운전자 대비 중상 이상 사고 91~92% 감소. 사망·중상 발생률 13배 낮음 (2026년 3월 데이터). — 출처: [cleantechnica.com](https://cleantechnica.com/2026/03/24/waymo-13x-lower-rate-of-serious-injury-or-fatality/)
-
-17. 웨이모 차량 비용: 개조비 포함 대당 약 $16만 (vs 테슬라 사이버캡 $3만). — 출처: [eletric-vehicles.com](https://eletric-vehicles.com/tesla/tesla-undercuts-waymo-by-half-in-first-dallas-fare-comparison/)
-
-18. 웨이모 요금: 기본료 $5.37~$9.52, 마일당 $1.66(SF)~$2.50(LA). — 출처: 검색 결과 종합
-
-19. 웨이모 6세대 드라이버 출시 및 주 100만 건 탑승 목표. — 출처: [electrek.co](https://electrek.co/2026/02/12/waymo-begins-fully-autonomous-ops-with-6th-gen-driver-targets-1m-weekly-rides/)
-
-20. 웨이모 기술: 라이다 + 레이더 + 카메라 + HD 맵 복합. 이탈 간격: 1만4000마일당 1회 (vs 테슬라 약 500마일). — 출처: carriermanagement.com
-
-### 애널리스트/시장 전망
-
-21. 모건스탠리(애널리스트 앤드류 퍼코코): 테슬라 Hold, 목표주가 $415. 로보택시 확장을 "중대한 진화(material evolution)"로 평가. 2032년 웨이모 34% + 테슬라 25% = 전체 자율주행 마일의 70% 양분. — 출처: [eletric-vehicles.com](https://eletric-vehicles.com/tesla/morgan-stanley-names-teslas-robotaxi-expansion-a-material-evolution/)
-
-22. 뱅크오브아메리카: 테슬라 로보택시 사업 가치 최대 $7,500억 (테슬라 시총의 약 52%). — 출처: 검색 결과
-
-23. 2026년 미국에서 로보택시 상업 서비스를 시작하는 도시 수: 모건스탠리 추산 약 33개. — 출처: [tipranks.com](https://www.tipranks.com/news/tsla-googl-tesla-and-waymo-set-for-a-major-robotaxi-breakout-in-2026-says-morgan-stanley)
-
-24. 로보택시 시장 규모 전망: 2026년 $12.7억 → 2034년 $963.1억, CAGR 71.9%. — 출처: [fortunebusinessinsights.com](https://www.fortunebusinessinsights.com/robo-taxi-market-103661)
+15. 전 세계 반도체 매출 2026년 1분기 2,985억 달러, 전 분기 대비 **+25%**. 2026년 연간 9,750억 달러 예상. — 출처: [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/global-semiconductor-sales-hit-nearly-usd300-billion-in-q1-2026-chips-are-on-track-to-top-usd1-trillion-for-this-year-says-report)
 
 ---
 
 ## 직접 인용 (정확한 원문만)
 
-1. "Blackwell sales are off the charts, and cloud GPUs are sold out." — 젠슨 황 (NVIDIA CEO), 2026년 (로보택시 직접 관련은 아니지만 AI 인프라 맥락)
-
-2. Tesla stock "has the potential to create a powerful flywheel across Tesla's ecosystem" — 모건스탠리 Andrew Percoco, 2026년 [eletric-vehicles.com](https://eletric-vehicles.com/tesla/morgan-stanley-names-teslas-robotaxi-expansion-a-material-evolution/)
+1. "AI is driving the largest infrastructure buildout of our time – and a once-in-a-generation opportunity to reinvigorate American manufacturing and supply chains. Together with Corning, we are inventing the future of computing with advanced optical technologies – building the foundation for AI infrastructure where intelligence moves at the speed of light while advancing the proud tradition of Made in America." — Jensen Huang, NVIDIA CEO, NVIDIA-Corning 파트너십 발표, 2026년 5월 6일. 출처: [CNBC 검색결과](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html)
 
 ---
 
 ## 숫자 데이터 (검증 가능한 것만)
 
-1. 동일 노선(2.25마일) 요금: 테슬라 $6.15 / 웨이모 $13.93 → 56% 차이 — 출처: [eletric-vehicles.com](https://eletric-vehicles.com/tesla/tesla-undercuts-waymo-by-half-in-first-dallas-fare-comparison/)
-
-2. 마일당 운영비: 테슬라 $0.81 / 웨이모 $1.36~$1.43 — 출처: [tipranks.com](https://www.tipranks.com/news/tsla-googl-tesla-and-waymo-set-for-a-major-robotaxi-breakout-in-2026-says-morgan-stanley)
-
-3. 사이버캡 목표 원가: $0.20/마일 — 출처: [tesery.com](https://www.tesery.com/blogs/news/tesla-signals-cybercab-mass-production-with-autonomous-rollout-from-giga-texas)
-
-4. 차량 비용: 사이버캡 $3만 / 웨이모 개조 $16만 — 출처: [eletric-vehicles.com](https://eletric-vehicles.com/tesla/tesla-undercuts-waymo-by-half-in-first-dallas-fare-comparison/)
-
-5. 테슬라 충돌율: 5만7000마일당 1건 (인간 22만9000마일당 1건 대비 4배) — 출처: [electrek.co](https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/)
-
-6. 웨이모 안전성: 인간 대비 중상 사고 92% 감소, 치명상 발생률 13배 낮음 — 출처: [cleantechnica.com](https://cleantechnica.com/2026/03/24/waymo-13x-lower-rate-of-serious-injury-or-fatality/)
-
-7. 웨이모 이탈 간격: 1만4000마일당 1회 vs 테슬라 약 500마일당 1회 — 출처: [carriermanagement.com](https://www.carriermanagement.com/news/2025/08/29/278917.htm)
-
-8. 2032년 시장 점유율 전망: 웨이모 34% + 테슬라 25% = 70% — 출처: [tipranks.com](https://www.tipranks.com/news/tsla-googl-tesla-and-waymo-set-for-a-major-robotaxi-breakout-in-2026-says-morgan-stanley)
+| 항목 | 수치 | 출처 |
+|------|------|------|
+| NVIDIA → Corning 투자 규모 | 최대 32억 달러 (초기 5억 달러 워런트) | CNBC, Bloomberg |
+| NVIDIA → Coherent + Lumentum | 각 20억 달러 = 총 40억 달러 | CNBC |
+| NVIDIA 광학 총 투자 (3개월) | 72억 달러+ | 합산 |
+| Corning 미국 광학 생산 용량 확대 | 10배 | NVIDIA/Corning 보도자료 |
+| Corning 광섬유 생산 용량 확대 | 50%+ | NVIDIA/Corning 보도자료 |
+| Corning 신규 일자리 | 3,000개 이상 | NVIDIA/Corning 보도자료 |
+| Corning 주가 당일 급등 | 장중 +20.8%, 종가 +14% | Invezz |
+| Corning 1년 주가 상승 | +250%+ | NAI500 |
+| NVDA 당일 주가 상승 | +5.41% | Yahoo Finance |
+| Meta-Corning 딜 규모 | 최대 60억 달러 | CNBC |
+| Vera Rubin 랙 구리 케이블 수 | 5,000개 | CNBC/Tom's Hardware |
+| CPO 전력 효율 (vs 구리) | 5배 개선 | NVIDIA Technical Blog |
+| 광자 vs 전자 전력 소비 | 5~20배 적음 | CNBC/Tom's Hardware |
+| NVIDIA Quantum-X 처리량 | 115 Tb/s | NVIDIA Newsroom |
+| CPO 시장 2036년 규모 | 200억 달러+ | EDN |
+| CPO CAGR 2026~2036 | 37% | EDN |
+| 800G 트랜시버 공급 부족 (2027) | 수요의 40~60% | McKinsey/산업 분석 |
+| 구리 가격 최고점 (2026년 1월) | 파운드당 6달러 | Tom's Hardware |
+| 구리 공급 부족 (2026) | 15만 톤 | Tom's Hardware |
+| 데이터센터 메가와트당 구리 | 27톤 | Tom's Hardware |
+| 미국 신규 전력 수요 중 데이터센터 비중 | 50% | Fortune |
 
 ---
 
 ## 관련 종목
-- $TSLA: 댈러스·휴스턴 론치, 사이버캡 양산 시작, 가격 경쟁력 전면에
-- $GOOGL: 웨이모 보유, 안전성 우위, 프리미엄 포지셔닝
+
+- $NVDA (NVIDIA): 핵심 딜 주체. 광학 인프라 구축 리더
+- $GOOGL (Alphabet): 하이퍼스케일러로 CPO 전환 수혜 기업
+- Corning (GLW): 최대 수혜주, 미상장 관심 여부 무관하게 핵심 플레이어
+- Lumentum (LITE): NVIDIA $20억 투자 수혜
+- Coherent (COHR): NVIDIA $20억 투자 수혜
 
 ---
 
 ## 반론/리스크
 
-1. 테슬라 충돌율 4~9배 문제: NHTSA 규제 강화 시 확장 제동 가능
-2. 테슬라의 소규모 지오펜스: 댈러스·휴스턴 서비스 구역이 매우 좁아 실용성 한계
-3. 웨이모의 비용 딜레마: $16만 개조비는 규모화에 구조적 장벽
-4. 테슬라의 데이터 불투명: NHTSA 충돌 내러티브 전면 삭제로 신뢰성 논란
-5. 중국 변수: 중국 규제 당국이 5월 2026년 로보택시 면허 발급을 일시 중단 (시스템 결함 이유) — 글로벌 산업에 규제 불확실성 시그널
+1. CPO 기술 성숙도 문제: CPO는 아직 대규모 상용 배포 초기 단계. 수율, 신뢰성, 온도 관리 문제가 양산 확대 시 병목이 될 수 있음.
+2. 공급 과잉 리스크: AI 인프라 투자 사이클이 꺾일 경우, 대규모 광학 설비 투자가 과잉 공급으로 전환 가능.
+3. 코닝 딜 실행 불확실성: 최대 32억 달러 투자는 조건부. 초기 확약은 5억 달러 워런트. NVIDIA의 실제 구매 약정 규모에 따라 달라짐.
+4. 경쟁 심화: 인텔, AMD, Broadcom 모두 광학 인터커넥트 솔루션 개발 중. NVIDIA 독주가 오래 지속되지 않을 수 있음.
