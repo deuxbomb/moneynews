@@ -84,3 +84,9 @@
 - 다룬 종목/기업: $NVDA, GLW(Corning), LITE(Lumentum), COHR(Coherent), $GOOGL, $OKLO
 - 핵심 주장/결론: NVIDIA는 GPU 제조사를 넘어 AI 인프라 공급망 전체를 수직 통합하는 중이며, 구리→광섬유 전환은 업계 합의가 된 방향으로 코닝(GLW)이 픽앤샤블 수혜의 핵심 플레이어다.
 - 판정: Minor (2차 검수 포함 총 8개 개선점 반영 — 숫자 불일치 수정, Apple R&D 환각 교체, Meta 연간→다년간 팩트 교정, 72억 달러 CPO 시장 비교 맥락화, 인용 번역 표기, Broadcom 출처 추가, 마무리 질문형 전환, GlobalFoundries 전환 연결 개선)
+
+## 2026-05-08 22:30 [PM] (테마: 헬스케어/바이오)
+- 헤드라인: 장이 무너질 뻔 했지만, 로봇이 살렸다
+- 오늘의 픽: $LLY (카탈리스트: Foundayo FDA 안전 데이터 제출 오늘·Q1 +56% 서프라이즈), $CYTK (카탈리스트: ACACIA-HCM Phase 3 이중 엔드포인트 성공, FDA NDA 제출 Q3 예상) [와치리스트 외]
+- 뉴스 토픽: [매크로] NFP 115K vs 62K 예상 서프라이즈·헬스케어 +37K 최대 기여 / [헬스케어] LLY Foundayo 간독성 논란·애널리스트 과매도 반박·CYTK Phase 3 성공 / [기업] TSLA 신색상 론칭·NVDA D-12 어닝 카운트다운·COIN Q1 순손실 $394M 어닝미스 / [한국] KOSPI 7498 4연속최고치·현대차그룹 로봇주 폭등(보스턴다이나믹스 아틀라스+IPO 임박)
+- 팟캐스트: TBPN "Neural Computers + GameStop $55B eBay 베팅" (2026-05-05), Lex Fridman #490 "State of AI in 2026" (2026-05-06)
