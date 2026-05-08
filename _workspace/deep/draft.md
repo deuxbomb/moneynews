@@ -1,107 +1,117 @@
-# NVIDIA가 AI를 빛으로 연결한다 — 72억 달러로 시작된 구리 시대의 종말
+# 주사기 없는 세계가 열렸다 — GLP-1 혁명 2막과 메디케어 1400만 명의 문
 
-> 2026년 5월 7일 | 머뉴 딥다이브 | 🔍 딥 리서치
-
----
-
-## NVIDIA 랙 안에 구리 케이블 5,000개가 있다
-
-NVIDIA의 차세대 AI 슈퍼컴퓨터 '베라 루빈(Vera Rubin)' 랙 한 대 안에는 구리 케이블이 5,000개 들어 있습니다. GPU와 GPU를, 칩과 칩을 연결하는 이 케이블들은 지금껏 AI 공장의 혈관 역할을 해왔죠. 그런데 이 혈관이 막히기 시작했습니다.
-
-AI 모델이 커질수록, GPU 클러스터가 거대해질수록, 전기 신호를 구리 선을 통해 주고받는 방식의 물리적 한계가 드러났습니다. 데이터센터는 미국 신규 전력 수요 증가분의 절반을 홀로 집어삼키고 있고, 구리 가격은 2026년 1월 파운드당 6달러로 사상 최고를 찍었습니다. 업계는 올해 구리 공급이 15만 톤 부족할 것으로 전망하는데, 이는 불과 1년 전만 해도 20만 톤 흑자를 예상하던 것에서 완전히 방향이 바뀐 겁니다.
-
-NVIDIA는 이 문제를 누군가 해결해주기를 기다리지 않았습니다. 지난 3개월 동안 72억 달러를 광학·포토닉스 기업 3곳에 직접 쏟아부었습니다. 구리의 시대를 끝내기 위해서요.
+*2026년 5월 8일 | 딥다이브 | 📡 테크 트렌드*
 
 ---
 
-## 3개월 동안 쌓아 올린 광학 제국
+올해 1월 5일, 미국의 약국 진열대에 조용히 새 알약 하나가 올라왔습니다. 노보 노디스크의 구강형 Wegovy — 세계에서 가장 많이 팔리는 비만 치료제가 드디어 주사기를 버린 날이었습니다. 그로부터 4개월 뒤, 경쟁사 일라이 릴리도 Foundayo(포운다요)라는 알약을 들고 등장했습니다. 그리고 이번 주, 미국 정부가 선언했습니다. "메디케어 수혜자 1400만 명에게 월 5만원($50)에 이 알약을 드리겠습니다."
 
-젠슨 황이 광학 인프라 투자에 본격적으로 나선 건 2026년 3월 2일입니다. NVIDIA가 Coherent와 Lumentum에 각각 20억 달러씩, 총 40억 달러를 투자하겠다고 발표했죠. 단순한 지분 투자가 아니었습니다. 다년간 구매 약정과 생산 용량 우선 접근권이 묶인, 사실상 "이 회사 생산 라인을 내 것으로 쓰겠다"는 선언이었습니다. 발표 당일 Lumentum은 12%, Coherent는 15% 급등했습니다.
-
-5월 4일에는 반도체 파운드리 GlobalFoundries가 끼어들었습니다. AI 데이터센터용 co-packaged optics 솔루션 'SCALE'을 공개하며 업계 최초로 OCI MSA(광학 컴퓨트 인터커넥트 다중 소스 협약) 지원 플랫폼임을 선언했습니다. 광학 인터커넥트 생태계가 속도를 내기 시작한 거죠.
-
-그리고 이틀 뒤인 5월 6일. NVIDIA가 코닝(Corning)과의 장기 파트너십을 발표하며 시장을 다시 한 번 뒤흔들었습니다. 최대 32억 달러를 투자해 노스캐롤라이나와 텍사스에 첨단 제조 공장 3개를 세우겠다는 내용이었습니다. 코닝의 미국 내 광학 커넥티비티 제조 용량을 10배, 광섬유 생산 용량을 50% 이상 끌어올리는 게 목표입니다. 3,000개 이상의 신규 일자리도 약속됐습니다.
-
-코닝 주가는 장중 20.8% 치솟았고, NVIDIA도 5.41% 올랐습니다. 코닝은 이미 지난 1년간 250% 이상 주가가 뛴 상태였는데도요.
+세 사건이 하나의 문장으로 수렴합니다. 2026년은 GLP-1이 주사에서 알약으로, 부유층 전유물에서 노인층 생활약으로 탈바꿈한 해입니다.
 
 ---
 
-## 젠슨 황이 말한 "빛의 속도"의 의미
+## 처방전이 두 배가 된 날
 
-젠슨 황 CEO는 이날 발표에서 이렇게 말했습니다.
+노보 노디스크가 2026년 1분기 실적을 발표하자 월스트리트가 잠시 멈칫했습니다. 구강형 Wegovy(semaglutide 25mg)의 Q1 매출이 DKK 22.6억(약 $3억5400만)으로 집계됐는데, 이는 애널리스트 예상(DKK 11.6억)의 거의 정확히 두 배였거든요. 처방 건수도 Q1에만 130만 건. 출시 4개월 만에 누적 200만 건을 넘어섰습니다. 같은 기간 Wegovy 브랜드(주사 + 알약 합산)는 미국 신규 처방의 65%를 가져갔습니다.
 
-> "AI는 우리 시대 최대의 인프라 구축을 이끌고 있습니다. 코닝과 함께 우리는 광학 기술로 컴퓨팅의 미래를 발명하고 있습니다 — 지능이 빛의 속도로 이동하는 AI 인프라의 토대를 쌓고 있죠."
+텔레헬스 기업 LifeMD는 구강형 Wegovy 출시 당일 신규 환자가 하루 1000명으로 두 배 뛰었다고 밝혔습니다. 물론 GLP-1 주사제는 여전히 강합니다 — 주사제 Wegovy와 Zepbound는 임상에서 20%+의 체중 감소를 보이는 반면, 구강형은 16.6%(Wegovy 알약, OASIS 4 임상)입니다. 하지만 바늘 공포, 냉장 보관 필요, 주 1회 자가주사라는 장벽이 사라지자 완전히 새로운 인구가 처방전을 받으러 오기 시작했습니다.
 
-"빛의 속도"는 수사가 아닙니다. 글자 그대로의 물리학입니다. 코닝이 만드는 광섬유 케이블은 데이터를 전자(electron) 대신 광자(photon)로 전달합니다. 광자를 움직이는 데 필요한 에너지는 전자 대비 5~20배 적습니다. 전력 효율이 5배 개선되는 겁니다. 수천 개의 GPU가 기가와트 단위 전력을 쓰는 AI 공장에서 이 차이는 어마어마합니다.
-
-더 중요한 건 속도와 거리입니다. 광섬유는 구리보다 신호 손실이 훨씬 적어, 데이터센터 안에 수십만 개의 GPU가 빼곡히 들어설 때도 안정적인 통신을 유지할 수 있습니다. 구리 케이블은 길이가 길어질수록 신호 품질이 떨어지는 반면, 광섬유는 같은 용량으로 훨씬 먼 거리를 커버합니다.
+노보의 CEO는 어닝콜에서 "경쟁사 알약(Foundayo)이 4월에 출시됐음에도 우리 알약 매출이 두 자릿수 성장을 지속하고 있다"고 말했습니다. 이것이 단순한 자신감 발언이 아님을 보여주는 숫자가 있습니다 — 노보는 2026년 연간 가이던스를 상향했습니다.
 
 ---
 
-## 구리의 한계, 광학의 기회: CPO가 뭔가요
+## 두 알약의 차이: 펩타이드 vs 소분자
 
-이 혁명의 핵심 기술은 **CPO(Co-Packaged Optics, 공동 패키지 광학)**입니다. 어렵게 들리지만 핵심 아이디어는 간단합니다. 기존에는 GPU에서 나온 전기 신호가 '트랜시버'라는 별도 부품에서 광학 신호로 바뀌어 광섬유를 타고 이동했습니다. CPO는 이 변환 과정을 칩 패키지 내부로 집어넣습니다. 전기-광학 변환이 일어나는 경로를 극도로 단축해, 신호 손실과 전력 낭비를 동시에 줄이는 거죠.
+구강형 GLP-1 경쟁에는 미묘하지만 중요한 기술 차이가 있습니다. 노보의 구강형 Wegovy는 semaglutide — 즉 주사제와 똑같은 펩타이드 분자를 SNAC라는 흡수 촉진제와 함께 캡슐화한 것입니다. 복용 30분 전 공복 상태에서 물 120ml와 함께 삼켜야 하고, 복용 후 30분간 음식을 먹으면 안 됩니다. 효능은 높지만(16.6%), 복약 지침이 까다롭습니다.
 
-NVIDIA의 Quantum-X InfiniBand 스위치는 이 방식으로 초당 115 테라비트(115 Tb/s)의 처리량을 실현합니다. 800 Gb/s 포트 144개를 동시에 운영하는 셈입니다. NVIDIA Spectrum-X Ethernet Photonics는 2026년 하반기 상용화가 예정돼 있습니다.
+일라이 릴리의 Foundayo(orforglipron)는 다릅니다. **비펩타이드 소분자(small molecule non-peptide)** — 화학 구조 자체가 달라서 위산에서 분해되지 않고 장벽을 통과합니다. 덕분에 "하루 중 언제, 음식 있든 없든, 물 제한 없이" 복용이 가능합니다. 2026년 4월 1일 FDA가 이 점을 명시해 승인했습니다.
 
-브로드컴의 2026년 플래그십 스위치 Tomahawk 6-Davisson은 TSMC의 COUPE 기술을 활용해 포토닉 엔진을 스위칭 실리콘 위에 직접 쌓았고, 102.4 Tbps의 용량을 실현합니다. CPO는 이제 특정 기업의 실험적 기술이 아니라, AI 인프라의 표준이 되어가고 있는 거죠.
-
-시장 조사 기관들은 CPO 시장이 2026~2036년 연평균 37%로 성장해 2036년 200억 달러를 넘어설 것으로 전망합니다. McKinsey는 하이퍼스케일러들이 2029년까지 백엔드 광학 장비의 87%를 800G 이상으로 전환할 것으로 예상합니다. 문제는 공급이 수요를 못 따라간다는 거죠 — 800G 트랜시버 공급은 2027년까지 수요 대비 40~60% 부족할 전망입니다. NVIDIA가 Coherent, Lumentum, Corning에 70억 달러를 들이붓는 이유가 바로 여기 있습니다.
+릴리가 자랑하는 이 '제약 없음'이라는 특성이 실제 시장에서 중요한 이유는, 복약 순응도(adherence)가 만성질환 치료의 핵심이기 때문입니다. 체중 감소 효능은 12%(72주, 최고 용량)로 노보보다 낮지만, 실제 복용률이 높으면 장기적으로 더 나은 결과를 낼 수 있습니다. 실제로 Foundayo 초기 환자 2만 명 중 80%가 GLP-1 클래스를 처음 시작하는 신규 환자였습니다 — 주사제의 문턱을 넘지 못했던 사람들이 알약으로는 도전하는 것입니다.
 
 ---
 
-## 코닝, 왜 이 회사가 갑자기 AI 핵심 플레이어가 됐나
+## 7월 1일: 문이 열리는 날
 
-코닝(Corning)이라는 회사가 낯설 수 있습니다. 이 회사는 160년 역사의 유리 기업으로, 아이폰 화면에 쓰이는 고릴라 글래스로 알려져 있습니다. 그런데 AI 인프라 붐의 최대 수혜자 중 하나로 부상했습니다.
+이번 주 가장 중요한 뉴스는 실적이 아니었습니다. 5월 5~7일 사이, 미국 CMS(메디케어·메디케이드 서비스센터)가 **Medicare GLP-1 Bridge** 프로그램을 공식 발표했습니다.
 
-이유는 단순합니다. 광섬유의 핵심 소재가 '유리'이기 때문입니다. 코닝은 수십 년간 전 세계 통신 네트워크에 광섬유 케이블을 공급해 온 세계 최대 광섬유 제조사입니다. AI 붐이 오자, 코닝이 가진 설비와 기술이 갑자기 핵심 자산이 됐습니다.
+2026년 7월 1일부터 2027년 12월 31일까지, 적격 메디케어 Part D 수혜자는 월 $50(약 7만원)의 본인부담금으로 GLP-1 비만 치료제를 받을 수 있습니다. 대상 약물은 Foundayo(orforglipron), 구강형 Wegovy, Zepbound(주사제) 세 가지입니다. 자격 기준은 BMI 27 이상 + 심혈관질환·당뇨전증 등 동반질환 1개 이상입니다.
 
-그 흐름을 먼저 읽은 건 Meta였습니다. 2026년 1월, Meta는 코닝과 최대 60억 달러 규모의 다년간 광섬유 케이블 공급 계약을 맺었습니다. AI 데이터센터가 기존 클라우드 인프라보다 훨씬 많은 광섬유를 필요로 한다는 판단이었죠. 코닝은 이에 맞춰 AI 전용 소형 고밀도 광섬유 케이블 'Contour'를 출시했고, 노스캐롤라이나 히코리 공장 대규모 확장에 착공(2026년 3월)했습니다.
+현재 비만 진단을 받은 메디케어 수혜자는 약 1400만 명. 넓은 기준을 적용하면 CBO는 최대 2900만 명이 혜택 범위에 들어온다고 추산합니다. 오늘까지 GLP-1 주사제의 자가부담 비용이 월 $1000~1500을 넘어 사실상 접근 불가였던 인구가 $50에 처방을 받을 수 있게 되는 겁니다. 자동차로 비유하면, 슈퍼카 전시장이 대중 브랜드 딜러십으로 바뀌는 순간입니다.
 
-그리고 4개월 뒤, NVIDIA가 두드렸습니다. Meta가 연간 60억 달러 고객이라면, NVIDIA는 최대 32억 달러 규모 파트너이자, 코닝을 AI 인프라의 핵심 공급자로 확정 짓는 '전략적 봉인' 역할을 했습니다. 코닝 주가가 1년 만에 250%+를 달성한 건 우연이 아닙니다.
-
----
-
-## 이 판에서 투자자가 봐야 할 지형도
-
-$NVDA 자체는 이미 충분히 알려진 이야기입니다. 여기서 흥미로운 건 '픽앤샤블(Pick & Shovel)' 투자 아이디어입니다. 골드러시에서 진짜 돈을 번 건 금을 캔 사람이 아니라 곡괭이와 삽을 판 사람이었다는 얘기죠. AI 인프라 붐에서 코닝이 그 역할을 하고 있습니다.
-
-현재 시장 구도를 정리하면 이렇습니다:
-
-- **NVIDIA($NVDA)**: 광학 인터커넥트 생태계 건설의 총사령관. 72억 달러+ 투자로 공급망 직접 장악.
-- **Corning(GLW)**: AI 광섬유의 '삼성전자' 같은 위치. Meta + NVIDIA 양대 메가딜. 1년 +250%.
-- **Lumentum(LITE) + Coherent(COHR)**: NVIDIA가 각각 20억 달러를 베팅한 CPO 레이저/부품 공급사.
-- **하이퍼스케일러($GOOGL, Meta, AWS 등)**: 수요 측. 광학 인터커넥트 전환으로 전력 비용 대폭 절감 가능.
-
-리스크도 있습니다. CPO는 아직 대규모 양산 초기 단계입니다. 수율과 온도 관리 문제는 여전히 해결 중이고, NVIDIA의 Corning 투자는 최대 32억 달러이지만 초기 확약은 5억 달러짜리 워런트입니다. AI 투자 사이클이 꺾이면 대규모 광학 설비가 과잉 공급으로 돌변할 수도 있습니다. 인텔, AMD, Broadcom도 모두 자체 광학 솔루션을 개발 중입니다.
-
-그러나 큰 방향은 분명합니다. "5년 안에 AI 데이터센터 인터커넥트는 모두 광학으로 전환될 것"이라는 게 업계의 합의에 가깝습니다. 72억 달러짜리 베팅을 한 젠슨 황은 이미 자기 생각을 행동으로 보여줬습니다.
+7월 1일 이전에 이미 Foundayo 처방이 가능해진다는 점에서, 이 정책은 $LLY의 Foundayo 매출에 직접 불을 지피는 촉매입니다. 애널리스트들이 Foundayo의 2026년 매출을 $15~28억으로 전망하는 이유도 여기 있습니다.
 
 ---
 
-## 머뉴's Advice 💡
+## 뇌까지 달라진다: GLP-1의 예상치 못한 확장
 
-**1. 코닝(GLW)을 주목하세요.** 광학 인터커넥트 전환의 가장 직접적인 수혜주입니다. Meta 60억, NVIDIA 32억 — 연이은 메가딜이 수요 가시성을 확보해줬습니다. 1년 +250%이지만, AI 공장 건설이 계속되는 한 성장 여지는 남아 있습니다.
+체중 감소 너머에서도 GLP-1 이야기는 계속됩니다. 이번 주 NIH가 발표한 연구는 흥미롭습니다. 구강형 소분자 GLP-1 약물이 뇌 깊숙한 보상 회로(reward circuit)를 직접 조절한다는 것입니다. 단순히 포만감을 높이는 것이 아니라, '먹는 즐거움'을 추구하는 뇌의 충동 자체를 억제하는 메커니즘 — 주사제와는 다른 경로였습니다.
 
-**2. $NVDA를 단순 'AI 반도체 주'로만 보지 마세요.** NVIDIA는 지금 AI 공장의 인프라 레이어 전체를 수직 통합하고 있습니다. GPU → 네트워킹 스위치 → 광학 인터커넥트 → 광섬유 공급망까지. 단기 주가보다 이 생태계 전략의 내구성에 베팅하는 관점이 유효합니다.
+이 발견이 투자자에게 흥미로운 이유는, 뇌 보상 회로를 조절한다는 것이 중독, 우울, 신경퇴행성 질환 치료로 이어질 가능성을 시사하기 때문입니다. UCSF 연구팀은 차세대 GLP-1이 신경보호 효과를 더 증폭시킬 수 있다고 전망했습니다.
 
-**3. AI 전력 대란과 광학 전환은 같은 이야기입니다.** 구리 대체가 빨라질수록, 데이터센터의 전력 효율이 올라갑니다. $OKLO 같은 에너지 주식에 관심이 있다면, 광학 인프라 전환의 속도가 AI 발전소 수요에도 영향을 준다는 점을 기억하세요. 에너지 절약이 되면 추가 확장 여력이 생깁니다.
+물론 뇌 치료제로서의 GLP-1은 아직 초기입니다. 올해 Phase 3 EVOKE(+) 임상에서 semaglutide가 알츠하이머 진행을 늦추지 못한다는 결과가 나왔습니다 — 3800명을 2년간 추적한 가장 큰 GLP-1 신경과학 임상이었는데도요. 하지만 이 실패 속에서도 뇌 바이오마커(pTau181, pTau217, 신경염증 지표)는 개선됐습니다. 연구자들이 내린 결론은 '치료보다 예방'에서 답을 찾아야 한다는 것입니다. 초기 단계에서 GLP-1을 복용한 사람이 10~20년 뒤 알츠하이머 발병률이 낮다면 — 이건 단순한 비만 치료제가 아니게 됩니다.
+
+---
+
+## 숫자로 보는 전장: $950억짜리 시장이 흔들린다
+
+Goldman Sachs는 2030년 전 세계 항비만 약물 시장이 $950억에 달할 것으로 전망합니다. 이 중 구강형 알약이 24~25%, 약 $220억을 가져갈 것이라는 예상입니다. 현재 항비만 파이프라인 중 43%가 이미 경구 투여 방식으로 개발 중입니다.
+
+$LLY의 현재 위치: GLP-1 시장 점유율 60%, Q1 2026 매출 $198억 (+56% YoY), Mounjaro(tirzepatide) 매출 +125%. 연간 가이던스를 $820~850억으로 상향했습니다. 시장을 이미 지배하고 있는데, 알약이라는 두 번째 전선을 열면서 신규 처방자(GLP-1 미경험자) 포획에 나서고 있습니다.
+
+$NVO의 현재 위치: Q1 전체 매출 $152억 (+32% 불변환율 기준), 구강형 Wegovy로 처방 경쟁 주도. 그러나 2026년 가이던스를 -4%~-12%로 하향한 이유가 있습니다 — Ozempic·Rybelsus 특허 만료가 다가오고 있기 때문입니다. 바이오시밀러 위협이 현실화되기 전에 구강형 플랫폼으로 성을 쌓아야 하는 상황입니다. Novo가 이번 분기를 필사적으로 이겨야 했던 이유입니다.
+
+---
+
+## GLP-1이 만드는 다음 10년
+
+2026년을 GLP-1 알약의 원년이라고 부를 수 있는 근거는 숫자에 있습니다. 처방 200만 건, 예상 두 배 매출, 1400만 명에게 열리는 접근 창구. 그러나 이 이야기의 진짜 의미는 그것보다 큽니다.
+
+주사기가 필요했을 때, GLP-1은 '돈 있는 사람의 약'이었습니다. 냉장 보관이 필요했고, 자가 주사를 배워야 했고, 처방받아도 보험이 안 됐으니까요. 알약이 되고 메디케어 코페이가 $50으로 떨어지면서, 이 약은 처음으로 '만성병 치료제'의 문법 안에 들어옵니다 — 고혈압약, 당뇨약처럼 아침마다 먹는 약이 되는 것입니다.
+
+그것이 일어나는 시장은 지금의 $54.8억(2024년 기준 전체 GLP-1 시장)에서 Goldman Sachs가 예측하는 $950억으로 팽창합니다. 약의 효능이 아니라, 접근성이 시장을 키우는 겁니다.
+
+알약으로 살을 빼고, 뇌를 보호하고, 노화를 늦출 수 있는 가능성 — GLP-1이 단순한 비만 치료제가 아닌 '건강 수명 연장 도구'로 재정의되는 순간, 이 산업의 크기는 지금 상상하는 것보다 훨씬 커질 수 있습니다.
+
+---
+
+## 투자 지형도
+
+**$LLY (Eli Lilly)**: 공격수. GLP-1 점유율 60% + Foundayo 신규 처방자 확보 + 메디케어 브릿지 수혜 직격탄. Q1 가이던스 상향이 이미 발표됐다. 단, orforglipron FDA 간부전 보고서와 같은 안전성 이슈는 지속 모니터링 필요.
+
+**$NVO (Novo Nordisk)**: 수비수 + 선발주자. 처방 경쟁에서 앞서고 있지만 바이오시밀러 압박이 주요 리스크. 구강형 포트폴리오로 기존 특허 제품 잠식 방어 중.
+
+**관련 픽앤샤블**: 텔레헬스(LifeMD, Hims & Hers), 약국 체인(CVS, Walgreens), 비만 관련 합병증 치료 회사(수면무호흡 기기, 인슐린 펌프)는 GLP-1 접근성 확대의 간접 수혜자이자 일부는 위협을 받는다. GLP-1이 보편화되면 수술적 치료(비만대사수술)와 인슐린 시장은 수축할 수 있다.
+
+---
+
+## 머뉴's Advice
+
+**1. 알약 전환 속도에 주목**: 메디케어 브릿지 7월 1일 시작 후 처방 데이터가 3분기 어닝(10월)에 반영된다. 그 전까지 $LLY와 $NVO 실적 콜에서 "pill uptake" 키워드를 주시하라.
+
+**2. 효능 격차 좁히는 차세대 알약 파이프라인 체크**: Structure Therapeutics(aleniglipron) Phase 2에서 15% 체중 감소 달성. Pfizer도 장기지속형 주사제로 맞불. '12%→20%'의 효능 격차가 좁혀지는 순간, 알약이 주사제를 완전히 대체하는 시나리오가 현실화된다.
+
+**3. 뇌 건강 파이프라인은 2030년대의 이야기**: 알츠하이머 임상 실패에도 불구하고 바이오마커 개선이 확인됐다. '예방' 적응증으로 GLP-1의 FDA 적응증이 확대되는 순간 — TAM이 비만 시장을 초과할 수 있다. 장기 시계열로 관찰하라.
 
 ---
 
 ## 출처
 
-- [CNBC](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html) — NVIDIA-Corning 파트너십 상세 보도 (2026.05.06)
-- [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-06/nvidia-buys-500-million-of-rights-for-stock-in-corning) — Corning 워런트 딜 구조 (2026.05.06)
-- [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure) — 공식 보도자료 (2026.05.06)
-- [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology) — NVIDIA-Lumentum 파트너십 (2026.03)
-- [CNBC](https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html) — NVIDIA $4B 포토닉스 투자 (2026.03.02)
-- [SiliconANGLE](https://siliconangle.com/2026/03/02/nvidia-invests-4b-co-packaged-optics-suppliers-lumentum-coherent/) — CPO 투자 배경 분석 (2026.03.02)
-- [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/04/3286711/0/en/globalfoundries-accelerates-adoption-of-co-packaged-optics-for-advanced-ai-data-centers-with-scale-optical-module-solution.html) — GlobalFoundries SCALE 발표 (2026.05.04)
-- [CNBC](https://www.cnbc.com/2026/01/27/apple-supplier-corning-wins-6-billion-from-meta-for-ai-optical-fiber.html) — Meta-Corning $6B 딜 (2026.01.27)
-- [Invezz](https://invezz.com/news/2026/05/06/corning-stock-surges-20-on-nvidia-deal-to-expand-ai-optical-manufacturing/) — 코닝 주가 급등 (2026.05.06)
-- [NVIDIA Technical Blog](https://developer.nvidia.com/blog/scaling-ai-factories-with-co-packaged-optics-for-better-power-efficiency/) — CPO 기술 설명
-- [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-spectrum-x-co-packaged-optics-networking-switches-ai-factories) — Spectrum-X CPO 스위치 발표
-- [Tom's Hardware](https://www.tomshardware.com/tech-industry/ai-data-center-buildout-pushes-copper-toward-shortages-analysts-warn) — 구리 부족 분석
-- [Fortune](https://fortune.com/2026/04/20/us-data-center-electricity-demand-public-opinion/) — 데이터센터 전력 수요
-- [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/global-semiconductor-sales-hit-nearly-usd300-billion-in-q1-2026-chips-are-on-track-to-top-usd1-trillion-for-this-year-says-report) — 반도체 시장 2026 Q1
+- [CNBC — NVO Q1 2026 earnings: Wegovy sales jump](https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html)
+- [BioPharma Dive — Novo hikes guidance on Wegovy pill's fast sales start](https://www.biopharmadive.com/news/novo-nordisk-wegovy-pill-sales-prescriptions-q1-2026/819418/)
+- [TIKR — Novo Nordisk Q1 2026: Wegovy Pill Doubles Estimates](https://www.tikr.com/blog/novo-nordisk-q1-2026-wegovy-pill-doubles-estimates-as-nvo-stock-recovers)
+- [GlobeNewswire — Novo Nordisk Q1 2026 실적 발표](https://www.globenewswire.com/news-release/2026/05/06/3288491/0/en/novo-nordisk-s-adjusted-operating-profit-reached-dkk-32-858-million-in-q1-2026.html)
+- [AJMC — FDA Approves Oral Semaglutide for Weight Loss](https://www.ajmc.com/view/fda-approves-oral-semaglutide-as-first-glp-1-pill-for-weight-loss)
+- [Eli Lilly — FDA approves Foundayo (orforglipron)](https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill)
+- [AJMC — FDA Approves Lilly's Oral GLP-1 Orforglipron for Obesity](https://www.ajmc.com/view/fda-approves-lilly-s-oral-glp-1-orforglipron-for-obesity)
+- [GoodRx — Orforglipron/Foundayo News](https://www.goodrx.com/conditions/weight-loss/orforglipron-danuglipron-new-weight-loss-drug)
+- [Insider Monkey — Eli Lilly Q1 2026 Revenue Surge 56%](https://www.insidermonkey.com/blog/eli-lilly-lly-reports-q1-2026-revenue-surge-of-56-following-fda-approval-of-foundayo-1755464/)
+- [247wallst — Eli Lilly Captures 60% of GLP-1 Market](https://247wallst.com/investing/2026/05/04/eli-lilly-captures-60-of-the-glp-1-market-as-mounjaro-revenue-soars-125/)
+- [CMS — Medicare GLP-1 Bridge 공식 발표](https://www.cms.gov/newsroom/press-releases/coming-soon-cms-provide-50-monthly-access-glp-1-medications-medicare-beneficiaries)
+- [NPR — Medicare to launch weight loss drug option in July with $50 copay](https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay)
+- [KFF — BALANCE Model for GLP-1s in Medicare and Medicaid](https://www.kff.org/medicare/what-to-know-about-the-balance-model-for-glp-1s-in-medicare-and-medicaid/)
+- [NIH — Oral small-molecule GLP-1 drugs penetrate deep into the brain](https://www.nih.gov/news-events/news-releases/oral-small-molecule-glp-1-drugs-penetrate-deep-into-brain-suppress-cravings)
+- [Nature Medicine — GLP-1 receptor agonist fails to halt Alzheimer's disease](https://www.nature.com/articles/d41591-026-00018-2)
+- [Science AAAS — Popular obesity drug fails in Alzheimer's trials](https://www.science.org/content/article/popular-obesity-drug-fails-hotly-anticipated-alzheimer-s-trials)
+- [Goldman Sachs — Anti-obesity drug market outlook](https://www.goldmansachs.com/insights/articles/anti-obesity-drug-market)
+- [CNBC — 2026 is the year of obesity pills](https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html)
+- [CNBC — Novo Nordisk Wegovy pill beating Eli Lilly Foundayo early](https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html)

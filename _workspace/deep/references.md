@@ -1,48 +1,40 @@
 # 레퍼런스 기사 분석
 
-※ WebFetch가 대부분 403으로 차단됨. 검색결과에서 파악한 구조·문체 특징 기반으로 분석.
-
----
-
 ## 레퍼런스 기사
 
-### 1. "The Backbone of AI: Optical Networking Deep Dive and Investment Opportunities In The Datacenter Gold Rush" (Industrial Analyst, Substack)
-URL: https://industrialanalyst.substack.com/p/the-backbone-of-ai-optical-networking
+### 1. "Deep Dive: Oral Obesity Drugs on the Cusp" — BioSpace
+URL: https://www.biospace.com/drug-development/deep-dive-oral-obesity-drugs-on-the-cusp
 
-- **구조**: 제목부터 투자 기회를 명시 → 기술 설명(왜 필요한가) → 시장 플레이어 분석 → 투자 관점 정리
-- **문체**: Substack 특유의 전문적·직접적 투자자 언어. 약어를 먼저 설명 후 사용. 수치 중심.
-- **도입부**: "Gold Rush" 메타포로 시작해 독자 주의 즉시 획득
-- **숫자 활용**: McKinsey, IDTechEx 등 권위 기관 인용으로 신뢰도 확보. 수치는 항상 맥락(비교)과 함께 제시
-- **배울 점**: ① 제목에 투자 기회를 직접 명시해 클릭 유도 ② 기술 용어를 처음 등장 시 풀어서 설명 ③ 수치마다 "그래서 뭐가 중요한가"를 짧게 부연
+- **구조**: 제목 → 크리스프한 리드(숫자로 문제 설정) → 기업별 파이프라인 나열 → 메커니즘 설명 → 시장 전망 → 투자 시사점
+- **문체**: 전문적이지만 접근성 높은 영어. 소분자(small molecule) vs 펩타이드 구분을 명확히 설명. 기술 용어를 일반 독자에게 풀어줌
+- **도입부**: "The race to replace the needle is on." 식의 긴장감 있는 첫 문장으로 경쟁 구도를 시사
+- **숫자 활용**: 효능(%체중 감소), 시장 규모($), 처방 건수를 각 섹션에서 앵커처럼 활용
+- **배울 점**: 기술적 메커니즘 차이(펩타이드 vs 소분자, 복용 제한 여부)를 이야기 중간에 자연스럽게 배치. 독자가 "왜 이게 다르냐"를 알아야 다음 문단이 이해됨
 
----
+### 2. "Novo Nordisk faces 'must-win' battle over U.S. Wegovy, Ozempic in 2026" — CNBC
+URL: https://www.cnbc.com/2026/01/01/novo-nordisk-faces-must-win-battle-over-us-wegovy-ozempic-in-2026.html
 
-### 2. "NVIDIA's $4B CPO Bet: Scale-Out First, Scale-Up Later — The Adoption Curve Investors Should Underwrite" (GenAI Tech)
-URL: https://www.genaitech.net/p/nvidias-4b-cpo-bet-scaleout-first
+- **구조**: 긴장감 높은 제목(must-win battle) → NVO의 위기 상황 설정 → 리더 발언 인용 → 경쟁자(Lilly) 등판 → 바이오시밀러 위협 → 구강형 전략 → 결론
+- **문체**: 비즈니스 저널리즘 특유의 '갈등 구조' 활용. 승자가 없는 상황에서 독자가 긴장하게 만듦
+- **도입부**: 기업이 처한 구조적 위기를 선명하게 제시. "must-win"이라는 단어로 독자를 즉각 끌어당김
+- **숫자 활용**: 주가 하락 폭, 매출 성장률 대비 기대치, 경쟁사 시장 점유율을 대비로 사용
+- **배울 점**: '기업 입장의 압박감'을 독자에게 공유. 투자자도 같은 긴장감을 느끼게 만드는 서사 구조. 반박(risks)을 중반에 배치해 균형감 유지
 
-- **구조**: 핵심 주장(베팅의 의미) → 기술 원리 → 채택 곡선 분석 → 투자자 관점
-- **문체**: 금융 미디어와 기술 미디어의 하이브리드. "Investors Should Underwrite"처럼 투자자를 직접 독자로 설정.
-- **도입부**: 숫자(40억 달러)로 시작해 "이게 왜 중요한가"로 바로 진입
-- **숫자 활용**: 큰 숫자를 비교 맥락과 함께 제시 (경쟁사 대비, 시장 대비)
-- **배울 점**: ① 부제목에서 핵심 주장을 완성 문장으로 표현 ② "Scale-Out First, Scale-Up Later"처럼 프레임을 명사구로 압축 ③ 투자자 행동 지침으로 마무리
+### 3. "2026 is the year of obesity pills" — CNBC
+URL: https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html
 
----
-
-### 3. "Corning's $6B Meta Deal: The Infrastructure Play Behind AI's Next S-Curve" (AInvest)
-URL: https://www.ainvest.com/news/corning-6b-meta-deal-infrastructure-play-ai-curve-2605/
-
-- **구조**: 딜 발표 → 딜 뒤에 숨은 더 큰 그림(S-Curve) → 기술 배경 → 투자 시사점
-- **문체**: 간결하고 단정적. "Infrastructure Play"라는 투자 프레임 설정.
-- **도입부**: 딜 규모를 첫 문장에 제시 → 즉시 "왜 이게 큰 그림인가"로 전환
-- **숫자 활용**: 산업 사이클(S-Curve) 개념으로 수치 맥락화
-- **배울 점**: ① "The X Behind Y" 헤드라인 구조 (숨겨진 더 큰 이야기 암시) ② 개별 딜을 더 큰 산업 전환의 증거로 프레이밍 ③ 한 단락 = 한 아이디어 원칙
+- **구조**: 연도 선언형 제목 → 대형 숫자로 시장 의미 부여 → 두 기업의 전략 대비 → Goldman Sachs 등 시장 예측 인용 → 규제·접근성 이슈 → 2026 전망
+- **문체**: 선언적(declarative). "This is the year." 스타일. 독자에게 역사적 변곡점에 있다는 감각을 줌
+- **도입부**: 연도를 주어로 삼아 '시대가 바뀐다'는 감각 즉각 전달
+- **숫자 활용**: Goldman Sachs 전망, 파이프라인 내 경구 비중(43%) 같은 구조적 데이터 활용으로 트렌드 정당화
+- **배울 점**: 특정 연도를 '티핑포인트'로 프레이밍하는 방식. 우리 기사에서 2026년을 GLP-1 역사의 전환점으로 명명하는 데 사용 가능
 
 ---
 
 ## 우리 글에 적용할 기법
 
-1. **도입부**: "NVIDIA Vera Rubin 랙 안에는 구리 케이블 5,000개가 있다" — 구체적 숫자로 시작해 독자를 즉시 기술 현장에 데려감
-2. **프레임**: "광학 제국 건설" 또는 "빛의 속도로 달리는 AI" — 메타포로 전체 논지 압축
-3. **숫자 맥락화**: "72억 달러" = "국내 유니콘 기업 상위 10개의 기업가치 합산" 수준으로 비교
-4. **소제목**: 서술적 문장형 소제목 사용 (예: "구리는 왜 AI의 목을 조르는가")
-5. **마무리**: 독자에게 행동 질문으로 끝 (이 변화에서 어떤 포지션을 취할 것인가?)
+1. **긴장감 있는 첫 문장**: "3개월 사이, 세계에서 가장 많이 팔리는 약이 알약으로 바뀌었다" 식의 선언
+2. **기술 차이 설명**: 펩타이드(Wegovy 주사) vs 소분자(Foundayo)를 독자가 납득할 수 있게 1~2문장으로 풀기
+3. **기업 입장 긴장감**: Novo는 바이오시밀러 위협 + Lilly 추격이라는 이중 압박, Lilly는 늦게 출발한 만큼 메디케어를 발판 삼아야 하는 상황
+4. **Goldman Sachs 앵커 수치 사용**: "2030년까지 알약이 $220억 시장" 숫자를 본문 중간 앵커로 사용
+5. **마무리 질문형**: "다음 10년, 주사기 없이 몸무게를 관리하는 세계는 가능한가?"
