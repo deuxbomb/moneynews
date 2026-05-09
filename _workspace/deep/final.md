@@ -1,111 +1,155 @@
-# NVIDIA가 AI를 빛으로 연결한다 — 72억 달러로 시작된 구리 시대의 종말
+# 49% 성장인데 왜 주가가 빠졌나 — $MELI의 아마존 베팅
 
-> 2026년 5월 7일 | 머뉴 딥다이브 | 🔍 딥 리서치
-
----
-
-## NVIDIA 랙 안에 구리 케이블 5,000개가 있다
-
-NVIDIA의 차세대 AI 슈퍼컴퓨터 '베라 루빈(Vera Rubin)' 랙 한 대 안에는 구리 케이블이 5,000개 들어 있습니다. GPU와 GPU를, 칩과 칩을 연결하는 이 케이블들은 지금껏 AI 공장의 혈관 역할을 해왔죠. 그런데 이 혈관이 막히기 시작했습니다.
-
-AI 모델이 커질수록, GPU 클러스터가 거대해질수록, 전기 신호를 구리 선을 통해 주고받는 방식의 물리적 한계가 드러났습니다. 데이터센터는 미국 신규 전력 수요 증가분의 절반을 홀로 집어삼키고 있고, 구리 가격은 2026년 1월 파운드당 6달러로 사상 최고를 찍었습니다. 업계는 올해 구리 공급이 15만 톤 부족할 것으로 전망하는데, 이는 불과 1년 전만 해도 20만 톤 흑자를 예상하던 것에서 완전히 방향이 바뀐 겁니다.
-
-NVIDIA는 이 문제를 누군가 해결해주기를 기다리지 않았습니다. 지난 3개월 동안 72억 달러를 광학·포토닉스 기업 3곳에 직접 쏟아부었습니다 — 2036년 CPO 시장 전체 예상 규모(200억 달러)의 3분의 1 이상을 오늘의 공급망 선점에 미리 투입한 셈입니다. 구리의 시대를 끝내기 위해서요.
+> 2026년 5월 9일 | 머뉴 딥다이브 | 📊 종목 해부
 
 ---
 
-## 3개월 동안 쌓아 올린 광학 제국
+## 🔔 이야기: 매 분기 반복되는 이 황당한 장면
 
-젠슨 황이 광학 인프라 투자에 본격적으로 나선 건 2026년 3월 2일입니다. NVIDIA가 Coherent와 Lumentum에 각각 20억 달러씩, 총 40억 달러를 투자하겠다고 발표했죠. 단순한 지분 투자가 아니었습니다. 다년간 구매 약정과 생산 용량 우선 접근권이 묶인, 사실상 "이 회사 생산 라인을 내 것으로 쓰겠다"는 선언이었습니다. 발표 당일 Lumentum은 12%, Coherent는 15% 급등했습니다.
+2026년 5월 7일 오후, MercadoLibre($MELI)가 Q1 실적을 공개했다.
 
-NVIDIA가 부품 공급망을 틀어쥐는 사이, 제조 생태계도 함께 움직이기 시작했습니다. 5월 4일, 반도체 파운드리 GlobalFoundries가 AI 데이터센터용 co-packaged optics 솔루션 'SCALE'을 공개하며 업계 최초로 OCI MSA(광학 컴퓨트 인터커넥트 다중 소스 협약) 지원 플랫폼임을 선언했습니다. 광학 인터커넥트 생태계가 속도를 내기 시작한 거죠.
+숫자가 떴다. **매출 $88억 4500만, 전년 동기 대비 +49%**. Q2 2022 이후 가장 빠른 성장세다. 브라질에서만 신규 활성 구매자가 **1700만 명** 추가됐다. 분기 역대 기록이다. 핀테크 자회사 Mercado Pago의 총 결제액은 **$872억**으로 이커머스 GMV의 4배를 넘어섰다.
 
-그리고 이틀 뒤인 5월 6일. NVIDIA가 코닝(Corning)과의 장기 파트너십을 발표하며 시장을 다시 한 번 뒤흔들었습니다. 최대 32억 달러를 투자해 노스캐롤라이나와 텍사스에 첨단 제조 공장 3개를 세우겠다는 내용이었습니다. 코닝의 미국 내 광학 커넥티비티 제조 용량을 10배, 광섬유 생산 용량을 50% 이상 끌어올리는 게 목표입니다. 3,000개 이상의 신규 일자리도 약속됐습니다.
+그러나 주가는 **-7%** 빠졌다.
 
-코닝 주가는 장중 20.8% 치솟았고, NVIDIA도 5.41% 올랐습니다. 코닝은 이미 지난 1년간 250% 이상 주가가 뛴 상태였는데도요.
+이번이 처음이 아니다. 3분기 연속 EPS 미스다. 이번엔 $8.23으로 월가 컨센서스 $9.37에 **12%** 못 미쳤다. 운영마진도 작년 같은 분기 12.9%에서 이번엔 **6.9%**로 거의 반 토막 났다.
 
----
+황당하게 느껴질 수 있다. 매출이 50% 가까이 뛰는데, 이익이 어떻게 줄어들 수 있지?
 
-## 젠슨 황이 말한 "빛의 속도"의 의미
+해답은 한 문장이다. **이 회사는 고의적으로 돈을 태우고 있다.** 그리고 그 선택이 역사적으로 옳았던 기업이 있다. Amazon이다. CEO Ariel Szarfsztejn은 어닝콜에서 이렇게 말했다: *"Investment decisions are guided by clear observable evidence showing this is the right moment to invest boldly in a market with significant multiyear growth runways."*
 
-젠슨 황 CEO는 이날 발표에서 이렇게 말했습니다.
-
-> "AI는 우리 시대 최대의 인프라 구축을 이끌고 있습니다. 코닝과 함께 우리는 광학 기술로 컴퓨팅의 미래를 발명하고 있습니다 — 지능이 빛의 속도로 이동하는 AI 인프라의 토대를 쌓고 있죠."
-
-*(원문: 영어 — 번역)*
-
-"빛의 속도"는 수사가 아닙니다. 글자 그대로의 물리학입니다. 코닝이 만드는 광섬유 케이블은 데이터를 전자(electron) 대신 광자(photon)로 전달합니다. 광자를 움직이는 데 필요한 에너지는 전자 대비 5~20배 적습니다. 전력 효율이 5배 개선되는 겁니다. 수천 개의 GPU가 기가와트 단위 전력을 쓰는 AI 공장에서 이 차이는 어마어마합니다.
-
-더 중요한 건 속도와 거리입니다. 광섬유는 구리보다 신호 손실이 훨씬 적어, 데이터센터 안에 수십만 개의 GPU가 빼곡히 들어설 때도 안정적인 통신을 유지할 수 있습니다. 구리 케이블은 길이가 길어질수록 신호 품질이 떨어지는 반면, 광섬유는 같은 용량으로 훨씬 먼 거리를 커버합니다.
+"지금 투자하지 않으면 기회를 잃는다." 경영진의 확신과 시장의 의심 사이, $MELI는 지금 기로에 서 있다.
 
 ---
 
-## 구리의 한계, 광학의 기회: CPO가 뭔가요
+## 📅 성장률이 두 번 꺾이고 두 번 부활한 18년의 기록
 
-이 혁명의 핵심 기술은 **CPO(Co-Packaged Optics, 공동 패키지 광학)**입니다. 어렵게 들리지만 핵심 아이디어는 간단합니다. 기존에는 GPU에서 나온 전기 신호가 '트랜시버'라는 별도 부품에서 광학 신호로 바뀌어 광섬유를 타고 이동했습니다. CPO는 이 변환 과정을 칩 패키지 내부로 집어넣습니다. 전기-광학 변환이 일어나는 경로를 극도로 단축해, 신호 손실과 전력 낭비를 동시에 줄이는 거죠.
+$MELI는 2006년 나스닥에 상장했다. 처음엔 eBay의 라틴아메리카 버전으로 불렸다. 실제로 eBay가 초기 지분을 보유했다. 그때의 MELI와 지금의 MELI는 다른 회사다.
 
-NVIDIA의 Quantum-X InfiniBand 스위치는 이 방식으로 초당 115 테라비트(115 Tb/s)의 처리량을 실현합니다. 800 Gb/s 포트 144개를 동시에 운영하는 셈입니다. NVIDIA Spectrum-X Ethernet Photonics는 2026년 하반기 상용화가 예정돼 있습니다.
+**연간 매출 시계열 (SEC 10-Q 기준)**:
 
-CPO는 NVIDIA만의 실험이 아닙니다. 브로드컴의 Tomahawk 6-Davisson은 TSMC의 COUPE(Compact Universal Photonic Engine) 기술로 포토닉 엔진을 스위칭 실리콘과 통합해 102.4 Tbps 용량으로 이미 양산 출하 중입니다. 전력 소비는 기존 플러거블 방식 대비 70% 감소. CPO는 이제 특정 기업의 실험적 기술이 아니라 AI 인프라의 새 표준으로 자리 잡고 있습니다.
+| 연도 | 매출 | YoY 성장 |
+|------|------|---------|
+| 2023 | $14.95B | — |
+| 2024 | $20.77B | +39% |
+| 2025 | $28.89B | +39% |
+| Q1 2026 | $8.85B (분기) | **+49%** |
 
-시장 조사 기관들은 CPO 시장이 2026~2036년 연평균 37%로 성장해 2036년 200억 달러를 넘어설 것으로 전망합니다. McKinsey는 하이퍼스케일러들이 2029년까지 백엔드 광학 장비의 87%를 800G 이상으로 전환할 것으로 예상합니다. 문제는 공급이 수요를 못 따라간다는 거죠 — 800G 트랜시버 공급은 2027년까지 수요 대비 40~60% 부족할 전망입니다. NVIDIA가 Coherent, Lumentum, Corning에 72억 달러를 들이붓는 이유가 바로 여기 있습니다.
+5년 복합 성장률 **48.7%**. 지난 28분기 연속으로 매출 성장률이 30%를 밑돈 적이 없다. 2025년 운영 현금흐름은 **$121억 2000만(+53% YoY)**이다.
 
----
+그러나 이 숫자의 이면이 흥미롭다. MELI의 성장은 일직선이 아니다. 팬데믹 2020년에 폭발했고, 2021년 말~2022년에 성장이 꺾이며 주가가 고점 대비 **70% 이상** 빠졌다. "팬데믹 수혜 종료"라는 시장 판단이었다. 그런데 2023년부터 다시 가속했다. 2026년 Q1에 49%를 찍으며 4년 만의 최고 성장률이 됐다.
 
-## 코닝, 왜 이 회사가 갑자기 AI 핵심 플레이어가 됐나
+주가 궤적은 이렇다. ATH는 2025년 7월 1일의 **$2,645**. 현재(2026년 5월)는 **약 $1,850** 내외, 최고점 대비 **-30%**다. 이 하락이 정확히 마진 압박이 가시화된 시점과 겹친다.
 
-코닝(Corning)이라는 회사가 낯설 수 있습니다. 이 회사는 160년 역사의 유리 기업으로, 아이폰 화면에 쓰이는 고릴라 글래스로 알려져 있습니다. 그런데 AI 인프라 붐의 최대 수혜자 중 하나로 부상했습니다.
+**밸류에이션의 역설**: 2020~2021년 전성기엔 PE 300x를 훌쩍 넘겼다. 현재는 **트레일링 PE 47x, 포워드 PE 37x**. 10년 역사 평균 PE 319x 대비 **87% 할인** 수준이다. PEG(주가수익성장비율)로 환산하면 포워드 PE 37 ÷ 성장률 49 = **0.75x** — 성장주 기준 1x 이하는 저평가 신호로 읽힌다.
 
-이유는 단순합니다. 광섬유의 핵심 소재가 '유리'이기 때문입니다. 코닝은 수십 년간 전 세계 통신 네트워크에 광섬유 케이블을 공급해 온 세계 최대 광섬유 제조사입니다. AI 붐이 오자, 코닝이 가진 설비와 기술이 갑자기 핵심 자산이 됐습니다.
+두 가지 해석이 맞선다:
+- "이제 성숙주로 재평가된 것이다" (Bear)
+- "역사적 저평가, 투자 사이클이 끝나면 재평가될 것이다" (Bull)
 
-그 흐름을 먼저 읽은 건 Meta였습니다. 2026년 1월, Meta는 코닝과 최대 60억 달러 규모의 다년간 광섬유 케이블 공급 계약을 맺었습니다. AI 데이터센터가 기존 클라우드 인프라보다 훨씬 많은 광섬유를 필요로 한다는 판단이었죠. 코닝은 이에 맞춰 AI 전용 소형 고밀도 광섬유 케이블 'Contour'를 출시했고, 노스캐롤라이나 히코리 공장 대규모 확장에 착공(2026년 3월)했습니다.
-
-그리고 4개월 뒤, NVIDIA가 두드렸습니다. Meta가 다년간 최대 60억 달러 계약으로 코닝을 먼저 선점했다면, NVIDIA는 최대 32억 달러 파트너십으로 그 방향을 AI 인프라의 표준으로 봉인한 셈입니다. 코닝 주가가 1년 만에 250%+를 달성한 건 우연이 아닙니다.
-
----
-
-## 이 판에서 투자자가 봐야 할 지형도
-
-$NVDA 자체는 이미 충분히 알려진 이야기입니다. 여기서 흥미로운 건 '픽앤샤블(Pick & Shovel)' 투자 아이디어입니다. 골드러시에서 진짜 돈을 번 건 금을 캔 사람이 아니라 곡괭이와 삽을 판 사람이었다는 얘기죠. AI 인프라 붐에서 코닝이 그 역할을 하고 있습니다.
-
-현재 시장 구도를 정리하면 이렇습니다:
-
-- **NVIDIA($NVDA)**: 광학 인터커넥트 생태계 건설의 총사령관. 72억 달러+ 투자로 공급망 직접 장악.
-- **Corning(GLW)**: AI 광섬유의 '삼성전자' 같은 위치. Meta + NVIDIA 양대 메가딜. 1년 +250%.
-- **Lumentum(LITE) + Coherent(COHR)**: NVIDIA가 각각 20억 달러를 베팅한 CPO 레이저/부품 공급사.
-- **하이퍼스케일러($GOOGL, Meta, AWS 등)**: 수요 측. 광학 인터커넥트 전환으로 전력 비용 대폭 절감 가능.
-
-리스크도 있습니다. CPO는 아직 대규모 양산 초기 단계입니다. 수율과 온도 관리 문제는 여전히 해결 중이고, NVIDIA의 Corning 투자는 최대 32억 달러이지만 초기 확약은 5억 달러짜리 워런트입니다. AI 투자 사이클이 꺾이면 대규모 광학 설비가 과잉 공급으로 돌변할 수도 있습니다. 인텔, AMD, Broadcom도 모두 자체 광학 솔루션을 개발 중입니다.
-
-그러나 큰 방향은 분명합니다. "5년 안에 AI 데이터센터 인터커넥트는 모두 광학으로 전환될 것"이라는 게 업계의 합의에 가깝습니다. 72억 달러짜리 베팅을 한 젠슨 황은 이미 자기 생각을 행동으로 보여줬습니다.
+그 답을 위해 시야를 넓혀야 한다.
 
 ---
 
-## 머뉴's Advice 💡
+## 🌍 Shopee는 강제로 수익을 냈고, MELI는 선택한다 — 신흥시장 이커머스 3개 생존 방정식
 
-**1. 코닝(GLW)을 주목하세요.** 광학 인터커넥트 전환의 가장 직접적인 수혜주입니다. Meta 60억, NVIDIA 32억 — 연이은 메가딜이 수요 가시성을 확보해줬습니다. 1년 +250%이지만, AI 공장 건설이 계속되는 한 성장 여지는 남아 있습니다.
+$MELI를 이해하려면 두 개의 비교가 필요하다: **Amazon**과 **Sea Limited(SE/Shopee)**. 그리고 라틴아메리카 시장 자체의 규모.
 
-**2. $NVDA를 단순 'AI 반도체 주'로만 보지 마세요.** NVIDIA는 지금 AI 공장의 인프라 레이어 전체를 수직 통합하고 있습니다. GPU → 네트워킹 스위치 → 광학 인터커넥트 → 광섬유 공급망까지. 단기 주가보다 이 생태계 전략의 내구성에 베팅하는 관점이 유효합니다.
+### 아마존의 전철: 같은 전략, 다른 캐시카우
 
-**3. AI 전력 대란과 광학 전환은 같은 이야기입니다.** 구리 대체가 빨라질수록, 데이터센터의 전력 효율이 올라갑니다. $OKLO 같은 에너지 주식에 관심이 있다면, 광학 인프라 전환의 속도가 AI 발전소 수요에도 영향을 준다는 점을 기억하세요. 에너지 절약이 되면 추가 확장 여력이 생깁니다.
+2010년대 초중반 아마존은 수익성을 희생하며 AWS·물류·프라임에 수천억 달러를 투자했다. 월가는 "이익은 언제 내느냐"를 반복했고, Bezos는 밀어붙였다. 그 결과는 모두가 안다.
 
-구리에서 광자로. 이 전환의 속도와 범위에 베팅하는 포트폴리오를 지금 구성하고 있다면 — 당신은 어느 '삽' 회사를 들고 있나요?
+$MELI가 지금 걷고 있는 길이 닮았다. 2026년에만 브라질에 **$109억**을 투자한다. 전년 대비 50% 증가다. 풀필먼트 센터는 28개에서 42개로 늘린다. 화물기는 9대 운영 중이다. 브라질 직원 수는 연내 **7만 명**을 넘길 예정이다.
+
+그러나 결정적 차이가 있다. 아마존은 AWS라는 초고마진 사업부가 물류 투자를 지탱했다. $MELI에는 아직 AWS가 없다. 넷 마진 비교: **MELI 5.68% vs Amazon 11.76%** (2025년 기준). Mercado Pago가 잠재적 캐시카우가 될 수 있지만, 지금은 신용 포트폴리오 확장으로 오히려 마진을 갉아먹고 있다.
+
+### Shopee의 교훈: 강제 철수가 흑전을 만들었다
+
+더 직접적 비교는 Sea Limited(SE)다. 2020~2022년 Shopee는 동남아 이커머스를 장악하기 위해 공격적 투자를 집행했다. 분기 EBITDA가 **-$8억 7800만**에 달했다.
+
+그런데 2022년, 위기가 왔다. 형제 사업인 Garena 매출이 급감하며 캐시카우가 사라졌다. 강제로 시장 철수·비용 절감이 집행됐다. 2022년 Q4 처음으로 EBITDA 흑전(**$1억 9600만**)을 달성했고, 2024년에야 첫 연간 흑자를 기록했다.
+
+**$MELI가 다른 점**: MELI는 외부 자금에 의존하지 않는다. 2025년 운영 현금흐름이 $121억으로, 브라질 투자 $109억을 자체 조달할 수 있다. Shopee처럼 캐시카우 소멸 → 강제 철수 시나리오가 구조적으로 불가능하다. 역설적으로, 강제 철수가 없으면 투자 사이클이 언제 끝날지 알기 어렵다.
+
+### 라틴아메리카의 규모: 아직 가보지 않은 영토
+
+| 지역 | 이커머스 침투율 | 성장 모멘텀 |
+|------|--------------|---------|
+| 중국 | ~50% | 성숙 |
+| 미국 | 15.8% | 중간 |
+| 동남아시아 | 14→23% 예상 | 빠름 |
+| **라틴아메리카** | **12~15%** | **가장 빠름** |
+
+브라질 이커머스 시장은 2026년 기준 **$692억**. 2031년엔 **$1,509억**으로 성장 예상(CAGR 16.87%). 라틴아메리카 전체 디지털 쇼핑 인구 3억 명은 2029년까지 **44% 증가** 예상이다. 현재 온라인 쇼핑 $10 중 $3이 MELI에서 일어난다. 2022년 25%에서 2026년 30%로 점유율이 올라가는 중이다. 그리고 MELI의 리테일 미디어 시장점유는 **55.6%** — Amazon(17.7%)의 3배다.
+
+---
+
+## ⚖️ 황소가 틀릴 수 있는 이유 — Bear의 4가지 반격
+
+강력한 성장 스토리에는 항상 반대편이 있다. Bull과 Bear 케이스를 정직하게 직면해야 한다.
+
+**Bull의 핵심 5개 무기:**
+1. 투자 사이클 2026년 피크 → 2027년부터 운영 레버리지 실현
+2. LatAm 이커머스 침투율이 중국의 4분의 1 → 구조적 10년+ 성장
+3. 포워드 PE 37x, PEG 0.75x → 성장 대비 역사적 저평가
+4. 애널리스트 Strong Buy 컨센서스 (10Buy/2Hold/0Sell), 평균 목표가 +40~52%
+5. Mercado Pago TPV $872억 → GMV 4배 초과, 핀테크가 이커머스 독립 성장
+
+**Bear의 4가지 반격:**
+
+**① 3연속 EPS 미스는 신뢰도 붕괴다.** 아무리 전략적 선택이라 해도, 시장과의 약속을 세 번 연속 어기는 건 위험하다. JP모건이 유일하게 Neutral로 다운그레이드한 이유가 여기에 있다. 단순한 투자 기조 회의가 아니라, 예측 가능성 자체에 의문을 제기한 것이다.
+
+**② $3억 3700만 통화 손실은 구조적이다.** 브라질 헤알(BRL)과 멕시코 페소(MXN) 변동성은 MELI의 통제 밖이다. 브라질 기준금리(Selic)가 **14.5%**(2026년 5월 기준, 인하 사이클 중이지만 여전히 고금리)에 달하는 환경에서 소비자 신용은 본질적으로 취약하다. NPL 6.8%가 지금은 관리 가능해 보이지만, 신용 포트폴리오가 $147억으로 커진 상황에서 NPL 절대 규모는 계속 증가한다.
+
+**③ Shein·Shopee·Temu는 포기하지 않는다.** MELI가 2025년 블랙프라이데이에 쿠폰으로 **$1,900만**을 방어적으로 투입한 것은 경쟁이 실재한다는 증거다. Amazon조차 LatAm 시장점유율 16% 이하로 내려앉았지만, 글로벌 이커머스 자본이 LatAm으로 계속 쏟아지고 있다.
+
+**④ 투자 사이클 종료 시점이 불명확하다.** 경영진은 2026년도 강도 높은 투자를 유지할 것을 시사했다. 마진 회복이 2027년에 오지 않으면? 브라질 금리 환경이 다시 악화되면? 이 불확실성이 주가에 30% 디스카운트로 반영되고 있다.
+
+---
+
+## 💡 이 주식이 아마존이 될 때를 알아보는 법 — 반드시 확인해야 할 신호들
+
+$MELI가 아마존의 길을 걷는다면, 지금은 역사에 남을 진입 기회다. Amazon이 2014~2018년 투자 사이클 내내 억눌려 있다가 AWS 레버리지가 터지면서 주가가 10배 뛴 것처럼.
+
+하지만 그 판단은 신호 확인 후에 해야 한다.
+
+**하반기 어닝콜에서 볼 Bull 시그널:**
+- **NPL 추가 하락**: 6.8% → 5%대 진입 시 신용 품질 구조적 개선 확인
+- **마진 가이던스 변화**: 경영진의 "2027 투자 감속 예고" 발언 여부
+- **Mercado Pago AUM 성장**: $200억 돌파 → 핀테크 독립 성장 가속 증거
+- **브라질 GMV +40%+ 유지**: 투자가 성장으로 환류하는 증거
+- **EPS 예상 충족**: 단 한 번이라도 컨센서스 충족 시 → 신뢰도 회복
+
+**리스크 관리 경고 신호:**
+- **NPL 8%+ 재상승**: 신용 사이클 리스크 현실화
+- **BRL 급격한 약세 (USD/BRL 6.5+)**: 통화 손실 확대
+- **Q2 이후 매출 성장률 35% 미만**: 투자 효과 미흡 신호
+- **경쟁사 LatAm 점유 10% 돌파**: 생태계 침식 시작
+
+**포지셔닝 아이디어:**
+- **$MELI 직접 매수**: 장기(3년+) 관점의 분할 매수. 포워드 PE 37x·PEG 0.75x는 역사적 저평가 구간.
+- **통화 리스크 헤지**: $EWZ(iShares MSCI Brazil ETF)로 BRL 변동성 부분 상쇄 가능.
+- **역발상 플레이**: $SQ(Block) — Mercado Pago 성장이 글로벌 핀테크 경쟁을 촉발한다는 시각.
+
+$MELI를 둘러싼 논쟁의 핵심은 하나다. **이 회사가 아마존처럼 투자를 레버리지로 바꿀 수 있느냐.** 그 답은 아직 모른다. 하지만 확실한 건 — 라틴아메리카 이커머스의 절반은 이미 이 회사를 지나고 있다. 그리고 그 비중은 매 분기 조금씩 더 올라가고 있다.
 
 ---
 
 ## 출처
 
-- [CNBC](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html) — NVIDIA-Corning 파트너십 상세 보도 (2026.05.06)
-- [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-06/nvidia-buys-500-million-of-rights-for-stock-in-corning) — Corning 워런트 딜 구조 (2026.05.06)
-- [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure) — 공식 보도자료 (2026.05.06)
-- [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology) — NVIDIA-Lumentum 파트너십 (2026.03)
-- [CNBC](https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html) — NVIDIA $4B 포토닉스 투자 (2026.03.02)
-- [SiliconANGLE](https://siliconangle.com/2026/03/02/nvidia-invests-4b-co-packaged-optics-suppliers-lumentum-coherent/) — CPO 투자 배경 분석 (2026.03.02)
-- [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/04/3286711/0/en/globalfoundries-accelerates-adoption-of-co-packaged-optics-for-advanced-ai-data-centers-with-scale-optical-module-solution.html) — GlobalFoundries SCALE 발표 (2026.05.04)
-- [CNBC](https://www.cnbc.com/2026/01/27/apple-supplier-corning-wins-6-billion-from-meta-for-ai-optical-fiber.html) — Meta-Corning $6B 딜 (2026.01.27)
-- [Invezz](https://invezz.com/news/2026/05/06/corning-stock-surges-20-on-nvidia-deal-to-expand-ai-optical-manufacturing/) — 코닝 주가 급등 (2026.05.06)
-- [NVIDIA Technical Blog](https://developer.nvidia.com/blog/scaling-ai-factories-with-co-packaged-optics-for-better-power-efficiency/) — CPO 기술 설명
-- [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-spectrum-x-co-packaged-optics-networking-switches-ai-factories) — Spectrum-X CPO 스위치 발표
-- [Broadcom IR](https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-tomahawkr-6-davisson-industrys-first-1024) — Tomahawk 6-Davisson CPO 양산 출하 (2025.10.08)
-- [Tom's Hardware](https://www.tomshardware.com/tech-industry/ai-data-center-buildout-pushes-copper-toward-shortages-analysts-warn) — 구리 부족 분석
-- [Fortune](https://fortune.com/2026/04/20/us-data-center-electricity-demand-public-opinion/) — 데이터센터 전력 수요
+- [SEC 10-Q Q1 2026 (StockTitan)](https://www.stocktitan.net/sec-filings/MELI/10-q-mercadolibre-inc-quarterly-earnings-report-45532b4fae60.html)
+- [어닝콜 트랜스크립트 Q1 2026 (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/05/07/mercadolibre-meli-q1-2026-earnings-transcript/)
+- [Q1 2026 실적 발표 (BusinessWire)](https://www.businesswire.com/news/home/20260507262226/en/MercadoLibre-Inc.-Reports-First-Quarter-2026-Financial-Results)
+- [Q1 슬라이드 분석 (Investing.com)](https://www.investing.com/news/company-news/mercadolibre-q1-2026-slides-49-revenue-surge-masks-margin-pressure-93CH-4670917)
+- [어닝콜 하이라이트 (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/mercadolibre-q1-earnings-call-highlights-072542172.html)
+- [MELI Q1 딥다이브 — 마진 분해 (StockStory)](https://stockstory.org/us/stocks/nasdaq/meli/news/earnings-call/meli-q1-deep-dive-strategic-investment-drives-revenue-growth-but-compresses-margins)
+- [브라질 투자 $10.9B (GuruFocus)](https://www.gurufocus.com/news/8741332/mercadolibre-meli-to-boost-brazil-investment-by-50-in-2026)
+- [브라질 투자 $5.8B 2025 (Bloomberg)](https://www.bloomberg.com/news/articles/2025-04-07/mercadolibre-to-invest-5-8-billion-in-brazil-hire-14-000)
+- [Mercado Pago 리스크 분석 (Motley Fool)](https://www.fool.com/investing/2026/02/24/is-mercado-pago-a-growth-engine-or-a-hidden-risk-i/)
+- [LatAm 리테일 미디어 점유 (eMarketer)](https://www.emarketer.com/content/mercado-libre-dominate-latin-american-retail-media)
+- [Sea Limited 흑전 선례 (CNBC)](https://www.cnbc.com/2024/03/05/singapores-sea-limited-posts-first-profitable-year.html)
+- [Amazon vs MELI 2026 (Investing.com)](https://www.investing.com/analysis/amazon-vs-mercadolibre-diverging-growth-paths-define-2026s-tech-divide-200669926)
+- [LatAm 이커머스 시장 전망 (Mordor)](https://www.mordorintelligence.com/industry-reports/brazil-ecommerce-market)
+- [애널리스트 컨센서스 (24/7 Wall St.)](https://247wallst.com/investing/2026/04/14/mercadolibre-stock-is-down-9-in-2026-but-wall-street-still-sees-36-upside/)
+- [브라질 이커머스 경쟁 (PYMNTS)](https://www.pymnts.com/news/ecommerce/2025/mercado-libre-shares-drop-amid-heightened-competition-in-brazils-ecommerce-market/)
+- [Selic 금리 인하 14.5% (MercoPress)](https://en.mercopress.com/2026/05/07/brazil-central-bank-cuts-selic-interest-rate-25-points-to-14.50)

@@ -1,117 +1,170 @@
-# 주사기 없는 세계가 열렸다 — GLP-1 혁명 2막과 메디케어 1400만 명의 문
+# 49% 성장인데 왜 주가가 빠졌나 — $MELI의 아마존 베팅
 
-*2026년 5월 8일 | 딥다이브 | 📡 테크 트렌드*
-
----
-
-올해 1월 5일, 미국의 약국 진열대에 조용히 새 알약 하나가 올라왔습니다. 노보 노디스크의 구강형 Wegovy — 세계에서 가장 많이 팔리는 비만 치료제가 드디어 주사기를 버린 날이었습니다. 그로부터 4개월 뒤, 경쟁사 일라이 릴리도 Foundayo(포운다요)라는 알약을 들고 등장했습니다. 그리고 이번 주, 미국 정부가 선언했습니다. "메디케어 수혜자 1400만 명에게 월 5만원($50)에 이 알약을 드리겠습니다."
-
-세 사건이 하나의 문장으로 수렴합니다. 2026년은 GLP-1이 주사에서 알약으로, 부유층 전유물에서 노인층 생활약으로 탈바꿈한 해입니다.
+*2026년 5월 9일 | 딥다이브 | 📊 종목 해부*
 
 ---
 
-## 처방전이 두 배가 된 날
+## 🔔 이야기: 2분기에 한 번씩 반복되는 이 장면
 
-노보 노디스크가 2026년 1분기 실적을 발표하자 월스트리트가 잠시 멈칫했습니다. 구강형 Wegovy(semaglutide 25mg)의 Q1 매출이 DKK 22.6억(약 $3억5400만)으로 집계됐는데, 이는 애널리스트 예상(DKK 11.6억)의 거의 정확히 두 배였거든요. 처방 건수도 Q1에만 130만 건. 출시 4개월 만에 누적 200만 건을 넘어섰습니다. 같은 기간 Wegovy 브랜드(주사 + 알약 합산)는 미국 신규 처방의 65%를 가져갔습니다.
+2026년 5월 7일 오후, MercadoLibre($MELI)가 Q1 실적을 공개했다.
 
-텔레헬스 기업 LifeMD는 구강형 Wegovy 출시 당일 신규 환자가 하루 1000명으로 두 배 뛰었다고 밝혔습니다. 물론 GLP-1 주사제는 여전히 강합니다 — 주사제 Wegovy와 Zepbound는 임상에서 20%+의 체중 감소를 보이는 반면, 구강형은 16.6%(Wegovy 알약, OASIS 4 임상)입니다. 하지만 바늘 공포, 냉장 보관 필요, 주 1회 자가주사라는 장벽이 사라지자 완전히 새로운 인구가 처방전을 받으러 오기 시작했습니다.
+숫자가 떴다. **매출 $88억 4500만, 전년 동기 대비 +49%**. Q2 2022 이후 가장 빠른 성장세다. 브라질에서만 신규 활성 구매자가 **1700만 명** 추가됐다. 역대 분기 기록이다. 핀테크 자회사 Mercado Pago의 총 결제액은 **$872억**으로 이커머스 GMV의 4배를 넘어섰다.
 
-노보의 CEO는 어닝콜에서 "경쟁사 알약(Foundayo)이 4월에 출시됐음에도 우리 알약 매출이 두 자릿수 성장을 지속하고 있다"고 말했습니다. 이것이 단순한 자신감 발언이 아님을 보여주는 숫자가 있습니다 — 노보는 2026년 연간 가이던스를 상향했습니다.
+그러나 주가는 **-7%** 빠졌다.
 
----
+이번이 처음이 아니다. 3분기 연속 EPS 미스다. 이번엔 $8.23으로 월가 컨센서스 $9.37에 **12%** 못 미쳤다. 운영마진도 작년 같은 분기 12.9%에서 이번엔 **6.9%**로 반 토막 났다.
 
-## 두 알약의 차이: 펩타이드 vs 소분자
+황당하게 느껴질 수 있다. 매출이 50% 가까이 뛰는데, 이익이 어떻게 줄어들 수 있지?
 
-구강형 GLP-1 경쟁에는 미묘하지만 중요한 기술 차이가 있습니다. 노보의 구강형 Wegovy는 semaglutide — 즉 주사제와 똑같은 펩타이드 분자를 SNAC라는 흡수 촉진제와 함께 캡슐화한 것입니다. 복용 30분 전 공복 상태에서 물 120ml와 함께 삼켜야 하고, 복용 후 30분간 음식을 먹으면 안 됩니다. 효능은 높지만(16.6%), 복약 지침이 까다롭습니다.
+해답은 회사가 고의적으로 돈을 잃고 있다는 데 있다. 그리고 그 선택이 옳은지 그른지를 판단하는 게 바로 오늘의 과제다.
 
-일라이 릴리의 Foundayo(orforglipron)는 다릅니다. **비펩타이드 소분자(small molecule non-peptide)** — 화학 구조 자체가 달라서 위산에서 분해되지 않고 장벽을 통과합니다. 덕분에 "하루 중 언제, 음식 있든 없든, 물 제한 없이" 복용이 가능합니다. 2026년 4월 1일 FDA가 이 점을 명시해 승인했습니다.
+CEO Ariel Szarfsztejn은 어닝콜에서 이렇게 말했다: *"Investment decisions are guided by clear observable evidence showing this is the right moment to invest boldly in a market with significant multiyear growth runways."* — "우리가 보기에 지금이 대담하게 투자해야 할 타이밍이라는 명확한 증거가 있다."
 
-릴리가 자랑하는 이 '제약 없음'이라는 특성이 실제 시장에서 중요한 이유는, 복약 순응도(adherence)가 만성질환 치료의 핵심이기 때문입니다. 체중 감소 효능은 12%(72주, 최고 용량)로 노보보다 낮지만, 실제 복용률이 높으면 장기적으로 더 나은 결과를 낼 수 있습니다. 실제로 Foundayo 초기 환자 2만 명 중 80%가 GLP-1 클래스를 처음 시작하는 신규 환자였습니다 — 주사제의 문턱을 넘지 못했던 사람들이 알약으로는 도전하는 것입니다.
-
----
-
-## 7월 1일: 문이 열리는 날
-
-이번 주 가장 중요한 뉴스는 실적이 아니었습니다. 5월 5~7일 사이, 미국 CMS(메디케어·메디케이드 서비스센터)가 **Medicare GLP-1 Bridge** 프로그램을 공식 발표했습니다.
-
-2026년 7월 1일부터 2027년 12월 31일까지, 적격 메디케어 Part D 수혜자는 월 $50(약 7만원)의 본인부담금으로 GLP-1 비만 치료제를 받을 수 있습니다. 대상 약물은 Foundayo(orforglipron), 구강형 Wegovy, Zepbound(주사제) 세 가지입니다. 자격 기준은 BMI 27 이상 + 심혈관질환·당뇨전증 등 동반질환 1개 이상입니다.
-
-현재 비만 진단을 받은 메디케어 수혜자는 약 1400만 명. 넓은 기준을 적용하면 CBO는 최대 2900만 명이 혜택 범위에 들어온다고 추산합니다. 오늘까지 GLP-1 주사제의 자가부담 비용이 월 $1000~1500을 넘어 사실상 접근 불가였던 인구가 $50에 처방을 받을 수 있게 되는 겁니다. 자동차로 비유하면, 슈퍼카 전시장이 대중 브랜드 딜러십으로 바뀌는 순간입니다.
-
-7월 1일 이전에 이미 Foundayo 처방이 가능해진다는 점에서, 이 정책은 $LLY의 Foundayo 매출에 직접 불을 지피는 촉매입니다. 애널리스트들이 Foundayo의 2026년 매출을 $15~28억으로 전망하는 이유도 여기 있습니다.
+말 그대로다. 이 회사는 지금 라틴아메리카 전체에 베팅을 걸고 있다.
 
 ---
 
-## 뇌까지 달라진다: GLP-1의 예상치 못한 확장
+## 📅 10년이 하나의 그래프에 — 성장이 멈추면 다시 가속하는 패턴
 
-체중 감소 너머에서도 GLP-1 이야기는 계속됩니다. 이번 주 NIH가 발표한 연구는 흥미롭습니다. 구강형 소분자 GLP-1 약물이 뇌 깊숙한 보상 회로(reward circuit)를 직접 조절한다는 것입니다. 단순히 포만감을 높이는 것이 아니라, '먹는 즐거움'을 추구하는 뇌의 충동 자체를 억제하는 메커니즘 — 주사제와는 다른 경로였습니다.
+$MELI는 2006년 나스닥에 상장했다. 처음엔 eBay의 라틴아메리카 버전으로 불렸다. 실제로 eBay가 초기 지분을 보유했다. 그때의 MELI와 지금의 MELI는 완전히 다른 회사다.
 
-이 발견이 투자자에게 흥미로운 이유는, 뇌 보상 회로를 조절한다는 것이 중독, 우울, 신경퇴행성 질환 치료로 이어질 가능성을 시사하기 때문입니다. UCSF 연구팀은 차세대 GLP-1이 신경보호 효과를 더 증폭시킬 수 있다고 전망했습니다.
+**연간 매출 시계열**:
 
-물론 뇌 치료제로서의 GLP-1은 아직 초기입니다. 올해 Phase 3 EVOKE(+) 임상에서 semaglutide가 알츠하이머 진행을 늦추지 못한다는 결과가 나왔습니다 — 3800명을 2년간 추적한 가장 큰 GLP-1 신경과학 임상이었는데도요. 하지만 이 실패 속에서도 뇌 바이오마커(pTau181, pTau217, 신경염증 지표)는 개선됐습니다. 연구자들이 내린 결론은 '치료보다 예방'에서 답을 찾아야 한다는 것입니다. 초기 단계에서 GLP-1을 복용한 사람이 10~20년 뒤 알츠하이머 발병률이 낮다면 — 이건 단순한 비만 치료제가 아니게 됩니다.
+| 연도 | 매출 | YoY |
+|------|------|-----|
+| 2023 | $14.95B | — |
+| 2024 | $20.77B | +39% |
+| 2025 | $28.89B | +39% |
+| Q1 2026 | $8.85B (분기) | +49% |
 
----
+5년 복합 성장률 **48.7%**. 지난 28분기 연속으로 매출 성장률이 30%를 밑돈 적이 없다.
 
-## 숫자로 보는 전장: $950억짜리 시장이 흔들린다
+그러나 이 숫자의 이면을 보면 흥미로운 패턴이 보인다. MELI의 성장은 일직선이 아니다. 코로나19 팬데믹 때 2020년에 폭발했고, 2021년 말~2022년에 성장이 꺾이며 주가가 고점 대비 70% 이상 빠졌다. 당시 시장은 "팬데믹 수혜 끝났다"고 판단했다.
 
-Goldman Sachs는 2030년 전 세계 항비만 약물 시장이 $950억에 달할 것으로 전망합니다. 이 중 구강형 알약이 24~25%, 약 $220억을 가져갈 것이라는 예상입니다. 현재 항비만 파이프라인 중 43%가 이미 경구 투여 방식으로 개발 중입니다.
+그런데 2023년부터 다시 가속했다. 그리고 2026년 Q1, 49%를 찍으며 성장률이 가장 빠른 분기가 됐다.
 
-$LLY의 현재 위치: GLP-1 시장 점유율 60%, Q1 2026 매출 $198억 (+56% YoY), Mounjaro(tirzepatide) 매출 +125%. 연간 가이던스를 $820~850억으로 상향했습니다. 시장을 이미 지배하고 있는데, 알약이라는 두 번째 전선을 열면서 신규 처방자(GLP-1 미경험자) 포획에 나서고 있습니다.
+주가는 어떨까? ATH는 2025년 7월 1일의 **$2,645**였다. 현재(2026년 5월)는 **약 $1,850** 내외로, 최고점 대비 **-30%** 하락한 상태다. 이 하락은 2025년 하반기부터 시작됐는데 정확히 마진 압박이 시장에 가시화된 시점과 겹친다.
 
-$NVO의 현재 위치: Q1 전체 매출 $152억 (+32% 불변환율 기준), 구강형 Wegovy로 처방 경쟁 주도. 그러나 2026년 가이던스를 -4%~-12%로 하향한 이유가 있습니다 — Ozempic·Rybelsus 특허 만료가 다가오고 있기 때문입니다. 바이오시밀러 위협이 현실화되기 전에 구강형 플랫폼으로 성을 쌓아야 하는 상황입니다. Novo가 이번 분기를 필사적으로 이겨야 했던 이유입니다.
+**10년 PE 밸류에이션 여정**: MELI는 성장주 프리미엄을 받아왔다. 2020~2021년 전성기엔 PE 300x를 훌쩍 넘겼다. 현재는 **트레일링 PE 47x, 포워드 PE 37x**. 10년 역사 평균 PE 319x 대비 **87% 할인** 수준이다.
 
----
+이 숫자를 어떻게 해석할 것인가? 두 가지 해석이 맞선다:
+- "이제 성숙주로 재평가된 것이다" (Bear)
+- "역사적 저평가, 투자 사이클이 끝나면 재평가될 것이다" (Bull)
 
-## GLP-1이 만드는 다음 10년
-
-2026년을 GLP-1 알약의 원년이라고 부를 수 있는 근거는 숫자에 있습니다. 처방 200만 건, 예상 두 배 매출, 1400만 명에게 열리는 접근 창구. 그러나 이 이야기의 진짜 의미는 그것보다 큽니다.
-
-주사기가 필요했을 때, GLP-1은 '돈 있는 사람의 약'이었습니다. 냉장 보관이 필요했고, 자가 주사를 배워야 했고, 처방받아도 보험이 안 됐으니까요. 알약이 되고 메디케어 코페이가 $50으로 떨어지면서, 이 약은 처음으로 '만성병 치료제'의 문법 안에 들어옵니다 — 고혈압약, 당뇨약처럼 아침마다 먹는 약이 되는 것입니다.
-
-그것이 일어나는 시장은 지금의 $54.8억(2024년 기준 전체 GLP-1 시장)에서 Goldman Sachs가 예측하는 $950억으로 팽창합니다. 약의 효능이 아니라, 접근성이 시장을 키우는 겁니다.
-
-알약으로 살을 빼고, 뇌를 보호하고, 노화를 늦출 수 있는 가능성 — GLP-1이 단순한 비만 치료제가 아닌 '건강 수명 연장 도구'로 재정의되는 순간, 이 산업의 크기는 지금 상상하는 것보다 훨씬 커질 수 있습니다.
-
----
-
-## 투자 지형도
-
-**$LLY (Eli Lilly)**: 공격수. GLP-1 점유율 60% + Foundayo 신규 처방자 확보 + 메디케어 브릿지 수혜 직격탄. Q1 가이던스 상향이 이미 발표됐다. 단, orforglipron FDA 간부전 보고서와 같은 안전성 이슈는 지속 모니터링 필요.
-
-**$NVO (Novo Nordisk)**: 수비수 + 선발주자. 처방 경쟁에서 앞서고 있지만 바이오시밀러 압박이 주요 리스크. 구강형 포트폴리오로 기존 특허 제품 잠식 방어 중.
-
-**관련 픽앤샤블**: 텔레헬스(LifeMD, Hims & Hers), 약국 체인(CVS, Walgreens), 비만 관련 합병증 치료 회사(수면무호흡 기기, 인슐린 펌프)는 GLP-1 접근성 확대의 간접 수혜자이자 일부는 위협을 받는다. GLP-1이 보편화되면 수술적 치료(비만대사수술)와 인슐린 시장은 수축할 수 있다.
+그리고 여기서 핵심 논쟁이 시작된다. 이 투자 사이클이 언제 끝나느냐는 질문이다.
 
 ---
 
-## 머뉴's Advice
+## 🌍 경계 없는 전쟁 — 세계의 신흥시장 패권자들이 같은 게임을 한다
 
-**1. 알약 전환 속도에 주목**: 메디케어 브릿지 7월 1일 시작 후 처방 데이터가 3분기 어닝(10월)에 반영된다. 그 전까지 $LLY와 $NVO 실적 콜에서 "pill uptake" 키워드를 주시하라.
+$MELI를 이해하려면 비교 대상이 필요하다. 가장 적절한 비교는 두 가지다: **Amazon**과 **Sea Limited(SE)**.
 
-**2. 효능 격차 좁히는 차세대 알약 파이프라인 체크**: Structure Therapeutics(aleniglipron) Phase 2에서 15% 체중 감소 달성. Pfizer도 장기지속형 주사제로 맞불. '12%→20%'의 효능 격차가 좁혀지는 순간, 알약이 주사제를 완전히 대체하는 시나리오가 현실화된다.
+### 아마존과 비교: 같은 전략, 다른 시장
 
-**3. 뇌 건강 파이프라인은 2030년대의 이야기**: 알츠하이머 임상 실패에도 불구하고 바이오마커 개선이 확인됐다. '예방' 적응증으로 GLP-1의 FDA 적응증이 확대되는 순간 — TAM이 비만 시장을 초과할 수 있다. 장기 시계열로 관찰하라.
+2010년대 초중반 아마존은 수익성을 희생하며 AWS·물류·프라임에 수천억 달러를 투자했다. 월가는 "도대체 이익은 언제 내느냐"를 반복했다. Jeff Bezos는 "우리의 재무결과를 두고 투자를 말하는 게 맞지 않다"며 밀어붙였다. 그 결과는 모두가 안다.
+
+$MELI가 지금 걷고 있는 길이 이와 닮았다. 2026년에만 브라질에 **$109억(!)** 을 투자한다. 전년 대비 50% 증가다. 풀필먼트 센터는 28개에서 42개로 늘린다. 화물기는 9대 운영 중이다. 브라질 직원 수는 연내 **7만 명**을 넘길 예정이다.
+
+그러나 아마존과의 결정적 차이가 있다. 아마존은 AWS라는 초고마진 사업부가 물류 투자를 지탱했다. $MELI에는 아직 AWS에 해당하는 캐시카우가 없다. Mercado Pago가 잠재적 역할을 할 수 있지만, 지금은 오히려 신용 포트폴리오 확장으로 마진을 갉아먹고 있다.
+
+넷 마진 비교: **MELI 5.68% vs Amazon 11.76%** (2025년 기준).
+
+### Sea Limited와 비교: 이미 일어난 미래인가
+
+더 직접적인 비교 대상은 동남아시아의 Shopee를 운영하는 Sea Limited(SE)다. 2020~2022년 Shopee는 동남아 이커머스 점유율을 높이기 위해 공격적으로 확장했다. EBITDA는 분기에 -$8억 7800만에 달했다.
+
+2022년, 위기가 왔다. 형제 게임 서비스인 Garena 매출이 급감하며 캐시카우가 사라졌다. 시장 철수, 비용 절감, 구조조정이 뒤따랐다. 2022년 Q4 처음으로 EBITDA 흑전($1억 9600만)을 달성했고, 2024년에야 첫 연간 흑자를 기록했다.
+
+**$MELI가 다른 점**: MELI는 외부 자금에 의존하지 않는다. 2025년 운영 현금흐름이 **$121억 2000만(+53% YoY)** 이었다. 이 돈으로 브라질 $109억을 투자할 수 있다. Shopee처럼 캐시카우가 사라져 강제 철수하는 시나리오가 구조적으로 불가능하다.
+
+### 라틴아메리카 vs 동남아시아: 어느 게 더 큰 기회인가
+
+라틴아메리카 이커머스 침투율은 현재 **12~15%**. 미국(15.8%)과 비슷하지만, 성장 속도는 훨씬 빠르다. 무엇보다 중국(50%)과 비교할 때 구조적 성장 여지가 엄청나다.
+
+| 지역 | 침투율 | 5년 CAGR |
+|------|--------|---------|
+| 중국 | ~50% | 성숙 |
+| 미국 | 15.8% | 중간 |
+| 동남아시아 | 14~23% | 빠름 |
+| 라틴아메리카 | 12~15% | **가장 빠름** |
+
+라틴아메리카 디지털 쇼핑 인구 3억 명은 2029년까지 **44% 증가** 예상이다. 현재 온라인 쇼핑 $10 중 $3이 MELI에서 일어난다(2026년 기준). 그리고 이 숫자가 2030년까지 더 올라갈 것이라는 게 시장의 컨센서스다.
+
+---
+
+## ⚖️ 아마존이 될 수도, 소파이가 될 수도 — 이 내러티브가 틀릴 수 있는 이유
+
+강력한 성장 스토리에는 항상 반대편이 있다.
+
+**Bull 케이스의 핵심 논리:**
+1. 투자 사이클 2026년 피크 → 2027년부터 운영 레버리지 실현
+2. LatAm 이커머스 침투율이 미국의 절반 → 구조적 10년 성장
+3. 포워드 PE 37x는 성장률 49%를 고려 시 납득 가능한 밸류
+4. 애널리스트 Strong Buy 컨센서스, 평균 목표가 +40~52% 업사이드
+5. Mercado Pago TPV이 GMV 4배 → 생태계 독립 성장 가속
+
+**Bear 케이스가 틀릴 수 없는 이유:**
+
+*"3연속 EPS 미스는 경영진 신뢰도 문제다."*
+
+아무리 전략적 선택이라 해도, 시장과의 약속을 세 번 연속 어기는 건 위험하다. JP모건이 유일하게 Neutral로 다운그레이드한 배경이 여기에 있다. 단순한 투자 기조 회의가 아니라, 예측 가능성 자체에 의문을 던진 것이다.
+
+*"$3억 3700만 통화 손실은 구조적이다."*
+
+브라질 헤알(BRL)과 멕시코 페소(MXN) 변동성은 MELI의 통제 밖이다. 브라질 기준금리(Selic)가 **14.5%**(2026년 5월 기준, 인하 사이클 중이지만 여전히 고금리)에 달하는 환경에서 소비자 신용은 본질적으로 취약하다. NPL 6.8%가 지금은 관리 가능해 보이지만, 신용 포트폴리오가 $147억으로 커진 상황에서 NPL 절대 규모는 계속 증가한다.
+
+*"Shein, Shopee, Temu는 포기하지 않는다."*
+
+MELI가 2025년 블랙프라이데이에 쿠폰으로 $1900만을 방어적으로 투입한 것은, 경쟁이 실재한다는 증거다. 아마존조차 LatAm에서 시장점유율 16% 이상을 더 이상 유지하지 못하고 있지만, 글로벌 이커머스 자본이 LatAm으로 쏟아지는 추세는 멈추지 않고 있다.
+
+*"투자 사이클 종료 시점이 불명확하다."*
+
+경영진은 2026년도 투자를 계속 유지할 것을 시사했다. 그렇다면 마진 회복은 2027년? 2028년? 그 사이 금리 환경이 악화되면? 이 불확실성이 주가에 디스카운트로 반영되고 있다.
+
+---
+
+## 💡 투자자가 지금 봐야 할 신호들 — 진입 전에 확인해야 할 체크리스트
+
+$MELI가 아마존의 길을 걷는다면, 지금은 역사적 매수 기회다. 아마존이 2014~2018년 투자 사이클 내내 눌려 있다가 AWS 레버리지가 터지면서 주가가 10배 뛴 것처럼.
+
+하지만 그 판단을 위해서는 몇 가지 신호를 지켜봐야 한다.
+
+### 진입 전 확인할 Bull 시그널 (하반기 어닝콜)
+- **NPL 추가 하락**: 6.8% → 5%대 하락 시 신용 품질 구조적 개선 확인
+- **마진 가이던스 상향**: 경영진이 "2026 하반기~2027 투자 감속 예고" 발언
+- **Mercado Pago AUM 지속 성장**: $200억 돌파 → 독립 사업 성장 가속
+- **브라질 GMV +40%+ 유지**: 투자가 성장으로 환류하는 증거
+- **EPS 예상 충족**: 단 한 번이라도 컨센서스 충족 시 신뢰도 회복
+
+### 경고 신호 (리스크 관리)
+- **NPL 8%+ 재상승**: 신용 품질 악화, 신용 사이클 리스크 현실화
+- **BRL 급격한 약세 (USD/BRL 6.5+)**: 통화 손실 구조적 확대
+- **Q2 이후 매출 성장률 35% 미만**: 투자 대비 성장 효과 미흡 신호
+- **Shopee/Temu LatAm 시장 점유 10% 돌파**: 경쟁 압박 임계점
+
+### 종목 포지셔닝 아이디어
+- **$MELI 직접 매수**: 장기(3년+) 관점에서 분할 매수. 현재 포워드 PE 37x는 성장률 대비 합리적 진입점.
+- **리스크 헤지**: 멕시코 헤알 연계 ETF(iShares MSCI Brazil ETF, $EWZ)로 통화 리스크 부분 헤지 가능.
+- **인접 플레이**: $SQ(Block) — Mercado Pago가 커질수록 글로벌 핀테크 경쟁이 격화된다는 역발상으로 접근 가능.
+
+강조할 점은, 이 주식의 매력은 "지금 당장 싸다"가 아니라 "10년 뒤 이 자리에 서 있을 때 지금이 기회였음을 알게 된다"는 구도라는 점이다. 그 확신이 없다면, EPS 미스가 반복되는 동안의 변동성을 버티기 어렵다. 그 확신이 있다면, 이 $-7% 급락은 노이즈에 불과하다.
 
 ---
 
 ## 출처
 
-- [CNBC — NVO Q1 2026 earnings: Wegovy sales jump](https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html)
-- [BioPharma Dive — Novo hikes guidance on Wegovy pill's fast sales start](https://www.biopharmadive.com/news/novo-nordisk-wegovy-pill-sales-prescriptions-q1-2026/819418/)
-- [TIKR — Novo Nordisk Q1 2026: Wegovy Pill Doubles Estimates](https://www.tikr.com/blog/novo-nordisk-q1-2026-wegovy-pill-doubles-estimates-as-nvo-stock-recovers)
-- [GlobeNewswire — Novo Nordisk Q1 2026 실적 발표](https://www.globenewswire.com/news-release/2026/05/06/3288491/0/en/novo-nordisk-s-adjusted-operating-profit-reached-dkk-32-858-million-in-q1-2026.html)
-- [AJMC — FDA Approves Oral Semaglutide for Weight Loss](https://www.ajmc.com/view/fda-approves-oral-semaglutide-as-first-glp-1-pill-for-weight-loss)
-- [Eli Lilly — FDA approves Foundayo (orforglipron)](https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill)
-- [AJMC — FDA Approves Lilly's Oral GLP-1 Orforglipron for Obesity](https://www.ajmc.com/view/fda-approves-lilly-s-oral-glp-1-orforglipron-for-obesity)
-- [GoodRx — Orforglipron/Foundayo News](https://www.goodrx.com/conditions/weight-loss/orforglipron-danuglipron-new-weight-loss-drug)
-- [Insider Monkey — Eli Lilly Q1 2026 Revenue Surge 56%](https://www.insidermonkey.com/blog/eli-lilly-lly-reports-q1-2026-revenue-surge-of-56-following-fda-approval-of-foundayo-1755464/)
-- [247wallst — Eli Lilly Captures 60% of GLP-1 Market](https://247wallst.com/investing/2026/05/04/eli-lilly-captures-60-of-the-glp-1-market-as-mounjaro-revenue-soars-125/)
-- [CMS — Medicare GLP-1 Bridge 공식 발표](https://www.cms.gov/newsroom/press-releases/coming-soon-cms-provide-50-monthly-access-glp-1-medications-medicare-beneficiaries)
-- [NPR — Medicare to launch weight loss drug option in July with $50 copay](https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay)
-- [KFF — BALANCE Model for GLP-1s in Medicare and Medicaid](https://www.kff.org/medicare/what-to-know-about-the-balance-model-for-glp-1s-in-medicare-and-medicaid/)
-- [NIH — Oral small-molecule GLP-1 drugs penetrate deep into the brain](https://www.nih.gov/news-events/news-releases/oral-small-molecule-glp-1-drugs-penetrate-deep-into-brain-suppress-cravings)
-- [Nature Medicine — GLP-1 receptor agonist fails to halt Alzheimer's disease](https://www.nature.com/articles/d41591-026-00018-2)
-- [Science AAAS — Popular obesity drug fails in Alzheimer's trials](https://www.science.org/content/article/popular-obesity-drug-fails-hotly-anticipated-alzheimer-s-trials)
-- [Goldman Sachs — Anti-obesity drug market outlook](https://www.goldmansachs.com/insights/articles/anti-obesity-drug-market)
-- [CNBC — 2026 is the year of obesity pills](https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html)
-- [CNBC — Novo Nordisk Wegovy pill beating Eli Lilly Foundayo early](https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html)
+- [SEC 10-Q Q1 2026 (StockTitan)](https://www.stocktitan.net/sec-filings/MELI/10-q-mercadolibre-inc-quarterly-earnings-report-45532b4fae60.html)
+- [어닝콜 트랜스크립트 Q1 2026 (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/05/07/mercadolibre-meli-q1-2026-earnings-transcript/)
+- [Q1 2026 실적 발표 (BusinessWire)](https://www.businesswire.com/news/home/20260507262226/en/MercadoLibre-Inc.-Reports-First-Quarter-2026-Financial-Results)
+- [Q1 슬라이드 분석 (Investing.com)](https://www.investing.com/news/company-news/mercadolibre-q1-2026-slides-49-revenue-surge-masks-margin-pressure-93CH-4670917)
+- [어닝콜 하이라이트 (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/mercadolibre-q1-earnings-call-highlights-072542172.html)
+- [MELI Q1 딥다이브 — 마진 분해 (StockStory)](https://stockstory.org/us/stocks/nasdaq/meli/news/earnings-call/meli-q1-deep-dive-strategic-investment-drives-revenue-growth-but-compresses-margins)
+- [브라질 투자 $10.9B (GuruFocus)](https://www.gurufocus.com/news/8741332/mercadolibre-meli-to-boost-brazil-investment-by-50-in-2026)
+- [브라질 투자 $5.8B 2025 (Bloomberg)](https://www.bloomberg.com/news/articles/2025-04-07/mercadolibre-to-invest-5-8-billion-in-brazil-hire-14-000)
+- [Mercado Pago 리스크 분석 (Motley Fool)](https://www.fool.com/investing/2026/02/24/is-mercado-pago-a-growth-engine-or-a-hidden-risk-i/)
+- [LatAm 리테일 미디어 점유 (eMarketer)](https://www.emarketer.com/content/mercado-libre-dominate-latin-american-retail-media)
+- [Sea Limited 흑전 선례 (CNBC)](https://www.cnbc.com/2024/03/05/singapores-sea-limited-posts-first-profitable-year.html)
+- [Amazon vs MELI 2026 (Investing.com)](https://www.investing.com/analysis/amazon-vs-mercadolibre-diverging-growth-paths-define-2026s-tech-divide-200669926)
+- [LatAm 이커머스 시장 전망 (Mordor)](https://www.mordorintelligence.com/industry-reports/brazil-ecommerce-market)
+- [애널리스트 컨센서스 (24/7 Wall St.)](https://247wallst.com/investing/2026/04/14/mercadolibre-stock-is-down-9-in-2026-but-wall-street-still-sees-36-upside/)
+- [브라질 이커머스 경쟁 (PYMNTS)](https://www.pymnts.com/news/ecommerce/2025/mercado-libre-shares-drop-amid-heightened-competition-in-brazils-ecommerce-market/)

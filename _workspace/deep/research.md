@@ -1,95 +1,191 @@
-# 리서치 노트 — GLP-1 알약 혁명의 3중 수렴
+# MELI 리서치 노트 — 2026-05-09 (토요일 딥다이브)
 
 ## 테마
-주사기 없는 세계 — GLP-1 구강형 약물 혁명과 메디케어 1400만 명의 접근성 확대
+49% 성장인데 왜 주가가 빠졌나 — MercadoLibre의 아마존 베팅
 
 ## 유형
-📡 테크 트렌드: 두 거대 제약사 + 정책 당국이 같은 방향으로 동시 움직임
-
-## 선정 이유
-- 이번 주(5월 5~7일) Novo Nordisk Q1 어닝, Lilly Foundayo 초기 실적, CMS Medicare GLP-1 Bridge 공식 발표가 동시에 터졌다
-- '알약으로 체중 감량'이라는 개념이 공상이 아닌 처방전 현실이 됐다는 수치적 증거가 이번 주에 확인됐다
-- 금요일 헬스케어 클러스터 테마와 완벽 정렬, 지난 7일 딥다이브(로보택시·AI인프라·클라우드)와 완전히 다른 섹터
+📊 종목 해부 (한 종목 완전 분해 — 관심종목 외 발굴)
 
 ---
 
-## 팩트 (출처 필수)
+## 1차 자료 인용 현황 (의무 ≥ 3건 → 5건 확보)
 
-1. **Novo Nordisk 구강형 Wegovy(semaglutide 25mg) Q1 2026 처방**: 2026년 1월 5일 미국 출시 후 Q1에만 130만 건 처방, 누적 처방 200만 건 돌파 — 출처: [CNBC](https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html) · [BioPharma Dive](https://www.biopharmadive.com/news/novo-nordisk-wegovy-pill-sales-prescriptions-q1-2026/819418/)
+1. **SEC 10-Q Q1 2026** (meli-20260331, 발행 2026-05-07): 매출 $8,845M, 순이익 $417M, 운영이익 $611M, 신용잔액 $10,735M, 발행주식 50,697,182주
+   - URL: https://www.stocktitan.net/sec-filings/MELI/10-q-mercadolibre-inc-quarterly-earnings-report-45532b4fae60.html
 
-2. **구강형 Wegovy Q1 매출 = 월가 예상의 2배**: Q1 2026 매출 DKK 22.6억(약 $3억5400만), 애널리스트 예상 DKK 11.6억의 거의 2배 — 출처: [BioPharma Dive](https://www.biopharmadive.com/news/novo-nordisk-wegovy-pill-sales-prescriptions-q1-2026/819418/) · [TIKR](https://www.tikr.com/blog/novo-nordisk-q1-2026-wegovy-pill-doubles-estimates-as-nvo-stock-recovers)
+2. **Q1 2026 어닝콜 트랜스크립트** (2026-05-07, CEO Ariel Szarfsztejn, CFO Martin de Los Santos, Fintech President Osvaldo Giménez):
+   - CEO 핵심 발언: "investment decisions are guided by clear observable evidence showing this is the right moment to invest boldly in a market with significant multiyear growth runways"
+   - 마진 분석: 대손충당금 +3.9pp, COGS +3.0pp, 마케팅 +1.0pp; 대출 평균 만기 5개월→8개월 연장
+   - URL: https://www.fool.com/earnings/call-transcripts/2026/05/07/mercadolibre-meli-q1-2026-earnings-transcript/
 
-3. **Novo Nordisk Q1 2026 전체 매출**: DKK 968억(약 $152억), 전년 동기 대비 불변환율 기준 +32% — 출처: [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/06/3288491/0/en/novo-nordisk-s-adjusted-operating-profit-reached-dkk-32-858-million-in-q1-2026.html)
+3. **BusinessWire 공식 실적 보도자료** (2026-05-07): 매출 $8,845M (+49% YoY), EPS $8.23 vs 예상 $9.37 (미스 -12%), 운영이익 $611M
+   - URL: https://www.businesswire.com/news/home/20260507262226/en/MercadoLibre-Inc.-Reports-First-Quarter-2026-Financial-Results
 
-4. **구강형 Wegovy 효능**: OASIS 4 임상 — 25mg 1일 1회 복용, 치료 준수 시 평균 16.6% 체중 감소 — 출처: [AJMC](https://www.ajmc.com/view/fda-approves-oral-semaglutide-as-first-glp-1-pill-for-weight-loss) · [CNBC](https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html)
+4. **eMarketer LatAm 리테일 미디어 시장 점유 데이터** (2026): MELI 55.6% vs Amazon 17.7%
+   - URL: https://www.emarketer.com/content/mercado-libre-dominate-latin-american-retail-media
 
-5. **Eli Lilly Foundayo(orforglipron) FDA 승인**: 2026년 4월 1일 FDA 승인. 식사·물 제한 없이 하루 중 언제든 복용 가능한 세계 최초 GLP-1 알약. 소분자(small molecule) 비펩타이드 경구용 GLP-1 수용체 작용제 — 출처: [Eli Lilly press release](https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill) · [AJMC](https://www.ajmc.com/view/fda-approves-lilly-s-oral-glp-1-orforglipron-for-obesity)
-
-6. **Foundayo 효능**: 최고 용량 기준 72주 평균 체중 감소 12% — 출처: [Scientific American](https://www.scientificamerican.com/article/head-to-head-trial-shows-eli-lillys-oral-glp-1-orforglipron-outperforms-oral/) · [GoodRx](https://www.goodrx.com/conditions/weight-loss/orforglipron-danuglipron-new-weight-loss-drug)
-
-7. **Foundayo 가격**: 자가부담 최저 용량 $149/월, 상업보험 $25/월, Medicare(2026년 7월~) $50/월 — 출처: [GoodRx](https://www.goodrx.com/conditions/weight-loss/orforglipron-danuglipron-new-weight-loss-drug)
-
-8. **Foundayo 초기 환자 현황**: 2026년 4월 9일 약국 출시 후 어닝콜 기준 약 2만 명 치료, 이 중 80%가 GLP-1 클래스 신규 환자 — 출처: [Insider Monkey / Yahoo Finance](https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-lly-reports-q1-045705034.html)
-
-9. **Eli Lilly Q1 2026 매출 및 가이던스**: Q1 매출 $198억(전년비 +56%), Mounjaro(tirzepatide) 매출 +125%. 연간 가이던스 $820~850억으로 상향(기존 대비 $20억 상향), EPS 가이던스 $35.50~37.00 — 출처: [Insider Monkey](https://www.insidermonkey.com/blog/eli-lilly-lly-reports-q1-2026-revenue-surge-of-56-following-fda-approval-of-foundayo-1755464/) · [TIKR](https://www.tikr.com/blog/eli-lilly-reports-19-8b-q1-revenue-as-glp-1-sales-surge-56-year-over-year)
-
-10. **Foundayo 2026년 매출 전망**: 애널리스트 전망 $15~28억 — 출처: [Insider Monkey](https://www.insidermonkey.com/blog/eli-lilly-lly-reports-q1-2026-revenue-surge-of-56-following-fda-approval-of-foundayo-1755464/)
-
-11. **Medicare GLP-1 Bridge 프로그램**: 2026년 7월 1일~2027년 12월 31일, 적격 Medicare Part D 수혜자에게 GLP-1 약물 월 $50 코페이로 제공. 대상 약물: Foundayo(orforglipron), Wegovy(주사제 및 알약), Zepbound(tirzepatide KwikPen). Part D 급여 외 별도 운영 — 출처: [CMS press release](https://www.cms.gov/newsroom/press-releases/coming-soon-cms-provide-50-monthly-access-glp-1-medications-medicare-beneficiaries) · [NPR](https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay)
-
-12. **Medicare 적격 수혜자 규모**: 비만 진단 약 1400만 명, 광범위 기준 시 최대 2900만 명 접근 가능(CBO 추산) — 출처: [KFF](https://www.kff.org/medicare/what-to-know-about-the-balance-model-for-glp-1s-in-medicare-and-medicaid/) · [CBO](https://www.cbo.gov/publication/60816)
-
-13. **전체 GLP-1 시장 전망**: Goldman Sachs — 2030년 항비만 약물 시장 $950억, 그 중 구강형 알약 24~25% 점유(약 $220억). 현재 항비만 파이프라인의 43%가 경구 투여 — 출처: [Goldman Sachs via CNBC](https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html) · [Goldman Sachs](https://www.goldmansachs.com/insights/articles/anti-obesity-drug-market)
-
-14. **GLP-1 뇌 침투 연구(NIH)**: 구강형 소분자 GLP-1 약물이 뇌 깊숙한 보상 회로(reward circuit)를 직접 조절해 쾌락적 식욕을 억제한다는 NIH 지원 연구 발표. 주사제와는 다른 경로로 식욕 조절 — 출처: [NIH](https://www.nih.gov/news-events/news-releases/oral-small-molecule-glp-1-drugs-penetrate-deep-into-brain-suppress-cravings)
-
-15. **알츠하이머 임상 실패**: Phase 3 EVOKE(+) 시험 — 세마글루타이드가 알츠하이머 진행을 늦추지 못함(3800명, 2년 추적). 그러나 pTau181·pTau217 등 뇌 바이오마커 개선 확인. 연구자들: 치료보다 '예방' 용도로 효과적일 가능성 — 출처: [Nature Medicine](https://www.nature.com/articles/d41591-026-00018-2) · [Science AAAS](https://www.science.org/content/article/popular-obesity-drug-fails-hotly-anticipated-alzheimer-s-trials) · [Imperial College London](https://www.imperial.ac.uk/news/articles/medicine/brain-sciences/2026/weight-loss-drugs-and-alzheimers-disease--is-there-hope-for-future-/)
-
-16. **Wegovy 브랜드 시장 점유**: 구강형 포함 Wegovy 브랜드가 미국 신규 처방의 65% 차지 — 출처: [CNBC](https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html)
-
-17. **오바마케어 텔레헬스 폭발**: 구강형 Wegovy 출시 즉시 LifeMD 같은 텔레헬스 서비스 신규 환자 2배 (하루 300~400명 → 600~1000명) — 출처: [CNBC](https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html)
+5. **PYMNTS / GuruFocus 브라질 투자 계획** (2025-2026): 2026년 $10.9B (+50%), 28→42개 FC, 9대 화물기
+   - URL: https://www.pymnts.com/news/ecommerce/2025/mercadolibre-to-boost-investment-in-brazil-by-48
+   - URL: https://www.gurufocus.com/news/8741332/mercadolibre-meli-to-boost-brazil-investment-by-50-in-2026
 
 ---
 
-## 직접 인용 (정확한 원문만)
+## A. Q1 2026 핵심 수치 (SEC 10-Q 기준)
 
-1. "The Wegovy pill is the strongest-ever GLP-1 launch" — NVO 어닝콜 애널리스트 평가, CNBC, 2026년 5월 6일 [CNBC](https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html)
+| 지표 | Q1 2026 | Q1 2025 | YoY |
+|------|---------|---------|-----|
+| 매출 | $8,845M | $5,935M | **+49%** |
+| 운영이익 | $611M | $763M | -20% |
+| 순이익 | $417M | $494M | -16% |
+| EPS | $8.23 | — | vs 예상 $9.37 (**미스 -12%**) |
+| 운영마진 | 6.9% | 12.9% | **-600bp** |
 
-2. "Foundayo is the only GLP-1 pill for weight loss that can be taken any time of day without food or water restrictions" — Eli Lilly 공식 발표, 2026년 4월 1일 [Eli Lilly](https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill)
+- 주가 반응: 발표 당일 **-7%** 급락
+- 매출은 Q2 2022 이후 가장 빠른 성장률, 예상 대비 +6.76% 서프라이즈
 
-3. "Daily oral pills will capture approximately 25% share of the anti-obesity medication market by the end of the decade" — Goldman Sachs Research [Goldman Sachs](https://www.goldmansachs.com/insights/articles/anti-obesity-drug-market)
+## B. 사업 부문별 성과
+
+### 커머스 (이커머스)
+- 브라질 GMV: **+38%** (환율 중립 기준)
+- 품목 판매량: **+56%** (분기 기록)
+- 브라질 신규 독립 활성 구매자: **+17M명** (역대 최대)
+- 전체 라틴아메리카 총 활성 구매자: **1억 2천만 명+**
+- 무료배송 임계값 인하 전략 = 핵심 성장 엔진 (2024년 취율 인하 시작 이후 가속)
+
+### 핀테크 (Mercado Pago)
+- 총 결제액(TPV): **$87.2B (+50% YoY)**
+- 신용카드 TPV: **+90% YoY**
+- 신용 포트폴리오: **$14.6B (+87% YoY)**
+- 운용자산(AUM): **$19.9B (+77% YoY)**
+- 월간 활성 사용자(MAU): +29% (전체) / +68% (신용 관련)
+- 90일 NPL(부실여신비율): **6.8%** (1년 전 7.8%에서 개선)
+- TPV가 GMV의 **4배**를 초과 → 생태계 내 독립적 성장
+
+## C. 마진 압박 원인 분해 (워터폴 분석)
+
+운영마진 -600bp의 구성 요인:
+- **대손충당금 +3.9pp**: 신용 포트폴리오 +87% → 신규 대출에 즉시 충당금 설정 의무 (IFRS 9 기준)
+- **COGS +3.0pp**: 무료배송 임계값 인하 → 물류비용 직접 반영
+- **마케팅/판매비 +1.0pp**: 브라질 쿠폰·인센티브 $19M+ 강화
+- **G&A 개선 -0.6pp**: 효율화로 일부 상쇄
+- **제품개발 -1.4pp**: AI 고객서비스(85% 자동화) 비용 효율
+
+**핵심 메커니즘**: 신용 포트가 성장할수록 → 대출 만기 연장(5개월→8개월) → 충당금 폭발적 증가 → 단기 EPS 억압 → 장기 이자수익 상승 기대
+
+## D. 역사적 매출 성장 시계열
+
+| 연도 | 연간 매출 | YoY 성장 |
+|------|----------|---------|
+| 2023 | $14.95B | — |
+| 2024 | $20.77B | +39% |
+| 2025 | $28.89B | +39% |
+| Q1 2026 | $8.85B(분기) | +49% |
+
+- 5년 평균 CAGR: **48.7%**
+- **28연속 분기** 매출 성장률 30%+ 달성
+- 2025 운영 현금흐름: $12.12B (+53% YoY)
+- 2025 순이익: $1.99B
+
+## E. 브라질 투자 사이클 (물리적 인프라 로드맵)
+
+| 연도 | 투자 규모 | 핵심 내용 |
+|------|---------|---------|
+| 2024 | $4.6B | 풀필먼트 10→21개 목표 |
+| 2025 | $5.8B (+26%) | Bloomberg 보도, 직원 14,000명 채용 |
+| 2026 | **$10.9B (+88%)** | 14개 신규 FC (28→42개), 9대 화물기 |
+
+- 2026년 브라질 직원 수 **70,000명** 돌파 목표
+- 동북·중서·남부 지역 FC 63% 집중 배치
+
+## F. 시장 포지션 (경쟁 현황)
+
+### LatAm 이커머스
+- MELI 시장점유: **약 50%+** (브라질+멕시코+아르헨티나 등 18개국)
+- Amazon LatAm: **16% 이하** (하락 추세)
+- Shein·Shopee·Temu: 경쟁 심화 → Black Friday 2025에 MELI 쿠폰 방어 투자
+- 브라질 이커머스 시장 규모: $69.2B (2026), 2031년 $150.9B (CAGR 16.87%)
+
+### LatAm vs 글로벌 이커머스 침투율 비교
+| 지역 | 이커머스 침투율 | 비고 |
+|------|--------------|------|
+| 중국 | ~50% | 글로벌 최고 |
+| 미국 | 15.8% | 성숙 시장 |
+| **라틴아메리카** | **12-15%** | **가장 빠른 성장** |
+| 동남아시아 | 14→23% 예상 | 유사 성장 단계 |
+
+- LatAm 디지털 쇼핑 인구: 약 3억 명, 2029년까지 **+44% 증가** 예상
+- 2026년 라틴아메리카 총 온라인 지출 중 **30%**가 MELI (2022년 25%에서 상승)
+
+## G. 밸류에이션 스냅샷 (2026-05-08 기준)
+
+| 지표 | 수치 |
+|------|------|
+| 시가총액 | $93.79B |
+| 트레일링 PE | 47x |
+| 포워드 PE | 37x |
+| 10년 평균 PE | 319x |
+| 현재 PE vs 역사 평균 | **-87% 할인** |
+| 애널리스트 컨센서스 | **Strong Buy** (10B / 2H / 0S) |
+| 평균 목표가 | $2,639~$2,666 |
+| 현재가 대비 업사이드 | **+40~52%** |
+| 주가 ATH (2025-07-01) | $2,645 |
+| ATH 대비 현재 | **~-30%** |
+
+- JP모건: 유일 Neutral 다운그레이드 (이례적)
+- Cantor Fitzgerald: Overweight $2,900 유지
+- Morgan Stanley: Buy $2,600 유지
+- Q1 후 평균 목표가 소폭 하향 ($2,639 → $2,440 일부 조정)
+
+## H. Bull vs Bear 케이스
+
+### Bull 케이스
+- 투자 사이클 2026 피크 → 2027 운영레버리지 실현 (아마존 모델 복기)
+- LatAm 이커머스 침투율이 미국의 절반 → 구조적 성장 10년+
+- Mercado Pago TPV $87B → GMV 4배 초과 (핀테크 독립 성장)
+- 현재 PE 47x는 10년 평균 319x 대비 87% 할인 → 역사적 저평가
+- AI 고객서비스 85% 자동화 → 장기 인건비 레버리지
+- 애널리스트 컨센서스 Strong Buy, 평균 +40% 업사이드
+- 자체 운영 현금흐름 $12.12B → 투자 지속 능력 (Shopee와의 차이점)
+
+### Bear 케이스
+- 3연속 EPS 미스 → 경영진 이익 예측 신뢰도 훼손
+- 통화 손실 $337M 구조적 (BRL/MXN 환율 변동 헤지 한계)
+- 신용 포트폴리오 $14.6B → NPL 6.8%도 절대 규모 기준 증가
+- 브라질 고금리 (Selic 12~13%) → 소비자 신용 악화 가능성
+- 운영마진 12.9% → 6.9% 급락이 일시적인지 구조적인지 불명확
+- Shein·Shopee의 LatAm 공세 강화
+
+## I. SEA Limited (Shopee) 선례 — 투자 사이클의 교훈 및 MELI와의 비교
+
+| 시점 | Shopee 현황 | MELI 현황 |
+|------|------------|---------|
+| 2020~2022 | 공격적 확장, EBITDA -$878M (Q4 2021) | 성장 가속화 |
+| 2022 위기 | Garena 현금 소멸 → 강제 철수 | — |
+| 2022 Q4 | 첫 EBITDA 흑전 ($196M) | 성장 지속 |
+| 2024 | 첫 연간 흑자 ($162.7M) | $20.77B 매출 |
+| 2026 | 25% GMV 성장 목표 | $8.85B 분기 매출 (연환산 $35B+) |
+
+**핵심 차이**: MELI는 외부 자금 의존 없이 자체 운영 현금흐름 $12.12B으로 투자 집행 → Shopee처럼 강제 축소 위험 없음. 단, 흑전 시점은 여전히 시장이 판단 중.
 
 ---
 
-## 숫자 데이터 (검증 가능한 것만)
+## 출처 URL 목록 (완전)
 
-1. 구강형 Wegovy Q1 처방: 130만 건 — 출처: [BioPharma Dive](https://www.biopharmadive.com/news/novo-nordisk-wegovy-pill-sales-prescriptions-q1-2026/819418/)
-2. 구강형 Wegovy Q1 매출: $3억5400만 (예상 대비 +95%) — 출처: [TIKR](https://www.tikr.com/blog/novo-nordisk-q1-2026-wegovy-pill-doubles-estimates-as-nvo-stock-recovers)
-3. 구강형 Wegovy 효능: 16.6% 체중 감소 (OASIS 4 trial) — 출처: [AJMC](https://www.ajmc.com/view/fda-approves-oral-semaglutide-as-first-glp-1-pill-for-weight-loss)
-4. Foundayo 효능: 12% 체중 감소 (Phase 3 최고 용량, 72주) — 출처: [GoodRx](https://www.goodrx.com/conditions/weight-loss/orforglipron-danuglipron-new-weight-loss-drug)
-5. 주사제 GLP-1 효능: 20%+ 체중 감소 (Zepbound/Wegovy 주사제 기준) — 출처: [GoodRx](https://www.goodrx.com/conditions/weight-loss/orforglipron-danuglipron-new-weight-loss-drug)
-6. $LLY Q1 매출: $198억 (+56% YoY) — 출처: [Insider Monkey](https://www.insidermonkey.com/blog/eli-lilly-lly-reports-q1-2026-revenue-surge-of-56-following-fda-approval-of-foundayo-1755464/)
-7. Mounjaro 매출 성장: +125% QoQ — 출처: [247wallst](https://247wallst.com/investing/2026/05/04/eli-lilly-captures-60-of-the-glp-1-market-as-mounjaro-revenue-soars-125/)
-8. Medicare 비만 수혜자: 1400만 명(진단 기준) ~ 2900만 명(CBO 광범위 기준) — 출처: [KFF](https://www.kff.org/medicare/what-to-know-about-the-balance-model-for-glp-1s-in-medicare-and-medicaid/)
-9. 2030년 Goldman Sachs 항비만 시장 전망: $950억, 구강형 비중 24~25% — 출처: [Goldman Sachs](https://www.goldmansachs.com/insights/articles/anti-obesity-drug-market)
-10. EVOKE(+) 알츠하이머 임상: 3800명 대상, 2년 추적, Phase 3 실패 — 출처: [Nature Medicine](https://www.nature.com/articles/d41591-026-00018-2)
-11. 항비만 파이프라인 중 경구 투여 비중: 43% — 출처: [CNBC 1월](https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html)
-
----
-
-## 관련 종목
-
-- $NVO (Novo Nordisk): 구강형 Wegovy 주도, 65% 신규처방 점유. Q1 매출 +32%
-- $LLY (Eli Lilly): Foundayo FDA 승인, Q1 $198억 +56%, GLP-1 시장 점유 60%
-- $VRTX (Vertex Pharmaceuticals): 관심 종목 인접, 희귀질환 포트폴리오 다각화 필요성
-- $AMGN (Amgen): 경구 비만 파이프라인 보유
-
----
-
-## 반론/리스크
-
-1. **효능 격차**: 구강형 알약 최대 17%(Wegovy) vs 주사제 20%+. 알약이 주사제를 완전히 대체하기에는 여전히 효능 차이
-2. **중단 시 체중 회복**: GLP-1 약물 중단 후 2년 내 체중 재증가 리뷰 연구 (CNN, 2026년 1월)
-3. **안전성 이슈**: FDA, LLY Foundayo 관련 간부전(liver failure) 보고서 발행 후 주가 변동 (TheStreet, 2026년)
-4. **바이오시밀러 위협**: NVO의 Ozempic/Rybelsus 특허 만료 시 제네릭 침투, NVO가 2026년 가이던스를 -4%~-12%로 하향한 배경
-5. **알츠하이머 임상 실패**: 세마글루타이드의 알츠하이머 Phase 3 EVOKE(+) 실패 → GLP-1 '뇌 만병통치약' 기대감 과장 리스크
+1. SEC 10-Q Q1 2026 (StockTitan): https://www.stocktitan.net/sec-filings/MELI/10-q-mercadolibre-inc-quarterly-earnings-report-45532b4fae60.html
+2. 어닝콜 트랜스크립트 (Motley Fool): https://www.fool.com/earnings/call-transcripts/2026/05/07/mercadolibre-meli-q1-2026-earnings-transcript/
+3. 어닝콜 요약 (Investing.com): https://www.investing.com/news/transcripts/earnings-call-transcript-mercadolibre-q1-2026-shows-strong-revenue-growth-93CH-4670845
+4. Q1 슬라이드 분석 (Investing.com): https://www.investing.com/news/company-news/mercadolibre-q1-2026-slides-49-revenue-surge-masks-margin-pressure-93CH-4670917
+5. GuruFocus Q1 실적: https://www.gurufocus.com/news/8845684/mercadolibre-meli-reports-strong-q1-2026-earnings-with-49-revenue-growth
+6. AlphaStreet 마진 분해: https://news.alphastreet.com/mercadolibre-meli-grows-49-in-q1-as-brazil-investments-pressure-margins/
+7. StockStory Q1 딥다이브: https://stockstory.org/us/stocks/nasdaq/meli/news/earnings-call/meli-q1-deep-dive-strategic-investment-drives-revenue-growth-but-compresses-margins
+8. eMarketer 시장점유: https://www.emarketer.com/content/mercado-libre-dominate-latin-american-retail-media
+9. PYMNTS 브라질 투자: https://www.pymnts.com/news/ecommerce/2025/mercadolibre-to-boost-investment-in-brazil-by-48
+10. GuruFocus 브라질 투자 50%: https://www.gurufocus.com/news/8741332/mercadolibre-meli-to-boost-brazil-investment-by-50-in-2026
+11. Bloomberg 브라질 $5.8B 투자 2025: https://www.bloomberg.com/news/articles/2025-04-07/mercadolibre-to-invest-5-8-billion-in-brazil-hire-14-000
+12. Mordor Brazil Ecommerce Market: https://www.mordorintelligence.com/industry-reports/brazil-ecommerce-market
+13. 24/7WallSt 애널리스트 컨센서스: https://247wallst.com/investing/2026/04/14/mercadolibre-stock-is-down-9-in-2026-but-wall-street-still-sees-36-upside/
+14. Mercado Pago 리스크 (Yahoo Finance Motley Fool): https://www.fool.com/investing/2026/02/24/is-mercado-pago-a-growth-engine-or-a-hidden-risk-i/
+15. Sea Limited 흑전 선례 (CNBC): https://www.cnbc.com/2024/03/05/singapores-sea-limited-posts-first-profitable-year.html
+16. Amazon vs MELI 비교 (Investing.com): https://www.investing.com/analysis/amazon-vs-mercadolibre-diverging-growth-paths-define-2026s-tech-divide-200669926
+17. MELI 투자자관계: https://investor.mercadolibre.com/sec-filings
+18. Yahoo Finance Q1 Earnings Call Highlights: https://finance.yahoo.com/markets/stocks/articles/mercadolibre-q1-earnings-call-highlights-072542172.html

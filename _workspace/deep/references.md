@@ -1,40 +1,58 @@
-# 레퍼런스 기사 분석
+# 레퍼런스 기사 분석 — MELI 딥다이브 (2026-05-09)
 
-## 레퍼런스 기사
+## 레퍼런스 1: "MercadoLibre Q1 Deep Dive: Strategic Investment Drives Revenue Growth but Compresses Margins" — StockStory (2026-05-08)
 
-### 1. "Deep Dive: Oral Obesity Drugs on the Cusp" — BioSpace
-URL: https://www.biospace.com/drug-development/deep-dive-oral-obesity-drugs-on-the-cusp
+**구조 분석**:
+- 리드: Q1 핵심 수치 (매출 +49%, EPS 미스) → 즉각 긴장감 조성
+- 마진 워터폴 분석: 원인별 수치 분해 (+3.9pp 대손충당금 등)
+- 브라질 투자 전략의 논리 설명
+- 결론: 단기 EPS 압박 vs 장기 복리 성장 논쟁
 
-- **구조**: 제목 → 크리스프한 리드(숫자로 문제 설정) → 기업별 파이프라인 나열 → 메커니즘 설명 → 시장 전망 → 투자 시사점
-- **문체**: 전문적이지만 접근성 높은 영어. 소분자(small molecule) vs 펩타이드 구분을 명확히 설명. 기술 용어를 일반 독자에게 풀어줌
-- **도입부**: "The race to replace the needle is on." 식의 긴장감 있는 첫 문장으로 경쟁 구도를 시사
-- **숫자 활용**: 효능(%체중 감소), 시장 규모($), 처방 건수를 각 섹션에서 앵커처럼 활용
-- **배울 점**: 기술적 메커니즘 차이(펩타이드 vs 소분자, 복용 제한 여부)를 이야기 중간에 자연스럽게 배치. 독자가 "왜 이게 다르냐"를 알아야 다음 문단이 이해됨
+**문체 포인트**:
+- 숫자를 raw하게 제시하고 바로 맥락 설명
+- 중립적 톤 — "전략적 선택의 결과" vs "과도한 투자" 양면 제시
 
-### 2. "Novo Nordisk faces 'must-win' battle over U.S. Wegovy, Ozempic in 2026" — CNBC
-URL: https://www.cnbc.com/2026/01/01/novo-nordisk-faces-must-win-battle-over-us-wegovy-ozempic-in-2026.html
-
-- **구조**: 긴장감 높은 제목(must-win battle) → NVO의 위기 상황 설정 → 리더 발언 인용 → 경쟁자(Lilly) 등판 → 바이오시밀러 위협 → 구강형 전략 → 결론
-- **문체**: 비즈니스 저널리즘 특유의 '갈등 구조' 활용. 승자가 없는 상황에서 독자가 긴장하게 만듦
-- **도입부**: 기업이 처한 구조적 위기를 선명하게 제시. "must-win"이라는 단어로 독자를 즉각 끌어당김
-- **숫자 활용**: 주가 하락 폭, 매출 성장률 대비 기대치, 경쟁사 시장 점유율을 대비로 사용
-- **배울 점**: '기업 입장의 압박감'을 독자에게 공유. 투자자도 같은 긴장감을 느끼게 만드는 서사 구조. 반박(risks)을 중반에 배치해 균형감 유지
-
-### 3. "2026 is the year of obesity pills" — CNBC
-URL: https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html
-
-- **구조**: 연도 선언형 제목 → 대형 숫자로 시장 의미 부여 → 두 기업의 전략 대비 → Goldman Sachs 등 시장 예측 인용 → 규제·접근성 이슈 → 2026 전망
-- **문체**: 선언적(declarative). "This is the year." 스타일. 독자에게 역사적 변곡점에 있다는 감각을 줌
-- **도입부**: 연도를 주어로 삼아 '시대가 바뀐다'는 감각 즉각 전달
-- **숫자 활용**: Goldman Sachs 전망, 파이프라인 내 경구 비중(43%) 같은 구조적 데이터 활용으로 트렌드 정당화
-- **배울 점**: 특정 연도를 '티핑포인트'로 프레이밍하는 방식. 우리 기사에서 2026년을 GLP-1 역사의 전환점으로 명명하는 데 사용 가능
+**URL**: https://stockstory.org/us/stocks/nasdaq/meli/news/earnings-call/meli-q1-deep-dive-strategic-investment-drives-revenue-growth-but-compresses-margins
 
 ---
 
-## 우리 글에 적용할 기법
+## 레퍼런스 2: "Amazon vs. MercadoLibre: Diverging Growth Paths Define 2026's Tech Divide" — Investing.com (2026)
 
-1. **긴장감 있는 첫 문장**: "3개월 사이, 세계에서 가장 많이 팔리는 약이 알약으로 바뀌었다" 식의 선언
-2. **기술 차이 설명**: 펩타이드(Wegovy 주사) vs 소분자(Foundayo)를 독자가 납득할 수 있게 1~2문장으로 풀기
-3. **기업 입장 긴장감**: Novo는 바이오시밀러 위협 + Lilly 추격이라는 이중 압박, Lilly는 늦게 출발한 만큼 메디케어를 발판 삼아야 하는 상황
-4. **Goldman Sachs 앵커 수치 사용**: "2030년까지 알약이 $220억 시장" 숫자를 본문 중간 앵커로 사용
-5. **마무리 질문형**: "다음 10년, 주사기 없이 몸무게를 관리하는 세계는 가능한가?"
+**구조 분석**:
+- 두 기업의 전략 대비 (성숙 vs 확장)
+- 넷 마진 비교: MELI 5.68% vs AMZN 11.76%
+- 아마존의 AWS 수익 모델이 왜 MELI에는 없는가
+- 투자자 관점: 어느 쪽이 더 좋은 리스크/보상?
+
+**문체 포인트**:
+- 비교 테이블 효과적 활용
+- 스토리 구조: 공통 출발 → 분기점 → 현재 결론
+
+**URL**: https://www.investing.com/analysis/amazon-vs-mercadolibre-diverging-growth-paths-define-2026s-tech-divide-200669926
+
+---
+
+## 레퍼런스 3: "The Latin American Flywheel: A 2026 Deep-Dive Research Feature on MercadoLibre (MELI)" — Finterra/FinancialContent (2026-02-27)
+
+**구조 분석**:
+- "플라이휠" 은유로 생태계 설명
+- 이커머스 → 결제 → 신용 → 물류 → 광고 순환 구조 도해
+- 장기 역사적 성장 그래프 삽입
+- 국제 비교: SEA Limited와 나란히 놓기
+
+**문체 포인트**:
+- 산업 레이어를 점층적으로 쌓는 서사 구조
+- "라틴아메리카판 아마존" 단순화 함정을 지적하는 비판적 시각 포함
+
+**URL**: https://markets.financialcontent.com/stocks/article/finterra-2026-2-27-the-latin-american-flywheel-a-2026-deep-dive-research-feature-on-mercadolibre-meli
+
+---
+
+## 문체 가이드라인 (도출)
+
+1. **긴장감 있는 리드**: 수치 제시 + "왜?"로 의문 유발
+2. **마진 vs 성장 이분법** 명확히 제시 후 해체
+3. **플라이휠 시각화**: 생태계 상호 강화 효과를 글로 묘사
+4. **역사적 기업 비교**: Amazon/Shopee 선례로 독자 패턴 인식
+5. **투자자 시사점**: 막연한 "유망하다"가 아닌 구체적 진입 조건 제시
+6. **불/베어 양면 반드시 포함**: 중립성 유지하며 독자 판단 지원
