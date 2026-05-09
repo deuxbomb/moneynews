@@ -1,40 +1,54 @@
 
 ---
 
-## 📰 오늘의 뉴스 — 12시간 이내 검증 기사
+## 📰 이번 주 증시: 일자리가 역사를 다시 썼다
 
-### 💼 "두 배 서프라이즈" — NFP가 시장의 방향을 바꿨다
-
-4월 비농업고용(NFP)이 +115,000명을 기록하며 월가 컨센서스(~62,000명)를 두 배 가까이 상회했다. 실업률 4.3%로 안정. 미국 노동시장이 "식어가고 있지만 여전히 탄탄하다"는 신호다. 프리마켓은 즉각 반응했다 — S&P 500 선물 +0.6%, 나스닥 +0.9%, 다우 +0.4%. 석 달간의 고용 걱정을 한 방에 날린 이 숫자가 오늘 밤 뉴욕 장 개장의 기조를 결정한다. 단, 강한 고용이 Fed 금리인하를 늦출 것이라는 해석도 동시에 나오고 있다. 채권 금리 움직임을 함께 봐야 한다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
+4월의 마지막 숫자가 공개된 금요일(5/8), 월가는 축제 분위기였다. 예상치의 두 배에 가까운 고용지수가 발표되자 오전 9시 30분 개장 벨과 동시에 매수세가 쏟아졌다. S&P 500이 7,398.93으로 사상 최고치, 나스닥이 26,247.08로 사상 최고치, 러셀 2000도 신고가. 3대 지수가 동시에 사상 최고를 기록한 날이다. 이란 군사 긴장이 지속됐지만 시장은 "경제가 이렇게 강하면 뭘 겁내냐"는 분위기였다. 6주 연속 상승, 2024년 이후 최장 연속 랠리가 계속되고 있다. [[TheStreet](https://www.thestreet.com/latest-news/stock-market-today-may-8-2026-updates)]
 
 ---
 
-### 💊 금요일 테마: 헬스케어 — "몸이 가장 비싼 자산이다"
+## 🎬 소비재·미디어·엔터: 실적 폭탄 주의보, 그리고 서프라이즈
 
-**① $LLY 간독성 공방 — 애널리스트들이 막아섰다**
-FDA 이상반응 데이터베이스에 Foundayo(orforglipron) 관련 간부전 1건이 등록되면서 릴리 주가는 프리마켓에서 -3%까지 밀렸다. 하지만 월가는 흔들리지 않았다. 릴리는 "7개 Phase 3 트라이얼, 11,000명 이상 임상에서 간 이상 신호 제로"라고 반박했고, FDA도 현재 추가 데이터 요청 수준에 머물고 있다. 분석가들은 "케이스 1개는 통계적으로 신호가 아니다"라며 오히려 저점 매수를 권고했다. Q1 매출 $19.8B(+56%), 연간 가이던스 $82~85B — 실적이 안전 논란을 압도하는 흐름이다. [The Street](https://www.thestreet.com/investing/stocks/eli-lilly-stock-swings-after-fda-liver-failure-report-for-glp-1-drug) · [BioSpace](https://www.biospace.com/drug-development/foundayos-liver-failure-blip-weighs-down-lilly-shares-but-analysts-unconcerned)
+### 1. 디즈니가 +88% 스트리밍 이익으로 돌아왔다
 
-**② $CYTK 심장 임상 성공 — FDA 신청 카운트다운**
-Cytokinetics의 ACACIA-HCM Phase 3가 지난 5일 두 개의 1차 엔드포인트를 모두 충족했다. 비폐쇄성 비대성 심근증(nHCM) 환자 276명에서 삶의 질(KCCQ) 및 운동 능력(pVO2)을 통계적으로 유의미하게 개선했다. Truist는 목표가를 $106으로 상향했다. 회사는 FDA 및 글로벌 규제당국과의 협의를 시작해 NDA 제출을 준비한다. MYQORZO가 폐쇄성 HCM 시장에서 이미 수익을 내고 있다는 점에서 이번 적응증 추가는 매출을 2배 이상 확장시킬 수 있다. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/05/3287549/35409/en/cytokinetics-announces-positive-topline-results-from-acacia-hcm-the-pivotal-phase-3-clinical-trial-of-aficamten-in-patients-with-non-obstructive-hypertrophic-cardiomyopathy.html)
+올 회계연도 Q2 실적에서 디즈니는 시장의 기대를 완전히 초과달성했다. EPS $1.57(예상 $1.50), 매출 $25.17B(예상 $24.85B). 가장 극적인 숫자는 스트리밍 이익 — 전년 대비 +88% 성장해 $582M을 기록했다. "스트리밍은 돈이 안 된다"는 고정관념을 정면으로 깨뜨렸다. 신임 CEO 조시 다마로는 콘텐츠 투자를 연 $24B으로 유지하면서도, 운영 효율화를 통해 마진을 높이는 이중 전략을 제시했다. 주가는 당일 +8% 급등. Goldman Sachs, JP모건, Guggenheim이 일제히 목표가를 상향했다. 배경: 디즈니플러스 글로벌 구독자 확대 + 파크 부문 매출 +7% 성장 + $8B 자사주매입 상향. 전망: ESPN 직접판매(DTC) 출시가 하반기 최대 카탈리스트. NFL·NBA 중계권과 결합하면 스포츠 스트리밍 시장의 지각이 바뀔 수 있다. [[Investing.com](https://www.investing.com/analysis/disney-stock-surges-8-on-beatandraise-q2-results-200679894)]
 
-**③ NFP 헬스케어 +37,000명 — 섹터 성장세 현실 확인**
-4월 고용에서 가장 많은 일자리를 만든 업종은 헬스케어(+37,000명)였다. 미국 인구 고령화와 의료 수요 증가가 구조적 트렌드로 자리 잡았음을 보여준다. 병원, 외래 진료, 요양 시설 모두 채용을 늘리고 있다. $OHI(Omega Healthcare REIT)와 같은 헬스케어 인프라 종목에도 긍정적 신호다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
+### 2. 게임의 왕국, 55조 원에 팔렸다 — EA, 역사상 최대 테이크프라이빗
 
----
+Electronic Arts가 사우디아라비아 국부펀드(PIF), 실버레이크, 재러드 쿠슈너의 어피니티 파트너스 컨소시엄에 **$55B(약 74조 원)**에 팔린다. 주당 $210 현금 인수, 거래 종결 목표는 2026년 Q2 — 지금이 그 시점이다. FIFA, 심즈, 배틀필드, 에이펙스 레전드 등 수십 개 프랜차이즈를 보유한 회사가 역사상 최대 규모의 테이크프라이빗으로 사라진다. FY26 순매출 $8.03B(+9% YoY, 사상 최고)를 기록한 직후다. 사우디가 스포츠(뉴캐슬, LIV 골프, F1)에 이어 게임까지 집어삼키는 '소프트파워 포트폴리오' 전략이 완성 단계다. 전망: 거래 종결 이후 EA는 상장 폐지되며, 단기 아비트라지 투자자들은 이미 $210 근방에서 포지션을 청산 중이다. [[EA 공식](https://ir.ea.com/press-releases/press-release-details/2025/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-55-Billion/default.aspx)]
 
-### 🏢 기업 뉴스
+### 3. 넷플릭스: NFL 딜 협상 + $25B 자사주매입 추가 승인
 
-**$TSLA | "Frost Blue와 Marine Blue — 테슬라가 하늘을 팔기 시작했다"**
-테슬라가 오늘 Model Y와 Model 3 고급형 트림에 두 가지 새 블루 색상(Frost Blue Metallic, Marine Blue)을 출시했다. 기존 Deep Blue Metallic을 대체하는 이 색상들은 소비자 선택지를 다양화하는 제품 라인업 강화 전략의 일환이다. 한편 Cybercab과 Semi, Megapack 3는 2026년 양산 일정이 예정대로 진행 중이다. 주가는 +3.28%로 반등 중 — 얼마 전 대규모 리콜 공시에도 흔들리지 않았던 내성이 오늘도 작동하고 있다. [Tesla Oracle](https://www.teslaoracle.com/2026/05/08/tesla-launches-new-blue-colors-for-model-y-and-model-3-upper-trims/)
-
-**$NVDA | "12일 후, 진짜 시험이 온다"**
-NVDA가 프리마켓에서 +0.9%($213.40) 상승 중이다. 시장의 시선은 이미 5월 20일 Q1 FY27 어닝에 쏠려 있다. 핵심 체크포인트는 세 가지: ① Blackwell GPU 수요가 예상대로 폭발적인가, ② 중국 수출 규제 강화가 매출에 얼마나 영향을 주는가, ③ 하이퍼스케일러(GOOGL·MSFT·META·AMZN)의 데이터센터 capex가 NVDA에 실질적으로 얼마나 떨어지는가. 최근 Micron(MU)이 주간 +25% 랠리로 신고가를 기록한 것도 반도체 섹터 전반의 기대감을 높이는 요인이다. [Yahoo Finance](https://finance.yahoo.com/quote/NVDA/)
-
-**$COIN | "시장 점유율 최고치, 순익은 최저치"**
-코인베이스가 5월 7일 장 마감 후 Q1 2026 실적을 공개했다. 매출 $1.41B — 예상($1.48B)을 하회했고, GAAP 순손실은 $394M($1.49/주). BTC 보유 자산의 미실현 손실($482M)이 주요 원인이다. 그러나 조정 EBITDA는 $303M으로 13분기 연속 흑자를 유지했다. 역설적으로 거래량 기준 시장 점유율은 사상 최고인 8.6%를 기록했다. 오늘 주가는 -2.53%($192.96) 마감. 오늘 저녁 어닝콜에서 CEO 암스트롱이 제시할 Q2 가이던스와 비용 절감 로드맵이 주가 방향을 결정한다. [CoinDCX](https://coindcx.com/blog/us-stock/coinbase-q1-2026-earnings-results/)
+넷플릭스가 NFL과의 중계권 협상에서 "호주 시즌 오프너 + 추수감사절 전날 경기"를 포함한 패키지 합의에 근접했다. 스포츠 라이브 스트리밍의 마지막 퍼즐 조각을 채우는 시도다. 동시에 이사회는 자사주매입 한도를 $25B 추가해 총 $55B로 확대했다. 워너브라더스-디스커버리가 넷플릭스와의 계약 해지로 **$2.8B 위약금**을 지불했다는 소식도 전해졌다 — 그만큼 넷플릭스 플랫폼이 콘텐츠 파트너들에게 필수 채널이 됐다는 반증이다. 배경: Q1 2026에서 내부자(Co-CEO Peters·CFO Neumann)들의 주식 매도가 눈에 띄었지만, $55B 자사주매입 프로그램은 회사 차원의 자신감 신호다. [[Motley Fool](https://www.fool.com/investing/2026/05/02/is-this-acquisition-a-game-changer-for-netflix/)]
 
 ---
 
-### 🤖 "로봇이 코스피를 구했다" — 보스턴 다이내믹스·현대차그룹의 하루
+## 🏢 기업 뉴스: 와치리스트 종목 이번 주 이야기
 
-오늘 한국 증시의 주인공은 단연 현대차그룹이었다. 보스턴 다이내믹스가 공개한 아틀라스 '개발형 모델' — 공중 회전과 체조 동작을 수행하는 양산형 휴머노이드 로봇 — 이 글로벌 반향을 일으키면서 현대오토에버 +29.97%, 현대모비스 +22.42%, 현대차 +7.17%, 기아 +4.38%의 폭등을 연출했다. 여기에 보스턴 다이내믹스의 나스닥 IPO 결정 시한이 6월 말로 임박했다는 소식이 맞물리며 기대감이 증폭됐다. 2028년 조지아 HMGMA(현대차그룹 메타플랜트 아메리카) 배치 계획이 구체화되면서 "현대차는 이제 EV 회사가 아닌 로봇 회사"라는 내러티브가 빠르게 자리를 잡고 있다. [스마트비즈](https://www.smartbizn.com/news/articleView.html?idxno=143450) · [헤럴드경제](https://biz.heraldcorp.com/article/10734016)
+### $TSLA — 스페이스X 테라팹과 세미 대형 딜
+
+이번 주 테슬라 관련 가장 큰 뉴스는 **스페이스X 테라팹** 공개다. SpaceX가 텍사스 그라임스 카운티에 $55B(초기)~$119B(최종) 규모의 반도체 팹 건설 계획을 제출했다. 테슬라·xAI·인텔이 공동 참여하며, 1년에 AI 컴퓨팅 **1테라와트** 용량의 칩을 생산하는 게 목표다. 테슬라 AI5 칩의 소규모 생산이 2026년 내 시작될 전망. 한편, 물류 전기화 전선에서도 성과가 나왔다. WattEV가 포트 오브 오클랜드 연계 화물 전기화 프로젝트의 일환으로 **테슬라 세미 370대($100M)**를 주문했다. 캘리포니아 역사상 최대 규모 전기트럭 단일 주문이다. 그리고 FSD 누적 주행이 **100억 마일**을 돌파했다 — 머스크가 "비감독 주행 가능"의 임계점으로 언급했던 숫자다. [[TechCrunch](https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/)] · [[Zacks](https://www.zacks.com/stock/news/2918248/tesla-lands-record-100m-deal-for-370-semi-trucks-in-california)]
+
+### $NVDA — D-11, 역사가 쓰이는 카운트다운
+
+5월 20일(수) 장 마감 후 NVIDIA가 Q1 FY2027 실적을 발표한다. 시장 컨센서스는 매출 성장률 +78%를 예상한다. "블랙웰 아키텍처 수요 초과 vs 중국 수출 제재 리스크"가 핵심 변수다. 이번 주 주가는 $212~$217 박스권에서 숨을 고르며 결전을 기다렸다. 가이던스가 컨센을 초과하면 시총 4조 달러 돌파 시도가 예상된다. [[MarketBeat](https://www.marketbeat.com/originals/nvidias-china-connection-investor-risks-with-earnings-ahead/)]
+
+### $COIN — Q1 쇼크 딛고 반등 시도
+
+Coinbase가 Q1 2026 실적을 공개했다: 매출 $1.4B, **순손실 $394M**. 워낙 암호화폐 가격이 변동성을 보인 분기라 시장도 어느 정도는 예상한 미스였다. CEO는 인력의 14%를 감원하는 구조조정 플랜을 함께 공개했다. 아이러니하게도 이 발표 이후 주가는 +2.5% 반등 — "최악의 소식이 이미 가격에 반영됐다"는 해석이다. 분석가 30인 컨센서스 목표가는 $303.87(현재 대비 +54%).
+
+### $OKLO — NVDA와 손잡고, 4월 +46% 사상 최고 행진 후 숨 고르기
+
+지난주 OKLO는 **NVIDIA·로스알라모스 국립연구소와 AI 기반 핵연료 연구·원자로 개발 협력** MOU를 체결했다. NRC의 Aurora 원자로 설계 기준 승인도 이어졌다. 4월 한 달 동안 +46.2%를 올린 주가는 5월 들어 차익실현 압박을 받으며 $73 근방에서 숨을 고르고 있다. HSBC는 $96 매수 의견으로 신규 커버리지를 개시했다. [[Motley Fool](https://www.fool.com/investing/2026/05/08/why-oklo-stock-surged-46-in-april/)]
+
+---
+
+## 💡 흥미로운 이야기
+
+### 1. 한국 버핏지수 260% — 과열인가, 재평가인가
+
+코스피 시총/GDP 비율이 260.71%로 20년 만의 최고치를 기록했다. 외국인 매수세 + 국내 기업 밸류업 + 반도체 사이클 반등이 만든 합작품이다. 그러나 코스피 선행 PER은 여전히 7~8배 — 미국(20배), 중국(14배)의 절반에도 못 미친다. 코스피 7,500 돌파의 의미가 "버블"인지 "정당한 재평가"인지는 투자자의 시간 지평이 결정한다. [[파이낸셜뉴스](https://www.fnnews.com/news/202605090901406887)]
+
+### 2. Z세대는 스트리밍 구독을 '넷플릭스 노마드'처럼 쓴다
+
+한 방 드라마를 위해 구독했다가 완주 후 해지하는 Gen Z 비율이 **59%**. "플랫폼 로열티는 사실상 사망했다"는 분석이다. 넷플릭스·Disney+·HBO Max 모두 이 현상에 노출돼 있다. AI를 활용한 초개인화 추천 알고리즘과 스포츠 라이브 중계권 확보가 구독 유지를 위한 새로운 무기가 된 이유다. [[Variety](https://variety.com/2026/tv/news/gen-z-cancels-streaming-subs-one-show-dont-buy-games-1236739557/)]
