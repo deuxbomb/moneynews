@@ -90,3 +90,9 @@
 - 오늘의 픽: $LLY (카탈리스트: Foundayo FDA 안전 데이터 제출 오늘·Q1 +56% 서프라이즈), $CYTK (카탈리스트: ACACIA-HCM Phase 3 이중 엔드포인트 성공, FDA NDA 제출 Q3 예상) [와치리스트 외]
 - 뉴스 토픽: [매크로] NFP 115K vs 62K 예상 서프라이즈·헬스케어 +37K 최대 기여 / [헬스케어] LLY Foundayo 간독성 논란·애널리스트 과매도 반박·CYTK Phase 3 성공 / [기업] TSLA 신색상 론칭·NVDA D-12 어닝 카운트다운·COIN Q1 순손실 $394M 어닝미스 / [한국] KOSPI 7498 4연속최고치·현대차그룹 로봇주 폭등(보스턴다이나믹스 아틀라스+IPO 임박)
 - 팟캐스트: TBPN "Neural Computers + GameStop $55B eBay 베팅" (2026-05-05), Lex Fridman #490 "State of AI in 2026" (2026-05-06)
+
+## 2026-05-10 22:00 [PM] (테마: 산업재/인프라/방산)
+- 헤드라인: 이란이 답했다 — 월요일 미장, 지뢰밭인가 도로인가
+- 오늘의 픽: $LDOS (카탈리스트: Q1 어닝비트+가이던스상향 5/5, 52주 신저가 역설, $869M Army AI 계약), $BA (카탈리스트: FAA 737MAX 생산속도 47기/월 여름 확정), $LMT (카탈리스트: 우주군 SBI 계약, RSI 12 극과매도 반등 기대) [와치리스트 외]
+- 뉴스 토픽: [지정학] 이란 미국 종전제안 공식 응답 제출(Bloomberg 5/10) / [방산인프라] 산업재 S&P500 어닝서프 24% 1위·$901B NDAA·LDOS $869M Army AI 계약 / [NVDA] D-10 어닝 카운트다운 Goldman beat-and-raise / [TSLA] 로보택시 26대 FSD EU승인 절차 / [COIN] Q1 순손실 $394M 미스 / [매크로] WTI $95 vs BTC $79,964 역관계·S&P 6주 연속 상승 / [테크] xAI Anthropic Colossus 1 220K GPU 딜·Anthropic 연매출 $30B
+- 팟캐스트: All-In Podcast #272 "Colossus 딜·백악관 AI규제·All-In Summit 예고" (2026-05-08), TBPN Episode 515 (2026-05-06)
