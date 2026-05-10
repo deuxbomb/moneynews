@@ -1,40 +1,40 @@
 
 ---
 
-## 📰 오늘의 뉴스 — 12시간 이내 검증 기사
+## 📰 이란이 움직이면 모든 게 바뀐다
 
-### 💼 "두 배 서프라이즈" — NFP가 시장의 방향을 바꿨다
+### 🌏 지정학 핫라인 — 오늘의 1면
+오늘 오후 이란 국영 IRNA 통신이 한 줄 뉴스를 날렸다: **"이란이 미국의 종전 제안에 응답을 제출했다."** 세부 내용은 비공개. 하지만 협상 테이블에는 이미 이란의 14개 항 요구안이 올라와 있다 — 30일 내 전쟁 종결, 해군 봉쇄 해제, 동결 자산 환수, 배상금 지급, 새 호르무즈 협약. 트럼프 측 레드라인은 "핵 능력 포기"와 "호르무즈 먼저 개방"이다.
 
-4월 비농업고용(NFP)이 +115,000명을 기록하며 월가 컨센서스(~62,000명)를 두 배 가까이 상회했다. 실업률 4.3%로 안정. 미국 노동시장이 "식어가고 있지만 여전히 탄탄하다"는 신호다. 프리마켓은 즉각 반응했다 — S&P 500 선물 +0.6%, 나스닥 +0.9%, 다우 +0.4%. 석 달간의 고용 걱정을 한 방에 날린 이 숫자가 오늘 밤 뉴욕 장 개장의 기조를 결정한다. 단, 강한 고용이 Fed 금리인하를 늦출 것이라는 해석도 동시에 나오고 있다. 채권 금리 움직임을 함께 봐야 한다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
+둘 사이의 간극이 좁혀지면 WTI는 $80 아래로 추락할 수 있다. 그게 월요일 아침 시나리오 A다. 시나리오 B — 협상 결렬 시 WTI $100 재돌파, 에너지주 급등, 기술주·항공주 하락. 오늘 밤 트럼프의 트루스소셜이 어느 방향을 가리키느냐가 관건이다. [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-10/iran-submitted-response-to-us-peace-plan-proposal-irna-reports)
 
 ---
 
-### 💊 금요일 테마: 헬스케어 — "몸이 가장 비싼 자산이다"
+### 🏭 산업재·방산 르네상스 — 오늘의 테마
 
-**① $LLY 간독성 공방 — 애널리스트들이 막아섰다**
-FDA 이상반응 데이터베이스에 Foundayo(orforglipron) 관련 간부전 1건이 등록되면서 릴리 주가는 프리마켓에서 -3%까지 밀렸다. 하지만 월가는 흔들리지 않았다. 릴리는 "7개 Phase 3 트라이얼, 11,000명 이상 임상에서 간 이상 신호 제로"라고 반박했고, FDA도 현재 추가 데이터 요청 수준에 머물고 있다. 분석가들은 "케이스 1개는 통계적으로 신호가 아니다"라며 오히려 저점 매수를 권고했다. Q1 매출 $19.8B(+56%), 연간 가이던스 $82~85B — 실적이 안전 논란을 압도하는 흐름이다. [The Street](https://www.thestreet.com/investing/stocks/eli-lilly-stock-swings-after-fda-liver-failure-report-for-glp-1-drug) · [BioSpace](https://www.biospace.com/drug-development/foundayos-liver-failure-blip-weighs-down-lilly-shares-but-analysts-unconcerned)
+1. **산업재가 S&P 500 어닝 서프라이즈 왕좌에 올랐다** — 2026년 Q1 기준, 산업재 섹터 EPS가 컨센서스를 평균 **+24%** 초과했다. 항공·방산·AI 인프라 세 가지 테일윈드가 겹쳤다. Morningstar는 산업재를 올해 시장 초과성과 1순위 섹터로 꼽았다. [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-16/industrials-lead-s-p-500-earnings-beat-on-defense-ai-demand)
 
-**② $CYTK 심장 임상 성공 — FDA 신청 카운트다운**
-Cytokinetics의 ACACIA-HCM Phase 3가 지난 5일 두 개의 1차 엔드포인트를 모두 충족했다. 비폐쇄성 비대성 심근증(nHCM) 환자 276명에서 삶의 질(KCCQ) 및 운동 능력(pVO2)을 통계적으로 유의미하게 개선했다. Truist는 목표가를 $106으로 상향했다. 회사는 FDA 및 글로벌 규제당국과의 협의를 시작해 NDA 제출을 준비한다. MYQORZO가 폐쇄성 HCM 시장에서 이미 수익을 내고 있다는 점에서 이번 적응증 추가는 매출을 2배 이상 확장시킬 수 있다. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/05/3287549/35409/en/cytokinetics-announces-positive-topline-results-from-acacia-hcm-the-pivotal-phase-3-clinical-trial-of-aficamten-in-patients-with-non-obstructive-hypertrophic-cardiomyopathy.html)
+2. **$901B 방위예산 시대 — 무기창고 리스톡이 시작됐다** — 트럼프가 서명한 FY2026 NDAA($9,010억). 4년간 고갈된 무기재고를 채우는 계약들이 쏟아진다. 5월 7일 국방부 계약 공고에만 항공·IT·인프라 관련 건들이 수십 건. 특히 **Leidos의 $869M MACRO II 계약**(AI 전장 의사결정)처럼 AI+방산 융합 수주가 주목받는다. [Govconwire](https://www.govconwire.com/articles/trump-fy26-ndaa-acquisition-reforms)
 
-**③ NFP 헬스케어 +37,000명 — 섹터 성장세 현실 확인**
-4월 고용에서 가장 많은 일자리를 만든 업종은 헬스케어(+37,000명)였다. 미국 인구 고령화와 의료 수요 증가가 구조적 트렌드로 자리 잡았음을 보여준다. 병원, 외래 진료, 요양 시설 모두 채용을 늘리고 있다. $OHI(Omega Healthcare REIT)와 같은 헬스케어 인프라 종목에도 긍정적 신호다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
+3. **GE Aerospace, 2028 목표를 2년 앞당겼다** — 분기 주문 $270억 돌파, 2028 운영이익 목표를 2026년에 조기 달성. 항공 슈퍼사이클이 실물로 증명됐다. 반면 방산 1위 LMT는 Q1 미스 후 RSI 12라는 극과매도 구간에 빠졌다. 두 회사의 분기는 다르지만 섹터 구조는 같다. [FinancialContent](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-16-industrial-renaissance-aerospace-defense-and-ai-infrastructure-propel-sector-to-lead-s-and-p-500-earnings-surprises)
 
 ---
 
 ### 🏢 기업 뉴스
 
-**$TSLA | "Frost Blue와 Marine Blue — 테슬라가 하늘을 팔기 시작했다"**
-테슬라가 오늘 Model Y와 Model 3 고급형 트림에 두 가지 새 블루 색상(Frost Blue Metallic, Marine Blue)을 출시했다. 기존 Deep Blue Metallic을 대체하는 이 색상들은 소비자 선택지를 다양화하는 제품 라인업 강화 전략의 일환이다. 한편 Cybercab과 Semi, Megapack 3는 2026년 양산 일정이 예정대로 진행 중이다. 주가는 +3.28%로 반등 중 — 얼마 전 대규모 리콜 공시에도 흔들리지 않았던 내성이 오늘도 작동하고 있다. [Tesla Oracle](https://www.teslaoracle.com/2026/05/08/tesla-launches-new-blue-colors-for-model-y-and-model-3-upper-trims/)
+**$NVDA — D-10 카운트다운, Goldman이 먼저 배팅했다**
+5월 20일 실적 발표가 열흘 앞으로 다가왔다. Goldman Sachs 애널리스트 James Schneider는 "beat-and-raise"를 공식화했다 — 콘센서스($78.6B 매출, EPS $1.74)를 크게 웃도는 실적을 전망하며 2026·2027 추정치를 시장 평균 대비 14%·34% 상회하게 책정했다. 마이크로소프트·아마존·알파벳·메타가 2026년 합산 capex를 **$7,250억**으로 공시했는데, 이 돈의 상당 부분이 NVDA GPU를 향한다. 5/20 실적은 역사적으로 ±5% 이상 움직임을 만들었다. 37개 기관 중 35개 매수 의견. [Motley Fool](https://www.fool.com/investing/2026/05/10/should-you-buy-nvidia-stock-before-may-20-heres-wh/)
 
-**$NVDA | "12일 후, 진짜 시험이 온다"**
-NVDA가 프리마켓에서 +0.9%($213.40) 상승 중이다. 시장의 시선은 이미 5월 20일 Q1 FY27 어닝에 쏠려 있다. 핵심 체크포인트는 세 가지: ① Blackwell GPU 수요가 예상대로 폭발적인가, ② 중국 수출 규제 강화가 매출에 얼마나 영향을 주는가, ③ 하이퍼스케일러(GOOGL·MSFT·META·AMZN)의 데이터센터 capex가 NVDA에 실질적으로 얼마나 떨어지는가. 최근 Micron(MU)이 주간 +25% 랠리로 신고가를 기록한 것도 반도체 섹터 전반의 기대감을 높이는 요인이다. [Yahoo Finance](https://finance.yahoo.com/quote/NVDA/)
+**$TSLA — 로봇택시 26대, FSD가 유럽 문을 두드린다**
+4월 초 오스틴 9대였던 비감독 로보택시가 4월 말 26대로 늘었다 — 휴스턴·달라스 각 3대 추가. 준비 중인 도시는 피닉스·마이애미·올랜도·탬파·라스베이거스 5곳. 동시에 네덜란드 규제기관 RDW가 FSD의 EU 전역 승인을 위해 유럽항공안전청(EASA)에 공식 요청했다. EU-wide FSD 승인이 나오면 테슬라 유럽 시장 재도약의 발판이 된다. Q1 자동차 총이익률 21.1%(vs 전년 16.2%) 회복도 좋은 신호다. [Tesla IR](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q1-2026-Update.pdf)
 
-**$COIN | "시장 점유율 최고치, 순익은 최저치"**
-코인베이스가 5월 7일 장 마감 후 Q1 2026 실적을 공개했다. 매출 $1.41B — 예상($1.48B)을 하회했고, GAAP 순손실은 $394M($1.49/주). BTC 보유 자산의 미실현 손실($482M)이 주요 원인이다. 그러나 조정 EBITDA는 $303M으로 13분기 연속 흑자를 유지했다. 역설적으로 거래량 기준 시장 점유율은 사상 최고인 8.6%를 기록했다. 오늘 주가는 -2.53%($192.96) 마감. 오늘 저녁 어닝콜에서 CEO 암스트롱이 제시할 Q2 가이던스와 비용 절감 로드맵이 주가 방향을 결정한다. [CoinDCX](https://coindcx.com/blog/us-stock/coinbase-q1-2026-earnings-results/)
+**$COIN — 손실 후 BTC $80K가 생사의 기로**
+Q1 순손실 $394M으로 어닝미스. 14% 인력 감축도 단행됐다. 코인베이스 실적은 사실상 비트코인 가격의 함수다. 현재 BTC는 $79,964. WTI와 역관계로 움직이고 있어, 이란 협상 진전이 유가를 낮추면 BTC 반등 —$COIN 회복의 시나리오가 가능하다. 반대로 유가 급등이면 BTC $70K 재테스트 위험도 있다. [Motley Fool](https://www.fool.com/investing/2026/05/10/soaring-oil-prices-arent-great-for-bitcoin-heres-w/)
 
 ---
 
-### 🤖 "로봇이 코스피를 구했다" — 보스턴 다이내믹스·현대차그룹의 하루
+### 💡 오늘의 흥미로운 이야기
 
-오늘 한국 증시의 주인공은 단연 현대차그룹이었다. 보스턴 다이내믹스가 공개한 아틀라스 '개발형 모델' — 공중 회전과 체조 동작을 수행하는 양산형 휴머노이드 로봇 — 이 글로벌 반향을 일으키면서 현대오토에버 +29.97%, 현대모비스 +22.42%, 현대차 +7.17%, 기아 +4.38%의 폭등을 연출했다. 여기에 보스턴 다이내믹스의 나스닥 IPO 결정 시한이 6월 말로 임박했다는 소식이 맞물리며 기대감이 증폭됐다. 2028년 조지아 HMGMA(현대차그룹 메타플랜트 아메리카) 배치 계획이 구체화되면서 "현대차는 이제 EV 회사가 아닌 로봇 회사"라는 내러티브가 빠르게 자리를 잡고 있다. [스마트비즈](https://www.smartbizn.com/news/articleView.html?idxno=143450) · [헤럴드경제](https://biz.heraldcorp.com/article/10734016)
+1. **SpaceX IPO가 현실화되면 산업재 픽앤샤블 수혜주는 Linde** — CNBC의 Jim Cramer는 SpaceX 상장(예상 시총 $1.75조) 준비가 알려지자 산업가스 공급사 **$LIN**(Linde)을 가장 주목받는 수혜주로 지목했다. 로켓 연료와 반도체 제조 모두 산업가스에 의존한다. SpaceX IPO 날짜는 미정이지만 2026년 안으로 이야기가 나온다. [CNBC](https://www.cnbc.com/2026/05/09/spacex-ipo-jim-cramer-linde-stock-winner.html)
+
+2. **Anthropic이 머스크의 컴퓨터를 빌렸다** — 경쟁자인 xAI의 Colossus 1 데이터센터(220,000+ Nvidia GPU, 300MW) 전체를 Anthropic이 임대하는 계약을 체결했다(5/6). Claude 모델의 연산 병목이 해소되면서 Anthropic은 Q1 매출 연환산 **$300억** 달성을 공개했다 — 1년 전 대비 80배 성장. 머스크가 직접 Anthropic 팀을 방문해 Claude의 안전 철학을 확인했다는 후문도 있다. [xAI](https://x.ai/news/anthropic-compute-partnership) · [VentureBeat](https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth)
