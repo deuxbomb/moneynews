@@ -1,111 +1,173 @@
-# NVIDIA가 AI를 빛으로 연결한다 — 72억 달러로 시작된 구리 시대의 종말
+# 당신의 Claude와 ChatGPT를 돌리는 칩은 이제 NVIDIA가 아니다 — ASIC 슈퍼사이클의 서막
 
-> 2026년 5월 7일 | 머뉴 딥다이브 | 🔍 딥 리서치
-
----
-
-## NVIDIA 랙 안에 구리 케이블 5,000개가 있다
-
-NVIDIA의 차세대 AI 슈퍼컴퓨터 '베라 루빈(Vera Rubin)' 랙 한 대 안에는 구리 케이블이 5,000개 들어 있습니다. GPU와 GPU를, 칩과 칩을 연결하는 이 케이블들은 지금껏 AI 공장의 혈관 역할을 해왔죠. 그런데 이 혈관이 막히기 시작했습니다.
-
-AI 모델이 커질수록, GPU 클러스터가 거대해질수록, 전기 신호를 구리 선을 통해 주고받는 방식의 물리적 한계가 드러났습니다. 데이터센터는 미국 신규 전력 수요 증가분의 절반을 홀로 집어삼키고 있고, 구리 가격은 2026년 1월 파운드당 6달러로 사상 최고를 찍었습니다. 업계는 올해 구리 공급이 15만 톤 부족할 것으로 전망하는데, 이는 불과 1년 전만 해도 20만 톤 흑자를 예상하던 것에서 완전히 방향이 바뀐 겁니다.
-
-NVIDIA는 이 문제를 누군가 해결해주기를 기다리지 않았습니다. 지난 3개월 동안 72억 달러를 광학·포토닉스 기업 3곳에 직접 쏟아부었습니다 — 2036년 CPO 시장 전체 예상 규모(200억 달러)의 3분의 1 이상을 오늘의 공급망 선점에 미리 투입한 셈입니다. 구리의 시대를 끝내기 위해서요.
+**2026-05-11 | 테마: AI 인프라/반도체 | 유형: 📡 테크 트렌드**
 
 ---
 
-## 3개월 동안 쌓아 올린 광학 제국
+## 🎬 1. 이야기: Midjourney가 서버실 이사를 결정한 날
 
-젠슨 황이 광학 인프라 투자에 본격적으로 나선 건 2026년 3월 2일입니다. NVIDIA가 Coherent와 Lumentum에 각각 20억 달러씩, 총 40억 달러를 투자하겠다고 발표했죠. 단순한 지분 투자가 아니었습니다. 다년간 구매 약정과 생산 용량 우선 접근권이 묶인, 사실상 "이 회사 생산 라인을 내 것으로 쓰겠다"는 선언이었습니다. 발표 당일 Lumentum은 12%, Coherent는 15% 급등했습니다.
+2026년 봄, 이미지 생성 AI 스타트업 Midjourney는 조용한 결정을 내렸다. 수백만 달러짜리 NVIDIA GPU 서버에서 Google의 TPU 클라우드로 워크로드를 이전한 것이다. 이유는 단 하나 — 월 비용이 **$210만에서 $70만으로 65% 줄었다**.
 
-NVIDIA가 부품 공급망을 틀어쥐는 사이, 제조 생태계도 함께 움직이기 시작했습니다. 5월 4일, 반도체 파운드리 GlobalFoundries가 AI 데이터센터용 co-packaged optics 솔루션 'SCALE'을 공개하며 업계 최초로 OCI MSA(광학 컴퓨트 인터커넥트 다중 소스 협약) 지원 플랫폼임을 선언했습니다. 광학 인터커넥트 생태계가 속도를 내기 시작한 거죠.
+이 한 줄의 숫자가 2026년 AI 반도체 시장에서 일어나고 있는 조용한 혁명을 압축한다.
 
-그리고 이틀 뒤인 5월 6일. NVIDIA가 코닝(Corning)과의 장기 파트너십을 발표하며 시장을 다시 한 번 뒤흔들었습니다. 최대 32억 달러를 투자해 노스캐롤라이나와 텍사스에 첨단 제조 공장 3개를 세우겠다는 내용이었습니다. 코닝의 미국 내 광학 커넥티비티 제조 용량을 10배, 광섬유 생산 용량을 50% 이상 끌어올리는 게 목표입니다. 3,000개 이상의 신규 일자리도 약속됐습니다.
+2022년 11월, ChatGPT가 세상을 뒤흔들던 그 순간부터 NVIDIA는 AI 인프라의 절대 권력자였다. H100 GPU는 리스트 가격만 수만 달러를 호가해도 순식간에 매진됐다. 빅테크는 앞다퉈 'NVIDIA 우선' 전략을 세웠다. 하지만 2026년, 같은 빅테크 기업들이 직접 칩을 설계하기 시작했다.
 
-코닝 주가는 장중 20.8% 치솟았고, NVIDIA도 5.41% 올랐습니다. 코닝은 이미 지난 1년간 250% 이상 주가가 뛴 상태였는데도요.
+구글은 7세대 TPU 'Ironwood'를 공개했다. 메타는 단 하루에 4세대 칩 로드맵을 발표했다. 아마존은 3나노 공정의 Trainium 3를 AWS에 올렸다. 마이크로소프트는 자사 데이터센터에서 OpenAI GPT-5.2 모델을 직접 개발한 'Maia 200'으로 돌리기 시작했다. 모두 NVIDIA GPU 없이.
 
----
-
-## 젠슨 황이 말한 "빛의 속도"의 의미
-
-젠슨 황 CEO는 이날 발표에서 이렇게 말했습니다.
-
-> "AI는 우리 시대 최대의 인프라 구축을 이끌고 있습니다. 코닝과 함께 우리는 광학 기술로 컴퓨팅의 미래를 발명하고 있습니다 — 지능이 빛의 속도로 이동하는 AI 인프라의 토대를 쌓고 있죠."
-
-*(원문: 영어 — 번역)*
-
-"빛의 속도"는 수사가 아닙니다. 글자 그대로의 물리학입니다. 코닝이 만드는 광섬유 케이블은 데이터를 전자(electron) 대신 광자(photon)로 전달합니다. 광자를 움직이는 데 필요한 에너지는 전자 대비 5~20배 적습니다. 전력 효율이 5배 개선되는 겁니다. 수천 개의 GPU가 기가와트 단위 전력을 쓰는 AI 공장에서 이 차이는 어마어마합니다.
-
-더 중요한 건 속도와 거리입니다. 광섬유는 구리보다 신호 손실이 훨씬 적어, 데이터센터 안에 수십만 개의 GPU가 빼곡히 들어설 때도 안정적인 통신을 유지할 수 있습니다. 구리 케이블은 길이가 길어질수록 신호 품질이 떨어지는 반면, 광섬유는 같은 용량으로 훨씬 먼 거리를 커버합니다.
+이것은 단순한 기술 경쟁이 아니다. **추론(Inference)이 AI 컴퓨트의 2/3를 차지하는 시대**로 넘어오면서, 범용 GPU보다 특정 작업에 최적화된 전용 칩(ASIC)이 경제적으로 압도적 우위를 갖기 시작했다. 변곡점은 이미 지나쳤다. 지금은 그 파도가 얼마나 높이 치솟는지를 가늠하는 시간이다.
 
 ---
 
-## 구리의 한계, 광학의 기회: CPO가 뭔가요
+## 📈 2. 10년 차트가 보여주는 단 하나의 변곡점
 
-이 혁명의 핵심 기술은 **CPO(Co-Packaged Optics, 공동 패키지 광학)**입니다. 어렵게 들리지만 핵심 아이디어는 간단합니다. 기존에는 GPU에서 나온 전기 신호가 '트랜시버'라는 별도 부품에서 광학 신호로 바뀌어 광섬유를 타고 이동했습니다. CPO는 이 변환 과정을 칩 패키지 내부로 집어넣습니다. 전기-광학 변환이 일어나는 경로를 극도로 단축해, 신호 손실과 전력 낭비를 동시에 줄이는 거죠.
+**2016년 NVIDIA의 데이터센터 매출은 $3억이었다.**
 
-NVIDIA의 Quantum-X InfiniBand 스위치는 이 방식으로 초당 115 테라비트(115 Tb/s)의 처리량을 실현합니다. 800 Gb/s 포트 144개를 동시에 운영하는 셈입니다. NVIDIA Spectrum-X Ethernet Photonics는 2026년 하반기 상용화가 예정돼 있습니다.
+10년이 지난 2026년, 그 숫자는 $1,300억(FY2026 전망)으로 불어났다. 약 430배. 인류 역사상 어떤 기업도 이 속도로 성장한 적이 없었다. NVIDIA의 AI 가속기 시장 점유율은 2024년 87%까지 치솟았다. 이것이 피크였다.
 
-CPO는 NVIDIA만의 실험이 아닙니다. 브로드컴의 Tomahawk 6-Davisson은 TSMC의 COUPE(Compact Universal Photonic Engine) 기술로 포토닉 엔진을 스위칭 실리콘과 통합해 102.4 Tbps 용량으로 이미 양산 출하 중입니다. 전력 소비는 기존 플러거블 방식 대비 70% 감소. CPO는 이제 특정 기업의 실험적 기술이 아니라 AI 인프라의 새 표준으로 자리 잡고 있습니다.
+### 추론 비용의 폭락, 그리고 ASIC의 시간
 
-시장 조사 기관들은 CPO 시장이 2026~2036년 연평균 37%로 성장해 2036년 200억 달러를 넘어설 것으로 전망합니다. McKinsey는 하이퍼스케일러들이 2029년까지 백엔드 광학 장비의 87%를 800G 이상으로 전환할 것으로 예상합니다. 문제는 공급이 수요를 못 따라간다는 거죠 — 800G 트랜시버 공급은 2027년까지 수요 대비 40~60% 부족할 전망입니다. NVIDIA가 Coherent, Lumentum, Corning에 72억 달러를 들이붓는 이유가 바로 여기 있습니다.
+동시에, 추론 토큰 비용의 역사적 붕괴가 진행됐다:
 
----
+- **2022년 11월**: GPT-3.5급 성능에 $20/100만 토큰
+- **2024년 10월**: $0.07/100만 토큰
+- **2026년 (추정)**: $0.01 미만
 
-## 코닝, 왜 이 회사가 갑자기 AI 핵심 플레이어가 됐나
+2년 만에 **99.6% 하락**. Epoch AI Research가 추적한 이 곡선의 가속 원인 중 하나가 바로 커스텀 실리콘이다.
 
-코닝(Corning)이라는 회사가 낯설 수 있습니다. 이 회사는 160년 역사의 유리 기업으로, 아이폰 화면에 쓰이는 고릴라 글래스로 알려져 있습니다. 그런데 AI 인프라 붐의 최대 수혜자 중 하나로 부상했습니다.
+### ASIC의 시간표
 
-이유는 단순합니다. 광섬유의 핵심 소재가 '유리'이기 때문입니다. 코닝은 수십 년간 전 세계 통신 네트워크에 광섬유 케이블을 공급해 온 세계 최대 광섬유 제조사입니다. AI 붐이 오자, 코닝이 가진 설비와 기술이 갑자기 핵심 자산이 됐습니다.
+TrendForce의 2026 Cloud AI Outlook에 따르면, 커스텀 ASIC의 성장률은 **44.6%**인 반면 GPU 성장률은 **16.1%**다. Bloomberg Intelligence는 AI 가속기 시장에서 ASIC의 비중이 2024년 8%에서 **2033년 19%**로 늘어날 것으로 전망했다. 그리고 결정적인 예측 하나: **2028년, ASIC 출하량이 GPU를 추월한다**.
 
-그 흐름을 먼저 읽은 건 Meta였습니다. 2026년 1월, Meta는 코닝과 최대 60억 달러 규모의 다년간 광섬유 케이블 공급 계약을 맺었습니다. AI 데이터센터가 기존 클라우드 인프라보다 훨씬 많은 광섬유를 필요로 한다는 판단이었죠. 코닝은 이에 맞춰 AI 전용 소형 고밀도 광섬유 케이블 'Contour'를 출시했고, 노스캐롤라이나 히코리 공장 대규모 확장에 착공(2026년 3월)했습니다.
+### 왜 지금인가? — 추론의 지배
 
-그리고 4개월 뒤, NVIDIA가 두드렸습니다. Meta가 다년간 최대 60억 달러 계약으로 코닝을 먼저 선점했다면, NVIDIA는 최대 32억 달러 파트너십으로 그 방향을 AI 인프라의 표준으로 봉인한 셈입니다. 코닝 주가가 1년 만에 250%+를 달성한 건 우연이 아닙니다.
+2023년, AI 컴퓨트에서 추론이 차지하는 비중은 1/3이었다. 2026년, 그 비중은 **2/3**가 됐다(Deloitte 전망). ChatGPT와 Claude를 수억 명이 쓰는 시대, 모델을 한 번 훈련시키는 비용보다 매초 수백만 건의 질문에 답하는 '추론' 비용이 훨씬 크다는 뜻이다. TSMC의 CC Wei CEO는 2026년 4월 어닝콜에서 이렇게 말했다: *"아젠틱 AI로의 전환이 추론에서 소비되는 토큰 수를 급격히 늘리고 있다. 이는 최첨단 실리콘에 대한 강력한 수요를 지지한다."*
 
----
-
-## 이 판에서 투자자가 봐야 할 지형도
-
-$NVDA 자체는 이미 충분히 알려진 이야기입니다. 여기서 흥미로운 건 '픽앤샤블(Pick & Shovel)' 투자 아이디어입니다. 골드러시에서 진짜 돈을 번 건 금을 캔 사람이 아니라 곡괭이와 삽을 판 사람이었다는 얘기죠. AI 인프라 붐에서 코닝이 그 역할을 하고 있습니다.
-
-현재 시장 구도를 정리하면 이렇습니다:
-
-- **NVIDIA($NVDA)**: 광학 인터커넥트 생태계 건설의 총사령관. 72억 달러+ 투자로 공급망 직접 장악.
-- **Corning(GLW)**: AI 광섬유의 '삼성전자' 같은 위치. Meta + NVIDIA 양대 메가딜. 1년 +250%.
-- **Lumentum(LITE) + Coherent(COHR)**: NVIDIA가 각각 20억 달러를 베팅한 CPO 레이저/부품 공급사.
-- **하이퍼스케일러($GOOGL, Meta, AWS 등)**: 수요 측. 광학 인터커넥트 전환으로 전력 비용 대폭 절감 가능.
-
-리스크도 있습니다. CPO는 아직 대규모 양산 초기 단계입니다. 수율과 온도 관리 문제는 여전히 해결 중이고, NVIDIA의 Corning 투자는 최대 32억 달러이지만 초기 확약은 5억 달러짜리 워런트입니다. AI 투자 사이클이 꺾이면 대규모 광학 설비가 과잉 공급으로 돌변할 수도 있습니다. 인텔, AMD, Broadcom도 모두 자체 광학 솔루션을 개발 중입니다.
-
-그러나 큰 방향은 분명합니다. "5년 안에 AI 데이터센터 인터커넥트는 모두 광학으로 전환될 것"이라는 게 업계의 합의에 가깝습니다. 72억 달러짜리 베팅을 한 젠슨 황은 이미 자기 생각을 행동으로 보여줬습니다.
+그 '최첨단 실리콘'이 이제 반드시 NVIDIA일 필요는 없게 됐다. 추론 작업은 하나의 모델, 하나의 요청 패턴이 반복된다 — ASIC이 가장 잘하는 영역이다.
 
 ---
 
-## 머뉴's Advice 💡
+## 🌏 3. 미국, 한국, 중국, 유럽이 모두 다른 게임을 하고 있다
 
-**1. 코닝(GLW)을 주목하세요.** 광학 인터커넥트 전환의 가장 직접적인 수혜주입니다. Meta 60억, NVIDIA 32억 — 연이은 메가딜이 수요 가시성을 확보해줬습니다. 1년 +250%이지만, AI 공장 건설이 계속되는 한 성장 여지는 남아 있습니다.
+### 🇺🇸 미국: 빅테크 5사의 칩 군비경쟁
 
-**2. $NVDA를 단순 'AI 반도체 주'로만 보지 마세요.** NVIDIA는 지금 AI 공장의 인프라 레이어 전체를 수직 통합하고 있습니다. GPU → 네트워킹 스위치 → 광학 인터커넥트 → 광섬유 공급망까지. 단기 주가보다 이 생태계 전략의 내구성에 베팅하는 관점이 유효합니다.
+구글, 메타, 아마존, 마이크로소프트, OpenAI. 이 5개 기업이 2026년 집행할 AI 인프라 capex는 합산 **$660~690B**이며, 이 중 75%가 AI 인프라에 쏠린다. 그리고 이 돈의 점점 더 많은 부분이 NVIDIA가 아닌 자체 ASIC에 흐른다.
 
-**3. AI 전력 대란과 광학 전환은 같은 이야기입니다.** 구리 대체가 빨라질수록, 데이터센터의 전력 효율이 올라갑니다. $OKLO 같은 에너지 주식에 관심이 있다면, 광학 인프라 전환의 속도가 AI 발전소 수요에도 영향을 준다는 점을 기억하세요. 에너지 절약이 되면 추가 확장 여력이 생깁니다.
+각 사의 최신 칩 성능을 NVIDIA H100 기준과 비교하면:
 
-구리에서 광자로. 이 전환의 속도와 범위에 베팅하는 포트폴리오를 지금 구성하고 있다면 — 당신은 어느 '삽' 회사를 들고 있나요?
+| 기업 | 칩 | 성능(FP8) | 공정 | 특징 |
+|------|----|---------|------|------|
+| **[기준] NVIDIA** | H100 SXM5 | 3.9 PFLOPS/칩 | TSMC 4nm | GPU 범용 추론+훈련 |
+| Google | Ironwood TPU v7 | **4.6 PFLOPS/칩** | TSMC | Anthropic 100만 개 배포 |
+| Meta | MTIA 400 | **6.0 PFLOPS/칩** | TSMC | 6개월 출시 주기 |
+| Amazon | Trainium 3 | **2.52 PFLOPS/칩** | TSMC 3nm | UltraServer 362 PFLOPS |
+| Microsoft | Maia 200 | **5.0 PFLOPS/칩** | TSMC 3nm | OpenAI GPT-5.2 구동 |
+
+단순 스펙 비교만으로는 뉘앙스가 빠진다. 각 칩은 해당 회사의 소프트웨어 스택, 모델 아키텍처, 데이터센터 설계와 수직 통합돼 있어 **자사 AI 서비스만 돌리는 빅테크에게는 최적의 선택**이 된다.
+
+픽앤샤블의 왕은 **Broadcom($AVGO)**이다. 구글 TPU, 메타 MTIA, Anthropic 칩 모두 Broadcom이 설계 파트너다. 2026년 Q1 AI 반도체 매출 $8.4B(+106% YoY), Q2 가이던스 $10.7B. AI 수주잔고만 $73B. Broadcom의 FY2025 10-K(SEC EDGAR 제출)에 따르면, 총매출 $63.9B 중 AI 반도체가 핵심 성장 동력으로 부상했다.
+
+또 다른 픽앤샤블인 **Marvell($MRVL)**은 AWS Trainium과 Microsoft Maia의 네트워킹 ASIC을 담당하며 ASIC 시장 20~25%를 점유한다.
+
+### 🇰🇷 한국: 보이지 않는 HBM 독점
+
+이 모든 ASIC 칩에는 하나의 공통점이 있다 — **고대역폭메모리(HBM)**. 구글 Ironwood는 HBM3e 192GB, 메타 MTIA 400은 HBM 288GB, 마이크로소프트 Maia 200은 HBM3e 216GB. 이 메모리의 상업적 생산은 사실상 한국 두 기업이 독점한다.
+
+**SK하이닉스**: 2025년 HBM 출하 점유율 62%, 매출 점유율 57%. Microsoft Maia 200의 HBM 독점 공급사. 2026년 투자 규모를 4배 이상 확대 예정.
+
+**삼성전자**: Meta MTIA 공급 파트너. 2026년 HBM 생산 ~50% 증산.
+
+TrendForce에 따르면, ASIC 기반 AI 칩 전용 HBM 수요는 **+82%** 급증할 전망이다. ASIC 슈퍼사이클의 가장 조용하고, 가장 확실한 수혜자다.
+
+### 🇨🇳 중국: 화웨이의 고립된 생태계
+
+미국의 수출 통제로 중국은 별도의 AI 칩 생태계를 구축 중이다. 화웨이의 Ascend 910C는 SMIC 7nm 공정에도 불구하고 NVIDIA H100의 약 80% 수준의 컴퓨트 성능을 낸다. 2026년 60만 개 생산 목표. 더 주목할 것은 **Ascend 950PR** — FP4 성능이 NVIDIA H20의 2.8배로 ByteDance가 $5.6B을 선주문했다.
+
+중국은 TSMC와 ASML의 최신 장비에 접근할 수 없어 전력 효율에서 구조적 열세를 가진다. 하지만 국내 수요 규모만으로도 독자 생태계를 유지할 수 있는 거대 시장이다.
+
+2026년 5월 10~11일 미중 제네바 합의(관세 115% → 30%, 90일 유예)는 전통적 수출 통제에는 큰 변화를 주지 않지만, TSMC와 Broadcom의 공급망 불확실성을 낮추는 긍정적 신호다.
+
+### 🇪🇺 유럽: 리소스 없는 야망
+
+유럽은 EU Chips Act로 2030년까지 세계 반도체 시장 점유율을 현재 10%에서 20%로 높이겠다는 목표를 세웠다. ASML의 High-NA EUV 장비는 세계 유일이며, IMEC(벨기에)의 NanoIC 파일럿 라인이 유럽의 희망이다. 그러나 유럽 감사원은 2025년 4월 이 목표가 "매우 달성하기 어렵다"고 평가했다. 유럽은 칩 제조 장비(ASML)는 독점하지만, 정작 커스텀 AI 칩을 설계·운영할 하이퍼스케일러가 없다.
 
 ---
 
-## 출처
+## ⚖️ 4. NVIDIA가 틀릴 수 없는 이유, 그럼에도 틀릴 수 있는 이유
 
-- [CNBC](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html) — NVIDIA-Corning 파트너십 상세 보도 (2026.05.06)
-- [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-06/nvidia-buys-500-million-of-rights-for-stock-in-corning) — Corning 워런트 딜 구조 (2026.05.06)
-- [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure) — 공식 보도자료 (2026.05.06)
-- [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology) — NVIDIA-Lumentum 파트너십 (2026.03)
-- [CNBC](https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html) — NVIDIA $4B 포토닉스 투자 (2026.03.02)
-- [SiliconANGLE](https://siliconangle.com/2026/03/02/nvidia-invests-4b-co-packaged-optics-suppliers-lumentum-coherent/) — CPO 투자 배경 분석 (2026.03.02)
-- [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/04/3286711/0/en/globalfoundries-accelerates-adoption-of-co-packaged-optics-for-advanced-ai-data-centers-with-scale-optical-module-solution.html) — GlobalFoundries SCALE 발표 (2026.05.04)
-- [CNBC](https://www.cnbc.com/2026/01/27/apple-supplier-corning-wins-6-billion-from-meta-for-ai-optical-fiber.html) — Meta-Corning $6B 딜 (2026.01.27)
-- [Invezz](https://invezz.com/news/2026/05/06/corning-stock-surges-20-on-nvidia-deal-to-expand-ai-optical-manufacturing/) — 코닝 주가 급등 (2026.05.06)
-- [NVIDIA Technical Blog](https://developer.nvidia.com/blog/scaling-ai-factories-with-co-packaged-optics-for-better-power-efficiency/) — CPO 기술 설명
-- [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-spectrum-x-co-packaged-optics-networking-switches-ai-factories) — Spectrum-X CPO 스위치 발표
-- [Broadcom IR](https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-tomahawkr-6-davisson-industrys-first-1024) — Tomahawk 6-Davisson CPO 양산 출하 (2025.10.08)
-- [Tom's Hardware](https://www.tomshardware.com/tech-industry/ai-data-center-buildout-pushes-copper-toward-shortages-analysts-warn) — 구리 부족 분석
-- [Fortune](https://fortune.com/2026/04/20/us-data-center-electricity-demand-public-opinion/) — 데이터센터 전력 수요
+### 🐂 Bull: ASIC은 추론을, GPU는 훈련을 — 두 시장 모두 성장한다
+
+가장 강력한 반론은 NVIDIA 자신이 제기한다. AI 훈련은 여전히 GPU의 영역이다. NVIDIA의 훈련 시장 점유율은 90%에 달하며, CUDA 소프트웨어 생태계는 15년 이상 쌓아온 방어벽이다. 빅테크가 자체 칩을 만들더라도 최첨단 모델 훈련에는 NVIDIA Blackwell이 필수다. 시장 전체가 커지는 중이니 NVIDIA의 절대 매출은 오히려 늘어날 수 있다 — 점유율이 87%에서 75%로 줄어도, 시장이 5배 커지면 절대 매출은 늘어난다.
+
+게다가 NVIDIA는 Blackwell Ultra, Rubin 아키텍처를 준비 중이다. CUDA 생태계에서 벗어나는 비용은 천문학적이다. 수십만 개의 기존 AI 모델이 CUDA 최적화로 작성돼 있다.
+
+### 🐻 Bear: 추론 = 돈, 그리고 돈은 ASIC으로 간다
+
+카운터 시나리오는 간단하다. AI 시대에서 **돈을 버는 것은 추론**이다. 구글 검색, 메타 피드 알고리즘, 아마존 상품 추천 — 이 모든 것이 초당 수백만 건의 추론이다. 그리고 추론에서 ASIC은 GPU보다 30~50% 낮은 TCO를 제공한다. Midjourney의 사례처럼 65% 비용 절감이 현실이다. 하이퍼스케일러가 자체 칩 개발에 $1B을 투자하면 5년간 $10B의 GPU 비용을 절감할 수 있다 — ROI가 10배다.
+
+더 날카로운 비판: NVIDIA의 Blackwell 시스템은 공급이 수요를 따라가지 못하는 상황이지만, 빅테크가 ASIC 생산을 가속하면 NVIDIA GPU 대기 수요가 단기간에 급감할 수 있다.
+
+### 🃏 가장 의외의 리스크: ASIC도 GPU처럼 공급 부족
+
+아이러니하게도, ASIC 붐의 가장 큰 위험은 ASIC 자체의 공급 제약이다. Broadcom이 설계하고, TSMC가 만들고, SK하이닉스가 HBM을 공급하는 이 체인 어디서든 병목이 생기면 사이클이 꺾인다. TSMC는 이미 N3 공정을 최대 가동 중이다. 하이퍼스케일러 모두가 동시에 ASIC을 원할 때 누가 먼저 얻는지가 새로운 경쟁이 된다.
+
+---
+
+## 💡 5. 투자자에게 남는 것: 칩 전쟁의 진짜 수혜자를 찾아라
+
+### 📌 포지션 프레임
+
+ASIC 슈퍼사이클에서 투자 기회를 구조적으로 정리하면:
+
+**Tier 1 — 직접 수혜, 가시성 높음**
+
+**$AVGO (Broadcom)** — 이 판의 진짜 픽앤샤블. 고객이 NVIDIA든 구글이든 메타든, 칩을 직접 만들려면 Broadcom이 필요하다. AI 수주잔고 $73B은 2027년 중반까지 매출 가시성을 제공한다. 5번째 XPU 고객 추가($1B 초기 주문) 확인. FY26 AI 매출 $40.4B 목표. 리스크: Apple이나 Amazon이 완전 내재화할 경우 고객 이탈.
+
+**$TSM (TSMC)** — ASIC이든 GPU든 모두 TSMC가 만든다. FY2026 가이던스 >30% USD 성장, 역대 최고 수준의 총이익률 66.2%. ASIC 붐은 N3, N2 선단 공정 수요를 폭증시킨다. 미중 무역합의로 공급망 리스크 소폭 감소.
+
+**Tier 2 — 간접 수혜, 성장 가시성**
+
+**$MRVL (Marvell)** — AWS, Microsoft의 네트워킹 ASIC 파트너. ASIC 시장 20~25% 점유. 빅테크가 ASIC을 더 많이 만들수록 Marvell의 네트워킹 IC 수요도 비례 증가.
+
+**$005930 KS / $000660 KS (삼성·SK하이닉스)** — HBM 없이는 ASIC도 없다. ASIC용 HBM 수요 +82% 전망. 국내 투자자에게는 ASIC 테마의 가장 직접적인 한국 플레이.
+
+**Tier 3 — 관심 지속, 진입 조건 필요**
+
+**$NVDA** — 단기 매도 근거 없음. AI 훈련 90% 점유 + 선단 GPU 독보적 위치. 다만 ASIC 점유율 잠식이 구조적 추세임을 인지하고 FY2027 가이던스 반응을 지켜볼 것. 추론 시장 대응으로 NIM 플랫폼, GB300 Ultra 동향 주시.
+
+### ⚡ 카탈리스트 캘린더
+
+- **5월 중순**: 미중 90일 유예 기간 내 구체적 실행 조건 공개 예정
+- **6월 2~3일**: Microsoft Build 2026 — Maia 200 확장 발표 예상
+- **6월 4~11일 (추정)**: Broadcom Q2 FY26 실적 발표 (가이던스 $10.7B 달성 여부)
+- **2026년 H2**: OpenAI 커스텀 칩 양산 시작 → AVGO 6번째 XPU 고객 확인 가능성
+
+### 🎯 핵심 체크 포인트
+
+ASIC 슈퍼사이클 내러티브가 틀렸다는 신호:
+- Broadcom이 주요 고객(구글, 메타)을 잃거나 계약을 갱신 못할 때
+- TSMC N3 수율이 급격히 나빠져 ASIC 생산 차질 발생 시
+- NVIDIA가 추론 전용 저전력 칩으로 ASIC 영역에 역침투할 때
+
+---
+
+Midjourney가 NVIDIA 서버실에서 짐을 쌌던 그 날, 사실 Midjourney만 이사한 게 아니었다. 이미 수조 달러의 capex가 새 주소를 향해 움직이기 시작했다. AI 칩 전쟁의 승자는 아직 정해지지 않았지만, **싸움의 본질이 '훈련'에서 '추론'으로 이동했다는 사실** 하나만큼은 확실하다. 추론을 가장 싸게 제공하는 자가 AI 시대의 인프라를 지배한다.
+
+---
+
+## 📚 출처
+
+| 자료 | 유형 | URL |
+|------|------|-----|
+| Broadcom FY2025 10-K | SEC EDGAR (1차) | [SEC.gov](https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm) |
+| TSMC Q1 2026 어닝콜 | 실적발표 트랜스크립트 (1차) | [Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-tsmcs-q1-2026-shows-strong-growth-and-margin-gains-93CH-4617167) |
+| Google Cloud — Ironwood TPU | 기업 공식 블로그 (1차) | [Google Cloud](https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads) |
+| Meta — MTIA 발표 | 기업 공식 뉴스룸 (1차) | [about.fb.com](https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/) |
+| Microsoft — Maia 200 발표 | 기업 공식 블로그 (1차) | [Microsoft Blog](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) |
+| TrendForce 2026 Cloud AI Outlook | 산업 리서치 보고서 (1차) | [TrendForce](https://www.trendforce.com/research/download/RP251105VO) |
+| Bloomberg Intelligence AI 가속기 | 시장 조사 (1차) | [Bloomberg](https://www.bloomberg.com/company/press/ai-accelerator-market-looks-set-to-exceed-600-billion-by-2033-driven-by-hyperscale-spending-and-asic-adoption-according-to-bloomberg-intelligence/) |
+| White House 미중 합의 브리핑 | 정부 성명 | [WhiteHouse.gov](https://www.whitehouse.gov/briefings-statements/2025/05/joint-statement-on-u-s-china-economic-and-trade-meeting-in-geneva/) |
+| ARK Invest AI 인프라 리서치 | 투자 리서치 | [ARK Invest](https://www.ark-invest.com/articles/analyst-research/the-state-of-ai-infrastructure-demand-costs-custom-silicon) |
+| SK하이닉스 2026 아웃룩 | 기업 공식 | [SK하이닉스](https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/) |
+| Epoch AI Research 토큰 비용 | 학술 리서치 | [Epoch AI](https://epochai.org) |
+| Meta MTIA 공식 블로그 | 기업 공식 블로그 (1차) | [ai.meta.com](https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/) |
+

@@ -1,8 +1,9 @@
 
-## 2026-05-08 [DEEP]
-- 제목: NVIDIA가 AI를 빛으로 연결한다 — 72억 달러로 시작된 구리 시대의 종말
-- 테마 유형: 딥리서치
-- 핵심 주제: NVIDIA가 2026년 3~5월 3개월 사이 Coherent(20억), Lumentum(20억), Corning(최대 32억) 등 광학·포토닉스 기업 3곳에 총 72억 달러를 투자하며 AI 데이터센터 인터커넥트를 구리에서 광섬유/CPO로 전환하는 구조적 전략을 해부했다. 전력 효율 5배, 800G 트랜시버 공급 부족, 픽앤샤블 투자 아이디어(GLW, LITE, COHR)를 심층 분석.
-- 다룬 종목/기업: $NVDA, GLW(Corning), LITE(Lumentum), COHR(Coherent), $GOOGL, $OKLO
-- 핵심 주장/결론: NVIDIA는 GPU 제조사를 넘어 AI 인프라 공급망 전체를 수직 통합하는 중이며, 구리→광섬유 전환은 업계 합의가 된 방향으로 코닝(GLW)이 픽앤샤블 수혜의 핵심 플레이어다.
-- 판정: Minor (2차 검수 포함 총 8개 개선점 반영 — 숫자 불일치 수정, Apple R&D 환각 교체, Meta 연간→다년간 팩트 교정, 72억 달러 CPO 시장 비교 맥락화, 인용 번역 표기, Broadcom 출처 추가, 마무리 질문형 전환, GlobalFoundries 전환 연결 개선)
+## 2026-05-11 14:00 [DEEP] (테마 클러스터: AI 인프라/반도체, 유형: 📡 테크 트렌드)
+- 제목: 당신의 Claude와 ChatGPT를 돌리는 칩은 이제 NVIDIA가 아니다 — ASIC 슈퍼사이클의 서막
+- 테마 유형: 테크트렌드 (여러 기업 같은 방향 → 산업 흐름 조망)
+- 핵심 주제: 구글(Ironwood)·메타(MTIA)·아마존(Trainium 3)·마이크로소프트(Maia 200)·OpenAI가 자체 AI 추론 칩(ASIC)을 개발하면서 NVIDIA 의존도를 줄이는 구조적 전환을 조망. 추론이 AI 컴퓨트의 2/3가 되는 시대에 ASIC이 GPU 대비 30~50% TCO 우위를 갖는 경제학을 분석. 한국 HBM(SK하이닉스·삼성)이 숨은 수혜자임을 국제 비교로 조명.
+- 다룬 종목/기업: $AVGO (Broadcom), $TSM (TSMC), $MRVL (Marvell), $NVDA (비교), 삼성전자, SK하이닉스, Google, Meta, Amazon, Microsoft, OpenAI, Anthropic, Huawei Ascend
+- 핵심 주장/결론: ASIC 성장률(44.6%)이 GPU(16.1%)를 압도하며 2028년 출하량 추월 예정. 픽앤샤블 수혜는 $AVGO($73B 수주잔고)·$TSM·$MRVL이며, 한국 HBM은 ASIC 슈퍼사이클의 필수 소재로 +82% 수요 급증 전망.
+- 1차 자료 출처: SEC EDGAR Broadcom 10-K × 1, TSMC Q1 2026 어닝콜 트랜스크립트 × 1, Google Cloud 공식 블로그 × 1, Meta 공식 뉴스룸 × 1, Microsoft 공식 블로그 × 1, TrendForce 보고서 × 1, Bloomberg Intelligence 보고서 × 1 (총 7건)
+- 판정: Minor (5개 개선점 반영 — Ironwood 공정 노드 표기 완화, TSMC 이익률 표현 수정, Blackwell 매진 표현 완화, 칩 성능 테이블 H100 기준 행 추가, 결론 여운 문장 추가)

@@ -1,117 +1,167 @@
-# 주사기 없는 세계가 열렸다 — GLP-1 혁명 2막과 메디케어 1400만 명의 문
+# 당신의 Claude와 ChatGPT를 돌리는 칩은 이제 NVIDIA가 아니다 — ASIC 슈퍼사이클의 서막
 
-*2026년 5월 8일 | 딥다이브 | 📡 테크 트렌드*
-
----
-
-올해 1월 5일, 미국의 약국 진열대에 조용히 새 알약 하나가 올라왔습니다. 노보 노디스크의 구강형 Wegovy — 세계에서 가장 많이 팔리는 비만 치료제가 드디어 주사기를 버린 날이었습니다. 그로부터 4개월 뒤, 경쟁사 일라이 릴리도 Foundayo(포운다요)라는 알약을 들고 등장했습니다. 그리고 이번 주, 미국 정부가 선언했습니다. "메디케어 수혜자 1400만 명에게 월 5만원($50)에 이 알약을 드리겠습니다."
-
-세 사건이 하나의 문장으로 수렴합니다. 2026년은 GLP-1이 주사에서 알약으로, 부유층 전유물에서 노인층 생활약으로 탈바꿈한 해입니다.
+**2026-05-11 | 테마: AI 인프라/반도체 | 유형: 📡 테크 트렌드**
 
 ---
 
-## 처방전이 두 배가 된 날
+## 🎬 1. 이야기: Midjourney가 서버실 이사를 결정한 날
 
-노보 노디스크가 2026년 1분기 실적을 발표하자 월스트리트가 잠시 멈칫했습니다. 구강형 Wegovy(semaglutide 25mg)의 Q1 매출이 DKK 22.6억(약 $3억5400만)으로 집계됐는데, 이는 애널리스트 예상(DKK 11.6억)의 거의 정확히 두 배였거든요. 처방 건수도 Q1에만 130만 건. 출시 4개월 만에 누적 200만 건을 넘어섰습니다. 같은 기간 Wegovy 브랜드(주사 + 알약 합산)는 미국 신규 처방의 65%를 가져갔습니다.
+2026년 봄, 이미지 생성 AI 스타트업 Midjourney는 조용한 결정을 내렸다. 수백만 달러짜리 NVIDIA GPU 서버에서 Google의 TPU 클라우드로 워크로드를 이전한 것이다. 이유는 단 하나 — 월 비용이 **$210만에서 $70만으로 65% 줄었다**.
 
-텔레헬스 기업 LifeMD는 구강형 Wegovy 출시 당일 신규 환자가 하루 1000명으로 두 배 뛰었다고 밝혔습니다. 물론 GLP-1 주사제는 여전히 강합니다 — 주사제 Wegovy와 Zepbound는 임상에서 20%+의 체중 감소를 보이는 반면, 구강형은 16.6%(Wegovy 알약, OASIS 4 임상)입니다. 하지만 바늘 공포, 냉장 보관 필요, 주 1회 자가주사라는 장벽이 사라지자 완전히 새로운 인구가 처방전을 받으러 오기 시작했습니다.
+이 한 줄의 숫자가 2026년 AI 반도체 시장에서 일어나고 있는 조용한 혁명을 압축한다.
 
-노보의 CEO는 어닝콜에서 "경쟁사 알약(Foundayo)이 4월에 출시됐음에도 우리 알약 매출이 두 자릿수 성장을 지속하고 있다"고 말했습니다. 이것이 단순한 자신감 발언이 아님을 보여주는 숫자가 있습니다 — 노보는 2026년 연간 가이던스를 상향했습니다.
+2022년 11월, ChatGPT가 세상을 뒤흔들던 그 순간부터 NVIDIA는 AI 인프라의 절대 권력자였다. H100 GPU는 단 한 개에 3만 달러를 호가해도 순식간에 매진됐다. 빅테크는 앞다퉈 'NVIDIA 우선' 전략을 세웠다. 하지만 2026년, 같은 빅테크 기업들이 직접 칩을 설계하기 시작했다.
 
----
+구글은 7세대 TPU 'Ironwood'를 공개했다. 메타는 단 하루에 4세대 칩 로드맵을 발표했다. 아마존은 3나노 공정의 Trainium 3를 AWS에 올렸다. 마이크로소프트는 자사 데이터센터에서 OpenAI GPT-5.2 모델을 직접 개발한 'Maia 200'으로 돌리기 시작했다. 모두 NVIDIA GPU 없이.
 
-## 두 알약의 차이: 펩타이드 vs 소분자
-
-구강형 GLP-1 경쟁에는 미묘하지만 중요한 기술 차이가 있습니다. 노보의 구강형 Wegovy는 semaglutide — 즉 주사제와 똑같은 펩타이드 분자를 SNAC라는 흡수 촉진제와 함께 캡슐화한 것입니다. 복용 30분 전 공복 상태에서 물 120ml와 함께 삼켜야 하고, 복용 후 30분간 음식을 먹으면 안 됩니다. 효능은 높지만(16.6%), 복약 지침이 까다롭습니다.
-
-일라이 릴리의 Foundayo(orforglipron)는 다릅니다. **비펩타이드 소분자(small molecule non-peptide)** — 화학 구조 자체가 달라서 위산에서 분해되지 않고 장벽을 통과합니다. 덕분에 "하루 중 언제, 음식 있든 없든, 물 제한 없이" 복용이 가능합니다. 2026년 4월 1일 FDA가 이 점을 명시해 승인했습니다.
-
-릴리가 자랑하는 이 '제약 없음'이라는 특성이 실제 시장에서 중요한 이유는, 복약 순응도(adherence)가 만성질환 치료의 핵심이기 때문입니다. 체중 감소 효능은 12%(72주, 최고 용량)로 노보보다 낮지만, 실제 복용률이 높으면 장기적으로 더 나은 결과를 낼 수 있습니다. 실제로 Foundayo 초기 환자 2만 명 중 80%가 GLP-1 클래스를 처음 시작하는 신규 환자였습니다 — 주사제의 문턱을 넘지 못했던 사람들이 알약으로는 도전하는 것입니다.
+이것은 단순한 기술 경쟁이 아니다. **추론(Inference)이 AI 컴퓨트의 2/3를 차지하는 시대**로 넘어오면서, 범용 GPU보다 특정 작업에 최적화된 전용 칩(ASIC)이 경제적으로 압도적 우위를 갖기 시작했다. 변곡점은 이미 지나쳤다. 지금은 그 파도가 얼마나 높이 치솟는지를 가늠하는 시간이다.
 
 ---
 
-## 7월 1일: 문이 열리는 날
+## 📈 2. 10년 차트가 보여주는 단 하나의 변곡점
 
-이번 주 가장 중요한 뉴스는 실적이 아니었습니다. 5월 5~7일 사이, 미국 CMS(메디케어·메디케이드 서비스센터)가 **Medicare GLP-1 Bridge** 프로그램을 공식 발표했습니다.
+**2016년 NVIDIA의 데이터센터 매출은 $3억이었다.**
 
-2026년 7월 1일부터 2027년 12월 31일까지, 적격 메디케어 Part D 수혜자는 월 $50(약 7만원)의 본인부담금으로 GLP-1 비만 치료제를 받을 수 있습니다. 대상 약물은 Foundayo(orforglipron), 구강형 Wegovy, Zepbound(주사제) 세 가지입니다. 자격 기준은 BMI 27 이상 + 심혈관질환·당뇨전증 등 동반질환 1개 이상입니다.
+10년이 지난 2026년, 그 숫자는 $1,300억(FY2026 전망)으로 불어났다. 약 430배. 인류 역사상 어떤 기업도 이 속도로 성장한 적이 없었다. NVIDIA의 AI 가속기 시장 점유율은 2024년 87%까지 치솟았다. 이것이 피크였다.
 
-현재 비만 진단을 받은 메디케어 수혜자는 약 1400만 명. 넓은 기준을 적용하면 CBO는 최대 2900만 명이 혜택 범위에 들어온다고 추산합니다. 오늘까지 GLP-1 주사제의 자가부담 비용이 월 $1000~1500을 넘어 사실상 접근 불가였던 인구가 $50에 처방을 받을 수 있게 되는 겁니다. 자동차로 비유하면, 슈퍼카 전시장이 대중 브랜드 딜러십으로 바뀌는 순간입니다.
+### 추론 비용의 폭락, 그리고 ASIC의 시간
 
-7월 1일 이전에 이미 Foundayo 처방이 가능해진다는 점에서, 이 정책은 $LLY의 Foundayo 매출에 직접 불을 지피는 촉매입니다. 애널리스트들이 Foundayo의 2026년 매출을 $15~28억으로 전망하는 이유도 여기 있습니다.
+동시에, 추론 토큰 비용의 역사적 붕괴가 진행됐다:
 
----
+- **2022년 11월**: GPT-3.5급 성능에 $20/100만 토큰
+- **2024년 10월**: $0.07/100만 토큰
+- **2026년 (추정)**: $0.01 미만
 
-## 뇌까지 달라진다: GLP-1의 예상치 못한 확장
+2년 만에 **99.6% 하락**. Epoch AI Research가 추적한 이 곡선의 가속 원인 중 하나가 바로 커스텀 실리콘이다.
 
-체중 감소 너머에서도 GLP-1 이야기는 계속됩니다. 이번 주 NIH가 발표한 연구는 흥미롭습니다. 구강형 소분자 GLP-1 약물이 뇌 깊숙한 보상 회로(reward circuit)를 직접 조절한다는 것입니다. 단순히 포만감을 높이는 것이 아니라, '먹는 즐거움'을 추구하는 뇌의 충동 자체를 억제하는 메커니즘 — 주사제와는 다른 경로였습니다.
+### ASIC의 시간표
 
-이 발견이 투자자에게 흥미로운 이유는, 뇌 보상 회로를 조절한다는 것이 중독, 우울, 신경퇴행성 질환 치료로 이어질 가능성을 시사하기 때문입니다. UCSF 연구팀은 차세대 GLP-1이 신경보호 효과를 더 증폭시킬 수 있다고 전망했습니다.
+TrendForce의 2026 Cloud AI Outlook에 따르면, 커스텀 ASIC의 성장률은 **44.6%**인 반면 GPU 성장률은 **16.1%**다. Bloomberg Intelligence는 AI 가속기 시장에서 ASIC의 비중이 2024년 8%에서 **2033년 19%**로 늘어날 것으로 전망했다. 그리고 결정적인 예측 하나: **2028년, ASIC 출하량이 GPU를 추월한다**.
 
-물론 뇌 치료제로서의 GLP-1은 아직 초기입니다. 올해 Phase 3 EVOKE(+) 임상에서 semaglutide가 알츠하이머 진행을 늦추지 못한다는 결과가 나왔습니다 — 3800명을 2년간 추적한 가장 큰 GLP-1 신경과학 임상이었는데도요. 하지만 이 실패 속에서도 뇌 바이오마커(pTau181, pTau217, 신경염증 지표)는 개선됐습니다. 연구자들이 내린 결론은 '치료보다 예방'에서 답을 찾아야 한다는 것입니다. 초기 단계에서 GLP-1을 복용한 사람이 10~20년 뒤 알츠하이머 발병률이 낮다면 — 이건 단순한 비만 치료제가 아니게 됩니다.
+### 왜 지금인가? — 추론의 지배
 
----
+2023년, AI 컴퓨트에서 추론이 차지하는 비중은 1/3이었다. 2026년, 그 비중은 **2/3**가 됐다(Deloitte 전망). ChatGPT와 Claude를 수억 명이 쓰는 시대, 모델을 한 번 훈련시키는 비용보다 매초 수백만 건의 질문에 답하는 '추론' 비용이 훨씬 크다는 뜻이다. TSMC의 CC Wei CEO는 2026년 4월 어닝콜에서 이렇게 말했다: *"아젠틱 AI로의 전환이 추론에서 소비되는 토큰 수를 급격히 늘리고 있다. 이는 최첨단 실리콘에 대한 강력한 수요를 지지한다."*
 
-## 숫자로 보는 전장: $950억짜리 시장이 흔들린다
-
-Goldman Sachs는 2030년 전 세계 항비만 약물 시장이 $950억에 달할 것으로 전망합니다. 이 중 구강형 알약이 24~25%, 약 $220억을 가져갈 것이라는 예상입니다. 현재 항비만 파이프라인 중 43%가 이미 경구 투여 방식으로 개발 중입니다.
-
-$LLY의 현재 위치: GLP-1 시장 점유율 60%, Q1 2026 매출 $198억 (+56% YoY), Mounjaro(tirzepatide) 매출 +125%. 연간 가이던스를 $820~850억으로 상향했습니다. 시장을 이미 지배하고 있는데, 알약이라는 두 번째 전선을 열면서 신규 처방자(GLP-1 미경험자) 포획에 나서고 있습니다.
-
-$NVO의 현재 위치: Q1 전체 매출 $152억 (+32% 불변환율 기준), 구강형 Wegovy로 처방 경쟁 주도. 그러나 2026년 가이던스를 -4%~-12%로 하향한 이유가 있습니다 — Ozempic·Rybelsus 특허 만료가 다가오고 있기 때문입니다. 바이오시밀러 위협이 현실화되기 전에 구강형 플랫폼으로 성을 쌓아야 하는 상황입니다. Novo가 이번 분기를 필사적으로 이겨야 했던 이유입니다.
+그 '최첨단 실리콘'이 이제 반드시 NVIDIA일 필요는 없게 됐다. 추론 작업은 하나의 모델, 하나의 요청 패턴이 반복된다 — ASIC이 가장 잘하는 영역이다.
 
 ---
 
-## GLP-1이 만드는 다음 10년
+## 🌏 3. 미국, 한국, 중국, 유럽이 모두 다른 게임을 하고 있다
 
-2026년을 GLP-1 알약의 원년이라고 부를 수 있는 근거는 숫자에 있습니다. 처방 200만 건, 예상 두 배 매출, 1400만 명에게 열리는 접근 창구. 그러나 이 이야기의 진짜 의미는 그것보다 큽니다.
+### 🇺🇸 미국: 빅테크 5사의 칩 군비경쟁
 
-주사기가 필요했을 때, GLP-1은 '돈 있는 사람의 약'이었습니다. 냉장 보관이 필요했고, 자가 주사를 배워야 했고, 처방받아도 보험이 안 됐으니까요. 알약이 되고 메디케어 코페이가 $50으로 떨어지면서, 이 약은 처음으로 '만성병 치료제'의 문법 안에 들어옵니다 — 고혈압약, 당뇨약처럼 아침마다 먹는 약이 되는 것입니다.
+구글, 메타, 아마존, 마이크로소프트, OpenAI. 이 5개 기업이 2026년 집행할 AI 인프라 capex는 합산 **$660~690B**이며, 이 중 75%가 AI 인프라에 쏠린다. 그리고 이 돈의 점점 더 많은 부분이 NVIDIA가 아닌 자체 ASIC에 흐른다.
 
-그것이 일어나는 시장은 지금의 $54.8억(2024년 기준 전체 GLP-1 시장)에서 Goldman Sachs가 예측하는 $950억으로 팽창합니다. 약의 효능이 아니라, 접근성이 시장을 키우는 겁니다.
+각 사의 최신 칩 성능 비교:
 
-알약으로 살을 빼고, 뇌를 보호하고, 노화를 늦출 수 있는 가능성 — GLP-1이 단순한 비만 치료제가 아닌 '건강 수명 연장 도구'로 재정의되는 순간, 이 산업의 크기는 지금 상상하는 것보다 훨씬 커질 수 있습니다.
+| 기업 | 칩 | 성능(FP8) | 공정 | 특징 |
+|------|----|---------|------|------|
+| Google | Ironwood TPU v7 | 4.6 PFLOPS/칩 | TSMC N3 | Anthropic 100만 개 배포 |
+| Meta | MTIA 400 | 6.0 PFLOPS/칩 | TSMC | 6개월 출시 주기 |
+| Amazon | Trainium 3 | 2.52 PFLOPS/칩 | TSMC 3nm | UltraServer 362 PFLOPS |
+| Microsoft | Maia 200 | 5.0 PFLOPS/칩(FP8) | TSMC 3nm | OpenAI GPT-5.2 구동 |
+
+단순 비교만으로는 뉘앙스가 빠진다. 각 칩은 해당 회사의 소프트웨어 스택, 모델 아키텍처, 데이터센터 설계와 수직 통합돼 설계됐다. Midjourney가 NVIDIA GPU에서 구글 TPU로 이전하는 건 쉽지 않다. 하지만 **자사 AI 서비스만 돌리는 빅테크에게는 최적의 선택**이 된다.
+
+픽앤샤블의 왕은 **Broadcom($AVGO)**이다. 구글 TPU, 메타 MTIA, Anthropic 칩 모두 Broadcom이 설계 파트너다. 2026년 Q1 AI 반도체 매출 $8.4B(+106% YoY), Q2 가이던스 $10.7B. AI 수주잔고만 $73B. Broadcom의 FY2025 10-K(SEC EDGAR 제출)에 따르면, 총매출 $63.9B 중 AI 반도체가 핵심 성장 동력으로 부상했다.
+
+또 다른 픽앤샤블인 **Marvell($MRVL)**은 AWS Trainium과 Microsoft Maia의 네트워킹 ASIC을 담당하며 ASIC 시장 20~25%를 점유한다.
+
+### 🇰🇷 한국: 보이지 않는 HBM 독점
+
+이 모든 ASIC 칩에는 하나의 공통점이 있다 — **고대역폭메모리(HBM)**. 구글 Ironwood는 HBM3e 192GB, 메타 MTIA 400은 HBM 288GB, 마이크로소프트 Maia 200은 HBM3e 216GB. 이 메모리의 상업적 생산은 사실상 한국 두 기업이 독점한다.
+
+**SK하이닉스**: 2025년 HBM 출하 점유율 62%, 매출 점유율 57%. Microsoft Maia 200의 HBM 독점 공급사. 2026년 투자 규모를 4배 이상 확대 예정.
+
+**삼성전자**: Meta MTIA 공급 파트너. 2026년 HBM 생산 ~50% 증산.
+
+TrendForce에 따르면, ASIC 기반 AI 칩 전용 HBM 수요는 **+82%** 급증할 전망이다. ASIC 슈퍼사이클의 가장 조용하고, 가장 확실한 수혜자다.
+
+### 🇨🇳 중국: 화웨이의 고립된 생태계
+
+미국의 수출 통제로 중국은 별도의 AI 칩 생태계를 구축 중이다. 화웨이의 Ascend 910C는 SMIC 7nm 공정에도 불구하고 NVIDIA H100의 약 80% 수준의 컴퓨트 성능을 낸다. 2026년 60만 개 생산 목표. 더 주목할 것은 **Ascend 950PR** — FP4 성능이 NVIDIA H20의 2.8배로 ByteDance가 $5.6B을 선주문했다.
+
+중국은 TSMC와 ASML의 최신 장비에 접근할 수 없어 전력 효율에서 구조적 열세를 가진다. 하지만 국내 수요 규모만으로도 독자 생태계를 유지할 수 있는 거대 시장이다.
+
+2026년 5월 10~11일 미중 제네바 합의(관세 115% → 30%)는 전통적 수출 통제에는 큰 변화를 주지 않지만, TSMC와 Broadcom의 공급망 불확실성을 낮추는 긍정적 신호다.
+
+### 🇪🇺 유럽: 리소스 없는 야망
+
+유럽은 EU Chips Act로 2030년까지 세계 반도체 시장 점유율을 현재 10%에서 20%로 높이겠다는 목표를 세웠다. ASML의 High-NA EUV 장비는 세계 유일이며, IMEC(벨기에)의 NanoIC 파일럿 라인이 유럽의 희망이다. 그러나 유럽 감사원은 2025년 4월 이 목표가 "매우 달성하기 어렵다"고 평가했다. 유럽은 칩 제조 장비(ASML)는 독점하지만, 정작 커스텀 AI 칩을 설계·운영할 하이퍼스케일러가 없다.
 
 ---
 
-## 투자 지형도
+## ⚖️ 4. NVIDIA가 틀릴 수 없는 이유, 그럼에도 틀릴 수 있는 이유
 
-**$LLY (Eli Lilly)**: 공격수. GLP-1 점유율 60% + Foundayo 신규 처방자 확보 + 메디케어 브릿지 수혜 직격탄. Q1 가이던스 상향이 이미 발표됐다. 단, orforglipron FDA 간부전 보고서와 같은 안전성 이슈는 지속 모니터링 필요.
+### 🐂 Bull: ASIC은 추론을, GPU는 훈련을 — 두 시장 모두 성장한다
 
-**$NVO (Novo Nordisk)**: 수비수 + 선발주자. 처방 경쟁에서 앞서고 있지만 바이오시밀러 압박이 주요 리스크. 구강형 포트폴리오로 기존 특허 제품 잠식 방어 중.
+가장 강력한 반론은 NVIDIA 자신이 제기한다. AI 훈련은 여전히 GPU의 영역이다. NVIDIA의 훈련 시장 점유율은 90%에 달하며, CUDA 소프트웨어 생태계는 15년 이상 쌓아온 방어벽이다. 빅테크가 자체 칩을 만들더라도 최첨단 모델 훈련에는 NVIDIA Blackwell이 필수다. 시장 전체가 커지는 중이니 NVIDIA의 절대 매출은 오히려 늘어날 수 있다 — 점유율이 87%에서 75%로 줄어도, 시장이 5배 커지면 절대 매출은 늘어난다.
 
-**관련 픽앤샤블**: 텔레헬스(LifeMD, Hims & Hers), 약국 체인(CVS, Walgreens), 비만 관련 합병증 치료 회사(수면무호흡 기기, 인슐린 펌프)는 GLP-1 접근성 확대의 간접 수혜자이자 일부는 위협을 받는다. GLP-1이 보편화되면 수술적 치료(비만대사수술)와 인슐린 시장은 수축할 수 있다.
+게다가 NVIDIA는 Blackwell Ultra, Rubin 아키텍처를 준비 중이다. CUDA 생태계에서 벗어나는 비용은 천문학적이다. 수십만 개의 기존 AI 모델이 CUDA 최적화로 작성돼 있다.
+
+### 🐻 Bear: 추론 = 돈, 그리고 돈은 ASIC으로 간다
+
+카운터 시나리오는 간단하다. AI 시대에서 **돈을 버는 것은 추론**이다. 구글 검색, 메타 피드 알고리즘, 아마존 상품 추천 — 이 모든 것이 초당 수백만 건의 추론이다. 그리고 추론에서 ASIC은 GPU보다 30~50% 낮은 TCO를 제공한다. Midjourney의 사례처럼 65% 비용 절감이 현실이다. 하이퍼스케일러가 자체 칩 개발에 $1B을 투자하면 5년간 $10B의 GPU 비용을 절감할 수 있다 — ROI가 10배다.
+
+더 날카로운 비판: NVIDIA의 Blackwell 시스템은 매진 상태이지만, 이는 인위적으로 낮은 공급의 결과이기도 하다. 빅테크가 ASIC 생산을 가속하면, NVIDIA GPU 대기 수요가 단기간에 급감할 수 있다.
+
+### 🃏 가장 의외의 리스크: ASIC도 GPU처럼 공급 부족
+
+아이러니하게도, ASIC 붐의 가장 큰 위험은 ASIC 자체의 공급 제약이다. Broadcom이 설계하고, TSMC가 만들고, SK하이닉스가 HBM을 공급하는 이 체인 어디서든 병목이 생기면 사이클이 꺾인다. TSMC는 이미 N3 공정을 최대 가동 중이다. 하이퍼스케일러 모두가 동시에 ASIC을 원할 때 누가 먼저 얻는지가 새로운 경쟁이 된다.
 
 ---
 
-## 머뉴's Advice
+## 💡 5. 투자자에게 남는 것: 칩 전쟁의 진짜 수혜자를 찾아라
 
-**1. 알약 전환 속도에 주목**: 메디케어 브릿지 7월 1일 시작 후 처방 데이터가 3분기 어닝(10월)에 반영된다. 그 전까지 $LLY와 $NVO 실적 콜에서 "pill uptake" 키워드를 주시하라.
+### 📌 포지션 프레임
 
-**2. 효능 격차 좁히는 차세대 알약 파이프라인 체크**: Structure Therapeutics(aleniglipron) Phase 2에서 15% 체중 감소 달성. Pfizer도 장기지속형 주사제로 맞불. '12%→20%'의 효능 격차가 좁혀지는 순간, 알약이 주사제를 완전히 대체하는 시나리오가 현실화된다.
+ASIC 슈퍼사이클에서 투자 기회를 구조적으로 정리하면:
 
-**3. 뇌 건강 파이프라인은 2030년대의 이야기**: 알츠하이머 임상 실패에도 불구하고 바이오마커 개선이 확인됐다. '예방' 적응증으로 GLP-1의 FDA 적응증이 확대되는 순간 — TAM이 비만 시장을 초과할 수 있다. 장기 시계열로 관찰하라.
+**Tier 1 — 직접 수혜, 가시성 높음**
+
+**$AVGO (Broadcom)** — 이 판의 진짜 픽앤샤블. 고객이 NVIDIA든 구글이든 메타든, 칩을 직접 만들려면 Broadcom이 필요하다. AI 수주잔고 $73B은 2027년 중반까지 매출 가시성을 제공한다. 5번째 XPU 고객 추가($1B 초기 주문) 확인. FY26 AI 매출 $40.4B 목표. 리스크: Apple이나 Amazon이 완전 내재화할 경우 고객 이탈.
+
+**$TSM (TSMC)** — ASIC이든 GPU든 모두 TSMC가 만든다. FY2026 가이던스 >30% USD 성장, 총이익률 66.2% 사상 최고. ASIC 붐은 N3, N2 선단 공정 수요를 폭증시킨다. 미중 무역합의로 공급망 리스크 소폭 감소.
+
+**Tier 2 — 간접 수혜, 성장 가시성**
+
+**$MRVL (Marvell)** — AWS, Microsoft의 네트워킹 ASIC 파트너. ASIC 시장 20~25% 점유. 빅테크가 ASIC을 더 많이 만들수록 Marvell의 네트워킹 IC 수요도 비례 증가.
+
+**$005930 KS / $000660 KS (삼성·SK하이닉스)** — HBM 없이는 ASIC도 없다. ASIC용 HBM 수요 +82% 전망. 국내 투자자에게는 ASIC 테마의 가장 직접적인 한국 플레이.
+
+**Tier 3 — 관심 지속, 催 진입 조건 필요**
+
+**$NVDA** — 단기 매도 근거 없음. AI 훈련 90% 점유 + Blackwell 매진. 다만 ASIC 점유율 잠식이 구조적 추세임을 인지하고 FY2027 가이던스 반응을 지켜볼 것. 추론 시장 대응으로 NIM 플랫폼, GB300 Ultra 동향 주시.
+
+### ⚡ 카탈리스트 캘린더
+
+- **5월 중순**: 미중 90일 유예 기간 내 구체적 실행 조건 공개 예정
+- **6월 2~3일**: Microsoft Build 2026 — Maia 200 확장 발표 예상
+- **6월 4~11일 (추정)**: Broadcom Q2 FY26 실적 발표 (가이던스 $10.7B 달성 여부)
+- **2026년 H2**: OpenAI 커스텀 칩 양산 시작 → AVGO 6번째 XPU 고객 확인 가능성
+
+### 🎯 핵심 체크 포인트
+
+ASIC 슈퍼사이클 내러티브가 틀렸다는 신호:
+- Broadcom이 주요 고객 중 하나(구글, 메타)를 잃거나 계약을 갱신 못할 때
+- TSMC N3 수율이 급격히 나빠져 ASIC 생산 차질 발생 시
+- NVIDIA가 추론 전용 저전력 칩으로 ASIC 영역에 역침투할 때
 
 ---
 
-## 출처
+## 📚 출처
 
-- [CNBC — NVO Q1 2026 earnings: Wegovy sales jump](https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html)
-- [BioPharma Dive — Novo hikes guidance on Wegovy pill's fast sales start](https://www.biopharmadive.com/news/novo-nordisk-wegovy-pill-sales-prescriptions-q1-2026/819418/)
-- [TIKR — Novo Nordisk Q1 2026: Wegovy Pill Doubles Estimates](https://www.tikr.com/blog/novo-nordisk-q1-2026-wegovy-pill-doubles-estimates-as-nvo-stock-recovers)
-- [GlobeNewswire — Novo Nordisk Q1 2026 실적 발표](https://www.globenewswire.com/news-release/2026/05/06/3288491/0/en/novo-nordisk-s-adjusted-operating-profit-reached-dkk-32-858-million-in-q1-2026.html)
-- [AJMC — FDA Approves Oral Semaglutide for Weight Loss](https://www.ajmc.com/view/fda-approves-oral-semaglutide-as-first-glp-1-pill-for-weight-loss)
-- [Eli Lilly — FDA approves Foundayo (orforglipron)](https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill)
-- [AJMC — FDA Approves Lilly's Oral GLP-1 Orforglipron for Obesity](https://www.ajmc.com/view/fda-approves-lilly-s-oral-glp-1-orforglipron-for-obesity)
-- [GoodRx — Orforglipron/Foundayo News](https://www.goodrx.com/conditions/weight-loss/orforglipron-danuglipron-new-weight-loss-drug)
-- [Insider Monkey — Eli Lilly Q1 2026 Revenue Surge 56%](https://www.insidermonkey.com/blog/eli-lilly-lly-reports-q1-2026-revenue-surge-of-56-following-fda-approval-of-foundayo-1755464/)
-- [247wallst — Eli Lilly Captures 60% of GLP-1 Market](https://247wallst.com/investing/2026/05/04/eli-lilly-captures-60-of-the-glp-1-market-as-mounjaro-revenue-soars-125/)
-- [CMS — Medicare GLP-1 Bridge 공식 발표](https://www.cms.gov/newsroom/press-releases/coming-soon-cms-provide-50-monthly-access-glp-1-medications-medicare-beneficiaries)
-- [NPR — Medicare to launch weight loss drug option in July with $50 copay](https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay)
-- [KFF — BALANCE Model for GLP-1s in Medicare and Medicaid](https://www.kff.org/medicare/what-to-know-about-the-balance-model-for-glp-1s-in-medicare-and-medicaid/)
-- [NIH — Oral small-molecule GLP-1 drugs penetrate deep into the brain](https://www.nih.gov/news-events/news-releases/oral-small-molecule-glp-1-drugs-penetrate-deep-into-brain-suppress-cravings)
-- [Nature Medicine — GLP-1 receptor agonist fails to halt Alzheimer's disease](https://www.nature.com/articles/d41591-026-00018-2)
-- [Science AAAS — Popular obesity drug fails in Alzheimer's trials](https://www.science.org/content/article/popular-obesity-drug-fails-hotly-anticipated-alzheimer-s-trials)
-- [Goldman Sachs — Anti-obesity drug market outlook](https://www.goldmansachs.com/insights/articles/anti-obesity-drug-market)
-- [CNBC — 2026 is the year of obesity pills](https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html)
-- [CNBC — Novo Nordisk Wegovy pill beating Eli Lilly Foundayo early](https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html)
+| 자료 | 유형 | URL |
+|------|------|-----|
+| Broadcom FY2025 10-K | SEC EDGAR (1차) | [SEC.gov](https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm) |
+| TSMC Q1 2026 어닝콜 | 실적발표 트랜스크립트 (1차) | [Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-tsmcs-q1-2026-shows-strong-growth-and-margin-gains-93CH-4617167) |
+| Google Cloud — Ironwood TPU | 기업 공식 블로그 (1차) | [Google Cloud](https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads) |
+| Meta — MTIA 발표 | 기업 공식 뉴스룸 (1차) | [about.fb.com](https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/) |
+| Microsoft — Maia 200 발표 | 기업 공식 블로그 (1차) | [Microsoft Blog](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) |
+| TrendForce 2026 Cloud AI Outlook | 산업 리서치 보고서 (1차) | [TrendForce](https://www.trendforce.com/research/download/RP251105VO) |
+| Bloomberg Intelligence AI 가속기 | 시장 조사 (1차) | [Bloomberg](https://www.bloomberg.com/company/press/ai-accelerator-market-looks-set-to-exceed-600-billion-by-2033-driven-by-hyperscale-spending-and-asic-adoption-according-to-bloomberg-intelligence/) |
+| White House 미중 합의 브리핑 | 정부 성명 | [WhiteHouse.gov](https://www.whitehouse.gov/briefings-statements/2025/05/joint-statement-on-u-s-china-economic-and-trade-meeting-in-geneva/) |
+| ARK Invest AI 인프라 리서치 | 투자 리서치 | [ARK Invest](https://www.ark-invest.com/articles/analyst-research/the-state-of-ai-infrastructure-demand-costs-custom-silicon) |
+| SK하이닉스 2026 아웃룩 | 기업 공식 | [SK하이닉스](https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/) |
+| Epoch AI Research 토큰 비용 | 학술 리서치 | [epochai.org](https://epochai.org) |
+
