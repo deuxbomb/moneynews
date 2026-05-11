@@ -1,38 +1,42 @@
 # 앵커 소스 — 14:00 트리거가 우선 활용
-# 테마: 트럼프 $1.5조 국방 예산과 2027~2031 방산 슈퍼사이클
+# 테마: Apple·Microsoft·Amazon이 동시에 Intel로 향한다 — TSMC 독점의 균열
+# 선정일: 2026-05-11
 
-## 1차 자료 (필수 활용)
+## 1차 자료 (SEC EDGAR / 공식 발표)
+- [Intel SEC EDGAR 10-K] https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC&type=10-K&dateb=&owner=include&count=10
+  → IFS(인텔 파운드리 서비스) 분사 이후 수익 구조, 외부 고객 매출, 18A 공정 원가 구조
 
-- [Breaking Defense] https://breakingdefense.com/2026/04/paradigm-shifting-1-5t-defense-budget-to-enable-multiyear-contracts-omb-director/
-  → OMB 국장 인터뷰 포함. 멀티이어 계약 제도화 근거. "패러다임 시프트" 발언 직접 인용 가능.
+- [TSMC Form-20F (연간보고서)] https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSM&type=20-F&dateb=&owner=include&count=10
+  → 고객 집중도(Apple 비중 약 25%), 공정별 매출 비중, 2026 capex 가이던스
 
-- [U.S. Department of War] https://www.war.gov/News/Releases/Release/Article/4466038/department-of-war-releases-the-presidents-fiscal-year-2027-budget/
-  → 공식 예산 문서 발표 페이지. 1차 정부 자료.
+## 뉴스/분석 1차 취재
+- [CNBC] https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html
+  → Apple-Intel 딜 원보도, Intel 파운드리 전략 피벗 의미 해설 (2026-05-08)
 
-- [Breaking Defense — 재정조정 리스크] https://breakingdefense.com/2026/05/heres-whats-at-risk-if-the-pentagons-350b-reconciliation-gambit-fails/
-  → $350B 재정조정 부결 시나리오 상세. Bear 케이스 핵심 자료.
+- [CNBC] https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html
+  → "AI 칩 사랑이 NVIDIA에서 Intel·AMD·Micron으로" — 반도체 수급 다변화 흐름 조망 (2026-05-08)
 
-- [CSMonitor — 예산 상세] https://www.csmonitor.com/USA/Military/2026/0429/trump-pentagon-defense-budget
-  → 드론 $74B, 탄약 188%, 함선 등 항목별 분류 정리.
+- [9to5Mac] https://9to5mac.com/2026/05/08/apple-and-intel-have-reached-a-deal-to-produce-future-chips-report/
+  → Apple 측 관점 + 미래 칩 라인업 추측 (2026-05-08)
 
-- [Army Recognition — 골든돔] https://www.armyrecognition.com/news/army-news/2026/u-s-invests-17-9-billion-in-golden-dome-air-and-missile-defense-system-to-counter-china-russia-threats
-  → 골든돔 $17.9B FY2026 집행 구체 수치.
+- [MacRumors] https://www.macrumors.com/2026/05/08/apple-intel-preliminary-chip-deal/
+  → "preliminary agreement" 상세 + Apple Silicon 라인업 영향 분석 (2026-05-08)
 
-- [19FortyFive — 드론 예산 237배] https://www.19fortyfive.com/2026/04/a-paradigm-shift-the-pentagons-drone-budget-request-jumped-237x-in-one-year/
-  → 드론 예산 237배 급증 수치 출처. 핵심 스탯.
+- [GigaNectar] https://giganectar.com/apple-intel-chip-manufacturing-deal-tsmc-us-foundry/
+  → Intel 주가 +200% 맥락 + "The Only Place That Can Scale Up" 분석 (2026-05-10)
 
-## 보조 자료
+## 시장 데이터 / 산업 보고서
+- [IDC 반도체 시장 전망] https://www.idc.com/resource-center/blog/semiconductor-market-to-surge-past-the-trillion-dollar-threshold-ai-infrastructure-drives-market-growth/
+  → 2026년 반도체 시장 $1.29조 전망, DRAM 3배 성장, HBM 수요 분석
 
-- [Arms Control Association — 비용 분석] https://www.armscontrol.org/act/2026-05/news/costs-soar-145-trillion-defense-request
-  → Bear 케이스 지원. 예산 과대 계상 비판 시각.
+- [Deloitte 2026 반도체 아웃룩] https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/semiconductor-industry-outlook.html
+  → TSMC 72% 점유율 데이터, Intel IFS 진입 맥락, 지정학 리스크
 
-- [National Defense Magazine — 골든돔 지연] https://www.nationaldefensemagazine.org/articles/2026/4/10/pentagons-flagship-golden-dome-missile-defense-program-spinning-its-wheels
-  → 골든돔 집행 지연 이슈. Bear 보완.
+- [Manufacturing Dive (Omdia)] https://www.manufacturingdive.com/news/opinion-omdia-ai-semiconductor-chip-scarcity/817172/
+  → AI 칩 공급 병목: 전력·구리·헬륨 쇼티지가 TSMC 이전을 강제하는 구조적 이유
 
-- [K-방산 수출 56조] https://ygdata.kr/article/1065590790958193
-  → 국제 비교 섹션용. 2026년 K-방산 역대 최고 수출 예고.
-
-## SEC EDGAR 검색 경로 (14:00 직접 WebFetch)
-- LMT 10-K: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LMT&type=10-K&dateb=&owner=include&count=5
-- RTX 10-K: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RTX&type=10-K&dateb=&owner=include&count=5
-- KTOS 10-K: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KTOS&type=10-K&dateb=&owner=include&count=5
+## 14:00 트리거 추가 수집 권장
+- Intel IFS Day 2025 키노트 트랜스크립트: investor.intel.com (IR 사이트)
+- Rapidus (일본 2나노) 최신 공시 — 국제 비교 섹션
+- 삼성전자 파운드리 2025 사업보고서 (한국어 IR)
+- Trump CHIPS Act 2026 업데이트 / 반도체 행정명령 원문
