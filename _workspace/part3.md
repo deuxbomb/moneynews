@@ -1,40 +1,73 @@
+---
+
+## 📊 AI가 사랑의 거처를 바꿨다 — GPU에서 CPU로, 훈련에서 추론으로
+
+AI 투자 테마가 조용히 변하고 있다. 월가가 "AI 칩 사랑의 전환(changing of the guard)"이라고 부르는 현상이다. NVDA가 AI 첫 물결의 왕이었다면, 지금은 AMD·Intel·Micron이 두 번째 물결을 타고 있다. 배경은 단순하다 — AI 파이프라인이 '훈련(training)'에서 '추론(inference)'으로 넘어갔기 때문이다. 모델을 처음 학습시킬 때는 GPU가 필수지만, 이미 학습된 모델을 매초 수백만 번 실행할 때는 CPU+GPU 혼합 아키텍처가 효율적이다. AMD CEO 리사 수는 Q1 어닝콜에서 서버 CPU 시장 3~5년 성장률을 18%에서 35%로 상향했다. Intel은 올해만 +200% 상승했고, AMD는 +66% 올랐다(NVDA +15% 대비). 반도체 지수(SOX)는 올해 +65%다. [CNBC](https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html)
 
 ---
 
-## 📰 오늘의 뉴스 — 12시간 이내 검증 기사
+## 🔬 이번 주 AI 반도체 빅이슈 3개
 
-### 💼 "두 배 서프라이즈" — NFP가 시장의 방향을 바꿨다
+**1. NVIDIA Vera Rubin, 고객사에 첫 샘플 출하 — AI 2세대 경쟁이 시작됐다**
 
-4월 비농업고용(NFP)이 +115,000명을 기록하며 월가 컨센서스(~62,000명)를 두 배 가까이 상회했다. 실업률 4.3%로 안정. 미국 노동시장이 "식어가고 있지만 여전히 탄탄하다"는 신호다. 프리마켓은 즉각 반응했다 — S&P 500 선물 +0.6%, 나스닥 +0.9%, 다우 +0.4%. 석 달간의 고용 걱정을 한 방에 날린 이 숫자가 오늘 밤 뉴욕 장 개장의 기조를 결정한다. 단, 강한 고용이 Fed 금리인하를 늦출 것이라는 해석도 동시에 나오고 있다. 채권 금리 움직임을 함께 봐야 한다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
+NVIDIA가 차세대 AI 아키텍처 Vera Rubin(VR200)의 첫 랙 샘플을 선도 고객사들에게 출하했다. Blackwell 대비 추론 성능 5배·토큰당 비용 90% 절감이 목표인 플랫폼이다. 88코어 Vera CPU와 288GB HBM4 탑재 Rubin GPU가 한 랙에 결합된다. 현재는 OEM·ODM 파트너들의 검증(qualification) 단계이며 양산은 2026년 하반기 예정이다. 5월 20일 어닝에서 젠슨 황이 수요 파이프라인을 어떻게 언급하느냐가 핵심이다. [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-delivers-first-vera-rubin-ai-gpu-samples-to-customers-88-core-vera-cpu-paired-with-rubin-gpus-with-288-gb-of-hbm4-memory-apiece)
 
----
+**2. AMD Q1 어닝 비트 — "CPU가 AI의 주인공으로 돌아왔다"**
 
-### 💊 금요일 테마: 헬스케어 — "몸이 가장 비싼 자산이다"
+AMD가 Q1 2026 실적을 발표했다. 매출 $103억(+38% YoY), 데이터센터 매출 $58억(+57% YoY). Q2 가이던스는 $112억(+46% YoY)으로 컨센서스를 상회했다. 어닝콜에서 가장 충격적인 말은 이것이었다: "AI가 CPU를 다시 메인 이벤트로 만들었다(AI is turning CPUs back into the main event)." Multi-agent 시스템과 실시간 추론 워크로드가 폭발적으로 늘면서 CPU 기반 인프라의 수요가 살아났다. [Digitimes](https://www.digitimes.com/news/a20260506VL209/amd-earnings-ai-cpu-data-center-2026.html)
 
-**① $LLY 간독성 공방 — 애널리스트들이 막아섰다**
-FDA 이상반응 데이터베이스에 Foundayo(orforglipron) 관련 간부전 1건이 등록되면서 릴리 주가는 프리마켓에서 -3%까지 밀렸다. 하지만 월가는 흔들리지 않았다. 릴리는 "7개 Phase 3 트라이얼, 11,000명 이상 임상에서 간 이상 신호 제로"라고 반박했고, FDA도 현재 추가 데이터 요청 수준에 머물고 있다. 분석가들은 "케이스 1개는 통계적으로 신호가 아니다"라며 오히려 저점 매수를 권고했다. Q1 매출 $19.8B(+56%), 연간 가이던스 $82~85B — 실적이 안전 논란을 압도하는 흐름이다. [The Street](https://www.thestreet.com/investing/stocks/eli-lilly-stock-swings-after-fda-liver-failure-report-for-glp-1-drug) · [BioSpace](https://www.biospace.com/drug-development/foundayos-liver-failure-blip-weighs-down-lilly-shares-but-analysts-unconcerned)
+**3. 하이퍼스케일러 $7,550억 Capex — 반도체 장비 '황금 강'의 수혜**
 
-**② $CYTK 심장 임상 성공 — FDA 신청 카운트다운**
-Cytokinetics의 ACACIA-HCM Phase 3가 지난 5일 두 개의 1차 엔드포인트를 모두 충족했다. 비폐쇄성 비대성 심근증(nHCM) 환자 276명에서 삶의 질(KCCQ) 및 운동 능력(pVO2)을 통계적으로 유의미하게 개선했다. Truist는 목표가를 $106으로 상향했다. 회사는 FDA 및 글로벌 규제당국과의 협의를 시작해 NDA 제출을 준비한다. MYQORZO가 폐쇄성 HCM 시장에서 이미 수익을 내고 있다는 점에서 이번 적응증 추가는 매출을 2배 이상 확장시킬 수 있다. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/05/3287549/35409/en/cytokinetics-announces-positive-topline-results-from-acacia-hcm-the-pivotal-phase-3-clinical-trial-of-aficamten-in-patients-with-non-obstructive-hypertrophic-cardiomyopathy.html)
-
-**③ NFP 헬스케어 +37,000명 — 섹터 성장세 현실 확인**
-4월 고용에서 가장 많은 일자리를 만든 업종은 헬스케어(+37,000명)였다. 미국 인구 고령화와 의료 수요 증가가 구조적 트렌드로 자리 잡았음을 보여준다. 병원, 외래 진료, 요양 시설 모두 채용을 늘리고 있다. $OHI(Omega Healthcare REIT)와 같은 헬스케어 인프라 종목에도 긍정적 신호다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
+Amazon·Alphabet·Meta·Microsoft·Oracle 5개사가 2026년 합산 $7,550억을 설비투자에 집행한다고 발표했다(전년 대비 +83%). 이 중 75%인 ~$5,660억이 AI 관련 인프라다. Microsoft는 구성요소 가격 인플레이션만으로 $250억이 추가됐다고 밝혔다. Google Cloud는 Q1에만 매출이 +63% 성장해 $200억을 달성했다. 이 돈의 최종 수혜자는 TSMC이고, TSMC를 먹이는 장비를 공급하는 KLAC·AMAT·ASML이 픽앤샤블 플레이어다. [Yahoo Finance](https://finance.yahoo.com/news/hyperscalers-spending-nearly-700-billion-115600158.html)
 
 ---
 
-### 🏢 기업 뉴스
+## 📰 기업 뉴스
 
-**$TSLA | "Frost Blue와 Marine Blue — 테슬라가 하늘을 팔기 시작했다"**
-테슬라가 오늘 Model Y와 Model 3 고급형 트림에 두 가지 새 블루 색상(Frost Blue Metallic, Marine Blue)을 출시했다. 기존 Deep Blue Metallic을 대체하는 이 색상들은 소비자 선택지를 다양화하는 제품 라인업 강화 전략의 일환이다. 한편 Cybercab과 Semi, Megapack 3는 2026년 양산 일정이 예정대로 진행 중이다. 주가는 +3.28%로 반등 중 — 얼마 전 대규모 리콜 공시에도 흔들리지 않았던 내성이 오늘도 작동하고 있다. [Tesla Oracle](https://www.teslaoracle.com/2026/05/08/tesla-launches-new-blue-colors-for-model-y-and-model-3-upper-trims/)
+**$TSLA | 130만 구독자와 두 도시의 무인 택시**
 
-**$NVDA | "12일 후, 진짜 시험이 온다"**
-NVDA가 프리마켓에서 +0.9%($213.40) 상승 중이다. 시장의 시선은 이미 5월 20일 Q1 FY27 어닝에 쏠려 있다. 핵심 체크포인트는 세 가지: ① Blackwell GPU 수요가 예상대로 폭발적인가, ② 중국 수출 규제 강화가 매출에 얼마나 영향을 주는가, ③ 하이퍼스케일러(GOOGL·MSFT·META·AMZN)의 데이터센터 capex가 NVDA에 실질적으로 얼마나 떨어지는가. 최근 Micron(MU)이 주간 +25% 랠리로 신고가를 기록한 것도 반도체 섹터 전반의 기대감을 높이는 요인이다. [Yahoo Finance](https://finance.yahoo.com/quote/NVDA/)
+이야기: 테슬라가 달라스·휴스턴에서 FSD 로보택시 운행을 시작했다. 기존 오스틴·베이에어리어 이후 첫 도시 확장이다. FSD v14.3이 함께 업데이트됐다 — 강화학습 단계 업그레이드, 저조도 인식 개선, AI 컴파일러 재작성으로 추론 지연 20% 감소. FSD 구독자는 Q1 기준 130만 명을 돌파했다. 주가는 4월 어닝 저점 $373에서 현재 $428으로 15% 반등했다.
 
-**$COIN | "시장 점유율 최고치, 순익은 최저치"**
-코인베이스가 5월 7일 장 마감 후 Q1 2026 실적을 공개했다. 매출 $1.41B — 예상($1.48B)을 하회했고, GAAP 순손실은 $394M($1.49/주). BTC 보유 자산의 미실현 손실($482M)이 주요 원인이다. 그러나 조정 EBITDA는 $303M으로 13분기 연속 흑자를 유지했다. 역설적으로 거래량 기준 시장 점유율은 사상 최고인 8.6%를 기록했다. 오늘 주가는 -2.53%($192.96) 마감. 오늘 저녁 어닝콜에서 CEO 암스트롱이 제시할 Q2 가이던스와 비용 절감 로드맵이 주가 방향을 결정한다. [CoinDCX](https://coindcx.com/blog/us-stock/coinbase-q1-2026-earnings-results/)
+배경: 머스크는 "2026년 로보택시 수익은 미미할 것"이라고 못을 박았다. FSD v15 출시 후 대규모 상업 확장이 가능하다는 전략이다. 2026 Capex $250억+ 집행 예정으로 자유현금흐름은 당분간 마이너스를 감수한다.
+
+전망: 로보택시 상업화 타임라인은 여전히 2026말~2027년 초다. 구독자 성장이 주가를 지지하는 동안 실질 매출 증거가 필요하다.
+
+**$NVDA | 9일 후 — 월가가 가장 기다리는 어닝**
+
+이야기: 5월 20일 장 마감 후 NVIDIA가 Q1 FY2027(4월 결산) 실적을 발표한다. 컨센서스: 매출 $786억 (+78% YoY), EPS $1.74 (+115%). Goldman Sachs는 "비트+레이즈" 시나리오를 기본으로 본다. 주가는 5월 9일 $215로 사상최고가를 경신했다.
+
+배경: H20 수출규제로 Q1에만 $45억 재고 손실을 인식했지만, Blackwell 데이터센터 수익이 이를 압도했다. Meta가 Capex 상단을 $1,450억으로 올리고, Microsoft가 $1,900억을 발표했다 — 모두 NVDA 수요로 이어진다.
+
+전망: 어닝보다 중요한 건 Vera Rubin 양산 일정과 수주잔고 언급이다. Jensen Huang이 GTC에서 "$1조 규모 Blackwell+Vera Rubin 주문이 2027년까지 보인다"고 말한 것을 확인해줄 숫자가 나온다면 주가 재평가 가능.
+
+**$GOOGL | 클라우드 $200억 돌파, 이제 다음 질문은**
+
+이야기: Alphabet은 Q1 2026 Google Cloud 매출이 $200억(+63% YoY)을 달성하며 월가를 깜짝 놀라게 했다. 2026년 Capex 가이던스는 $185~190억으로 역대 최대 규모다.
+
+배경: 구글은 AI 인프라를 소비자 제품이 아닌 클라우드 서비스로 직접 수익화하는 전략이 작동하고 있음을 증명했다. €30억 이상의 유로화 채권 발행으로 데이터센터 확장 재원도 마련했다.
+
+전망: AI 규제 흐름(EU AI Act, 미국 White House AI regulation)이 변수. 클라우드 성장이 지속된다면 GOOGL은 빅테크 중 가장 저평가된 AI 플레이 논리가 성립한다.
+
+**$OKLO | 내일 Q1 어닝 + NRC 승인의 의미**
+
+이야기: 오클로는 5월 12일(내일) 장 마감 후 Q1 2026 실적을 발표한다. 주가는 $72.70으로 4월의 46% 랠리를 일부 반납한 상태다. 그러나 배경이 좋다 — 미국 원자력규제위원회(NRC)가 아이다호 건설 중인 Aurora 원자로의 주요 설계 기준 심사보고서(PDC)를 승인했다.
+
+배경: Aurora는 기존 핵원료 재활용 방식의 마이크로 원자로다. AI 데이터센터의 24시간 무중단 전력 수요와 정확히 맞아떨어지는 포지셔닝이다. 애널리스트 16명의 평균 목표가는 $101.37 (현재 대비 +43% 업사이드).
+
+전망: 어닝에서 신규 계약 파이프라인 업데이트가 핵심 변수. 내일 장 마감 후를 주목하라.
+
+**$COIN | 어닝미스 후 반등 — 크립토 봄은 아직 완전하지 않다**
+
+이야기: Coinbase는 Q1 2026에 순손실 $394M을 기록했다. EPS -$0.17 vs 예상 +$0.11, 매출 $14.1억 vs 예상 $15.2억. 비트코인 가격 하락이 스팟 거래량을 줄였다. 그러나 주가는 이후 +4.2% 반등, 현재 $201.
+
+배경: 어두운 실적 속에서도 빛나는 부분이 있다. 파생상품 거래량 +169% YoY ($420억 Q1), 스테이블코인 수익 $305M (+전년 대비 성장). 크립토 인프라 사업은 가격 사이클을 넘어 성장하고 있다.
+
+전망: BTC가 $80K~$100K 레인지를 회복하면 다음 분기 스팟 수익이 극적으로 개선된다. 파생상품+스테이블코인이 두 번째 엔진으로 자리 잡는 중.
 
 ---
 
-### 🤖 "로봇이 코스피를 구했다" — 보스턴 다이내믹스·현대차그룹의 하루
+## 🎲 흥미로운 이야기
 
-오늘 한국 증시의 주인공은 단연 현대차그룹이었다. 보스턴 다이내믹스가 공개한 아틀라스 '개발형 모델' — 공중 회전과 체조 동작을 수행하는 양산형 휴머노이드 로봇 — 이 글로벌 반향을 일으키면서 현대오토에버 +29.97%, 현대모비스 +22.42%, 현대차 +7.17%, 기아 +4.38%의 폭등을 연출했다. 여기에 보스턴 다이내믹스의 나스닥 IPO 결정 시한이 6월 말로 임박했다는 소식이 맞물리며 기대감이 증폭됐다. 2028년 조지아 HMGMA(현대차그룹 메타플랜트 아메리카) 배치 계획이 구체화되면서 "현대차는 이제 EV 회사가 아닌 로봇 회사"라는 내러티브가 빠르게 자리를 잡고 있다. [스마트비즈](https://www.smartbizn.com/news/articleView.html?idxno=143450) · [헤럴드경제](https://biz.heraldcorp.com/article/10734016)
+**챗봇은 여행 예약의 틀린 인터페이스다 — Airbnb CEO의 반박**
+
+Brian Chesky Airbnb CEO가 TBPN 인터뷰에서 "AI 여행 에이전트는 실제 작동하지 않는다"고 단언했다. 그의 논리: 여행 쇼핑은 시각적이고 비교적인 행위다 — 사진을 스캔하고, 지도를 보고, 필터를 돌리고, 제약을 조율해야 한다. 이 과정을 텍스트 박스에서 협상처럼 처리하는 챗봇은 근본적으로 틀린 인터페이스다. AI의 미래는 영리한 메신저가 아니라 언어가 존재하되 지배적이지 않은 새로운 형태의 인터랙티브 스토어프런트라고 그는 봤다. 에이전트 경제를 쌓으려는 실리콘밸리에 던진 따끔한 한마디.

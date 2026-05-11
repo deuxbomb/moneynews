@@ -1,20 +1,19 @@
+---
+
+## 🎧 이번 주 들을 만한 팟캐스트
+
+**1. TBPN Episode #395 — "챗봇은 여행의 잘못된 인터페이스" (2026-05-09)**
+
+TBPN 5월 9일 에피소드에서 Airbnb CEO Brian Chesky가 충격적인 주장을 펼쳤다. "AI 여행 에이전트는 실제 작동하지 않는다." 그의 논리: 여행 쇼핑은 본질적으로 시각적이고 비교적이다 — 사진을 훑고, 지도를 클릭하고, 필터를 돌리고, 날짜·예산·일행 수를 동시에 조율해야 한다. 이 복잡한 비교 과정을 텍스트 채팅창에 쑤셔넣는 것은 인터페이스 오설계다. 에이전트의 미래는 영리한 대화 상대가 아니라, 언어가 보조 수단으로 작동하는 새로운 형태의 인터랙티브 상점이라는 게 그의 결론이다. 실리콘밸리의 "에이전트가 모든 것을 대체한다" 내러티브에 최전선 기업인이 직접 반박을 날린 순간. 흥미롭다.
+
+John Coogan & Jordi Hays 진행. 주중 매일 오전 11시~오후 2시(PT) YouTube·X 라이브 방송.
 
 ---
 
-## 🎙️ 이번 주 팟캐스트 픽 — "AI가 소프트웨어를 다시 쓰고 있다"
+**2. All-In Podcast Episode #272 — Elon Musk의 Colossus 임대, Anthropic의 반격 (2026-05-08)**
 
-### 1. TBPN | "Neural Computers + GameStop의 $55B eBay 베팅" | 2026년 5월 초
-TBPN(Technology's Daily Show)의 Diet TBPN 에피소드. 두 가지 주제가 놀라운 방식으로 연결된다.
+All-In 272회는 Elon Musk가 자신의 AI 슈퍼컴퓨터 Colossus를 Anthropic에 임대했다는 충격적인 전개로 시작했다. Chamath·Jason·Sacks·Friedberg는 이 결정이 AI 컴퓨팅 인프라 경쟁에서 무엇을 의미하는지를 집중 분석했다. 이어진 주제는 White House AI 규제 동향과 빅테크 어닝 시즌 점검 — Meta·Microsoft·Alphabet의 Capex 폭증이 AI 버블인지 실수요인지 논쟁이 뜨거웠다. 경제적 불평등과 AI가 생활비에 미치는 영향 토론도 인상적이었다. Friedberg가 대법원 경험을 공유하며 공공 신뢰에 대한 철학적 논의로 마무리했다.
 
-첫 번째 테마는 '뉴럴 컴퓨터'. 소프트웨어가 없는 디바이스 — LLM이 사용자의 행동에 맞춰 실시간으로 UI를 생성하는 개념이다. "디바이스가 원시 영상과 오디오를 입력받아 neural net이 그 순간에만 존재하는 UI를 diffusion으로 렌더링한다"는 개념은 앱 스토어와 운영체제가 존재하지 않는 새로운 컴퓨팅 패러다임을 상상하게 한다. Apple의 앱스토어, Microsoft의 Windows — 이 모든 게 불필요해지는 세계.
+이 에피소드는 정치+테크+경제를 하나의 흐름으로 꿰는 All-In 특유의 포맷이 잘 살아난 회차다.
 
-두 번째 테마는 GameStop의 eBay 인수 제안($55.5B). Ryan Cohen이 eBay를 $125/주에 인수하겠다며 비구속적 제안서를 냈다. 자금 조달 계획은 현금 $9.4B + 주식 $12B + 차입 $20B — 수학이 맞지 않는다는 게 중론. 하지만 Cohen의 의도는 단순한 재무가 아닌 브랜드·물리 채널·온라인 커머스의 통합이라는 큰 그림이다. "분석가들이 고개를 긁적이는" 이유와, 그럼에도 eBay 주가가 움직인 이유를 팟캐스트가 날카롭게 분석한다. [YouTube](https://www.youtube.com/watch?v=6WdmNnuoiS8)
-
----
-
-### 2. Lex Fridman #490 | "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI" | 2026년 5월 6일경
-Allen Institute for AI 포스트트레이닝 리드 Nathan Lambert와 《LLM 교과서》 저자 Sebastian Raschka가 출연해 2026년 AI의 현재 좌표를 점검한 에피소드.
-
-핵심 쟁점: 스케일링 법칙은 아직 유효한가? 포스트트레이닝(RLHF, DPO) 연구의 한계와 가능성은 어디까지인가? 중국 AI 연구의 실력은 어느 수준인가? AI가 실제로 프로그래머를 대체하는 게 가능한가?
-
-두 사람은 모두 현장 연구자 출신으로, "AGI 타임라인 논쟁보다 지금 당장 어떤 기술이 작동하고 있는가"에 집중한다. AI 산업 투자자라면 필수 청취. 스케일링 vs. 포스트트레이닝 효율화 논쟁은 NVDA 어닝(D-12)과도 직결되는 논리다. [Spotify](https://open.spotify.com/episode/4UBPQG2Z7s70DpRVD5kMbC)
+[All-In Podcast](https://allin.com/episodes)

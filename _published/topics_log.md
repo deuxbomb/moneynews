@@ -90,3 +90,9 @@
 - 오늘의 픽: $LLY (카탈리스트: Foundayo FDA 안전 데이터 제출 오늘·Q1 +56% 서프라이즈), $CYTK (카탈리스트: ACACIA-HCM Phase 3 이중 엔드포인트 성공, FDA NDA 제출 Q3 예상) [와치리스트 외]
 - 뉴스 토픽: [매크로] NFP 115K vs 62K 예상 서프라이즈·헬스케어 +37K 최대 기여 / [헬스케어] LLY Foundayo 간독성 논란·애널리스트 과매도 반박·CYTK Phase 3 성공 / [기업] TSLA 신색상 론칭·NVDA D-12 어닝 카운트다운·COIN Q1 순손실 $394M 어닝미스 / [한국] KOSPI 7498 4연속최고치·현대차그룹 로봇주 폭등(보스턴다이나믹스 아틀라스+IPO 임박)
 - 팟캐스트: TBPN "Neural Computers + GameStop $55B eBay 베팅" (2026-05-05), Lex Fridman #490 "State of AI in 2026" (2026-05-06)
+
+## 2026-05-11 09:00 [AM] (테마: AI 인프라/반도체)
+- 헤드라인: 반도체가 세상을 먹는다 — 월요일 아침, AI 장비주 전쟁의 서막
+- 오늘의 픽: $KLAC (카탈리스트: 2026-05-18 배당 기준일, 21% 배당인상+$70억 바이백+10:1 주식분할), $AMAT (카탈리스트: 2026-05-14 Q2 FY2026 어닝) [와치리스트 외 발굴]
+- 뉴스 토픽: [AI 반도체] NVDA Vera Rubin 첫 샘플 출하·AMD Q1 +38% YoY 어닝비트·하이퍼스케일러 $7,550억 Capex·CPU가 AI 추론 주인공으로 복귀·KLAC 10:1 주식분할+배당인상 / [기업] TSLA FSD v14.3 달라스·휴스턴 로보택시 확장·NVDA 5/20 어닝 D-9·OKLO 5/12 어닝·COIN Q1 순손실 $394M 미스 / [매크로] US-China 정상회담 5/14~15·CEG Q1 어닝 오늘·아시아 증시 상승
+- 팟캐스트: TBPN Episode #395 "챗봇은 여행의 잘못된 인터페이스" Brian Chesky (2026-05-09), All-In #272 "Elon Colossus 임대+Anthropic+AI 규제" (2026-05-08)
