@@ -1,40 +1,51 @@
+---
+
+## 📰 오늘의 뉴스
 
 ---
 
-## 📰 오늘의 뉴스 — 12시간 이내 검증 기사
+### 🇺🇸 증시 포인트 — "6주 연속 올랐다, 이번 주 CPI가 7번째를 결정한다"
 
-### 💼 "두 배 서프라이즈" — NFP가 시장의 방향을 바꿨다
-
-4월 비농업고용(NFP)이 +115,000명을 기록하며 월가 컨센서스(~62,000명)를 두 배 가까이 상회했다. 실업률 4.3%로 안정. 미국 노동시장이 "식어가고 있지만 여전히 탄탄하다"는 신호다. 프리마켓은 즉각 반응했다 — S&P 500 선물 +0.6%, 나스닥 +0.9%, 다우 +0.4%. 석 달간의 고용 걱정을 한 방에 날린 이 숫자가 오늘 밤 뉴욕 장 개장의 기조를 결정한다. 단, 강한 고용이 Fed 금리인하를 늦출 것이라는 해석도 동시에 나오고 있다. 채권 금리 움직임을 함께 봐야 한다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
+S&P 500이 지난주 +2.3%를 기록하며 2024년 이후 최장 주간 상승 행진(6주 연속)을 이어갔다. 나스닥은 더 강했다, +4.5%. 4월 NFP 115K — 예상치 62K의 두 배 가까이 — 가 불쏘시개였다. 경기 연착륙 + Fed 인하 여지라는 골디락스 조합이 시장에 에너지를 불어넣었다. 이번 주 변수는 화요일 CPI와 수요일 PPI. 파월 의장의 마지막 날도 이번 주다. 시장이 '다음 의장'에 얼마나 편안한지가 추가 변수다. 코스피는 7,498로 주말 마감, 원달러는 1,448원까지 강해졌다. [FXLeaders](https://www.fxleaders.com/news/2026/05/10/sp-500-nasdaq-100-weekly-outlook-record-highs-meet-the-week-that-decides-the-fed-path/)
 
 ---
 
-### 💊 금요일 테마: 헬스케어 — "몸이 가장 비싼 자산이다"
+### 🤖 AI 인프라/반도체 — "지구 역사상 최대 자본 집중이 진행 중이다"
 
-**① $LLY 간독성 공방 — 애널리스트들이 막아섰다**
-FDA 이상반응 데이터베이스에 Foundayo(orforglipron) 관련 간부전 1건이 등록되면서 릴리 주가는 프리마켓에서 -3%까지 밀렸다. 하지만 월가는 흔들리지 않았다. 릴리는 "7개 Phase 3 트라이얼, 11,000명 이상 임상에서 간 이상 신호 제로"라고 반박했고, FDA도 현재 추가 데이터 요청 수준에 머물고 있다. 분석가들은 "케이스 1개는 통계적으로 신호가 아니다"라며 오히려 저점 매수를 권고했다. Q1 매출 $19.8B(+56%), 연간 가이던스 $82~85B — 실적이 안전 논란을 압도하는 흐름이다. [The Street](https://www.thestreet.com/investing/stocks/eli-lilly-stock-swings-after-fda-liver-failure-report-for-glp-1-drug) · [BioSpace](https://www.biospace.com/drug-development/foundayos-liver-failure-blip-weighs-down-lilly-shares-but-analysts-unconcerned)
+**1. CSP 9사 합산 CapEx $8,300억 — 79% YoY 성장으로 재상향**
 
-**② $CYTK 심장 임상 성공 — FDA 신청 카운트다운**
-Cytokinetics의 ACACIA-HCM Phase 3가 지난 5일 두 개의 1차 엔드포인트를 모두 충족했다. 비폐쇄성 비대성 심근증(nHCM) 환자 276명에서 삶의 질(KCCQ) 및 운동 능력(pVO2)을 통계적으로 유의미하게 개선했다. Truist는 목표가를 $106으로 상향했다. 회사는 FDA 및 글로벌 규제당국과의 협의를 시작해 NDA 제출을 준비한다. MYQORZO가 폐쇄성 HCM 시장에서 이미 수익을 내고 있다는 점에서 이번 적응증 추가는 매출을 2배 이상 확장시킬 수 있다. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/05/3287549/35409/en/cytokinetics-announces-positive-topline-results-from-acacia-hcm-the-pivotal-phase-3-clinical-trial-of-aficamten-in-patients-with-non-obstructive-hypertrophic-cardiomyopathy.html)
+글로벌 9개 메가 클라우드(구글·AWS·메타·MS·오라클·바이두·알리바바·바이트댄스·텐센트)의 2026년 합산 투자액이 $8,300억으로 재상향됐다. 당초 예상 $7,000억에서 $1,300억 추가로 올라갔다. 개별로 보면 더 놀랍다: MS $1,900억 (YoY +130%), AWS $2,300억 초과, 구글 $1,800~1,900억, 메타 $1,250~1,450억. 이 자본은 고성능 GPU 클러스터, 인하우스 ASIC, 차세대 고밀도 데이터센터로 흘러간다. "지구 역사상 단일 기술에 이 규모의 자본이 집중된 전례가 없다"는 분석가들의 말이 과장이 아니다. 수혜 구조: GPU → HBM 메모리 → 네트워킹 장비 → 전력·냉각 인프라 순으로 낙수가 흐른다. [TrendForce](https://www.trendforce.com/presscenter/news/20260506-13033.html)
 
-**③ NFP 헬스케어 +37,000명 — 섹터 성장세 현실 확인**
-4월 고용에서 가장 많은 일자리를 만든 업종은 헬스케어(+37,000명)였다. 미국 인구 고령화와 의료 수요 증가가 구조적 트렌드로 자리 잡았음을 보여준다. 병원, 외래 진료, 요양 시설 모두 채용을 늘리고 있다. $OHI(Omega Healthcare REIT)와 같은 헬스케어 인프라 종목에도 긍정적 신호다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
+**2. GPU 임대가 +48% 폭등 — "칩이 없다, 진짜로"**
+
+NVIDIA Blackwell GPU 클라우드 임대가가 두 달 만에 $2.75/시간 → $4.08/시간으로 48% 폭등했다. 데이터센터 GPU 납기는 36~52주. CoWoS 패키징은 TSMC 전량 할당 상태, HBM 생산은 SK하이닉스 기준 수요의 절반도 따라가지 못한다. Anthropic은 최신 모델 접근을 40개 기관으로 제한했다. $40,000로 예산 잡은 트레이닝 런이 온디맨드로는 $80,000~$120,000이 된다. GPU 공급 부족은 단순한 일시적 현상이 아니다 — 공급 측 병목이 구조화되고 있다. [Clarifai](https://www.clarifai.com/blog/gpu-shortages-2026)
+
+**3. TSMC — "멀티이어 AI 메가트렌드" 위에서 1~4월 +30% 성장**
+
+TSMC가 5월 8일 발표했다: 2026년 1~4월 누적 매출이 전년 동기 대비 +29.9% 성장. 2026년 capex는 $560억으로 상단으로 집행할 계획이다. 고성능 컴퓨팅(HPC) 부문이 전체 매출의 61%를 차지하며, 이 비중은 계속 높아지는 추세다. CEO는 "AI 수요가 버블이냐"는 질문에 "버블이 아니다. 다만 신중하게 투자해야 한다"고 선을 그었다. 추가 공장 부지도 매입 완료 — 멀티이어 확장 계획이 구체화되고 있다. [DigiTimes](https://www.digitimes.com/news/a20260508VL208/tsmc-revenue-capacity-asia-ai-chip.html) · [DataCenterDynamics](https://www.datacenterdynamics.com/en/news/tsmc-announces-2026-capex-spend-of-56bn-after-posting-eighth-consecutive-quarter-of-growth/)
 
 ---
 
 ### 🏢 기업 뉴스
 
-**$TSLA | "Frost Blue와 Marine Blue — 테슬라가 하늘을 팔기 시작했다"**
-테슬라가 오늘 Model Y와 Model 3 고급형 트림에 두 가지 새 블루 색상(Frost Blue Metallic, Marine Blue)을 출시했다. 기존 Deep Blue Metallic을 대체하는 이 색상들은 소비자 선택지를 다양화하는 제품 라인업 강화 전략의 일환이다. 한편 Cybercab과 Semi, Megapack 3는 2026년 양산 일정이 예정대로 진행 중이다. 주가는 +3.28%로 반등 중 — 얼마 전 대규모 리콜 공시에도 흔들리지 않았던 내성이 오늘도 작동하고 있다. [Tesla Oracle](https://www.teslaoracle.com/2026/05/08/tesla-launches-new-blue-colors-for-model-y-and-model-3-upper-trims/)
+**$TSLA "로보택시가 세 도시를 열었다 — 스케일의 시작인가"**
 
-**$NVDA | "12일 후, 진짜 시험이 온다"**
-NVDA가 프리마켓에서 +0.9%($213.40) 상승 중이다. 시장의 시선은 이미 5월 20일 Q1 FY27 어닝에 쏠려 있다. 핵심 체크포인트는 세 가지: ① Blackwell GPU 수요가 예상대로 폭발적인가, ② 중국 수출 규제 강화가 매출에 얼마나 영향을 주는가, ③ 하이퍼스케일러(GOOGL·MSFT·META·AMZN)의 데이터센터 capex가 NVDA에 실질적으로 얼마나 떨어지는가. 최근 Micron(MU)이 주간 +25% 랠리로 신고가를 기록한 것도 반도체 섹터 전반의 기대감을 높이는 요인이다. [Yahoo Finance](https://finance.yahoo.com/quote/NVDA/)
+Tesla Robotaxi가 오스틴, 댈러스, 휴스턴에서 공식 운행을 시작했다. Q1 2026 FSD 구독자는 130만 명으로 분기 최고치. 배송 대수 358,023대는 월가 예상(365,645대)을 하회했지만, EPS $0.41이 예상 $0.35 대비 17% 서프라이즈를 냈다. CFO는 2026년 capex >$250억을 확인했다 — 전년 대비 3배 수준이다. 배경: 한편 일론 머스크의 SpaceX·xAI 관련 법인과의 $5.73억 내부 거래 내역이 10-K에서 공개되며 거버넌스 논란이 재점화됐다. 전망: 경영진은 연내 12개 주까지 Robotaxi를 확대할 계획이다. 핵심 질문은 "이 capex 규모가 FSD 수익화로 정당화될 수 있는가"다. [Electrek](https://electrek.co/2026/05/01/tesla-tsla-web-transactions-musk-companies-spacex-xai-10ka-2025/)
 
-**$COIN | "시장 점유율 최고치, 순익은 최저치"**
-코인베이스가 5월 7일 장 마감 후 Q1 2026 실적을 공개했다. 매출 $1.41B — 예상($1.48B)을 하회했고, GAAP 순손실은 $394M($1.49/주). BTC 보유 자산의 미실현 손실($482M)이 주요 원인이다. 그러나 조정 EBITDA는 $303M으로 13분기 연속 흑자를 유지했다. 역설적으로 거래량 기준 시장 점유율은 사상 최고인 8.6%를 기록했다. 오늘 주가는 -2.53%($192.96) 마감. 오늘 저녁 어닝콜에서 CEO 암스트롱이 제시할 Q2 가이던스와 비용 절감 로드맵이 주가 방향을 결정한다. [CoinDCX](https://coindcx.com/blog/us-stock/coinbase-q1-2026-earnings-results/)
+**$GOOGL "시총 왕좌가 바뀌는 순간을 봤다 — ATH $400.80"**
+
+GOOGL이 5월 8일 주가 $400.80으로 역대 최고가를 기록했다. Q1 실적: 매출 +22% YoY, 클라우드 부문 $20B 돌파, 광고 수익에서 Gemini AI 통합 프리미엄이 감지되기 시작했다. 시총이 NVDA를 일시 추월하며 1위 경쟁이 재점화됐다. 배경: Gemini 2.5 Pro 출시 이후 기업용 AI 구독 계약이 전분기 대비 급증했다. 전망: 5월 Google I/O 컨퍼런스에서 추가 AI 제품·Agent 발표가 예정돼 있다. 이게 다음 모멘텀 촉매가 될 수 있다. [뉴스핌](https://www.newspim.com/news/view/20260511000051)
+
+**$AVGO "Apollo·Blackstone이 $350억을 쏟아붓는다"**
+
+Bloomberg 5월 8일 보도: Apollo Global과 Blackstone이 Broadcom에 역대급 $350억 사모 크레딧 파이낸싱을 협상 중이다. 이 자금은 AVGO·Microsoft·OpenAI 삼각 협력으로 개발되는 AI 커스텀 칩 양산에 투입될 예정. 단, 아직 Microsoft가 칩 물량의 40% 구매를 확약하지 않아 협상에 변수가 남아있다. AVGO Q1 AI 매출 $8.4B (+106% YoY), 2026년 $100B 이상 목표. [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-08/apollo-blackstone-weigh-35-billion-financing-for-broadcom)
+
+**$NVDA "D-9, 숨 참는 카운트다운이 시작됐다"**
+
+5월 20일 장 마감 후 NVIDIA 실적이 발표된다. Q1 가이던스는 매출 $780억 (H20 수출 규제로 $80억 손실을 내재화한 수치). 현재 GPU 임대가는 2개월 만에 48% 폭등했고, Blackwell 납기는 36~52주. 공급이 이렇게 부족한데 NVIDIA는 얼마나 더 가이던스를 올릴 수 있을까 — AI 인프라 섹터 전체가 이 하나의 숫자에 연동된다. [IndexBox](https://www.indexbox.io/blog/nvidia-fiscal-q1-2026-results-preview-revenue-guidance-and-competition-analysis/)
 
 ---
 
-### 🤖 "로봇이 코스피를 구했다" — 보스턴 다이내믹스·현대차그룹의 하루
+### 🌏 흥미로운 이야기 — K-반도체, 글로벌 AI 인프라 물결 올라타다
 
-오늘 한국 증시의 주인공은 단연 현대차그룹이었다. 보스턴 다이내믹스가 공개한 아틀라스 '개발형 모델' — 공중 회전과 체조 동작을 수행하는 양산형 휴머노이드 로봇 — 이 글로벌 반향을 일으키면서 현대오토에버 +29.97%, 현대모비스 +22.42%, 현대차 +7.17%, 기아 +4.38%의 폭등을 연출했다. 여기에 보스턴 다이내믹스의 나스닥 IPO 결정 시한이 6월 말로 임박했다는 소식이 맞물리며 기대감이 증폭됐다. 2028년 조지아 HMGMA(현대차그룹 메타플랜트 아메리카) 배치 계획이 구체화되면서 "현대차는 이제 EV 회사가 아닌 로봇 회사"라는 내러티브가 빠르게 자리를 잡고 있다. [스마트비즈](https://www.smartbizn.com/news/articleView.html?idxno=143450) · [헤럴드경제](https://biz.heraldcorp.com/article/10734016)
+AI 데이터센터 확장 파도가 한국 소재·부품 업체까지 밀어올리고 있다. 두산 전자BG는 AI 가속기용 고사양 CCL(동박적층판) 수요 대응을 위해 올해 2,445억원 투자를 집행하고, 태국 방보 산업단지에 1,800억원을 추가 투입해 신규 CCL 생산라인을 짓는다. 글로벌 반도체 장비 시장은 HBM·첨단 패키징 수요 급증으로 2026년 $1,430억 규모까지 12% 성장 전망. SK하이닉스는 HBM3E를 주력으로 굳히면서 HBM4 전환도 준비 중이다. "AI 슈퍼사이클"이라는 단어는 이제 삼성·SK를 넘어 소재·장비 체인 전체로 번지고 있다. [머니투데이](https://www.mt.co.kr/industry/2026/05/11/2026051019431393119) · [얼리어답터뉴스](https://eanews.kr/news/949690)
