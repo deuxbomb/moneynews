@@ -1,20 +1,13 @@
-
 ---
 
-## 🎙️ 이번 주 팟캐스트 픽 — "AI가 소프트웨어를 다시 쓰고 있다"
+## 🎧 이 주 반드시 들어야 할 팟캐스트
 
-### 1. TBPN | "Neural Computers + GameStop의 $55B eBay 베팅" | 2026년 5월 초
-TBPN(Technology's Daily Show)의 Diet TBPN 에피소드. 두 가지 주제가 놀라운 방식으로 연결된다.
+### All-In Podcast — "일론의 새 프로젝트, 스페이스X IPO, 그리고 앤트로픽의 미래"
 
-첫 번째 테마는 '뉴럴 컴퓨터'. 소프트웨어가 없는 디바이스 — LLM이 사용자의 행동에 맞춰 실시간으로 UI를 생성하는 개념이다. "디바이스가 원시 영상과 오디오를 입력받아 neural net이 그 순간에만 존재하는 UI를 diffusion으로 렌더링한다"는 개념은 앱 스토어와 운영체제가 존재하지 않는 새로운 컴퓨팅 패러다임을 상상하게 한다. Apple의 앱스토어, Microsoft의 Windows — 이 모든 게 불필요해지는 세계.
+**#272** | 2026년 5월 8일 발행
 
-두 번째 테마는 GameStop의 eBay 인수 제안($55.5B). Ryan Cohen이 eBay를 $125/주에 인수하겠다며 비구속적 제안서를 냈다. 자금 조달 계획은 현금 $9.4B + 주식 $12B + 차입 $20B — 수학이 맞지 않는다는 게 중론. 하지만 Cohen의 의도는 단순한 재무가 아닌 브랜드·물리 채널·온라인 커머스의 통합이라는 큰 그림이다. "분석가들이 고개를 긁적이는" 이유와, 그럼에도 eBay 주가가 움직인 이유를 팟캐스트가 날카롭게 분석한다. [YouTube](https://www.youtube.com/watch?v=6WdmNnuoiS8)
+이번 주 All-In에서 Chamath·Jason·Sacks·Friedberg 넷이 가장 뜨겁게 달군 주제는 스페이스X와 앤트로픽의 교차점이었다. 일론 머스크가 Colossus 1(xAI의 슈퍼컴퓨터 클러스터)을 앤트로픽에 임대했다는 소식 — 경쟁자 OpenAI의 가장 큰 라이벌에게 일론이 연산 자원을 빌려준다는 아이러니한 구도다. 여기에 스페이스X IPO 밸류에이션(추정 $3,500억~4,000억)을 두고 네 명의 뷰가 갈렸다. 사스는 "스페이스X는 상장 안 해도 된다"고 했고, 차마스는 "상장하면 개인 투자자에게 최대 기회"라고 반박했다. [All-In Podcast](https://allin.com/episodes)
 
----
+에피소드의 핵심 인사이트: 트럼프 행정부의 AI 규제 백지화 움직임이 실리콘밸리 스타트업들에게 미칠 영향 — 규제 없는 AI 개발이 '기회'인가, '폭탄'인가. 소득 불평등과 AI가 가져오는 삶의 비용 변화도 논의됐다. 만약 AI가 소비재 가격을 절반으로 떨어뜨린다면, 주식 시장의 주인은 누가 되는가?
 
-### 2. Lex Fridman #490 | "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI" | 2026년 5월 6일경
-Allen Institute for AI 포스트트레이닝 리드 Nathan Lambert와 《LLM 교과서》 저자 Sebastian Raschka가 출연해 2026년 AI의 현재 좌표를 점검한 에피소드.
-
-핵심 쟁점: 스케일링 법칙은 아직 유효한가? 포스트트레이닝(RLHF, DPO) 연구의 한계와 가능성은 어디까지인가? 중국 AI 연구의 실력은 어느 수준인가? AI가 실제로 프로그래머를 대체하는 게 가능한가?
-
-두 사람은 모두 현장 연구자 출신으로, "AGI 타임라인 논쟁보다 지금 당장 어떤 기술이 작동하고 있는가"에 집중한다. AI 산업 투자자라면 필수 청취. 스케일링 vs. 포스트트레이닝 효율화 논쟁은 NVDA 어닝(D-12)과도 직결되는 논리다. [Spotify](https://open.spotify.com/episode/4UBPQG2Z7s70DpRVD5kMbC)
+머뉴 pick: Sacks의 한마디 — "Elon Web Services(EWS)가 만들어진다면, AWS·Azure·GCP의 4번째 경쟁자가 될 수 있다." 이 발언 하나가 이번 주 AI 클라우드 섹터 투자 논의의 시발점이 됐다.
