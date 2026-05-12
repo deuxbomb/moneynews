@@ -1,42 +1,45 @@
 # 앵커 소스 — 14:00 트리거가 우선 활용
-# 테마: Apple·Microsoft·Amazon이 동시에 Intel로 향한다 — TSMC 독점의 균열
-# 선정일: 2026-05-11
+# 테마: JOBY Aviation ($JOBY) eVTOL 종목 완전 해부
+# 선정일: 2026-05-12
 
-## 1차 자료 (SEC EDGAR / 공식 발표)
-- [Intel SEC EDGAR 10-K] https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INTC&type=10-K&dateb=&owner=include&count=10
-  → IFS(인텔 파운드리 서비스) 분사 이후 수익 구조, 외부 고객 매출, 18A 공정 원가 구조
+## 1차 자료 (SEC EDGAR / 공식 IR)
 
-- [TSMC Form-20F (연간보고서)] https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSM&type=20-F&dateb=&owner=include&count=10
-  → 고객 집중도(Apple 비중 약 25%), 공정별 매출 비중, 2026 capex 가이던스
+- [JOBY Q1 2026 10-Q (StockTitan)] https://www.stocktitan.net/sec-filings/JOBY/10-q-joby-aviation-inc-quarterly-earnings-report-a87eba3fc448.html
+  → Q1 2026: 매출 $24.2M, 순손실 $110M, 현금 $2.47B
+  → 운영비 $257.8M (R&D $177.5M, SG&A $61.6M)
+  → $600M 주식 발행 + $690M 전환사채(0.75%, 2032만기)로 유동성 확보
 
-## 뉴스/분석 1차 취재
-- [CNBC] https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html
-  → Apple-Intel 딜 원보도, Intel 파운드리 전략 피벗 의미 해설 (2026-05-08)
+- [JOBY IR 공식 Q1 결과 프레스릴리즈] https://ir.jobyaviation.com/news-events/press-releases/detail/182/joby-reports-first-quarter-2026-financial-results
+  → 공식 IR 자료. FAA Stage 5(최종) 진입, SR3 감사 통과, TIA 첫 비행 완료
 
-- [CNBC] https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html
-  → "AI 칩 사랑이 NVIDIA에서 Intel·AMD·Micron으로" — 반도체 수급 다변화 흐름 조망 (2026-05-08)
+- [JOBY SEC EDGAR 전체 파일링] https://ir.jobyaviation.com/sec-filings/all-sec-filings
+  → 추가 10-K, 8-K 자료 접근 경로
 
-- [9to5Mac] https://9to5mac.com/2026/05/08/apple-and-intel-have-reached-a-deal-to-produce-future-chips-report/
-  → Apple 측 관점 + 미래 칩 라인업 추측 (2026-05-08)
+## 어닝콜 트랜스크립트 (직접 인용용)
 
-- [MacRumors] https://www.macrumors.com/2026/05/08/apple-intel-preliminary-chip-deal/
-  → "preliminary agreement" 상세 + Apple Silicon 라인업 영향 분석 (2026-05-08)
+- [Motley Fool Q1 2026 어닝콜 트랜스크립트] https://www.fool.com/earnings/call-transcripts/2026/05/06/joby-aviation-joby-q1-2026-earnings-transcript/
+  → CEO JoeBen Bevirt "The Next Golden Age of Flight" 발언 등 직접 인용 확보 가능
+  → FAA SR3 감사 세부 내용, eIPP 11개 주, 두바이 론칭 타임라인
 
-- [GigaNectar] https://giganectar.com/apple-intel-chip-manufacturing-deal-tsmc-us-foundry/
-  → Intel 주가 +200% 맥락 + "The Only Place That Can Scale Up" 분석 (2026-05-10)
+- [Benzinga Q1 어닝콜 하이라이트] https://www.benzinga.com/markets/earnings/26/05/52306919/joby-stock-flies-higher-on-q1-results-2026-update-the-next-golden-age-of-flight
+  → 어닝 서프라이즈 맥락 + 주가 반응 + 핵심 경영진 코멘트 요약
 
-## 시장 데이터 / 산업 보고서
-- [IDC 반도체 시장 전망] https://www.idc.com/resource-center/blog/semiconductor-market-to-surge-past-the-trillion-dollar-threshold-ai-infrastructure-drives-market-growth/
-  → 2026년 반도체 시장 $1.29조 전망, DRAM 3배 성장, HBM 수요 분석
+- [The Cerbat Gem Q1 어닝콜 하이라이트] https://www.thecerbatgem.com/2026/05/11/joby-aviation-q1-earnings-call-highlights.html
+  → 추가 인용 소스 (5/11 발행)
 
-- [Deloitte 2026 반도체 아웃룩] https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/semiconductor-industry-outlook.html
-  → TSMC 72% 점유율 데이터, Intel IFS 진입 맥락, 지정학 리스크
+## 국제 비교 — eVTOL 인증 경쟁
 
-- [Manufacturing Dive (Omdia)] https://www.manufacturingdive.com/news/opinion-omdia-ai-semiconductor-chip-scarcity/817172/
-  → AI 칩 공급 병목: 전력·구리·헬륨 쇼티지가 TSMC 이전을 강제하는 구조적 이유
+- [EHang CAAC 타입 인증 획득 (2023-10-13)] https://www.globenewswire.com/news-release/2023/10/13/2759806/0/en/EHang-Successfully-Obtains-Type-Certificate-for-EH216-S-Passenger-Carrying-UAV-System-Issued-by-Civil-Aviation-Administration-of-China.html
+  → 세계 최초 eVTOL 타입 인증, 1,000일+ 인증 과정, 2023년 10월
+  → **핵심 비교**: 중국이 미국(FAA)보다 먼저 인증 완료
+
+- [EHang 에어 오퍼레이터 인증(상업 운항 개시)] https://www.ehang.com/news/1196.html
+  → TC + AC + PC + OC 풀 인증 세트 완료. 세계 최초 eVTOL 상업 운항
 
 ## 14:00 트리거 추가 수집 권장
-- Intel IFS Day 2025 키노트 트랜스크립트: investor.intel.com (IR 사이트)
-- Rapidus (일본 2나노) 최신 공시 — 국제 비교 섹션
-- 삼성전자 파운드리 2025 사업보고서 (한국어 IR)
-- Trump CHIPS Act 2026 업데이트 / 반도체 행정명령 원문
+
+- 백악관 eIPP(Electrification Innovation Partnership Program) 공식 자료 — JOBY 11개 주 선정 근거
+- UAE GCAA(두바이 항공당국) eVTOL 인증 가이드라인 — 두바이 2026 상업 론칭 규제 근거
+- Archer Aviation ($ACHR) SEC 10-Q — 경쟁사 FAA 인증 진행 단계 비교
+- Joby Aviation SEC EDGAR: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JOBY&type=10-Q&dateb=&owner=include&count=10
+- 한화에어로스페이스 Butterfly AAM 공식 IR 자료 (한국 비교 섹션용)
