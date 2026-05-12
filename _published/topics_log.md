@@ -99,3 +99,9 @@
 - 핵심 주장/결론: ASIC 성장률(44.6%)이 GPU(16.1%)를 압도하며 2028년 출하량 추월 예정. 픽앤샤블 수혜는 $AVGO($73B 수주잔고)·$TSM·$MRVL이며, 한국 HBM은 ASIC 슈퍼사이클의 필수 소재로 +82% 수요 급증 전망.
 - 1차 자료 출처: SEC EDGAR Broadcom 10-K × 1, TSMC Q1 2026 어닝콜 트랜스크립트 × 1, Google Cloud 공식 블로그 × 1, Meta 공식 뉴스룸 × 1, Microsoft 공식 블로그 × 1, TrendForce 보고서 × 1, Bloomberg Intelligence 보고서 × 1 (총 7건)
 - 판정: Minor (5개 개선점 반영 — Ironwood 공정 노드 표기 완화, TSMC 이익률 표현 수정, Blackwell 매진 표현 완화, 칩 성능 테이블 H100 기준 행 추가, 결론 여운 문장 추가)
+
+## 2026-05-12 09:00 [AM] (테마: EV/자율주행/모빌리티)
+- 헤드라인: CPI 발표 D-Day — 인플레이션이 6주 랠리를 멈출 수 있을까?
+- 오늘의 픽: $AUR (카탈리스트: Q1 실적 beat 5/6 + McLane/버크셔 자율트럭 파트너십 + Hirschbach 500대 MOU + MS 목표가 $12→$14), $RIVN (카탈리스트: R2 양산 시작 4/30 + 우버 5만 대 로보택시 계약 + VW $10억 투자 + DOE $45억 대출) [와치리스트 외 발굴]
+- 뉴스 토픽: [EV/자율주행] 테슬라 Signature Edition 배송 취소·NHTSA FSD 조사vs모델Y ADAS 통과 / 웨이모 3000대·50만건/주·런던 진출 / 리비안 R2 양산+우버 5만 대 / Aurora-McLane/버크셔 자율트럭 / [매크로] 4월 CPI 발표(헤드라인 3.7% YoY 컨센서스) / WTI $96.8 이란 협상 교착 / BTC $81,209 / [기업] NVDA D-8 실적(5/20 장 마감) / JOBY CPO 7만4844주 내부자 매도 / ARK Invest AMD 매도→Tempus AI 매수
+- 팟캐스트: All-In Podcast "Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back" (2026-05-10)

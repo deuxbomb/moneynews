@@ -1,173 +1,203 @@
-# 당신의 Claude와 ChatGPT를 돌리는 칩은 이제 NVIDIA가 아니다 — ASIC 슈퍼사이클의 서막
+CPI 발표 D-Day — 인플레이션이 6주 랠리를 멈출 수 있을까?
+머뉴 MoneyNews | 2026년 5월 12일 (화) | 돈이 되는 모든 것에 대한 소식
 
-**2026-05-11 | 테마: AI 인프라/반도체 | 유형: 📡 테크 트렌드**
-
----
-
-## 🎬 1. 이야기: Midjourney가 서버실 이사를 결정한 날
-
-2026년 봄, 이미지 생성 AI 스타트업 Midjourney는 조용한 결정을 내렸다. 수백만 달러짜리 NVIDIA GPU 서버에서 Google의 TPU 클라우드로 워크로드를 이전한 것이다. 이유는 단 하나 — 월 비용이 **$210만에서 $70만으로 65% 줄었다**.
-
-이 한 줄의 숫자가 2026년 AI 반도체 시장에서 일어나고 있는 조용한 혁명을 압축한다.
-
-2022년 11월, ChatGPT가 세상을 뒤흔들던 그 순간부터 NVIDIA는 AI 인프라의 절대 권력자였다. H100 GPU는 리스트 가격만 수만 달러를 호가해도 순식간에 매진됐다. 빅테크는 앞다퉈 'NVIDIA 우선' 전략을 세웠다. 하지만 2026년, 같은 빅테크 기업들이 직접 칩을 설계하기 시작했다.
-
-구글은 7세대 TPU 'Ironwood'를 공개했다. 메타는 단 하루에 4세대 칩 로드맵을 발표했다. 아마존은 3나노 공정의 Trainium 3를 AWS에 올렸다. 마이크로소프트는 자사 데이터센터에서 OpenAI GPT-5.2 모델을 직접 개발한 'Maia 200'으로 돌리기 시작했다. 모두 NVIDIA GPU 없이.
-
-이것은 단순한 기술 경쟁이 아니다. **추론(Inference)이 AI 컴퓨트의 2/3를 차지하는 시대**로 넘어오면서, 범용 GPU보다 특정 작업에 최적화된 전용 칩(ASIC)이 경제적으로 압도적 우위를 갖기 시작했다. 변곡점은 이미 지나쳤다. 지금은 그 파도가 얼마나 높이 치솟는지를 가늠하는 시간이다.
+🇰🇷 코스피 ~7,700 / 원달러 1,462원
+🇺🇸 S&P 500 7,413 / 나스닥 26,274 / WTI $96.8 / BTC $81,209
 
 ---
 
-## 📈 2. 10년 차트가 보여주는 단 하나의 변곡점
+📌 오늘의 판세 — 하나의 숫자가 모든 것을 결정한다
 
-**2016년 NVIDIA의 데이터센터 매출은 $3억이었다.**
+오늘 오전 8시 30분(미국 동부시간), 미 노동부가 4월 소비자물가지수(CPI)를 발표한다. 월가의 컨센서스는 헤드라인 +3.7% YoY, 코어 +2.7% YoY. 지난 6주 연속 상승하며 7,413포인트까지 올라온 S&P 500이 오늘 이 숫자 앞에 멈춰 섰다.
 
-10년이 지난 2026년, 그 숫자는 $1,300억(FY2026 전망)으로 불어났다. 약 430배. 인류 역사상 어떤 기업도 이 속도로 성장한 적이 없었다. NVIDIA의 AI 가속기 시장 점유율은 2024년 87%까지 치솟았다. 이것이 피크였다.
+예상보다 뜨겁게 나온다면? 9월 금리인하 기대가 순식간에 날아가고, 6주 동안 쌓아온 랠리가 하루 만에 흔들릴 수 있다. 반대로 예상치 이하라면 7,500 돌파가 눈앞이다. 오늘은 "매수냐 관망이냐"의 분기점이다.
 
-### 추론 비용의 폭락, 그리고 ASIC의 시간
-
-동시에, 추론 토큰 비용의 역사적 붕괴가 진행됐다:
-
-- **2022년 11월**: GPT-3.5급 성능에 $20/100만 토큰
-- **2024년 10월**: $0.07/100만 토큰
-- **2026년 (추정)**: $0.01 미만
-
-2년 만에 **99.6% 하락**. Epoch AI Research가 추적한 이 곡선의 가속 원인 중 하나가 바로 커스텀 실리콘이다.
-
-### ASIC의 시간표
-
-TrendForce의 2026 Cloud AI Outlook에 따르면, 커스텀 ASIC의 성장률은 **44.6%**인 반면 GPU 성장률은 **16.1%**다. Bloomberg Intelligence는 AI 가속기 시장에서 ASIC의 비중이 2024년 8%에서 **2033년 19%**로 늘어날 것으로 전망했다. 그리고 결정적인 예측 하나: **2028년, ASIC 출하량이 GPU를 추월한다**.
-
-### 왜 지금인가? — 추론의 지배
-
-2023년, AI 컴퓨트에서 추론이 차지하는 비중은 1/3이었다. 2026년, 그 비중은 **2/3**가 됐다(Deloitte 전망). ChatGPT와 Claude를 수억 명이 쓰는 시대, 모델을 한 번 훈련시키는 비용보다 매초 수백만 건의 질문에 답하는 '추론' 비용이 훨씬 크다는 뜻이다. TSMC의 CC Wei CEO는 2026년 4월 어닝콜에서 이렇게 말했다: *"아젠틱 AI로의 전환이 추론에서 소비되는 토큰 수를 급격히 늘리고 있다. 이는 최첨단 실리콘에 대한 강력한 수요를 지지한다."*
-
-그 '최첨단 실리콘'이 이제 반드시 NVIDIA일 필요는 없게 됐다. 추론 작업은 하나의 모델, 하나의 요청 패턴이 반복된다 — ASIC이 가장 잘하는 영역이다.
+이란-미국 협상이 다시 교착 상태에 빠지며 WTI는 $96.8로 재반등했다. 에너지 섹터가 지정학 불확실성에 짓눌리는 동안, 테크와 자율주행 섹터는 자체 카탈리스트로 독자 행보 중이다.
 
 ---
 
-## 🌏 3. 미국, 한국, 중국, 유럽이 모두 다른 게임을 하고 있다
+💰 관심 종목 현황 (5/11 종가 기준)
 
-### 🇺🇸 미국: 빅테크 5사의 칩 군비경쟁
-
-구글, 메타, 아마존, 마이크로소프트, OpenAI. 이 5개 기업이 2026년 집행할 AI 인프라 capex는 합산 **$660~690B**이며, 이 중 75%가 AI 인프라에 쏠린다. 그리고 이 돈의 점점 더 많은 부분이 NVIDIA가 아닌 자체 ASIC에 흐른다.
-
-각 사의 최신 칩 성능을 NVIDIA H100 기준과 비교하면:
-
-| 기업 | 칩 | 성능(FP8) | 공정 | 특징 |
-|------|----|---------|------|------|
-| **[기준] NVIDIA** | H100 SXM5 | 3.9 PFLOPS/칩 | TSMC 4nm | GPU 범용 추론+훈련 |
-| Google | Ironwood TPU v7 | **4.6 PFLOPS/칩** | TSMC | Anthropic 100만 개 배포 |
-| Meta | MTIA 400 | **6.0 PFLOPS/칩** | TSMC | 6개월 출시 주기 |
-| Amazon | Trainium 3 | **2.52 PFLOPS/칩** | TSMC 3nm | UltraServer 362 PFLOPS |
-| Microsoft | Maia 200 | **5.0 PFLOPS/칩** | TSMC 3nm | OpenAI GPT-5.2 구동 |
-
-단순 스펙 비교만으로는 뉘앙스가 빠진다. 각 칩은 해당 회사의 소프트웨어 스택, 모델 아키텍처, 데이터센터 설계와 수직 통합돼 있어 **자사 AI 서비스만 돌리는 빅테크에게는 최적의 선택**이 된다.
-
-픽앤샤블의 왕은 **Broadcom($AVGO)**이다. 구글 TPU, 메타 MTIA, Anthropic 칩 모두 Broadcom이 설계 파트너다. 2026년 Q1 AI 반도체 매출 $8.4B(+106% YoY), Q2 가이던스 $10.7B. AI 수주잔고만 $73B. Broadcom의 FY2025 10-K(SEC EDGAR 제출)에 따르면, 총매출 $63.9B 중 AI 반도체가 핵심 성장 동력으로 부상했다.
-
-또 다른 픽앤샤블인 **Marvell($MRVL)**은 AWS Trainium과 Microsoft Maia의 네트워킹 ASIC을 담당하며 ASIC 시장 20~25%를 점유한다.
-
-### 🇰🇷 한국: 보이지 않는 HBM 독점
-
-이 모든 ASIC 칩에는 하나의 공통점이 있다 — **고대역폭메모리(HBM)**. 구글 Ironwood는 HBM3e 192GB, 메타 MTIA 400은 HBM 288GB, 마이크로소프트 Maia 200은 HBM3e 216GB. 이 메모리의 상업적 생산은 사실상 한국 두 기업이 독점한다.
-
-**SK하이닉스**: 2025년 HBM 출하 점유율 62%, 매출 점유율 57%. Microsoft Maia 200의 HBM 독점 공급사. 2026년 투자 규모를 4배 이상 확대 예정.
-
-**삼성전자**: Meta MTIA 공급 파트너. 2026년 HBM 생산 ~50% 증산.
-
-TrendForce에 따르면, ASIC 기반 AI 칩 전용 HBM 수요는 **+82%** 급증할 전망이다. ASIC 슈퍼사이클의 가장 조용하고, 가장 확실한 수혜자다.
-
-### 🇨🇳 중국: 화웨이의 고립된 생태계
-
-미국의 수출 통제로 중국은 별도의 AI 칩 생태계를 구축 중이다. 화웨이의 Ascend 910C는 SMIC 7nm 공정에도 불구하고 NVIDIA H100의 약 80% 수준의 컴퓨트 성능을 낸다. 2026년 60만 개 생산 목표. 더 주목할 것은 **Ascend 950PR** — FP4 성능이 NVIDIA H20의 2.8배로 ByteDance가 $5.6B을 선주문했다.
-
-중국은 TSMC와 ASML의 최신 장비에 접근할 수 없어 전력 효율에서 구조적 열세를 가진다. 하지만 국내 수요 규모만으로도 독자 생태계를 유지할 수 있는 거대 시장이다.
-
-2026년 5월 10~11일 미중 제네바 합의(관세 115% → 30%, 90일 유예)는 전통적 수출 통제에는 큰 변화를 주지 않지만, TSMC와 Broadcom의 공급망 불확실성을 낮추는 긍정적 신호다.
-
-### 🇪🇺 유럽: 리소스 없는 야망
-
-유럽은 EU Chips Act로 2030년까지 세계 반도체 시장 점유율을 현재 10%에서 20%로 높이겠다는 목표를 세웠다. ASML의 High-NA EUV 장비는 세계 유일이며, IMEC(벨기에)의 NanoIC 파일럿 라인이 유럽의 희망이다. 그러나 유럽 감사원은 2025년 4월 이 목표가 "매우 달성하기 어렵다"고 평가했다. 유럽은 칩 제조 장비(ASML)는 독점하지만, 정작 커스텀 AI 칩을 설계·운영할 하이퍼스케일러가 없다.
+$TSLA  $422.27  — Signature Edition 배송 행사 당일 취소. FSD NHTSA 조사 vs 모델Y ADAS 테스트 첫 통과의 혼재 신호
+$GOOGL $388.64  — Waymo 미국 9개 도시 + 런던 상업 론칭 추진. 로보택시 시장 주도권 공고
+$NVDA  $221.98  — ⚡ D-8! 5월 20일 장 마감 후 Q1 FY2027 실적 발표. 컨센서스 상향 중
+$COIN  $215.39  — Q1 순손실 $394M 어닝미스. BTC $81K에서 가격 지지선 확인 중
+$NFLX   $87.49  — 지난 한 달 -12.8% 하락. 애널리스트 중간 목표가 $115, 31% 괴리 주목
+$OKLO   $77.70  — NRC 소형모듈원전(SMR) 심사 진행 중. 에너지 섹터 내 독보적 위치
+$OHI    ~$46.00 — 헬스케어 리츠, 고금리 환경에서 배당 안정. 방어주 역할
+$SPY   ~$741    — S&P 500 6주 연속 상승, 오늘 CPI 앞두고 7,400 지지선 테스트
+$QQQ   ~$711    — NVDA 어닝 D-8 앞두고 나스닥100 ETF 관망 분위기
 
 ---
 
-## ⚖️ 4. NVIDIA가 틀릴 수 없는 이유, 그럼에도 틀릴 수 있는 이유
+👀 오늘 주목할 것
 
-### 🐂 Bull: ASIC은 추론을, GPU는 훈련을 — 두 시장 모두 성장한다
+🔴 **CPI 발표 (8:30 AM ET)**: 헤드라인 3.7% YoY 컨센서스. 예상 상회 시 즉각적 시장 반응 예상. S&P 500 7,350 이하로 떨어지면 단기 조정 신호
 
-가장 강력한 반론은 NVIDIA 자신이 제기한다. AI 훈련은 여전히 GPU의 영역이다. NVIDIA의 훈련 시장 점유율은 90%에 달하며, CUDA 소프트웨어 생태계는 15년 이상 쌓아온 방어벽이다. 빅테크가 자체 칩을 만들더라도 최첨단 모델 훈련에는 NVIDIA Blackwell이 필수다. 시장 전체가 커지는 중이니 NVIDIA의 절대 매출은 오히려 늘어날 수 있다 — 점유율이 87%에서 75%로 줄어도, 시장이 5배 커지면 절대 매출은 늘어난다.
+⚡ **NVDA D-8**: 5월 20일 NVIDIA Q1 FY2027 실적. 주당 $5.80 EPS 컨센서스(전년比 +78%). 어닝 서프라이즈 시 AI 랠리 재점화
 
-게다가 NVIDIA는 Blackwell Ultra, Rubin 아키텍처를 준비 중이다. CUDA 생태계에서 벗어나는 비용은 천문학적이다. 수십만 개의 기존 AI 모델이 CUDA 최적화로 작성돼 있다.
-
-### 🐻 Bear: 추론 = 돈, 그리고 돈은 ASIC으로 간다
-
-카운터 시나리오는 간단하다. AI 시대에서 **돈을 버는 것은 추론**이다. 구글 검색, 메타 피드 알고리즘, 아마존 상품 추천 — 이 모든 것이 초당 수백만 건의 추론이다. 그리고 추론에서 ASIC은 GPU보다 30~50% 낮은 TCO를 제공한다. Midjourney의 사례처럼 65% 비용 절감이 현실이다. 하이퍼스케일러가 자체 칩 개발에 $1B을 투자하면 5년간 $10B의 GPU 비용을 절감할 수 있다 — ROI가 10배다.
-
-더 날카로운 비판: NVIDIA의 Blackwell 시스템은 공급이 수요를 따라가지 못하는 상황이지만, 빅테크가 ASIC 생산을 가속하면 NVIDIA GPU 대기 수요가 단기간에 급감할 수 있다.
-
-### 🃏 가장 의외의 리스크: ASIC도 GPU처럼 공급 부족
-
-아이러니하게도, ASIC 붐의 가장 큰 위험은 ASIC 자체의 공급 제약이다. Broadcom이 설계하고, TSMC가 만들고, SK하이닉스가 HBM을 공급하는 이 체인 어디서든 병목이 생기면 사이클이 꺾인다. TSMC는 이미 N3 공정을 최대 가동 중이다. 하이퍼스케일러 모두가 동시에 ASIC을 원할 때 누가 먼저 얻는지가 새로운 경쟁이 된다.
+🚛 **자율주행 화요일**: 오늘의 핵심 테마. Aurora Innovation이 버크셔 해서웨이 계열 McLane과 자율트럭 파트너십을 맺었다. 월가에서 가장 큰 손이 자율주행에 베팅을 시작했다는 신호다.
 
 ---
 
-## 💡 5. 투자자에게 남는 것: 칩 전쟁의 진짜 수혜자를 찾아라
+🔥 오늘의 픽 — EV/자율주행/모빌리티 (화요일 테마)
 
-### 📌 포지션 프레임
+🌡️ 시장 온도
+S&P 500이 7,400 위에서 CPI를 기다리고 있다. Fear & Greed 지수는 "Neutral" 구간 — 6주 랠리 이후 피로감이 누적됐지만 AI·자율주행 섹터는 여전히 모멘텀이 살아 있다. VIX는 상대적으로 안정적이지만 오늘 CPI 결과에 따라 급등할 수 있다. 오늘처럼 "숫자 하나"가 지배하는 날엔, 섹터 자체 모멘텀이 강한 종목을 골라야 손실 위험이 낮다.
 
-ASIC 슈퍼사이클에서 투자 기회를 구조적으로 정리하면:
-
-**Tier 1 — 직접 수혜, 가시성 높음**
-
-**$AVGO (Broadcom)** — 이 판의 진짜 픽앤샤블. 고객이 NVIDIA든 구글이든 메타든, 칩을 직접 만들려면 Broadcom이 필요하다. AI 수주잔고 $73B은 2027년 중반까지 매출 가시성을 제공한다. 5번째 XPU 고객 추가($1B 초기 주문) 확인. FY26 AI 매출 $40.4B 목표. 리스크: Apple이나 Amazon이 완전 내재화할 경우 고객 이탈.
-
-**$TSM (TSMC)** — ASIC이든 GPU든 모두 TSMC가 만든다. FY2026 가이던스 >30% USD 성장, 역대 최고 수준의 총이익률 66.2%. ASIC 붐은 N3, N2 선단 공정 수요를 폭증시킨다. 미중 무역합의로 공급망 리스크 소폭 감소.
-
-**Tier 2 — 간접 수혜, 성장 가시성**
-
-**$MRVL (Marvell)** — AWS, Microsoft의 네트워킹 ASIC 파트너. ASIC 시장 20~25% 점유. 빅테크가 ASIC을 더 많이 만들수록 Marvell의 네트워킹 IC 수요도 비례 증가.
-
-**$005930 KS / $000660 KS (삼성·SK하이닉스)** — HBM 없이는 ASIC도 없다. ASIC용 HBM 수요 +82% 전망. 국내 투자자에게는 ASIC 테마의 가장 직접적인 한국 플레이.
-
-**Tier 3 — 관심 지속, 진입 조건 필요**
-
-**$NVDA** — 단기 매도 근거 없음. AI 훈련 90% 점유 + 선단 GPU 독보적 위치. 다만 ASIC 점유율 잠식이 구조적 추세임을 인지하고 FY2027 가이던스 반응을 지켜볼 것. 추론 시장 대응으로 NIM 플랫폼, GB300 Ultra 동향 주시.
-
-### ⚡ 카탈리스트 캘린더
-
-- **5월 중순**: 미중 90일 유예 기간 내 구체적 실행 조건 공개 예정
-- **6월 2~3일**: Microsoft Build 2026 — Maia 200 확장 발표 예상
-- **6월 4~11일 (추정)**: Broadcom Q2 FY26 실적 발표 (가이던스 $10.7B 달성 여부)
-- **2026년 H2**: OpenAI 커스텀 칩 양산 시작 → AVGO 6번째 XPU 고객 확인 가능성
-
-### 🎯 핵심 체크 포인트
-
-ASIC 슈퍼사이클 내러티브가 틀렸다는 신호:
-- Broadcom이 주요 고객(구글, 메타)을 잃거나 계약을 갱신 못할 때
-- TSMC N3 수율이 급격히 나빠져 ASIC 생산 차질 발생 시
-- NVIDIA가 추론 전용 저전력 칩으로 ASIC 영역에 역침투할 때
+🎯 오늘의 테마 — 화요일은 자율주행의 날
+월가에서 버크셔 해서웨이가 움직였다. 테슬라가 다시 뉴스를 만들고 있다. 리비안이 로보택시 계약을 5만 대 수준으로 확대했다. 자율주행이 "미래 기술"에서 "오늘의 비즈니스"로 격변하는 화요일이다. 오늘 픽 2종목은 이 전환점의 수혜주다.
 
 ---
 
-Midjourney가 NVIDIA 서버실에서 짐을 쌌던 그 날, 사실 Midjourney만 이사한 게 아니었다. 이미 수조 달러의 capex가 새 주소를 향해 움직이기 시작했다. AI 칩 전쟁의 승자는 아직 정해지지 않았지만, **싸움의 본질이 '훈련'에서 '추론'으로 이동했다는 사실** 하나만큼은 확실하다. 추론을 가장 싸게 제공하는 자가 AI 시대의 인프라를 지배한다.
+💡 픽 1: 버크셔가 자율트럭에 올라탔다
+
+**$AUR** — Aurora Innovation (시총 $15B, 자율트럭/로봇택시)
+
+5월 11일, Motley Fool이 충격적인 질문을 던졌다. "버크셔 해서웨이와의 연결이 Aurora를 매수해야 할 이유가 될까?" McLane Company — 월마트, CVS에 식품을 납품하는 버크셔 해서웨이의 유통 계열사 — 가 Aurora의 자율트럭 시스템을 실제 노선에 도입하기로 했다. 버핏의 회사가 자율주행에 베팅한다는 신호다.
+
+Aurora의 Q1 2026 실적은 5월 6일 발표됐다. 컨센서스를 상회했다. 더 중요한 건 그 다음 날 나온 뉴스들이다: Hirschbach MOU가 확장돼 2027년부터 Aurora Driver 기반 트럭 500대 투입 계획이 확정됐다. 물류 대기업들이 하나씩 서명에 나서고 있다. Morgan Stanley는 목표가를 $12에서 $14로 상향했다. Needham은 이미 $13 목표가를 유지 중이다. 주가는 한 달 만에 +67% 상승해 $7 선을 넘었다.
+
+리스크는 있다. 단기 급등 이후 이익실현 매물이 나올 수 있고, 아직 수익을 내지 못하는 기업이다. 하지만 Vanguard가 Q4 2025에 1,780만 주를 추가 매수한 사실, 공매도 잔량이 11.7일치에 달한다는 점은 숏스퀴즈 가능성을 시사한다.
+
+📊 스코어카드
+기술적 3/3 | 수급 1/3 | 카탈리스트 2/2 | 펀더멘털 1/2 | 신선도 +1 | **종합 8/10**
+📅 D-Day: 2026-05-06 Q1 실적 발표 완료 + 지속적 파트너십 카탈리스트
+RSI: 70 내외 (급등 후 과열 주의) | 시총: $15B | 공매도: 10.69% / 11.7일
+목표가: Needham $13 / Morgan Stanley $14 (현재 $7 → 최대 +100%)
 
 ---
 
-## 📚 출처
+💡 픽 2: 리비안이 로보택시 계약을 5만 대로 늘렸다
 
-| 자료 | 유형 | URL |
-|------|------|-----|
-| Broadcom FY2025 10-K | SEC EDGAR (1차) | [SEC.gov](https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm) |
-| TSMC Q1 2026 어닝콜 | 실적발표 트랜스크립트 (1차) | [Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-tsmcs-q1-2026-shows-strong-growth-and-margin-gains-93CH-4617167) |
-| Google Cloud — Ironwood TPU | 기업 공식 블로그 (1차) | [Google Cloud](https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads) |
-| Meta — MTIA 발표 | 기업 공식 뉴스룸 (1차) | [about.fb.com](https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/) |
-| Microsoft — Maia 200 발표 | 기업 공식 블로그 (1차) | [Microsoft Blog](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) |
-| TrendForce 2026 Cloud AI Outlook | 산업 리서치 보고서 (1차) | [TrendForce](https://www.trendforce.com/research/download/RP251105VO) |
-| Bloomberg Intelligence AI 가속기 | 시장 조사 (1차) | [Bloomberg](https://www.bloomberg.com/company/press/ai-accelerator-market-looks-set-to-exceed-600-billion-by-2033-driven-by-hyperscale-spending-and-asic-adoption-according-to-bloomberg-intelligence/) |
-| White House 미중 합의 브리핑 | 정부 성명 | [WhiteHouse.gov](https://www.whitehouse.gov/briefings-statements/2025/05/joint-statement-on-u-s-china-economic-and-trade-meeting-in-geneva/) |
-| ARK Invest AI 인프라 리서치 | 투자 리서치 | [ARK Invest](https://www.ark-invest.com/articles/analyst-research/the-state-of-ai-infrastructure-demand-costs-custom-silicon) |
-| SK하이닉스 2026 아웃룩 | 기업 공식 | [SK하이닉스](https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/) |
-| Epoch AI Research 토큰 비용 | 학술 리서치 | [Epoch AI](https://epochai.org) |
-| Meta MTIA 공식 블로그 | 기업 공식 블로그 (1차) | [ai.meta.com](https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/) |
+**$RIVN** — Rivian Automotive (시총 $14B, EV/로보택시)
 
+4월 30일, Rivian의 CEO RJ Scaringe가 밝혔다. 노멀(Normal), 일리노이 공장에서 R2 양산이 시작됐다고. 첫 번째 고객 인도는 올 하반기부터 시작된다. 이틀 뒤엔 더 큰 뉴스가 터졌다 — Uber가 R2 SUV 기반 완전 자율 로보택시를 최대 5만 대 발주하기로 했다. 2031년까지 최대 $12.5억 지분 투자도 포함됐다.
+
+Volkswagen도 지분 투자에 참여했다. 4월 말 $10억을 투자해 주당 $15.90에 6,288만 주를 취득했다. 미국 에너지부(DOE)는 $45억 규모의 대출을 확정했다. 총 유동성이 $139억에 달한다. Q1 매출은 $13.8억으로 전년 比 +11% 성장했다. 아직 적자지만 R2 양산이 본격화되면 단위당 비용이 줄고 마진이 개선될 구조다.
+
+주가는 최근 -13.5% 조정을 받아 $14.20 선이다. 월가 20명 애널리스트 중 Buy 의견 다수, 컨센서스 21% 상승 여력 제시.
+
+📊 스코어카드
+기술적 2/3 | 수급 1/3 | 카탈리스트 2/2 | 펀더멘털 2/2 | 신선도 +1 | **종합 8/10**
+📅 D-Day: 2026-04-30 R2 양산 시작 공식 발표 (12일 경과, 14일 이내 ✅)
+RSI: ~42 (조정 후 반등 구간) | 공매도: N/A | 목표가: 컨센서스 ~$17 (+21%)
+총 유동성: $139억 | 차기 실적: 2026년 8월 11일
+
+---
+
+⚠️ 투자 조언이 아닌 데이터 기반 분석입니다. 오늘의 픽은 와치리스트 9종목 ($TSLA, $GOOGL, $NVDA, $COIN, $NFLX, $OKLO, $OHI, $SPY, $QQQ) 외 발굴 종목입니다.
+
+---
+
+## 📰 오늘의 뉴스
+
+### 📊 CPI의 날 — 6주 랠리, 오늘 심판대에 서다
+
+S&P 500이 7,413 포인트에서 숨을 고르고 있다. 6주 연속 상승, AI 랠리와 이란 리스크 해소 기대감이 지수를 여기까지 밀어올렸다. 하지만 오늘 오전 8시 30분(ET), 4월 CPI 하나가 이 6주의 성적표를 재평가할 수 있다. 월가는 헤드라인 +3.7% YoY, 코어 +2.7% YoY를 예상한다. 만약 헤드라인이 4%를 넘는다면? "9월 금리인하"라는 시장의 마지막 희망이 흔들리고, 테크·성장주가 가장 먼저 흔들린다. 반대로 3.5% 이하가 나오면 7,500 돌파의 서막이 된다. 오늘은 매수와 관망 사이에서 신중해야 하는 날이다. [Yahoo Finance](https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-as-wall-street-braces-for-cpi-report-224350942.html)
+
+이란-미국 평화협상이 다시 교착되면서 WTI는 $96.8로 반등했다. 트럼프 대통령이 이란의 최근 제안을 거부하며 호르무즈 해협 불안이 지속됐다. 에너지 섹터는 지정학 프리미엄을 붙인 채 거래되고 있다. BTC는 $81,209(-0.72%)로 CME 선물 개장 전 포지셔닝 과정에서 소폭 후퇴했다.
+
+---
+
+### 🚗 [화요일 테마 — EV/자율주행] 자율주행, "미래"에서 "오늘"로 건너왔다
+
+**1. 테슬라, 배송 행사 당일 취소 — FSD는 두 얼굴**
+
+테슬라가 5월 12일 프리몬트 공장에서 예정됐던 Signature Edition 배송 행사를 당일 아침 갑작스럽게 취소했다. 수천 달러의 항공권과 호텔을 예약한 구매자들에게 달랑 이메일 하나가 갔다 — 이유도, 새 날짜도 없이. 테슬라식 불투명한 커뮤니케이션이 또 한번 논란이 됐다.
+
+배경: FSD(Full Self-Driving)를 둘러싼 규제 신호는 엇갈리고 있다. NHTSA가 안개·역광 등 저시정 상황에서 FSD가 오작동한다며 3,204,754대를 대상으로 Engineering Analysis를 개시했다 — 이 단계에서 리콜이 나올 수 있다. 동시에 트럼프 행정부 교통부는 "테슬라 모델Y가 NHTSA의 새로운 첨단 운전자 보조(ADAS) 테스트를 통과한 첫 번째 차량"이라고 발표했다. 규제가 FSD를 밀면서 동시에 누르는 형국이다.
+
+전망: 리콜 가능성과 긍정적 ADAS 인증이 공존하는 지금, $TSLA 주가는 $422 근방에서 방향을 잡지 못하고 있다. 6월 예정된 테슬라 주주총회가 다음 명확한 이벤트다. [Electrek](https://electrek.co/) · [NHTSA](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)
+
+---
+
+**2. 웨이모, 로보택시 왕좌를 굳히다 — 3,000대·50만 건/주·런던까지**
+
+웨이모는 2026년 현재 미국 내 로보택시 3,000대를 운용 중이다. 주당 유료 탑승 건수 50만 건, 2025년 전체 탑승 수 1,500만 건(전년 대비 4배). 6세대 Driver 시스템으로 완전 무인 운행을 개시한 웨이모가 올해 안에 워싱턴DC, 디트로이트, 라스베이거스, 샌디에이고 등 9개 도시로 확장한다.
+
+해외로도 간다. 런던 테스트가 2026년 4월 시작됐고, Q4 상업 론칭을 목표로 한다. 일본 도쿄도 타깃 시장에 올라 있다.
+
+배경: 반면 Cruise는 $100억을 태운 뒤 규제 위기로 성장이 막혔다. 바이두 Apollo, WeRide 등 중국 로보택시는 1월 신규 허가가 중단됐다. 미국에 연방 자율주행 안전법이 없는 상황에서 SELF DRIVE Act 2026(하원 초안)이 최초의 법령이 될 가능성이 있다.
+
+전망: 구글($GOOGL) 웨이모는 현재 상장되지 않았지만, 알파벳 실적에 미치는 영향이 점점 커지고 있다. 자율주행 서비스 매출이 Waymo One 앱 확장과 함께 가시화되는 시점이 알파벳의 재평가 신호탄이 될 것이다. [Carbon Credits](https://carboncredits.com/waymo-hits-2500-robotaxi-in-u-s-the-future-of-driverless-rides/) · [Electrek](https://electrek.co/2026/02/12/waymo-begins-fully-autonomous-ops-with-6th-gen-driver-targets-1m-weekly-rides/)
+
+---
+
+**3. 리비안 R2 양산 + 우버 5만 대 계약 — EV 로보택시 시대 개막**
+
+리비안 R2가 노멀(일리노이) 공장에서 4월 30일 양산에 들어갔다. 첫 고객 인도는 올 하반기. 더 큰 뉴스는 우버와의 계약: 완전 자율 R2 로보택시 최대 5만 대, 2031년까지 $12.5억 지분 투자. 폴크스바겐(VW)도 $10억을 투자해 Rivian 6.3% 지분을 취득했다. 미 에너지부(DOE)는 $45억 대출을 확정했다. 총 유동성 $139억. [Parameter.io](https://parameter.io/rivian-rivn-stock-climbs-on-earnings-stability-r2-deliveries-near-and-doe-loan-update/) · [Simply Wall St](https://simplywall.st/stocks/us/automobiles/nasdaq-rivn/rivian-automotive/news/why-rivian-automotive-rivn-is-down-135-after-robotaxi-deal-a)
+
+---
+
+### 🏢 기업 뉴스
+
+**$NVDA — 결전의 날까지 D-8**
+
+5월 20일 장 마감 후 NVIDIA Q1 FY2027 실적이 발표된다. 지난 FY2026 Q1에서 NVIDIA는 $441억 매출(전년比 +69%)을 기록했다. 시장은 올해도 어닝 서프라이즈를 기대하고 있다. Blackwell 아키텍처 GPU가 전 세계 AI 인프라 투자를 빨아들이고 있는 가운데, 하이퍼스케일러(구글·마이크로소프트·메타·아마존)의 1분기 설비투자(CapEx) 급증이 NVDA 수요를 뒷받침한다. 오늘부터 8일간 옵션 시장에서 변동성 프리미엄이 빠르게 상승할 전망이다.
+
+**$TSLA — 두 얼굴의 일주일**
+
+테슬라는 이번 주 두 개의 엇갈린 신호를 보냈다. Signature Edition 배송 행사 취소(부정적)와 모델Y ADAS 테스트 첫 통과(긍정적). 자동차 사업부의 마진 압박과 FSD 확장 기대가 여전히 팽팽하게 맞서고 있다. 6월 주주총회가 다음 명확한 이벤트다.
+
+**$NFLX — 31% 괴리, 반등의 조건은?**
+
+$87.49(5/8 종가)와 애널리스트 중간 목표가 $115 사이의 31% 괴리가 눈길을 끈다. 최고가($133.91, 2025년 6월)에서 -34.7% 하락 중인 넷플릭스는 스트리밍 성장 둔화 우려에 짓눌렸다. 하지만 광고 기반 멤버십(AVOD) 매출 성장과 스포츠 중계권 확대가 반등 카탈리스트로 거론된다.
+
+---
+
+### 🌀 흥미로운 이야기
+
+1. **버핏이 자율주행에 베팅했다?** — McLane Company(버크셔 계열 유통사)가 Aurora Innovation과 자율트럭 파트너십을 체결했다. McLane은 버크셔 계열사로 월마트, CVS 등 대형 유통채널에 식품을 납품한다. 버크셔 해서웨이가 자율주행 공급망에 발을 들였다는 의미다. [Motley Fool](https://www.fool.com/investing/2026/05/11/does-berkshire-hathaway-connection-make-aurora/)
+
+2. **테슬라 로보택시 플릿, 고작 25대** — Tesla Cybercab 상용 로보택시 플릿이 현재 25대 수준인 것으로 알려졌다. 머스크는 FSD V15 완성 후 대규모 배포를 예고했지만, 웨이모(3,000대)와의 격차가 여전히 크다. [Automotive World](https://www.automotiveworld.com/news/tesla-robotaxi-fleet-hits-25-as-musk-defers-scale-to-fsd-v15/)
+
+3. **AI capex $7,000억 시대** — No Priors 팟캐스트의 Neil Tiwari: "2026년 말까지 AI 설비투자가 $7,000억에 달할 것"이라고 분석했다. 학습(Training)에서 추론(Inference)으로 컴퓨트 수요가 이동하면서, ASIC과 물리 AI(Robotics) 인프라 수요가 폭발적으로 늘고 있다는 것이다.
+
+---
+
+## 🔭 딥다이브 — 자율주행 실적 카운트다운
+
+### 실적 캘린더 (5월 둘째 주)
+
+| 종목 | 실적 발표 | 컨센서스 EPS | 포인트 |
+|------|-----------|-------------|--------|
+| $NVDA | 5/20 장 마감 후 | $5.80+ 예상 | AI 인프라 투자 수혜 최전선 |
+| $RIVN | 8/11 (다음 분기) | — | R2 양산 마진 개선 여부 주목 |
+| $AUR | Q1 완료 (5/6) | 상회 ✅ | Hirschbach·McLane 성과 측정 |
+
+**NVDA D-8 카운트다운**: FY2026 Q1에서 $441억 매출(+69% YoY)을 기록한 NVIDIA의 FY2027 Q1은 어떻게 나올까? Blackwell GPU가 전 세계 하이퍼스케일러에 공급되면서 수요 부족은 이미 알려진 사실이다. 시장은 EPS $5.80+, 매출 $430억+ 이상을 기대한다. 서프라이즈 가능성이 높지만, 이미 가격에 반영된 기대치인 만큼 가이던스가 핵심이다. "다음 분기에 더 많이 생산할 수 있는가?"가 어닝콜의 핵심 질문이 될 것이다.
+
+---
+
+### 🏦 스마트머니 동향
+
+**Vanguard, Aurora에 숨은 손** — Vanguard Group이 2025년 Q4에 $AUR 주식 1,780만 주를 추가 매수해 총 1억 6,060만 주(지분율 8.3%)를 보유 중이다. 지수 펀드의 대가가 이 정도 비중을 자율주행 스타트업에 가져가는 것은 이례적이다. 공매도 비율 10.69%에 숏커버링 압력(11.7일)까지 쌓인 상태에서 Vanguard 매수는 주가를 떠받치는 바닥이 된다. [Fintel](https://fintel.io/ss/us/aur)
+
+**McLane/버크셔 — 가장 보수적인 손이 움직였다** — 버크셔 해서웨이 계열 McLane Company(연매출 $500억+ 식품 유통 기업)가 Aurora의 자율트럭 시스템을 실제 노선에 투입하기로 했다. 버핏 군단이 자율주행 공급망에 자본을 투입하기 시작했다는 사실은 섹터 정당성(sector legitimacy)의 신호로 읽힌다. 2025년까지 "미래 기술"이었던 자율주행이 2026년에는 "버크셔가 쓰는 기술"이 됐다. [Motley Fool](https://www.fool.com/investing/2026/05/11/does-berkshire-hathaway-connection-make-aurora/)
+
+**VW + Uber, 리비안에 $11.75억 투자** — 폴크스바겐이 $10억, 우버가 최대 $1.25억(지분 투자)을 리비안에 쏟아붓고 있다. 두 거대 기업이 동시에 같은 EV 기업에 베팅한다는 것은 단순 투자를 넘어 플랫폼 독점 가능성을 겨냥한 전략이다. 우버가 50,000대 R2를 로보택시로 운영하면, 리비안은 하드웨어+소프트웨어 구독 수익을 동시에 얻는 구조가 된다. [StockTitan](https://www.stocktitan.net/sec-filings/RIVN/8-k-rivian-automotive-inc-de-reports-material-event-29c5ad6aa96b.html)
+
+**ARK Invest: AMD 팔고 Tempus AI 샀다** — 캐시 우드의 ARK가 5월 6~7일 $AMD 주식 약 $1,010만어치를 매도하고 Tempus AI(TEM) 주식 약 $1,617만어치를 매수했다. AMD → Tempus AI 로테이션은 "범용 AI 반도체"에서 "AI 헬스케어 데이터"로의 이동을 시사한다. ARK는 또 Intellia Therapeutics(NTLA, 유전자 편집)도 추가 매수했다. [ARK Invest Trades](https://blog.arkinvesttrades.com/2026/05/11/combined-holdings-05-11-2026/)
+
+**JOBY CPO, 7만 4,844주 매도 — 주의 신호** — Joby Aviation(JOBY) 최고제품책임자(CPO) Eric Allison이 5월 6일 $10.00/주에 74,844주를 현금화했다. 10b5-1 사전 계획에 따른 매도이지만, 같은 주에 가격 목표 하향과 내부자 매도 공시가 겹쳤다. JOBY가 오늘의 픽에서 제외된 이유 중 하나다. [American Banking News](https://www.americanbankingnews.com/2026/05/10/eric-allison-sells-74844-shares-of-joby-aviation-nysejoby-stock.html)
+
+---
+
+### 📊 주요 옵션 & 수급 신호
+
+**RIVN P/C 비율**: 공개이자(OI) 기준 1.08(약세), 거래량 기준 0.86(강세). 숏 포지션과 콜 옵션이 동시에 쌓이는 "배팅 대립" 구조 — R2 양산 초기 수치가 나오는 Q2 실적(8월)이 방향을 결정할 것이다.
+
+**AUR 공매도**: 10.69% / 11.7일치. 단기 급등(+67%)으로 수익실현 매물 압력이 있지만, 공매도 커버링이 추가 상승 연료가 될 수 있다. Needham $13·Morgan Stanley $14 vs 현재 $7 = 잠재 업사이드 +86~100%.
+
+---
+
+## 🎙️ 팟캐스트 — 이번 주 들을 만한 한 편
+
+**1. All-In Podcast — "스펜서 프랫, 무너진 LA를 고친다" (5월 10일)**
+
+할리우드 리얼리티 스타가 LA 시장 선거에 출마했다. All-In 팟캐스트가 스펜서 프랫을 불러 팔리세이즈 산불부터 LA 부패 구조, 노숙자 문제, NGO 스캔들까지 1시간 11분 동안 파헤쳤다. 투자자 관점에서 흥미로운 지점은 따로 있다 — "억만장자들이 LA를 다시 짓겠다고 대기 중"이라는 발언이다.
+
+팔리세이즈 화재로 소실된 주거·상업 자산의 재건에 대형 자본이 몰릴 가능성, 카렌 바스 시장의 20% 지지율이 보여주는 대도시 거버넌스 리스크, FireAid의 $1억 스캔들이 드러낸 비영리 재단의 자금 불투명성. Chamath와 Sacks는 LA를 "관리 불가능 도시의 전형"으로 분석하며 도시 재건 투자 사이클에 대한 시각을 공유했다. AI 데이터센터와 스타트업이 집중된 대도시의 정치 리스크는 의외로 빠르게 부동산·인프라 투자 수익률에 영향을 미친다. LA의 실패는 실리콘밸리의 반면교사다.
+
+[All-In Podcast](https://podcasts.apple.com/us/podcast/spencer-pratt-on-fixing-la-wildfires-homelessness-corruption/id1502871393?i=1000767089944) · [YouTube](https://www.youtube.com/watch?v=GCpjy3TC8Pg)
