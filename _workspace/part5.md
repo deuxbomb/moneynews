@@ -1,20 +1,12 @@
 
 ---
 
-## 🎙️ 이번 주 팟캐스트 픽 — "AI가 소프트웨어를 다시 쓰고 있다"
+## 🎙️ 팟캐스트 — 이번 주 들을 만한 한 편
 
-### 1. TBPN | "Neural Computers + GameStop의 $55B eBay 베팅" | 2026년 5월 초
-TBPN(Technology's Daily Show)의 Diet TBPN 에피소드. 두 가지 주제가 놀라운 방식으로 연결된다.
+**1. All-In Podcast — "스펜서 프랫, 무너진 LA를 고친다" (5월 10일)**
 
-첫 번째 테마는 '뉴럴 컴퓨터'. 소프트웨어가 없는 디바이스 — LLM이 사용자의 행동에 맞춰 실시간으로 UI를 생성하는 개념이다. "디바이스가 원시 영상과 오디오를 입력받아 neural net이 그 순간에만 존재하는 UI를 diffusion으로 렌더링한다"는 개념은 앱 스토어와 운영체제가 존재하지 않는 새로운 컴퓨팅 패러다임을 상상하게 한다. Apple의 앱스토어, Microsoft의 Windows — 이 모든 게 불필요해지는 세계.
+할리우드 리얼리티 스타가 LA 시장 선거에 출마했다. All-In 팟캐스트가 스펜서 프랫을 불러 팔리세이즈 산불부터 LA 부패 구조, 노숙자 문제, NGO 스캔들까지 1시간 11분 동안 파헤쳤다. 투자자 관점에서 흥미로운 지점은 따로 있다 — "억만장자들이 LA를 다시 짓겠다고 대기 중"이라는 발언이다.
 
-두 번째 테마는 GameStop의 eBay 인수 제안($55.5B). Ryan Cohen이 eBay를 $125/주에 인수하겠다며 비구속적 제안서를 냈다. 자금 조달 계획은 현금 $9.4B + 주식 $12B + 차입 $20B — 수학이 맞지 않는다는 게 중론. 하지만 Cohen의 의도는 단순한 재무가 아닌 브랜드·물리 채널·온라인 커머스의 통합이라는 큰 그림이다. "분석가들이 고개를 긁적이는" 이유와, 그럼에도 eBay 주가가 움직인 이유를 팟캐스트가 날카롭게 분석한다. [YouTube](https://www.youtube.com/watch?v=6WdmNnuoiS8)
+팔리세이즈 화재로 소실된 주거·상업 자산의 재건에 대형 자본이 몰릴 가능성, 카렌 바스 시장의 20% 지지율이 보여주는 대도시 거버넌스 리스크, FireAid의 $1억 스캔들이 드러낸 비영리 재단의 자금 불투명성. Chamath와 Sacks는 LA를 "관리 불가능 도시의 전형"으로 분석하며 도시 재건 투자 사이클에 대한 시각을 공유했다. AI 데이터센터와 스타트업이 집중된 대도시의 정치 리스크는 의외로 빠르게 부동산·인프라 투자 수익률에 영향을 미친다. LA의 실패는 실리콘밸리의 반면교사다.
 
----
-
-### 2. Lex Fridman #490 | "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI" | 2026년 5월 6일경
-Allen Institute for AI 포스트트레이닝 리드 Nathan Lambert와 《LLM 교과서》 저자 Sebastian Raschka가 출연해 2026년 AI의 현재 좌표를 점검한 에피소드.
-
-핵심 쟁점: 스케일링 법칙은 아직 유효한가? 포스트트레이닝(RLHF, DPO) 연구의 한계와 가능성은 어디까지인가? 중국 AI 연구의 실력은 어느 수준인가? AI가 실제로 프로그래머를 대체하는 게 가능한가?
-
-두 사람은 모두 현장 연구자 출신으로, "AGI 타임라인 논쟁보다 지금 당장 어떤 기술이 작동하고 있는가"에 집중한다. AI 산업 투자자라면 필수 청취. 스케일링 vs. 포스트트레이닝 효율화 논쟁은 NVDA 어닝(D-12)과도 직결되는 논리다. [Spotify](https://open.spotify.com/episode/4UBPQG2Z7s70DpRVD5kMbC)
+[All-In Podcast](https://podcasts.apple.com/us/podcast/spencer-pratt-on-fixing-la-wildfires-homelessness-corruption/id1502871393?i=1000767089944) · [YouTube](https://www.youtube.com/watch?v=GCpjy3TC8Pg)
