@@ -1,151 +1,171 @@
-# 당신의 Claude와 ChatGPT를 돌리는 칩은 이제 NVIDIA가 아니다 — ASIC 슈퍼사이클의 서막
+# JFK에서 맨해튼까지 15분 — $JOBY, 에어택시 시대의 마지막 관문 앞에 서다
 
-**2026-05-11 | 테마: AI 인프라/반도체 | 유형: 📡 테크 트렌드**
-
----
-
-## 🎬 1. 이야기: Midjourney가 서버실 이사를 결정한 날
-
-2026년 봄, 이미지 생성 AI 스타트업 Midjourney는 조용한 결정을 내렸다. 수백만 달러짜리 NVIDIA GPU 서버에서 Google의 TPU 클라우드로 워크로드를 이전한 것이다. 이유는 단 하나 — 월 비용이 **$210만에서 $70만으로 65% 줄었다**.
-
-이 한 줄의 숫자가 2026년 AI 반도체 시장에서 일어나고 있는 조용한 혁명을 압축한다.
-
-2022년 11월, ChatGPT가 세상을 뒤흔들던 그 순간부터 NVIDIA는 AI 인프라의 절대 권력자였다. H100 GPU는 단 한 개에 3만 달러를 호가해도 순식간에 매진됐다. 빅테크는 앞다퉈 'NVIDIA 우선' 전략을 세웠다. 하지만 2026년, 같은 빅테크 기업들이 직접 칩을 설계하기 시작했다.
-
-구글은 7세대 TPU 'Ironwood'를 공개했다. 메타는 단 하루에 4세대 칩 로드맵을 발표했다. 아마존은 3나노 공정의 Trainium 3를 AWS에 올렸다. 마이크로소프트는 자사 데이터센터에서 OpenAI GPT-5.2 모델을 직접 개발한 'Maia 200'으로 돌리기 시작했다. 모두 NVIDIA GPU 없이.
-
-이것은 단순한 기술 경쟁이 아니다. **추론(Inference)이 AI 컴퓨트의 2/3를 차지하는 시대**로 넘어오면서, 범용 GPU보다 특정 작업에 최적화된 전용 칩(ASIC)이 경제적으로 압도적 우위를 갖기 시작했다. 변곡점은 이미 지나쳤다. 지금은 그 파도가 얼마나 높이 치솟는지를 가늠하는 시간이다.
+**2026-05-12 | 테마: EV/자율주행/모빌리티 | 유형: 📊 종목 해부**
 
 ---
 
-## 📈 2. 10년 차트가 보여주는 단 하나의 변곡점
+## 🛫 1. 이야기: 60년 꿈이 착륙한 날
 
-**2016년 NVIDIA의 데이터센터 매출은 $3억이었다.**
+2026년 4월, JFK 국제공항에서 처음으로 전기 에어택시가 이륙했다.
 
-10년이 지난 2026년, 그 숫자는 $1,300억(FY2026 전망)으로 불어났다. 약 430배. 인류 역사상 어떤 기업도 이 속도로 성장한 적이 없었다. NVIDIA의 AI 가속기 시장 점유율은 2024년 87%까지 치솟았다. 이것이 피크였다.
+기체는 뉴욕 매해튼 웨스트 30번가 헬기착륙장에 약 15분 만에 내려앉았다. 평소라면 택시로 60~90분 걸리는 거리다. 세상에서 가장 빽빽한 도시, 뉴욕의 하늘에서 조용히 — 헬리콥터보다 100배 낮은 소음으로 — 이 비행이 이루어졌다. 조종사를 포함해 5명이 탈 수 있는 이 흰 기체의 이름은 Joby S4. 만드는 회사는 Joby Aviation, 티커는 $JOBY다.
 
-### 추론 비용의 폭락, 그리고 ASIC의 시간
+그로부터 열흘 후, Joby Aviation의 창업자이자 CEO JoeBen Bevirt는 Q1 2026 실적 발표 자리에서 이렇게 선언했다: **"비행의 새로운 황금기(The Next Golden Age of Flight)가 시작됐다."**
 
-동시에, 추론 토큰 비용의 역사적 붕괴가 진행됐다:
+과장처럼 들릴 수 있다. 하지만 숫자는 낙관론에 힘을 보탠다. Q1 매출 $24.2M은 시장 예상(약 $20.2M)을 20% 상회했고, 현금은 $2.47B으로 탄탄하다. 더 중요한 건 이 한 줄이다: **FAA 타입 인증 5단계(최종)에 공식 진입.** 미국 최초 전기 에어택시 상업 서비스 인가까지 남은 단계가 단 하나다.
 
-- **2022년 11월**: GPT-3.5급 성능에 $20/100만 토큰
-- **2024년 10월**: $0.07/100만 토큰
-- **2026년 (추정)**: $0.01 미만
-
-2년 만에 **99.6% 하락**. Epoch AI Research가 추적한 이 곡선의 가속 원인 중 하나가 바로 커스텀 실리콘이다.
-
-### ASIC의 시간표
-
-TrendForce의 2026 Cloud AI Outlook에 따르면, 커스텀 ASIC의 성장률은 **44.6%**인 반면 GPU 성장률은 **16.1%**다. Bloomberg Intelligence는 AI 가속기 시장에서 ASIC의 비중이 2024년 8%에서 **2033년 19%**로 늘어날 것으로 전망했다. 그리고 결정적인 예측 하나: **2028년, ASIC 출하량이 GPU를 추월한다**.
-
-### 왜 지금인가? — 추론의 지배
-
-2023년, AI 컴퓨트에서 추론이 차지하는 비중은 1/3이었다. 2026년, 그 비중은 **2/3**가 됐다(Deloitte 전망). ChatGPT와 Claude를 수억 명이 쓰는 시대, 모델을 한 번 훈련시키는 비용보다 매초 수백만 건의 질문에 답하는 '추론' 비용이 훨씬 크다는 뜻이다. TSMC의 CC Wei CEO는 2026년 4월 어닝콜에서 이렇게 말했다: *"아젠틱 AI로의 전환이 추론에서 소비되는 토큰 수를 급격히 늘리고 있다. 이는 최첨단 실리콘에 대한 강력한 수요를 지지한다."*
-
-그 '최첨단 실리콘'이 이제 반드시 NVIDIA일 필요는 없게 됐다. 추론 작업은 하나의 모델, 하나의 요청 패턴이 반복된다 — ASIC이 가장 잘하는 영역이다.
+60년 전, 제트카를 꿈꾼 인류는 아직도 도심 정체 속에 갇혀 있다. 2016년 Uber가 '에어택시 백서(Uber Elevate)'를 내놓았을 때도 모두가 "가까운 미래"라고 했다. 그 미래가 이제 JFK 활주로에서 이륙하고 있다.
 
 ---
 
-## 🌏 3. 미국, 한국, 중국, 유럽이 모두 다른 게임을 하고 있다
+## 📊 2. 10년 여정: $3에서 $20까지, 다시 $10으로
 
-### 🇺🇸 미국: 빅테크 5사의 칩 군비경쟁
+Joby Aviation의 주가 히스토리는 에어택시 산업 전체의 롤러코스터를 압축한다.
 
-구글, 메타, 아마존, 마이크로소프트, OpenAI. 이 5개 기업이 2026년 집행할 AI 인프라 capex는 합산 **$660~690B**이며, 이 중 75%가 AI 인프라에 쏠린다. 그리고 이 돈의 점점 더 많은 부분이 NVIDIA가 아닌 자체 ASIC에 흐른다.
+### 창업부터 SPAC까지: 2009~2021
 
-각 사의 최신 칩 성능 비교:
+JoeBen Bevirt는 2009년 캘리포니아 샌타크루즈에서 Joby Aviation을 창업했다. 창고에서 시작한 이 회사가 세상의 주목을 받은 건 2020년이다. Toyota가 무려 **$3억9,400만 달러**를 투자하며 Series C를 이끌었다. 도요타의 제조 엔지니어들이 실리콘밸리 스타트업과 함께 생산 공정을 설계하기 시작했다. 그 해 Uber Elevate 사업부도 Joby에 넘어갔다.
 
-| 기업 | 칩 | 성능(FP8) | 공정 | 특징 |
-|------|----|---------|------|------|
-| Google | Ironwood TPU v7 | 4.6 PFLOPS/칩 | TSMC N3 | Anthropic 100만 개 배포 |
-| Meta | MTIA 400 | 6.0 PFLOPS/칩 | TSMC | 6개월 출시 주기 |
-| Amazon | Trainium 3 | 2.52 PFLOPS/칩 | TSMC 3nm | UltraServer 362 PFLOPS |
-| Microsoft | Maia 200 | 5.0 PFLOPS/칩(FP8) | TSMC 3nm | OpenAI GPT-5.2 구동 |
+2021년, Joby는 SPAC(특수목적인수회사)인 Reinvent Technology Partners와 합병해 NYSE에 상장했다. 밸류에이션 **$66억**. BlackRock, Fidelity, Baillie Gifford, Delta Air Lines가 PIPE(상장 전 사모투자) 투자자로 합류했다.
 
-단순 비교만으로는 뉘앙스가 빠진다. 각 칩은 해당 회사의 소프트웨어 스택, 모델 아키텍처, 데이터센터 설계와 수직 통합돼 설계됐다. Midjourney가 NVIDIA GPU에서 구글 TPU로 이전하는 건 쉽지 않다. 하지만 **자사 AI 서비스만 돌리는 빅테크에게는 최적의 선택**이 된다.
+### 인증의 벽: 2022~2024
 
-픽앤샤블의 왕은 **Broadcom($AVGO)**이다. 구글 TPU, 메타 MTIA, Anthropic 칩 모두 Broadcom이 설계 파트너다. 2026년 Q1 AI 반도체 매출 $8.4B(+106% YoY), Q2 가이던스 $10.7B. AI 수주잔고만 $73B. Broadcom의 FY2025 10-K(SEC EDGAR 제출)에 따르면, 총매출 $63.9B 중 AI 반도체가 핵심 성장 동력으로 부상했다.
+그러나 상장 직후부터 인증 지연의 현실이 시작됐다. FAA의 타입 인증 프로세스는 상상 이상으로 복잡했다. 주가는 2022~2024년 내내 $3~$7 박스권에서 맴돌았다. 투자자들은 "언제 인증받느냐"는 질문에 지쳐갔고, 현금 소진 우려가 주가를 짓눌렀다.
 
-또 다른 픽앤샤블인 **Marvell($MRVL)**은 AWS Trainium과 Microsoft Maia의 네트워킹 ASIC을 담당하며 ASIC 시장 20~25%를 점유한다.
+그러나 회사는 멈추지 않았다. 2023년 K-UAM 그랜드 챌린지에서 한국 최초 비행을 기록했고, 두바이 시범 비행을 진행했다. 오하이오주 Dayton에 제조 시설을 건설하기 시작했다.
 
-### 🇰🇷 한국: 보이지 않는 HBM 독점
+### 2025년의 급등, 2026년의 현실 점검
 
-이 모든 ASIC 칩에는 하나의 공통점이 있다 — **고대역폭메모리(HBM)**. 구글 Ironwood는 HBM3e 192GB, 메타 MTIA 400은 HBM 288GB, 마이크로소프트 Maia 200은 HBM3e 216GB. 이 메모리의 상업적 생산은 사실상 한국 두 기업이 독점한다.
+2025년 하반기, 모든 것이 바뀌었다. FAA 4단계 진입 기대감과 Toyota의 추가 $2억5,000만 투자(2025년 5월)가 겹치며 주가는 **2025년 8월 4일 사상 최고가 $20.39**를 기록했다. 2024년 저점 $4.96에서 4배.
 
-**SK하이닉스**: 2025년 HBM 출하 점유율 62%, 매출 점유율 57%. Microsoft Maia 200의 HBM 독점 공급사. 2026년 투자 규모를 4배 이상 확대 예정.
+그러나 2026년 들어 현실 점검이 시작됐다. Q1 2026 어닝(5월 5일) 직후, 주가는 일시 **35% 급락**했다. 매출 서프라이즈에도 현금 소진율(분기 $110~150M)을 재부각하는 매도가 나왔다. 현재 주가 $10~$11는 고점 대비 반토막이지만, 저점 대비 두 배 이상이다.
 
-**삼성전자**: Meta MTIA 공급 파트너. 2026년 HBM 생산 ~50% 증산.
+### 핵심 타임라인 요약
 
-TrendForce에 따르면, ASIC 기반 AI 칩 전용 HBM 수요는 **+82%** 급증할 전망이다. ASIC 슈퍼사이클의 가장 조용하고, 가장 확실한 수혜자다.
+| 시점 | 이벤트 |
+|------|--------|
+| 2009 | Joby Aviation 창업 (캘리포니아 샌타크루즈) |
+| 2020 | Toyota $394M 투자, Uber Elevate 인수 |
+| 2021년 8월 | NYSE 상장 ($66억 밸류에이션, SPAC) |
+| 2022~2024 | $3~$7 박스권, FAA 인증 지연 |
+| 2025년 5월 | Toyota 추가 $250M 투자 |
+| 2025년 8월 | 사상 최고가 $20.39 |
+| 2026년 1월 | 오하이오 제2시설 700,000 sqft 인수 |
+| 2026년 3월 | FAA 4단계 완료(SR3 감사 통과) → 5단계(TIA) 진입 |
+| 2026년 3월 | 미국 eIPP 11개 주 선정 |
+| 2026년 4~5월 | 뉴욕 JFK 최초 이착륙, 맨해튼 3개 헬기착륙장 운항 |
 
-### 🇨🇳 중국: 화웨이의 고립된 생태계
-
-미국의 수출 통제로 중국은 별도의 AI 칩 생태계를 구축 중이다. 화웨이의 Ascend 910C는 SMIC 7nm 공정에도 불구하고 NVIDIA H100의 약 80% 수준의 컴퓨트 성능을 낸다. 2026년 60만 개 생산 목표. 더 주목할 것은 **Ascend 950PR** — FP4 성능이 NVIDIA H20의 2.8배로 ByteDance가 $5.6B을 선주문했다.
-
-중국은 TSMC와 ASML의 최신 장비에 접근할 수 없어 전력 효율에서 구조적 열세를 가진다. 하지만 국내 수요 규모만으로도 독자 생태계를 유지할 수 있는 거대 시장이다.
-
-2026년 5월 10~11일 미중 제네바 합의(관세 115% → 30%)는 전통적 수출 통제에는 큰 변화를 주지 않지만, TSMC와 Broadcom의 공급망 불확실성을 낮추는 긍정적 신호다.
-
-### 🇪🇺 유럽: 리소스 없는 야망
-
-유럽은 EU Chips Act로 2030년까지 세계 반도체 시장 점유율을 현재 10%에서 20%로 높이겠다는 목표를 세웠다. ASML의 High-NA EUV 장비는 세계 유일이며, IMEC(벨기에)의 NanoIC 파일럿 라인이 유럽의 희망이다. 그러나 유럽 감사원은 2025년 4월 이 목표가 "매우 달성하기 어렵다"고 평가했다. 유럽은 칩 제조 장비(ASML)는 독점하지만, 정작 커스텀 AI 칩을 설계·운영할 하이퍼스케일러가 없다.
+현재 FAA의 5단계(TIA)는 FAA 소속 시험 조종사가 Joby 기체를 직접 비행해 설계 적합성을 최종 확인하는 단계다. 이 단계를 통과하면 미국 역사상 최초의 전기 에어택시 상업 서비스가 허가된다. TIA용 FAA 적합 기체 4대가 모두 생산 중이며, 목표는 **2026년 말 인증**이다.
 
 ---
 
-## ⚖️ 4. NVIDIA가 틀릴 수 없는 이유, 그럼에도 틀릴 수 있는 이유
+## 🌍 3. 세계는 이미 경주 중이다 — 나라별 에어택시 성적표
 
-### 🐂 Bull: ASIC은 추론을, GPU는 훈련을 — 두 시장 모두 성장한다
+$JOBY의 경쟁은 $ACHR(Archer Aviation) 한 회사가 아니다. 전 세계 5개 규제 환경에서 동시에 경주가 펼쳐지고 있으며, 누가 먼저 승객을 태우느냐가 에어택시 시장의 표준을 정한다.
 
-가장 강력한 반론은 NVIDIA 자신이 제기한다. AI 훈련은 여전히 GPU의 영역이다. NVIDIA의 훈련 시장 점유율은 90%에 달하며, CUDA 소프트웨어 생태계는 15년 이상 쌓아온 방어벽이다. 빅테크가 자체 칩을 만들더라도 최첨단 모델 훈련에는 NVIDIA Blackwell이 필수다. 시장 전체가 커지는 중이니 NVIDIA의 절대 매출은 오히려 늘어날 수 있다 — 점유율이 87%에서 75%로 줄어도, 시장이 5배 커지면 절대 매출은 늘어난다.
+### 🇨🇳 중국: 이미 날고 있다 — EHang의 선점
 
-게다가 NVIDIA는 Blackwell Ultra, Rubin 아키텍처를 준비 중이다. CUDA 생태계에서 벗어나는 비용은 천문학적이다. 수십만 개의 기존 AI 모델이 CUDA 최적화로 작성돼 있다.
+세계 최초로 에어택시를 상업 운항하는 나라는 미국이 아닌 중국이다. EHang($EH)의 EH216-S는:
+- **2023년 10월**: 중국 민항총국(CAAC) 타입 인증 (세계 최초)
+- **2024년 4월**: 생산 인증 취득 (세계 최초)
+- **2025년 3월**: 항공운항증명(AOC) 취득 → **상업 운항 개시**
 
-### 🐻 Bear: 추론 = 돈, 그리고 돈은 ASIC으로 간다
+광저우와 허페이에서 관광객들이 이미 에어택시를 구매해 타고 있다.
 
-카운터 시나리오는 간단하다. AI 시대에서 **돈을 버는 것은 추론**이다. 구글 검색, 메타 피드 알고리즘, 아마존 상품 추천 — 이 모든 것이 초당 수백만 건의 추론이다. 그리고 추론에서 ASIC은 GPU보다 30~50% 낮은 TCO를 제공한다. Midjourney의 사례처럼 65% 비용 절감이 현실이다. 하이퍼스케일러가 자체 칩 개발에 $1B을 투자하면 5년간 $10B의 GPU 비용을 절감할 수 있다 — ROI가 10배다.
+단, 중요한 차이가 있다. EHang EH216-S는 **2인승 무인(조종사 없음)** 기체로, 최대 항속거리가 35km에 불과하다. 도심 관광 투어에는 적합하지만, JFK에서 맨해튼을 잇는 공항 연결 서비스나 도시 간 이동과는 성격이 다르다. 중국은 기술 사양보다 규제 속도에서 세계를 앞섰고, Joby는 안전·소음·항속 등 더 높은 기준을 추구하며 다른 시장을 겨냥한다.
 
-더 날카로운 비판: NVIDIA의 Blackwell 시스템은 매진 상태이지만, 이는 인위적으로 낮은 공급의 결과이기도 하다. 빅테크가 ASIC 생산을 가속하면, NVIDIA GPU 대기 수요가 단기간에 급감할 수 있다.
+### 🇦🇪 UAE/두바이: 두 회사의 불꽃 경쟁
 
-### 🃏 가장 의외의 리스크: ASIC도 GPU처럼 공급 부족
+Joby와 Archer 모두 **2026년 두바이 상업 론칭**을 선언했다. UAE GCAA(민간항공국)는 FAA 인증 전에도 자체 자격 프로그램으로 운항을 허용하는 세계에서 가장 우호적인 규제 환경이다.
 
-아이러니하게도, ASIC 붐의 가장 큰 위험은 ASIC 자체의 공급 제약이다. Broadcom이 설계하고, TSMC가 만들고, SK하이닉스가 HBM을 공급하는 이 체인 어디서든 병목이 생기면 사이클이 꺾인다. TSMC는 이미 N3 공정을 최대 가동 중이다. 하이퍼스케일러 모두가 동시에 ASIC을 원할 때 누가 먼저 얻는지가 새로운 경쟁이 된다.
+Joby의 두바이 계획은 구체적이다. Skyports UK가 설계·시공하는 버티포트 4개 위치(두바이 국제공항, 두바이몰, 아틀란티스 더 로열, 아메리칸 유니버시티 인 두바이)가 확정됐고, Uber 앱과 통합된 "Uber Air powered by Joby" 서비스가 준비 중이다.
+
+### 🇰🇷 한국: 굴욕과 기회
+
+한국의 에어택시 서사는 2026년 들어 극적인 반전을 맞았다. 현대차가 UAM 자회사 Supernal에 $60억 달러를 투자하겠다고 선언하며 서울 인천-강남 노선의 2026년 상업화를 목표로 했다. 그러나 **2026년 3월, Supernal은 직원 80% 이상을 해고**했다. 인증 지연과 개발비 급증에 세계 최고의 자동차 그룹도 무릎을 꿇었다.
+
+반면, **SK텔레콤**은 Joby와 K-UAM 그랜드 챌린지 협력 계약을 유지하며 한국 내 Joby 파트너로 남아있다. Joby는 이미 한국에서 K-UAM 그랜드 챌린지 최초 비행을 완료한 유일한 외국 eVTOL 회사다.
+
+한국 투자자에게는 두 가지 각도가 있다:
+1. Joby가 성공하면 SK텔레콤의 한국 내 에어택시 운영 기회
+2. Supernal 붕괴가 "한국 독자 기체 개발" 전략의 공백을 드러냄 → Joby 같은 외국 기체 도입 논의 가속화 가능성
+
+### 🇪🇺 유럽: 진전은 느리고, 선수는 얼마 없다
+
+유럽항공안전국(EASA)은 2026년 중 독일 Volocopter의 타입 인증을 검토 중이다(상업 운항 목표 2027). 그러나 Lilium은 파산 후 재창업을 겪었고, Vertical Aerospace(영국)는 자금 조달에 어려움을 겪었다. EASA의 SC-VTOL 프레임워크 자체가 FAA보다 개발이 느려, 유럽 eVTOL 선두 기업들조차 이제 **미국 인증을 먼저 취득한 후 상호 인증**을 노리는 전략으로 전환하고 있다.
+
+### 국제 비교 요약
+
+| 지역 | 선도 기업 | 인증 상태 | 상업 운항 |
+|------|---------|---------|---------|
+| 미국 | Joby ($JOBY) | FAA 5단계(최종) | 2026년 말 목표 |
+| 중국 | EHang ($EH) | CAAC 완전 인증 | **이미 운항 중** (2025~) |
+| UAE | Joby + Archer | UAE GCAA 자격 | 2026 H2 목표 |
+| 유럽 | Volocopter | EASA 심사 중 | 2027 목표 |
+| 한국 | (Supernal 붕괴) | K-UAM 테스트 단계 | 불확실 |
 
 ---
 
-## 💡 5. 투자자에게 남는 것: 칩 전쟁의 진짜 수혜자를 찾아라
+## ⚖️ 4. FAA 앞에 선 기다림 — 황금기의 반대편
 
-### 📌 포지션 프레임
+### 🐂 Bull: 독보적 기술 + 충분한 현금 + 시장 선점
 
-ASIC 슈퍼사이클에서 투자 기회를 구조적으로 정리하면:
+Joby의 강점은 경쟁에 비교하기 어려운 수준이다. 200mph 최고속도, 150마일 항속거리 — Archer Midnight(60마일)의 2.5배, EHang(35km)의 6배다. 소음은 65dBA(이착륙 기준)으로 헬리콥터 90dBA보다 100배 조용하다. Delta Air Lines이 $60M을 투자하고 최대 $200M까지 베팅한 이유가 있다.
 
-**Tier 1 — 직접 수혜, 가시성 높음**
+현금 $2.47B은 분기 소진율 $110~150M 기준으로 **2028년 이후까지 런웨이**를 확보한다. 두바이에서 FAA 전 상업 운항을 통해 실제 수익과 운영 데이터를 확보할 수 있는 유일한 미국 기업이다.
 
-**$AVGO (Broadcom)** — 이 판의 진짜 픽앤샤블. 고객이 NVIDIA든 구글이든 메타든, 칩을 직접 만들려면 Broadcom이 필요하다. AI 수주잔고 $73B은 2027년 중반까지 매출 가시성을 제공한다. 5번째 XPU 고객 추가($1B 초기 주문) 확인. FY26 AI 매출 $40.4B 목표. 리스크: Apple이나 Amazon이 완전 내재화할 경우 고객 이탈.
+Morgan Stanley의 2040년 도심 항공 모빌리티 TAM 전망은 **기본 시나리오 $1조, 2050년 최대 $9조**다. 아직 아무도 이 시장을 차지하지 못했다.
 
-**$TSM (TSMC)** — ASIC이든 GPU든 모두 TSMC가 만든다. FY2026 가이던스 >30% USD 성장, 총이익률 66.2% 사상 최고. ASIC 붐은 N3, N2 선단 공정 수요를 폭증시킨다. 미중 무역합의로 공급망 리스크 소폭 감소.
+### 🐻 Bear: FAA 시계는 아무도 모른다
 
-**Tier 2 — 간접 수혜, 성장 가시성**
+Bear 케이스의 핵심은 단 하나다: **FAA 5단계(TIA)에 걸리는 시간은 아무도 모른다.**
 
-**$MRVL (Marvell)** — AWS, Microsoft의 네트워킹 ASIC 파트너. ASIC 시장 20~25% 점유. 빅테크가 ASIC을 더 많이 만들수록 Marvell의 네트워킹 IC 수요도 비례 증가.
+Boeing 787은 타입 인증 과정에서 배터리 화재, 소프트웨어 결함이 발견되며 인증이 수년 지연됐다. 737 MAX는 인증 후에도 결함이 드러나 전 세계 운항 중단으로 이어졌다. FAA는 2023년 이후 더욱 보수적인 인증 기준을 적용하고 있다. TIA 과정에서 소프트웨어나 설계의 미비 사항이 발견되면, 2026년 말 인증은 불가능해진다.
 
-**$005930 KS / $000660 KS (삼성·SK하이닉스)** — HBM 없이는 ASIC도 없다. ASIC용 HBM 수요 +82% 전망. 국내 투자자에게는 ASIC 테마의 가장 직접적인 한국 플레이.
+**현금 소진의 두 번째 폭탄**: Q1에 이미 $600M 공모 + $690M 전환사채를 발행했다. FAA 인증이 2027년으로 밀리면 추가 자금 조달이 불가피하고, 이는 EPS 희석을 의미한다.
 
-**Tier 3 — 관심 지속, 催 진입 조건 필요**
+**Archer가 먼저 달릴 수 있다**: Archer는 FAA 4단계(4단계 프로세스 기준) 중 3단계를 최초로 완료했다고 발표했다. Archer가 Joby보다 먼저 인증을 받는다면? 두바이 시장 선점, 에어택시 허브 선점, 파트너십 선점이 모두 흔들린다.
 
-**$NVDA** — 단기 매도 근거 없음. AI 훈련 90% 점유 + Blackwell 매진. 다만 ASIC 점유율 잠식이 구조적 추세임을 인지하고 FY2027 가이던스 반응을 지켜볼 것. 추론 시장 대응으로 NIM 플랫폼, GB300 Ultra 동향 주시.
+**Supernal이 보낸 경고**: 현대차조차 $6B 투자를 포기하고 80%를 해고했다. "자금이 충분하면 된다"는 가정이 틀렸을 때 어떻게 되는지를 Supernal이 보여줬다.
 
-### ⚡ 카탈리스트 캘린더
+---
 
-- **5월 중순**: 미중 90일 유예 기간 내 구체적 실행 조건 공개 예정
-- **6월 2~3일**: Microsoft Build 2026 — Maia 200 확장 발표 예상
-- **6월 4~11일 (추정)**: Broadcom Q2 FY26 실적 발표 (가이던스 $10.7B 달성 여부)
-- **2026년 H2**: OpenAI 커스텀 칩 양산 시작 → AVGO 6번째 XPU 고객 확인 가능성
+## 💡 5. $JOBY 투자 시사점: 바이너리 이벤트의 포지셔닝
 
-### 🎯 핵심 체크 포인트
+### 목표가와 컨센서스
 
-ASIC 슈퍼사이클 내러티브가 틀렸다는 신호:
-- Broadcom이 주요 고객 중 하나(구글, 메타)를 잃거나 계약을 갱신 못할 때
-- TSMC N3 수율이 급격히 나빠져 ASIC 생산 차질 발생 시
-- NVIDIA가 추론 전용 저전력 칩으로 ASIC 영역에 역침투할 때
+현재가 $10~$11 기준, 시장의 판단은 이렇다:
+- **평균 목표가 $13.25** (7명 애널리스트 컨센서스, 2026년 5월)
+- Morgan Stanley: $13 (5월 7일 $15→$13 하향, 인증 타임라인 불확실성)
+- Canaccord: $11.50 (Hold)
+- 범위: $6(비관론) ~ $18(낙관론)
+- 등급: Hold 43%, 강력매수 29%, 매도 28%
+
+### 이벤트 드리븐 프레임
+
+$JOBY는 전형적인 **바이너리 이벤트 종목**이다.
+
+**Bull 시나리오**: FAA 5단계 통과 공식 발표 → 주가 $18~$22 (현재 대비 +70~100%) 가능. 2025년 고점 $20.39 회복을 넘어설 공산이 크다.
+
+**Bear 시나리오**: 2026년 FAA 인증 실패 + 두바이 론칭 차질 + 추가 자금 조달 발표 → 주가 $5~$6대 재진입 가능.
+
+### 한국 투자자 관련 플레이
+
+직접 $JOBY 외, 간접 수혜로 볼 수 있는 종목:
+- **SK텔레콤(017670.KS)**: Joby K-UAM 파트너, 에어택시 운영 사업권 협력
+- **한국공항공사(미상장)·인천국제공항공사(미상장)**: 버티포트 인프라 투자
+- $UBER: 두바이·미국 앱 통합, 에어택시 성공 시 최대 수혜 파트너
+- $DAL (Delta Air Lines): 최대 $200M 투자 약정, 항공 연계 서비스 직결
+
+### 주목할 카탈리스트
+
+- **2026년 하반기**: 두바이 첫 유료 승객 탑승 → 상업 운항 현실화 신호
+- **2026년 말**: FAA 5단계 통과 공식 발표 (핵심 바이너리 이벤트)
+- **2027년 목표가 점검**: 생산 목표 월 4대 달성 여부 (오하이오 시설 가동)
+
+**진입/이탈 신호**:
+- 진입: FAA TIA 완료 뉴스 직전, 또는 두바이 첫 유료 비행 확인 시
+- 이탈: FAA에서 중대 설계 결함 통보, 추가 공모 발표 (단기 희석), 2026년 말 인증 실패 공식화
 
 ---
 
@@ -153,15 +173,15 @@ ASIC 슈퍼사이클 내러티브가 틀렸다는 신호:
 
 | 자료 | 유형 | URL |
 |------|------|-----|
-| Broadcom FY2025 10-K | SEC EDGAR (1차) | [SEC.gov](https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm) |
-| TSMC Q1 2026 어닝콜 | 실적발표 트랜스크립트 (1차) | [Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-tsmcs-q1-2026-shows-strong-growth-and-margin-gains-93CH-4617167) |
-| Google Cloud — Ironwood TPU | 기업 공식 블로그 (1차) | [Google Cloud](https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads) |
-| Meta — MTIA 발표 | 기업 공식 뉴스룸 (1차) | [about.fb.com](https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/) |
-| Microsoft — Maia 200 발표 | 기업 공식 블로그 (1차) | [Microsoft Blog](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) |
-| TrendForce 2026 Cloud AI Outlook | 산업 리서치 보고서 (1차) | [TrendForce](https://www.trendforce.com/research/download/RP251105VO) |
-| Bloomberg Intelligence AI 가속기 | 시장 조사 (1차) | [Bloomberg](https://www.bloomberg.com/company/press/ai-accelerator-market-looks-set-to-exceed-600-billion-by-2033-driven-by-hyperscale-spending-and-asic-adoption-according-to-bloomberg-intelligence/) |
-| White House 미중 합의 브리핑 | 정부 성명 | [WhiteHouse.gov](https://www.whitehouse.gov/briefings-statements/2025/05/joint-statement-on-u-s-china-economic-and-trade-meeting-in-geneva/) |
-| ARK Invest AI 인프라 리서치 | 투자 리서치 | [ARK Invest](https://www.ark-invest.com/articles/analyst-research/the-state-of-ai-infrastructure-demand-costs-custom-silicon) |
-| SK하이닉스 2026 아웃룩 | 기업 공식 | [SK하이닉스](https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/) |
-| Epoch AI Research 토큰 비용 | 학술 리서치 | [epochai.org](https://epochai.org) |
-
+| Joby Aviation 8-K Q1 2026 실적 | SEC 공시 (1차) | [StockTitan](https://www.stocktitan.net/sec-filings/JOBY/8-k-joby-aviation-inc-reports-material-event-92fce79b5947.html) |
+| Joby Aviation 10-Q Q1 2026 | SEC 공시 (1차) | [StockTitan](https://www.stocktitan.net/sec-filings/JOBY/10-q-joby-aviation-inc-quarterly-earnings-report-a87eba3fc448.html) |
+| Q1 2026 어닝콜 트랜스크립트 | 실적발표 트랜스크립트 (1차) | [Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/06/joby-aviation-joby-q1-2026-earnings-transcript/) |
+| DOT/FAA eIPP 공식 선정 발표 | 정부 기관 발표 (1차) | [Transportation.gov](https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil) |
+| Joby IR — NYC 비행 캠페인 | 기업 공식 보도자료 (1차) | [Joby IR](https://ir.jobyaviation.com/news-events/press-releases/detail/181/joby-brings-electric-air-taxis-to-new-york-city-in) |
+| Joby IR — 오하이오 제조 확대 | 기업 공식 보도자료 (1차) | [Joby IR](https://ir.jobyaviation.com/news-events/press-releases/detail/165/joby-announces-plans-to-double-manufacturing-capacity-in) |
+| EHang IR — AOC 취득 | 기업 공식 보도자료 (1차) | [EHang IR](https://ir.ehang.com/news-releases/news-release-details/ehangs-eh216-s-evtol-operators-obtain-air-operator-certificates/) |
+| Motley Fool — Joby NYSE 시범비행 분석 | 미디어 분석 | [Fool](https://www.fool.com/investing/2026/05/08/joby-aviation-took-flight-in-new-york-city-heres/) |
+| Benzinga — Q1 실적 리포트 | 미디어 보도 | [Benzinga](https://www.benzinga.com/markets/earnings/26/05/52306919/joby-stock-flies-higher-on-q1-results-2026-update-the-next-golden-age-of-flight) |
+| Hyundai Supernal 해고 보도 | 미디어 보도 | [Auto Transport News](https://automotive-transportation.news-articles.net/content/2026/03/02/hyundai-s-evtol-unit-supernal-faces-massive-layoffs.html) |
+| Morgan Stanley 목표가 분석 | 애널리스트 의견 | [MarketBeat 컨센서스](https://www.marketbeat.com/stocks/NYSE/JOBY/forecast/) |
+| Morgan Stanley UAM TAM $1조 전망 | 시장 리서치 | [Aero-News](https://www.aero-news.net/index.cfm?do=main.textpost&id=c22f9b33-9cdb-4f12-8cfd-6d22551f7a7c) |
