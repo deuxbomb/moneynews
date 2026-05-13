@@ -1,201 +1,141 @@
-# 리서치 노트 — ASIC 슈퍼사이클: 빅테크의 NVIDIA 탈출과 AI 칩 다극화
-## 작성일: 2026-05-11
+# 딥다이브 리서치 노트 — 2026-05-13
+
+## 테마
+45기가와트의 도박 — AI 전력 위기와 SMR 슈퍼사이클의 세 갈래
+
+## 유형
+🔮 미래전망 — 시나리오 분석 (Bull / Base / Bear)
+
+## 선정 이유
+로이터 SMR & Advanced Reactor 컨퍼런스(5/11~12, 오스틴) 어제 폐막. IEA가 데이터센터 전력수요 2025년 17% 급증 발표. SMR 조건부 PPA 잔고 24년말 25GW → 현재 45GW(80% 급증). 동시에 테라파워 NRC 건설허가(3월), Oklo NRC 설계기준 승인(5월), 빅테크 6.6GW 딜(메타) 등 규제·비즈니스 이정표가 동시 다발. 2026년이 SMR 슈퍼사이클의 '전환점인가 vs 과대포장인가'를 Bull/Base/Bear 3가지 시나리오로 분석할 최적 타이밍.
 
 ---
 
-## ✅ 1차 자료 인용 현황 (7건 / 최소 3건 기준 충족)
+## ✅ 1차 자료 인용 현황: 7건 (최소 3건 기준 충족)
 
-1. **Broadcom FY2025 10-K (SEC EDGAR)** — 2025-12-18 제출
-   URL: https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm
-   → 총매출 $63.9B (+24% YoY), 반도체 부문 +22%, AI 반도체 Q4 +74% YoY
-
-2. **TSMC Q1 2026 실적발표 어닝콜 트랜스크립트** — 2026-04-16
-   URL: https://www.investing.com/news/transcripts/earnings-call-transcript-tsmcs-q1-2026-shows-strong-growth-and-margin-gains-93CH-4617167
-   → Q1 매출 $35.9B (+40.6% YoY), 총이익률 66.2%, FY2026 가이던스 >30% USD 성장
-   → CC Wei: "아젠틱 AI 전환이 추론 토큰 소비를 급격히 늘려 최첨단 실리콘 수요를 지지"
-
-3. **Google 공식 클라우드 블로그 — Ironwood TPU 발표** — 2025-11-06
-   URL: https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads
-   → 4.6 PFLOPS/칩, 9,216칩 Superpod=42.5 엑사플롭스, Anthropic 100만 TPU 계약
-
-4. **Meta 공식 뉴스룸 — MTIA 커스텀 실리콘 확장 발표** — 2026-03-11
-   URL: https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/
-   URL: https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/
-   → MTIA 300/400/450/500 4세대 동시 발표, 6개월 출시 주기, RISC-V, TSMC 제조
-
-5. **Microsoft 공식 블로그 — Maia 200 발표** — 2026-01-26
-   URL: https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/
-   → TSMC 3nm, 140B 트랜지스터, 10 PFLOPS FP4, 216GB HBM3e, 750W, Iowa 배포 완료
-
-6. **TrendForce 2026 Cloud AI Outlook 보고서**
-   URL: https://www.trendforce.com/research/download/RP251105VO
-   → ASIC 성장률 44.6% vs GPU 16.1% (2026), 2028년 ASIC 출하량이 GPU 추월
-
-7. **Bloomberg Intelligence AI 가속기 시장 보고서**
-   URL: https://www.bloomberg.com/company/press/ai-accelerator-market-looks-set-to-exceed-600-billion-by-2033-driven-by-hyperscale-spending-and-asic-adoption-according-to-bloomberg-intelligence/
-   → AI 가속기 시장 $604B by 2033, ASIC 비중 8%(2024)→19%(2033), CAGR 27%
+| # | 소스 | 유형 | URL |
+|---|------|------|-----|
+| 1 | IEA Electricity 2026 / 데이터센터 전력 급증 뉴스 | 국제기구 보고서 | https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions |
+| 2 | NuScale Q1 2026 분기 실적 보도자료 | 기업 IR 공식 발표 | https://www.nuscalepower.com/press-releases/2026/nuscale-power-reports-first-quarter-2026-results |
+| 3 | DOE — Palisades & Crane 핵에너지 대출 | 정부 공식 자료 | https://www.energy.gov/articles/doe-approves-sixth-loan-disbursement-restart-palisades-nuclear-plant |
+| 4 | NRC/DOE — TerraPower Natrium 건설허가 | 정부/규제기관 공식 문서 | https://www.energy.gov/ne/articles/nrc-issues-construction-permit-terrapowers-natrium-advanced-reactor |
+| 5 | Oklo 공식 뉴스룸 — Meta 1.2GW Ohio 협약 | 기업 IR 공식 발표 | https://oklo.com/newsroom/news-details/2026/Oklo-Meta-Announce-Agreement-in-Support-of-1.2-GW-Nuclear-Energy-Development-in-Southern-Ohio/default.aspx |
+| 6 | Meta 공식 뉴스룸 — 6.6GW 핵에너지 딜 발표 | 기업 공식 발표 | https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/ |
+| 7 | EIA — Short-Term Energy Outlook (May 2026) / 핵발전 역사 통계 | 정부 통계기관 공식 보고서 | https://www.eia.gov/outlooks/steo/ |
 
 ---
 
-## 핵심 팩트 데이터베이스
+## 팩트 데이터베이스 (출처 필수)
 
-### A. 시장 규모 및 성장률
+### A. AI 전력 수요 위기
 
-| 지표 | 수치 | 출처 |
-|------|------|------|
-| AI 칩 시장 규모 (2024) | $85B | Statista |
-| AI 칩 시장 규모 (2025) | $127.7B | 글로벌 리서치 |
-| AI 칩 시장 규모 (2035 전망) | $745.8B | 코히어런트마켓인사이츠 |
-| AI 가속기 시장 (2033 전망) | $604B | Bloomberg Intelligence |
-| ASIC 성장률 2026 | 44.6% | TrendForce |
-| GPU 성장률 2026 | 16.1% | TrendForce |
-| ASIC 시장 비중 2024 | 8% | Bloomberg Intelligence |
-| ASIC 시장 비중 2033 전망 | 19% | Bloomberg Intelligence |
-| 2028년 ASIC가 GPU 출하량 추월 예상 | — | TrendForce |
-| 하이퍼스케일러 2026 총 capex | $660~690B | 업계 추산 |
-| 이 중 AI 인프라 비중 | 75% | 업계 추산 |
+1. 데이터센터 전력수요 2025년 전년비 17% 급증. AI 전용 데이터센터는 이보다 더 빠른 속도 성장. 글로벌 전력수요 전체 성장률 3% 대비 약 6배 빠른 속도. — 출처: IEA 2026 https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions
 
-### B. NVIDIA 시장 점유율 변화
+2. IEA: 글로벌 데이터센터 전력소비 2026년 1,100TWh 도달 전망 (2025년 12월 IEA 예측 대비 18% 상향). 1,100TWh는 일본 국가 전체 소비량에 해당. — 출처: IEA Electricity 2026 https://www.iea.org/reports/electricity-2026
 
-| 시기 | AI 가속기 점유율 | 주요 배경 |
-|------|----------------|----------|
-| 2024 peak | ~87% | Hopper H100 독점 |
-| 2025 | ~80% | H200·Blackwell 전환기 |
-| 2026 (전망) | ~75% | ASIC 본격화 |
-| 2028 (전망) | 더 낮아질 것 | ASIC 출하량이 GPU 추월 |
-| 훈련(Training) 점유율 | ~90% | CUDA 생태계 락인 |
-| 추론(Inference) 점유율 | 60~75% | 커스텀 실리콘 압박 |
+3. 아일랜드 데이터센터: 2026년 전체 국가 전력의 32%를 소비할 전망. — 출처: IEA Electricity 2026
 
-출처: Silicon Analysts, TrendForce, Bloomberg Intelligence
+### B. SMR 조건부 PPA 잔고
 
-### C. 각 기업별 커스텀 칩 현황
+4. SMR 조건부 오프테이크 계약(conditional offtake) 잔고: 2024년 말 25GW → 2026년 5월 현재 45GW(80% 증가). 그러나 SMR은 2030년 이후에야 데이터센터 전력 공급 가능. — 출처: IEA 2026 (위와 동일)
 
-**① Google Ironwood (TPU v7)**
-- 칩당 성능: 4.6 PFLOPS FP8, 메모리: 192GB HBM3e, 7.4TB/s, TDP 600W
-- Superpod: 9,216칩 → 42.5 엑사플롭스, HBM 1.77PB
-- 이전 세대 대비: TPU v5p 대비 10배, v6e 대비 4배
-- **핵심 고객**: Anthropic — 100만 TPU 계약 (400K 직구 ~$10B + 600K GCP $42B RPO)
-- 출처: Google Cloud 공식 블로그 (2025-11-06)
+### C. 빅테크 핵에너지 딜 현황
 
-**② Meta MTIA (2026-03-11 발표)**
-- MTIA 300: 1.2 PFLOPS FP8, 216GB HBM, 800W, RISC-V, 현재 양산 중
-- MTIA 400: 6.0 PFLOPS FP8, 288GB HBM, 1200W, 배포 임박
-- MTIA 450: 7.0 PFLOPS FP8, 288GB HBM, 1400W, 2027년 초 양산
-- MTIA 500: 10.0 PFLOPS FP8, 384~512GB HBM, 1700W, 2027년 초 양산
-- 전략: 6개월 출시 주기, TSMC 제조, 동일 섀시/랙 호환
-- 출처: Meta 공식 뉴스룸 (2026-03-11)
+5. 마이크로소프트-Constellation: 835MW Three Mile Island(Crane Clean Energy Center) 재가동, 20년 PPA. 총비용 $16억(kW당 $1,916). DOE $10억 대출 지원. 2027년 재가동 예상(당초 2028 예정보다 앞당겨집). — 출처: Utility Dive / DOE https://www.utilitydive.com/news/doe-loan-constellation-crane-nuclear-restart/805923/
 
-**③ Amazon Trainium 3 (2025-12 출시)**
-- 공정: TSMC 3nm
-- 성능: 2.52 PFLOPS FP8, 144GB HBM3e, 4.9TB/s
-- UltraServer: 144칩 = 362 MXFP8 PFLOPS, 706TB/s, 20.7TB HBM3e
-- Trainium 2 대비 4.4배 성능, 4배 에너지 효율
+6. 메타 6.6GW 핵에너지 딜 (2026년 1월 9일 공식 발표):
+   ① Oklo: 오하이오 파이크 카운티 1.2GW(Aurora Powerhouse 16기 × 75MW), 2030년 1단계, 2034년 전체 완성
+   ② TerraPower: Natrium 2기(690MW) + 옵션 6기(2032~2035 납품)
+   ③ Vistra: Perry·Davis-Besse 원전 2,176MW + 업레이트 433MW
+   합계 최대 6.6GW. — 출처: Meta 공식 뉴스룸 https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/
 
-**④ Microsoft Maia 200 (2026-01-26)**
-- 공정: TSMC 3nm, 140B 트랜지스터
-- 성능: 10 PFLOPS FP4, 5 PFLOPS FP8, 216GB HBM3e, 7TB/s, 750W TDP
-- HBM 독점 공급: SK하이닉스
-- 배포: Iowa 데이터센터 → OpenAI GPT-5.2 구동 중
-- Trainium 3 대비 FP4 3배, 기존 Azure 하드웨어 대비 가격성능비 30% 개선
+7. AWS(아마존)-Talen Energy: 1,920MW PPA 확장. — 출처: WWT 검색 결과 인용
 
-**⑤ OpenAI 커스텀 ASIC (2026 H2 양산 예정)**
-- Broadcom + TSMC 3nm, $10~18B 규모, 내부 추론 전용
+### D. 규제 이정표
 
-### D. Broadcom (AVGO) 상세
+8. TerraPower Natrium: 2026년 3월 4일 NRC 만장일치로 비경수로 최초 상업용 건설허가 발급. 와이오밍 주 케머러. 345MW + 500MWh 저장. 완공 목표 2030년. DOE 안전심사 8개월 앞당겨 완료, 11% 예산 절감. — 출처: DOE/NRC https://www.energy.gov/ne/articles/nrc-issues-construction-permit-terrapowers-natrium-advanced-reactor
 
-| 지표 | 수치 | 비고 |
-|------|------|------|
-| FY2025 총매출 | $63.9B | +24% YoY |
-| FY2025 AI 반도체 매출 (Q4) | +74% YoY | 최근 분기 |
-| Q1 FY26 AI 매출 | $8.4B | +106% YoY |
-| Q2 FY26 AI 매출 가이던스 | $10.7B | |
-| FY2026 AI 매출 목표 | $40.4B | |
-| AI 수주잔고 | $73B | 2026 현재 |
-| ASIC 시장 점유율 | 60~70% | |
-| 5번째 XPU 고객 | $1B 초기 주문 | 2026 H2 |
-| TAM 목표 | $60B | 2026 기준 |
+9. Oklo Aurora Powerhouse: 2026년 5월 초 NRC가 Principal Design Criteria(PDC) 심사보고서를 가속 일정으로 승인. 이 PDC는 향후 모든 Aurora 인허가 신청에 반복 재심사 없이 참조 가능. — 출처: Oklo / 247WallSt https://247wallst.com/investing/2026/05/06/oklo-advances-12-on-nrc-aurora-approval-is-this-the-ai-infrastructure-nuclear-play/
 
-주요 고객: Google, Meta, Anthropic, OpenAI(예정), Apple(검토), xAI(검토)
-출처: Broadcom FY2025 10-K (SEC EDGAR)
+10. NuScale: 세계 유일 NRC 표준설계 승인 두 건(50MWe, 77MWe 각 1건). Q1 2026 매출 $56.5만(전년 $1,340만), 순손실 $4,670만, 영업 현금유출 $3.15억, 유동성 $10억(5월 초 $12억으로 증가). ENTRA1 Energy-TVA 6GW 배치 계획 진행 중. 루마니아 RoPower(6모듈, 구 화력발전소 부지 도이체시티) 다음 단계 주주 승인. — 출처: NuScale Q1 2026 보도자료 https://www.nuscalepower.com/press-releases/2026/nuscale-power-reports-first-quarter-2026-results
 
-### E. TSMC
+### E. 미국 원자력 역사 시계열
 
-| 지표 | 수치 | 비고 |
-|------|------|------|
-| Q1 2026 매출 | $35.9B | +40.6% YoY |
-| Q1 2026 총이익률 | 66.2% | +3.9%p QoQ |
-| Q1 2026 영업이익률 | 58.1% | |
-| Q2 2026 가이던스 | $39~40.2B | |
-| 2026 capex 계획 | $52~56B (상단) | |
-| 2026 전체 매출 성장률 | >30% USD | 가이던스 상향 |
+11. 미국 원자력 건설 봐 1967~1990년(NRC 허가 연평균 12+건/년). 1979년 TMI 사고 → 이후 건설허가 사실상 중단(1979~2012년, 33년간 신규 허가 0건). 1991년 최고 112기 가동. — 출처: EIA Today in Energy https://www.eia.gov/todayinenergy/detail.php?id=30972
 
-### F. 한국 HBM — ASIC 슈퍼사이클의 숨은 수혜자
+12. Vogtle 원전 3·4호기: 최초 예산 $140억 → 최종 비용 $368억(2.6배 초과). 당초 일정 대비 7년 이상 지연. 3호기 2023년 7월, 4호기 2024년 4월 상업운전. kW당 $15,000 수준. — 출처: Third Act / EIA https://thirdact.org/georgia/2024/06/09/plant-vogtle-the-true-cost-of-nuclear-power-in-the-u-s/
 
-| 지표 | SK하이닉스 | 삼성전자 |
-|------|-----------|---------|
-| HBM 시장 점유율 (2025) | 62% (출하), 57% (매출) | 2위 |
-| 2026 생산 증가율 | 4배 이상 투자 | ~50% 증산 |
-| ASIC용 HBM 수요 증가율 | +82% 전망 | +82% 전망 |
-| Maia 200 HBM 독점 공급 | SK하이닉스 | — |
+13. UAMPS/NuScale 아이다호 Carbon Free Power Project 취소(2023년 11월): 전력단가 $58/MWh(2021년 추산) → $89/MWh(2023년, +53%). 총 프로젝트 비용 $42억(2018) → $93억(2023). 구독률 임계치(80%) 미달로 취소. — 출처: E&E News https://www.eenews.net/articles/nuscale-cancels-first-of-a-kind-nuclear-project-as-costs-surge/
 
-출처: TrendForce (2026-01), Seoul Economic Daily (2026-03-12)
+14. 2026년 전 세계 원전 약 15기 신규 가동(약 12GW 추가) 예상. 미국 백악관: 기존 원전 5GW 업레이트 + 신규 대형원전 10기 착공 목표(2030년까지). — 출처: BloombergNEF / Carbon Credits https://carboncredits.com/2026-the-year-nuclear-power-reclaims-relevance-with-15-reactors-ai-demand-and-chinas-expansion/
 
-### G. 중국 화웨이 Ascend 현황
+### F. 국제 비교
 
-| 모델 | 성능 | 2026 생산 목표 | 비고 |
-|------|------|--------------|------|
-| Ascend 910C | H100 대비 ~80% (SMIC 7nm) | 60만 개 | 현재 주력 |
-| Ascend 950PR | 1.56 PFLOPS FP4 (H20 대비 2.8배) | 75만 개 | ByteDance $5.6B 주문 |
+15. 중국: 2026년 4월 기준 62개 호기 61.2GW 가동. 39+ 호기(37.3GW) 건설 중. 2030년 목표 110GW(15차 5개년계획). 건설 비용 $1,600~$2,580/kW. Vogtle($15,000/kW) 대비 약 1/6~1/10 수준. 중국 Linglong One SMR 2026년 상반기 세계 최초 상업용 육상 SMR 가동 예정. — 출처: World Nuclear Association https://world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power
 
-SMIC 7nm 한계로 전력 효율 열세. 화웨이 CUDA 호환 소프트웨어 스택 개발 중.
-출처: Bloomberg (2025-09-29)
+16. 한국: KHNP·KAERI 주도 i-SMR(혁신형 소형모듈원자로) 170MWe/모듈, 개념·기본설계 2023~2025년 완료. 2028년 표준설계인가(SDA) 목표. 2033년 대구 첫 상용화 목표(4기=680MWe). 한국 국회 'SMR 특별법' 2026년 통과. 두산에너빌리티·한전기술 SMR 부품 수출 전략 추진 중. — 출처: World Nuclear News https://www.world-nuclear-news.org/articles/standard-design-approval-sought-for-i-smr
 
-### H. 추론 경제학 — ASIC 비용 우위의 실제 근거
+17. 영국: Rolls-Royce SMR 함대 계획(470MW/기), 정부 지원 구조 진행 중. — 출처: 복수 검색 결과
 
-1. 추론 = AI 컴퓨트의 2/3 차지 (2026), 2023년 1/3에서 급증 (Deloitte)
-2. 추론 토큰 비용: $20/100만 토큰 (2022-11) → $0.07 (2024-10) = 99.6% 하락
-3. 커스텀 ASIC TCO: 특정 워크로드 GPU 대비 30~50% 낮음
-4. **Midjourney 실사례**: NVIDIA GPU → Google TPU 이전 후 월 비용 $210만 → $70만 (65% 절감)
-5. ASIC 설계비: $1000만~$1억+ but 하이퍼스케일에서 1년 내 ROI
-6. $1B 커스텀 칩 투자 → 5년간 $10B GPU 비용 절감 (10% GPU 절감 시)
-출처: ARK Invest 리서치, Epoch AI Research, Silicon Analysts
+### G. 비용 비교
 
-### I. 미중 제네바 합의 (2026-05-10/11) — 반도체 영향
+18. Lazard 2025 LCOE+: 유틸리티 태양광 $38~$78/MWh, 육상풍력 $37~$86/MWh. 원자력 신규건설 $141~$220/MWh. — 출처: Lazard https://www.lazard.com/media/uounhon4/lazards-lcoeplus-june-2025.pdf
 
-- 관세: 115%(= 91%+24%) → 30%, 90일 유예 합의
-- 반도체 수출 통제: 별도 지속 (H20 이하 제한적 허용)
-- TSMC 수혜: 하이퍼스케일러 공급망 불확실성 감소
-- AVGO 수혜: 고객사 공급망 비용 절감
-- ASML: 중국 매출 여전히 제한적이나 분위기 전환
-출처: White House 브리핑 (2026-05-10), USTR
+19. FOAK SMR LCOE 추정: $90~$160/MWh. 10번째 호기부터 비용 30~40% 감소 예상, 50번째 호기 이후 60%+ 감소 가능. 전제: 표준화된 대량 제조 실현. 80+ 개 SMR 설계가 경쟁 중 → 표준화 지연 리스크. — 출처: Energy Central / INL 연구 https://www.energycentral.com/nuclear/post/will-smrs-deliver-the-promised-savings-analyzing-the-gap-between-ha1hWkuQtpLY1IT
+
+20. DOE 자금 지원: Palisades(800MW, 미시간) 재가동 $28억 이상(연방 대출보증 $15.2억 포함). Crane Clean Energy Center $10억 DOE 대출. 2026년 연방예산: 핵에너지 보조금 $7.5억 + Title 17 신규 대출권한 $300억 요청(대부분 핵에너지 용도). — 출처: DOE / Utility Dive https://www.utilitydive.com/news/doe-usda-announce-nearly-3b-for-palisades-restart/728538/
 
 ---
 
-## 시계열 핵심 데이터 (1년/3년/10년)
+## 직접 인용 (정확한 원문만)
 
-### 10년 추이: NVIDIA 데이터센터 매출
-- 2016: ~$0.3B (데이터센터 여명기)
-- 2019: $2.9B (클라우드 GPU 수요 태동)
-- 2022: $15.0B (ChatGPT 이전, 암호화폐+AI 혼재)
-- 2023: $47.5B (ChatGPT 이후 대폭발)
-- 2024 (FY25): $100B+ (B100 Blackwell 전환)
-- 2026 (FY26): $130B+ (Blackwell 풀 램프)
+1. "NuScale stands alone as the only SMR company in the world to have earned U.S. Nuclear Regulatory Commission standard design approval, and we've done it for 2 separate designs, our 50-megawatt and our 77-megawatt modules." — NuScale 경영진, Q1 2026 실적 보도자료, 2026-05-07
 
-### 3년 추이: ASIC 비중
-- 2023: AI 가속기 시장 내 ASIC 비중 <5%
-- 2024: ~8%
-- 2026: ~12~15% 추정
-- 2028 (전망): GPU 출하량 추월
+2. "The pipeline of conditional offtake agreements between data centre operators and small modular reactor (SMR) nuclear projects has grown from 25 gigawatts at the end of 2024 to 45 gigawatts today." — IEA 데이터센터 전력 뉴스, 2026
 
-### 1년 추이: Broadcom AI 매출 분기별
-- Q4 FY24 (2024-11): $6.5B (전년比 +74%)
-- Q1 FY25 (2025-02): AI 매출 성장 가속
-- Q1 FY26 (2026-02): $8.4B (+106% YoY)
-- Q2 FY26 (2026-05): 가이던스 $10.7B
+3. "Electricity demand from data centres soared by 17% in 2025, and that of AI-focused data centres climbed even faster – well outpacing growth in global electricity demand of 3%." — IEA 데이터센터 전력 뉴스, 2026
 
-### 추론 비용 곡선 (5년)
-- 2022-11: $20/100만 토큰
-- 2023: ~$5/100만 토큰
-- 2024-10: $0.07/100만 토큰
-- 2026 (추정): $0.01 미만
+---
 
+## 숫자 데이터 요약
+
+| 수치 | 맥락 | 출처 |
+|------|------|------|
+| SMR 조건부 PPA 잔고 25GW→45GW | 2024년말 대비 2026년 5월 80% 증가 | IEA |
+| 데이터센터 전력수요 +17% (2025) | 글로벌 전력수요 +3% 대비 6배 빠른 성장 | IEA |
+| 1,100 TWh (2026 데이터센터) | 일본 연간 전력소비량과 동등 | IEA |
+| Vogtle 최종 비용 $368억 | 당초 $140억 예산 대비 2.6배, kW당 $15,000 | Third Act/EIA |
+| NuScale 아이다호 전력단가 $89/MWh | Lazard 태양광 $38~$78/MWh 대비 최대 2.3배 고가 | E&E News |
+| 중국 건설 비용 $1,600~$2,580/kW | 미국 Vogtle $15,000/kW 대비 1/6~1/10 | WNA |
+| 미국 원전 최고 112기(1991) → 약 93기(현재) | 33년간 건설허가 0건 공백 | EIA |
+| TerraPower Natrium 345MW | 비경수로 최초 NRC 상업용 건설허가 (2026-03-04) | DOE/NRC |
+| Oklo-Meta 오하이오 1.2GW | 16기 Aurora × 75MW, 2030년 1단계 | Oklo |
+| 메타 6.6GW 핵에너지 딜 | Oklo+TerraPower+Vistra 합계, 2030~2035 납품 | Meta |
+| 한국 i-SMR 170MWe/모듈 | 2028 SDA 목표, 2033 상용화 | WNN |
+| FOAK SMR LCOE $90~$160/MWh | 10호기부터 30~40% 비용 하락 가능 | INL/Energy Central |
+| Lazard 태양광 $38~$78/MWh | 핵신규 $141~$220 대비 2~4배 저렴 | Lazard 2025 |
+
+---
+
+## 관련 종목
+
+- $OKLO: Aurora Powerhouse NRC PDC 승인(5월), Meta 1.2GW 오하이오 딜(1월)
+- $CEG (Constellation Energy): TMI/Crane 835MW Microsoft 20년 PPA, 2027 재가동
+- $VST (Vistra): Meta 2,176MW + 433MW 업레이트
+- NuScale (NYSE: SMR): TVA 6GW 배치 계획, NRC 표준설계 2건, 루마니아 RoPower
+- $CCJ (Cameco): 핵연료 우라늄 공급 수혜
+- $LEU (Centrus Energy): HALEU 우라늄 농축, 차세대 원자로 연료
+- BWXT: SMR 부품·서비스 공급사
+- 한국: 두산에너빌리티, 한전기술, 한전KPS(SMR 부품 수출)
+- Bear 케이스 수혜: $FSLR, $NEE, $ENPH (재생에너지 + 배터리 스토리지)
+
+---
+
+## 반론/리스크
+
+1. **비용 과거 전례**: Vogtle $368억(원래 $140억 예산), NuScale 아이다호 취소($89/MWh). "FOAK 비용 저주"는 반복 패턴.
+2. **재생에너지 속도**: Lazard 태양광 $38~78/MWh, 풍력 $37~86/MWh. FOAK SMR 예상 $90~160/MWh와 큰 괴리. 배터리 저장 비용도 가파른 하락세.
+3. **조건부(conditional) PPA**: 45GW는 '조건부' 계약으로 언제든 취소 가능. 실제 착공·완공까지 거리가 머다.
+4. **DOE 대출 의존**: 정권 교체·예산 삭감 시 국가 보조 리스크. Palisades도 2025년 말 재가동 지연 발생.
+5. **공급망 병목**: 원자로 압력용기, 특수 강재, 핵연료 농축(HALEU) 공급망 부족. 80+ SMR 설계가 경쟁하며 표준화 지연.
+6. **중국 경쟁**: 중국 1/6~1/10 건설비용으로 SMR 기술 수출 경쟁 가능성.
