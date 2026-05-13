@@ -99,3 +99,9 @@
 - 핵심 주장/결론: ASIC 성장률(44.6%)이 GPU(16.1%)를 압도하며 2028년 출하량 추월 예정. 픽앤샤블 수혜는 $AVGO($73B 수주잔고)·$TSM·$MRVL이며, 한국 HBM은 ASIC 슈퍼사이클의 필수 소재로 +82% 수요 급증 전망.
 - 1차 자료 출처: SEC EDGAR Broadcom 10-K × 1, TSMC Q1 2026 어닝콜 트랜스크립트 × 1, Google Cloud 공식 블로그 × 1, Meta 공식 뉴스룸 × 1, Microsoft 공식 블로그 × 1, TrendForce 보고서 × 1, Bloomberg Intelligence 보고서 × 1 (총 7건)
 - 판정: Minor (5개 개선점 반영 — Ironwood 공정 노드 표기 완화, TSMC 이익률 표현 수정, Blackwell 매진 표현 완화, 칩 성능 테이블 H100 기준 행 추가, 결론 여운 문장 추가)
+
+## 2026-05-13 01:30 [AM] (테마: 에너지/원자력/친환경)
+- 헤드라인: 기름이 인플레이션을 불태운다 — WTI $101, CPI 3.8%, 에너지가 달아오르는 수요일
+- 오늘의 픽: $FSLR (카탈리스트: Section 232 관세 결정 5월 말 D-18, 관세 면역 태양광 모노폴리), $UEC (카탈리스트: Burke Hollow ISR 우라늄 광산 생산 개시 4/27, 10년 만에 첫 미국 ISR, H.C. Wainwright PT $26.75) [와치리스트 외 발굴]
+- 뉴스 토픽: [에너지/원자력] AI 데이터센터 전력 2030년 2배·AI특화 3배(IEA) / 이란-호르무즈 봉쇄 10억배럴 손실 / FSLR 관세면역 태양광 / [매크로] CPI 3.8% 최고 / WTI $101 / NVDA D-7 Vera Rubin / [기업] TSLA 베이징 국빈방문 FSD협상 / COIN +7.68% 암호화폐법 5/14 상원표결 / Elon Anthropic Colossus 임대
+- 팟캐스트: TBPN EP516 "Airbnb CEO on Why AI Will Create a New Era" (2026-05-08), All-In EP272 "Elon's Anthropic Deal, The Next AI Monopoly?" (2026-05-08)

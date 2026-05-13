@@ -1,173 +1,238 @@
-# 당신의 Claude와 ChatGPT를 돌리는 칩은 이제 NVIDIA가 아니다 — ASIC 슈퍼사이클의 서막
+# 기름이 인플레이션을 불태운다 — WTI $101, CPI 3.8%, 에너지가 달아오르는 수요일
 
-**2026-05-11 | 테마: AI 인프라/반도체 | 유형: 📡 테크 트렌드**
-
----
-
-## 🎬 1. 이야기: Midjourney가 서버실 이사를 결정한 날
-
-2026년 봄, 이미지 생성 AI 스타트업 Midjourney는 조용한 결정을 내렸다. 수백만 달러짜리 NVIDIA GPU 서버에서 Google의 TPU 클라우드로 워크로드를 이전한 것이다. 이유는 단 하나 — 월 비용이 **$210만에서 $70만으로 65% 줄었다**.
-
-이 한 줄의 숫자가 2026년 AI 반도체 시장에서 일어나고 있는 조용한 혁명을 압축한다.
-
-2022년 11월, ChatGPT가 세상을 뒤흔들던 그 순간부터 NVIDIA는 AI 인프라의 절대 권력자였다. H100 GPU는 리스트 가격만 수만 달러를 호가해도 순식간에 매진됐다. 빅테크는 앞다퉈 'NVIDIA 우선' 전략을 세웠다. 하지만 2026년, 같은 빅테크 기업들이 직접 칩을 설계하기 시작했다.
-
-구글은 7세대 TPU 'Ironwood'를 공개했다. 메타는 단 하루에 4세대 칩 로드맵을 발표했다. 아마존은 3나노 공정의 Trainium 3를 AWS에 올렸다. 마이크로소프트는 자사 데이터센터에서 OpenAI GPT-5.2 모델을 직접 개발한 'Maia 200'으로 돌리기 시작했다. 모두 NVIDIA GPU 없이.
-
-이것은 단순한 기술 경쟁이 아니다. **추론(Inference)이 AI 컴퓨트의 2/3를 차지하는 시대**로 넘어오면서, 범용 GPU보다 특정 작업에 최적화된 전용 칩(ASIC)이 경제적으로 압도적 우위를 갖기 시작했다. 변곡점은 이미 지나쳤다. 지금은 그 파도가 얼마나 높이 치솟는지를 가늠하는 시간이다.
+머뉴 MoneyNews | 2026-05-13 (수) | 돈이 되는 모든 것에 대한 소식
 
 ---
 
-## 📈 2. 10년 차트가 보여주는 단 하나의 변곡점
-
-**2016년 NVIDIA의 데이터센터 매출은 $3억이었다.**
-
-10년이 지난 2026년, 그 숫자는 $1,300억(FY2026 전망)으로 불어났다. 약 430배. 인류 역사상 어떤 기업도 이 속도로 성장한 적이 없었다. NVIDIA의 AI 가속기 시장 점유율은 2024년 87%까지 치솟았다. 이것이 피크였다.
-
-### 추론 비용의 폭락, 그리고 ASIC의 시간
-
-동시에, 추론 토큰 비용의 역사적 붕괴가 진행됐다:
-
-- **2022년 11월**: GPT-3.5급 성능에 $20/100만 토큰
-- **2024년 10월**: $0.07/100만 토큰
-- **2026년 (추정)**: $0.01 미만
-
-2년 만에 **99.6% 하락**. Epoch AI Research가 추적한 이 곡선의 가속 원인 중 하나가 바로 커스텀 실리콘이다.
-
-### ASIC의 시간표
-
-TrendForce의 2026 Cloud AI Outlook에 따르면, 커스텀 ASIC의 성장률은 **44.6%**인 반면 GPU 성장률은 **16.1%**다. Bloomberg Intelligence는 AI 가속기 시장에서 ASIC의 비중이 2024년 8%에서 **2033년 19%**로 늘어날 것으로 전망했다. 그리고 결정적인 예측 하나: **2028년, ASIC 출하량이 GPU를 추월한다**.
-
-### 왜 지금인가? — 추론의 지배
-
-2023년, AI 컴퓨트에서 추론이 차지하는 비중은 1/3이었다. 2026년, 그 비중은 **2/3**가 됐다(Deloitte 전망). ChatGPT와 Claude를 수억 명이 쓰는 시대, 모델을 한 번 훈련시키는 비용보다 매초 수백만 건의 질문에 답하는 '추론' 비용이 훨씬 크다는 뜻이다. TSMC의 CC Wei CEO는 2026년 4월 어닝콜에서 이렇게 말했다: *"아젠틱 AI로의 전환이 추론에서 소비되는 토큰 수를 급격히 늘리고 있다. 이는 최첨단 실리콘에 대한 강력한 수요를 지지한다."*
-
-그 '최첨단 실리콘'이 이제 반드시 NVIDIA일 필요는 없게 됐다. 추론 작업은 하나의 모델, 하나의 요청 패턴이 반복된다 — ASIC이 가장 잘하는 영역이다.
+🇰🇷 코스피 7,498 (5/12 사상최고치) / 코스닥 ~1,100 / 원달러 1,474.94원
+🇺🇸 S&P 500 7,351 (-0.83%) / 나스닥 25,879 (-1.50%) / 다우 ~49,609 (-0.20%) / WTI $101.2 / BTC ~$81,000
 
 ---
 
-## 🌏 3. 미국, 한국, 중국, 유럽이 모두 다른 게임을 하고 있다
+📌 오늘 시장 한 줄 — "인플레이션이 3.8%까지 다시 올라왔다. 이란 전쟁이 유가를 $100 위로 밀어올렸고, Fed는 금리인하를 꿈도 꾸지 못하게 됐다."
 
-### 🇺🇸 미국: 빅테크 5사의 칩 군비경쟁
-
-구글, 메타, 아마존, 마이크로소프트, OpenAI. 이 5개 기업이 2026년 집행할 AI 인프라 capex는 합산 **$660~690B**이며, 이 중 75%가 AI 인프라에 쏠린다. 그리고 이 돈의 점점 더 많은 부분이 NVIDIA가 아닌 자체 ASIC에 흐른다.
-
-각 사의 최신 칩 성능을 NVIDIA H100 기준과 비교하면:
-
-| 기업 | 칩 | 성능(FP8) | 공정 | 특징 |
-|------|----|---------|------|------|
-| **[기준] NVIDIA** | H100 SXM5 | 3.9 PFLOPS/칩 | TSMC 4nm | GPU 범용 추론+훈련 |
-| Google | Ironwood TPU v7 | **4.6 PFLOPS/칩** | TSMC | Anthropic 100만 개 배포 |
-| Meta | MTIA 400 | **6.0 PFLOPS/칩** | TSMC | 6개월 출시 주기 |
-| Amazon | Trainium 3 | **2.52 PFLOPS/칩** | TSMC 3nm | UltraServer 362 PFLOPS |
-| Microsoft | Maia 200 | **5.0 PFLOPS/칩** | TSMC 3nm | OpenAI GPT-5.2 구동 |
-
-단순 스펙 비교만으로는 뉘앙스가 빠진다. 각 칩은 해당 회사의 소프트웨어 스택, 모델 아키텍처, 데이터센터 설계와 수직 통합돼 있어 **자사 AI 서비스만 돌리는 빅테크에게는 최적의 선택**이 된다.
-
-픽앤샤블의 왕은 **Broadcom($AVGO)**이다. 구글 TPU, 메타 MTIA, Anthropic 칩 모두 Broadcom이 설계 파트너다. 2026년 Q1 AI 반도체 매출 $8.4B(+106% YoY), Q2 가이던스 $10.7B. AI 수주잔고만 $73B. Broadcom의 FY2025 10-K(SEC EDGAR 제출)에 따르면, 총매출 $63.9B 중 AI 반도체가 핵심 성장 동력으로 부상했다.
-
-또 다른 픽앤샤블인 **Marvell($MRVL)**은 AWS Trainium과 Microsoft Maia의 네트워킹 ASIC을 담당하며 ASIC 시장 20~25%를 점유한다.
-
-### 🇰🇷 한국: 보이지 않는 HBM 독점
-
-이 모든 ASIC 칩에는 하나의 공통점이 있다 — **고대역폭메모리(HBM)**. 구글 Ironwood는 HBM3e 192GB, 메타 MTIA 400은 HBM 288GB, 마이크로소프트 Maia 200은 HBM3e 216GB. 이 메모리의 상업적 생산은 사실상 한국 두 기업이 독점한다.
-
-**SK하이닉스**: 2025년 HBM 출하 점유율 62%, 매출 점유율 57%. Microsoft Maia 200의 HBM 독점 공급사. 2026년 투자 규모를 4배 이상 확대 예정.
-
-**삼성전자**: Meta MTIA 공급 파트너. 2026년 HBM 생산 ~50% 증산.
-
-TrendForce에 따르면, ASIC 기반 AI 칩 전용 HBM 수요는 **+82%** 급증할 전망이다. ASIC 슈퍼사이클의 가장 조용하고, 가장 확실한 수혜자다.
-
-### 🇨🇳 중국: 화웨이의 고립된 생태계
-
-미국의 수출 통제로 중국은 별도의 AI 칩 생태계를 구축 중이다. 화웨이의 Ascend 910C는 SMIC 7nm 공정에도 불구하고 NVIDIA H100의 약 80% 수준의 컴퓨트 성능을 낸다. 2026년 60만 개 생산 목표. 더 주목할 것은 **Ascend 950PR** — FP4 성능이 NVIDIA H20의 2.8배로 ByteDance가 $5.6B을 선주문했다.
-
-중국은 TSMC와 ASML의 최신 장비에 접근할 수 없어 전력 효율에서 구조적 열세를 가진다. 하지만 국내 수요 규모만으로도 독자 생태계를 유지할 수 있는 거대 시장이다.
-
-2026년 5월 10~11일 미중 제네바 합의(관세 115% → 30%, 90일 유예)는 전통적 수출 통제에는 큰 변화를 주지 않지만, TSMC와 Broadcom의 공급망 불확실성을 낮추는 긍정적 신호다.
-
-### 🇪🇺 유럽: 리소스 없는 야망
-
-유럽은 EU Chips Act로 2030년까지 세계 반도체 시장 점유율을 현재 10%에서 20%로 높이겠다는 목표를 세웠다. ASML의 High-NA EUV 장비는 세계 유일이며, IMEC(벨기에)의 NanoIC 파일럿 라인이 유럽의 희망이다. 그러나 유럽 감사원은 2025년 4월 이 목표가 "매우 달성하기 어렵다"고 평가했다. 유럽은 칩 제조 장비(ASML)는 독점하지만, 정작 커스텀 AI 칩을 설계·운영할 하이퍼스케일러가 없다.
+CPI가 전월 대비 0.6% 상승해 연율 3.8%를 기록했다. 2023년 5월 이후 가장 핫한 수치다. 이란 전쟁으로 호르무즈 해협이 좁아지면서 WTI 원유가 배럴당 $101을 넘겼고, 그 충격이 헤드라인 CPI뿐 아니라 코어 CPI(+0.4% MoM, +2.8% YoY)까지 끌어올렸다. 나스닥은 반도체 조정(퀄컴 -13%, 인텔 -8%)에 인플레이션 충격까지 겹쳐 하락세. S&P 500은 -0.83%, 하지만 에너지·헬스케어·소비재 방어주는 선방 중이다. 오늘은 에너지 섹터가 시장 방어선 역할을 하는 날이다. [TheStreet](https://www.thestreet.com/latest-news/stock-market-today-may-12-2026-updates) · [MSN](https://www.msn.com/en-in/money/markets/us-stock-market-today-may-12-2026-oil-price-surge-inflation-fears-drag-wall-street-s-p-500-down-0-6-nasdaq-0-9-lower/ar-AA2312NI)
 
 ---
 
-## ⚖️ 4. NVIDIA가 틀릴 수 없는 이유, 그럼에도 틀릴 수 있는 이유
+💰 관심 종목 현황 (2026-05-13 기준)
 
-### 🐂 Bull: ASIC은 추론을, GPU는 훈련을 — 두 시장 모두 성장한다
-
-가장 강력한 반론은 NVIDIA 자신이 제기한다. AI 훈련은 여전히 GPU의 영역이다. NVIDIA의 훈련 시장 점유율은 90%에 달하며, CUDA 소프트웨어 생태계는 15년 이상 쌓아온 방어벽이다. 빅테크가 자체 칩을 만들더라도 최첨단 모델 훈련에는 NVIDIA Blackwell이 필수다. 시장 전체가 커지는 중이니 NVIDIA의 절대 매출은 오히려 늘어날 수 있다 — 점유율이 87%에서 75%로 줄어도, 시장이 5배 커지면 절대 매출은 늘어난다.
-
-게다가 NVIDIA는 Blackwell Ultra, Rubin 아키텍처를 준비 중이다. CUDA 생태계에서 벗어나는 비용은 천문학적이다. 수십만 개의 기존 AI 모델이 CUDA 최적화로 작성돼 있다.
-
-### 🐻 Bear: 추론 = 돈, 그리고 돈은 ASIC으로 간다
-
-카운터 시나리오는 간단하다. AI 시대에서 **돈을 버는 것은 추론**이다. 구글 검색, 메타 피드 알고리즘, 아마존 상품 추천 — 이 모든 것이 초당 수백만 건의 추론이다. 그리고 추론에서 ASIC은 GPU보다 30~50% 낮은 TCO를 제공한다. Midjourney의 사례처럼 65% 비용 절감이 현실이다. 하이퍼스케일러가 자체 칩 개발에 $1B을 투자하면 5년간 $10B의 GPU 비용을 절감할 수 있다 — ROI가 10배다.
-
-더 날카로운 비판: NVIDIA의 Blackwell 시스템은 공급이 수요를 따라가지 못하는 상황이지만, 빅테크가 ASIC 생산을 가속하면 NVIDIA GPU 대기 수요가 단기간에 급감할 수 있다.
-
-### 🃏 가장 의외의 리스크: ASIC도 GPU처럼 공급 부족
-
-아이러니하게도, ASIC 붐의 가장 큰 위험은 ASIC 자체의 공급 제약이다. Broadcom이 설계하고, TSMC가 만들고, SK하이닉스가 HBM을 공급하는 이 체인 어디서든 병목이 생기면 사이클이 꺾인다. TSMC는 이미 N3 공정을 최대 가동 중이다. 하이퍼스케일러 모두가 동시에 ASIC을 원할 때 누가 먼저 얻는지가 새로운 경쟁이 된다.
+| 티커 | 현재가 | 변동 | 목표가(컨센) | 한 줄 요약 |
+|------|--------|------|-------------|-----------|
+| $TSLA | ~$418 | -3.0% | $405 | 일론 머스크, 트럼프 대통령과 베이징 국빈방문(5/13-15) — FSD 중국 승인 협상 |
+| $GOOGL | ~$187 | -1.8% | $220 | 빅테크 인플레이션 리스크오프 영향권 |
+| $NVDA | ~$218 | -2.5% | $315(WF) | D-7 어닝 카운트다운 — Vera Rubin 6월 시험생산 확정 |
+| $COIN | $216.60 | +7.68% | — | 내일(5/14) 상원 은행위 암호화폐법 첫 표결 — 급등 |
+| $NFLX | ~$88 | -0.5% | — | 광고 매출 $3B 2배 성장 궤도 |
+| $OKLO | ~$71 | -1.8% | — | 소형 원자로 NRC 심사 진행 중 |
+| $OHI | ~$46 | -0.3% | — | 방어주 성격으로 낙폭 제한 |
+| $SPY | ~$736 | -0.83% | — | S&P 전체 하락 압력 |
+| $QQQ | ~$703 | -1.50% | — | 반도체·빅테크 조정 집중 |
 
 ---
 
-## 💡 5. 투자자에게 남는 것: 칩 전쟁의 진짜 수혜자를 찾아라
+👀 오늘 주목할 것
 
-### 📌 포지션 프레임
+- **COIN +7.68%**: 내일 5월 14일, 미국 상원 은행위원회에서 암호화폐 규제 법안 첫 표결. 크립토 업계의 MiCA 모멘트가 될 수 있다.
+- **TSLA -3%**: 일론 머스크가 트럼프 대통령과 함께 베이징 국빈방문. 중국 FSD 승인 협상이 테이블에 오른다. 성공하면 Q3가 반전 카드.
+- **NVDA D-7**: 5월 20일 Q1 FY2027 실적 발표. Vera Rubin 칩 6월 시험생산 → 7월 구글·마이크로소프트 배송 예정. 시총 $5.4조 신기록 달성 후 숨 고르기 중.
+- **에너지 섹터 수혜**: WTI $101, CPI 3.8% — 두 숫자가 원자력·청정에너지 재평가 논리를 다시 강화한다. 화석연료 불안 + AI 전력 수요 급증 = 원전 르네상스의 이중 카탈리스트.
+---
 
-ASIC 슈퍼사이클에서 투자 기회를 구조적으로 정리하면:
+## 🔥 오늘의 픽 — 에너지/원자력/친환경 (수요일 테마)
 
-**Tier 1 — 직접 수혜, 가시성 높음**
-
-**$AVGO (Broadcom)** — 이 판의 진짜 픽앤샤블. 고객이 NVIDIA든 구글이든 메타든, 칩을 직접 만들려면 Broadcom이 필요하다. AI 수주잔고 $73B은 2027년 중반까지 매출 가시성을 제공한다. 5번째 XPU 고객 추가($1B 초기 주문) 확인. FY26 AI 매출 $40.4B 목표. 리스크: Apple이나 Amazon이 완전 내재화할 경우 고객 이탈.
-
-**$TSM (TSMC)** — ASIC이든 GPU든 모두 TSMC가 만든다. FY2026 가이던스 >30% USD 성장, 역대 최고 수준의 총이익률 66.2%. ASIC 붐은 N3, N2 선단 공정 수요를 폭증시킨다. 미중 무역합의로 공급망 리스크 소폭 감소.
-
-**Tier 2 — 간접 수혜, 성장 가시성**
-
-**$MRVL (Marvell)** — AWS, Microsoft의 네트워킹 ASIC 파트너. ASIC 시장 20~25% 점유. 빅테크가 ASIC을 더 많이 만들수록 Marvell의 네트워킹 IC 수요도 비례 증가.
-
-**$005930 KS / $000660 KS (삼성·SK하이닉스)** — HBM 없이는 ASIC도 없다. ASIC용 HBM 수요 +82% 전망. 국내 투자자에게는 ASIC 테마의 가장 직접적인 한국 플레이.
-
-**Tier 3 — 관심 지속, 진입 조건 필요**
-
-**$NVDA** — 단기 매도 근거 없음. AI 훈련 90% 점유 + 선단 GPU 독보적 위치. 다만 ASIC 점유율 잠식이 구조적 추세임을 인지하고 FY2027 가이던스 반응을 지켜볼 것. 추론 시장 대응으로 NIM 플랫폼, GB300 Ultra 동향 주시.
-
-### ⚡ 카탈리스트 캘린더
-
-- **5월 중순**: 미중 90일 유예 기간 내 구체적 실행 조건 공개 예정
-- **6월 2~3일**: Microsoft Build 2026 — Maia 200 확장 발표 예상
-- **6월 4~11일 (추정)**: Broadcom Q2 FY26 실적 발표 (가이던스 $10.7B 달성 여부)
-- **2026년 H2**: OpenAI 커스텀 칩 양산 시작 → AVGO 6번째 XPU 고객 확인 가능성
-
-### 🎯 핵심 체크 포인트
-
-ASIC 슈퍼사이클 내러티브가 틀렸다는 신호:
-- Broadcom이 주요 고객(구글, 메타)을 잃거나 계약을 갱신 못할 때
-- TSMC N3 수율이 급격히 나빠져 ASIC 생산 차질 발생 시
-- NVIDIA가 추론 전용 저전력 칩으로 ASIC 영역에 역침투할 때
+> **스크리너**: #1 과매도(역추세) + #6 배당인상·자사주(가치) + #7 신저가+내부자(딥밸류)
+> **오늘 요일**: 수요일(3) → 에너지/원자력/친환경 (CCJ, NRG, FSLR, ENPH, NEE, BWXT, VST, CEG, LEU, BE, RUN, SEDG)
 
 ---
 
-Midjourney가 NVIDIA 서버실에서 짐을 쌌던 그 날, 사실 Midjourney만 이사한 게 아니었다. 이미 수조 달러의 capex가 새 주소를 향해 움직이기 시작했다. AI 칩 전쟁의 승자는 아직 정해지지 않았지만, **싸움의 본질이 '훈련'에서 '추론'으로 이동했다는 사실** 하나만큼은 확실하다. 추론을 가장 싸게 제공하는 자가 AI 시대의 인프라를 지배한다.
+🌡️ 시장 온도
+
+Fear & Greed 지수는 "Fear" 구간 근접. VIX는 단기 상승. CPI 3.8%와 이란 전쟁 장기화가 겹치면서 시장 전반은 리스크오프 기조다. 그런데 아이러니하게도 이 두 요인이 에너지 섹터에는 호재로 작용한다. 유가 $100 → 대체에너지 프리미엄 상승, 지정학 리스크 → 에너지 자립·원자력 수요 가속. 오늘은 공포가 에너지주를 사는 논리가 되는 날이다.
 
 ---
 
-## 📚 출처
+🎯 오늘의 테마: 기름값이 올라갈수록 원전이 웃는다
 
-| 자료 | 유형 | URL |
-|------|------|-----|
-| Broadcom FY2025 10-K | SEC EDGAR (1차) | [SEC.gov](https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm) |
-| TSMC Q1 2026 어닝콜 | 실적발표 트랜스크립트 (1차) | [Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-tsmcs-q1-2026-shows-strong-growth-and-margin-gains-93CH-4617167) |
-| Google Cloud — Ironwood TPU | 기업 공식 블로그 (1차) | [Google Cloud](https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads) |
-| Meta — MTIA 발표 | 기업 공식 뉴스룸 (1차) | [about.fb.com](https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/) |
-| Microsoft — Maia 200 발표 | 기업 공식 블로그 (1차) | [Microsoft Blog](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) |
-| TrendForce 2026 Cloud AI Outlook | 산업 리서치 보고서 (1차) | [TrendForce](https://www.trendforce.com/research/download/RP251105VO) |
-| Bloomberg Intelligence AI 가속기 | 시장 조사 (1차) | [Bloomberg](https://www.bloomberg.com/company/press/ai-accelerator-market-looks-set-to-exceed-600-billion-by-2033-driven-by-hyperscale-spending-and-asic-adoption-according-to-bloomberg-intelligence/) |
-| White House 미중 합의 브리핑 | 정부 성명 | [WhiteHouse.gov](https://www.whitehouse.gov/briefings-statements/2025/05/joint-statement-on-u-s-china-economic-and-trade-meeting-in-geneva/) |
-| ARK Invest AI 인프라 리서치 | 투자 리서치 | [ARK Invest](https://www.ark-invest.com/articles/analyst-research/the-state-of-ai-infrastructure-demand-costs-custom-silicon) |
-| SK하이닉스 2026 아웃룩 | 기업 공식 | [SK하이닉스](https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/) |
-| Epoch AI Research 토큰 비용 | 학술 리서치 | [Epoch AI](https://epochai.org) |
-| Meta MTIA 공식 블로그 | 기업 공식 블로그 (1차) | [ai.meta.com](https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/) |
+수요일 클러스터 "에너지/원자력/친환경"이 오늘 시장 분위기와 완벽하게 맞물린다. WTI $101, CPI 3.8% — 이 숫자들은 단순히 거시경제 지표가 아니다. AI 데이터센터가 폭발적으로 늘어나는 시대에 탄소 없는 대규모 전력의 대안이 원자력밖에 없다는 사실을 시장이 다시 인식하게 만드는 신호다. 화석연료는 비싸고 불안정해졌다. 태양광은 미-중 무역 마찰에 취약하다. 원자력은 지금 이 순간 가장 경쟁력 있는 카드다.
 
+---
+
+💡 픽 1: 중국산 패널 없는 유일한 태양광 기업의 관세 면역
+
+**$FSLR — First Solar** (시총 ~$18B, 섹터: 태양광/클린에너지)
+
+한쪽에선 중국산 태양광 패널에 Section 232 관세 결정이 "5월 말 확정"을 향해 달리고 있다. 경쟁사들이 중국 의존 공급망을 뜯어고치는 동안, First Solar는 이미 미국·인도·말레이시아에 100% 자체 공장을 운영 중이다. 관세 결정이 나오면 경쟁사에 충격이 되고, FSLR에는 프리미엄이 붙는다. 이것이 오늘 픽의 핵심 논리다.
+
+방금 나온 Q1 2026 실적도 뒷받침한다. 매출 $1.04B(+23% YoY), EPS $3.22(전년 $1.95), 인도 사상 최대 매출. Q2 가이던스는 3.4~4GW 판매, 조정 EBITDA $400~$500M. 기업의 실행력 자체는 입증됐다. 지금 주가가 주춤한 이유는 실적이 아니라 정책 불확실성(Section 232 결정 지연)이다. 그 불확실성이 5월 말에 해소되면 어떻게 될까?
+
+이란 전쟁 발 에너지 가격 급등도 FSLR에 우호적이다. WTI $100+ 시대는 재생에너지 LCOE(균등화 발전비용)를 상대적으로 싸게 만든다. 태양광이 화석연료보다 저렴해지는 속도가 빨라진다는 의미다. 리스크는 Section 232 결정이 예상보다 늦어지거나, FEOP(Foreign Entity of Concern) 정책이 방향을 바꿀 경우다.
+
+📊 스코어카드
+- 기술적: 2/3 (52주 고점 대비 -20%↓, 거래량 평균선 근접)
+- 수급: 1/3 (기관 점진적 축적, 이상옵션 신호 없음)
+- **카탈리스트: 2/2** ✅ Section 232 관세 결정 5월 말 예정 (D-18 이내)
+- 펀더멘털: 2/2 (Q1 +23% 매출성장, EPS 비트, 인도 신시장)
+- 신선도: +1 (지난 14일 _recent.md 미등장)
+- **종합: 8/10** ✅ 자격 충족
+
+📅 D-Day: 2026년 5월 말 — Section 232 폴리실리콘 파생상품 관세 결정
+- RSI: ~45 (과매도 근접) | P/E: ~25x vs 섹터 ~30x | 목표가: 컨센 없음 (정책 불확실성 반영)
+[First Solar Q1 어닝 트랜스크립트](https://www.fool.com/earnings/call-transcripts/2026/04/30/first-solar-fslr-q1-2026-earnings-transcript/) · [PV Tech Section 232](https://www.pv-tech.org/section-232-polysilicon-tariffs-could-be-clarified-by-end-of-the-month/)
+
+---
+
+💡 픽 2: 10년 만에 첫 새 미국 우라늄 광산이 문을 열었다
+
+**$UEC — Uranium Energy Corp** (시총 $7.4B, 섹터: 우라늄/클린에너지)
+
+4월 27일, 텍사스 Burke Hollow에서 생산이 시작됐다. 10년 이상 만에 처음으로 미국 땅에서 새 ISR(제자리용출회수) 우라늄 광산이 가동된 순간이다. 한 이벤트로 UEC는 미국 유일의 "이중 ISR 플랫폼" 보유 기업이 됐다. 와이오밍 Christensen Ranch + 텍사스 Burke Hollow, 두 개의 독립된 생산 허브가 동시에 돌아간다.
+
+H.C. Wainwright는 이 소식에 목표가를 $26.75로 제시했다. 현재 주가 $15.16 대비 +76% 업사이드다. 왜 이렇게 강한 목표가인가? 카메코(CCJ)가 "우라늄 수요가 2030년부터 공급을 초과할 것"이라고 공개적으로 발언한 상황에서, 새 생산 능력을 가진 기업은 장기 계약 가격 협상에서 절대적으로 유리한 위치에 선다. UEC는 미국에서 최대 우라늄 자원 기반을 가진 기업이며, 2027년 Ludeman ISR 프로젝트 가동도 예정돼 있다.
+
+물론 리스크는 있다. 두 개 허브를 동시에 운영하는 실행 리스크, 웰필드(wellfield) 성능이 예상을 밑돌 경우 마진 압박. 11.93%의 공매도 비율도 부담이다. 그러나 이 리스크는 이미 $15.16이라는 주가에 상당 부분 반영돼 있다. 52주 고점 $20.34 대비 -25%가 넘게 빠진 상태다.
+
+📊 스코어카드
+- 기술적: 2/3 (52주 고점 -25%, RSI 53.72 중립권)
+- 수급: 2/3 (공매도 11.93% 스퀴즈 잠재력, H.C. Wainwright 커버리지 추가)
+- **카탈리스트: 2/2** ✅ Burke Hollow ISR 광산 생산 개시(4/27, 10년 만에 첫 미국 ISR)
+- 펀더멘털: 1/2 (매출 성장 중이나 수익성 아직 확보 전)
+- 신선도: +1 (지난 14일 _recent.md 미등장)
+- **종합: 8/10** ✅ 자격 충족
+
+📅 D-Day: 2026-04-27 — Burke Hollow ISR 생산 개시 (최근 카탈리스트)
+- RSI: 53.72 | 52주 범위: $5.03~$20.34 | 공매도: 11.93% | H.C. Wainwright 목표가: $26.75 (+76%)
+[Simply Wall St UEC ISR](https://simplywall.st/stocks/us/energy/nysemkt-uec/uranium-energy/news/new-isr-mine-launch-could-be-a-game-changer-for-uranium-ener) · [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-uranium-energy-001849518.html)
+
+---
+
+⚠️ 투자 조언이 아닌 데이터 기반 분석입니다.
+---
+
+## 증시 포인트: 역사상 최대 에너지 공급 충격, 시장은 무엇을 본다
+
+2026년 2월 28일, 미국·이스라엘 연합이 이란 공군을 공격하면서 이란은 호르무즈 해협을 봉쇄했다. 국제에너지기구(IEA)는 이를 "글로벌 석유시장 역사상 최대 공급 충격"으로 규정했다. 3개월이 지난 지금, WTI는 $101을 넘어섰고 사우디 아람코 CEO는 "시장 정상화가 2027년까지 늦어질 수 있다"고 경고한다. 오늘 CPI 3.8%는 그 직접적인 결과물이다.
+
+주목할 포인트는 역설이다. 시장 전체가 인플레이션 충격에 하락하는 날, 에너지 섹터는 오히려 방어선을 구축한다. 헬스케어·소비재·에너지가 4개 하락 섹터(테크 -1.5%, 경기소비재 -0.93%, 산업재 -0.40%, 소재 -0.20%)의 대안으로 부각됐다. 빅5 빅테크의 2026년 설비투자 합계는 $4,000억을 넘어섰고 2026년에 75% 추가 증가 예정 — 그 모든 데이터센터에 전력을 공급해야 하는 숙제가 에너지 섹터를 끌어올리고 있다. [UNCTAD](https://unctad.org/publication/strait-hormuz-disruptions-implications-global-trade-and-development) · [Newsmax](https://www.newsmax.com/world/globaltalk/iran-strait-of-hormuz-oil-prices/2026/05/11/id/1255870/)
+
+---
+
+## 오늘의 테마: 두 개의 불꽃이 원전 르네상스를 태운다
+
+### 1. "데이터센터 전력 수요는 2030년까지 2배 — AI 특화 센터는 3배"
+
+국제에너지기구(IEA)가 발표한 수치가 충격적이다. 데이터센터 전력 소비는 2025년 17% 급증했고, AI 집중 데이터센터는 그보다 더 빠른 속도로 늘어났다. 2030년까지 데이터센터 전력 소비는 2배, AI 집중 센터는 3배가 된다는 전망이다.
+
+배경은 간단하다. ChatGPT 하나를 돌리는 데 구글 검색의 10배 전력이 필요하다. 그리고 지금 세상은 그런 AI 추론을 초당 수억 번 수행하고 있다. 구글은 Three Mile Island 원자력발전소에서 20년 PPA(전력구매계약)를 맺었고, 아마존은 펜실베이니아 Susquehanna 원전 인접 데이터센터 캠퍼스를 $6.5억에 인수했다. SMR(소형 모듈 원자로) 조건부 계약은 2024년 말 25GW에서 2025년 말 45GW로 80% 급증했다. 원전 르네상스는 슬로건이 아니라 계약서다. [IEA](https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions) · [Morgan Stanley](https://www.morganstanley.com/insights/articles/powering-ai-energy-market-outlook-2026)
+
+### 2. 이란 전쟁 100일 — 역사상 최대 에너지 공급 충격의 현재
+
+아람코 CEO의 말이 이 상황을 가장 명확히 요약한다. "우리는 호르무즈 봉쇄 이후 글로벌 시장에서 총 10억 배럴의 원유 손실을 기록했다." 전 세계 석유 공급의 20%, LNG 물량의 상당 부분이 이 좁은 해협을 통과하는데, 그 문이 닫혔다. 미국-이란 평화 협상 '프레임워크'가 거론되기 시작했지만 아직 불안정하다.
+
+이 충격의 역설적 수혜자는 원자력이다. 유가가 올라갈수록 핵발전의 LCOE(균등화 발전비용) 경쟁력은 상대적으로 더 강해진다. 그리고 에너지 자립 논리 — 중동 의존에서 벗어나려는 정책적 의지 — 는 원전, 태양광, 우라늄 생산 모두에 순풍이 된다. [Wikipedia](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) · [Bloomberg](https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/)
+
+### 3. First Solar의 관세 면역: 중국이 만든 기회
+
+중국산 태양광 패널에 Section 232 관세 결정이 5월 말로 다가오고 있다. FSLR은 미국·인도·말레이시아에만 공장을 둔 유일한 주요 태양광 제조사다. 경쟁사들이 관세 충격을 흡수하는 동안, FSLR은 오히려 발주 기회를 확대한다. Q1 실적은 이미 증명했다: 매출 $1.04B(+23%), 인도 사상 최대 판매. Q2 가이던스 $400~$500M adj EBITDA가 기다린다. [Yahoo Finance FSLR Transcript](https://finance.yahoo.com/sectors/energy/articles/first-solar-fslr-q1-2026-221922610.html)
+
+---
+
+## 기업 뉴스
+
+### $TSLA — 일론, 트럼프와 베이징으로: FSD 중국의 문이 다시 열리나
+
+오늘(5월 13일) 일론 머스크가 트럼프 대통령 국빈 방문 대표단에 합류해 베이징에 도착한다. 방문은 5월 13~15일, 3일간이다. 중심 의제 중 하나는 테슬라 FSD(완전자율주행) 기술의 중국 내 상용화 승인이다. 테슬라 임원들은 앞서 "중국 규제 당국의 FSD 승인을 Q3 2026에 기대한다"고 밝혔다. 가장 큰 자동차 시장에서 FSD가 가동된다면 — 그것은 현재 주가의 핵심 할인 요인 하나가 사라지는 것이다.
+
+배경: 테슬라는 중국 시장 점유율 압박과 FSD 글로벌 규제 지연으로 2026년 주가가 고점 대비 상당폭 조정을 받았다. 동시에 로보택시 서비스도 기대보다 천천히 확장 중이다. 오늘 주가는 -3% 하락 — 매크로 충격과 베이징 방문 결과의 불확실성이 겹쳤다.
+
+전망: FSD 중국 승인이 이번 방문에서 확정된다면 Q3 실적 발표 전 강한 상승 트리거가 될 수 있다. 단, 중국 규제의 속도는 예측하기 어렵다는 점이 리스크다. [Invezz](https://invezz.com/ng/news/2026/05/12/tesla-stock-is-crashing-around-4percent-today-heres-why/)
+
+### $NVDA — D-7: Vera Rubin 6월 시험생산, 5월 20일 실적 발표
+
+D-7. 5월 20일 오후 2시(PT) NVIDIA Q1 FY2027 실적 발표다. 시장은 이미 사상 최고 실적을 기대한다. 그 전에 나온 뉴스 하나가 더 강렬하다: Vera Rubin 차세대 AI 칩의 ODM 파트너와 시험생산 계획이 확정됐다. 6월 시험생산 → 7월 마이크로소프트·구글·아마존·메타·오라클 등 주요 클라우드 고객사에 배송 시작. NVDA는 아울러 코닝(Corning)에 $32억, 데이터센터 운영사 IREN에 $21억 투자 계획도 공개했다. Wells Fargo는 목표가를 $265→$315로 상향하며 Overweight를 유지했다.
+
+오늘 주가는 -2.5% 하락 — 반도체 전체 조정(QCOM -13%, INTC -8%)의 여파다. 하지만 NVDA는 상대적으로 낙폭이 작다. 실적 발표 전 1주일, 이런 종류의 숨 고르기는 오히려 진입 기회로 읽히는 경우가 많다. [GF](https://www.gurufocus.com/news/8851344/nvidia-nvda-surges-to-record-high-amid-ai-chip-production-news)
+
+### $COIN — +7.68%: 내일 상원 표결이 크립토의 MiCA 순간이 될까
+
+암호화폐 업계가 3년을 기다린 날이 내일이다. 5월 14일, 미국 상원 은행위원회에서 암호화폐 규제 법안 첫 표결이 열린다. 업계는 이를 미국판 MiCA(EU 암호화폐 규제)로 부르며 기대하고 있다. 법안이 진전되면 기관 자금의 크립토 시장 진입 장벽이 낮아진다.
+
+Coinbase는 Q1 실적 미스(순손실 $394M, EPS -$1.49 vs 예상 +$0.27)라는 부담을 안고 있지만, 시장점유율 8.6%(사상 최고)와 EBITDA 13분기 연속 흑자가 구조적 강점을 보여준다. 오늘 +7.68% 급등은 내일 표결 기대감이 반영된 것이다. 표결 결과가 긍정적이면 상승세가 이어질 수 있다. [Investing.com](https://www.investing.com/news/company-news/coinbase-q1-2026-slides-market-share-gains-amid-earnings-miss-93CH-4671029)
+
+### $NFLX — "광고는 이제 $3B 사업이다"
+
+넷플릭스는 2026년 광고 매출이 전년 대비 2배인 $30억 달러에 도달할 것으로 공개 전망했다. Q1 기준 광고 구매는 YoY +16% 증가, 광고주 파트너는 4,000사를 넘어섰다(+70% YoY). 2026년 콘텐츠 예산은 $200억으로 전년 대비 10% 증가. 넷플릭스는 구독+광고 이중 수익 모델을 완성해가고 있다. 주가는 거시 압박에 소폭 하락 중이지만 사업 모멘텀 자체는 탄탄하다.
+
+---
+
+## 흥미로운 이야기
+
+### 1. "내일 암호화폐 법안 표결" — 미국 크립토의 세 번째 전환점
+
+미국 크립토 역사에는 전환점이 세 번 있었다. 2020년 기관들의 BTC 진입, 2024년 현물 ETF 승인, 그리고 내일이 세 번째 후보다. 상원 은행위 법안은 스테이블코인 규제, 거래소 등록 기준, 기관 투자 가이드라인을 포함한다. 통과가 확실하지 않지만, 진전 자체가 크립토 전체 섹터에 신호가 된다. [Coinbase IR](https://investor.coinbase.com/news/news-details/2026/Coinbase-Announces-Date-of-First-Quarter-2026-Financial-Results/default.aspx)
+
+### 2. Elon Musk의 "두 번째 제국" — Colossus 컴퓨트를 Anthropic에 임대하다
+
+일론 머스크가 xAI의 대규모 컴퓨팅 클러스터 Colossus 1을 Anthropic에 임대하기로 했다. 이걸 All-In 팟캐스트는 "Elon Web Services(EWS)"라고 불렀다. AWS·Azure·GCP에 이은 제4의 클라우드의 시작인가? Anthropic는 한 분기 만에 ARR $30B→$44B으로 점프했다. 컴퓨트가 AI 성장의 병목인 세상에서, Elon의 컴퓨트 제국은 단순한 중립 인프라가 아니라 AI 경쟁 지형을 바꾸는 변수다.
+---
+
+## 딥다이브 — 누가 AI 데이터센터에 전기를 공급하는가
+
+**실적 캘린더 (향후 2주)**
+
+| 날짜 | 종목 | 이벤트 | 시장 기대 |
+|------|------|--------|----------|
+| 5/14 | 암호화폐 규제 법안 | 상원 은행위 첫 표결 | 크립토 섹터 방향 결정 |
+| 5/20 | $NVDA | Q1 FY2027 실적 발표 | 사상 최대 실적 기대 |
+| 5/말 | $FSLR | Section 232 관세 결정 | 태양광 섹터 전체 리레이팅 |
+| 6월 | $NVDA Vera Rubin | 시험생산 시작 | AI 칩 공급망 다음 사이클 |
+
+**애널리스트 컨센서스 요약**
+
+- NVDA: Wells Fargo $315, 37인 중 "Buy" 컨센서스. Q1 FY2027 가이던스가 관건
+- TSLA: 29인 컨센 $405, Wedbush $600(Bull), JPM $145(Bear). 중국 FSD 승인 여부가 갭을 채울 트리거
+- UEC: H.C. Wainwright $26.75 (+76%). 신규 커버리지 개시
+- CEG: 52주 고점 $412에서 -26% 하락 — 과매도 국면에서 AI 전력 계약 재부각
+
+**옵션·수급 신호**
+
+크립토 법안 표결을 앞두고 COIN 콜옵션에 이상 거래가 감지됐다(+7.68% 급등 배경). NVDA는 실적 발표 전 내재변동성(IV) 상승 구간 — 실적 발표 이후 방향성 베팅이 유리한 시점이다. FSLR은 관세 결정 전 Put/Call 비율이 낮게 유지되고 있어 시장이 긍정적 결정을 선반영하는 흐름.
+
+---
+
+## 🏦 스마트머니 동향
+
+**기관의 조용한 축적: AI 전력 인프라**
+
+13F 공시 데이터와 최근 ETF 플로우가 같은 방향을 가리키고 있다. 기관들이 AI 인프라의 "두 번째 레이어" — 컴퓨트가 아닌 전력 — 을 매집하고 있다. 유틸리티·원자력·전력망 관련 기업들이 기관 자금 유입이 증가하고 있으며, 이는 소매 투자자들보다 수개월 앞선 포지셔닝이다.
+
+구체적으로: DOE가 2026년 초 국내 원자력에 $27억 지원 발표, 행정부는 핵에너지 확장 행정명령 4개 서명. Microsoft는 Three Mile Island 재가동 PPA 20년 계약, Amazon은 Susquehanna 원전 인접 데이터센터 $6.5억 인수. 기관들은 이 계약들이 선례가 되리라 보고 원전·우라늄 포지션을 조용히 늘리고 있다. 헤지펀드의 우라늄 ETF(URA, NLR) 유입도 꾸준하다.
+
+**ARK Invest (5/12 기준)**
+
+ARK는 TSLA를 ARKQ·ARKK·ARKW·ARKX 전 펀드에서 최대 보유 종목으로 유지 중. 총 보유 주식 약 1,265만 주. 테슬라의 로보택시·FSD 내러티브에 Cathie Wood의 확신이 변하지 않았다는 신호다. 중국 FSD 협상이 진전되면 ARK 추가 매수 가능성이 높다.
+
+**내부자 매수 레이더**
+
+에너지·원자력 섹터 전반에서 기관 대량 매수세가 확인 중이다. 한국 시장에서도 기관 매수(+1조 5,485억원)가 원전·전력설비 테마를 지지했다. 미국 에너지 섹터의 내부자 매수는 openinsider.com에서 수시 확인 가능 — 오늘 같이 전체 시장이 하락하는 날 에너지 내부자 매수가 나오면 강한 신호가 된다.
+[Yahoo Finance](https://finance.yahoo.com/news/hedge-funds-pouring-money-uranium-033102866.html) · [Prospero AI](https://www.prospero.ai/resources-blog/what-hedge-funds-are-buying-now-q3-2025-ai-infrastructure-energy-stocks)
+---
+
+## 🎧 이번 주 팟캐스트
+
+### 1. TBPN Episode 516 | "Airbnb CEO on Why AI Will Create a New Era of Consumer Products" (2026-05-08)
+
+에어비앤비 CEO Brian Chesky가 TBPN에 출연했다. 그가 꺼낸 숫자 하나: "에어비앤비 코드의 60%가 이제 AI가 쓴다." 이게 무슨 뜻인지 생각해보면 — 개발자 수를 줄인 게 아니라, 한 명의 개발자가 과거의 10배를 만들어낸다는 의미다. 그는 여기에 그치지 않고 AI 시대의 소비자 제품 철학을 제시했다. "기업용 소프트웨어가 아니라 몰입형 소비자 경험, 비주얼 인터페이스, 에이전틱 경험이 다음 AI 물결을 만든다." 챗봇 인터페이스는 e커머스에 적합하지 않다는 비판도 직접적이었다. 고객 서비스의 40%가 이미 AI 어시스턴트로 해결 중이라는 사실이 그 논리를 뒷받침한다. [Apple Podcasts](https://podcasts.apple.com/us/podcast/airbnb-ceo-on-why-ai-will-create-a-new-era-of/id1772360235?i=1000766847846)
+
+---
+
+### 2. All-In EP272 | "Elon's Anthropic Deal, The Next AI Monopoly?, 'FDA for AI' Panic, Trading the AI Boom" (2026-05-08)
+
+All-In 팟캐스트 역사에서 가장 논쟁적인 에피소드 중 하나가 나왔다. 핵심 이슈: 일론 머스크가 xAI의 Colossus 컴퓨팅 클러스터를 Anthropic에 임대했다. Jason Calacanis는 이를 "Elon Web Services(EWS)"라고 불렀다. AWS·Azure·GCP 다음의 제4 클라우드 인프라 제국의 시작이냐는 질문이다.
+
+더 충격적인 숫자는 Anthropic의 성장 속도다. ARR(연간반복매출)이 한 분기 만에 $30B에서 $44B으로 점프했다. 연 10배씩 성장하던 궤도가 계속 이어지고 있다. David Sacks는 여기서 독점 우려를 제기했다. "Anthropic이 비밀리에 전례 없는 시장 지배력을 향해 가고 있다." 컴퓨트를 통제하는 자가 AI를 통제하는 시대 — 일론의 Colossus 임대는 단순한 B2B 거래가 아니라 AI 경쟁 지형을 바꾸는 전략적 포석이다. [YouTube](https://www.youtube.com/watch?v=10MdOvK-aG4) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai/id1502871393?i=1000766858188)
+
+---
+
+*머뉴 MoneyNews | 2026-05-13 | 돈이 되는 모든 것에 대한 소식*
+*⚠️ 이 뉴스레터는 정보 제공 목적이며 투자 조언이 아닙니다.*
