@@ -1,45 +1,68 @@
 # 앵커 소스 — 14:00 트리거가 우선 활용
-# 테마: JOBY Aviation ($JOBY) eVTOL 종목 완전 해부
-# 선정일: 2026-05-12
+# 테마: 45기가와트의 도박 — SMR과 빅테크 핵발전 PPA 2030 시나리오
+# 선정일: 2026-05-13
 
-## 1차 자료 (SEC EDGAR / 공식 IR)
+## 1차 자료 (정부/규제/국제기구 공식 보고서)
 
-- [JOBY Q1 2026 10-Q (StockTitan)] https://www.stocktitan.net/sec-filings/JOBY/10-q-joby-aviation-inc-quarterly-earnings-report-a87eba3fc448.html
-  → Q1 2026: 매출 $24.2M, 순손실 $110M, 현금 $2.47B
-  → 운영비 $257.8M (R&D $177.5M, SG&A $61.6M)
-  → $600M 주식 발행 + $690M 전환사채(0.75%, 2032만기)로 유동성 확보
+- [IEA Electricity 2026 보고서] https://www.iea.org/reports/electricity-2026
+  → 글로벌 전력 수요 2026-2030 연평균 3.6% 성장 전망
+  → 데이터센터 전력 수요 2025년 17% 급증 수록
+  → 원자력·재생에너지·천연가스가 2030까지 전력 수요 증가분 충당 전망
 
-- [JOBY IR 공식 Q1 결과 프레스릴리즈] https://ir.jobyaviation.com/news-events/press-releases/detail/182/joby-reports-first-quarter-2026-financial-results
-  → 공식 IR 자료. FAA Stage 5(최종) 진입, SR3 감사 통과, TIA 첫 비행 완료
+- [EIA May 2026 Short-Term Energy Outlook (PDF)] https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf
+  → 미국 전력 수요, 원자력 발전량, 천연가스 가격 최신 데이터
+  → 2026~2027 핵발전 용량 증감 전망 수록
 
-- [JOBY SEC EDGAR 전체 파일링] https://ir.jobyaviation.com/sec-filings/all-sec-filings
-  → 추가 10-K, 8-K 자료 접근 경로
+- [EIA SMR 데이터센터 자료] https://www.eia.gov/todayinenergy/detail.php?id=67584
+  → 미국 SMR 개발 현황, 타임라인, 기술별 용량 정리
 
-## 어닝콜 트랜스크립트 (직접 인용용)
+## 1차 자료 (기업 IR / SEC EDGAR)
 
-- [Motley Fool Q1 2026 어닝콜 트랜스크립트] https://www.fool.com/earnings/call-transcripts/2026/05/06/joby-aviation-joby-q1-2026-earnings-transcript/
-  → CEO JoeBen Bevirt "The Next Golden Age of Flight" 발언 등 직접 인용 확보 가능
-  → FAA SR3 감사 세부 내용, eIPP 11개 주, 두바이 론칭 타임라인
+- [NuScale Power Q1 2026 실적 발표 (공식 IR)] https://www.nuscalepower.com/press-releases/2026/nuscale-power-reports-first-quarter-2026-results
+  → Q1 2026 재무 현황, 프로젝트 파이프라인(TVA 6GW 프로그램), ENTRA1 파트너십
+  → NRC 승인 현황 및 2030 배포 목표
 
-- [Benzinga Q1 어닝콜 하이라이트] https://www.benzinga.com/markets/earnings/26/05/52306919/joby-stock-flies-higher-on-q1-results-2026-update-the-next-golden-age-of-flight
-  → 어닝 서프라이즈 맥락 + 주가 반응 + 핵심 경영진 코멘트 요약
+- [NuScale SEC EDGAR 접근 경로] https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SMR&type=10-Q&dateb=&owner=include&count=10
+  → 10-Q, 10-K, 8-K 최신 파일링
 
-- [The Cerbat Gem Q1 어닝콜 하이라이트] https://www.thecerbatgem.com/2026/05/11/joby-aviation-q1-earnings-call-highlights.html
-  → 추가 인용 소스 (5/11 발행)
+- [DOE 핵발전 데이터센터 공식 자료] https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers
+  → DOE 공식 입장, SMR-데이터센터 연계 장단점 분석
 
-## 국제 비교 — eVTOL 인증 경쟁
+## 1차 자료 (산업 협회 / 규제 기관)
 
-- [EHang CAAC 타입 인증 획득 (2023-10-13)] https://www.globenewswire.com/news-release/2023/10/13/2759806/0/en/EHang-Successfully-Obtains-Type-Certificate-for-EH216-S-Passenger-Carrying-UAV-System-Issued-by-Civil-Aviation-Administration-of-China.html
-  → 세계 최초 eVTOL 타입 인증, 1,000일+ 인증 과정, 2023년 10월
-  → **핵심 비교**: 중국이 미국(FAA)보다 먼저 인증 완료
+- [World Nuclear Association SMR 글로벌 트래커] https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactor-smr-global-tracker
+  → 국가별 SMR 개발 현황, 인허가 단계, 배포 타임라인 정리
 
-- [EHang 에어 오퍼레이터 인증(상업 운항 개시)] https://www.ehang.com/news/1196.html
-  → TC + AC + PC + OC 풀 인증 세트 완료. 세계 최초 eVTOL 상업 운항
+- [World Nuclear Association SMR 정보 라이브러리] https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors
+  → SMR 기술 유형별 상세 정보 (압수형·가스냉각형·용융염형 등)
+
+- [IAEA — 데이터센터·AI·크립토 핵발전 수요] https://www.iaea.org/bulletin/data-centres-artificial-intelligence-and-cryptocurrencies-eye-advanced-nuclear-to-meet-growing-power-needs
+  → SMR 조건부 PPA 잔고 25GW → 45GW 수치 포함
+
+## 컨퍼런스 앵커 (신선도 핵심)
+
+- [Reuters Events: SMR & Advanced Reactor 2026 (5/11~12, 오스틴)] https://events.reutersevents.com/nuclear/smr-usa
+  → 750명+ 유틸리티·빅테크·금융·규제 당국 리더 총집결 컨퍼런스
+  → 의제·발표자·결론 확인용 (Agenda 페이지 별도 방문 권장)
+
+- [NRC 승인 — NuScale 77MWe] https://www.energy.gov/ne/articles/nrc-approves-nuscale-powers-uprated-small-modular-reactor-design
+  → 2025년 5월 NRC 2회차 설계 승인. 2030 배포 목표.
+
+## 국제 비교 소스
+
+- [Microsoft Crane(Three Mile Island) PPA — 835MW] https://www.datacenterdynamics.com/en/news/three-mile-island-nuclear-power-plant-to-return-as-microsoft-signs-20-year-835mw-ai-data-center-ppa/
+  → 20년 계약, $1.6B, 2026년 3월 체결 상세
+
+- [Amazon Talen Energy PPA — 1,920MW] https://enkiai.com/nuclear/microsoft-constellation-ai-data-centers/
+  → 2042년까지 Susquehanna 원전 PPA 확장
+
+- [Morgan Stanley: AI 전력 시장 전망] https://www.morganstanley.com/insights/articles/powering-ai-energy-market-outlook-2026
+  → 셀사이드 시각. 에너지 시장 투자 관점 정리
 
 ## 14:00 트리거 추가 수집 권장
 
-- 백악관 eIPP(Electrification Innovation Partnership Program) 공식 자료 — JOBY 11개 주 선정 근거
-- UAE GCAA(두바이 항공당국) eVTOL 인증 가이드라인 — 두바이 2026 상업 론칭 규제 근거
-- Archer Aviation ($ACHR) SEC 10-Q — 경쟁사 FAA 인증 진행 단계 비교
-- Joby Aviation SEC EDGAR: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JOBY&type=10-Q&dateb=&owner=include&count=10
-- 한화에어로스페이스 Butterfly AAM 공식 IR 자료 (한국 비교 섹션용)
+- 보겔 원전(Vogtle) 예산 초과·지연 공식 자료 → 반대 시각 핵심 근거 ($35B, 7년 지연 수치)
+- 한국 두산에너빌리티 IR / 한전기술 IR — 국제 비교 한국 섹션용
+- 중국 원전 건설 단가 vs 미국 비교 데이터 → World Nuclear Association 또는 학술자료
+- NuScale Idaho 프로젝트 취소(2023) 공식 발표 자료 — 반대 시각 근거
+- Oklo Aurora PDC NRC 승인 자료 — 와치리스트 $OKLO 언급 시 참조
