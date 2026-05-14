@@ -5,7 +5,23 @@
       "Bash(git add -f *)",
       "Bash(git commit *)",
       "Bash(git push *)",
-      "Bash(git push -u *)"
+      "Bash(git push -u *)",
+      "Bash(git pull *)",
+      "Bash(git fetch *)",
+      "Bash(git checkout *)",
+      "Bash(git stash *)",
+      "Bash(git rebase *)",
+      "Bash(git reset *)",
+      "Bash(git restore *)",
+      "Bash(mkdir *)",
+      "Bash(rm -f *)",
+      "Bash(cp *)",
+      "Bash(wc *)",
+      "WebSearch",
+      "WebFetch",
+      "Read",
+      "Write",
+      "Edit"
     ]
   }
 }
