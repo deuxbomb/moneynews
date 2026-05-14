@@ -18,7 +18,7 @@
 
 ## 1차 자료 (주요 인사 공식 발언)
 
-- [Coinbase CEO Brian Armstrong — X 발언 "Mark it up" + Fox Business 인터뷰] https://www.foxbusiness.com/media/coinbase-ceo-says-crypto-bill-could-transform-us-financial-system-senate-vote-approaches
+- [Coinbase CEO Brian Armstrong — Fox Business 인터뷰] https://www.foxbusiness.com/media/coinbase-ceo-says-crypto-bill-could-transform-us-financial-system-senate-vote-approaches
   → "CLARITY Act가 미국 금융 시스템을 변혁할 것" 발언
   → 보이스 컴필 핵심 인용원 #1
 
@@ -31,19 +31,41 @@
   → "예금 이탈 우려" — 미국 3대 은행 무역 협회 공동 반대
   → 보이스 컴필 핵심 인용원 #3 (반대 진영)
 
+## 추가 발언 소스 (2026-05-14 09:00 수집)
+
+- [Brad Garlinghouse (Ripple CEO) — Consensus 2026 Miami] https://fortune.com/2026/05/13/crypto-clarity-act-senate-markup/
+  → "2주 안에 통과 못 하면 중간선거로 밀려 가능성이 급전직하"
+  → 보이스 컴필 인용원 #4
+
+- [Sen. Thom Tillis (공화당, NC)] https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/
+  → "스테이블코인 타협안이 양당 합의 경로를 열었다"
+  → 보이스 컴필 인용원 #5 (입법 설계자 시각)
+
+- [Sen. Kirsten Gillibrand (민주당, NY)] https://finance.yahoo.com/news/clarity-act-faces-over-100-110215887.html
+  → "윤리 조항 없이는 민주당 표 없다"
+  → 보이스 컴필 인용원 #6 (반대/조건부 진영)
+
+- [Citi 애널리스트 리포트] https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/
+  → 법안 통과 시 BTC $143K 목표가 + ETF 추가 유입 $150억
+  → Polymarket 통과 확률 62% 데이터 교차 활용
+
+- [Charles Schwab 스팟 크립토 론칭 (CoinDesk)] https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail
+  → CEO Rick Wurster: 스테이블코인 "로드맵에 있다"
+  → 시사점 섹션: CLARITY Act 통과 시 TradFi 크립토 진출 가속 맥락
+
 ## 뉴스 앵커 (표결 현황)
 
 - [CoinDesk — CLARITY Act 법안 공개 (5/11)] https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing
   → 309페이지 법안 전문 분석, 주요 조항 요약
-
-- [The Block — 100+ 수정안 현황] https://www.theblock.co/post/401074/senate-banking-members-file-clarity-act-amendments
-  → 수정안 내용 분류(스테이블코인·윤리·DeFi)
 
 - [Fortune — 표결 직전 현황 (5/13)] https://fortune.com/2026/05/13/crypto-clarity-act-senate-markup/
   → 위원회 13R-11D 구도, 공화당 전원 찬성 필요
 
 - [Disruption Banking — BTC·ETH·XRP 영향 분석] https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/
   → 통과/부결 시나리오별 가격 영향 분석
+
+- [CCN — BTC·ETH·XRP 역사적 의미] https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/
+  → Citi $143K 타깃, Polymarket 62% 데이터 출처
 
 ## 국제 비교 소스
 
@@ -59,4 +81,4 @@
 - Coinbase Q1 2026 실적 (SEC EDGAR 8-K) → 규제 변화가 실제 사업에 미치는 영향 수치화
 - GENIUS Act(2025) 원문 또는 요약 → 시계열 섹션에서 CLARITY Act와 비교
 - 한국 가상자산이용자보호법(2024) 시행 현황 → 국제 비교 한국 섹션용
-- Digital Chamber CEO Cody Carbone 발언 → 보이스 컴필 인용원 #4(추가)
+- Digital Chamber CEO Cody Carbone 발언 → 보이스 컴필 추가 인용원 후보
