@@ -1,11 +1,11 @@
-# 딥다이브 테마 선정 — 2026-05-13 (수요일)
+# 딥다이브 테마 선정 — 2026-05-14 (목요일) [FALLBACK: 어제 theme.md 대체]
 
 ## 오늘 요일 테마 클러스터
-**수요일 — 에너지/원자력/친환경**
-(CCJ, NRG, FSLR, ENPH, NEE, BWXT, VST, CEG, LEU, BE, RUN, SEDG)
+**목요일 — 핀테크/결제/크립토**
+(SQ, PYPL, AFRM, MARA, RIOT, HOOD, SOFI, NU, MSTR — COIN 제외(와치리스트))
 
 ## 분석 유형 (5유형 요일 회전)
-**🔮 미래 전망** — 시나리오 분석 (Bull / Base / Bear)
+**🎤 보이스 컴필** — 주요 인사 발언 3개+ 교차 분석 (목요일 고정)
 
 ---
 
