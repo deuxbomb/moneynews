@@ -1,40 +1,54 @@
 
 ---
 
-## 📰 오늘의 뉴스 — 12시간 이내 검증 기사
+## 📰 오늘의 뉴스
 
-### 💼 "두 배 서프라이즈" — NFP가 시장의 방향을 바꿨다
+### 증시 포인트 — 나쁜 뉴스를 이기는 AI 모멘텀
 
-4월 비농업고용(NFP)이 +115,000명을 기록하며 월가 컨센서스(~62,000명)를 두 배 가까이 상회했다. 실업률 4.3%로 안정. 미국 노동시장이 "식어가고 있지만 여전히 탄탄하다"는 신호다. 프리마켓은 즉각 반응했다 — S&P 500 선물 +0.6%, 나스닥 +0.9%, 다우 +0.4%. 석 달간의 고용 걱정을 한 방에 날린 이 숫자가 오늘 밤 뉴욕 장 개장의 기조를 결정한다. 단, 강한 고용이 Fed 금리인하를 늦출 것이라는 해석도 동시에 나오고 있다. 채권 금리 움직임을 함께 봐야 한다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
-
----
-
-### 💊 금요일 테마: 헬스케어 — "몸이 가장 비싼 자산이다"
-
-**① $LLY 간독성 공방 — 애널리스트들이 막아섰다**
-FDA 이상반응 데이터베이스에 Foundayo(orforglipron) 관련 간부전 1건이 등록되면서 릴리 주가는 프리마켓에서 -3%까지 밀렸다. 하지만 월가는 흔들리지 않았다. 릴리는 "7개 Phase 3 트라이얼, 11,000명 이상 임상에서 간 이상 신호 제로"라고 반박했고, FDA도 현재 추가 데이터 요청 수준에 머물고 있다. 분석가들은 "케이스 1개는 통계적으로 신호가 아니다"라며 오히려 저점 매수를 권고했다. Q1 매출 $19.8B(+56%), 연간 가이던스 $82~85B — 실적이 안전 논란을 압도하는 흐름이다. [The Street](https://www.thestreet.com/investing/stocks/eli-lilly-stock-swings-after-fda-liver-failure-report-for-glp-1-drug) · [BioSpace](https://www.biospace.com/drug-development/foundayos-liver-failure-blip-weighs-down-lilly-shares-but-analysts-unconcerned)
-
-**② $CYTK 심장 임상 성공 — FDA 신청 카운트다운**
-Cytokinetics의 ACACIA-HCM Phase 3가 지난 5일 두 개의 1차 엔드포인트를 모두 충족했다. 비폐쇄성 비대성 심근증(nHCM) 환자 276명에서 삶의 질(KCCQ) 및 운동 능력(pVO2)을 통계적으로 유의미하게 개선했다. Truist는 목표가를 $106으로 상향했다. 회사는 FDA 및 글로벌 규제당국과의 협의를 시작해 NDA 제출을 준비한다. MYQORZO가 폐쇄성 HCM 시장에서 이미 수익을 내고 있다는 점에서 이번 적응증 추가는 매출을 2배 이상 확장시킬 수 있다. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/05/3287549/35409/en/cytokinetics-announces-positive-topline-results-from-acacia-hcm-the-pivotal-phase-3-clinical-trial-of-aficamten-in-patients-with-non-obstructive-hypertrophic-cardiomyopathy.html)
-
-**③ NFP 헬스케어 +37,000명 — 섹터 성장세 현실 확인**
-4월 고용에서 가장 많은 일자리를 만든 업종은 헬스케어(+37,000명)였다. 미국 인구 고령화와 의료 수요 증가가 구조적 트렌드로 자리 잡았음을 보여준다. 병원, 외래 진료, 요양 시설 모두 채용을 늘리고 있다. $OHI(Omega Healthcare REIT)와 같은 헬스케어 인프라 종목에도 긍정적 신호다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
+PPI가 예상의 3배 이상 튀었음에도 S&P 500은 신기록을 냈다. 4월 생산자물가(PPI)는 월간 +1.4%(예상 0.4%), 근원 PPI는 +1.0%(예상 0.3%)로 충격적인 수치였다. CME FedWatch에 따르면 12월 연준 금리 인상 확률이 35%까지 치솟았다. 하지만 시장은 인플레 데이터보다 베이징을 봤다. 트럼프-시진핑 정상회담에서 젠슨 황이 H200 칩 수출 재개를 협상하고, 엘론 머스크가 테슬라 중국 사업 확대를 논의하는 동안, 투자자들은 '인플레이션이 아니라 AI가 다음 경제를 만든다'는 쪽에 베팅했다. S&P +0.58%, 나스닥 +1.20% 각각 사상 최고치. 오늘도 이 흐름이 이어질지, CLARITY Act와 AMAT 실적이 답을 줄 것이다. [TheStreet](https://www.thestreet.com/latest-news/stock-market-today-may-13-2026-updates)
 
 ---
 
-### 🏢 기업 뉴스
+### 핀테크/크립토 — 309페이지가 역사를 쓸 수 있을까
 
-**$TSLA | "Frost Blue와 Marine Blue — 테슬라가 하늘을 팔기 시작했다"**
-테슬라가 오늘 Model Y와 Model 3 고급형 트림에 두 가지 새 블루 색상(Frost Blue Metallic, Marine Blue)을 출시했다. 기존 Deep Blue Metallic을 대체하는 이 색상들은 소비자 선택지를 다양화하는 제품 라인업 강화 전략의 일환이다. 한편 Cybercab과 Semi, Megapack 3는 2026년 양산 일정이 예정대로 진행 중이다. 주가는 +3.28%로 반등 중 — 얼마 전 대규모 리콜 공시에도 흔들리지 않았던 내성이 오늘도 작동하고 있다. [Tesla Oracle](https://www.teslaoracle.com/2026/05/08/tesla-launches-new-blue-colors-for-model-y-and-model-3-upper-trims/)
+**1. CLARITY Act: 오늘이 바로 그 날**
 
-**$NVDA | "12일 후, 진짜 시험이 온다"**
-NVDA가 프리마켓에서 +0.9%($213.40) 상승 중이다. 시장의 시선은 이미 5월 20일 Q1 FY27 어닝에 쏠려 있다. 핵심 체크포인트는 세 가지: ① Blackwell GPU 수요가 예상대로 폭발적인가, ② 중국 수출 규제 강화가 매출에 얼마나 영향을 주는가, ③ 하이퍼스케일러(GOOGL·MSFT·META·AMZN)의 데이터센터 capex가 NVDA에 실질적으로 얼마나 떨어지는가. 최근 Micron(MU)이 주간 +25% 랠리로 신고가를 기록한 것도 반도체 섹터 전반의 기대감을 높이는 요인이다. [Yahoo Finance](https://finance.yahoo.com/quote/NVDA/)
+2년 넘게 미뤄졌던 미국 암호화폐 시장구조법이 드디어 심판대에 올랐다. 상원 은행위원회(Tim Scott 위원장)는 오늘 오전 10시30분(ET) 309페이지 짜리 'Digital Asset Market CLARITY Act' 마크업 표결을 실시한다. 법안의 핵심: 신규 토큰 발행 감독은 SEC에, 2차 거래 규제는 CFTC에 부여 — 두 기관이 10년 가까이 싸워온 관할권 분쟁을 법으로 끊는다. 스테이블코인 패시브 수익(이자)은 금지되지만, 거래 기반 인센티브는 허용된다. 100개가 넘는 수정안이 제출된 가운데, 공화당 13석 전원 찬성이 필요하다. 아직 미결인 존 케네디(공화, LA) 상원의원의 표가 관건. Citi 애널리스트는 법안 통과 시 BTC에 $150억 ETF 추가 유입, 목표가 $143,000을 전망했다. [CCN](https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/)
 
-**$COIN | "시장 점유율 최고치, 순익은 최저치"**
-코인베이스가 5월 7일 장 마감 후 Q1 2026 실적을 공개했다. 매출 $1.41B — 예상($1.48B)을 하회했고, GAAP 순손실은 $394M($1.49/주). BTC 보유 자산의 미실현 손실($482M)이 주요 원인이다. 그러나 조정 EBITDA는 $303M으로 13분기 연속 흑자를 유지했다. 역설적으로 거래량 기준 시장 점유율은 사상 최고인 8.6%를 기록했다. 오늘 주가는 -2.53%($192.96) 마감. 오늘 저녁 어닝콜에서 CEO 암스트롱이 제시할 Q2 가이던스와 비용 절감 로드맵이 주가 방향을 결정한다. [CoinDCX](https://coindcx.com/blog/us-stock/coinbase-q1-2026-earnings-results/)
+**2. MARA, 비트코인 팔고 AI 데이터센터 산다**
+
+마라톤 디지털(MARA)이 Q1 2026 실적을 발표했다(어제 장 마감 후). 순손실 $12.6억 — 겉으로 보면 참담하다. 그러나 진짜 이야기는 손익계산서가 아니라 전략 전환이다. MARA는 BTC $15억어치를 매각해 오하이오주 Long Ridge 가스 발전소+데이터센터(600MW)를 인수했다. Starwood Capital과의 JV를 통해 보유 부지 90%에서 AI 코로케이션 임차인 협상 중이다. 채굴 기업이 데이터센터 운영사로 탈바꿈하는 중이다. Cantor Fitzgerald는 AI 피벗 진척에 목표가를 상향했다. [CoinDesk](https://www.coindesk.com/markets/2026/05/12/bitcoin-miner-mara-sold-usd1-5-billion-of-bitcoin-as-it-shifts-toward-ai-infrastructure)
+
+**3. PayPal: 이긴 분기, 졌다고 쓴 증시**
+
+PYPL은 Q1 2026 EPS $1.34(예상 $1.27 +5.5% 서프라이즈), 매출 $83.5억(+7.2%)으로 어닝 비트를 달성했다. 그런데 주가는 -10% 급락했다. 이유: Q2 EPS 가이던스가 전년 대비 -9% 하락 전망으로 나왔다. 핀테크 투자자들은 후행 숫자보다 미래 방향을 본다. 결론: PayPal은 벤모 스핀오프를 검토 중이고, P/E는 9배로 저평가 구간. 하지만 가이던스 쇼크의 여진은 당분간 남는다. [24/7 Wall St.](https://247wallst.com/investing/2026/05/05/paypal-tumbles-10-despite-q1-earnings-beat-is-the-venmo-spin-off-enough-to-save-the-stock/)
 
 ---
 
-### 🤖 "로봇이 코스피를 구했다" — 보스턴 다이내믹스·현대차그룹의 하루
+### 기업 뉴스 — 오늘의 와치리스트
 
-오늘 한국 증시의 주인공은 단연 현대차그룹이었다. 보스턴 다이내믹스가 공개한 아틀라스 '개발형 모델' — 공중 회전과 체조 동작을 수행하는 양산형 휴머노이드 로봇 — 이 글로벌 반향을 일으키면서 현대오토에버 +29.97%, 현대모비스 +22.42%, 현대차 +7.17%, 기아 +4.38%의 폭등을 연출했다. 여기에 보스턴 다이내믹스의 나스닥 IPO 결정 시한이 6월 말로 임박했다는 소식이 맞물리며 기대감이 증폭됐다. 2028년 조지아 HMGMA(현대차그룹 메타플랜트 아메리카) 배치 계획이 구체화되면서 "현대차는 이제 EV 회사가 아닌 로봇 회사"라는 내러티브가 빠르게 자리를 잡고 있다. [스마트비즈](https://www.smartbizn.com/news/articleView.html?idxno=143450) · [헤럴드경제](https://biz.heraldcorp.com/article/10734016)
+**$NVDA "황젠슨이 알래스카를 경유한 이유"**
+
+원래 베이징 방문단에 없었던 젠슨 황 NVIDIA CEO가 트럼프의 직접 전화를 받고 알래스카에서 에어포스원에 탑승했다. 목적은 단 하나: 중국 시장에 H200 AI 칩 판매 재개 협상. 미국의 AI 칩 수출통제로 중국이 NVDA 칩 없이 Huawei Ascend 등 자체 칩 개발을 가속하는 상황에서, 트럼프는 칩 수출을 무역 협상 카드로 활용하려는 것으로 분석된다. 이 발표 하나에 NVDA는 +3%로 시총 약 $1,600억이 증발했다가 돌아왔다. 다음 주에는 NVDA Q1 FY2027 실적 발표(5/28 예정)가 기다린다. [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-13/nvidia-s-huang-joins-trump-s-china-trip-as-last-minute-addition)
+
+**$TSLA "머스크의 베이징 방문이 테슬라에 의미하는 것"**
+
+엘론 머스크가 트럼프 방중단에 포함돼 베이징에 있다. 테슬라는 중국 상하이 기가팩토리에서 전체 생산의 약 절반을 만든다. 중국 FSD(완전자율주행) 승인과 데이터 수집 허가가 아직 논의 중인 상황에서, 머스크의 직접 외교는 테슬라 중국 사업의 가장 큰 불확실성 해소에 직결된다. 주가 +2.7%. 다만 테슬라 Q2 인도 실적 발표(7월 초 예정)까지는 본격적 펀더멘털 재평가가 어렵다. [CNBC](https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html)
+
+**$OKLO "숫자는 예상 수준, 그런데 왜 -9%인가"**
+
+Oklo는 5/12 장 마감 후 Q1 2026 실적을 발표했다. 순손실 $0.19/주(예상 $0.18, 전년 $0.07). 겉으로는 1센트 차이지만 시장 반응은 -9%였다. 핵심 문제는 운영비용이 $1,790만(전년)→$5,120만(올해)으로 3배 폭증한 것. 상업 운전 전 단계의 SMR(소형모듈원자로) 기업이 인력·R&D에 공격 투자하는 것은 자연스럽지만, 규모 대비 현금 소모 속도가 투자자들을 불안하게 했다. NRC Aurora PDC 승인은 확보했으나, 첫 상업 운전은 2027년 이후다. 장기 보유자라면 흔들릴 필요 없지만, 신규 진입은 Q1 실적 논평이 시장에 소화될 때까지 관망 추천. [Motley Fool](https://www.fool.com/investing/2026/05/13/why-oklo-stock-is-sinking-today/)
+
+**$COIN "표결 앞두고 숨 죽인 코인베이스"**
+
+코인베이스는 오늘 CLARITY Act 표결의 최대 수혜자다. 현재 주가 $212(-4.1%)는 단기 변동성이지 방향이 아니다. CLARITY Act가 통과되면 SEC의 법적 불확실성이 해소되고, 코인베이스가 제공하는 스테이킹·커스터디·기관 서비스의 법적 근거가 명확해진다. COIN의 Q1 순손실($3.94억) 어닝미스 충격에서 서서히 회복 중이며, 법안 통과 여부에 따라 오늘 세션에서 방향이 갈릴 것이다. [Yahoo Finance](https://finance.yahoo.com/news/live/stock-market-today-dow-slides-sp-500-and-nasdaq-rise-as-ppi-inflation-data-comes-in-hot-223045547.html)
+
+---
+
+### 흥미로운 이야기 — 알면 좋은 것들
+
+**1. 넷플릭스가 일자리 42만5천 개를 만들었다**
+넷플릭스는 자사 콘텐츠가 미국 경제에 미친 영향 리포트를 발표했다. 총 경제적 효과 $3,250억, 42만5천 개 일자리 창출. Q1 매출은 $122.5억(+16% YoY), FCF 가이던스도 대폭 상향. NFLX는 조용히 우상향 중이다. [Netflix IR](https://ir.netflix.net/)
+
+**2. 네비우스 그룹 +15.66% — AI 클라우드 1등 신흥 주자**
+구글과 아마존 사이에서 조용히 성장한 AI 클라우드 기업 Nebius Group이 분기 매출 8배(YoY) 성장을 발표하며 하루 만에 +15.66% 폭등했다. AI 인프라 수요가 '빅3 독과점'에서 벗어나 신흥 플레이어에게도 흘러들어가고 있다는 신호다. [Yahoo Finance](https://finance.yahoo.com/news/live/stock-market-today-dow-slides-sp-500-and-nasdaq-rise-as-ppi-inflation-data-comes-in-hot-223045547.html)
