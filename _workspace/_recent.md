@@ -58,7 +58,7 @@
 - 헤드라인: 🔔 코스피 7천피 63포인트 앞! 반도체가 지수를 들고 뛴다
 - 오늘의 픽: $OKLO, $PLTR, $OHI
 - 뉴스 토픽: [자율주행] 자율주행, 테슬라, Robotaxi / [빅테크] 엔비디아, 구글, 애플 / [크립토] 비트코인, 코인베이스 / [매크로] 연준, 금리 / [지정학] 이란, 중국
-- 팟캐스트: All-In Podcast ** | | All-In 의 주인공은 단연 Elon vs Sam 재판이다. Chamath·Jason·Sacks·Friedberg 네  | all-in-with-chamath-jason-sacks-friedberg /id1502871393) | Lex Fridman Podcast ** | | TBPN ** |
+- 팟캐스트: All-In Podcast ** | | All-In 의 주인공은 단연 Elon vs Sam 재판이다. Chamath·Jason·Sacks·Friedberg 네  | all-in-with-chamath-jason-sacks-griffberg /id1502871393) | Lex Fridman Podcast ** | | TBPN ** |
 
 
 
@@ -108,3 +108,7 @@
 - 핵심 주장/결론: 45GW는 모두 '조건부' 계약으로 SMR 투자는 전력이 아닌 기대를 사는 것. 단기 확실 수혜는 기존 원전 재가동($CEG, $VST), 중장기 옵션은 $OKLO. 중국의 1/6~1/10 건설 비용은 서방 SMR 생태계의 구조적 경쟁 과제.
 - 1차 자료 출처: IEA Electricity 2026 × 1, NuScale Q1 2026 IR × 1, DOE 핵에너지 대출 × 1, NRC/DOE TerraPower 건설허가 × 1, Oklo 공식 뉴스룸 × 1, Meta 공식 발표 × 1, EIA STEO × 1 (총 7건)
 - 판정: Minor (4개 개선점 반영 — 원전 수 표현 완화, Base 시나리오 단정 완화, UK/EU 섹션 보완, 머뉴's Advice ③ 여운 문장 추가)
+
+## 2026-05-14 09:00 [DEEP] (테마 클러스터: 핀테크/크립토, 유형: 🎤 보이스 컴필)
+- 제목 방향: 309페이지가 바꿀 것들 — Coinbase는 환호, 은행은 분노, 상원은 오늘 결정한다
+- 선정 테마: CLARITY Act 상원 표결 — 미국 크립토 시장 구조의 역사적 분기점
