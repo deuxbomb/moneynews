@@ -1,75 +1,34 @@
-# 레퍼런스 글 분석 — SMR/원자력 미래전망 딥다이브 (2026-05-13)
+# 레퍼런스 기사 — 2026-05-14
 
-## 레퍼런스 1: Carbon Credits — "2026: The Year Nuclear Power Reclaims Relevance"
-URL: https://carboncredits.com/2026-the-year-nuclear-power-reclaims-relevance-with-15-reactors-ai-demand-and-chinas-expansion/
+## 레퍼런스 기사
 
-구조:
-1. 도입: 2026년이 특별한 해인 이유 — 숫자로 시작(15기, 12GW)
-2. AI 수요가 핵에너지를 부활시키는 메커니즘
-3. 국가별 원전 현황 (중국 중심)
-4. 미래 전망
+### 1. [CCN — 17 Years of Chaos: US Crypto Regulation History](https://www.ccn.com/education/crypto/17-years-of-chaos-us-crypto-regulation-history-genius-clarity-anti-cbdc-acts/)
+- 구조: 역사 타임라인 → 규제 전환점 분석 → 현황 → 전망
+- 문체: 연도별 소제목 + 핵심 사건 중심, 구어체에 가까운 평이한 영문
+- 도입부: "17 years of chaos"라는 강렬한 단어로 시작 — 규제 부재의 혼란을 단 한 단어로 표현
+- 숫자 활용: "100건 이상의 SEC 제재" "68-30" "308-122" 등 구체적 투표 수치로 신뢰성 부여
+- 배울 점: **타임라인 서술에서 각 연도를 단순 나열이 아닌 '정권 교체 → 기조 전환'의 인과 서사로 연결**
 
-문체 특징:
-- 헤드라인 숫자로 즉각 신뢰 구축
-- 단락이 짧고 각 단락에 수치 1개
-- 지나치게 낙관적, 반대 시각 부족
-- "왜 아직도 불확실한가"에 대한 설명 없음
+### 2. [Arnold & Porter — Clarifying the CLARITY Act](https://www.arnoldporter.com/en/perspectives/advisories/2025/08/clarifying-the-clarity-act)
+- 구조: 법률 개요 → SEC/CFTC 역할 구분 → 핵심 정의 해석 → 산업 영향
+- 문체: 법률 자문 스타일이지만 구체적 조항 번호와 요약 설명 병용 — 전문가+비전문가 양쪽 대상
+- 도입부: "One of the biggest questions hanging over the U.S. crypto industry" — 산업의 핵심 질문으로 시작
+- 숫자 활용: "294 to 134 bipartisan vote" "20% threshold for single-entity control" 등 정확한 수치
+- 배울 점: **법안의 핵심 개념("mature network test")을 일상 언어로 번역하는 기법** — "블록체인 팀이 여전히 주도권을 갖고 있나?"라는 질문으로 단순화
 
-우리 글의 차별점:
-- 낙관론만 나열하지 않고 Vogtle·UAMPS 실패 사례를 반대 시각으로 균형
-- 시나리오 3개(Bull/Base/Bear) 구조로 불확실성을 명시적으로 다룸
-- 한국 i-SMR을 비교 축으로 넣어 한국 독자 접점 강화
-
----
-
-## 레퍼런스 2: Yale Clean Energy Forum — "An Analysis of SMRs for Commercial Electricity Generation"
-URL: https://cleanenergyforum.yale.edu/2026/04/26/an-analysis-of-small-modular-reactors-smrs-for-commercial-electricity-generation-in-the
-
-구조:
-1. 기술 개요 (SMR 정의)
-2. 비용 분석 (FOAK vs NOAK)
-3. 학습 공선 경제학
-4. 주요 플레이어 비교
-5. 정책/규제 환경
-6. 결론
-
-문체 특징:
-- 학술적, 균형잡힌 톤
-- 비용 데이터 풍부
-- 독자 입장에서 "지금 투자 판단"은 명확하지 않음
-
-우리 글의 참고 포인트:
-- FOAK $6,000~9,000/kW 추정, 학습 공선(10호기 -30~40%) 적극 활용
-- 단, 학술 톤이 아닌 머니네버슬립 스타일로 번환: 숫자 + 이야기 + 투자 판단
+### 3. [CoinDesk — Banking Groups Escalate Fight Over Stablecoin Yield](https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote)
+- 구조: 갈등 장면 묘사 → 각 진영 입장 → 타협안 내용 → 다음 단계
+- 문체: 중립적 서술 + 직접 인용 풍부 — "escalate fight"처럼 갈등 에너지를 살린 용어 선택
+- 도입부: 행동("heating up its lobbying")으로 시작 — 상황 묘사가 아닌 동사 중심 리드
+- 숫자 활용: "$300B → $2T" 스케일업 수치를 찬반 논거의 핵심으로 배치 — 추상적 위험을 숫자로 구체화
+- 배울 점: **찬반이 충돌하는 글에서 각 진영의 '핵심 두려움'을 한 문장으로 압축하는 법** — 은행: "예금 이탈", 크립토: "규제 진공"
 
 ---
 
-## 레퍼런스 3: Interesting Engineering — "China Escapes Nuclear Cost Curse"
-URL: https://interestingengineering.com/energy/china-cuts-nuclear-construction-cost
+## 우리 글에 적용할 구체적 기법
 
-구조:
-1. 도입: 중국이 해난 것 — "다른 나라들이 실패한 곳에서"
-2. 비용 수치 ($/kW) 비교
-3. 왜 중국만 가능했는가 (국가 금융 + 학습 효과)
-4. 미국 등 서방에 주는 시사점
-
-문체 특징:
-- 역설적 리드가 강점 ("비싼 게 당연한 원자력에서 중국이 $2/W를 달성했다")
-- 국제 비교를 핵심 축으로 사용
-- 정책 메시지가 명확
-
-우리 글의 참고 포인트:
-- 국제 비교 섹션에서 "같은 기술, 다른 가격표" 프레임 차용
-- 미국 vs 중국 vs 한국 3각 비교로 확장
-- "왜 중국만 싸게 지었나"의 메커니즘(국가금융+표준화+현장경험)을 한 문단으로 압쳙
-
----
-
-## 구조/문체 전략 (우리 글에 적용)
-
-1. **도입 리드**: 오스틴 컨퍼런스장 750명 + IEA 숫자(45GW, 1,100TWh) 조합 — 현장감 + 데이터 두 축
-2. **관통 스레드**: "2030년 이전 켜질 SMR은 없다. 그러면 지금 이 45GW 도박은 무엇인가?" — 이 질문이 5섹션을 엮는다
-3. **소제목**: 비유와 숫자 조합. "33년 동안 꺼져 있던 스위치" "중국은 6분의 1 가격에 짓는다" 같은 형식
-4. **숫자 맥락화**: "1,100TWh = 일본이 1년간 쓰는 전기를 데이터센터만으로"
-5. **시나리오 섹션**: Bull/Base/Bear 각각에 구체적 수혜 종목과 진입/이탈 신호 포함
-6. **마무리**: 역설적 질문 — "45GW를 믿는 사람들돈 2030년에 첫 스위치가 켜질지는 아무돈 모른다. 그렇다면 지금 우리가 사는 것은 실제 전력인가, 기대인가?"
+1. **도입부**: "309페이지가 오늘 워싱턴의 테이블에 쌓였다" 처럼 물리적 구체물로 시작 → 추상적 규제를 촉감 있는 이미지로
+2. **인물별 소제목**: 각 인물의 이름이나 역할이 아닌 그 사람의 '핵심 두려움 또는 기대'를 소제목으로 — "Brian Armstrong: 드디어 규칙이 생겼다" 대신 "Coinbase의 10년 기다림이 끝나는 날"
+3. **숫자 맥락화**: "$323B 스테이블코인 시총"을 독자 친숙한 비교대상으로
+4. **교차 분석**: 찬성/반대 진영이 같은 숫자($2T 스테이블코인)를 서로 다른 논거로 쓰는 아이러니를 부각
+5. **마무리**: 표결 결과를 선언하지 않고 "미국이 선택한 것은 규칙이 아니라 속도다"처럼 구조적 의미로 마무리

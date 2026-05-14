@@ -1,153 +1,156 @@
-# 달러 위에 달러가 온다 — CLARITY Act 표결일, 권력자 4인이 말하는 것
-<!-- published: 2026-05-14 14:00 KST | resend -->
+# 309페이지가 바꿀 것들 — Coinbase는 환호, 은행은 분노, 상원은 결정했다
 
-> **오늘(2026년 5월 14일) 오전 10시 30분, 워싱턴 D.C. 다크슨 상원 오피스 빌딩 538호.** 미국 상원 은행위원회가 사상 최초로 디지털 자산 종합 시장구조 법안에 대한 표결을 시작했다. 309페이지짜리 CLARITY Act. 10년간 "어느 규제기관이 크립토를 감독하는가"를 놓고 벌인 싸움의 첫 번째 공식 결전이다.
-
----
-
-## 6년 만에 77배 — 달러가 디지털로 이동하는 궤적
-
-스테이블코인의 성장은 한 줄의 숫자다. 2020년 1월 $42억(4.2B 달러)이던 전체 시장이 2026년 5월 현재 $3,230억(323B 달러)이 됐다. 6년 만에 77배.
-
-그 궤적을 따라가면 세 번의 굴곡이 있다. 첫 번째는 2021년 폭발이다. 디파이(DeFi) 붐이 터지면서 스테이블코인 시총이 1년 만에 4배 가까이 뛰어 $1,500억을 넘겼다. 두 번째는 2022년 충격이다. 테라-루나의 UST 붕괴로 시장이 $1,880억 정점에서 $1,240억까지 추락했다. 머니마켓펀드에 가깝다고 여겨진 알고리즘 스테이블코인이 99% 증발하는 것을 시장이 목격했다.
-
-세 번째 굴곡은 지금이다. 2024년 초부터 시작된 회복세가 2025년 9월 $2,820억을 넘겼고, 2026년 5월에는 $3,230억을 기록했다. 무엇이 달라졌나? 미국의 GENIUS Act(2025년 7월 서명)이 첫 번째 연방 스테이블코인 법률을 만들었다. 100% 준비금 의무화, 이자 지급 금지, AML 규정 적용. "무엇이 스테이블코인인가"에 대한 최소한의 법적 윤곽이 생긴 것이다.
-
-그 결과, 기관 자금이 들어왔다. USDT(테더)가 $1,900억으로 58%를 차지하고, USDC(서클)가 $780억으로 24%다. 2026년 1분기, 이 스테이블코인들이 처리한 온체인 거래는 전체 크립토 거래량의 75%였다. 스테이블코인은 더 이상 변동성 헤지 수단이 아니다. 달러가 디지털로 이동하는 주요 인프라다.
-
-오늘의 CLARITY Act은 이 인프라의 규칙을 두 번째 단계로 끌어올리려는 시도다. 비트코인이 오늘 $79,549까지 오른 것도, 기관이 이 표결 결과를 주시하고 있다는 신호다.
+**2026-05-14 | 테마: 핀테크/크립토 | 유형: 🎤 보이스 컴필**
 
 ---
 
-## "Mark it up" — 브라이언 암스트롱이 의회 복도를 뛰어다닌 이유
+## 10:30 AM ET, 워싱턴 더크슨 빌딩 524호실
 
-Coinbase CEO 브라이언 암스트롱이 Capitol Hill에 나타났다. 의원들에게 직접 영상 메시지를 보내고, 5월 초 CLARITY Act 타협안에 단 세 글자로 화답했다. "Mark it up." 위원회 표결에 부치라는 말이다.
+오늘 아침 워싱턴 더크슨 상원 청사 524호실 테이블 위에는 309페이지짜리 법안 묶음이 쌓여 있었다. 미국 역사상 처음으로 디지털 자산 시장 전체의 규제 구조를 단일 법안에 담은 문서였다. 이름은 **디지털자산시장 CLARITY(명료성) Act**. 위원회 의장 팀 스콧(공화, 사우스캐롤라이나)이 의사봉을 두드리며 10:30 AM ET 마크업 세션을 개시했다.
 
-그는 Fox Business 인터뷰에서 이 법안을 "a true compromise(진정한 타협안)"로 평가했다. 타협의 핵심은 스테이블코인 리워드(이자 유사 수익)다. GENIUS Act은 스테이블코인 홀더에게 이자를 지급하는 것을 전면 금지한다. CLARITY Act의 타협안은 이를 조건부로 허용한다. 암스트롱은 "스테이블코인 리워드는 계정에 실질적인 활동(material activity)이 있을 때만 적용되어야 한다"는 조건을 지지한다.
+방 안에 앉아 있는 24명 의원 중 가장 많은 눈길이 쏠린 건 루이지애나 출신 공화당 의원 **존 케네디**였다. 지난 수개월 동안 CLARITY Act의 마지막 미결 열쇠를 쥔 인물이었다. 케네디는 전날(5/13) 드디어 찬성을 확약했다 — 조건이 있었다. 크립토 업계 종사자에게 의뢰인 이익 우선 의무인 "수탁 의무(fiduciary duty)" 조항을 법안에 넣고, 자신이 엘리자베스 워런과 공동 발의한 주택 공급 촉진 법안 "BUILD NOW Act"를 패키지에 포함시켜 달라는 것이었다. 팀 스콧 의장은 수락했다. 크립토 법안 안에 주택법이 끼어든 것이다. 미국 입법의 거래가 이렇게 작동한다. 케네디가 찬성으로 돌아서자, 예측 시장 폴리마켓에서 CLARITY Act의 2026년 통과 확률이 62%에서 73%로 뛰었다.
 
-이것은 단순한 수사(rhetoric)가 아니다. Coinbase는 스테이블코인 이자 수익 모델을 전략의 핵심으로 보고 있다. CLARITY Act이 통과되면 Coinbase는 스테이블코인 리워드를 합법적으로 제공할 수 있는 미국 최초의 연방 규제 플랫폼이 될 수 있다. 시장 지배력을 굳히는 법적 해자(moat)가 생기는 셈이다.
+130개 이상의 수정안이 테이블에 올라와 있었다. 스테이블코인 이자, DeFi 면제 조항, Trump 가족 크립토 자산 이해충돌 윤리 조항까지 민주당이 제출한 수정안만 수십 개였다. 그러나 공화당 13석 대 민주당 11석 구도에서, 공화당 전원이 결집한 이상 법안은 표결 전부터 기울어져 있었다. 스콧 의장은 마크업 개시 발언에서 말했다.
 
-$COIN 주가가 이 법안 진행 상황에 민감하게 반응하는 이유가 여기에 있다. 암스트롱에게 CLARITY Act은 사업 허가증이다.
+> *"This is what good governance looks like today."*
+> — Tim Scott, Senate Banking Committee Chair, 2026-05-14
 
----
-
-## "Actually essential" — 제레미 알레어가 263%라는 숫자를 꺼낸 날
-
-Circle CEO 제레미 알레어는 5월 11일 Q1 실적 발표에서 숫자 하나를 던졌다. USDC 온체인 거래량 $21.5조 달러, 전년 동기 대비 263% 성장.
-
-맥락으로 보면 더 선명해진다. 한국 연간 GDP가 약 $1.7조 달러다. USDC 하나가 한 분기에 그것의 12배가 넘는 돈을 처리한 셈이다. 또한 USDC는 현재 달러 기반 디지털 화폐 거래 전체에서 80%의 점유율을 갖고 있다. Circle의 Q1 매출은 $6억9,400만으로 전년 대비 20% 성장, USDC 유통량은 $770억으로 28% 증가했다.
-
-이 숫자들 위에서 알레어는 CLARITY Act을 "actually essential(실제로 필수적)"이라고 불렀다. 이유는 명확하다. GENIUS Act은 스테이블코인 이자를 전면 금지했지만, CLARITY Act의 타협안은 "실질적인 거래, 결제 볼륨, 실제 활동"에 기반한 리워드를 허용한다. 알레어는 "그것이 바로 우리가 원하는 인센티브 구조"라고 밝혔다.
-
-Circle은 5월 12일 또 하나의 패를 꺼냈다. 'Circle Agent Stack' 출시. AI 에이전트 간 결제(machine-to-machine payments)에서 USDC가 x402 프로토콜 거래의 99.8%를 처리하고 있다고 밝혔다. AI가 자율적으로 서비스를 구매하고, 그 결제를 USDC로 하는 생태계. CLARITY Act이 스테이블코인에 법적 명확성을 주면, 이 생태계의 성장 속도는 다른 차원으로 올라갈 수 있다.
-
-투자자들도 이를 알아봤다. a16z crypto가 리드한 Circle Arc Token 프리세일에 Apollo·BlackRock·ARK Invest·ICE·Standard Chartered Ventures가 줄을 섰다. 규모는 $2억2,200만, 완전희석가치(FDV) $30억. 규제 명확성이 기관 자금을 부르고 있다.
+상원 금융위원회는 오늘 CLARITY Act를 통과시켜 상원 본회의로 넘겼다. 미국 크립토 업계가 10년 이상 기다려 온 시장 구조법이 문을 하나 더 통과한 날이었다.
 
 ---
 
-## "Zero provisions" — 엘리자베스 워런이 $14억을 꺼낸 이유
+## 10년의 기다림이 낳은 목소리들
 
-같은 날, 같은 법안을 두고 엘리자베스 워런 상원의원(매사추세츠, 민주당)은 전혀 다른 숫자를 꺼냈다. $14억 달러.
+미국 크립토 규제의 역사를 한 줄로 요약하면 이렇다: **10년의 진공, 4년의 전쟁, 1년의 화해, 오늘의 법안.**
 
-워런은 상원 은행위원회 공식 성명에서 이렇게 밝혔다. "이 법안은 투자자, 국가 안보, 미국 금융 시스템 전체를 위험에 빠뜨린다 — 도널드 트럼프의 크립토 부패를 터보차지하는 법안이다." (원문: "This bill puts investors, our national security and our entire financial system at risk – and it will turbocharge Donald Trump's crypto corruption.") 그리고 이렇게 덧붙였다. "대통령과 그의 가족은 취임 후 불과 1년 만에 크립토 거래로만 최소 $14억의 이익을 거뒀다. 그런데 이 법안에는 그것을 막는 조항이 단 하나도 없다."
+2015년 CFTC는 비트코인을 공식적으로 "상품(commodity)"으로 분류했다. 그러나 이것은 규제의 시작이 아닌 법적 애매함의 출발점이었다. SEC는 ICO 토큰을 증권으로 보아 집행을 강화했고, CFTC는 선물·파생상품에 대한 권한을 주장했다. 두 기관이 같은 자산을 두고 다른 규칙을 적용하는 동안, 업계는 어느 문을 두드려야 하는지조차 알 수 없었다.
 
-민주당이 원하는 것은 이해충돌 방지(ethics provision)다. 현직 대통령이 규제를 받는 바로 그 산업에서 수십억 달러를 버는 구조를 법안이 눈감아서는 안 된다는 것. 커스틴 질리브랜드 상원의원을 포함한 민주당 의원들은 윤리 조항 없이는 CLARITY Act의 상원 통과가 없다는 입장이다.
+게리 겐슬러가 SEC 의장이 된 2021년부터 2024년까지는 규제가 아닌 전쟁이었다. Coinbase, Ripple, Kraken, Gemini — 미국 크립토 산업의 대표 기업들이 줄줄이 SEC 제재를 받았다. 겐슬러 체제에서 SEC는 **100건 이상**의 크립토 업체 제재를 단행했다. 이 기간에 Coinbase는 미등록 증권 거래소라는 혐의로 고소를 당한 채, 동시에 SEC에 등록을 신청했다가 거절당하는 기묘한 상황을 겪었다.
 
-문제는 구조다. CLARITY Act의 상원 본회의 표결은 filibuster 장벽으로 60표가 필요하다. 공화당은 53석. 최소 7명의 민주당 의원이 찬성해야 한다. 워런이 꺼낸 윤리 조항 카드는 그 7표를 인질로 잡은 것이다. 오늘 상임위 13-11 표결이 통과되더라도, 본회의 60표 싸움은 훨씬 험난하다.
+전환은 2025년 1월에 왔다. 겐슬러가 사임했다. Paul Atkins가 4월 21일 새 SEC 의장으로 취임하면서 "집행 대신 규칙 제정"으로 기조가 바뀌었다. 2025년 7월 18일, 트럼프 대통령이 세계 최초의 연방 스테이블코인법 **GENIUS Act**에 서명했다. 상원 **68대 30**, 하원 **308대 122**의 압도적 양당 찬성이었다.
 
-찬성 진영은 이렇게 반박한다. 윤리 조항은 크립토 법안이 아닌 별도 입법으로 다뤄야 한다고. 양측 모두 "원칙"을 말하지만, 실제로는 누가 어떤 조건으로 양보하느냐의 게임이다.
+그날 Coinbase CEO **브라이언 암스트롱**은 이렇게 썼다.
 
----
+> *"Huge! GENIUS ready to be signed into law. CLARITY heading the senate next. We are getting incredibly close to finally having clear rules for crypto to grow this industry in the United States of America."*
+> — Brian Armstrong, Twitter/X
 
-## "A whole new set of competitors" — 제이미 다이먼이 적(敵)을 인정한 순간
+10년 동안 쌓인 업계의 기다림이 한 문장에 담겨 있었다. GENIUS Act는 절반이었다. 스테이블코인만 다뤘다. 나머지 절반, 즉 "이 코인은 증권인가 상품인가"라는 질문에 답하는 법안이 바로 CLARITY Act였다.
 
-JP모건 CEO 제이미 다이먼은 2017년 "비트코인은 사기"라고 말했던 바로 그 인물이다. 그가 2026년 4월 주주서한에서 쓴 말은 전혀 달랐다. "블록체인을 기반으로 한 완전히 새로운 경쟁자 집단이 등장하고 있다 — 스테이블코인, 스마트 컨트랙트, 각종 토큰화 형태를 포함해서." (원문: "A whole new set of competitors is emerging based on blockchain, which includes stablecoins, smart contracts and other forms of tokenization.") 그는 "우리 자체 블록체인 기술을 내놓고 고객이 원하는 것에 집중해야 한다"고 했다.
+2026년 3월 17일, SEC와 CFTC는 공동 해석 가이던스를 발표하며 비트코인, 이더리움을 포함한 16개 주요 크립토를 디지털 상품으로 공식 분류했다. 행정부 차원의 판단이었다. CLARITY Act는 그 판단에 **의회의 법적 효력**을 부여하는 법안이다. 오늘 위원회를 통과하기까지, CLARITY Act는 2025년 7월 하원에서 **294대 134**로 통과됐다. 전체 435석 중 3분의 2에 가까운 지지였다. 극도로 당파적으로 분열된 워싱턴에서 이례적인 초당적 표결 — 크립토만이 공화당과 민주당을 일부 묶을 수 있다는 신호였다.
 
-그것이 Kinexys 플랫폼이고, JPM Coin이고, 5월 12일 SEC에 파일링한 JLTXX — 이더리움 기반 토큰화 국채 펀드다. 전통적인 국채를 온체인에 올려 실시간 결제와 담보로 활용하겠다는 것이다.
+암스트롱은 오늘 표결을 앞두고 공개 발언에 나섰다.
 
-그런데 다이먼은 조건을 달았다. 2026년 3월 CNBC 인터뷰에서 "이자를 지급하는 스테이블코인 발행사는 은행처럼 규제해야 한다"고 밝혔다. 예금을 보유하고 이자를 지급하는 행위는 본질적으로 은행업이라는 논리다.
+> *"This is a true compromise — we met the asks of the bank lobby and the Senate."*
+> — Brian Armstrong, Fox Business
 
-이것이 은행 업계가 CLARITY Act 타협안을 5월 9일 공식 거부한 이유다. 미국 3대 은행 업계단체는 스테이블코인 리워드를 "사실상 예금 기능"으로 규정하고, 동일한 규제 수준을 요구한다. 암스트롱과 알레어가 원하는 바로 그 '리워드'가, 다이먼과 은행 업계에게는 허용 불가한 '은행업 침식'이다.
-
-흥미로운 역설이 있다. 다이먼은 스테이블코인이 경쟁자라고 인정하면서도, 직접 JPM Coin으로 같은 게임에 뛰어들었다. 차이는 규칙이다. 자기 팀에게는 불리하고 경쟁자에게 유리한 규칙을 막는 것이 로비의 목적이다. 다이먼이 CLARITY Act 타협안에 반대하는 것은 크립토를 싫어해서가 아니라, 자신은 은행 규제를 받으면서 경쟁자는 더 가벼운 규제를 받는 구도를 막기 위해서다.
-
----
-
-## 네 발언이 겹치는 지점 — 그리고 겹치지 않는 지점
-
-이 네 명의 이야기를 교차하면, 하나의 구조가 드러난다.
-
-**모두가 동의하는 것**: 스테이블코인은 실재하며, 성장한다. 규제가 필요하다. 달러 패권을 지키는 도구가 될 수 있다. 중국·EU에 뒤처져서는 안 된다.
-
-**갈라지는 지점**: 누가 이 인프라를 운영하는가. 암스트롱·알레어는 크립토 기업이, 다이먼은 기존 은행이, 워런은 "이해충돌 없는 주체"가 운영해야 한다고 주장한다. 규제가 누구를 보호하느냐에 따라 누가 시장을 갖느냐가 결정된다.
-
-**숨겨진 메시지**: 암스트롱의 "진정한 타협"이라는 말은 "우리가 원하는 것을 대부분 얻었다"는 뜻이다. 알레어의 "필수적"이라는 말은 "이게 없으면 비즈니스 모델이 흔들린다"는 신호다. 다이먼의 "더 빠르게 움직여야"는 "우리가 뒤처지고 있다"는 실토다. 워런의 "$14억"은 공화당 의원들에게 정치적 부담을 주는 전략이다.
-
-예측 시장 Polymarket은 CLARITY Act의 2026년 내 법률 서명 확률을 67~71%로 본다. 현충일(5월 21일) 전에 상임위를 통과하지 못하면 다음 입법 창구는 2030년 이후라는 경고가 나왔다. 오늘의 표결은 그 첫 번째 관문이다.
+인정하고 싶지 않겠지만, Coinbase는 양보했다. 스테이블코인 yield에 대한 초기 주장을 일부 철회했다. 그 대신 규제 진공 상태보다 타협된 프레임워크를 선택했다. 10년 만에 얻은 진전이 그만큼의 가치가 있다고 판단한 것이다.
 
 ---
 
-## 국제 경쟁: 달러 스테이블코인의 패권 게임
+## 세계는 이미 움직였다 — 미국만 늦었나, 신중했나
 
-CLARITY Act 논쟁이 미국 내부 싸움으로만 보이면 본질을 놓친다. 스테이블코인은 달러 패권의 디지털 확장이다.
+워싱턴이 오늘 표결을 준비하는 동안, 세계 다른 나라들은 이미 자기 길을 걷고 있었다.
 
-EU는 MiCA로 먼저 움직였다. 2025년 3월 31일부터 MiCA 규정을 준수하지 않는 스테이블코인은 EU 거래소에서 상장 폐지됐다. USDT(테더)가 그 타깃이었다. Coinbase Europe, Kraken, Binance가 USDT를 유럽에서 삭제했다. 테더는 EU 시장을 포기하는 대신, GENIUS Act 체계 아래 미국 특화 브랜드 'USAT'를 Anchorage Digital Bank를 통해 준비 중이다. EU와 미국이 서로 다른 규제 프레임워크를 가져가면, 같은 달러 스테이블코인도 지역별로 분리될 수 있다.
+**유럽연합(EU)**: 2024년 12월, EU의 암호화폐 규제법 **MiCA(Markets in Crypto-Assets)**가 완전 발효됐다. 2026년 7월 1일부터는 EU에서 영업하는 모든 가상자산 서비스 사업자(1,200여 곳)가 CASP 라이선스를 의무 보유해야 한다. MiCA는 미국 CLARITY Act와 철학적 출발점이 다르다. EU는 **선(先)규제, 후(後)허용** 방식이다. 특히 스테이블코인에 이자를 지급하는 것은 **전면 금지**다. MiCA 발효 이후 유럽 플랫폼의 약 18%가 라이선스 비용 부담을 감당하지 못하고 철수를 선택했다. 명료함을 얻는 대신 혁신의 속도를 일부 희생한 거래였다.
 
-한국은 6개 주요 시중은행이 공동으로 원화 스테이블코인(KRW-SC) 개발에 착수했다. 디지털 자산 기본법이 2026년 하반기 국회 제출을 목표로 한다. 문제는 한국은행과 금융위원회(FSC)의 입장 차이다. 한국은행은 "은행만 발행해야 한다", FSC는 "핀테크도 참여할 수 있다". 이 싸움이 한국판 CLARITY Act 논쟁이다. 미국이 선례를 만들면 한국의 논쟁도 영향을 받는다.
+Circle CSO **단테 디스파르테**는 이 차이를 날카롭게 짚었다.
 
-중국은 DCEP(디지털 위안)를 이미 운영 중이다. 국가가 직접 통화의 디지털화를 주도하는 모델. 스테이블코인의 경쟁 상대는 다른 나라의 스테이블코인만이 아니다. 국가 주도 CBDC도 경쟁자다. CLARITY Act이 CBDC를 의회 승인 없이는 연준이 발행하지 못하도록 명시한 것도 이 맥락에서 읽혀야 한다.
+> *"The United States faces a clear choice in digital assets: lead or be led."*
+> — Dante Disparte, Circle CSO, [CoinDesk](https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup)
 
-미국이 CLARITY Act을 통해 달러 스테이블코인에 법적 명확성을 주면, 달러의 디지털 패권이 강화된다. 반대로 법안이 교착 상태에 빠지면, EU처럼 각국이 자국 규제를 먼저 만들고 달러 스테이블코인을 조건부로만 허용하는 시나리오가 확산될 수 있다.
+EU가 설계한 프레임워크를 미국이 따를 것인가, 아니면 미국이 기준을 만들 것인가. Circle의 USDC는 미국 달러에 연동된 스테이블코인이다. 규제가 어느 방향으로 가느냐에 따라 USDC의 글로벌 위상이 달라진다. 디스파르테의 발언은 사업적 이해관계이기도 하지만, 틀린 말도 아니다.
 
----
+**일본**: 미국보다 더 과감한 시장 친화 실험 중이다. 일본 각의는 2026년 4월 10일, 비트코인·이더리움·XRP 등 **105개 암호화폐**를 금융상품거래법(FIEA)상 금융상품으로 재분류했다. 주식과 같은 법적 지위를 얻은 것이다. 더 눈에 띄는 건 세제 개혁이다. 현행 최고 **55%**인 암호화폐 양도소득세를 주식과 동일한 **단일세율 20%**로 낮추는 방안이 추진되고 있다. 개인 투자자가 1,000만 엔 차익을 냈을 때 내는 세금이 550만 엔에서 200만 엔으로 줄어드는 셈이다. 일본 기관 자금의 크립토 시장 유입을 노린 구조적 전환이다.
 
-## 달러 위에 달러가 온다면, 누구의 달러인가
+**한국**: 투자자 보호에 가장 집중한 모델이다. 2024년 7월 시행된 **가상자산이용자보호법**은 거래소에 고객 보유 암호화폐의 **80% 이상을 콜드 월렛**에 보관하도록 의무화했다. 해킹에 대비한 보험 가입도 강제한다. 시세조종·미공개정보 이용은 형사처벌 대상이다. 국내 투자자를 보호하는 규칙은 갖췄지만, 미국의 CLARITY Act처럼 "이 자산은 증권인가 상품인가"라는 근본적 분류 체계는 아직 논의 단계다.
 
-| 인물 | 포지션 | 원하는 것 | 우려하는 것 |
-|------|--------|---------|-----------|
-| 브라이언 암스트롱 | 찬성 | 스테이블코인 리워드 합법화 | 법안 교착 → Coinbase 경쟁력 약화 |
-| 제레미 알레어 | 찬성 | USDC 리워드 허용 + 법적 명확성 | 민주당 조건 붙여 법안 표류 |
-| 제이미 다이먼 | 조건부 반대 | 스테이블코인 = 은행 수준 규제 | 경쟁사에 유리한 기울어진 규제 운동장 |
-| 엘리자베스 워런 | 반대 | 이해충돌 방지 조항 선행 | 크립토 기업·트럼프 가족의 규제 포획 |
+**싱가포르 MAS**: 아시아 크립토 허브로서 구조적 라이선스 제도를 운영 중이다. 스테이블코인 발행사에 1:1 준비금을 의무화하고, 자금세탁방지(AML) 의무를 엄격히 적용한다. 미국보다 빠르게 제도화했지만, 시장 규모는 비교할 수 없다.
 
-투자자 관점에서 오늘 표결 결과에 따른 시나리오:
-
-**상임위 통과 + 본회의 진행 신호**: $COIN, $CRCL, $SQ, $PYPL 단기 반응 긍정적. BTC $80K 돌파 가속. 기관 자금의 크립토 익스포저 확대 시그널.
-
-**상임위 통과 + 민주당 조건 공방**: 단기 랠리 후 불확실성 지속. 법안 자체보다 60표 싸움이 더 중요. 실질적 통과까지 수개월 추가 소요.
-
-**상임위 교착 + 표결 연기**: $COIN 실망 매도 압력. 크립토 전반 불확실성 재부상. 규제 명확성 프리미엄 해소.
+각국의 공통점은 "규제가 없어서는 안 된다"는 합의다. 차이는 속도와 철학이다. EU는 안전을 먼저 갖추고 성장을 그 다음에 맡겼다. 일본은 법적 지위를 높이고 세금을 낮추며 기관 자금의 문을 열었다. 미국은 10년을 망설이다가, 가장 크고 복잡한 시장에서 가장 복잡한 법안을 만들었다. CLARITY Act가 비판받는 이유도, 신뢰받는 이유도 바로 이 무게 때문이다.
 
 ---
 
-## 머뉴's Advice
+## "예금 이탈"이라는 공포 — 은행 로비가 두려워하는 것
 
-① **$COIN과 $CRCL은 이벤트 드리블로 접근하라.** CLARITY Act 표결 → 본회의 추진 → 서명까지 각 단계가 카탈리스트다. 전부 사지 말고, 각 단계별로 소량 분할 매수. 교착 시 이탈.
+표결 전날 밤, ABA(미국 은행가협회) CEO **롭 니콜스**는 전국 은행 CEO들에게 긴급 서한을 발송했다. 일요일 밤이었다.
 
-② **JPMorgan의 JLTXX 파일링을 보라.** 가장 보수적인 대형 은행이 이더리움에 국채 펀드를 파일링했다. 이것은 크립토 시장의 이벤트가 아니라 전통 금융의 온체인 전환 신호다. $JPM과 함께 기관 자금의 토큰화 채권 생태계 수혜군 전체를 주목하라.
+> *"Without additional changes, we believe the current proposal would unnecessarily incentivize the flight of bank deposits."*
+> — Rob Nichols, ABA CEO, 2026-05-11 긴급 서한, [ABA Banking Journal](https://bankingjournal.aba.com/2026/05/aba-to-senate-refine-clarity-acts-stablecoin-yield-language/)
 
-③ **한국 투자자라면 원화 스테이블코인 관련 입법 속도를 모니터하라.** 미국 CLARITY Act이 통과되면 한국 디지털 자산 기본법 입법 속도도 빨라질 가능성이 높다. 6개 시중은행의 원화 스테이블코인 파트너십과 FSC의 핀테크 참여 허용 여부가 핵심 변수다.
+니콜스의 두려움은 구체적이었다. 현재 스테이블코인 시장은 약 **3,230억 달러**다. ABA가 의뢰한 연구에 따르면, 스테이블코인에 은행 예금과 유사한 이자를 허용하면 이 시장이 최대 **2조 달러**까지 팽창할 수 있다. 한국 GDP(약 1조 7,000억 달러)보다 큰 규모다. ABA, BPI, CBA, FSF, ICBA — 5대 은행 단체가 공동으로 발표한 성명은 더 직접적이었다.
+
+> *"Research indicates that deposit flight driven by the widespread adoption of yield-bearing stablecoins could reduce consumer, small-business, and agricultural lending by one-fifth or more."*
+> — ABA·BPI·CBA·FSF·ICBA 공동 성명, [BPI](https://bpi.com/banking-trades-statement-on-crypto-market-structure-yield-language/)
+
+대출이 20% 이상 줄어든다는 주장이다. 중소기업 자금, 농업 대출, 소비자 신용 — 실물 경제의 혈관이 좁아진다는 경고다.
+
+크립토 측의 반론도 만만치 않다. CLARITY Act의 스테이블코인 yield 조항은 Tillis-Alsobrooks 타협안으로 이미 대폭 좁혀졌다. "bona fide activity"(실질적 활동)에 기반한 보상만 허용하고, 단순히 돈을 맡겨 두는 것에 이자를 주는 건 금지했다. 즉, 플랫폼에서 실제로 결제·이체·담보 제공 등의 활동을 할 때만 보상이 가능하다.
+
+그러나 진짜 문제는 다른 곳에 있다. **"bona fide activity"의 정의가 법안 어디에도 명확하지 않다.** 규제 당국은 나중에 이를 좁게도, 넓게도 해석할 수 있다. 법이 통과된 이후에도 SEC와 CFTC 사이의 관할권 다툼은 여전히 남는다. "Mature Network 테스트"(단일 주체가 토큰의 20% 이상 보유하면 탈중앙화 인정 불가) 역시 경계선이 명확하지 않다. 입법으로 불확실성을 줄이려다가, 새로운 불확실성을 낳을 수 있다는 비판은 가볍게 무시하기 어렵다.
+
+하나 더. 이 법안은 위원회를 통과했지만 상원 본회의에서 **60표(의사진행 방해 차단 기준)**가 필요하다. 공화당은 53석이다. 최소 7명의 민주당 의원이 찬성해야 한다. 오늘 위원회 표결에서 민주당 전원이 반대표를 던진 것으로 알려졌다. Trump 측근 및 가족의 크립토 사업 이해충돌 문제가 민주당의 핵심 반대 근거다. 상원 본회의가 훨씬 더 높은 산이다.
 
 ---
 
-달러 위에 달러가 온다. 문제는 그게 누구의 달러냐다. 오늘 오전 10시 30분 워싱턴의 표결 결과가, 그 첫 번째 답을 쓰기 시작한다. 법안이 통과되건 교착되건, 한 가지는 분명하다 — 스테이블코인 $3,230억 시장은 그 답을 기다리지 않는다. 워싱턴이 머뭇거리는 사이에도, 달러는 이미 온체인에서 분기에 $21.5조씩 흐르고 있다.
+## 머뉴가 본 투자 시사점
+
+오늘 위원회 통과는 결승점이 아니라 반환점이다. 그러나 시장은 이미 반응하고 있다. BTC는 표결 전후 $79,000~$80,000선을 유지하며 숨을 고르고 있고, Circle($CRCL) 주가는 타협안 발표 이후 18~20% 급등한 수준을 유지 중이다.
+
+**통과 시 수혜주**:
+- **$COIN (Coinbase)**: 규제 명확화 시 커스터디, 스테이킹, 거래소 사업의 법적 근거가 확고해진다. 스테이블코인 yield 사업도 "bona fide activity" 프레임 안에서 확장 가능하다. 단, 60표 통과까지 남은 과정이 6~12개월 더 걸릴 수 있다는 점에서 단기 모멘텀 vs 장기 펀더멘털 플레이의 구분이 필요하다.
+- **$BTC, $ETH**: 법적 지위가 명확해질수록 연기금·보험사 등 보수적 기관 자금의 유입 경로가 넓어진다.
+
+**위험 시나리오**:
+- 상원 본회의 60표 미달 → 2026년 하반기로 재시도, 심하면 2027년
+- 민주당의 크립토 이해충돌 윤리 수정안 일부 수용 시 법안 내용 희석
+- "bona fide activity" 규정의 사후 해석 분쟁
+
+**한국 투자자 시각**: 미국 규제 명확화는 글로벌 기관 자금 유입을 촉진하고, 이는 한국 시장에도 긍정적인 크립토 환경을 만든다. 국내 거래소에서 $BTC·$ETH 비중으로 간접 노출이 가능하다.
+
+---
+
+## 머뉴's Advice 🎯
+
+**① 위원회 통과는 레이스의 중반 — 서두르지 말 것**
+$COIN 같은 크립토 관련 주식에 신규 포지션을 구축한다면, 상원 본회의(60표 클로처) 표결 일정이 잡힐 때까지 분할 매수 전략이 합리적이다. 위원회 통과 = 확정이 아님. 민주당 반대 심화, 트럼프 이해충돌 이슈 재부각 시 변동성 대비가 필요하다.
+
+**② 이벤트보다 방향성에 베팅 — $BTC 장기 관점**
+법안의 단기 불확실성보다 더 중요한 트렌드는 방향성이다. 일본 세제 개편, EU MiCA 완비, 한국 이용자보호법, 미국 GENIUS Act + CLARITY Act — 전 세계 규제가 크립토를 금융 시스템 안으로 끌어들이는 방향으로 수렴하고 있다. 이 구조적 방향성에 투자하는 관점이 단기 이벤트 플레이보다 유효하다.
+
+**③ 지금 비중 높다면 — 60표 확인 전까지 추가 매수 자제**
+상원 본회의 표결 전까지 크립토 관련 주식에 추가 매수보다 홀딩이 합리적이다. 9월 예산 시즌 전후로 본회의 표결 일정이 잡힐 가능성이 높다. 진짜 확신은 60표를 확인한 이후다.
+
+---
+
+미국이 오늘 선택한 건 완벽한 규칙이 아니라, 불완전하더라도 규칙이 있는 세계였다. 그 세계에서 누가 이길지는 아직 열려 있다. 하지만 확실한 건 하나 — 규칙 없는 세계에서 가장 많이 잃었던 것도 투자자였다.
 
 ---
 
 ## 출처
 
-- [BusinessWire](https://www.businesswire.com/news/home/20260511188445/en/Circle-Reports-First-Quarter-2026-Results) — Circle Q1 2026 공식 실적 발표 (1차 자료)
-- [Senate Banking Committee](https://www.banking.senate.gov/newsroom/minority/warren-statement-on-no-trump-ethics-provision-in-crypto-bill) — Warren 상원의원 공식 성명 (1차 자료)
-- [White House](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/) — GENIUS Act 서명 팩트시트 (1차 자료)
-- [SEC.gov](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) — SEC·CFTC 공동 크립토 분류 해석 릴리즈 2026년 3월 (1차 자료)
-- [CFTC.gov](https://www.cftc.gov/PressRoom/PressReleases/9198-26) — CFTC 보도자료 (1차 자료)
-- [Congress.gov](https://www.congress.gov/bill/119th-congress/house-bill/3633/text) — CLARITY Act H.R.3633 법안 원문 (1차 자료)
-- [OCC.gov](https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-3.html) — OCC GENIUS Act 시행 규정 입안예고 (1차 자료)
-- [CoinDesk](https://www.coindesk.com/markets/2026/04/06/jamie-dimon-says-jpmorgan-must-move-faster-as-tokenization-reshapes-finance) — Jamie Dimon 주주서한 발언
-- [CoinDesk](https://www.coindesk.com/policy/2026/03/03/jp-morgan-ceo-jamie-dimon-says-stablecoin-issuers-paying-interest-should-be-regulated-as-banks) — Dimon 스테이블코인 이자 규제 발언 (CNBC 2026년 3월)
-- [CCN](https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/) — CLARITY Act 5/14 표결 상세
-- [LatestLY](https://www.latestly.com/business/bitcoin-price-today-may-14-2026-btc-price-rises-to-usd-79549-as-bullish-momentum-targets-major-resistance-level-7429073.html) — Bitcoin 2026년 5월 14일 가격
-- [BanklessTimes](https://www.banklesstimes.com/articles/2026/05/13/jpmorgan-files-for-ethereum-based-tokenized-money-market-fund-ticker-jltxx/) — JPMorgan JLTXX 파일링
-- [Vaultody](https://vaultody.com/blog/296-what-mica-means-for-tether-usdt-delistings-custody-and-the-future-of-stablecoins-in-the-eea) — EU MiCA·USDT 상장 폐지
-- [Korea Times](https://www.koreatimes.co.kr/economy/cryptocurrency/20260414/stablecoin-moment-why-the-won-is-about-to-reshape-digital-finance-in-asia) — 한국 원화 스테이블코인 동향
-- [CoinLedger](https://coinledger.io/research/stablecoin-market-share-and-transaction-volume) — 스테이블코인 시장 성장 역사
+- [Congress.gov — H.R.3633 CLARITY Act 전문](https://www.congress.gov/bill/119th-congress/house-bill/3633/text)
+- [Congress.gov — CRS 법안 개요 IN12583](https://www.congress.gov/crs-product/IN12583)
+- [Senate Banking Committee — Section-by-Section (2026-05-12)](https://www.banking.senate.gov/imo/media/doc/section-by-section.pdf)
+- [White House — GENIUS Act Fact Sheet (2025-07-18)](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/)
+- [ABA·BPI Joint Trades Letter — Section 404 (2026-05-08)](https://bpi.com/wp-content/uploads/2026/05/Joint-Trades-Letter-Section-404-of-the-CLARITY-Act-05.08.26.pdf)
+- [BPI — Banking Trades Statement](https://bpi.com/banking-trades-statement-on-crypto-market-structure-yield-language/)
+- [CFTC.gov — SEC-CFTC Joint Guidance (2026-03-17)](https://www.cftc.gov/PressRoom/PressReleases/9198-26)
+- [Korea FSC — Virtual Asset User Protection Act](https://www.fsc.go.kr/eng/pr010101/82683)
+- [Finance Magnates — Japan FIEA 20% tax reform](https://www.financemagnates.com/cryptocurrency/regulation/japan-plans-20-crypto-tax-reclassifies-digital-assets-as-financial-products/)
+- [Sumsub — MiCA 2026](https://sumsub.com/blog/crypto-regulations-in-the-european-union-markets-in-crypto-assets-mica/)
+- [CoinLaw — MiCA exchange exit statistics](https://coinlaw.io/crypto-exchanges-under-mica-regulations-statistics/)
+- [Semafor — Kennedy deal (2026-05-13)](https://www.semafor.com/article/05/13/2026/key-republican-senator-removes-roadblock-to-crypto-bill)
+- [BeinCrypto — Kennedy yes vote](https://beincrypto.com/kennedy-clarity-act-senate-markup-vote/)
+- [The Block — 100+ amendments](https://www.theblock.co/post/401074/senate-banking-members-file-clarity-act-amendments)
+- [CoinDesk — banking groups escalate](https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote)
+- [CoinDesk — yield compromise](https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield)
+- [CoinDesk — crypto industry backs deal](https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup)
+- [Fox Business — Armstrong "true compromise"](https://www.foxbusiness.com/media/coinbase-ceo-says-crypto-bill-could-transform-us-financial-system-senate-vote-approaches)
+- [x.com/brian_armstrong — "It's time"](https://x.com/brian_armstrong/status/2042395055349231820)
+- [x.com/brian_armstrong — GENIUS + CLARITY](https://x.com/brian_armstrong/status/1945945103085998581)
+- [Arnold & Porter — CLARITY Act analysis](https://www.arnoldporter.com/en/perspectives/advisories/2025/08/clarifying-the-clarity-act)
+- [ABA Banking Journal — stablecoin yield letter](https://bankingjournal.aba.com/2026/05/aba-to-senate-refine-clarity-acts-stablecoin-yield-language/)
+- [KuCoin — stablecoin $320B milestone](https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026)
+- [CCN — US crypto regulation history](https://www.ccn.com/education/crypto/17-years-of-chaos-us-crypto-regulation-history-genius-clarity-anti-cbdc-acts/)
+- [Fintech News SG — APAC crypto regulation 2026](https://fintechnews.sg/123854/crypto/apac-crypto-regulation-2026-compliance-guide/)
+- [CoinDesk — CLARITY Act liveblog 2026-05-14](https://www.coindesk.com/policy/2026/05/14/live-senate-banking-committee-holds-key-hearing-to-advance-clarity-act)

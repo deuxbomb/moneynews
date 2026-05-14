@@ -115,3 +115,12 @@
 - 카탈리스트: 5/14 10:30 AM ET 상원 은행위원회 마크업 투표 (오늘 실시간 이벤트)
 - 주요 인사: Armstrong(Coinbase), Garlinghouse(Ripple), Tillis(공화당), Gillibrand(민주당), Citi 애널리스트
 - 다양성: 지난 7일 핀테크/크립토 [DEEP] 0건 → 완전 신선 ✅
+
+## 2026-05-14 14:00 [DEEP] (테마 클러스터: 핀테크/결제/크립토, 유형: 🎤 보이스 컴필)
+- 제목: 309페이지가 바꿀 것들 — Coinbase는 환호, 은행은 분노, 상원은 결정했다
+- 테마 유형: 보이스컴필 (주요 인사 발언 3개+ 교차 분석)
+- 핵심 주제: 2026-05-14 미국 상원 금융위원회의 디지털자산시장 CLARITY Act 마크업 표결을 중심으로, 찬성 진영(Brian Armstrong/Coinbase, Dante Disparte/Circle), 반대 진영(Rob Nichols/ABA + 5대 은행 연합), 타협 진영(Tim Scott, Kennedy)의 충돌하는 발언을 교차 분석. 10년 미국 크립토 규제 역사(2015~2026)와 EU MiCA·일본·한국·싱가포르 국제 비교 포함.
+- 다룬 종목/기업: $COIN (Coinbase), $BTC, $ETH, Circle(CRCL)
+- 핵심 주장/결론: 위원회 통과(13R-11D)는 절반의 성공 — 상원 본회의에서 60표 클로처가 진짜 산. 단기보다 "전 세계 규제의 크립토 흡수 방향성"에 베팅하는 장기 관점이 유효.
+- 1차 자료 출처: Congress.gov H.R.3633 × 1, ABA·BPI 공동 서한(2026-05-08) × 1, Senate Banking Committee Section-by-Section × 1, White House GENIUS Act Fact Sheet × 1, Japan Cabinet FIEA 각의(2026-04-10) × 1, Korea FSC VAUPA × 1, SEC-CFTC Joint Guidance(2026-03-17) × 1 (총 7건)
+- 판정: Minor (4개 개선점 반영 — 294대 134 초당적 맥락 추가, EU 18% 출처 보강, 마지막 문장 투자자 관점 강화, 숫자 맥락화)
