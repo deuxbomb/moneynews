@@ -1,40 +1,49 @@
+---
+
+💳 규제의 시간이 왔다 — 오늘 CLARITY Act, JPMorgan 이더리움, 슈왑 크립토가 한꺼번에 터졌다
 
 ---
 
-## 📰 오늘의 뉴스 — 12시간 이내 검증 기사
+[증시 포인트] 🌐 역사적 미중 정상회담 1일차: 반도체·AI·농업까지 다 나왔다
 
-### 💼 "두 배 서프라이즈" — NFP가 시장의 방향을 바꿨다
-
-4월 비농업고용(NFP)이 +115,000명을 기록하며 월가 컨센서스(~62,000명)를 두 배 가까이 상회했다. 실업률 4.3%로 안정. 미국 노동시장이 "식어가고 있지만 여전히 탄탄하다"는 신호다. 프리마켓은 즉각 반응했다 — S&P 500 선물 +0.6%, 나스닥 +0.9%, 다우 +0.4%. 석 달간의 고용 걱정을 한 방에 날린 이 숫자가 오늘 밤 뉴욕 장 개장의 기조를 결정한다. 단, 강한 고용이 Fed 금리인하를 늦출 것이라는 해석도 동시에 나오고 있다. 채권 금리 움직임을 함께 봐야 한다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
+10년 만에 미국 현직 대통령이 베이징을 밟았다. 트럼프 대통령이 이끄는 미국 대표단에는 일론 머스크(테슬라·스페이스X), 젠슨 황(엔비디아), 팀 쿡(애플)이 포함됐다 — 단순한 무역 협상이 아니라 AI 시대의 기술 패권을 놓고 벌이는 협상이었다. 1일차 결과는 예상보다 구체적이었다. 중국은 미국 농산물·에너지·항공기 구매 확대에 합의했고, 호르무즈 해협 개방 필요성에도 동의했다. 시진핑은 CEO 만찬에서 "중국의 문이 더 넓게 열린다"고 선언했다. 그리고 가장 중요한 결과 — 미국이 알리바바·바이트댄스·텐센트·JD.com·레노버·폭스콘 등 중국 10개 기업에 NVDA H200 칩을 각 최대 7만5천 개까지 구매할 수 있는 허가를 내줬다. S&P 500 선물 +0.3%, 나스닥 100 +0.2%로 화답했다. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran)
 
 ---
 
-### 💊 금요일 테마: 헬스케어 — "몸이 가장 비싼 자산이다"
+[오늘 테마: 핀테크/결제/크립토] 💳 목요일이 이렇게 핀테크/크립토로 가득 찬 날은 드물다
 
-**① $LLY 간독성 공방 — 애널리스트들이 막아섰다**
-FDA 이상반응 데이터베이스에 Foundayo(orforglipron) 관련 간부전 1건이 등록되면서 릴리 주가는 프리마켓에서 -3%까지 밀렸다. 하지만 월가는 흔들리지 않았다. 릴리는 "7개 Phase 3 트라이얼, 11,000명 이상 임상에서 간 이상 신호 제로"라고 반박했고, FDA도 현재 추가 데이터 요청 수준에 머물고 있다. 분석가들은 "케이스 1개는 통계적으로 신호가 아니다"라며 오히려 저점 매수를 권고했다. Q1 매출 $19.8B(+56%), 연간 가이던스 $82~85B — 실적이 안전 논란을 압도하는 흐름이다. [The Street](https://www.thestreet.com/investing/stocks/eli-lilly-stock-swings-after-fda-liver-failure-report-for-glp-1-drug) · [BioSpace](https://www.biospace.com/drug-development/foundayos-liver-failure-blip-weighs-down-lilly-shares-but-analysts-unconcerned)
+**1. CLARITY Act — 암호화폐 규제 10년 공백의 끝이 오나**
 
-**② $CYTK 심장 임상 성공 — FDA 신청 카운트다운**
-Cytokinetics의 ACACIA-HCM Phase 3가 지난 5일 두 개의 1차 엔드포인트를 모두 충족했다. 비폐쇄성 비대성 심근증(nHCM) 환자 276명에서 삶의 질(KCCQ) 및 운동 능력(pVO2)을 통계적으로 유의미하게 개선했다. Truist는 목표가를 $106으로 상향했다. 회사는 FDA 및 글로벌 규제당국과의 협의를 시작해 NDA 제출을 준비한다. MYQORZO가 폐쇄성 HCM 시장에서 이미 수익을 내고 있다는 점에서 이번 적응증 추가는 매출을 2배 이상 확장시킬 수 있다. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/05/3287549/35409/en/cytokinetics-announces-positive-topline-results-from-acacia-hcm-the-pivotal-phase-3-clinical-trial-of-aficamten-in-patients-with-non-obstructive-hypertrophic-cardiomyopathy.html)
+오늘 오전 10:30 ET, 미 상원 은행위원회가 309페이지 분량의 디지털자산 시장 명확화 법안(CLARITY Act) 조문별 심의를 시작했다. 이 법안은 단순한 규제 문건이 아니다. BTC와 ETH의 증권/상품 분류를 공식 확정하고, SEC와 CFTC의 관할 영역을 나누며, 스테이블코인 수익률 제한 규정을 포함한다. 표결 구도는 공화당 13 대 민주당 11 — 공화당 전원 찬성이 필요하다. 아직 공개 입장을 밝히지 않은 케네디 의원(R-LA)이 캐스팅 보트다. 시티 애널리스트는 통과 시 BTC ETF에 추가 $150억 순유입과 2026년 목표가 $143,000을 유지하고 있다. 폴리마켓 통과 확률: 69%(이전 80%에서 하락, 은행 로비와 민주당 반발 반영). 비트코인은 현재 $79,200에서 관망 중. $550M 규모의 BTC 숏 포지션이 $79K~$82K 구간에 쌓여 있어 통과 시 숏스퀴즈 시나리오가 나올 수 있다. [CCN](https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/)
 
-**③ NFP 헬스케어 +37,000명 — 섹터 성장세 현실 확인**
-4월 고용에서 가장 많은 일자리를 만든 업종은 헬스케어(+37,000명)였다. 미국 인구 고령화와 의료 수요 증가가 구조적 트렌드로 자리 잡았음을 보여준다. 병원, 외래 진료, 요양 시설 모두 채용을 늘리고 있다. $OHI(Omega Healthcare REIT)와 같은 헬스케어 인프라 종목에도 긍정적 신호다. [Yahoo Finance](https://finance.yahoo.com/economy/live/bls-jobs-report-friday-may-8-jolts-142101464.html)
+**2. JPMorgan, 이더리움 위에 미국 국채펀드를 올렸다 — JLTXX 공식 출시**
 
----
+J.P. Morgan Asset Management가 오늘 두 번째 토크나이즈드 머니마켓 펀드 "JLTXX"를 이더리움 퍼블릭 블록체인에 정식 출시했다. 운용 자산: 미국 국채 + 담보부 환매조건부채권(Repo). 초기 투자금 $1억, 앤커리지 디지털 참여. 설계 목적이 흥미롭다 — GENIUS Act(스테이블코인 법안)가 요구하는 '적격 준비금 자산' 기준을 충족하도록 설계됐다. 즉, 스테이블코인 발행사가 JLTXX를 담보로 보유할 수 있다. 관리는 JP모건 자체 블록체인 사업부 Kinexys Digital Assets. 작년 출시한 MONY 펀드에 이어 두 번째 이더리움 토크나이즈드 상품이다. 전통 금융이 블록체인 인프라를 '어쩔 수 없이'가 아닌 '전략적으로' 쓰기 시작한 전환점이다. [CoinDesk](https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up)
 
-### 🏢 기업 뉴스
+**3. 찰스 슈왑, $11.77조 달러 고객을 스팟 크립토로 데려왔다**
 
-**$TSLA | "Frost Blue와 Marine Blue — 테슬라가 하늘을 팔기 시작했다"**
-테슬라가 오늘 Model Y와 Model 3 고급형 트림에 두 가지 새 블루 색상(Frost Blue Metallic, Marine Blue)을 출시했다. 기존 Deep Blue Metallic을 대체하는 이 색상들은 소비자 선택지를 다양화하는 제품 라인업 강화 전략의 일환이다. 한편 Cybercab과 Semi, Megapack 3는 2026년 양산 일정이 예정대로 진행 중이다. 주가는 +3.28%로 반등 중 — 얼마 전 대규모 리콜 공시에도 흔들리지 않았던 내성이 오늘도 작동하고 있다. [Tesla Oracle](https://www.teslaoracle.com/2026/05/08/tesla-launches-new-blue-colors-for-model-y-and-model-3-upper-trims/)
-
-**$NVDA | "12일 후, 진짜 시험이 온다"**
-NVDA가 프리마켓에서 +0.9%($213.40) 상승 중이다. 시장의 시선은 이미 5월 20일 Q1 FY27 어닝에 쏠려 있다. 핵심 체크포인트는 세 가지: ① Blackwell GPU 수요가 예상대로 폭발적인가, ② 중국 수출 규제 강화가 매출에 얼마나 영향을 주는가, ③ 하이퍼스케일러(GOOGL·MSFT·META·AMZN)의 데이터센터 capex가 NVDA에 실질적으로 얼마나 떨어지는가. 최근 Micron(MU)이 주간 +25% 랠리로 신고가를 기록한 것도 반도체 섹터 전반의 기대감을 높이는 요인이다. [Yahoo Finance](https://finance.yahoo.com/quote/NVDA/)
-
-**$COIN | "시장 점유율 최고치, 순익은 최저치"**
-코인베이스가 5월 7일 장 마감 후 Q1 2026 실적을 공개했다. 매출 $1.41B — 예상($1.48B)을 하회했고, GAAP 순손실은 $394M($1.49/주). BTC 보유 자산의 미실현 손실($482M)이 주요 원인이다. 그러나 조정 EBITDA는 $303M으로 13분기 연속 흑자를 유지했다. 역설적으로 거래량 기준 시장 점유율은 사상 최고인 8.6%를 기록했다. 오늘 주가는 -2.53%($192.96) 마감. 오늘 저녁 어닝콜에서 CEO 암스트롱이 제시할 Q2 가이던스와 비용 절감 로드맵이 주가 방향을 결정한다. [CoinDCX](https://coindcx.com/blog/us-stock/coinbase-q1-2026-earnings-results/)
+어제(5/13) 찰스 슈왑이 미국 소매 고객 대상 비트코인·이더리움 스팟 직접 거래를 공식 시작했다. 숫자부터 압도적이다: 활성 계좌 3,910만 개, AUM $11.77T — 월스트리트 최대 브로커리지의 크립토 직접 진출이다. 수수료 75bp/거래, 커스터디는 슈왑 프리미어 뱅크와 팩소스 공동. 뉴욕·루이지애나 제외 전 주 가능. 코인베이스·로빈후드·크라켄에 맞선 전통 금융의 선전포고다. 슈왑이 들어왔다는 건, 크립토가 더 이상 '니치 자산'이 아니라는 금융 산업의 공식 선언이기도 하다. [CoinDesk](https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail)
 
 ---
 
-### 🤖 "로봇이 코스피를 구했다" — 보스턴 다이내믹스·현대차그룹의 하루
+[기업 뉴스] 🏢 와치리스트 핵심 업데이트
 
-오늘 한국 증시의 주인공은 단연 현대차그룹이었다. 보스턴 다이내믹스가 공개한 아틀라스 '개발형 모델' — 공중 회전과 체조 동작을 수행하는 양산형 휴머노이드 로봇 — 이 글로벌 반향을 일으키면서 현대오토에버 +29.97%, 현대모비스 +22.42%, 현대차 +7.17%, 기아 +4.38%의 폭등을 연출했다. 여기에 보스턴 다이내믹스의 나스닥 IPO 결정 시한이 6월 말로 임박했다는 소식이 맞물리며 기대감이 증폭됐다. 2028년 조지아 HMGMA(현대차그룹 메타플랜트 아메리카) 배치 계획이 구체화되면서 "현대차는 이제 EV 회사가 아닌 로봇 회사"라는 내러티브가 빠르게 자리를 잡고 있다. [스마트비즈](https://www.smartbizn.com/news/articleView.html?idxno=143450) · [헤럴드경제](https://biz.heraldcorp.com/article/10734016)
+**$TSLA 베를린 $250M 확장 + 중국 FSD 추진**
+
+테슬라가 베를린 기가팩토리 배터리셀 생산 능력을 8GWh에서 18GWh로 두 배 이상 늘리는 데 $2.5억을 투자한다. 일자리 1,500개 이상 추가, 모델 Y 생산량은 7월부터 +20% 증가. 동시에 일론 머스크는 정상회담에서 FSD 중국 규제 승인을 직접 추진 중이다. FSD 구독자가 이미 128만 명(+51% YoY)을 기록한 상황에서 중국 시장까지 열리면 완전히 새로운 수익 엔진이 켜진다. Q1 실적은 이미 서프라이즈 수준이었다: EPS $0.41(컨센서스 $0.3592 대비 +14% 비트), 매출 $22.39B(+15.78% YoY), 자동차 부문 매출총이익률 21.1%(전년 16.2%에서 급반등). [Yahoo Finance](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-ahead-of-trump-xi-summit-223230477.html)
+
+**$NVDA H200, 드디어 중국으로 향한다**
+
+미국이 알리바바·바이트댄스·텐센트·JD.com·레노버·폭스콘 등 중국 기업 10곳에 H200 AI 칩 수출을 허가했다. 고객당 최대 7만5천 개. 젠슨 황은 "트럼프 대통령이 직접 초청해 베이징에 동행하게 됐다"고 밝혔다. 이 뉴스에 NVDA는 6일 연속 상승 중이며, 시가총액이 $5.5T를 돌파했다. 단, 실제 출하는 중국 바이어들이 내부 지침 및 화웨이 어센드 대안 검토를 마친 뒤라 즉각적 배송량은 아직 0에 가깝다 — 시장은 기대를 선반영하는 중이다. [CNBC](https://www.cnbc.com/2026/05/14/trump-xi-meeting-china-stocks-ai-rally.html)
+
+**$GOOGL SpaceX와 우주 데이터센터 논의**
+
+구글과 스페이스X가 우주 궤도 데이터센터 공동 구축을 논의 중이라는 보도가 5/12 흘러나왔다. Google Cloud Q1이 이미 +63%를 기록한 상황에서 인프라 확장의 다음 프런티어를 지구 바깥에서 찾겠다는 시도다. 알파벳 시총은 오늘 $4.88T를 넘어섰다.
+
+---
+
+[흥미로운 이야기] 💡 감원 발표가 주가를 올린 날
+
+**시스코 +19% — 4,000명 해고가 곧 AI 성장 선언이었다**
+
+시스코가 어젯밤 4,000명 감원을 발표하며 주가가 +19% 폭등했다. 역설처럼 보이지만 투자자들은 다르게 읽었다. 구조조정의 목적이 비용 절감이 아니라 AI 인프라 피벗에 집중하기 위한 자원 재배치였기 때문이다. Q3 실적이 이를 뒷받침했다: 매출 $15.84B(+12% YoY, 컨센서스 $15.56B 비트), EPS $1.06(컨센서스 $1.04 비트). AI 인프라 수주는 FY2026 누적 $5.3B을 기록했고, 연간 목표를 기존 $5B에서 $9B으로 80% 상향했다. AI 관련 매출 가이던스도 $3B에서 $4B으로 올렸다. CEO 척 롭스는 "우리는 인류 역사상 가장 역동적인 기술 인프라 환경을 살고 있다"고 표현했다. CSCO는 오늘부로 AI 인프라 투자의 '픽앤샤블' 후보 목록에 공식 등재됐다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/cisco-q3-2026-earnings-beat-112834347.html)
