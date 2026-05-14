@@ -1,156 +1,202 @@
-# 309페이지가 바꿀 것들 — Coinbase는 환호, 은행은 분노, 상원은 결정했다
-
-**2026-05-14 | 테마: 핀테크/크립토 | 유형: 🎤 보이스 컴필**
-
----
-
-## 10:30 AM ET, 워싱턴 더크슨 빌딩 524호실
-
-오늘 아침 워싱턴 더크슨 상원 청사 524호실 테이블 위에는 309페이지짜리 법안 묶음이 쌓여 있었다. 미국 역사상 처음으로 디지털 자산 시장 전체의 규제 구조를 단일 법안에 담은 문서였다. 이름은 **디지털자산시장 CLARITY(명료성) Act**. 위원회 의장 팀 스콧(공화, 사우스캐롤라이나)이 의사봉을 두드리며 10:30 AM ET 마크업 세션을 개시했다.
-
-방 안에 앉아 있는 24명 의원 중 가장 많은 눈길이 쏠린 건 루이지애나 출신 공화당 의원 **존 케네디**였다. 지난 수개월 동안 CLARITY Act의 마지막 미결 열쇠를 쥔 인물이었다. 케네디는 전날(5/13) 드디어 찬성을 확약했다 — 조건이 있었다. 크립토 업계 종사자에게 의뢰인 이익 우선 의무인 "수탁 의무(fiduciary duty)" 조항을 법안에 넣고, 자신이 엘리자베스 워런과 공동 발의한 주택 공급 촉진 법안 "BUILD NOW Act"를 패키지에 포함시켜 달라는 것이었다. 팀 스콧 의장은 수락했다. 크립토 법안 안에 주택법이 끼어든 것이다. 미국 입법의 거래가 이렇게 작동한다. 케네디가 찬성으로 돌아서자, 예측 시장 폴리마켓에서 CLARITY Act의 2026년 통과 확률이 62%에서 73%로 뛰었다.
-
-130개 이상의 수정안이 테이블에 올라와 있었다. 스테이블코인 이자, DeFi 면제 조항, Trump 가족 크립토 자산 이해충돌 윤리 조항까지 민주당이 제출한 수정안만 수십 개였다. 그러나 공화당 13석 대 민주당 11석 구도에서, 공화당 전원이 결집한 이상 법안은 표결 전부터 기울어져 있었다. 스콧 의장은 마크업 개시 발언에서 말했다.
-
-> *"This is what good governance looks like today."*
-> — Tim Scott, Senate Banking Committee Chair, 2026-05-14
-
-상원 금융위원회는 오늘 CLARITY Act를 통과시켜 상원 본회의로 넘겼다. 미국 크립토 업계가 10년 이상 기다려 온 시장 구조법이 문을 하나 더 통과한 날이었다.
+🔔 코스피 7,981 사상 최고 — 8,000의 벽 앞에서, 오늘 밤 두 개의 역사가 열린다
+머뉴 MoneyNews 오후 브리핑 | 2026년 5월 14일(목) | 돈이 되는 모든 것에 대한 소식
 
 ---
 
-## 10년의 기다림이 낳은 목소리들
+🇰🇷 오늘 한국 장 마감
+코스피 7,981.41 (+1.75%) / 코스닥 1,191.09 (+1.20%) / 원달러 1,492.01원
 
-미국 크립토 규제의 역사를 한 줄로 요약하면 이렇다: **10년의 진공, 4년의 전쟁, 1년의 화해, 오늘의 법안.**
-
-2015년 CFTC는 비트코인을 공식적으로 "상품(commodity)"으로 분류했다. 그러나 이것은 규제의 시작이 아닌 법적 애매함의 출발점이었다. SEC는 ICO 토큰을 증권으로 보아 집행을 강화했고, CFTC는 선물·파생상품에 대한 권한을 주장했다. 두 기관이 같은 자산을 두고 다른 규칙을 적용하는 동안, 업계는 어느 문을 두드려야 하는지조차 알 수 없었다.
-
-게리 겐슬러가 SEC 의장이 된 2021년부터 2024년까지는 규제가 아닌 전쟁이었다. Coinbase, Ripple, Kraken, Gemini — 미국 크립토 산업의 대표 기업들이 줄줄이 SEC 제재를 받았다. 겐슬러 체제에서 SEC는 **100건 이상**의 크립토 업체 제재를 단행했다. 이 기간에 Coinbase는 미등록 증권 거래소라는 혐의로 고소를 당한 채, 동시에 SEC에 등록을 신청했다가 거절당하는 기묘한 상황을 겪었다.
-
-전환은 2025년 1월에 왔다. 겐슬러가 사임했다. Paul Atkins가 4월 21일 새 SEC 의장으로 취임하면서 "집행 대신 규칙 제정"으로 기조가 바뀌었다. 2025년 7월 18일, 트럼프 대통령이 세계 최초의 연방 스테이블코인법 **GENIUS Act**에 서명했다. 상원 **68대 30**, 하원 **308대 122**의 압도적 양당 찬성이었다.
-
-그날 Coinbase CEO **브라이언 암스트롱**은 이렇게 썼다.
-
-> *"Huge! GENIUS ready to be signed into law. CLARITY heading the senate next. We are getting incredibly close to finally having clear rules for crypto to grow this industry in the United States of America."*
-> — Brian Armstrong, Twitter/X
-
-10년 동안 쌓인 업계의 기다림이 한 문장에 담겨 있었다. GENIUS Act는 절반이었다. 스테이블코인만 다뤘다. 나머지 절반, 즉 "이 코인은 증권인가 상품인가"라는 질문에 답하는 법안이 바로 CLARITY Act였다.
-
-2026년 3월 17일, SEC와 CFTC는 공동 해석 가이던스를 발표하며 비트코인, 이더리움을 포함한 16개 주요 크립토를 디지털 상품으로 공식 분류했다. 행정부 차원의 판단이었다. CLARITY Act는 그 판단에 **의회의 법적 효력**을 부여하는 법안이다. 오늘 위원회를 통과하기까지, CLARITY Act는 2025년 7월 하원에서 **294대 134**로 통과됐다. 전체 435석 중 3분의 2에 가까운 지지였다. 극도로 당파적으로 분열된 워싱턴에서 이례적인 초당적 표결 — 크립토만이 공화당과 민주당을 일부 묶을 수 있다는 신호였다.
-
-암스트롱은 오늘 표결을 앞두고 공개 발언에 나섰다.
-
-> *"This is a true compromise — we met the asks of the bank lobby and the Senate."*
-> — Brian Armstrong, Fox Business
-
-인정하고 싶지 않겠지만, Coinbase는 양보했다. 스테이블코인 yield에 대한 초기 주장을 일부 철회했다. 그 대신 규제 진공 상태보다 타협된 프레임워크를 선택했다. 10년 만에 얻은 진전이 그만큼의 가치가 있다고 판단한 것이다.
+코스피가 7,981 사상 최고로 마감했다. 8,000이라는 심리적 관문까지 단 19포인트. 삼성전자가 +4.23% 급등하며 지수 상승을 이끌었고, 트럼프-시진핑 베이징 정상회담 1일차 결과가 "좋은 회의"로 마무리됐다는 소식에 반도체·수출주에 기대감이 몰렸다. SK하이닉스는 소폭 조정(-0.30%)을 보였지만 지수 전반은 안도 랠리. KB증권은 오늘 코스피 연간 목표를 기존 7,500에서 무려 10,500으로 40% 대폭 상향하며 "코스피 상장사 영업이익이 올해 919조원으로 전년 대비 3배 증가할 것"이라 전망했다. [Korea Times](https://www.koreatimes.co.kr/economy/others/20260514/kospi-closes-at-new-high-inches-closer-to-8000-mark)
 
 ---
 
-## 세계는 이미 움직였다 — 미국만 늦었나, 신중했나
+🇺🇸 미국 프리마켓
+선물: S&P 500 +0.3% / 나스닥 100 +0.2% / WTI $101.0/배럴 / BTC $79,200(-1.5%)
 
-워싱턴이 오늘 표결을 준비하는 동안, 세계 다른 나라들은 이미 자기 길을 걷고 있었다.
-
-**유럽연합(EU)**: 2024년 12월, EU의 암호화폐 규제법 **MiCA(Markets in Crypto-Assets)**가 완전 발효됐다. 2026년 7월 1일부터는 EU에서 영업하는 모든 가상자산 서비스 사업자(1,200여 곳)가 CASP 라이선스를 의무 보유해야 한다. MiCA는 미국 CLARITY Act와 철학적 출발점이 다르다. EU는 **선(先)규제, 후(後)허용** 방식이다. 특히 스테이블코인에 이자를 지급하는 것은 **전면 금지**다. MiCA 발효 이후 유럽 플랫폼의 약 18%가 라이선스 비용 부담을 감당하지 못하고 철수를 선택했다. 명료함을 얻는 대신 혁신의 속도를 일부 희생한 거래였다.
-
-Circle CSO **단테 디스파르테**는 이 차이를 날카롭게 짚었다.
-
-> *"The United States faces a clear choice in digital assets: lead or be led."*
-> — Dante Disparte, Circle CSO, [CoinDesk](https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup)
-
-EU가 설계한 프레임워크를 미국이 따를 것인가, 아니면 미국이 기준을 만들 것인가. Circle의 USDC는 미국 달러에 연동된 스테이블코인이다. 규제가 어느 방향으로 가느냐에 따라 USDC의 글로벌 위상이 달라진다. 디스파르테의 발언은 사업적 이해관계이기도 하지만, 틀린 말도 아니다.
-
-**일본**: 미국보다 더 과감한 시장 친화 실험 중이다. 일본 각의는 2026년 4월 10일, 비트코인·이더리움·XRP 등 **105개 암호화폐**를 금융상품거래법(FIEA)상 금융상품으로 재분류했다. 주식과 같은 법적 지위를 얻은 것이다. 더 눈에 띄는 건 세제 개혁이다. 현행 최고 **55%**인 암호화폐 양도소득세를 주식과 동일한 **단일세율 20%**로 낮추는 방안이 추진되고 있다. 개인 투자자가 1,000만 엔 차익을 냈을 때 내는 세금이 550만 엔에서 200만 엔으로 줄어드는 셈이다. 일본 기관 자금의 크립토 시장 유입을 노린 구조적 전환이다.
-
-**한국**: 투자자 보호에 가장 집중한 모델이다. 2024년 7월 시행된 **가상자산이용자보호법**은 거래소에 고객 보유 암호화폐의 **80% 이상을 콜드 월렛**에 보관하도록 의무화했다. 해킹에 대비한 보험 가입도 강제한다. 시세조종·미공개정보 이용은 형사처벌 대상이다. 국내 투자자를 보호하는 규칙은 갖췄지만, 미국의 CLARITY Act처럼 "이 자산은 증권인가 상품인가"라는 근본적 분류 체계는 아직 논의 단계다.
-
-**싱가포르 MAS**: 아시아 크립토 허브로서 구조적 라이선스 제도를 운영 중이다. 스테이블코인 발행사에 1:1 준비금을 의무화하고, 자금세탁방지(AML) 의무를 엄격히 적용한다. 미국보다 빠르게 제도화했지만, 시장 규모는 비교할 수 없다.
-
-각국의 공통점은 "규제가 없어서는 안 된다"는 합의다. 차이는 속도와 철학이다. EU는 안전을 먼저 갖추고 성장을 그 다음에 맡겼다. 일본은 법적 지위를 높이고 세금을 낮추며 기관 자금의 문을 열었다. 미국은 10년을 망설이다가, 가장 크고 복잡한 시장에서 가장 복잡한 법안을 만들었다. CLARITY Act가 비판받는 이유도, 신뢰받는 이유도 바로 이 무게 때문이다.
+나스닥이 이번 주 세 번째 사상 최고를 향해 달리고 있다. 오늘 프리마켓의 주인공은 두 종목이다. **시스코**($CSCO)가 Q3 기록적 어닝 비트(매출 $15.84B, +12% YoY)에 AI 인프라 수주 목표를 두 배 가까이 올리면서 +19% 폭등 중이고, **엔비디아**($NVDA)는 미국이 중국 10개 기업의 H200 AI 칩 구매를 허가했다는 로이터 단독 보도에 +1.9%, 6일 연속 상승세다. 반면 BTC는 오늘 CLARITY Act 상원 표결 앞에서 $79K 부근을 오가며 방향을 모색 중. $550M 규모의 BTC 숏 포지션이 이 구간에 쌓여 있어, 법안 결과에 따라 강한 방향성이 나올 수 있다. [US News](https://money.usnews.com/investing/news/articles/2026-05-14/s-p-500-nasdaq-futures-rise-to-new-highs-as-nvidia-jumps)
 
 ---
 
-## "예금 이탈"이라는 공포 — 은행 로비가 두려워하는 것
+📌 오늘 밤 시장을 움직일 세 가지
 
-표결 전날 밤, ABA(미국 은행가협회) CEO **롭 니콜스**는 전국 은행 CEO들에게 긴급 서한을 발송했다. 일요일 밤이었다.
+1. **트럼프-시진핑 2일차 정상회담** — 1일차 결과: 시진핑이 일론 머스크·젠슨 황·팀 쿡이 동석한 자리에서 "중국의 문이 더 넓게 열릴 것"이라 선언했고, 중국은 미국 농산물·에너지 구매 확대를 약속했다. 2일차에는 반도체 수출 규제 추가 완화 논의가 심화될 전망. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-tasks-on-trade-tech-iran)
 
-> *"Without additional changes, we believe the current proposal would unnecessarily incentivize the flight of bank deposits."*
-> — Rob Nichols, ABA CEO, 2026-05-11 긴급 서한, [ABA Banking Journal](https://bankingjournal.aba.com/2026/05/aba-to-senate-refine-clarity-acts-stablecoin-yield-language/)
+2. **CLARITY Act 상원 은행위원회 표결** — 오전 10:30 ET(22:30 KST 미장 개장과 동시), 309페이지 디지털자산 명확화 법안 조문별 심의. 통과 시 BTC에 $150억 ETF 추가 유입(시티 분석). 폴리마켓 통과 확률 69%. [CCN](https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/)
 
-니콜스의 두려움은 구체적이었다. 현재 스테이블코인 시장은 약 **3,230억 달러**다. ABA가 의뢰한 연구에 따르면, 스테이블코인에 은행 예금과 유사한 이자를 허용하면 이 시장이 최대 **2조 달러**까지 팽창할 수 있다. 한국 GDP(약 1조 7,000억 달러)보다 큰 규모다. ABA, BPI, CBA, FSF, ICBA — 5대 은행 단체가 공동으로 발표한 성명은 더 직접적이었다.
-
-> *"Research indicates that deposit flight driven by the widespread adoption of yield-bearing stablecoins could reduce consumer, small-business, and agricultural lending by one-fifth or more."*
-> — ABA·BPI·CBA·FSF·ICBA 공동 성명, [BPI](https://bpi.com/banking-trades-statement-on-crypto-market-structure-yield-language/)
-
-대출이 20% 이상 줄어든다는 주장이다. 중소기업 자금, 농업 대출, 소비자 신용 — 실물 경제의 혈관이 좁아진다는 경고다.
-
-크립토 측의 반론도 만만치 않다. CLARITY Act의 스테이블코인 yield 조항은 Tillis-Alsobrooks 타협안으로 이미 대폭 좁혀졌다. "bona fide activity"(실질적 활동)에 기반한 보상만 허용하고, 단순히 돈을 맡겨 두는 것에 이자를 주는 건 금지했다. 즉, 플랫폼에서 실제로 결제·이체·담보 제공 등의 활동을 할 때만 보상이 가능하다.
-
-그러나 진짜 문제는 다른 곳에 있다. **"bona fide activity"의 정의가 법안 어디에도 명확하지 않다.** 규제 당국은 나중에 이를 좁게도, 넓게도 해석할 수 있다. 법이 통과된 이후에도 SEC와 CFTC 사이의 관할권 다툼은 여전히 남는다. "Mature Network 테스트"(단일 주체가 토큰의 20% 이상 보유하면 탈중앙화 인정 불가) 역시 경계선이 명확하지 않다. 입법으로 불확실성을 줄이려다가, 새로운 불확실성을 낳을 수 있다는 비판은 가볍게 무시하기 어렵다.
-
-하나 더. 이 법안은 위원회를 통과했지만 상원 본회의에서 **60표(의사진행 방해 차단 기준)**가 필요하다. 공화당은 53석이다. 최소 7명의 민주당 의원이 찬성해야 한다. 오늘 위원회 표결에서 민주당 전원이 반대표를 던진 것으로 알려졌다. Trump 측근 및 가족의 크립토 사업 이해충돌 문제가 민주당의 핵심 반대 근거다. 상원 본회의가 훨씬 더 높은 산이다.
+3. **시스코 실적 콘퍼런스콜** — AI 인프라 수주 목표 $5B→$9B 상향의 근거를 CEO가 직접 설명한다. 기업 네트워크 투자가 AI로 얼마나 빠르게 전환 중인지 가장 생생한 데이터. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/cisco-q3-2026-earnings-beat-112834347.html)
 
 ---
 
-## 머뉴가 본 투자 시사점
-
-오늘 위원회 통과는 결승점이 아니라 반환점이다. 그러나 시장은 이미 반응하고 있다. BTC는 표결 전후 $79,000~$80,000선을 유지하며 숨을 고르고 있고, Circle($CRCL) 주가는 타협안 발표 이후 18~20% 급등한 수준을 유지 중이다.
-
-**통과 시 수혜주**:
-- **$COIN (Coinbase)**: 규제 명확화 시 커스터디, 스테이킹, 거래소 사업의 법적 근거가 확고해진다. 스테이블코인 yield 사업도 "bona fide activity" 프레임 안에서 확장 가능하다. 단, 60표 통과까지 남은 과정이 6~12개월 더 걸릴 수 있다는 점에서 단기 모멘텀 vs 장기 펀더멘털 플레이의 구분이 필요하다.
-- **$BTC, $ETH**: 법적 지위가 명확해질수록 연기금·보험사 등 보수적 기관 자금의 유입 경로가 넓어진다.
-
-**위험 시나리오**:
-- 상원 본회의 60표 미달 → 2026년 하반기로 재시도, 심하면 2027년
-- 민주당의 크립토 이해충돌 윤리 수정안 일부 수용 시 법안 내용 희석
-- "bona fide activity" 규정의 사후 해석 분쟁
-
-**한국 투자자 시각**: 미국 규제 명확화는 글로벌 기관 자금 유입을 촉진하고, 이는 한국 시장에도 긍정적인 크립토 환경을 만든다. 국내 거래소에서 $BTC·$ETH 비중으로 간접 노출이 가능하다.
+💰 관심 종목 현황
+$TSLA  $445  (+2.7%)  | 목표가 $309~$500  | 베를린 배터리셀 $250M 증설, 머스크 FSD 중국 승인 추진 중
+$GOOGL $400  (+4.9%)  | 시총 $4.88T       | Google Cloud Q1 +63%, SpaceX와 우주 데이터센터 논의
+$NVDA  $233.60 (+3.4%) | 목표가 $200~$280  | H200 中 10개사 허가, 젠슨 황 베이징 정상회담 동행
+$COIN  $204  (~)      | CLARITY Act 통과 시 최대 수혜, CEO 암스트롱 "규제 명확성 임박"
+$NFLX  $87   (~)      | 다음 실적 발표 전 조용
+$OKLO  $69.65(~)      | 목표가 $91~$130   | AI 전력 테마 지속, 에너지 규제 우호적 환경
+$OHI   $47.33(~)      | 배당 안정적, 헬스케어 리츠 횡보
+$SPY   $744.74(+0.33%)| 프리마켓 상승 지속
+$QQQ   $718.37(+0.16%)| 이번 주 세 번 연속 사상 최고 눈앞
 
 ---
 
-## 머뉴's Advice 🎯
-
-**① 위원회 통과는 레이스의 중반 — 서두르지 말 것**
-$COIN 같은 크립토 관련 주식에 신규 포지션을 구축한다면, 상원 본회의(60표 클로처) 표결 일정이 잡힐 때까지 분할 매수 전략이 합리적이다. 위원회 통과 = 확정이 아님. 민주당 반대 심화, 트럼프 이해충돌 이슈 재부각 시 변동성 대비가 필요하다.
-
-**② 이벤트보다 방향성에 베팅 — $BTC 장기 관점**
-법안의 단기 불확실성보다 더 중요한 트렌드는 방향성이다. 일본 세제 개편, EU MiCA 완비, 한국 이용자보호법, 미국 GENIUS Act + CLARITY Act — 전 세계 규제가 크립토를 금융 시스템 안으로 끌어들이는 방향으로 수렴하고 있다. 이 구조적 방향성에 투자하는 관점이 단기 이벤트 플레이보다 유효하다.
-
-**③ 지금 비중 높다면 — 60표 확인 전까지 추가 매수 자제**
-상원 본회의 표결 전까지 크립토 관련 주식에 추가 매수보다 홀딩이 합리적이다. 9월 예산 시즌 전후로 본회의 표결 일정이 잡힐 가능성이 높다. 진짜 확신은 60표를 확인한 이후다.
+👀 오늘 밤 주목할 것
+오늘은 두 개의 역사적 이벤트가 겹친다. 미장 개장(22:30 KST)과 거의 동시에 CLARITY Act 표결 결과가 나오고, 자정 전후로 트럼프-시진핑 2일차 결과도 흘러나온다. BTC가 $79K에서 어떻게 반응하는지, 그리고 반도체 추가 허가 발표가 나오는지 — 두 가지를 동시에 봐야 하는 밤이다.
 
 ---
 
-미국이 오늘 선택한 건 완벽한 규칙이 아니라, 불완전하더라도 규칙이 있는 세계였다. 그 세계에서 누가 이길지는 아직 열려 있다. 하지만 확실한 건 하나 — 규칙 없는 세계에서 가장 많이 잃었던 것도 투자자였다.
+🔥 오늘의 픽 — 핀테크/결제/크립토 (목요일 테마)
+스크리너 조합: #2 신고가/모멘텀 + #3 내부자매수 + #4 어닝서프라이즈
 
 ---
 
-## 출처
+🌡️ 시장 온도
+S&P 500이 프리마켓에서 또 사상 최고를 노리는 가운데, 크립토 시장은 CLARITY Act라는 변수 앞에 손을 놓고 있다. BTC가 $79K에서 방향을 못 잡는 지금, 이 불확실성이 오히려 매수 기회일 수 있는 종목이 있다. 스크리너를 돌렸을 때 살아남은 두 종목을 소개한다.
 
-- [Congress.gov — H.R.3633 CLARITY Act 전문](https://www.congress.gov/bill/119th-congress/house-bill/3633/text)
-- [Congress.gov — CRS 법안 개요 IN12583](https://www.congress.gov/crs-product/IN12583)
-- [Senate Banking Committee — Section-by-Section (2026-05-12)](https://www.banking.senate.gov/imo/media/doc/section-by-section.pdf)
-- [White House — GENIUS Act Fact Sheet (2025-07-18)](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/)
-- [ABA·BPI Joint Trades Letter — Section 404 (2026-05-08)](https://bpi.com/wp-content/uploads/2026/05/Joint-Trades-Letter-Section-404-of-the-CLARITY-Act-05.08.26.pdf)
-- [BPI — Banking Trades Statement](https://bpi.com/banking-trades-statement-on-crypto-market-structure-yield-language/)
-- [CFTC.gov — SEC-CFTC Joint Guidance (2026-03-17)](https://www.cftc.gov/PressRoom/PressReleases/9198-26)
-- [Korea FSC — Virtual Asset User Protection Act](https://www.fsc.go.kr/eng/pr010101/82683)
-- [Finance Magnates — Japan FIEA 20% tax reform](https://www.financemagnates.com/cryptocurrency/regulation/japan-plans-20-crypto-tax-reclassifies-digital-assets-as-financial-products/)
-- [Sumsub — MiCA 2026](https://sumsub.com/blog/crypto-regulations-in-the-european-union-markets-in-crypto-assets-mica/)
-- [CoinLaw — MiCA exchange exit statistics](https://coinlaw.io/crypto-exchanges-under-mica-regulations-statistics/)
-- [Semafor — Kennedy deal (2026-05-13)](https://www.semafor.com/article/05/13/2026/key-republican-senator-removes-roadblock-to-crypto-bill)
-- [BeinCrypto — Kennedy yes vote](https://beincrypto.com/kennedy-clarity-act-senate-markup-vote/)
-- [The Block — 100+ amendments](https://www.theblock.co/post/401074/senate-banking-members-file-clarity-act-amendments)
-- [CoinDesk — banking groups escalate](https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote)
-- [CoinDesk — yield compromise](https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield)
-- [CoinDesk — crypto industry backs deal](https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup)
-- [Fox Business — Armstrong "true compromise"](https://www.foxbusiness.com/media/coinbase-ceo-says-crypto-bill-could-transform-us-financial-system-senate-vote-approaches)
-- [x.com/brian_armstrong — "It's time"](https://x.com/brian_armstrong/status/2042395055349231820)
-- [x.com/brian_armstrong — GENIUS + CLARITY](https://x.com/brian_armstrong/status/1945945103085998581)
-- [Arnold & Porter — CLARITY Act analysis](https://www.arnoldporter.com/en/perspectives/advisories/2025/08/clarifying-the-clarity-act)
-- [ABA Banking Journal — stablecoin yield letter](https://bankingjournal.aba.com/2026/05/aba-to-senate-refine-clarity-acts-stablecoin-yield-language/)
-- [KuCoin — stablecoin $320B milestone](https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026)
-- [CCN — US crypto regulation history](https://www.ccn.com/education/crypto/17-years-of-chaos-us-crypto-regulation-history-genius-clarity-anti-cbdc-acts/)
-- [Fintech News SG — APAC crypto regulation 2026](https://fintechnews.sg/123854/crypto/apac-crypto-regulation-2026-compliance-guide/)
-- [CoinDesk — CLARITY Act liveblog 2026-05-14](https://www.coindesk.com/policy/2026/05/14/live-senate-banking-committee-holds-key-hearing-to-advance-clarity-act)
+---
+
+🎯 오늘의 테마
+목요일이 핀테크/결제/크립토 클러스터인 것은 우연이 아니었다. CLARITY Act 표결, JPMorgan 이더리움 머니마켓 펀드 출시, 찰스 슈왑 스팟 크립토 론칭이 같은 날 겹쳤다. "크립토가 이제 어른의 게임이 된다"는 말이 오늘 현실이 됐다. 와치리스트 9종목을 제외한 핀테크/크립토 발굴 풀에서 카탈리스트를 가진 종목을 찾았다.
+
+---
+
+💡 픽 1: 비트코인 마이너에서 AI 핵에너지 플레이어로
+
+$RIOT Riot Platforms (NASDAQ: RIOT, 시총 ~$5.5B, 크립토/AI 인프라)
+현재가 $24.40 (일중 $23.88~$25.10)
+
+지난 7일 +40%, 지난 1개월 +70%, 연간 +186%. 숫자만 보면 이미 늦은 것 같다. 그런데 지금 이 회사의 정체성이 바뀌고 있다. Riot Platforms가 캐나다 원자력 스타트업 Terrestrial Energy와 용융염원자로(IMSR) 기반 핵 데이터센터 MOU를 체결했다. 4GW 규모, 하이퍼스케일 데이터센터 + HPC 워크로드(= AI 연산) 대상. AMD와도 록데일 사이트에 25MW → 50MW 옵션 데이터센터 임대 계약을 맺었다. 비트코인 채굴 회사가 AI 핵에너지 인프라 플레이어로 탈바꿈하는 과정이다.
+
+그리고 오늘 가장 중요한 카탈리스트가 하나 더 쌓였다. CLARITY Act 상원 표결 — 이 법안이 통과되는 순간, 비트코인 마이너들의 법적 지위가 명확해지고 기관 자금이 다시 흐르기 시작한다. H.C. Wainwright는 이미 RIOT 목표가를 $23→$25로 상향(Buy 유지)했다.
+
+**리스크:** Terrestrial Energy MOU는 개념 단계 — 상업 배치 목표는 2030년대 초. 비트코인 가격이 실적을 여전히 좌우한다. CLARITY Act 부결 시 단기 급락 가능성.
+
+📊 스코어카드
+기술적 2/3 (신고가+거래량급증) | 수급 1.5/3 (이상옵션+기관진입) | 카탈리스트 2/2 (CLARITY Act 오늘) | 펀더멘털 1/2 (매출성장O, ROE 마이너스) | 신선도 +1 | **종합 7.5/10**
+📅 D-Day: **오늘 10:30 ET** (CLARITY Act 표결) · Trump-Xi 2일차 반도체 협상
+
+---
+
+💡 픽 2: CEO가 이번 달 두 번 더 샀다
+
+$SOFI SoFi Technologies (NASDAQ: SOFI, 시총 ~$19.9B, 핀테크/네오뱅크)
+현재가 $15.48 (거래량 15.62M주)
+
+2026년 들어 -40%. 숫자만 보면 패배자다. 그런데 앤서니 노토 CEO는 지금 자기 돈으로 이 주식을 사고 있다. 5월 8일 15,878주 @$15.73 = $249,769. 5월 11일 15,545주 @$16.00 = $248,780. 이번 달에만 두 번, 합산 약 $500K. 2026년 누적 내부자 매수 $2M+ 돌파. 그가 베팅하는 근거는 분명하다.
+
+Q1 2026 실적: 매출 $1.09B (+42.6% YoY), 컨센서스 $1.05B 비트. EPS $0.12 컨센서스 부합. 멤버십·대출 모두 사상 최고. 시장이 실망한 이유는 단 하나 — 2026 가이던스 미상향. 그런데 노토는 바로 그 발표 직후와 3일 뒤에 또 샀다. CEO가 틀렸으면 주식을 사지 않는다. 현재 애널리스트 컨센서스 목표가는 $18~$22 수준으로 현재가 대비 16~42% 업사이드를 가리킨다.
+
+**리스크:** 가이던스 미상향에 진짜 이유가 있을 가능성(대출 연체율 상승, 금리 환경). CLARITY Act와 직접 연관 없어 오늘 크립토 테마 수혜는 간접적.
+
+📊 스코어카드
+기술적 1/3 (과매도 구간) | 수급 2/3 (CEO 내부자매수 클러스터) | 카탈리스트 2/2 (연속 내부자매수 14일 이내) | 펀더멘털 2/2 (ROE 흑자전환+매출+42%) | 신선도 +1 | **종합 8/10**
+📅 D-Day: CEO 내부자 3차 매수 여부 모니터링 · Q2 가이던스 상향 시점
+
+---
+
+⚠️ 투자 조언이 아닌 데이터 기반 분석. 모든 투자 결정은 본인 책임.
+
+---
+
+💳 규제의 시간이 왔다 — 오늘 CLARITY Act, JPMorgan 이더리움, 슈왑 크립토가 한꺼번에 터졌다
+
+---
+
+[증시 포인트] 🌐 역사적 미중 정상회담 1일차: 반도체·AI·농업까지 다 나왔다
+
+10년 만에 미국 현직 대통령이 베이징을 밟았다. 트럼프 대통령이 이끄는 미국 대표단에는 일론 머스크(테슬라·스페이스X), 젠슨 황(엔비디아), 팀 쿡(애플)이 포함됐다 — 단순한 무역 협상이 아니라 AI 시대의 기술 패권을 놓고 벌이는 협상이었다. 1일차 결과는 예상보다 구체적이었다. 중국은 미국 농산물·에너지·항공기 구매 확대에 합의했고, 호르무즈 해협 개방 필요성에도 동의했다. 시진핑은 CEO 만찬에서 "중국의 문이 더 넓게 열린다"고 선언했다. 그리고 가장 중요한 결과 — 미국이 알리바바·바이트댄스·텐센트·JD.com·레노버·폭스콘 등 중국 10개 기업에 NVDA H200 칩을 각 최대 7만5천 개까지 구매할 수 있는 허가를 내줬다. S&P 500 선물 +0.3%, 나스닥 100 +0.2%로 화답했다. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran)
+
+---
+
+[오늘 테마: 핀테크/결제/크립토] 💳 목요일이 이렇게 핀테크/크립토로 가득 찬 날은 드물다
+
+**1. CLARITY Act — 암호화폐 규제 10년 공백의 끝이 오나**
+
+오늘 오전 10:30 ET, 미 상원 은행위원회가 309페이지 분량의 디지털자산 시장 명확화 법안(CLARITY Act) 조문별 심의를 시작했다. 이 법안은 단순한 규제 문건이 아니다. BTC와 ETH의 증권/상품 분류를 공식 확정하고, SEC와 CFTC의 관할 영역을 나누며, 스테이블코인 수익률 제한 규정을 포함한다. 표결 구도는 공화당 13 대 민주당 11 — 공화당 전원 찬성이 필요하다. 아직 공개 입장을 밝히지 않은 케네디 의원(R-LA)이 캐스팅 보트다. 시티 애널리스트는 통과 시 BTC ETF에 추가 $150억 순유입과 2026년 목표가 $143,000을 유지하고 있다. 폴리마켓 통과 확률: 69%(이전 80%에서 하락, 은행 로비와 민주당 반발 반영). 비트코인은 현재 $79,200에서 관망 중. $550M 규모의 BTC 숏 포지션이 $79K~$82K 구간에 쌓여 있어 통과 시 숏스퀴즈 시나리오가 나올 수 있다. [CCN](https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/)
+
+**2. JPMorgan, 이더리움 위에 미국 국채펀드를 올렸다 — JLTXX 공식 출시**
+
+J.P. Morgan Asset Management가 오늘 두 번째 토크나이즈드 머니마켓 펀드 "JLTXX"를 이더리움 퍼블릭 블록체인에 정식 출시했다. 운용 자산: 미국 국채 + 담보부 환매조건부채권(Repo). 초기 투자금 $1억, 앤커리지 디지털 참여. 설계 목적이 흥미롭다 — GENIUS Act(스테이블코인 법안)가 요구하는 '적격 준비금 자산' 기준을 충족하도록 설계됐다. 즉, 스테이블코인 발행사가 JLTXX를 담보로 보유할 수 있다. 관리는 JP모건 자체 블록체인 사업부 Kinexys Digital Assets. 작년 출시한 MONY 펀드에 이어 두 번째 이더리움 토크나이즈드 상품이다. 전통 금융이 블록체인 인프라를 '어쩔 수 없이'가 아닌 '전략적으로' 쓰기 시작한 전환점이다. [CoinDesk](https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up)
+
+**3. 찰스 슈왑, $11.77조 달러 고객을 스팟 크립토로 데려왔다**
+
+어제(5/13) 찰스 슈왑이 미국 소매 고객 대상 비트코인·이더리움 스팟 직접 거래를 공식 시작했다. 숫자부터 압도적이다: 활성 계좌 3,910만 개, AUM $11.77T — 월스트리트 최대 브로커리지의 크립토 직접 진출이다. 수수료 75bp/거래, 커스터디는 슈왑 프리미어 뱅크와 팩소스 공동. 뉴욕·루이지애나 제외 전 주 가능. 코인베이스·로빈후드·크라켄에 맞선 전통 금융의 선전포고다. 슈왑이 들어왔다는 건, 크립토가 더 이상 '니치 자산'이 아니라는 금융 산업의 공식 선언이기도 하다. [CoinDesk](https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail)
+
+---
+
+[기업 뉴스] 🏢 와치리스트 핵심 업데이트
+
+**$TSLA 베를린 $250M 확장 + 중국 FSD 추진**
+
+테슬라가 베를린 기가팩토리 배터리셀 생산 능력을 8GWh에서 18GWh로 두 배 이상 늘리는 데 $2.5억을 투자한다. 일자리 1,500개 이상 추가, 모델 Y 생산량은 7월부터 +20% 증가. 동시에 일론 머스크는 정상회담에서 FSD 중국 규제 승인을 직접 추진 중이다. FSD 구독자가 이미 128만 명(+51% YoY)을 기록한 상황에서 중국 시장까지 열리면 완전히 새로운 수익 엔진이 켜진다. Q1 실적은 이미 서프라이즈 수준이었다: EPS $0.41(컨센서스 $0.3592 대비 +14% 비트), 매출 $22.39B(+15.78% YoY), 자동차 부문 매출총이익률 21.1%(전년 16.2%에서 급반등). [Yahoo Finance](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-ahead-of-trump-xi-summit-223230477.html)
+
+**$NVDA H200, 드디어 중국으로 향한다**
+
+미국이 알리바바·바이트댄스·텐센트·JD.com·레노버·폭스콘 등 중국 기업 10곳에 H200 AI 칩 수출을 허가했다. 고객당 최대 7만5천 개. 젠슨 황은 "트럼프 대통령이 직접 초청해 베이징에 동행하게 됐다"고 밝혔다. 이 뉴스에 NVDA는 6일 연속 상승 중이며, 시가총액이 $5.5T를 돌파했다. 단, 실제 출하는 중국 바이어들이 내부 지침 및 화웨이 어센드 대안 검토를 마친 뒤라 즉각적 배송량은 아직 0에 가깝다 — 시장은 기대를 선반영하는 중이다. [CNBC](https://www.cnbc.com/2026/05/14/trump-xi-meeting-china-stocks-ai-rally.html)
+
+**$GOOGL SpaceX와 우주 데이터센터 논의**
+
+구글과 스페이스X가 우주 궤도 데이터센터 공동 구축을 논의 중이라는 보도가 5/12 흘러나왔다. Google Cloud Q1이 이미 +63%를 기록한 상황에서 인프라 확장의 다음 프런티어를 지구 바깥에서 찾겠다는 시도다. 알파벳 시총은 오늘 $4.88T를 넘어섰다.
+
+---
+
+[흥미로운 이야기] 💡 감원 발표가 주가를 올린 날
+
+**시스코 +19% — 4,000명 해고가 곧 AI 성장 선언이었다**
+
+시스코가 어젯밤 4,000명 감원을 발표하며 주가가 +19% 폭등했다. 역설처럼 보이지만 투자자들은 다르게 읽었다. 구조조정의 목적이 비용 절감이 아니라 AI 인프라 피벗에 집중하기 위한 자원 재배치였기 때문이다. Q3 실적이 이를 뒷받침했다: 매출 $15.84B(+12% YoY, 컨센서스 $15.56B 비트), EPS $1.06(컨센서스 $1.04 비트). AI 인프라 수주는 FY2026 누적 $5.3B을 기록했고, 연간 목표를 기존 $5B에서 $9B으로 80% 상향했다. AI 관련 매출 가이던스도 $3B에서 $4B으로 올렸다. CEO 척 롭스는 "우리는 인류 역사상 가장 역동적인 기술 인프라 환경을 살고 있다"고 표현했다. CSCO는 오늘부로 AI 인프라 투자의 '픽앤샤블' 후보 목록에 공식 등재됐다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/cisco-q3-2026-earnings-beat-112834347.html)
+
+---
+
+📊 딥다이브 + 스마트머니
+
+---
+
+**📅 어닝 캘린더 & 애널리스트 레이더**
+
+| 종목 | 예정일 | 컨센서스 EPS | 컨센서스 매출 | 포인트 |
+|------|--------|------------|------------|--------|
+| $NVDA | 5/28 (수) | $0.93 | $43.2B (+65% YoY) | AI 칩 가이던스 + 중국 수출 효과 |
+| $COIN | 알려지지 않음 | - | - | CLARITY Act 결과 반영 여부 |
+
+엔비디아 Q1 FY2027 어닝은 이번 어닝 시즌 최대 이벤트다. H200 중국 수출 허가가 Q1 마감(4월 26일) 이후에 나와 이번 실적에는 반영되지 않지만, 가이던스에는 명시적으로 포함될 가능성이 높다. 젠슨 황이 베이징에서 직접 딜을 만들고 돌아오는 상황이다.
+
+**옵션 시그널:**
+BTC $550M 규모 숏 포지션이 $79K~$82K 구간에 집중돼 있다. CLARITY Act 통과 시 BTC 숏스퀴즈 시나리오 가능. 반대로 부결 시 $75K 지지선 테스트. $COIN P/C 비율은 낮아지는 추세 — 옵션 시장이 법안 통과 가능성을 조금씩 반영 중. [CCN](https://www.ccn.com/analysis/crypto/bitcoin-price-clarity-act-senate-vote-btc-analysis/)
+
+---
+
+**🏦 스마트머니 동향**
+
+**ARK Invest Q1 2026 포지션 변화** (13F 업데이트):
+- 매수 증가: $HOOD(로빈후드), CRWV(코어위브), GOOGL, RBLX, AMZN — AI와 핀테크에 동시 베팅
+- 매수 감소: $COIN(일부 차익), $TSLA(일부 정리), PLTR, META — 이익 실현
+- 포트폴리오 가치: ~$12.86B, 182 홀딩
+- 특이 베팅: ARK 벤처펀드가 예측시장 플랫폼 칼시(Kalshi) $10억 시리즈 F에 참여. 밸류에이션 $220억(스페이스X·OpenAI 다음 ARK 벤처 3대 포지션). 캐시 우드의 다음 큰 내러티브가 예측시장일 수 있다. [Benzinga](https://www.benzinga.com/markets/prediction-markets/26/05/52539283/cathie-wood-bets-on-kalshi-but-her-ark-innovation-etf-hasnt-been-great-at-timing-winners)
+
+**내부자 매수 클러스터 (최근 5일):**
+- **SoFi Technologies ($SOFI)** CEO 앤서니 노토: 5월 8일 +$249,769(15,878주@$15.73), 5월 11일 +$248,780(15,545주@$16.00). 2026년 누적 자사주 취득 $2M+ 돌파. 역대 최고 Q1 실적 이후 주가 폭락에도 CEO가 직접 바닥을 지키고 있다. [Investing.com](https://www.investing.com/news/insider-trading-news/sofi-ceo-anthony-noto-buys-248k-in-company-stock-93CH-4677829)
+
+**월가 신규 리포트:**
+- H.C. Wainwright, $RIOT 목표가 $23→$25 상향 (Buy 유지): "핵 데이터센터 피벗이 AI 인프라 스토리와 결합"
+- Truist, $AFRM 목표가 $71→$75 상향 (Buy): 2026 인베스터 포럼 이후 결제 네트워크 전략 재확인
+- KB증권, 코스피 연간 목표 7,500→10,500 대폭 상향: 코스피 상장사 영업이익 3배 성장 전망
+
+**Galaxy Digital 크립토+핀테크 헤지펀드 출시:**
+Galaxy Digital(AUM $10.1B)이 크립토 30% + 금융 서비스 주식 70% 구성의 $1억 헤지펀드를 출시했다. 롱·숏 병행. 운용 논리: Fed 금리 인하 + 크립토 사용 확대 기대. 기관 자금이 크립토를 '투기'가 아닌 '포트폴리오 구성 요소'로 다루기 시작했다는 신호. [CoinDesk](https://www.coindesk.com/business/2026/01/21/galaxy-digital-to-start-usd100-million-hedge-fund-targeting-crypto-fintech-ft)
+
+---
+
+🎙️ 이번 주 테크 인사이더들이 이야기한 것
+
+---
+
+**1. No Priors AI #461 "아마존이 '토큰 맥시멀리스트'를 만들었다" (2026-05-12)**
+
+Sarah Guo & Elad Gil의 No Priors가 이번 주 AI 업계 내부의 이상한 현상을 해부했다. "토큰맥싱(tokenmaxxing)" — 아마존 개발자들이 사내 AI 코딩 도구 리더보드 1위를 차지하기 위해 불필요하게 긴 프롬프트를 의도적으로 작성하는 행동이 확산되고 있다. 성과 지표가 잘못 설계되면 AI 도입이 오히려 생산성을 낮추는 역설이 실제로 일어나고 있다는 것이다. 에피소드에서 "That doesn't sound very healthy(그다지 건강한 소리가 아닌데)"라는 분석가의 한마디가 이 현상을 정확히 포착한다. 같은 에피소드에서 SpaceX와 Google의 우주 데이터센터 협업 논의(오늘 $GOOGL 뉴스와 직결)를 다뤘고, Anthropic이 AI 훈련·배포·방어 방식을 둘러싼 법적 분쟁에 직면했다는 내용도 짚었다. "AI 회사가 어떻게 모델을 훈련시켰는지가 이제 법정에서 다루는 사안이 됐다" — AI 산업의 다음 리스크가 기술이 아니라 법정에 있다는 선제적 경고다. 오늘 CLARITY Act, JPMorgan 이더리움 상품 출시와 맞물리면 AI·크립토·규제가 같은 방향으로 수렴하고 있다는 그림이 보인다.
+
+---
+
+**2. TBPN 에피소드 (2026-05-11) "Cerebras IPO 가격 올렸다, 트럼프는 베이징으로"**
+
+Technology Brothers의 John Coogan & Jordi Hays가 지금 오늘(5/14) 실제로 일어나고 있는 두 가지를 사흘 전에 미리 분석해줬다. 첫째, AI 추론 전용 칩 기업 Cerebras가 IPO 가격 범위를 상향 조정했다는 소식을 다뤘다. Cerebras는 NVDA H100 대비 최대 20배 추론 속도를 내세우며 상장을 추진 중인 회사다 — NVDA H200이 중국에 풀린 오늘, AI 칩 전쟁의 다음 챕터를 가장 선명하게 보여주는 후보. 둘째, 트럼프의 중국 방문 임박 소식을 다뤘다. 5월 11일에 TBPN이 예측한 두 가지 이슈가 5월 14일에 정확히 현실화됐다. 테크 인사이더들이 시장보다 사흘 빠른 이유가 있다.
