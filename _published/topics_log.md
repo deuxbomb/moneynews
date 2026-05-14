@@ -108,3 +108,9 @@
 - 핵심 주장/결론: 45GW는 모두 '조건부' 계약으로 SMR 투자는 전력이 아닌 기대를 사는 것. 단기 확실 수혜는 기존 원전 재가동($CEG, $VST), 중장기 옵션은 $OKLO. 중국의 1/6~1/10 건설 비용은 서방 SMR 생태계의 구조적 경쟁 과제.
 - 1차 자료 출처: IEA Electricity 2026 × 1, NuScale Q1 2026 IR × 1, DOE 핵에너지 대출 × 1, NRC/DOE TerraPower 건설허가 × 1, Oklo 공식 뉴스룸 × 1, Meta 공식 발표 × 1, EIA STEO × 1 (총 7건)
 - 판정: Minor (4개 개선점 반영 — 원전 수 표현 완화, Base 시나리오 단정 완화, UK/EU 섹션 보완, 머뉴's Advice ③ 여운 문장 추가)
+
+## 2026-05-14 09:00 [AM] (테마: 핀테크/결제/크립토)
+- 헤드라인: 트럼프의 비행기에 황젠슨이 탔다 — 나스닥 또 신기록, 크립토는 역사적 표결 대기
+- 오늘의 픽: $MSTR (카탈리스트: CLARITY Act 상원 은행위 표결 오늘 5/14 ET 10:30, 818K BTC 월중 추가 매수 예상), $RIOT (카탈리스트: Terrestrial Energy 핵발전 데이터센터 MoU 5/6, CLARITY Act 오늘 표결) [와치리스트 외 발굴]
+- 뉴스 토픽: [핀테크/크립토] CLARITY Act 상원 표결 오늘, MARA Q1 $12.6억 손실+AI 피벗 발표, PYPL Q1 어닝비트 후 가이던스 쇼크 -10% / [기업] NVDA +3% 황젠슨 에어포스원 탑승·H200 중국판매 협상, TSLA +2.7% 머스크 베이징 방문, OKLO -9% Q1 손실 확대 / [매크로] PPI +1.4%(예상 0.4%) 쇼크, 연준 12월 금리인상 확률 35%, 트럼프-시진핑 정상회담, AMAT Q2 실적 오늘 장 마감 후
+- 팟캐스트: All-In Podcast E272 "Elon's Anthropic Deal, The Next AI Monopoly?, FDA for AI Panic, Trading the AI Boom" (2026-05-08)
