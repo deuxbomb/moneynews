@@ -108,3 +108,9 @@
 - 핵심 주장/결론: 45GW는 모두 '조건부' 계약으로 SMR 투자는 전력이 아닌 기대를 사는 것. 단기 확실 수혜는 기존 원전 재가동($CEG, $VST), 중장기 옵션은 $OKLO. 중국의 1/6~1/10 건설 비용은 서방 SMR 생태계의 구조적 경쟁 과제.
 - 1차 자료 출처: IEA Electricity 2026 × 1, NuScale Q1 2026 IR × 1, DOE 핵에너지 대출 × 1, NRC/DOE TerraPower 건설허가 × 1, Oklo 공식 뉴스룸 × 1, Meta 공식 발표 × 1, EIA STEO × 1 (총 7건)
 - 판정: Minor (4개 개선점 반영 — 원전 수 표현 완화, Base 시나리오 단정 완화, UK/EU 섹션 보완, 머뉴's Advice ③ 여운 문장 추가)
+
+## 2026-05-14 22:00 [PM] (테마: 핀테크/결제/크립토)
+- 헤드라인: PPI 폭탄 맞고도 시장은 올랐다 — 그리고 오늘 밤, 크립토의 운명이 결정된다
+- 오늘의 픽: $HOOD (카탈리스트: CLARITY Act 상원 금융위 표결 D-0, 오늘 23:30 KST), $MSTR (카탈리스트: CLARITY Act 표결 + BTC 818K 보유 레버리지) [와치리스트 외]
+- 뉴스 토픽: [크립토/핀테크] CLARITY Act 상원 금융위 마크업 표결 오늘 23:30 KST / BTC ETF 하루 $635M 순유출 / KDDI-코인체크 지분 $6500만 / [매크로] PPI +1.4% MoM 4년 최고 / CPI +3.8% YoY / WTI $102 이란 긴장 / [기업] CSCO Q3 +17% 프리마켓 AI주문 $21억 목표 $90억 / TSLA 머스크 중국 FSD 허가 협상 / NVDA 실적 D-6 5월 20일 / COIN Q1 순손실 $394M / [한국] 코스피 7991 장중 최고 후 7900선 하락 (옵션만기일)
+- 팟캐스트: All-In #272 "Elon's Anthropic Deal, The Next AI Monopoly?" (2026-05-08), All-In E273 "Spencer Pratt & LA 위기" (2026-05-10)
