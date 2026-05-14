@@ -2,14 +2,22 @@ name: Send MoneyNews to Slack
 
 on:
   push:
+    branches:
+      - main
+      - 'claude/**'
     paths:
       - '_workspace/02_newsletter_draft.md'
 
 jobs:
   send:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-python@v5
         with:
@@ -19,3 +27,12 @@ jobs:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python3 send_to_slack.py
+
+      - name: Merge to main
+        if: github.ref != 'refs/heads/main'
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git checkout main
+          git merge --ff-only ${{ github.ref_name }}
+          git push origin main
