@@ -1,34 +1,49 @@
-# 레퍼런스 기사 — 2026-05-14
+# 레퍼런스 기사 분석 — 2026-05-15
 
 ## 레퍼런스 기사
 
-### 1. [CCN — 17 Years of Chaos: US Crypto Regulation History](https://www.ccn.com/education/crypto/17-years-of-chaos-us-crypto-regulation-history-genius-clarity-anti-cbdc-acts/)
-- 구조: 역사 타임라인 → 규제 전환점 분석 → 현황 → 전망
-- 문체: 연도별 소제목 + 핵심 사건 중심, 구어체에 가까운 평이한 영문
-- 도입부: "17 years of chaos"라는 강렬한 단어로 시작 — 규제 부재의 혼란을 단 한 단어로 표현
-- 숫자 활용: "100건 이상의 SEC 제재" "68-30" "308-122" 등 구체적 투표 수치로 신뢰성 부여
-- 배울 점: **타임라인 서술에서 각 연도를 단순 나열이 아닌 '정권 교체 → 기조 전환'의 인과 서사로 연결**
-
-### 2. [Arnold & Porter — Clarifying the CLARITY Act](https://www.arnoldporter.com/en/perspectives/advisories/2025/08/clarifying-the-clarity-act)
-- 구조: 법률 개요 → SEC/CFTC 역할 구분 → 핵심 정의 해석 → 산업 영향
-- 문체: 법률 자문 스타일이지만 구체적 조항 번호와 요약 설명 병용 — 전문가+비전문가 양쪽 대상
-- 도입부: "One of the biggest questions hanging over the U.S. crypto industry" — 산업의 핵심 질문으로 시작
-- 숫자 활용: "294 to 134 bipartisan vote" "20% threshold for single-entity control" 등 정확한 수치
-- 배울 점: **법안의 핵심 개념("mature network test")을 일상 언어로 번역하는 기법** — "블록체인 팀이 여전히 주도권을 갖고 있나?"라는 질문으로 단순화
-
-### 3. [CoinDesk — Banking Groups Escalate Fight Over Stablecoin Yield](https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote)
-- 구조: 갈등 장면 묘사 → 각 진영 입장 → 타협안 내용 → 다음 단계
-- 문체: 중립적 서술 + 직접 인용 풍부 — "escalate fight"처럼 갈등 에너지를 살린 용어 선택
-- 도입부: 행동("heating up its lobbying")으로 시작 — 상황 묘사가 아닌 동사 중심 리드
-- 숫자 활용: "$300B → $2T" 스케일업 수치를 찬반 논거의 핵심으로 배치 — 추상적 위험을 숫자로 구체화
-- 배울 점: **찬반이 충돌하는 글에서 각 진영의 '핵심 두려움'을 한 문장으로 압축하는 법** — 은행: "예금 이탈", 크립토: "규제 진공"
+대부분의 외부 기사 사이트가 403으로 직접 접근이 차단되어, 검색 결과 스니펫과 내부 메타 분석으로 대체합니다.
 
 ---
 
-## 우리 글에 적용할 구체적 기법
+### 1. Scientific American — Head-to-head trial shows Eli Lilly's oral GLP-1 outperforms oral semaglutide
+URL: https://www.scientificamerican.com/article/head-to-head-trial-shows-eli-lillys-oral-glp-1-orforglipron-outperforms-oral/
 
-1. **도입부**: "309페이지가 오늘 워싱턴의 테이블에 쌓였다" 처럼 물리적 구체물로 시작 → 추상적 규제를 촉감 있는 이미지로
-2. **인물별 소제목**: 각 인물의 이름이나 역할이 아닌 그 사람의 '핵심 두려움 또는 기대'를 소제목으로 — "Brian Armstrong: 드디어 규칙이 생겼다" 대신 "Coinbase의 10년 기다림이 끝나는 날"
-3. **숫자 맥락화**: "$323B 스테이블코인 시총"을 독자 친숙한 비교대상으로
-4. **교차 분석**: 찬성/반대 진영이 같은 숫자($2T 스테이블코인)를 서로 다른 논거로 쓰는 아이러니를 부각
-5. **마무리**: 표결 결과를 선언하지 않고 "미국이 선택한 것은 규칙이 아니라 속도다"처럼 구조적 의미로 마무리
+- **구조**: 뉴스 리드 → 임상 데이터 비교 → 전문가 코멘트 → 시장 맥락 → 결론
+- **문체**: 객관적·과학적. 데이터 중심. "제목은 결론을 먼저 던진다"
+- **도입부**: 비교 임상 결과라는 충격적 사실을 첫 문장에 배치
+- **숫자 활용**: 체중 감량 %를 절대 수치(파운드)와 함께 병기
+- **배울 점**: 도입부에서 "충돌"을 만들어 긴장감 유지. 임상 데이터는 맥락(기간, 참여자 수)과 함께
+
+---
+
+### 2. AAMC — GLP-1 pills for weight loss are here. How will they change obesity care?
+URL: https://www.aamc.org/news/glp-1-pills-weight-loss-are-here-how-will-they-change-obesity-care
+
+- **구조**: "뭔가 달라진다"는 선언 → 기존 주사의 한계 → 경구형이 여는 가능성 → 의사 관점 → 리스크 → 미래
+- **문체**: 의료 전문가 대상이지만 접근성 있는 어조. 전문 용어에 부연 설명 자연스럽게 포함
+- **도입부**: 현재 변화 선언 ("The pills are here")
+- **숫자 활용**: 2% 침투율 같은 큰 그림 숫자로 시장 규모 맥락화
+- **배울 점**: "아직 가야 할 길"의 증거로 숫자 사용 → 기회를 자연스럽게 암시
+
+---
+
+### 3. Medium — GLP-1 Drugs (Ozempic & Beyond): The Promise, the Risks, and the Future
+URL: https://medium.com/predict/glp-1-drugs-ozempic-beyond-the-promise-the-risks-and-the-future-of-obesity-treatment-b615d8804ae3
+
+- **구조**: 과학적 배경 → 효능 → 위험 → 비용 접근성 → 미래
+- **문체**: 교육적이지만 개인적 어조. "당신" 직접 호명
+- **도입부**: "세상이 GLP-1에 열광하는 이유" — 욕망을 건드리며 시작
+- **숫자 활용**: $900/월, $1,350/월 같은 구체적 비용을 독자의 지갑 관점에서 설명
+- **배울 점**: 의료 데이터를 실생활 비용·불편함으로 번역하면 독자 공감
+
+---
+
+## 작성 시 적용할 기법
+
+1. **도입부**: 오늘 벌어진 사건("출시 6주, 하루 1,000명")을 현장감 있게 열기
+2. **숫자 맥락화**: "2% 침투율" → "세계 10억 비만인 중 고작 2천만 명만 혜택"
+3. **소제목**: 결론 담은 문장형. "시계열"이 아닌 "20년 만에 열린 알약의 시대"
+4. **충돌 구조**: Novo(선도자, 13.6%) vs Lilly(편의성, 12.4%)의 대비 유지
+5. **한국 독자 관점**: 한국 진입 지연, 일본과 보험 격차, K-바이오 기업 기회
+6. **마지막 문장**: 7월 Medicare 브릿지를 다음 카탈리스트로 암시하며 마무리

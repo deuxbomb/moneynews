@@ -1,155 +1,119 @@
-# 309페이지가 바꿀 것들 — Coinbase는 환호, 은행은 분노, 상원은 결정했다
+# 주사 없이 살을 뺀다 — 경구 GLP-1, 100조원 비만약 시장의 판도가 바뀐다
 
-*2026-05-14 | 🎤 보이스 컴필*
-
----
-
-## 10:30 AM ET, 워싱턴 더크슨 빌딩 524호실
-
-오늘 아침 워싱턴 더크슨 상원 청사 524호실 테이블 위에는 309페이지짜리 법안 묶음이 쌓여 있었다. 미국 역사상 처음으로 디지털 자산 시장 전체의 규제 구조를 단일 법안에 담은 문서였다. 이름은 **디지털자산시장 CLARITY(명료성) Act**. 위원회 의장 팀 스콧(공화, 사우스캐롤라이나)이 의사봉을 두드리며 10:30 AM ET 마크업 세션을 개시했다.
-
-방 안에 앉아 있는 24명 의원 중 가장 많은 눈길이 쏠린 건 루이지애나 출신 공화당 의원 **존 케네디**였다. 지난 수개월 동안 CLARITY Act의 마지막 미결 열쇠를 쥔 인물이었다. 케네디는 전날(5/13) 드디어 찬성을 확약했다 — 조건이 있었다. 크립토 업계 종사자에게 의뢰인 이익 우선 의무인 "수탁 의무(fiduciary duty)" 조항을 법안에 넣고, 자신이 엘리자베스 워런과 공동 발의한 주택 공급 촉진 법안 "BUILD NOW Act"를 패키지에 포함시켜 달라는 것이었다. 팀 스콧 의장은 수락했다. 케네디가 찬성으로 돌아서자, 예측 시장 폴리마켓에서 CLARITY Act의 2026년 통과 확률이 62%에서 73%로 뛰었다.
-
-130개 이상의 수정안이 테이블에 올라와 있었다. 스테이블코인 이자, DeFi 면제 조항, Trump 가족 크립토 자산 이해충돌 윤리 조항까지 민주당이 제출한 수정안만 수십 개였다. 그러나 공화당 13석 대 민주당 11석 구도에서, 공화당 전원이 결집한 이상 법안은 표결 전부터 기울어져 있었다. 스콧 의장은 마크업 개시 발언에서 말했다.
-
-> *"This is what good governance looks like today."*
-> — Tim Scott, Senate Banking Committee Chair, 2026-05-14
-
-상원 금융위원회는 오늘 CLARITY Act를 통과시켜 상원 본회의로 넘겼다. 미국 크립토 업계가 10년 이상 기다려 온 시장 구조법이 문을 하나 더 통과한 날이었다.
+*2026-05-15 | 🔍 딥리서치 | 헬스케어/바이오*
 
 ---
 
-## 10년의 기다림을 이렇게 말한 사람들
+## 알약 하나의 무게
 
-미국 크립토 규제의 역사를 한 줄로 요약하면 이렇다: **10년의 진공, 4년의 전쟁, 1년의 화해, 오늘의 법안.**
+하루에 천 명이다. 출시 3주가 지난 시점에서, 릴리(Eli Lilly)의 먹는 비만약 'Foundayo(파운다요)'를 처음 복용하기 시작한 사람의 수가 하루 1,000명을 넘어섰다. 전날도, 오늘도, 내일도. 주사기가 없다. 냉장고가 없어도 된다. 밥 먹기 전에 30분을 기다릴 필요도 없다. 그냥 아무 때나, 물 한 잔과 함께, 하루 한 알.
 
-2015년 CFTC는 비트코인을 공식적으로 "상품(commodity)"으로 분류했다. 그러나 이것은 규제의 시작이 아닌 법적 애매함의 출발점이었다. SEC는 ICO 토큰을 증권으로 보아 집행을 강화했고, CFTC는 선물·파생상품에 대한 권한을 주장했다. 두 기관이 같은 자산을 두고 다른 규칙을 적용하는 동안, 업계는 어느 문을 두드려야 하는지조차 알 수 없었다.
+이것이 왜 중요한가. 2021년 Wegovy(위고비)가 주사제로 등장하며 비만 치료의 패러다임을 뒤흔들었을 때, 한 가지 장벽은 여전히 남아 있었다. 바늘이었다. 미국에서만 1억 명이 넘는 성인이 비만 기준(BMI 30+)에 해당하지만, 현재 GLP-1 약물을 쓰는 사람은 전 세계 비만 인구의 겨우 2% 전후다. 나머지 98%는 효과가 입증된 약이 있다는 걸 알면서도 쓰지 못하고 있다. 비용, 접근성, 그리고 바늘에 대한 두려움 때문에.
 
-게리 겐슬러가 SEC 의장이 된 2021년부터 2024년까지는 규제가 아닌 전쟁이었다. Coinbase, Ripple, Kraken, Gemini — 미국 크립토 산업의 대표 기업들이 줄줄이 SEC 제재를 받았다. 겐슬러 체제에서 SEC는 **100건 이상**의 크립토 업체 제재를 단행했다. 이 기간에 Coinbase는 미등록 증권 거래소라는 혐의로 고소를 당한 채, 동시에 SEC에 등록을 신청했다가 거절당하는 기묘한 상황을 겪었다.
-
-전환은 2025년 1월에 왔다. 겐슬러가 사임했다. Paul Atkins가 4월 21일 새 SEC 의장으로 취임하면서 "집행 대신 규칙 제정"으로 기조가 바뀌었다. 그리고 2025년 7월 18일, 트럼프 대통령이 세계 최초의 연방 스테이블코인법 **GENIUS Act**에 서명했다. 상원 **68대 30**, 하원 **308대 122**의 압도적 양당 찬성이었다.
-
-그날 Coinbase CEO **브라이언 암스트롱**은 이렇게 썼다.
-
-> *"Huge! GENIUS ready to be signed into law. CLARITY heading the senate next. We are getting incredibly close to finally having clear rules for crypto to grow this industry in the United States of America."*
-> — Brian Armstrong, Twitter/X
-
-10년 동안 쌓인 업계의 기다림이 한 문장에 고스란히 담겨 있었다. GENIUS Act는 절반이었다. 스테이블코인만 다뤘다. 나머지 절반, 즉 "이 코인은 증권인가 상품인가"라는 질문에 답하는 법안이 바로 CLARITY Act였다.
-
-2026년 3월 17일, SEC와 CFTC는 공동 해석 가이던스를 발표하며 비트코인, 이더리움을 포함한 16개 주요 크립토를 디지털 상품으로 공식 분류했다. 행정부 차원의 판단이었다. CLARITY Act는 그 판단에 **의회의 법적 효력**을 부여하는 법안이다. 오늘 위원회를 통과하기까지, CLARITY Act는 2025년 7월 하원에서 이미 **294대 134**로 양당 찬성을 받았다. 이제 상원 본회의만 남았다.
-
-암스트롱은 오늘 표결을 앞두고 또 한 번 공개 발언에 나섰다.
-
-> *"This is a true compromise — we met the asks of the bank lobby and the Senate."*
-> — Brian Armstrong, Fox Business
-
-인정하고 싶지 않겠지만, Coinbase는 양보했다. 스테이블코인 yield에 대한 초기 주장을 일부 철회했다. 그 대신 규제 진공 상태보다 타협된 프레임워크를 선택했다. 10년 만에 얻은 진전이 그만큼의 가치가 있다고 판단한 것이다.
+경구형 GLP-1은 그 마지막 장벽 하나를 제거한다. 2025년 12월 노보 노디스크(Novo Nordisk)의 경구 Wegovy, 2026년 4월 릴리의 Foundayo — 2개의 먹는 비만약이 동시에 시장에 착지했다. 그리고 오는 7월 1일부터는 미국 정부(CMS)가 메디케어 수혜자에게 월 $50 본인부담으로 이 약을 지원하는 브릿지 프로그램을 시작한다. 세계 비만약 시장은 2025년 $66억 달러에서 2033년 $185억 달러로 커질 전망이지만, 98%의 미개척 시장이 열리면 이 숫자는 보수적인 추정일 수 있다.
 
 ---
 
-## 세계는 이미 움직였다 — 미국만 늦었나, 신중했나
+## 20년 만에 열린 알약의 시대 — GLP-1 역사의 변곡점들
 
-워싱턴이 오늘 표결을 준비하는 동안, 세계 다른 나라들은 이미 자기 길을 걷고 있었다.
+GLP-1(글루카곤 유사 펩타이드-1)이라는 장호르몬의 이름이 약 박스에 처음 인쇄된 건 2005년이다. 그 해 FDA는 `exenatide`(바이에타)를 당뇨 치료제로 승인했다. 하루 두 번 주사, 효과는 그저 그랬다. "비만약"이라는 개념은 아직 공식 적응증에 없었다.
 
-**유럽연합(EU)**: 2024년 12월, EU의 암호화폐 규제법 **MiCA(Markets in Crypto-Assets)**가 완전 발효됐다. 2026년 7월 1일부터는 EU에서 영업하는 모든 가상자산 서비스 사업자(1,200여 곳)가 CASP 라이선스를 의무 보유해야 한다. MiCA는 미국 CLARITY Act와 철학적 출발점이 다르다. EU는 **선(先)규제, 후(後)허용** 방식이다. 특히 스테이블코인에 이자를 지급하는 것은 **전면 금지**다. MiCA 발효 이후 유럽 플랫폼의 약 18%가 라이선스 비용 부담을 감당하지 못하고 철수를 선택했다. 명료함을 얻는 대신 혁신의 속도를 일부 희생한 거래였다.
+변곡점은 2017년 오젬픽(Ozempic, semaglutide 0.5~1mg 주사)이다. 1주 1회 주사라는 편의성, 그리고 예상을 뛰어넘는 체중 감량 효과가 처음으로 소셜미디어를 타기 시작했다. 의사들 사이에서는 "당뇨가 없어도 쓰고 싶다"는 수요가 폭발했고, 2021년 6월 FDA는 고용량(2.4mg) 버전인 Wegovy를 공식 비만 치료제로 승인했다. 7년 만의 새 비만 신약이었다.
 
-Circle CSO **단테 디스파르테**는 이 차이를 날카롭게 짚었다.
+결과는 충격적이었다. 임상에서 체중의 15~17%를 감량했다. 지방흡입 수준의 결과가 바늘 하나로 나왔다. 2023년부터 미국의 비만율이 소폭이지만 하향 전환됐다는 첫 신호가 보이기 시작했고, GLP-1 관련 주식은 시총 수백조 원이 증발했다가 다시 솟구쳤다. "비만은 의지의 문제"라는 수십 년의 통념이 흔들리기 시작했다.
 
-> *"The United States faces a clear choice in digital assets: lead or be led."*
-> — Dante Disparte, Circle CSO, [CoinDesk](https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup)
+그런데 문제가 있었다. 주사를 두려워하는 사람들, 냉장 보관이 필요해서 여행 중엔 쓰기 힘든 사람들, 공복 30분이라는 복잡한 복약 지시가 번거로운 사람들 — 이들은 GLP-1 혁명의 바깥에 있었다. 그래서 노보와 릴리 양사는 경구형 개발에 사활을 걸었다.
 
-EU가 설계한 프레임워크를 미국이 따를 것인가, 아니면 미국이 기준을 만들 것인가. Circle의 USDC는 미국 달러에 연동된 스테이블코인이다. 규제가 어느 방향으로 가느냐에 따라 USDC의 글로벌 위상이 달라진다. 디스파르테의 발언은 사업적 이해관계이기도 하지만, 틀린 말도 아니다.
-
-**일본**: 미국보다 더 과감한 시장 친화 실험 중이다. 일본 각의는 2026년 4월 10일, 비트코인·이더리움·XRP 등 **105개 암호화폐**를 금융상품거래법(FIEA)상 금융상품으로 재분류했다. 주식과 같은 법적 지위를 얻은 것이다. 더 눈에 띄는 건 세제 개혁이다. 현행 최고 **55%**인 암호화폐 양도소득세를 주식과 동일한 **단일세율 20%**로 낮추는 방안이 추진되고 있다. 개인 투자자가 1,000만 엔 차익을 냈을 때 내는 세금이 550만 엔에서 200만 엔으로 줄어드는 셈이다. 일본 기관 자금의 크립토 시장 유입을 노린 구조적 전환이다.
-
-**한국**: 투자자 보호에 가장 집중한 모델이다. 2024년 7월 시행된 **가상자산이용자보호법**은 거래소에 고객 보유 암호화폐의 **80% 이상을 콜드 월렛**에 보관하도록 의무화했다. 해킹에 대비한 보험 가입도 강제한다. 시세조종·미공개정보 이용은 형사처벌 대상이다. 국내 투자자를 보호하는 규칙은 갖췄지만, 미국의 CLARITY Act처럼 "이 자산은 증권인가 상품인가"라는 근본적 분류 체계는 아직 논의 단계다.
-
-**싱가포르 MAS**: 아시아 크립토 허브로서 구조적 라이선스 제도를 운영 중이다. 스테이블코인 발행사에 1:1 준비금을 의무화하고, 자금세탁방지(AML) 의무를 엄격히 적용한다. 미국보다 빠르게 제도화했지만, 시장 규모는 비교할 수 없다.
-
-각국의 공통점은 "규제가 없어서는 안 된다"는 합의다. 차이는 속도와 철학이다. EU는 안전을 먼저 갖추고 성장을 그 다음에 맡겼다. 일본은 법적 지위를 높이고 세금을 낮추며 기관 자금의 문을 열었다. 미국은 10년을 망설이다가, 가장 크고 복잡한 시장에서 가장 복잡한 법안을 만들었다. CLARITY Act가 비판받는 이유도, 신뢰받는 이유도 바로 이 무게 때문이다.
+노보 노디스크가 먼저 골대를 넣었다. 2025년 12월 FDA는 경구 semaglutide 25mg(브랜드: 경구 Wegovy)을 첫 먹는 비만약으로 승인했다. 주사 Wegovy와 같은 성분이지만 형태가 다르다. 릴리는 기존 사용 중인 성분을 경구화하는 대신, 완전히 새로운 소분자 화학물질을 선택했다. 2026년 4월 1일, FDA가 Foundayo(orforglipron)를 승인한 건 신청 50일 만의 초스피드 결정 — 2002년 이후 신약 신청 최속 기록이다. 2026년은, 사상 처음으로 경구 GLP-1 복수 경쟁의 시대가 열린 해로 기록될 것이다.
 
 ---
 
-## "예금 이탈"이라는 공포 — 은행 로비가 두려워하는 것
+## 두 알약, 두 철학 — 노보와 릴리의 서로 다른 선택
 
-표결 전날 밤, ABA(미국 은행가협회) CEO **롭 니콜스**는 전국 은행 CEO들에게 긴급 서한을 발송했다. 일요일 밤이었다.
+같은 '먹는 비만약'이지만 두 회사의 접근법은 근본적으로 다르다. 이 차이가 앞으로 10년 시장 판도를 결정할 수 있다.
 
-> *"Without additional changes, we believe the current proposal would unnecessarily incentivize the flight of bank deposits."*
-> — Rob Nichols, ABA CEO, 2026-05-11 긴급 서한, [ABA Banking Journal](https://bankingjournal.aba.com/2026/05/aba-to-senate-refine-clarity-acts-stablecoin-yield-language/)
+**노보의 경구 Wegovy**: 기존 semaglutide를 알약으로 만든 것이다. 성분은 검증됐지만 문제가 있다. semaglutide는 펩타이드(단백질 조각) 분자라서 위장관에서 소화효소에 쉽게 분해된다. 경구 생체이용률이 1%에 불과하다. 해결책으로 흡수 촉진제를 추가했고, 복약 지시가 까다로워졌다. 식전 30분, 공복 상태, 물 120mL 정확히. 이를 지키지 않으면 혈중 농도가 예측 불가하게 변한다. 그래도 임상에서 64주간 체중의 13.6%(OASIS 4)를 감량했다. 출시 후 3개월(Q1 2026) 만에 미국에서 130만 건의 처방이 나왔고, 매출은 예상의 2배인 $330M을 기록했다.
 
-니콜스의 두려움은 구체적이었다. 현재 스테이블코인 시장은 약 **3,230억 달러**다. ABA가 의뢰한 연구에 따르면, 스테이블코인에 은행 예금과 유사한 이자를 허용하면 이 시장이 최대 **2조 달러**까지 팽창할 수 있다. 한국 GDP(약 1조 7,000억 달러)보다 큰 규모다. ABA, BPI, CBA, FSF, ICBA — 5대 은행 단체가 공동으로 발표한 성명은 더 직접적이었다.
+**릴리의 Foundayo**: 완전히 다른 설계다. '소분자(small molecule)' 비펩타이드 화합물로, 처음부터 경구 복용에 최적화해 개발됐다. 경구 생체이용률 79% — 경구 semaglutide의 약 80배다. 결과적으로 복약 지시가 매우 단순하다. 언제든지, 음식과 함께 먹어도 되고, 먹지 않아도 된다. 72주간 체중 12.4%(ATTAIN-1, NEJM 발표, 3,127명 글로벌 임상)를 감량했다.
 
-> *"Research indicates that deposit flight driven by the widespread adoption of yield-bearing stablecoins could reduce consumer, small-business, and agricultural lending by one-fifth or more."*
-> — ABA·BPI·CBA·FSF·ICBA 공동 성명, [BPI](https://bpi.com/banking-trades-statement-on-crypto-market-structure-yield-language/)
+숫자만 보면 노보가 앞선다(13.6% vs 12.4%). 하지만 맥락이 필요하다. 이 두 수치는 직접 비교 임상이 아니다. 임상 기간(64주 vs 72주)과 대상 집단이 다르다. 노보가 의뢰한 간접 비교 연구(ORION)에서는 경구 Wegovy가 약 3%p 더 감량한다고 나왔지만, 간접 비교의 한계를 감안해야 한다. 더 중요한 숫자가 있다: 부작용으로 인한 복약 중단율. 같은 ORION 연구에서 Foundayo의 위장관 부작용으로 인한 중단율은 경구 Wegovy의 약 4배였다.
 
-대출이 20% 이상 줄어든다는 주장이다. 중소기업 자금, 농업 대출, 소비자 신용 — 실물 경제의 혈관이 좁아진다는 경고다.
-
-크립토 측의 반론도 만만치 않다. CLARITY Act의 스테이블코인 yield 조항은 Tillis-Alsobrooks 타협안으로 이미 대폭 좁혀졌다. "bona fide activity"(실질적 활동)에 기반한 보상만 허용하고, 단순히 돈을 맡겨 두는 것에 이자를 주는 건 금지했다. 즉, 플랫폼에서 실제로 결제·이체·담보 제공 등의 활동을 할 때만 보상이 가능하다.
-
-그러나 진짜 문제는 다른 곳에 있다. **"bona fide activity"의 정의가 법안 어디에도 명확하지 않다.** 규제 당국은 나중에 이를 좁게도, 넓게도 해석할 수 있다. 법이 통과된 이후에도 SEC와 CFTC 사이의 관할권 다툼은 여전히 남는다. "Mature Network 테스트"(단일 주체가 토큰의 20% 이상 보유하면 탈중앙화 인정 불가) 역시 경계선이 명확하지 않다. 입법으로 불확실성을 줄이려다가, 새로운 불확실성을 낳을 수 있다는 비판은 가볍게 무시하기 어렵다.
-
-하나 더. 이 법안은 위원회를 통과했지만 상원 본회의에서 **60표(의사진행 방해 차단 기준)**가 필요하다. 공화당은 53석이다. 최소 7명의 민주당 의원이 찬성해야 한다. 오늘 위원회 표결에서 민주당 11명 전원이 반대표를 던진 것으로 알려졌다. Trump 측근 및 가족의 크립토 사업 이해충돌 문제가 민주당의 핵심 반대 근거다. 상원 본회의가 훨씬 더 높은 산이다.
+두 약의 경쟁은 단순히 효능 싸움이 아니다. 노보는 "더 잘 빠진다"를 내세우고, 릴리는 "더 편하게 먹는다"를 내세운다. 그리고 릴리는 최근 한 가지 더 강한 카드를 꺼냈다. ATTAIN-MAINTAIN(Phase 3b) 임상에서 Zepbound나 Wegovy 주사로 먼저 살을 뺀 후 Foundayo 알약으로 전환해도, 52주간 체중의 75~80%를 유지한다는 데이터를 발표했다. "주사로 빼고, 알약으로 유지" — 체중 관리의 단계적 전략을 가능하게 하는 데이터다.
 
 ---
 
-## 머뉴가 본 투자 시사점
+## 세계는 어떻게 다르게 반응하고 있나 — 미국·한국·일본·유럽의 온도 차
 
-오늘 위원회 통과는 결승점이 아니라 반환점이다. 그러나 시장은 이미 반응하고 있다. BTC는 표결 전후 $79,000~$80,000선을 유지하며 숨을 고르고 있고, Circle($CRCL) 주가는 타협안 발표 이후 18~20% 급등한 수준을 유지 중이다.
+같은 약이 세계를 똑같이 바꾸고 있지는 않다. 나라마다 규제, 보험, 문화가 다르게 작동한다.
 
-**통과 시 수혜주**:
-- **$COIN (Coinbase)**: 규제 명확화 시 커스터디, 스테이킹, 거래소 사업의 법적 근거가 확고해진다. 스테이블코인 yield 사업도 "bona fide activity" 프레임 안에서 확장 가능하다. 단, 60표 통과까지 남은 과정이 6~12개월 더 걸릴 수 있다는 점에서 단기 모멘텀 vs 장기 펀더멘털 플레이의 구분이 필요하다.
-- **$BTC, $ETH**: 법적 지위가 명확해질수록 연기금·보험사 등 보수적 기관 자금의 유입 경로가 넓어진다.
+**미국**: 이미 경쟁이 시작됐다. 경구 Wegovy(노보)는 Q1에만 130만 건의 처방이 나왔고, 신규 처방의 65%를 점유했다. Foundayo(릴리)는 출시 3주에 5,612건으로 초라해 보이지만, 하루 1,000명의 속도는 가파른 성장 곡선의 초기다. 그리고 7월 1일 Medicare GLP-1 Bridge가 시작된다 — BMI 27 이상 + 심장질환·당뇨 전단계 등 동반질환이 있는 Medicare 수혜자에게 대상 3종 약물(경구·주사 Wegovy, Zepbound KwikPen, Foundayo)을 월 $50 본인부담으로 지원한다. 기존 Medicare는 비만약을 원칙적으로 급여 대상에서 제외해왔다. 이 브릿지가 7,000만 메디케어 수혜자에게 미칠 파장은 2분기부터 처방 데이터로 확인될 것이다.
 
-**위험 시나리오**:
-- 상원 본회의 60표 미달 → 2026년 하반기로 재시도, 심하면 2027년
-- 민주당의 크립토 이해충돌 윤리 수정안 일부 수용 시 법안 내용 희석
-- "bona fide activity" 규정의 사후 해석 분쟁
+**한국**: 한 템포 늦다. 주사 Wegovy가 2024년 10월에야 국내 출시됐고, 그럼에도 8개월 만에 40만 건이 처방됐다. 월 30~40만 원의 비급여 비용에도 폭발적 수요가 나왔다. 하지만 경구형 GLP-1은 아직 한국 식약처 허가를 받지 않았다. 통상 FDA 승인 후 국내 허가까지 1~2년이 걸린다. 릴리 코리아는 Mounjaro(당뇨 적응증)의 보험 급여를 건강보험심사평가원(HIRA)에 신청 중이나, 비만 적응증 급여까지는 가야 할 길이 멀다. 한국 보험 체계는 비만을 "생활습관 문제"로 보아 급여 대상에서 제외해왔다. 이 관점이 바뀌지 않으면, 가격 장벽은 계속 한국 환자들의 발목을 잡는다.
 
-**한국 투자자 시각**: 미국 규제 명확화는 글로벌 기관 자금 유입을 촉진하고, 이는 한국 시장에도 긍정적인 크립토 환경을 만든다. 국내 거래소에서 $BTC·$ETH 비중으로 간접 노출이 가능하다.
+**일본**: 아시아에서 가장 앞서 있다. GLP-1 약물이 당뇨·비만 모두 건강보험 급여 대상이다. 접근성 측면에서 한국보다 한발 앞서 있다. 일본 비만 인구가 한국보다 적음에도 불구하고, 의료 접근성의 격차가 시장 침투율 차이로 이어지고 있다.
 
----
+**유럽**: 주사 Wegovy는 2022년 1월 EMA 승인, 현재 유럽 주요국에서 처방 가능하다. 고용량(7.2mg) 주사는 최근 추가 승인되어 체중의 21% 감량이 가능하다. 경구 Wegovy는 EMA 심사 중으로 2026년 하반기 출시가 예상된다. 미국이 2~6개월 앞서 가는 흐름이다.
 
-## 머뉴's Advice 🎯
-
-**① 위원회 통과는 레이스의 중반 — 서두르지 말 것**
-$COIN 같은 크립토 관련 주식에 신규 포지션을 구축한다면, 상원 본회의(60표 클로처) 표결 일정이 잡힐 때까지 분할 매수 전략이 합리적이다. 위원회 통과 = 확정이 아님. 민주당 반대 심화, 트럼프 이해충돌 이슈 재부각 시 변동성 대비가 필요하다.
-
-**② 이벤트보다 방향성에 베팅 — $BTC 장기 관점**
-법안의 단기 불확실성보다 더 중요한 트렌드는 방향성이다. 일본 세제 개편, EU MiCA 완비, 한국 이용자보호법, 미국 GENIUS Act + CLARITY Act — 전 세계 규제가 크립토를 금융 시스템 안으로 끌어들이는 방향으로 수렴하고 있다. 이 구조적 방향성에 투자하는 관점이 단기 이벤트 플레이보다 유효하다.
-
-**③ 지금 비중 높다면 — 60표 확인 전까지 추가 매수 자제**
-상원 본회의 표결 전까지 크립토 관련 주식에 추가 매수보다 홀딩이 합리적이다. 9월 예산 시즌 전후로 본회의 표결 일정이 잡힐 가능성이 높다. 진짜 확신은 60표를 확인한 이후다.
+**중국**: GLP-1 시장의 다크호스다. 현지 제약사들이 자체 GLP-1 개발에 뛰어들었고, 노보·릴리의 ATTAIN-1 임상에도 중국 환자가 포함됐다. 내수 시장을 겨냥한 로컬 경구형 GLP-1이 수년 내 등장할 가능성이 있다.
 
 ---
 
-미국이 오늘 선택한 건 완벽한 규칙이 아니라, 불완전하더라도 규칙이 있는 세계였다. 그 세계에서 누가 이길지는 아직 열려 있다.
+## "혁명은 과장됐다" — 왜 이 내러티브가 틀릴 수 있는가
+
+GLP-1 혁명에는 여러 개의 균열이 있다. 투자자가 놓쳐선 안 되는 반대 시각이다.
+
+**균열 1: 약을 끊으면 돌아온다.** GLP-1은 먹는 동안만 효과가 있다. 2023년 STEP 1 확장 연구에서 Wegovy를 68주 복용 후 중단한 그룹은 1년 후 빠진 체중의 약 2/3를 되찾았다. 즉, 이 약은 "평생 복용"이 사실상 전제다. 자부담 $149~$1,300/월의 평생 부담은 현실이다. Medicare 브릿지도 2027년 12월에 끝난다.
+
+**균열 2: 뼈와 근육이 문제다.** AAOS(미국 정형외과학회) 2026 연례회의에서 발표된 연구들에 따르면, GLP-1 사용자에서 5년 후 골다공증 위험이 유의미하게 증가했다. PMC에 발표된 메타분석(2026)은 GLP-1 RA가 골밀도 감소와 근육량 손실을 유발할 수 있다고 경고했다. 급격한 체중 감소 과정에서 지방만 빠지는 게 아니라 근육과 뼈도 함께 약해질 수 있다는 것이다. 현재 추적 데이터는 5~10년 수준에서 이제 막 나오기 시작했다.
+
+**균열 3: Foundayo의 부작용이 경쟁자보다 심하다.** 간접 비교에서 Foundayo는 경구 Wegovy 대비 부작용으로 인한 복약 중단율이 약 4배 높았다. 오심·구토·설사 등 위장관 증상이 주요 원인이다. 경구 생체이용률이 높아 혈중 농도 변동이 크기 때문으로 분석된다.
+
+**균열 4: 경쟁이 시작됐다.** Structure Therapeutics의 aleniglipron은 이미 Phase 2에서 최고 용량 기준 15%+ 감량을 보여 Foundayo를 초과했다. AstraZeneca-Eccogene의 elecoglipron은 2026년 초 Phase 3에 들어갔다. Viking Therapeutics의 VK2735도 경구형 Phase 2가 진행 중이다. 노보의 다음 세대 경구 약물 파이프라인도 있다. 2~3년 후 시장은 훨씬 혼잡해질 것이다.
+
+**균열 5: 접근성은 여전히 불평등하다.** 미국에서도 상당수 민간 보험이 비만약을 비급여로 유지한다. $149/월도 저소득층에게는 부담이 크다. NPR 보도(2026년 4월)에 따르면 보험 취소나 약가 인상으로 GLP-1을 중단하는 환자가 늘고 있다. "경구형이 나왔다고 모두가 쓸 수 있는 건 아니다"는 냉정한 현실이다.
+
+---
+
+## 100조 원 시장에서 어디를 봐야 하는가 — 투자자 관점 시사점
+
+**① $LLY: 여전히 고평가인가, 성장이 정당화하는가**
+릴리는 Q1 2026에 $19.8B(+56% YoY)을 기록했고 연간 가이던스를 $82~85B으로 높였다. Foundayo가 Q2부터 본격 반영된다. 와치리스트 종목이므로 깊은 분석은 생략하지만, 핵심은 Foundayo의 "편의성" 포지셔닝이 신규 시장을 얼마나 빠르게 여는지에 달려 있다. 처방의 80%가 신규 GLP-1 사용자라는 데이터는 긍정적 신호다.
+
+**② $NVO: 경구 Wegovy의 첫 분기 초과 달성이 무엇을 의미하나**
+분기 첫 실적에서 예상의 2배 매출($330M)과 130만 건 처방은 강력한 신호다. 신규 처방의 65%를 점유하며 시장 선도자 지위를 유지 중이다. 그러나 가격 경쟁 압박(노보가 미국 GLP-1 가격을 70% 인하한 전례가 있음)과 Foundayo의 편의성 공세가 장기 점유율의 변수다.
+
+**③ 픽앤샤블 전략 — 경쟁자가 많을수록 빛나는 자들**
+GLP-1 경쟁이 치열해질수록, 성분 원료와 제조 서비스 공급자들이 주목받는다. 경구 GLP-1은 소분자 API(활성 제약 성분) 합성 기술이 핵심이다. 위탁 개발·생산 업체(CDMO)와 원료 의약품 공급사들이 수혜를 받을 수 있다.
+
+**④ 파이프라인 조기 진입 기회**
+Structure Therapeutics($GPCR)의 aleniglipron는 15%+ 감량 데이터가 Foundayo를 앞섰다. Phase 3 진입 시점을 주목할 만하다. Viking Therapeutics($VKTX)의 경구 VK2735도 Phase 2 결과를 기다리는 상태다. 대형사 인수 타깃이 될 수 있다.
+
+**⑤ 한국 투자자를 위한 한국 시각**
+국내에서 경구형 GLP-1이 출시될 2027~2028년 시점을 고려할 때, 국내 비만 치료 관련 의료 플랫폼(비만클리닉 체인, 디지털 헬스케어, 처방 플랫폼)이 중간 수혜를 받을 수 있다. K-바이오 기업 중 GLP-1 계열 개발에 뛰어든 곳들의 임상 진행도 확인이 필요하다.
+
+### 머뉴's Advice
+
+💊 **Foundayo vs 경구 Wegovy**: 효능은 노보, 편의성은 릴리. 지금은 노보의 선발 우위가 크지만, 릴리의 하루 1,000명 속도와 Medicare 브릿지가 등장하면 균형이 바뀔 수 있다. 두 약 모두 "Winner takes all"이 아닌 구조다.
+
+📊 **7월 카탈리스트**: Medicare GLP-1 Bridge 시작(7/1)은 처방량 급증의 트리거가 될 가능성이 있다. 이 시점을 전후로 $LLY, $NVO 처방 데이터를 모니터링하라.
+
+⚠️ **리스크 관리**: 장기 안전성 데이터가 계속 나오고 있다. 골밀도·근육량 문제가 임상 가이드라인 변화로 이어지면 처방 패턴이 바뀔 수 있다. "먹어도 되는 약"이라는 과신이 시장을 과열시키고 있진 않은지 점검이 필요하다.
 
 ---
 
 ## 출처
 
-- [Congress.gov — H.R.3633 CLARITY Act 전문](https://www.congress.gov/bill/119th-congress/house-bill/3633/text)
-- [Congress.gov — CRS 법안 개요 IN12583](https://www.congress.gov/crs-product/IN12583)
-- [Senate Banking Committee — Section-by-Section](https://www.banking.senate.gov/imo/media/doc/section-by-section.pdf)
-- [White House — GENIUS Act Fact Sheet (2025-07-18)](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/)
-- [ABA·BPI Joint Trades Letter — Section 404 (2026-05-08)](https://bpi.com/wp-content/uploads/2026/05/Joint-Trades-Letter-Section-404-of-the-CLARITY-Act-05.08.26.pdf)
-- [BPI — Banking Trades Statement](https://bpi.com/banking-trades-statement-on-crypto-market-structure-yield-language/)
-- [CFTC.gov — SEC-CFTC Joint Guidance (2026-03-17)](https://www.cftc.gov/PressRoom/PressReleases/9198-26)
-- [Korea FSC — Virtual Asset User Protection Act](https://www.fsc.go.kr/eng/pr010101/82683)
-- [Japan Finance Magnates — FIEA 20% tax](https://www.financemagnates.com/cryptocurrency/regulation/japan-plans-20-crypto-tax-reclassifies-digital-assets-as-financial-products/)
-- [Sumsub — MiCA 2026](https://sumsub.com/blog/crypto-regulations-in-the-european-union-markets-in-crypto-assets-mica/)
-- [Semafor — Kennedy deal](https://www.semafor.com/article/05/13/2026/key-republican-senator-removes-roadblock-to-crypto-bill)
-- [BeinCrypto — Kennedy yes vote](https://beincrypto.com/kennedy-clarity-act-senate-markup-vote/)
-- [The Block — 100+ amendments](https://www.theblock.co/post/401074/senate-banking-members-file-clarity-act-amendments)
-- [CoinDesk — banking groups escalate](https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote)
-- [CoinDesk — yield compromise](https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield)
-- [CoinDesk — Disparte + crypto industry backs deal](https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup)
-- [Fox Business — Armstrong "true compromise"](https://www.foxbusiness.com/media/coinbase-ceo-says-crypto-bill-could-transform-us-financial-system-senate-vote-approaches)
-- [x.com/brian_armstrong — "It's time"](https://x.com/brian_armstrong/status/2042395055349231820)
-- [x.com/brian_armstrong — GENIUS + CLARITY](https://x.com/brian_armstrong/status/1945945103085998581)
-- [Arnold & Porter — CLARITY Act analysis](https://www.arnoldporter.com/en/perspectives/advisories/2025/08/clarifying-the-clarity-act)
-- [ABA Banking Journal — stablecoin yield letter](https://bankingjournal.aba.com/2026/05/aba-to-senate-refine-clarity-acts-stablecoin-yield-language/)
-- [KuCoin — stablecoin $320B milestone](https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026)
-- [CCN — US crypto regulation history](https://www.ccn.com/education/crypto/17-years-of-chaos-us-crypto-regulation-history-genius-clarity-anti-cbdc-acts/)
-- [Fintech News SG — APAC crypto regulation 2026](https://fintechnews.sg/123854/crypto/apac-crypto-regulation-2026-compliance-guide/)
-- [CoinDesk — CLARITY Act liveblog 2026-05-14](https://www.coindesk.com/policy/2026/05/14/live-senate-banking-committee-holds-key-hearing-to-advance-clarity-act)
+- [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2511774) — ATTAIN-1 Phase 3 임상 (orforglipron, 2025)
+- [CMS](https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge) — Medicare GLP-1 Bridge 프로그램 공식 자료
+- [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12803457/) — GLP-1 RA와 근골격 건강 장기 안전성 연구
+- [AAOS](https://aaos-annualmeeting-presskit.org/2026/research-news/studies-explore-glp-1-receptor-agonist-use-and-its-impact-on-long-term-musculoskeletal-health/) — AAOS 2026 GLP-1 골건강 연구 발표
+- [PR Newswire](https://www.prnewswire.com/news-releases/lilly-reports-first-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-momentum-of-new-medicines-302758113.html) — Eli Lilly Q1 2026 실적 보도자료
+- [Fierce Pharma](https://www.fiercepharma.com/pharma/novo-ceo-cites-wegovy-pill-pricing-sweet-spot-oral-obesity-launch-garners-355m-its-1st) — Novo Nordisk Q1 2026 경구 Wegovy 실적
+- [CNBC](https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html) — Novo Q1 2026 어닝 보도
+- [GoodRx](https://www.goodrx.com/conditions/weight-loss/orforglipron-danuglipron-new-weight-loss-drug) — Foundayo 가격 정보
+- [PR Newswire](https://www.prnewswire.com/news-releases/wegovy-pill-demonstrated-greater-weight-loss-than-orforglipron-and-lower-odds-of-stopping-medication-due-to-side-effects-in-a-new-indirect-comparison-to-be-presented-at-obesity-medicine-association-2026-302732768.html) — ORION 간접 비교 연구
+- [Grand View Research](https://www.grandviewresearch.com/industry-analysis/glp-1-agonists-weight-loss-drugs-market-report) — GLP-1 시장 규모 전망
+- [Korea Biomed](https://www.koreabiomed.com/news/articleView.html?idxno=27449) — 한국 GLP-1 보험 급여 현황
+- [JPMorgan](https://www.jpmorgan.com/insights/global-research/current-events/obesity-drugs) — GLP-1 시장 침투율 2%
+- [Clinical Trials Arena](https://www.clinicaltrialsarena.com/news/eli-lilly-orforglipron-phase-iii-obesity-weight-maintenance-trial/) — ATTAIN-MAINTAIN Phase 3b 결과
+- [PharmaVoice](https://www.pharmavoice.com/news/glp-1-pharma-obesity-pill-drug-novo-viking-structure-lilly/808195/) — 경구 GLP-1 파이프라인 현황
