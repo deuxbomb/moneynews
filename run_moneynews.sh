@@ -3,7 +3,10 @@
 
 export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 # 웹훅 URL을 settings.json에서 읽어옴 — 하드코딩 금지
+SETTINGS_LOCAL="$(dirname "$0")/.claude/settings.local.json"
 SETTINGS_JSON="$(dirname "$0")/.claude/settings.json"
+# settings.local.json 우선, 없으면 settings.json, 그것도 없으면 외부 env 사용
+export SLACK_WEBHOOK_URL="${SLACK_WEBHOOK_URL:-$(jq -r '.env.SLACK_WEBHOOK_URL // empty' "$SETTINGS_LOCAL" 2>/dev/null)}"
 export SLACK_WEBHOOK_URL="${SLACK_WEBHOOK_URL:-$(jq -r '.env.SLACK_WEBHOOK_URL // empty' "$SETTINGS_JSON" 2>/dev/null)}"
 
 cd /Users/jongcheollim/moneynews

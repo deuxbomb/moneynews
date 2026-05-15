@@ -9,9 +9,7 @@
       "Bash(python3 /home/user/moneynews/send_to_slack.py)"
     ]
   },
-  "env": {
-    "SLACK_WEBHOOK_URL": "https://hooks.slack.com/services/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"
-  },
+
   "hooks": {
     "PostToolUse": [
       {
