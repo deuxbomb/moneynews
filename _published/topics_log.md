@@ -121,3 +121,9 @@
 - 오늘의 픽: $RIOT (카탈리스트: CLARITY Act 오늘 표결 + Terrestrial Energy 핵 데이터센터 MOU), $SOFI (카탈리스트: CEO 앤서니 노토 5/8+5/11 연속 내부자매수 $500K+, Q1 매출 $1.09B 비트) [와치리스트 외]
 - 뉴스 토픽: [크립토] CLARITY Act 상원 은행위원회 마크업 표결 오늘 / [핀테크] JPMorgan JLTXX 이더리움 토크나이즈드 MMF 출시 / [핀테크] 찰스 슈왑 스팟 크립토(BTC/ETH) 트레이딩 론칭 / [매크로] 트럼프-시진핑 베이징 정상회담 1일차(농산물·에너지+NVDA H200 中 10개사 허가) / [기업] CSCO Q3 어닝 비트+AI 인프라 수주 $5B→$9B 상향 +19% / $TSLA 베를린 배터리셀 $250M 증설+FSD 중국 추진 / $NVDA H200 中 수출 허가 / $GOOGL SpaceX 우주 데이터센터 논의
 - 팟캐스트: No Priors #461 "아마존 토큰맥싱·SpaceX-Google 협업·Anthropic 법적분쟁" (2026-05-12), TBPN "Cerebras IPO 가격 상향·트럼프 중국 방문" (2026-05-11)
+
+## 2026-05-15 09:30 [AM] (테마: 헬스케어/바이오/의료기기)
+- 헤드라인: 인플레이션 3.8%? AI는 신경 안 쓴다 — 나스닥·S&P 500 사상 최고치 경신
+- 오늘의 픽: $MRNA (카탈리스트: ASCO 2026 D+14 mRNA-4157 5년 데이터), $AXSM (카탈리스트: RBC 글로벌 헬스케어 컨퍼런스 D+4), $VRTX (카탈리스트: povetacicept BLA FDA 수락 레터 D+0~15 예상) [와치리스트 외 발굴]
+- 뉴스 토픽: [헬스케어] LLY vs NVO GLP-1 경구약 3개월 성적표(NVO 135K Rx/주 vs LLY 20K 환자) / FDA AstraZeneca·Amgen 실시간 임상 모니터링 파일럿 / Beqalzi MCL FDA 가속승인 / [AI/증시] Cerebras IPO 89% 팝 / CPI 3.8%+PPI +1.4% 쇼크에도 S&P 사상최고 / [기업] TSLA 로보택시 39대 운영 FSD v15 2027초 대기 / ARK TSLA -20% 감축 / NVDA H200 中 수출승인 +4.4% / GOOGL SpaceX 우주데이터센터 논의 / [한국] 코스피 7,981 8천 코앞
+- 팟캐스트: All-In Podcast "LA를 고쳐라: 산불·홈리스·부패와의 싸움" 2026-05-10 (Spencer Pratt)
