@@ -121,3 +121,5 @@ Structure Therapeutics($GPCR)의 aleniglipron은 15%+ 감량 데이터로 Founda
 - [PharmaVoice](https://www.pharmavoice.com/news/glp-1-pharma-obesity-pill-drug-novo-viking-structure-lilly/808195/) — 경구 GLP-1 파이프라인 현황
 - [Pharmacy Times](https://www.pharmacytimes.com/view/oral-semaglutide-demonstrates-greater-weight-loss-versus-orforglipron-in-indirect-comparison) — 경구 GLP-1 간접 비교 연구
 - [KoreaDiabetes.com](https://koreadiabetes.com/news/?bmode=view&idx=168592564) — 한국 위고비 처방 현황
+
+<!-- slack_trigger: 2026-05-15 -->

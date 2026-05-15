@@ -57,6 +57,10 @@ def extract_slack_summary(md_path):
                 in_table = False
                 table_rows = []
 
+            # HTML 주석 제거 (<!-- ... --> 형태의 파이프라인 메타데이터)
+            if re.match(r'^<!--.*-->$', stripped):
+                continue
+
             # 마크다운 → 슬랙 mrkdwn
             converted = re.sub(r'\*\*(.+?)\*\*', r'*\1*', stripped)
             converted = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<\2|\1>', converted)
