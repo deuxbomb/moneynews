@@ -1,10 +1,10 @@
-# 딥다이브 테마 선정 — 2026-05-14 (목요일)
+# 딥다이브 테마 선정 — 2026-05-15 (금요일)
 
 ## 오늘 요일 테마 클러스터
-**🔐 핀테크/크립토** — Bitcoin, 스테이블코인, 규제, 크립토 핀테크
+**🏥 헬스케어/바이오/의료기기** (금요일)
 
 ## 분석 유형 (5유형 요일 회전)
-**🎤 보이스 컴필** — 주요 인사 발언 3개+ 교차 분석. 같은 이슈를 바라보는 다른 진영의 목소리를 나란히 놓고 구조를 읽는다.
+**🔍 딥 리서치** — 특정 이슈 소스 5개+ 기획기사. 넓게 파고, 깊게 검증하고, 다층 교차 분석으로 경쟁 매체가 놓친 팩트를 건진다.
 
 ---
 
@@ -12,90 +12,75 @@
 
 | 날짜 | 테마 | 유형 |
 |------|------|------|
-| 2026-05-07 | NVIDIA 광섬유/CPO 투자 — 구리 시대의 종말 | 🔍 딥리서치 |
-| 2026-05-08 | NVIDIA 광섬유/CPO 투자 (재발행) | 🔍 딥리서치 |
-| 2026-05-11 | ASIC 슈퍼사이클 — 빅테크 자체 칩 전환 | 📡 테크트렌드 |
-| 2026-05-13 | SMR 슈퍼사이클 — AI 전력 위기와 세 갈래 | 🔮 미래전망 |
+| 2026-05-07 | NVIDIA 광학/포토닉스 — 구리→광섬유 72억 달러 전략 | 🔍 딥리서치 |
+| 2026-05-08 | NVIDIA 광학/포토닉스 (2차 발행) | 🔍 딥리서치 |
+| 2026-05-11 | ASIC 슈퍼사이클 — AI 추론칩 패러다임 전환 | 📡 테크트렌드 |
+| 2026-05-13 | SMR 슈퍼사이클 — AI 전력 위기와 원자력 세 갈래 | 🔮 미래전망 |
+| 2026-05-14 | CLARITY Act — 크립토 규제 분수령 5인의 목소리 | 🎤 보이스컴필 |
 
-→ 오늘 **핀테크/크립토 테마는 지난 7일 [DEEP] 중복 없음** ✅
-→ AI인프라(5/7·5/8·5/11)·에너지(5/13) 이후 핀테크 전환으로 자연스러운 다양화 ✅
-→ 🎤 보이스 컴필 유형도 최근 7일 미사용 ✅
+→ **헬스케어/바이오 테마는 지난 7일 [DEEP] 중 0건 → 완전 신선** ✅
+→ AI인프라 → 에너지 → 핀테크 → 헬스케어 순으로 섹터 완전 순환 ✅
+→ 🔍 딥 리서치 유형은 5/7~5/8 이후 7일 이상 미사용 ✅
 
 ---
 
 ## 후보 테마 3개
 
-### 후보 1: CLARITY Act 상원 마크업 — 크립토 규제 분수령에 선 5인의 목소리 ✅ **선정**
+### 후보 1: 주사기 없는 세상 — 경구용 GLP-1이 뒤집는 1조 달러 비만약 시장 — ✅ **선정**
 
-오늘(5/14) 10:30 AM ET, 미국 상원 은행위원회가 309페이지 분량의 '디지털자산 시장 CLARITY Act' 마크업 투표를 진행한다. 100개 이상의 수정안이 제출됐고, 결과에 따라 비트코인 가격·$COIN·스테이블코인 시장 전체가 흔들릴 수 있다.
-
-보이스 컴필에 완벽한 이유 — 입장이 극명히 갈리는 주요 인사 5명의 발언이 이미 수집됨:
-- **Brian Armstrong (Coinbase CEO)**: "이 법은 강하다. 미국 금융을 더 빠르고 저렴하게 만들 것"
-- **Brad Garlinghouse (Ripple CEO)**: Consensus 2026 Miami에서 "2주 안에 통과 못 하면 중간선거 이후로 밀려 가능성이 급전직하"
-- **Sen. Thom Tillis (공화당)**: 스테이블코인 수익 금지 타협안 공동 설계. "양당 합의 경로를 열었다"
-- **Sen. Kirsten Gillibrand (민주당)**: "윤리 조항 없이는 민주당 표 없다"
-- **Citi 애널리스트**: 법안 통과 시 BTC $143K 목표가 + ETF 추가 유입 $150억 전망
+Eli Lilly의 경구용 GLP-1 orforglipron(Foundayo)이 FDA 승인을 받아 4월 6일 출하 시작. Novo Nordisk의 경구 세마글루타이드가 최초 FDA 승인 경구 GLP-1으로 출시됐으나, Lilly head-to-head 시험에서 orforglipron이 73.6% 더 큰 체중 감소를 달성하며 시장 지형이 급격히 바뀌는 중. 5월 12일 Nature Medicine에 ATTAIN-MAINTAIN Phase 3 결과가 발표되어 경구제로 주사제 체중 감량을 유지할 수 있음이 공식 확인됐고, CMS의 Medicare GLP-1 $50/월 모델은 7월 시작 예정.
 
 핵심 URL:
-- https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing
-- https://fortune.com/2026/05/13/crypto-clarity-act-senate-markup/
-- https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/
-- https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/
+- [Nature Medicine ATTAIN-MAINTAIN](https://www.nature.com/articles/s41591-026-04386-7)
+- [Lilly IR — orforglipron ATTAIN-MAINTAIN](https://investor.lilly.com/news-releases/news-release-details/lillys-orforglipron-helped-people-maintain-weight-loss-after)
+- [AJMC — FDA approves Foundayo](https://www.ajmc.com/view/fda-approves-lilly-s-oral-glp-1-orforglipron-for-obesity)
+- [NIH — 경구 GLP-1 뇌 보상회로 억제](https://www.nih.gov/news-events/news-releases/oral-small-molecule-glp-1-drugs-penetrate-deep-into-brain-suppress-cravings)
+- [CMS BALANCE Model](https://www.cms.gov/newsroom/press-releases/cms-launches-voluntary-model-expand-access-life-changing-medicines-promote-healthier-living)
 
 ---
 
-### 후보 2: 월가의 크립토 정복 — 슈왑이 코인베이스에 도전장을 냈다 ❌ **탈락**
+### 후보 2: FDA 실시간 임상 리뷰 — 신약 개발 속도를 바꾸는 규제 혁신 — ❌ 탈락
 
-찰스 슈왑($12조 운용)이 5/13 미국 소매 고객 대상 BTC·ETH 현물 거래를 개시. CEO Rick Wurster는 스테이블코인도 로드맵에 있다고 밝혔다.
+FDA가 AstraZeneca(BTK억제제 Calquence 시험)·Amgen을 파일럿으로 임상 데이터 실시간 리뷰 이니셔티브를 발표.
 
-탈락 이유: 보이스 컴필 유형에서 수집 가능한 주요 인사 발언이 슈왑 내부(CEO·CFO) 위주로 제한적이다. CLARITY Act가 오늘 실시간 이벤트로서 더 다양하고 충돌하는 목소리를 제공한다. 슈왑 진출은 14:00 시사점 섹션에서 CLARITY Act 통과 수혜 맥락으로 활용 가능.
-
----
-
-### 후보 3: 비트코인 $80K 붕괴 — 강세론자 vs 약세론자 목소리 배틀 ❌ **탈락**
-
-BTC가 오늘 $79,319(-1.47%)로 $80K 아래 재진입. Polymarket CLARITY Act 통과 확률 62%(고점 80%→하락).
-
-탈락 이유: 가격 움직임 자체가 이슈가 아닌 CLARITY Act 불확실성의 부산물. 후보 1이 원인이고 이것은 결과다. 단독 딥다이브 주제로는 깊이 부족. 후보 1 이야기 섹션에서 앵커로 활용.
+탈락 이유: **발행일 2026-04-28, 오늘(5/15)로부터 17일 경과** — 24시간 이내 뉴스 원칙 위반. 특정 종목 직접 투자 시사점도 제한적.
 
 ---
 
-## 선정 테마: CLARITY Act 상원 마크업 — 크립토 규제 분수령에 선 5인의 목소리
+### 후보 3: Beqalzi 시대 — BCL-2 억제제 다음 세대와 혈액암 치료 혁신 — ❌ 탈락
 
-**제목 방향 제안**:
-> "미국 크립토 헌법이 오늘 쓰인다 — 찬성·반대·조건부 5인의 증언"
+BeiGene의 Beqalzi(sonrotoclax)가 5/13 FDA 승인(재발/불응성 외투세포림프종). 24시간 이내 뉴스이고 헬스케어 클러스터 정렬.
 
-대안 제목:
-> "309페이지의 전쟁 — Coinbase는 환호, 은행은 분노, 상원은 오늘 결정한다"
+탈락 이유: 기존 BCL-2 억제제(Venclexta, AbbVie)와의 차별화 서사가 약하고, 국내 투자자 접점 부재. SEC 10-K·어닝콜 등 1차 자료가 경구 GLP-1 대비 훨씬 제한적. 5섹션 딥 리서치로 확장하기 어려움.
 
 ---
+
+## 선정 테마: 경구용 GLP-1 전쟁 — Lilly vs Novo, 먹는 비만약이 바꾸는 세상
+
+**제목 방향 제안**: "주사기 없는 세상이 온다 — 먹는 GLP-1, 1조 달러 비만약 시장을 뒤집다"
+
+대안 제목: "73.6%의 격차 — LLY가 NVO를 이긴 날, 경구 GLP-1 전쟁의 서막이 올랐다"
 
 **선정 이유**:
 
-1. **요일 테마 완벽 정렬**: 목요일 = 핀테크/크립토 클러스터 ✅
-2. **오늘 실시간 카탈리스트**: 5/14 10:30 AM ET 상원 위원회 마크업 투표 ✅
-3. **보이스 컴필 유형 최적**: 찬성(Armstrong·Garlinghouse) / 조건부(Tillis·Alsobrooks) / 반대(Gillibrand) / 월가 분석(Citi) — 4개 진영 5개 목소리가 풍부하게 충돌 ✅
-4. **지난 7일 완전 차별화**: 7일 내 [DEEP] 핀테크/크립토 0건 ✅
-5. **1차 자료 확보 가능**: Congress.gov 법안 전문, 상원 위원회 청문 자료, Consensus 2026 발언, Citi 리서치 보고서 ✅
-6. **시장 파급력 명확**: BTC -1.5% 선반영 + Polymarket 62% + $COIN 직결 + ETF 수급 변화
-
----
+1. **요일 테마 정렬** — 금요일 = 헬스케어/바이오 클러스터 완벽 부합 ✅
+2. **지난 7일 차별화** — AI인프라→에너지→핀테크 이후 헬스케어 최초, 7일 내 [DEEP] 0건 ✅
+3. **1차 자료 확보 탁월** — Nature Medicine 논문(5/12), Lilly IR 공시, FDA 승인 문서, CMS 보도자료, NIH 연구 — 5건+ 즉시 확보 가능 ✅
+4. **시장 관심도 최고** — 경구 GLP-1은 2026년 바이오 섹터 최대 투자 테마. $LLY·$NVO·$VKTX 직결, 한미약품 접점으로 국내 독자 고유 인사이트 ✅
+5. **🔍 딥 리서치 유형 최적** — 5개+ 소스 교차 검증, 10년 시계열, 4개국 비교 — 분량·깊이 모두 충족 ✅
 
 **다룰 좋은 관점 (14:00 작성용 힌트)**:
 
-- **시계열**: 2013 FinCEN 가이드라인 → 2017 SEC ICO 단속 → 2022 FTX 붕괴 → 2025 GENIUS Act(첫 연방 스테이블코인법) → 2026 CLARITY Act(시장구조법). BTC 가격과 주요 규제 이벤트를 13년 타임라인으로.
+- **시계열**: 2017 리라글루타이드(주사) → 2021 세마글루타이드(Ozempic) → 2023 Wegovy/Mounjaro → 2026 경구제 이중 승인. GLP-1 시장 규모 2020 $50억 → 2026 $340억 → 2030 $1,000억+ 전망. 경구화 시 주사 거부 환자 풀 2~3배 확대 가능성.
 
-- **국제 비교**: EU MiCA(2024 발효) vs 미국 CLARITY Act. 한국 가상자산이용자보호법(2024), 홍콩/싱가포르 친크립토 규제 허브化. "미국이 늦었나, 신중했나?" 규제 공백이 만든 자본 흐름.
+- **국제 비교**: 미국(LLY·NVO 양강 경쟁) vs 한국(한미약품 HL036 임상 2/3상, 동아에스티 DA-1726 경구형) vs 중국(국산 시밀러 허가 속도전) vs 유럽(보험 급여 갈등 — 독일·프랑스 제한적 커버). 한미약품은 별도 투자 각도.
 
-- **반대 시각**: 은행 연합(ABA·BPI·ICBA)의 "예금 이탈 우려"가 타당한가. 법안 통과 후에도 SEC-CFTC 관할 분쟁 잔존 가능성. Polymarket 62% = 불확실성 여전히 큼. "입법이 오히려 불확실성을 고착화할 수 있다"는 시각.
+- **반대 시각**: 경구 생체이용률 1~2% vs 주사 100% — 음식/물 타이밍 민감성, 개인간 흡수 변동성. $149/월 자기부담 = 주사제와 큰 차이 없는 가격 장벽. 장기 근육 손실·골밀도 저하 리스크. 특허 만료(2031~2034) 후 제너릭 진입 시 마진 급락. CMS $50/월 모델 현실화 시 수익성 타격.
 
-- **시사점**: 통과 시 → $COIN·Circle USDC 수혜, BTC 제도권 진입 가속, 슈왑 크립토 사업 확장. 부결/지연 시 → 단기 $COIN 충격, Circle IPO 연기 가능성. 폴리마켓 62%를 역산한 기대가치 베팅 프레임.
-
----
+- **투자 시사점**: $LLY(Foundayo 출하·이중 포트폴리오 우위) vs $NVO(최초 승인이나 성능 열위 — 포지션 재평가 분기점), $VKTX(Viking Therapeutics 경구 GLP-1 차세대 임상, 소형주 옵션), 한미약품(국내 직접 플레이). 리스크 = CMS 가격 통제 현실화.
 
 **14:00 트리거 필수 주의사항**:
-- 1차 자료 ≥ 3건 필수: Congress.gov 법안 원문 + 상원 청문 자료 + GENIUS Act 원문 or Citi 리포트
-- 보이스 컴필이므로 **직접 인용** 중심 (발언자명 + 발언일 + 출처 URL 명시)
-- 찬성 / 조건부(타협) / 반대 3진영 균형 배치
-- 표결 결과가 14:00 이전에 나왔다면 결과를 "이야기" 섹션 앞에 한 문장으로 선언 후 분석 전개
-- $COIN은 와치리스트 종목이므로 시사점 섹션에서 간략히 처리
+- 1차 자료 ≥ 3건 필수: Nature Medicine 논문 + Lilly IR 공시 + FDA 승인 문서 (+ CMS·NIH 보조)
+- $LLY는 와치리스트 외 종목 → 시사점 섹션에서 충분히 깊이 다뤄도 OK ($COIN은 와치리스트라 간략 처리였던 것과 반대)
+- 한미약품/동아에스티 국내 기업 포함 시 머뉴만의 차별 포인트
+- ATTAIN-MAINTAIN 수치(체중 변화 %, A1C 감소, 73.6% 격차) 직접 인용 필수

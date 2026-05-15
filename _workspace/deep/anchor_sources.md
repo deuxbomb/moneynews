@@ -1,84 +1,57 @@
 # 앵커 소스 — 14:00 트리거가 우선 활용
-# 테마: CLARITY Act 상원 표결 — 미국 크립토 시장 구조의 역사적 분기점
-# 선정일: 2026-05-14
+# 테마: 경구용 GLP-1 전쟁 — Lilly vs Novo, 먹는 비만약이 바꾸는 세상
+# 선정일: 2026-05-15
 
-## 1차 자료 (입법 / 규제 기관)
+## 1차 자료 (논문 / 임상 데이터)
 
-- [Congress.gov — CLARITY Act 법안 전문 (H.R.3633)] https://www.congress.gov/bill/119th-congress/house-bill/3633/text
-  → 309페이지 디지털자산시장 구조법 원문
-  → 스테이블코인 발행·수익률 조항, SEC-CFTC 관할 분리, DeFi 정의 포함
+- [Nature Medicine — ATTAIN-MAINTAIN Phase 3 (2026-05-12)] https://www.nature.com/articles/s41591-026-04386-7
+  → orforglipron 경구 유지 치료 vs 주사 GLP-1 전환 비교. 1차 자료 #1
+  → 핵심 수치: 체중 유지 효능 확인, A1C 감소 데이터 포함
 
-- [SEC — 디지털자산 해석 지침 (33-11412)] https://www.sec.gov/files/rules/interp/2026/33-11412.pdf
-  → SEC 공식 입장: 어떤 디지털자산이 증권인가 해석
-  → CLARITY Act와의 관할 조율 배경 이해용
+- [Lilly IR — orforglipron ATTAIN-MAINTAIN 결과 공식 발표] https://investor.lilly.com/news-releases/news-release-details/lillys-orforglipron-helped-people-maintain-weight-loss-after
+  → 공식 IR 보도자료. 1차 자료 #2
+  → orforglipron vs oral semaglutide head-to-head: 73.6% 더 큰 체중 감소
 
-- [Latham & Watkins — US Crypto Policy Tracker (규제 개발)] https://www.lw.com/en/us-crypto-policy-tracker/regulatory-developments
-  → GENIUS Act(2025) → CLARITY Act(2026) 입법 연대기
-  → 규제 격차 분석
+- [Lilly IR — orforglipron vs 경구 세마글루타이드 head-to-head (The Lancet 발표)] https://investor.lilly.com/news-releases/news-release-details/lillys-oral-glp-1-orforglipron-delivered-superior-blood-sugar
+  → Type 2 당뇨에서 혈당 조절 우위 확인. 1차 자료 #3
 
-## 1차 자료 (주요 인사 공식 발언)
+## 1차 자료 (규제 / 정부 기관)
 
-- [Coinbase CEO Brian Armstrong — Fox Business 인터뷰] https://www.foxbusiness.com/media/coinbase-ceo-says-crypto-bill-could-transform-us-financial-system-senate-vote-approaches
-  → "CLARITY Act가 미국 금융 시스템을 변혁할 것" 발언
-  → 보이스 컴필 핵심 인용원 #1
+- [FDA — Foundayo(orforglipron) 승인 관련 AJMC 요약] https://www.ajmc.com/view/fda-approves-lilly-s-oral-glp-1-orforglipron-for-obesity
+  → FDA 승인 조건, 적응증(비만/과체중+동반질환), 복용 편의성(음식 무관)
 
-- [Circle CSO Dante Disparte 발언 (CoinDesk)] https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield
-  → "The United States faces a clear choice: lead or be led." — 2026-05-01
-  → 스테이블코인 yield 타협안 지지 발언
-  → 보이스 컴필 핵심 인용원 #2
+- [CMS — BALANCE Model 보도자료 (Medicare GLP-1 $50/월)] https://www.cms.gov/newsroom/press-releases/cms-launches-voluntary-model-expand-access-life-changing-medicines-promote-healthier-living
+  → 2026년 7월 시작 예정. 제조사·주·플랜 자발적 참여 모델
+  → 가격 정치학 섹션 핵심 자료
 
-- [은행 연합 (ABA·BPI·ICBA) 공식 반대 성명 (Phemex)] https://phemex.com/blogs/banks-reject-clarity-stablecoin-compromise
-  → "예금 이탈 우려" — 미국 3대 은행 무역 협회 공동 반대
-  → 보이스 컴필 핵심 인용원 #3 (반대 진영)
+- [NIH — 경구 GLP-1 뇌 중추 보상회로 억제 연구] https://www.nih.gov/news-events/news-releases/oral-small-molecule-glp-1-drugs-penetrate-deep-into-brain-suppress-cravings
+  → 쾌락적 식욕(hedonic feeding) 억제 메커니즘 — 경구 GLP-1의 과학적 차별화 포인트
 
-## 추가 발언 소스 (2026-05-14 09:00 수집)
+## 시장·경쟁 분석 소스
 
-- [Brad Garlinghouse (Ripple CEO) — Consensus 2026 Miami] https://fortune.com/2026/05/13/crypto-clarity-act-senate-markup/
-  → "2주 안에 통과 못 하면 중간선거로 밀려 가능성이 급전직하"
-  → 보이스 컴필 인용원 #4
+- [Novo Nordisk beats Lilly to first FDA-approved GLP-1RA pill for obesity] https://www.pharmaceutical-technology.com/news/novo-beats-lilly-to-first-fda-approved-glp-1ra-pill-for-obesity/
+  → NVO의 oral semaglutide 선제 승인 맥락. LLY와의 경쟁 구도 이해용
 
-- [Sen. Thom Tillis (공화당, NC)] https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/
-  → "스테이블코인 타협안이 양당 합의 경로를 열었다"
-  → 보이스 컴필 인용원 #5 (입법 설계자 시각)
+- [AJMC — FDA Approves Oral Semaglutide (NVO 버전)] https://www.ajmc.com/view/fda-approves-oral-semaglutide-as-first-glp-1-pill-for-weight-loss
+  → NVO OASIS 4 trial: 76% 환자 ≥5% 체중 감소 (vs 31% 위약). 가격 $149/월
 
-- [Sen. Kirsten Gillibrand (민주당, NY)] https://finance.yahoo.com/news/clarity-act-faces-over-100-110215887.html
-  → "윤리 조항 없이는 민주당 표 없다"
-  → 보이스 컴필 인용원 #6 (반대/조건부 진영)
+- [Managed Healthcare Executive — Could orforglipron reshape the GLP-1 market?] https://www.managedhealthcareexecutive.com/view/could-orforglipron-reshape-the-glp-1-market-
+  → 시장 재편 시나리오 분석. 보험 커버리지·처방 패턴 전망
 
-- [Citi 애널리스트 리포트] https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/
-  → 법안 통과 시 BTC $143K 목표가 + ETF 추가 유입 $150억
-  → Polymarket 통과 확률 62% 데이터 교차 활용
+- [GoodRx — 5 Projected GLP-1 Trends in 2026] https://www.goodrx.com/classes/glp-1-agonists/glp-1-trends
+  → 가격 트렌드, 제너릭 진입 타임라인, 소비자 접근성 데이터
 
-- [Charles Schwab 스팟 크립토 론칭 (CoinDesk)] https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail
-  → CEO Rick Wurster: 스테이블코인 "로드맵에 있다"
-  → 시사점 섹션: CLARITY Act 통과 시 TradFi 크립토 진출 가속 맥락
-
-## 뉴스 앵커 (표결 현황)
-
-- [CoinDesk — CLARITY Act 법안 공개 (5/11)] https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing
-  → 309페이지 법안 전문 분석, 주요 조항 요약
-
-- [Fortune — 표결 직전 현황 (5/13)] https://fortune.com/2026/05/13/crypto-clarity-act-senate-markup/
-  → 위원회 13R-11D 구도, 공화당 전원 찬성 필요
-
-- [Disruption Banking — BTC·ETH·XRP 영향 분석] https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/
-  → 통과/부결 시나리오별 가격 영향 분석
-
-- [CCN — BTC·ETH·XRP 역사적 의미] https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/
-  → Citi $143K 타깃, Polymarket 62% 데이터 출처
-
-## 국제 비교 소스
-
-- [EU MiCA 규제 현황 (Cleary Gottlieb — 2026 디지털자산 규제 업데이트)] https://www.clearygottlieb.com/news-and-insights/publication-listing/2026-digital-assets-regulatory-update-a-landmark-2025-but-more-developments-on-the-horizon
-  → EU MiCA vs 미국 GENIUS·CLARITY Act 비교 분석
-
-- [Sumsub — 글로벌 크립토 규제 2026] https://sumsub.com/blog/global-crypto-regulations/
-  → 한국·일본·싱가포르·영국 규제 현황 정리 (국제 비교 섹션용)
+- [STAT News — GLP-1 researchers advance new approach: Drop GLP-1 as target (2026-04-16)] https://www.statnews.com/2026/04/16/glp1-weight-loss-new-approach/
+  → 반대 시각 섹션: GLP-1 다음 세대 약물 개발 방향, 현 약물 한계 인식
 
 ## 14:00 트리거 추가 수집 권장
 
-- 상원 위원회 5/14 표결 실제 결과 확인 → "이야기" 섹션 앞에 선언 필요
-- Coinbase Q1 2026 실적 (SEC EDGAR 8-K) → 규제 변화가 실제 사업에 미치는 영향 수치화
-- GENIUS Act(2025) 원문 또는 요약 → 시계열 섹션에서 CLARITY Act와 비교
-- 한국 가상자산이용자보호법(2024) 시행 현황 → 국제 비교 한국 섹션용
-- Digital Chamber CEO Cody Carbone 발언 → 보이스 컴필 추가 인용원 후보
+- **SEC EDGAR $LLY 10-K/10-Q** — `https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLY&type=10-Q`
+  → GLP-1 매출 가이던스, R&D 파이프라인 지출, 가격 정책 공식 수치
+
+- **SEC EDGAR $NVO 20-F** — IR 슬라이드 `investor.novonordisk.com`
+  → 경구 세마글루타이드 매출 기여, 2026 가이던스 업데이트
+
+- **한미약품 IR** — `https://www.hanmi.co.kr/kor/ir/` → HL036 임상 현황 (국제 비교 한국 섹션)
+
+- **시계열 데이터** — GLP-1 시장 규모 연도별 추이 검색: `"GLP-1 market size 2020 2026 2030 forecast"`
