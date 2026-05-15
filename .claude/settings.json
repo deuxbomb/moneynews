@@ -5,7 +5,24 @@
       "Bash(git add -f *)",
       "Bash(git commit *)",
       "Bash(git push *)",
-      "Bash(git push -u *)"
+      "Bash(git push -u *)",
+      "Bash(python3 /home/user/moneynews/send_to_slack.py)"
+    ]
+  },
+  "env": {
+    "SLACK_WEBHOOK_URL": "https://hooks.slack.com/services/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"
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=$(jq -r '.tool_input.file_path // empty'); echo \"$f\" | grep -q '02_newsletter_draft\\.md' && python3 /home/user/moneynews/send_to_slack.py 2>&1 || true"
+          }
+        ]
+      }
     ]
   }
 }

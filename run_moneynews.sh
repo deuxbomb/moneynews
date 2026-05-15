@@ -2,7 +2,9 @@
 # 머뉴(MoneyNews) 일간 뉴스레터 자동 실행 스크립트
 
 export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
-export SLACK_WEBHOOK_URL="https://hooks.slack.com/services/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"
+# 웹훅 URL을 settings.json에서 읽어옴 — 하드코딩 금지
+SETTINGS_JSON="$(dirname "$0")/.claude/settings.json"
+export SLACK_WEBHOOK_URL="${SLACK_WEBHOOK_URL:-$(jq -r '.env.SLACK_WEBHOOK_URL // empty' "$SETTINGS_JSON" 2>/dev/null)}"
 
 cd /Users/jongcheollim/moneynews
 
