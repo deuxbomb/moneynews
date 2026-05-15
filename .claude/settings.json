@@ -5,7 +5,10 @@
       "Bash(git add -f *)",
       "Bash(git commit *)",
       "Bash(git push *)",
-      "Bash(git push -u *)"
+      "Bash(git push -u *)",
+      "WebSearch(*)",
+      "WebFetch(*)",
+      "ToolSearch(*)"
     ]
   }
 }
