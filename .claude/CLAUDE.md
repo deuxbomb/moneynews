@@ -103,9 +103,23 @@ Phase 3: 뉴스레터 작성
   ├── editor-in-chief → 최종 편집
   └── quality-reviewer → 품질 검증
 
-Phase 4: 전송
-  └── 카카오톡 나에게 보내기 API
+Phase 4: Slack 전송 (MCP, 필수)
+  └── mcp__Slack__slack_send_message → 나에게 DM (channel_id: U0ATES9TTH7)
 ```
+
+## ⚠️ Slack 전송 규칙 (Phase 4 필수 수행)
+
+뉴스레터 작성 완료 후 **반드시** `mcp__Slack__slack_send_message`로 전송한다.
+- **channel_id**: `U0ATES9TTH7` (나에게 보내기 DM)
+- **메시지 한도**: 메시지당 5,000자 이하. 초과 시 여러 메시지로 분할
+- **분할 기준** (4개 메시지):
+  1. 헤드라인 + 관심종목 현황 + 오늘 주목할 것
+  2. 오늘의 픽 (스코어카드 포함)
+  3. 증시 분석 + 테마 뉴스 + 기업 뉴스 + 흥미로운 이야기
+  4. 딥다이브 + 스마트머니 + 팟캐스트
+- **형식**: Slack mrkdwn (`*bold*`, `_italic_`, `\`code\``, `>blockquote`)
+- bash/curl/python HTTP로 전송 시도 금지 — 이 서버에서 Slack HTTP가 차단됨
+- MCP 전송 실패 시 사용자에게 즉시 보고
 
 ## 산출물
 

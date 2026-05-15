@@ -5,22 +5,7 @@
       "Bash(git add -f *)",
       "Bash(git commit *)",
       "Bash(git push *)",
-      "Bash(git push -u *)",
-      "Bash(python3 /home/user/moneynews/send_to_slack.py)"
-    ]
-  },
-
-  "hooks": {
-    "PostToolUse": [
-      {
-        "matcher": "Write",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "f=$(jq -r '.tool_input.file_path // empty'); echo \"$f\" | grep -q '02_newsletter_draft\\.md' && python3 /home/user/moneynews/send_to_slack.py 2>&1 || true"
-          }
-        ]
-      }
+      "Bash(git push -u *)"
     ]
   }
 }
