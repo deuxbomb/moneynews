@@ -1,84 +1,51 @@
 # 앵커 소스 — 14:00 트리거가 우선 활용
-# 테마: CLARITY Act 상원 표결 — 미국 크립토 시장 구조의 역사적 분기점
-# 선정일: 2026-05-14
+# 테마: Walt Disney ($DIS) — 스트리밍 흑자 원년 해부
+# 선정일: 2026-05-16
 
-## 1차 자료 (입법 / 규제 기관)
+## 1차 자료 (SEC / 공식 IR)
 
-- [Congress.gov — CLARITY Act 법안 전문 (H.R.3633)] https://www.congress.gov/bill/119th-congress/house-bill/3633/text
-  → 309페이지 디지털자산시장 구조법 원문
-  → 스테이블코인 발행·수익률 조항, SEC-CFTC 관할 분리, DeFi 정의 포함
+- [SEC EDGAR — DIS 8-K (Q2 FY2026 실적, 2026-05-06)] https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DIS&type=8-K&dateb=&owner=include&count=10
+  → Q2 FY2026 공식 실적: EPS $1.57 (예상 $1.49), 매출 $25.17B (+6.5%), SVOD 영업이익 $582M (+88%), SVOD 마진 10.6%
+  → 14:00 트리거: 8-K 원문 WebFetch 후 핵심 수치 직접 확인
 
-- [SEC — 디지털자산 해석 지침 (33-11412)] https://www.sec.gov/files/rules/interp/2026/33-11412.pdf
-  → SEC 공식 입장: 어떤 디지털자산이 증권인가 해석
-  → CLARITY Act와의 관할 조율 배경 이해용
+- [Disney Q2 FY2026 Earnings Call Transcript] https://finance.yahoo.com/news/disney-dis-q2-2026-earnings/
+  → Bob Iger 발언: "스트리밍 수익성의 새로운 챕터 시작" — 시사점 섹션 인용용
+  → CNBC 어닝 원문: https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html
 
-- [Latham & Watkins — US Crypto Policy Tracker (규제 개발)] https://www.lw.com/en/us-crypto-policy-tracker/regulatory-developments
-  → GENIUS Act(2025) → CLARITY Act(2026) 입법 연대기
-  → 규제 격차 분석
+- [SEC EDGAR — DIS 10-K (Annual Reports 2021~2025)] https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DIS&type=10-K&dateb=&owner=include&count=10
+  → 시계열 섹션 핵심: 스트리밍 사업부 연간 손익 2019~2025 추출
+  → Disney+ 론칭 투자 비용, 콘텐츠 지출(CapEx) 추이 포함
 
-## 1차 자료 (주요 인사 공식 발언)
+## 1차 자료 (산업 보고서)
 
-- [Coinbase CEO Brian Armstrong — Fox Business 인터뷰] https://www.foxbusiness.com/media/coinbase-ceo-says-crypto-bill-could-transform-us-financial-system-senate-vote-approaches
-  → "CLARITY Act가 미국 금융 시스템을 변혁할 것" 발언
-  → 보이스 컴필 핵심 인용원 #1
+- [AlixPartners — 스트리밍 전쟁 2026 보고서] https://www.alixpartners.com/insights/media-entertainment-industry-predictions-report-2026/streaming-wars/
+  → "frenemy" 구도 — 넷플릭스와 디즈니의 콘텐츠 공유 트렌드
+  → 글로벌 OTT 성장률 +5% 둔화 전망 (국제 비교 섹션용)
 
-- [Circle CSO Dante Disparte 발언 (CoinDesk)] https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield
-  → "The United States faces a clear choice: lead or be led." — 2026-05-01
-  → 스테이블코인 yield 타협안 지지 발언
-  → 보이스 컴필 핵심 인용원 #2
+- [The Wrap — 스트리머 5사 구독자·매출·이익 비교 (2026-05)] https://www.thewrap.com/industry-news/business/netflix-disney-warner-bros-discovery-paramount-peacock-subscribers-revenue-profit-may-2026-update/
+  → Netflix vs Disney+ vs Hulu vs Max vs Peacock 마진 비교 데이터
+  → 국제 비교 섹션: "왜 빅2만 흑자인가?" 근거
 
-- [은행 연합 (ABA·BPI·ICBA) 공식 반대 성명 (Phemex)] https://phemex.com/blogs/banks-reject-clarity-stablecoin-compromise
-  → "예금 이탈 우려" — 미국 3대 은행 무역 협회 공동 반대
-  → 보이스 컴필 핵심 인용원 #3 (반대 진영)
+## 뉴스 앵커
 
-## 추가 발언 소스 (2026-05-14 09:00 수집)
+- [CNBC — DIS Q2 FY2026 실적 발표 (2026-05-06)] https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html
+  → 실적 세부 데이터, Bob Iger 코멘트 원문
 
-- [Brad Garlinghouse (Ripple CEO) — Consensus 2026 Miami] https://fortune.com/2026/05/13/crypto-clarity-act-senate-markup/
-  → "2주 안에 통과 못 하면 중간선거로 밀려 가능성이 급전직하"
-  → 보이스 컴필 인용원 #4
+- [24/7 Wall St. — 20% 업사이드 분석 (2026-05-12)] https://247wallst.com/investing/2026/05/12/analysts-see-20-upside-disney-170805939/
+  → 현재 주가 $108, 컨센서스 $130 → 20% 업사이드 근거
+  → 84% 애널리스트 Bullish 컨센서스 데이터
 
-- [Sen. Thom Tillis (공화당, NC)] https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/
-  → "스테이블코인 타협안이 양당 합의 경로를 열었다"
-  → 보이스 컴필 인용원 #5 (입법 설계자 시각)
+- [24/7 Wall St. — Netflix vs Disney 비교 (2026-05-12)] https://247wallst.com/investing/2026/05/12/netflix-vs-disney-only-one-is-a-winner-of-the-streaming-war/
+  → "Netflix 마진 29.5% vs Disney 10.6%" — 국제/경쟁사 비교 섹션 핵심
+  → Netflix 광고 매출 2배 성장($1.5B→$3B 목표) 포함
 
-- [Sen. Kirsten Gillibrand (민주당, NY)] https://finance.yahoo.com/news/clarity-act-faces-over-100-110215887.html
-  → "윤리 조항 없이는 민주당 표 없다"
-  → 보이스 컴필 인용원 #6 (반대/조건부 진영)
-
-- [Citi 애널리스트 리포트] https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/
-  → 법안 통과 시 BTC $143K 목표가 + ETF 추가 유입 $150억
-  → Polymarket 통과 확률 62% 데이터 교차 활용
-
-- [Charles Schwab 스팟 크립토 론칭 (CoinDesk)] https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail
-  → CEO Rick Wurster: 스테이블코인 "로드맵에 있다"
-  → 시사점 섹션: CLARITY Act 통과 시 TradFi 크립토 진출 가속 맥락
-
-## 뉴스 앵커 (표결 현황)
-
-- [CoinDesk — CLARITY Act 법안 공개 (5/11)] https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing
-  → 309페이지 법안 전문 분석, 주요 조항 요약
-
-- [Fortune — 표결 직전 현황 (5/13)] https://fortune.com/2026/05/13/crypto-clarity-act-senate-markup/
-  → 위원회 13R-11D 구도, 공화당 전원 찬성 필요
-
-- [Disruption Banking — BTC·ETH·XRP 영향 분석] https://www.disruptionbanking.com/2026/05/12/how-will-the-clarity-act-may-14-vote-impact-bitcoin-eth-and-xrp/
-  → 통과/부결 시나리오별 가격 영향 분석
-
-- [CCN — BTC·ETH·XRP 역사적 의미] https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/
-  → Citi $143K 타깃, Polymarket 62% 데이터 출처
-
-## 국제 비교 소스
-
-- [EU MiCA 규제 현황 (Cleary Gottlieb — 2026 디지털자산 규제 업데이트)] https://www.clearygottlieb.com/news-and-insights/publication-listing/2026-digital-assets-regulatory-update-a-landmark-2025-but-more-developments-on-the-horizon
-  → EU MiCA vs 미국 GENIUS·CLARITY Act 비교 분석
-
-- [Sumsub — 글로벌 크립토 규제 2026] https://sumsub.com/blog/global-crypto-regulations/
-  → 한국·일본·싱가포르·영국 규제 현황 정리 (국제 비교 섹션용)
+- [GuruFocus — DIS 실적 서프라이즈 상세] https://www.gurufocus.com/news/8847662/walt-disney-dis-surprises-with-strong-earnings-amid-streaming-growth
+  → 스트리밍 수익화 이정표, 파크 수익 데이터
 
 ## 14:00 트리거 추가 수집 권장
 
-- 상원 위원회 5/14 표결 실제 결과 확인 → "이야기" 섹션 앞에 선언 필요
-- Coinbase Q1 2026 실적 (SEC EDGAR 8-K) → 규제 변화가 실제 사업에 미치는 영향 수치화
-- GENIUS Act(2025) 원문 또는 요약 → 시계열 섹션에서 CLARITY Act와 비교
-- 한국 가상자산이용자보호법(2024) 시행 현황 → 국제 비교 한국 섹션용
-- Digital Chamber CEO Cody Carbone 발언 → 보이스 컴필 추가 인용원 후보
+- DIS 10-K (FY2021~FY2025): 스트리밍 사업부 연간 영업손익 시계열 직접 추출
+- Disney Q2 FY2026 어닝콜 트랜스크립트 전문 (fool.com 또는 seekingalpha.com)
+- 한국: 티빙·웨이브 2025/2026 손익 보고 → 국제 비교 한국 섹션용
+- ESPN DTC 서비스 론칭 일정 확인 → 시사점 섹션 카탈리스트
+- Deloitte 2026 미디어·엔터테인먼트 아웃룩 → https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/media-entertainment-industry-outlook.html
