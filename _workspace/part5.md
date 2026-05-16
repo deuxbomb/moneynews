@@ -1,15 +1,15 @@
 ---
 
-🎙️ 이번 주 테크 인사이더들이 이야기한 것
+🎙️ 팟캐스트 — 이번 주 놓치면 안 되는 에피소드
 
----
+**All-In Podcast E272 — "Elon의 Anthropic 거래, 다음 AI 독점자?" (2026-05-08)**
 
-**1. No Priors AI #461 "아마존이 '토큰 맥시멀리스트'를 만들었다" (2026-05-12)**
+Chamath·Jason·Sacks·Friedberg 넷이 이번 주 가장 핵폭탄급 AI 화두를 꺼냈다. Elon Musk가 Anthropic과 GPU 인프라 임대 계약을 맺었다 — Colossus에 있는 22만 개 이상의 NVIDIA GPU와 300MW 이상의 전력을 Claude에 빌려주는 딜이다. 결과: Claude 사용자의 API 속도 제한이 즉시 해제됐고, 유료 Opus API 볼륨이 극적으로 늘었다.
 
-Sarah Guo & Elad Gil의 No Priors가 이번 주 AI 업계 내부의 이상한 현상을 해부했다. "토큰맥싱(tokenmaxxing)" — 아마존 개발자들이 사내 AI 코딩 도구 리더보드 1위를 차지하기 위해 불필요하게 긴 프롬프트를 의도적으로 작성하는 행동이 확산되고 있다. 성과 지표가 잘못 설계되면 AI 도입이 오히려 생산성을 낮추는 역설이 실제로 일어나고 있다는 것이다. 에피소드에서 "That doesn't sound very healthy(그다지 건강한 소리가 아닌데)"라는 분석가의 한마디가 이 현상을 정확히 포착한다. 같은 에피소드에서 SpaceX와 Google의 우주 데이터센터 협업 논의(오늘 $GOOGL 뉴스와 직결)를 다뤘고, Anthropic이 AI 훈련·배포·방어 방식을 둘러싼 법적 분쟁에 직면했다는 내용도 짚었다. "AI 회사가 어떻게 모델을 훈련시켰는지가 이제 법정에서 다루는 사안이 됐다" — AI 산업의 다음 리스크가 기술이 아니라 법정에 있다는 선제적 경고다. 오늘 CLARITY Act, JPMorgan 이더리움 상품 출시와 맞물리면 AI·크립토·규제가 같은 방향으로 수렴하고 있다는 그림이 보인다.
+이 딜은 단순한 임대 계약이 아니라는 게 포드캐스트의 핵심 논점이다. David Sacks는 "Anthropic이 지금 궤도를 바꾸지 않으면, 인류 역사상 가장 강력한 독점기업이 될 것"이라고 단언했다 — "Standard Oil에 더 나은 PR을 붙여놓은 것"이라는 표현까지 썼다. Anthropic의 수익은 기하급수적으로 성장 중이며, AI 컴퓨트 확보 → 모델 개선 → 수익 증가 → 더 많은 컴퓨트 확보의 플라이휠이 돌고 있다.
 
----
+또 하나의 논쟁: 백악관의 "AI FDA" 구상. 규제가 생기면 스타트업이 죽고 빅테크만 산다는 혁신 vs 안전의 긴장 구도를 날카롭게 파헤쳤다. AI 거버넌스를 생각하는 투자자라면 Chamath의 "AI가 만드는 부의 집중" 비판과 Jason의 "AI가 만드는 생산성 혁명" 낙관론이 정면 충돌하는 이 에피소드는 반드시 들어볼 가치가 있다.
 
-**2. TBPN 에피소드 (2026-05-11) "Cerebras IPO 가격 올렸다, 트럼프는 베이징으로"**
+📌 투자 시사점: Elon은 xAI(Grok)의 경쟁자인 Anthropic에 인프라를 빌려줌으로써 AI 컴퓨트 시장에서의 자신의 포지션을 키웠다. NVDA GPU 보유자는 모든 AI 전쟁의 수혜자다 — 누가 이기든 상관없이.
 
-Technology Brothers의 John Coogan & Jordi Hays가 지금 오늘(5/14) 실제로 일어나고 있는 두 가지를 사흘 전에 미리 분석해줬다. 첫째, AI 추론 전용 칩 기업 Cerebras가 IPO 가격 범위를 상향 조정했다는 소식을 다뤘다. Cerebras는 NVDA H100 대비 최대 20배 추론 속도를 내세우며 상장을 추진 중인 회사다 — NVDA H200이 중국에 풀린 오늘, AI 칩 전쟁의 다음 챕터를 가장 선명하게 보여주는 후보. 둘째, 트럼프의 중국 방문 임박 소식을 다뤘다. 5월 11일에 TBPN이 예측한 두 가지 이슈가 5월 14일에 정확히 현실화됐다. 테크 인사이더들이 시장보다 사흘 빠른 이유가 있다.
+[All-In Podcast E272 YouTube](https://www.youtube.com/watch?v=10MdOvK-aG4) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai/id1502871393?i=1000766858188)

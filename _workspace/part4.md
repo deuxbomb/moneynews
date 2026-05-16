@@ -1,38 +1,53 @@
 ---
 
-📊 딥다이브 + 스마트머니
+🔬 딥다이브 — 스트리밍 광고 혁명: "광고를 허락하세요, 우리가 당신을 부자로 만들어드릴게요"
+
+소비자는 광고를 싫어한다. 그런데 지금 68%가 광고 있는 티어를 선택 중이다 — 이것이 스트리밍 산업의 숨겨진 비즈니스 전환점이다.
+
+Netflix의 광고 수익은 2026년 $3B을 향해 가고 있다. 전년 대비 2배 성장이다. Disney+·Hulu 합산 스트리밍 영업이익률은 처음으로 10%를 돌파했다. 스트리밍이 콘텐츠 투자로 소진되던 구조에서, 광고를 통해 자체 자금을 생성하는 구조로 바뀌고 있다.
+
+이 전환의 촉매는 역설적으로 인플레이션이다. $20짜리 Netflix 광고 없는 티어를 유지하기 부담스러운 가계가 $9짜리 광고 티어로 다운그레이드하면서, 플랫폼은 더 많은 광고 인벤토리를 광고주에게 팔 수 있게 됐다. 소비자는 아꼈고, 플랫폼은 더 벌었다. 광고주는 더 정확한 데이터 기반 타겟팅 환경을 얻었다.
+
+연관 투자 아이디어: $NFLX (광고 수익 성장 지속), $DIS (스트리밍 수익성 확보, Upfronts 광고 모멘텀), $ROKU (스트리밍 광고 인프라), $TTD (The Trade Desk — 프로그래매틱 광고 수혜)
 
 ---
 
-**📅 어닝 캘린더 & 애널리스트 레이더**
+🏦 스마트머니 동향
 
-| 종목 | 예정일 | 컨센서스 EPS | 컨센서스 매출 | 포인트 |
-|------|--------|------------|------------|--------|
-| $NVDA | 5/28 (수) | $0.93 | $43.2B (+65% YoY) | AI 칩 가이던스 + 중국 수출 효과 |
-| $COIN | 알려지지 않음 | - | - | CLARITY Act 결과 반영 여부 |
+**ARK Invest (캐시 우드) — Cerebras에 올라탔다**
 
-엔비디아 Q1 FY2027 어닝은 이번 어닝 시즌 최대 이벤트다. H200 중국 수출 허가가 Q1 마감(4월 26일) 이후에 나와 이번 실적에는 반영되지 않지만, 가이던스에는 명시적으로 포함될 가능성이 높다. 젠슨 황이 베이징에서 직접 딜을 만들고 돌아오는 상황이다.
+5월 14일, ARK는 나스닥 역사상 최대 규모 AI 칩 IPO에 첫날 올라탔다.
 
-**옵션 시그널:**
-BTC $550M 규모 숏 포지션이 $79K~$82K 구간에 집중돼 있다. CLARITY Act 통과 시 BTC 숏스퀴즈 시나리오 가능. 반대로 부결 시 $75K 지지선 테스트. $COIN P/C 비율은 낮아지는 추세 — 옵션 시장이 법안 통과 가능성을 조금씩 반영 중. [CCN](https://www.ccn.com/analysis/crypto/bitcoin-price-clarity-act-senate-vote-btc-analysis/)
+- **매수**: Cerebras(CBRS) 105,616주 ≈ $4.85M (ARKK + ARKW)
+  → 가격: IPO $185 → 첫날 $311.07 마감. ARK는 첫날 이미 68% 수익
+  → 캐시 우드의 논리: "GPU를 대체하는 것이 아니라, LLM 추론 워크로드에 최적화된 웨이퍼스케일 칩"
 
----
+- **매도**: TSM(TSMC) 41,540주 ≈ $16.6M 매도 (52주 최고가 근방)
+- **매도**: AMD 11,510주 ≈ $5.13M 매도
+- **매도**: Teradyne(TER) 22,576주 ≈ $8.2M 매도
 
-**🏦 스마트머니 동향**
+**해석**: ARK는 기존 반도체 수혜주(TSM, AMD)를 털고 신흥 AI 칩 아키텍처(Cerebras)로 자금을 이동시켰다. "NVDA 공급망 플레이"에서 "NVDA 대안 칩 직접 베팅"으로 전략이 바뀌고 있다.
 
-**ARK Invest Q1 2026 포지션 변화** (13F 업데이트):
-- 매수 증가: $HOOD(로빈후드), CRWV(코어위브), GOOGL, RBLX, AMZN — AI와 핀테크에 동시 베팅
-- 매수 감소: $COIN(일부 차익), $TSLA(일부 정리), PLTR, META — 이익 실현
-- 포트폴리오 가치: ~$12.86B, 182 홀딩
-- 특이 베팅: ARK 벤처펀드가 예측시장 플랫폼 칼시(Kalshi) $10억 시리즈 F에 참여. 밸류에이션 $220억(스페이스X·OpenAI 다음 ARK 벤처 3대 포지션). 캐시 우드의 다음 큰 내러티브가 예측시장일 수 있다. [Benzinga](https://www.benzinga.com/markets/prediction-markets/26/05/52539283/cathie-wood-bets-on-kalshi-but-her-ark-innovation-etf-hasnt-been-great-at-timing-winners)
+[TipRanks ARK](https://www.tipranks.com/news/cathie-woods-semiconductor-trades-bets-on-cerebras-stock-cbrs-after-explosive-ipo-debut-sells-tsmc-at-record-high)
 
-**내부자 매수 클러스터 (최근 5일):**
-- **SoFi Technologies ($SOFI)** CEO 앤서니 노토: 5월 8일 +$249,769(15,878주@$15.73), 5월 11일 +$248,780(15,545주@$16.00). 2026년 누적 자사주 취득 $2M+ 돌파. 역대 최고 Q1 실적 이후 주가 폭락에도 CEO가 직접 바닥을 지키고 있다. [Investing.com](https://www.investing.com/news/insider-trading-news/sofi-ceo-anthony-noto-buys-248k-in-company-stock-93CH-4677829)
+**내부자 동향 (openinsider 기준)**
 
-**월가 신규 리포트:**
-- H.C. Wainwright, $RIOT 목표가 $23→$25 상향 (Buy 유지): "핵 데이터센터 피벗이 AI 인프라 스토리와 결합"
-- Truist, $AFRM 목표가 $71→$75 상향 (Buy): 2026 인베스터 포럼 이후 결제 네트워크 전략 재확인
-- KB증권, 코스피 연간 목표 7,500→10,500 대폭 상향: 코스피 상장사 영업이익 3배 성장 전망
+- **$LULU**: 지난 3개월간 내부자 순매수 $1.5M (매수 $1.5M vs 매도 $100K). 주가가 52주 저점권에서 임원들이 사고 있다는 신호다.
 
-**Galaxy Digital 크립토+핀테크 헤지펀드 출시:**
-Galaxy Digital(AUM $10.1B)이 크립토 30% + 금융 서비스 주식 70% 구성의 $1억 헤지펀드를 출시했다. 롱·숏 병행. 운용 논리: Fed 금리 인하 + 크립토 사용 확대 기대. 기관 자금이 크립토를 '투기'가 아닌 '포트폴리오 구성 요소'로 다루기 시작했다는 신호. [CoinDesk](https://www.coindesk.com/business/2026/01/21/galaxy-digital-to-start-usd100-million-hedge-fund-targeting-crypto-fintech-ft)
+**어닝 캘린더 — 이번 주가 진짜다**
+
+| 날짜 | 종목 | 컨센서스 EPS |
+|------|------|------|
+| 5/20 (수) | $WMT Q1 FY2027 | $0.66 (장 전) |
+| 5/20 (수) | $NVDA Q1 FY2027 | 장 마감 후 |
+| 5/19-20 | Google I/O | 발표 이벤트 |
+| 5/21 (목) | $TGT Q1 | 장 전 |
+| 5/28 (수) | $LULU Q2 FY2026 | 장 마감 후 |
+
+이번 주 5월 20일은 올해 단일 가장 밀도 높은 날이 됐다. NVDA 어닝과 Google I/O가 같은 날 터진다. AI 인프라 공급자(NVDA)와 AI 서비스 플레이어(Google)가 같은 날 시장에 성적표를 내밀고 다음 분기 이야기를 쓴다.
+
+**옵션 시장 온도**
+
+NVDA 어닝 내재변동성(IV): 7.5% — 과거 4개 분기 중간 움직임의 2배 이상이다. 옵션 시장은 "이번 어닝이 가장 크게 움직인다"에 베팅 중이다. 방향은 불확실하지만, 옵션 비용은 비싸다. 콜/풋 비율은 여전히 콜 우세(강세 전망 우위)를 보이고 있다.
+
+[CNBC 옵션](https://www.cnbc.com/video/2026/05/14/options-traders-bet-on-strong-nvidia-earnings.html)
