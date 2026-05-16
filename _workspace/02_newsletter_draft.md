@@ -155,3 +155,5 @@ Josh D'Amaro는 파크 사업의 달인이다. 그러나 스트리밍·기술·A
 - [CNBC ESPN DTC](https://www.cnbc.com/2025/08/21/disney-espn-app-launch.html) — ESPN DTC 론칭
 - [CNBC CEO](https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html) — Josh D'Amaro CEO 취임
 - [Financial Content](https://markets.financialcontent.com/stocks/article/marketminute-2026-3-31-the-consolidation-renaissance-a-retrospective-on-the-170-billion-warner-paramount-union) — Paramount-WBD 합병
+
+<!-- slack_trigger: 2026-05-16 -->
