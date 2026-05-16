@@ -121,3 +121,18 @@
 - 오늘의 픽: $RIOT (카탈리스트: CLARITY Act 오늘 표결 + Terrestrial Energy 핵 데이터센터 MOU), $SOFI (카탈리스트: CEO 앤서니 노토 5/8+5/11 연속 내부자매수 $500K+, Q1 매출 $1.09B 비트) [와치리스트 외]
 - 뉴스 토픽: [크립토] CLARITY Act 상원 은행위원회 마크업 표결 오늘 / [핀테크] JPMorgan JLTXX 이더리움 토크나이즈드 MMF 출시 / [핀테크] 찰스 슈왑 스팟 크립토(BTC/ETH) 트레이딩 론칭 / [매크로] 트럼프-시진핑 베이징 정상회담 1일차(농산물·에너지+NVDA H200 中 10개사 허가) / [기업] CSCO Q3 어닝 비트+AI 인프라 수주 $5B→$9B 상향 +19% / $TSLA 베를린 배터리셀 $250M 증설+FSD 중국 추진 / $NVDA H200 中 수출 허가 / $GOOGL SpaceX 우주 데이터센터 논의
 - 팟캐스트: No Priors #461 "아마존 토큰맥싱·SpaceX-Google 협업·Anthropic 법적분쟁" (2026-05-12), TBPN "Cerebras IPO 가격 상향·트럼프 중국 방문" (2026-05-11)
+
+## 2026-05-15 14:00 [DEEP] (테마 클러스터: 헬스케어/바이오/의료기기, 유형: 🔍 딥리서치)
+- 제목: 주사 없이 살을 뺀다 — 경구 GLP-1, 먹는 비만약이 100조원 시장의 판도를 바꾼다
+- 테마 유형: 딥리서치 (특정 이슈 소스 5개+ 기획기사)
+- 핵심 주제: 2025년 12월 노보 노디스크 경구 Wegovy, 2026년 4월 Eli Lilly Foundayo(orforglipron) 연달아 FDA 승인되며 먹는 비만약 경쟁 시대가 개막. 비만 인구의 2%만 GLP-1 사용 중인 가운데, 경구형 출시 + 7월 Medicare $50 브릿지 프로그램이 시장 침투율 전환의 이중 촉매로 작용. 한국은 보험급여 미해결, 일본과의 격차, 국내 경구형 출시 1~2년 지연 전망을 국제 비교로 조명.
+- 다룬 종목/기업: $LLY (Eli Lilly), $NVO (Novo Nordisk), $VKTX (Viking Therapeutics), $GPCR (Structure Therapeutics), $AZN (AstraZeneca/Eccogene)
+- 핵심 주장/결론: 경구형 GLP-1은 주사 장벽 제거로 98%의 미개척 비만 인구에 접근을 열지만, 평생 복약 필요·장기 골밀도 위험·GI 부작용·보험 격차라는 4중 균열이 존재. 투자 관점: 7월 Medicare 브릿지 이후 Q3 처방 데이터가 다음 분기점, 파이프라인은 Structure($GPCR)·Viking($VKTX) 주목.
+- 1차 자료 출처: NEJM ATTAIN-1 임상 × 1, CMS Medicare GLP-1 Bridge 공식 × 1, PMC 근골격 안전성 연구 × 1, AAOS 2026 발표 × 1, Eli Lilly Q1 2026 IR × 1, Novo Nordisk Q1 2026 실적 × 1 (총 6건)
+- 판정: Minor (4개 개선점 반영 — 달러 표기 오류 수정, 중국 섹션 정리, Medicare 브릿지 정보 구체화, 마지막 여운 문장 추가)
+
+## 2026-05-14 14:00 [DEEP] (테마 클러스터: 핀테크/결제/크립토, 유형: 🎤 보이스 컴필)
+- 제목: 309페이지가 바꿀 것들 — Coinbase는 환호, 은행은 분노, 상원은 결정했다
+- 테마 유형: 보이스컴필 (주요 인사 발언 3개+ 교차 분석)
+- 핵심 주제: 2026-05-14 미국 상원 금융위원회의 디지털자산시장 CLARITY Act 마크업 표결을 중심으로, 찬성 진영(Brian Armstrong/Coinbase, Dante Disparte/Circle), 반대 진영(Rob Nichols/ABA + 5대 은행 연합), 타협 진영(Tim Scott, Kennedy)의 충돌하는 발언을 교차 분석. 10년 미국 크립토 규제 역사(2015~2026)와 EU MiCA·일본·한국·싱가포르 국제 비교 포함.
+- 다룬 종목/기업: $COIN (Coinbase), $BTC, $ETH, Circle(CRCL)
