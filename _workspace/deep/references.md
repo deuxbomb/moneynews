@@ -1,49 +1,50 @@
-# 레퍼런스 기사 분석 — 2026-05-15
+# 레퍼런스 기사 분석 — 2026-05-16 ($DIS 종목 해부)
 
 ## 레퍼런스 기사
 
-대부분의 외부 기사 사이트가 403으로 직접 접근이 차단되어, 검색 결과 스니펫과 내부 메타 분석으로 대체합니다.
+외부 사이트 다수 403 차단으로, 검색 결과 스니펫과 메타 분석 기법을 활용합니다.
 
 ---
 
-### 1. Scientific American — Head-to-head trial shows Eli Lilly's oral GLP-1 outperforms oral semaglutide
-URL: https://www.scientificamerican.com/article/head-to-head-trial-shows-eli-lillys-oral-glp-1-orforglipron-outperforms-oral/
+### 1. Hollywood Reporter — "Streaming Profit Report: Netflix Leads, Disney Rises"
+URL: https://www.hollywoodreporter.com/business/business-news/streaming-profit-report-netflix-leads-disney-warner-bros-1236184451/
 
-- **구조**: 뉴스 리드 → 임상 데이터 비교 → 전문가 코멘트 → 시장 맥락 → 결론
-- **문체**: 객관적·과학적. 데이터 중심. "제목은 결론을 먼저 던진다"
-- **도입부**: 비교 임상 결과라는 충격적 사실을 첫 문장에 배치
-- **숫자 활용**: 체중 감량 %를 절대 수치(파운드)와 함께 병기
-- **배울 점**: 도입부에서 "충돌"을 만들어 긴장감 유지. 임상 데이터는 맥락(기간, 참여자 수)과 함께
-
----
-
-### 2. AAMC — GLP-1 pills for weight loss are here. How will they change obesity care?
-URL: https://www.aamc.org/news/glp-1-pills-weight-loss-are-here-how-will-they-change-obesity-care
-
-- **구조**: "뭔가 달라진다"는 선언 → 기존 주사의 한계 → 경구형이 여는 가능성 → 의사 관점 → 리스크 → 미래
-- **문체**: 의료 전문가 대상이지만 접근성 있는 어조. 전문 용어에 부연 설명 자연스럽게 포함
-- **도입부**: 현재 변화 선언 ("The pills are here")
-- **숫자 활용**: 2% 침투율 같은 큰 그림 숫자로 시장 규모 맥락화
-- **배울 점**: "아직 가야 할 길"의 증거로 숫자 사용 → 기회를 자연스럽게 암시
+- **구조**: 업계 현황 선언 → 회사별 비교 표 → 승자/패자 분석 → 통합/합병 시사점 → 결론
+- **문체**: 비즈니스 저널리즘 스타일. 간결하고 단정적. 표와 숫자 중심
+- **도입부**: "Netflix가 선두를 달리는 동안 디즈니는 처음으로 두 자릿수 마진에 진입했다" — 대비 구도로 시작
+- **숫자 활용**: 마진 %를 절대 이익 달러와 함께 제시. "29.5% vs 10.6%"처럼 즉시 비교 가능하게
+- **배울 점**: 경쟁 비교 표를 스토리의 중심 증거로 활용. 숫자 격차가 내러티브를 구동
 
 ---
 
-### 3. Medium — GLP-1 Drugs (Ozempic & Beyond): The Promise, the Risks, and the Future
-URL: https://medium.com/predict/glp-1-drugs-ozempic-beyond-the-promise-the-risks-and-the-future-of-obesity-treatment-b615d8804ae3
+### 2. 247 Wall St. — "Analysts See 20% Upside for Disney on New Streaming Profitability Milestone"
+URL: https://247wallst.com/investing/2026/05/12/analysts-see-20-upside-for-disney-on-new-streaming-profitability-milestone/
 
-- **구조**: 과학적 배경 → 효능 → 위험 → 비용 접근성 → 미래
-- **문체**: 교육적이지만 개인적 어조. "당신" 직접 호명
-- **도입부**: "세상이 GLP-1에 열광하는 이유" — 욕망을 건드리며 시작
-- **숫자 활용**: $900/월, $1,350/월 같은 구체적 비용을 독자의 지갑 관점에서 설명
-- **배울 점**: 의료 데이터를 실생활 비용·불편함으로 번역하면 독자 공감
+- **구조**: 카탈리스트 선언 → 구체 데이터 → 애널리스트 컨센서스 → 리스크 → 투자 결론
+- **문체**: 투자자 대상. 직설적. "지금 사야 하나?"에 직접 답하는 방식
+- **도입부**: 실적 이후 주가 급등이라는 사건 → 밸류에이션 질문 연결
+- **숫자 활용**: 컨센서스 목표가($130~$134)와 현재가($108)의 업사이드 %(20~25%)를 즉시 제시
+- **배울 점**: 투자 판단 지점을 명확히 명시. "매수 조건"을 구체화
+
+---
+
+### 3. Deadline Hollywood — "Disney Begins Josh D'Amaro Era With A Bang"
+URL: https://deadline.com/2026/05/disney-earnings-josh-damaro-ceo-streaming-1236882247/
+
+- **구조**: 새로운 시대 선언 → CEO 첫 실적의 상징성 → 세그먼트별 성과 → 전략 방향 → 불확실성
+- **문체**: 엔터테인먼트 업계 관점. CEO 리더십을 스토리 중심에 배치. 서사적
+- **도입부**: "새로운 시대가 시작됐다" — 전환점 강조
+- **숫자 활용**: 숫자보다 의미를 먼저 설명하고 숫자로 뒷받침
+- **배울 점**: 한 명의 리더십을 스토리 앵커로 삼으면 숫자에 인간적 생명력이 부여됨
 
 ---
 
 ## 작성 시 적용할 기법
 
-1. **도입부**: 오늘 벌어진 사건("출시 6주, 하루 1,000명")을 현장감 있게 열기
-2. **숫자 맥락화**: "2% 침투율" → "세계 10억 비만인 중 고작 2천만 명만 혜택"
-3. **소제목**: 결론 담은 문장형. "시계열"이 아닌 "20년 만에 열린 알약의 시대"
-4. **충돌 구조**: Novo(선도자, 13.6%) vs Lilly(편의성, 12.4%)의 대비 유지
-5. **한국 독자 관점**: 한국 진입 지연, 일본과 보험 격차, K-바이오 기업 기회
-6. **마지막 문장**: 7월 Medicare 브릿지를 다음 카탈리스트로 암시하며 마무리
+1. **도입부**: "6년을 기다린 숫자"라는 구체 사건으로 열기 — 독자가 바로 stakes를 이해하도록
+2. **시계열 섹션**: 연도별 손익 수치를 단순 나열 금지. "이 적자가 무슨 의미인가"를 맥락화 (예: $4B = 한국 넷마블 시가총액의 X배)
+3. **소제목**: 결론 담은 문장형. "시계열 분석"이 아닌 "6년의 적자가 숫자가 된 날" 스타일
+4. **대비 구조**: Netflix 29.5% vs Disney 10.6% — 격차를 스토리의 핵심 긴장으로 유지
+5. **국제 비교**: 한국/일본 로컬 OTT 모두 적자 → "왜 미국 빅2만 흑자를 달성했나" 질문
+6. **Bear Case**: FCF -53%라는 불편한 진실을 정직하게 제시
+7. **마지막 문장**: 스트리밍 마진 15% 돌파 시점이 다음 매수 신호임을 암시하며 마무리

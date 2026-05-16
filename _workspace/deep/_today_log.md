@@ -34,3 +34,12 @@
 - 핵심 주장/결론: ASIC 성장률(44.6%)이 GPU(16.1%)를 압도하며 2028년 출하량 추월 예정. 픽앤샤블 수혜는 $AVBO($73B 수주잔고)·$TSM·$MRVL이며, 한국 HBM은 ASIC 슈퍼사이클의 필수 소재로 +82% 수요 급증 전망.
 - 1차 자료 출처: SEC EDGAR Broadcom 10-K × 1, TSMC Q1 2026 어닝콜 트랜스크립트 × 1, Google Cloud 공식 블로그 × 1, Meta 공식 뉴스룸 × 1, Microsoft 공식 블로그 × 1, TrendForce 보고서 × 1, Bloomberg Intelligence 보고서 × 1 (총 7건)
 - 판정: Minor (5개 개선점 반영 — Ironwood 공정 노드 표기 완화, TSMC 이익률 표현 수정, Blackwell 매진 표현 완화, 칩 성능 테이블 H100 기준 행 추가, 결론 여운 문장 추가)
+
+## 2026-05-16 14:00 [DEEP] (테마 클러스터: 소비재/미디어/엔터, 유형: 📊 종목 해부)
+- 제목: 6년을 기다린 첫 흑자 — 디즈니 스트리밍 해부, $108에서 $130은 가능한가
+- 테마 유형: 종목해부 (한 종목 완전 분해 — 관심종목 외 발굴)
+- 핵심 주제: Q2 FY2026에서 Disney+가 영업이익률 10.6%를 처음 달성, 6년·누적 $10B+ 적자 끝의 첫 두 자릿수 흑자. 새 CEO Josh D'Amaro의 첫 어닝콜. Netflix 29.5% vs Disney 10.6%의 18.9%p 격차, 한국 Tving/Wavve 적자, 일본 시장 비교. FCF -53% 경고와 매수 3조건(마진 15% 돌파·파크 안정·CEO 검증) 제시.
+- 다룬 종목/기업: $DIS (Walt Disney), $NFLX (비교), WBD, Peacock, Tving, Wavve
+- 핵심 주장/결론: 스트리밍 10.6%는 구조적 전환의 시작이지 완성이 아니다. FCF -53% 경고를 감안하면 분할 매수·증거 확인형 전략이 적합. FY2027이 D'Amaro의 진짜 첫 성적표.
+- 1차 자료 출처: SEC EDGAR 8-K Q2 FY2026 × 1, Q2 어닝콜 트랜스크립트(Motley Fool) × 1, Disney 공식 IR 코멘터리 × 1, SEC EDGAR 10-K FY2025 × 1, The Wrap 스트리밍 비교 분석 × 1 (총 5건)
+- 판정: Minor (4개 개선점 반영 — 구독자 감소 표현 완화, D'Amaro 직접 인용 삽입, ESPN DTC 비용 균열 추가, 마지막 여운 문장 강화)

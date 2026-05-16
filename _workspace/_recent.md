@@ -136,3 +136,9 @@
 - 테마 유형: 보이스컴필 (주요 인사 발언 3개+ 교차 분석)
 - 핵심 주제: 2026-05-14 미국 상원 금융위원회의 디지털자산시장 CLARITY Act 마크업 표결을 중심으로, 찬성 진영(Brian Armstrong/Coinbase, Dante Disparte/Circle), 반대 진영(Rob Nichols/ABA + 5대 은행 연합), 타협 진영(Tim Scott, Kennedy)의 충돌하는 발언을 교차 분석. 10년 미국 크립토 규제 역사(2015~2026)와 EU MiCA·일본·한국·싱가포르 국제 비교 포함.
 - 다룬 종목/기업: $COIN (Coinbase), $BTC, $ETH, Circle(CRCL)
+
+## 2026-05-16 09:00 [AM] (테마: 소비재/미디어/엔터)
+- 헤드라인: 사상 최고치를 찍은 다음날, 30년물 5%가 터졌다
+- 오늘의 픽: $LULU (카탈리스트: D-12 5/28 Q2 실적, -42.5% YTD 과매도, 내부자매수 $1.5M, 신임 CEO), $WMT (카탈리스트: D-5 5/21 Q1 실적, 인플레이션 트레이드다운 수혜, Strong Buy 29명) [와치리스트 외 발굴]
+- 뉴스 토픽: [매크로] 미국 30년물 국채 5.114% 돌파 / 트럼프-시진핑 베이징 빈손 회담 / 연내 금리인상 확률 45% / WTI $104 / 코스피 7,493 (-488p 폭락) / [소비재/미디어] Netflix $20 광고없는 티어 가격인상 / Disney+ 스트리밍 수익 +88% / Deloitte 소비자 지출 트렌드 / [기업] TSLA -4.75% FSD 프로브 확대+Model S/X 단종 / NVDA -4.4% D-5 어닝+Cerebras IPO 경쟁 / GOOGL $395 D-4 Google I/O 5/19-20 / OKLO -7.83% Q1 어닝미스 / COIN +3.07% CLARITY Act 진전 / [ARK] Cerebras(CBRS) 매수 $4.85M, TSM 매도 $16.6M, AMD 매도 $5.13M
+- 팟캐스트: All-In Podcast E272 "Elon의 Anthropic 거래, 다음 AI 독점자?" (2026-05-08)

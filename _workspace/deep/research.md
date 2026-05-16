@@ -1,218 +1,170 @@
-# 딥다이브 리서치 노트 — 2026-05-15
+# 딥다이브 리서치 노트 — 2026-05-16
 
 ## 테마
-경구 GLP-1 혁명 — 먹는 비만약이 100조 원 시장의 판도를 바꾼다
+Walt Disney ($DIS) — 6년 스트리밍 적자 끝 첫 두 자릿수 흑자. 지금 사야 하나?
 
 ## 유형
-🔍 딥리서치 (금요일 — 헬스케어/바이오/의료기기 클러스터)
+📊 종목 해부 (토요일 — 소비재/미디어/엔터 클러스터)
 
 ## 선정 이유
-2026년 4월 FDA가 소분자 경구 GLP-1 'Foundayo(orforglipron)'를 승인하며 Novo Nordisk의 경구 Wegovy(2025년 12월 승인)와 함께 2개의 먹는 비만약이 동시에 시장에 진입했다. 7월부터 Medicare $50 브릿지 프로그램이 시작돼 수천만 고령자에게 접근성이 열린다. 현재 비만 인구의 2%만 GLP-1을 쓰고 있어 경구형 출시가 시장 침투율을 수직으로 끌어올릴 구조적 변화를 읽는다.
+Q2 FY2026(5/6 발표)에서 스트리밍 영업이익률 10.6%를 최초 달성. 2019년 Disney+ 론칭부터 2023년까지 누적 손실 100억 달러 이상. 6년의 실패를 딛고 선 첫 흑자 — '지금 사야 하나?'라는 투자자 질문이 절정에 달한 시점. 신임 CEO Josh D'Amaro의 첫 실적 발표이기도 함.
 
 ---
 
-## 1차 자료 인용 (6건 ≥ 필수 3건)
+## 1차 자료 인용 (5건 ≥ 필수 3건)
 
-1. **NEJM 임상 논문 — ATTAIN-1 Phase 3**: orforglipron(Foundayo) 72주 임상 결과
-   - 출처: https://www.nejm.org/doi/full/10.1056/NEJMoa2511774
+1. **Disney Q2 FY2026 8-K (SEC EDGAR)** — 공식 실적 발표 파일
+   - 출처: https://www.sec.gov/Archives/edgar/data/1744489/000174448926000036/fy2026_q2xprxex991.htm
 
-2. **CMS 정부 자료 — Medicare GLP-1 Bridge 프로그램 공식 발표**
-   - 출처: https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge
+2. **Disney Q2 FY2026 어닝콜 트랜스크립트 (The Motley Fool)** — 2026-05-06
+   - 출처: https://www.fool.com/earnings/call-transcripts/2026/05/06/disney-dis-q2-2026-earnings-transcript/
 
-3. **PMC/NIH 학술 자료 — GLP-1와 근골격 건강 장기 안전성 연구**
-   - 출처: https://pmc.ncbi.nlm.nih.gov/articles/PMC12803457/
+3. **Disney 공식 Q2 CEO 코멘터리 (thewaltdisneycompany.com)** — Josh D'Amaro 공식 발언
+   - 출처: https://thewaltdisneycompany.com/news/disney-q2-earnings-2026/
 
-4. **Eli Lilly Q1 2026 실적 보도자료 (PR Newswire — 공식 IR 자료)**
-   - 출처: https://www.prnewswire.com/news-releases/lilly-reports-first-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-momentum-of-new-medicines-302758113.html
+4. **Disney 10-K FY2025 (SEC EDGAR)** — 연간 재무 데이터 기준점
+   - 출처: https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/dis-20250927.htm
 
-5. **AAOS 2026 Annual Meeting 발표 자료 — GLP-1과 근골격 건강 연구**
-   - 출처: https://aaos-annualmeeting-presskit.org/2026/research-news/studies-explore-glp-1-receptor-agonist-use-and-its-impact-on-long-term-musculoskeletal-health/
-
-6. **Novo Nordisk Q1 2026 실적 발표 (Fierce Pharma)**
-   - 출처: https://www.fiercepharma.com/pharma/novo-ceo-cites-wegovy-pill-pricing-sweet-spot-oral-obesity-launch-garners-355m-its-1st
+5. **The Wrap 스트리밍 플랫폼 비교 분석 (2026년 5월)** — Netflix/Disney/WBD/Peacock 비교
+   - 출처: https://www.thewrap.com/industry-news/business/netflix-disney-warner-bros-discovery-paramount-peacock-subscribers-revenue-profit-may-2026-update/
 
 ---
 
 ## 팩트 (출처 필수)
 
-### 📌 FDA 승인 타임라인
+### Q2 FY2026 핵심 실적 (2026-05-06 발표)
 
-1. Novo Nordisk 경구 Wegovy(semaglutide 25mg 알약)가 2025년 12월 FDA로부터 최초 경구형 GLP-1 비만약으로 승인 받았다.
-   - 출처: https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916472
+1. 전체 매출 $25.2B (+7% YoY), 컨센서스 $24.85B 상회 — 출처: https://variety.com/2026/tv/news/disney-q2-2026-earnings-josh-damaro-streaming-income-1236738974/
+2. 조정 EPS $1.57 (+8%), 컨센서스 $1.50 상회 — 출처: https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html
+3. GAAP 희석 EPS $1.27 (전년 $1.81에서 감소 — 전년 일회성 세금 혜택 기저 효과) — 출처: https://www.stocktitan.net/sec-filings/DIS/8-k-walt-disney-co-reports-material-event-0097bd347113.html
+4. 총 세그먼트 영업이익 $4.6B (+4% YoY) — 출처: 상동
+5. 발표 당일 주가 +8.4% 급등, 현재 주가 ~$108 — 출처: https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html
 
-2. 경구 Wegovy는 2026년 1월 5일 미국 시장 출시.
-   - 출처: https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html
+### 스트리밍 세그먼트 (Entertainment SVOD)
 
-3. Eli Lilly의 Foundayo(orforglipron)는 2026년 4월 1일 FDA 승인 받음. 신청 후 50일, PDUFA 날짜 기준 294일 앞선 조기 승인 — 2002년 이후 신약 신청 최속 기록.
-   - 출처: https://www.goodrx.com/conditions/weight-loss/orforglipron-danuglipron-new-weight-loss-drug
+6. SVOD 매출 $5.49B (+13% YoY) — 출처: https://www.stocktitan.net/sec-filings/DIS/10-q-walt-disney-co-quarterly-earnings-report-2442316a11a7.html
+7. SVOD 영업이익 $582M (+88% YoY, 전년 $310M) — 출처: 상동
+8. SVOD 영업이익률 **10.6%** — 디즈니 역사상 최초 두 자릿수 스트리밍 마진 — 출처: 상동
+9. 스트리밍 매출이 선형 TV 매출을 처음으로 초과 (Entertainment 구독·광고 기준) — 출처: https://www.fool.com/investing/2026/05/06/disneys-new-ceo-josh-damaro-kicks-off-his-tenure-w/
+10. Q1 FY2026 스트리밍: 매출 $5.35B (+11%), 영업이익 $450M (+72%) — 전 분기 데이터 — 출처: https://businesstats.com/disney-plus/
 
-4. Foundayo는 2026년 4월 9일 출시, 3주 만에 5,612건 처방, 일 1,000명+ 시작 중.
-   - 출처: 검색 결과 종합 (CNBC, BioPharma Dive)
+### 세그먼트별 결과
 
-5. Foundayo는 FDA 국가 우선 바우처(National Priority Voucher) 프로그램 5번째 승인 약물.
-   - 출처: https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program
+11. Entertainment 세그먼트: 매출 $11.72B (+10%) — 출처: 10-Q 집계
+12. Experiences 세그먼트: 매출 $9.49B (+7%), 영업이익 $2.62B (+5%) — 분기 사상 최대 — 출처: https://www.wdwmagic.com/other/walt-disney-company/news/06may2026-disney-parks-revenue-hits-q2-record-as-guest-spending-rises-5.htm
+13. Sports 세그먼트(ESPN): 매출 $4.61B (+2%) — 출처: 10-Q
+14. Experiences 영업이익 $2.62B / 총 세그먼트 OI $4.6B = **57%** (최대 이익 세그먼트) — 자체 계산
 
-### 📌 임상 효과 비교
+### 가이던스 및 자본 배분
 
-6. ATTAIN-1(orforglipron Phase 3): 72주, 3,127명(한국·미국·브라질·중국·인도·일본 등 글로벌), 최고 용량 체중 27.3파운드(12.4%) 감량.
-   - 출처: https://www.nejm.org/doi/full/10.1056/NEJMoa2511774
+15. Q3 FY2026 가이던스: 총 세그먼트 영업이익 ~$5.3B (+16% YoY) — 출처: Variety
+16. FY2026 조정 EPS 가이던스: +12% (53주 효과 제외), +16% 포함 시 — 출처: CNBC
+17. FY2026 자사주매입 목표: $8B 이상 — 출처: CNBC
+18. FY2026 전체 FCF 가이던스: ~$10B (운영현금 $19B - 설비투자 $9B) — 출처: https://247wallst.com/investing/2026/05/12/analysts-see-20-upside-for-disney-on-new-streaming-profitability-milestone/
+19. FY2026 매출 전망: $101B 최초 돌파 예상 (컨센서스) — 출처: 복수 애널리스트 집계
 
-7. ATTAIN-1 세부: 최고 용량 복용자 중 59.6%가 체중 10%+ 감량, 39.6%가 15%+ 감량.
-   - 출처: https://www.hcplive.com/view/attain-1-orforglipron-achieves-up-to-12-weight-loss-in-phase-3-obesity-trial
+### FCF 현황 (주의 요망)
 
-8. 경구 Wegovy(oral semaglutide 25mg): OASIS 4 임상, 64주, 체중 13.6% 감량.
-   - 출처: https://www.appliedclinicaltrialsonline.com/view/fda-approves-oral-wegovy-positive-oasis-trial-results
-
-9. 간접 비교(ORION 연구): 경구 Wegovy가 Foundayo 대비 약 3%p 추가 감량. 단, 직접 비교 임상 아님.
-   - 출처: https://www.prnewswire.com/news-releases/wegovy-pill-demonstrated-greater-weight-loss-than-orforglipron-and-lower-odds-of-stopping-medication-due-to-side-effects-in-a-new-indirect-comparison-to-be-presented-at-obesity-medicine-association-2026-302732768.html
-
-10. Foundayo는 음식·물 제한 없이 아무 때나 복용 가능. 소분자 약물로 경구 생체이용률 79%(경구 semaglutide ~1% 대비 약 80배).
-    - 출처: https://therxindex.com/guides/orforglipron-vs-wegovy-pill
-
-11. 경구 Wegovy는 식전 30분 전 물 120mL와 함께 공복 복용 필요 — 펩타이드 약물의 소화관 분해 취약성 때문.
-    - 출처: 복수 검색 결과 종합
-
-12. ATTAIN-MAINTAIN(Phase 3b): 주사 GLP-1으로 72주 치료 후 Foundayo 알약으로 전환, 52주 동안 체중 유지(75~80% 유지). 모든 1차·2차 엔드포인트 달성.
-    - 출처: https://www.clinicaltrialsarena.com/news/eli-lilly-orforglipron-phase-iii-obesity-weight-maintenance-trial/
-
-### 📌 가격
-
-13. Foundayo 가격: 자부담 $149/월(최저 용량), 상업보험 $25/월, Medicare 2026.7~2027.12: $50/월.
-    - 출처: https://www.goodrx.com/conditions/weight-loss/orforglipron-danuglipron-new-weight-loss-drug
-
-14. 경구 Wegovy 가격: 시작 용량 $149/월 (유사 가격대).
-    - 출처: https://www.fiercepharma.com/pharma/novo-ceo-cites-wegovy-pill-pricing-sweet-spot-oral-obesity-launch-garners-355m-its-1st
-
-15. 기존 주사 Wegovy: 리스트가 $1,300/월+. Ozempic: $900/월+.
-    - 출처: 검색 결과 종합
-
-### 📌 시장 규모 & 처방 현황
-
-16. GLP-1 RA 전 세계 시장: 2025년 $66.38B → 2033년 $185.32B 전망 (CAGR 12.4%).
-    - 출처: https://www.grandviewresearch.com/industry-analysis/glp-1-agonists-weight-loss-drugs-market-report
-
-17. 비만 인구 중 GLP-1 사용률: 현재 약 2%. 당뇨 환자 중 7%. 거대한 미개척 시장.
-    - 출처: https://www.jpmorgan.com/insights/global-research/current-events/obesity-drugs
-
-18. 미국 GLP-1 시장 점유율: Lilly 60%+ vs Novo Nordisk 39.4%.
-    - 출처: 검색 결과 종합 (JPMorgan, IQVIA)
-
-19. 경구 Wegovy: Q1 2026에 2.26B DKK(≈$330M) 매출 — 예상 1.16B DKK의 2배 초과. 130만 건 처방(Q1), 신규 처방 65% 점유.
-    - 출처: https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html
-
-20. Foundayo 처방 중 80%가 "GLP-1 처음 사용자" — 주사 경험자 전환이 아닌 신규 진입.
-    - 출처: 검색 결과 (BioPharma Dive)
-
-### 📌 Eli Lilly Q1 2026 실적
-
-21. LLY Q1 2026 총 매출 $19.8B (+56% YoY). Zepbound(injectable obesity) $4.1B (+79%). Mounjaro $7.4B.
-    - 출처: https://www.prnewswire.com/news-releases/lilly-reports-first-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-momentum-of-new-medicines-302758113.html
-
-22. LLY 2026 가이던스 상향: $82~85B 매출 (기존 $80~83B), Non-GAAP EPS $35.50~37.00.
-    - 출처: 동상
-
-### 📌 Medicare 접근성 확대
-
-23. CMS Medicare GLP-1 Bridge: 2026년 7월 1일~2027년 12월 31일(18개월). 자격자 $50/월. 대상: 경구·주사 Wegovy, Zepbound KwikPen, Foundayo. 조건: BMI 27+ + 동반질환.
-    - 출처: https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge
-
-24. Medicare는 그동안 비만약 원칙적 비급여. 이번 브릿지가 역사적 전환점.
-    - 출처: https://www.kff.org/medicare/what-to-know-about-the-balance-model-for-glp-1s-in-medicare-and-medicaid/
-
-### 📌 국제 비교 — 한국
-
-25. 한국에서 주사형 위고비 2024년 10월 출시, 8개월 40만 건 처방 (비급여 30~40만원/월).
-    - 출처: https://koreadiabetes.com/news/?bmode=view&idx=168592564
-
-26. 경구형 GLP-1은 아직 한국 미승인 (FDA 승인 후 국내 허가에 1~2년 소요 예상).
-    - 출처: 검색 결과 종합
-
-27. 한국: 비만치료 목적 GLP-1 보험급여 불가 (비급여 전액 본인부담). Lilly Korea는 Mounjaro 당뇨 급여를 HIRA에 신청 중.
-    - 출처: https://www.koreabiomed.com/news/articleView.html?idxno=27449
-
-28. 일본: GLP-1이 당뇨·비만 모두 보험급여. 한국보다 접근성 앞섬.
-    - 출처: 검색 결과 종합
-
-### 📌 국제 비교 — 유럽
-
-29. EU: 주사 Wegovy 2022년 1월 EMA 승인. 고용량(7.2mg) 추가 승인 (21% 감량). 경구 Wegovy EMA 심사 중, 2026년 H2 출시 예상.
-    - 출처: https://www.biopharminternational.com/view/european-commission-once-weekly-wegovy-obesity
-
-### 📌 경쟁 파이프라인
-
-30. AstraZeneca + Eccogene: elecoglipron (소분자 경구 GLP-1) 2026년 1월 Phase 3 시작 발표.
-    - 출처: https://www.pharmavoice.com/news/glp-1-pharma-obesity-pill-drug-novo-viking-structure-lilly/808195/
-
-31. Structure Therapeutics: aleniglipron, 36주 11%+ 감량, 고용량 15%+ — Foundayo 초과.
-    - 출처: 동상
-
-32. Viking Therapeutics: VK2735 경구형 Phase 2 진행 중.
-    - 출처: 동상
-
-33. Pfizer: danuglipron 포기(2025) → Metsera 인수로 재도전.
-    - 출처: 동상
-
-### 📌 장기 안전성 우려
-
-34. AAOS 2026 연구: GLP-1 5년+ 사용자에서 골다공증 위험 유의미하게 증가.
-    - 출처: https://aaos-annualmeeting-presskit.org/2026/research-news/studies-explore-glp-1-receptor-agonist-use-and-its-impact-on-long-term-musculoskeletal-health/
-
-35. PMC 연구(2026): GLP-1 RA와 근골격 건강 — 근육량·골밀도 감소, 비타민D·칼슘 결핍 우려. "5~10년 추적 데이터 이제 막 나오기 시작".
-    - 출처: https://pmc.ncbi.nlm.nih.gov/articles/PMC12803457/
-
-36. GI 부작용: Foundayo의 부작용 중단율이 경구 Wegovy 대비 약 4배(ORION 간접 비교).
-    - 출처: https://www.pharmacytimes.com/view/oral-semaglutide-demonstrates-greater-weight-loss-versus-orforglipron-in-indirect-comparison
-
-37. 투약 중단 시 요요: GLP-1 중단 후 대부분 체중 복귀 → 사실상 평생 복약 필요.
-    - 출처: Medium 복수 기사
-
-38. 보험 접근성 격차: 미국 내에서도 상당수 보험이 비만약 비급여. $149~$1,300/월은 저소득층 접근 불가.
-    - 출처: https://www.npr.org/2026/04/22/nx-s1-5794613/health-insurance-wegovy-zepbound
+20. H1 FY2026 FCF: $2.66B (-53% YoY) — 출처: 247wallst.com (위)
+21. FCF 감소 원인: (1) 캘리포니아 산불 관련 세금 지연 납부 + (2) Entertainment·Sports 콘텐츠 지출 증가 — 출처: 상동
+22. Q2 FY2026 영업현금흐름: $0.7B (전년 $3.2B에서 감소) — 출처: 상동
 
 ---
 
-## 숫자 데이터
+## 스트리밍 6년 역사 (시계열용)
 
-| 항목 | 수치 | 출처 |
-|------|------|------|
-| GLP-1 세계 시장(2025) | $66.38B | Grand View Research |
-| GLP-1 세계 시장(2033E) | $185.32B | Grand View Research |
-| 비만인구 중 GLP-1 사용률 | ~2% | JPMorgan |
-| ATTAIN-1 체중 감량(최고 용량) | 12.4% | NEJM |
-| OASIS 4 체중 감량(경구 Wegovy) | 13.6% | AJMC |
-| 경구 Wegovy Q1 2026 매출 | 2.26B DKK ≈ $330M | Fierce Pharma |
-| 경구 Wegovy Q1 2026 처방 수 | 130만 건 | CNBC |
-| Foundayo 일 처방 속도 | 1,000명+/일 | LLY IR |
-| Foundayo 출시 3주 처방 | 5,612건 | BioPharma Dive |
-| LLY Q1 2026 총 매출 | $19.8B (+56%) | PR Newswire |
-| Zepbound Q1 2026 매출 | $4.1B (+79%) | PR Newswire |
-| LLY 2026 매출 가이던스 | $82~85B | PR Newswire |
-| Foundayo 자부담 가격 | $149/월 (최저) | GoodRx |
-| Medicare GLP-1 Bridge 본인부담 | $50/월 | CMS |
-| 한국 위고비 처방(8개월) | 40만 건 | koreadiabetes.com |
-| Foundayo 경구 생체이용률 | 79% | 비교 연구 |
-| 경구 semaglutide 생체이용률 | ~1% | 비교 연구 |
-| 경구 Wegovy 처방 중 신규 사용자 | ~2/3 | IQVIA |
-| Foundayo 처방 중 신규 사용자 | 80% | LLY IR |
+23. 2019년 11월: Disney+ 론칭, 월 $6.99 — 출처: https://www.dealnews.com/features/disney-plus-price-increase/
+24. 론칭 16개월 만에 1억 구독자 돌파 (2021년) — 출처: 복수 매체
+25. FY2022 스트리밍 사업 연간 손실 ~$3.4-4B (Bob Iger 직접 "3년 전 $4B 손실" 언급) — 출처: https://www.worldofreel.com/blog/2024/5/15/disney-ceo-says-studio-lost-4-billion-because-it-tried-to-tell-too-many-stories/
+26. 2022년 11월 20일: CEO Chapek 전격 경질, Iger 복귀 — 출처: Deadline
+27. Iger 구조조정: 7,000명 감원, 총 $7.5B 절감 (초기 목표 $5.5B에서 상향) — 출처: https://deadline.com/2023/08/disney-earnings-streaming-disney-disney-world-bob-iger-1235458860/
+28. 콘텐츠 비용: $30B (FY2022) → $24B (FY2026, 스포츠:엔터 50:50) — 출처: https://variety.com/2025/biz/news/disney-content-spending-2026-sports-entertainment-local-content-1236585670/
+29. 누적 스트리밍 손실 2023년까지 $10B+ — 출처: https://www.rankupwards.com/investment/how-much-money-has-disney-lost
+30. 2022년 12월: 광고 지원 플랜 $7.99 론칭 (광고 없는 플랜 $10.99로 동시 인상) — 출처: https://www.dealnews.com/features/disney-plus-price-increase/
+31. 가격 인상 여정 (광고 없는 플랜): $6.99(2019) → $10.99(2022) → $13.99(2023) → $15.99(2024) → $18.99(2025년 10월) — 총 **+171%** — 출처: 상동
+32. 현재 요금: Disney+ Basic(광고 있음) $11.99/월, Premium(광고 없음) $18.99/월 — 출처: 상동
+
+### 구독자·ARPU 데이터 (마지막 공식 발표)
+33. Disney+ 구독자 131.6M (FY2025 Q4, 마지막 공식 발표) — 출처: https://businesstats.com/disney-plus/
+34. Disney+ + Hulu 합산 ~196M (마지막 공식 발표) — 출처: 복수 매체
+35. Q1 FY2026부터 구독자수·ARPU 발표 완전 중단 (수익성 지표로 전환) — 출처: https://www.thewrap.com/disney-hulu-espn-stop-reporting-subscribers-average-revenue-per-user/
+36. ARPU $8.04/월 (FY2025 Q4, +11.7% YoY) — 출처: https://businesstats.com/disney-plus/
 
 ---
 
-## 관련 종목
+## ESPN DTC 관련
 
-- **$LLY** (Eli Lilly): Foundayo + Zepbound + Mounjaro 삼각 포트폴리오. Q1 +56%. **와치리스트 종목(간략 처리)**
-- **$NVO** (Novo Nordisk, ADR): 경구 Wegovy $330M Q1. 신규처방 65% 점유. 와치리스트 外
-- **$VKTX** (Viking Therapeutics): VK2735 경구형 Phase 2
-- **$GPCR** (Structure Therapeutics): aleniglipron 효능 Foundayo 초과
-- **$AZN** (AstraZeneca): elecoglipron Phase 3 진입
+37. ESPN DTC 2025년 8월 21일 론칭 (ESPN 72년 역사 최초 단독 DTC) — 출처: https://www.cnbc.com/2025/08/21/disney-espn-app-launch.html
+38. ESPN Unlimited $29.99/월 (12개 ESPN 채널 전체 + NFL, NBA, MLB 등) — 출처: 상동
+39. ESPN Select $11.99/월 (ESPN+ 수준 콘텐츠) — 출처: 상동
+40. Disney+/Hulu/ESPN Unlimited 번들: $29.99/월 (첫 12개월) — 출처: 상동
+41. ESPN 2026년 4월: CW와 ACC·Mountain West·Pac-12 서브라이선싱 계약; WWE WrestleMania 독점 중계 계약 — 출처: https://en.wikipedia.org/wiki/ESPN_(streaming_service)
+
+---
+
+## CEO 교체 및 전략 변화
+
+42. Josh D'Amaro 2026년 3월 18일 CEO 취임, Bob Iger 후임 — 출처: https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html
+43. D'Amaro 전 역할: Disney Experiences 회장 (테마파크·크루즈·리조트·소비자 제품) — 출처: 상동
+44. 3기둥 성장 전략: (1) IP/창의성 중심, (2) 글로벌 팬과 직접 연결, (3) AI 기반 스토리텔링·운영 — 출처: https://www.foxbusiness.com/markets/disney-ceo-unveils-entertainment-giants-new-3-pillar-growth-plan
+45. Disney+를 모든 Disney 경험을 연결하는 "디지털 허브(digital centerpiece)"로 포지셔닝 — 출처: https://www.thewrap.com/industry-news/business/disney-earnings-q2-2026/
+46. Q2 FY2026이 D'Amaro의 첫 실적 발표 — 출처: Deadline
+
+---
+
+## 직접 인용 (확인된 원문)
+
+1. *"Our focus remains consistent: improve the consumer experience, deepen engagement, and continue building a healthy and more durable growth business."* — Josh D'Amaro, Q2 FY2026 Earnings Call, 2026-05-06
+
+2. *"First, creative excellence, it will remain at the center of everything that we do... Second, we have a real opportunity to deepen our direct relationship with our fans by creating a more connected Disney experience across streaming, sports, games and Experiences — with Disney+ playing an increasingly central role."* — Josh D'Amaro, Q2 FY2026 Earnings Call
+
+3. *"We are focused on scaling outside the US. We are increasing our local content investments and early results — they're encouraging."* — Josh D'Amaro, Q2 FY2026 Earnings Call
+
+4. Bob Iger (전 CEO): "3년 전 [스트리밍 사업은] $4B의 운영 손실을 기록했다" — 출처: WorldofReel/2024
+
+---
+
+## 경쟁 비교
+
+47. Netflix Q1 2026 영업이익률: **29.5%** (vs 디즈니 10.6% → 18.9pp 격차) — 출처: The Wrap
+48. Netflix Q1 2026 수익 +82%, $5.28B — 출처: 상동
+49. WBD (HBO Max) 스트리밍 이익 +29%, $438M — 출처: 상동
+50. Peacock: 분기 매출 $2B 최초 돌파, 그러나 아직 적자 (흑자 전환 "임박") — 출처: 상동
+51. 미국 SVOD 시장 점유율: Netflix 32.5%, Disney 16.7%, Amazon 15.3% (상위 3 = 64.5%) — 출처: https://www.contentgrip.com/streaming-market-share-q1-2026/
+52. Paramount + WBD 합병 주주 승인 2026-04-23, $81B 주식 가치·$110B 기업가치 — 출처: https://markets.financialcontent.com/stocks/article/marketminute-2026-3-31-the-consolidation-renaissance-a-retrospective-on-the-170-billion-warner-paramount-union
+53. Paramount: "WBD와 합병 없이는 Netflix·Disney·Amazon과 경쟁 불가" 공식 인정 — 출처: https://variety.com/2026/tv/news/paramount-warner-bros-merger-hbo-max-catch-up-netflix-disney-amazon-1236745942/
+
+---
+
+## 국제 비교
+
+54. 한국 Tving 연간 손실: ₩6.1B(2020) → ₩76.2B(2021) → ₩119.1B(2022) → ₩140.2B(2023) → ₩71B(2024) — 출처: https://www.koreatimes.co.kr/business/tech-science/20250810/will-tving-wavve-merger-prompt-local-streaming-services-recovery
+55. Wavve 순손실 ₩8.3B, 유동부채가 자산 초과 ₩90.7B — 출처: 상동
+56. 한국: Tving+Wavve 합병 공정위 승인, Netflix 독주 저지 시도 — 출처: 상동
+57. 일본 프리미엄 스트리밍 시장 2025년 $7.2B (+15% YoY), 구독자 6,730만명 — 출처: https://variety.com/2026/tv/news/japan-streaming-market-7-billion-1236663822/
+58. 일본: Netflix 22% 수익 점유율 1위, Disney+(Hulu Japan 번들) 3~5% 시청점유율 — 출처: 상동
+59. 일본: 로컬 콘텐츠가 전체 스트리밍 시청시간의 80% 차지 — 출처: 상동
+60. 한국·일본 모두: 미국 빅2(Netflix·Disney)만이 흑자 달성한 글로벌 미디어 vs 로컬 OTT 모두 적자 지속
+
+---
+
+## 밸류에이션
+
+61. 주가 ~$108 (2026-05-16 기준) — 출처: 복수 검색
+62. P/E (TTM) ~17x, Forward P/E ~14.6x — 출처: https://www.gurufocus.com/term/pettm/DIS
+63. 역사적 평균 P/E: 45.7x(3년), 70.3x(5년) — 팬데믹 손실로 왜곡. 현재 17x은 할인 상태 — 출처: 상동
+64. 애널리스트 컨센서스: 31명 중 26명 Buy이상(84% 강세), 목표가 $130~$134 (+20~25% 업사이드) — 출처: https://247wallst.com/investing/2026/05/12/analysts-see-20-upside-for-disney-on-new-streaming-profitability-milestone/
+65. 3개 IB가 Q2 실적 후 목표가 상향 (5월 7일) — 출처: https://247wallst.com/investing/2026/05/07/disney-just-got-a-wall-street-pile-on-three-firms-hike-price-targets-after-q2-crusher/
 
 ---
 
 ## 반론/리스크
 
-1. 장기 안전성: 5~10년 데이터 제한적. 골밀도·근육량 감소
-2. 투약 중단 시 요요: 평생 복약 필요 — 지속 비용 부담
-3. GI 부작용: Foundayo 위장관 부작용 중단율 경구 Wegovy 대비 4배
-4. 보험 접근성 격차: 저소득층 접근 불가 (자부담 $149~$1,300/월)
-5. 가격 압박: 경쟁 심화로 마진 압박 (Novo 70% 가격 인하 전례)
-6. 경쟁자 파이프라인: Structure(15%+), AZN, Viking 2~3년 내 등장
-7. 한국 보험급여 리스크: 비급여 장기화 시 국내 접근성 제한
+1. FCF -53% (H1 2026): $2.66B → 현금 창출 능력은 아직 취약. 세금 효과 제거 후에도 콘텐츠 지출 확대
+2. 스트리밍 OI $582M 좋아 보이지만 Experiences OI $2.62B의 22% 수준 — 실질 이익 기여 아직 미미
+3. 구독자수·ARPU 발표 완전 중단 → 정보 불투명성 상승
+4. D'Amaro 신임 CEO는 파크 출신 — 스트리밍/기술 전략 역량 미검증
+5. Netflix 29.5% vs Disney 10.6% → 18.9pp 격차. 추격에 3~5년 소요 가능
+6. 미국 SVOD 성장률 급감 (업계 전체 +5% 수준)
+7. Paramount+WBD 합병 완료 시 규모·콘텐츠 면에서 강력한 3위 경쟁자 등장
+8. 스포츠 세그먼트 Q3 영업이익 -14% 전망 (NFL·신규 권리 계약 비용 급증)
