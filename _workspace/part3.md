@@ -1,49 +1,56 @@
 ---
 
-💳 규제의 시간이 왔다 — 오늘 CLARITY Act, JPMorgan 이더리움, 슈왑 크립토가 한꺼번에 터졌다
+## 🎪 이번 주의 구조 — 소비자의 지갑이 둘로 나뉘었다
+
+미국 4월 CPI가 전년 동기 대비 3.8%로 치솟았다. 2023년 5월 이후 최고치다. 전월 대비 +0.6% — 휘발유와 운송비가 주도했다. 실질 소매판매는 명목 0.5% 증가에도 불구하고 사실상 마이너스다. 고소득층의 테마파크·배달·여행 지출은 여전하지만, 저소득층 재량 소비는 3개월 연속 둔화(Deloitte 소비자 체크포인트 5월). 다음 주 홈디포(HD), 월마트(WMT), 타겟(TGT) 실적이 "어느 소비자의 이야기"를 더 많이 담는지가 시장의 방향타가 된다. [헤럴드경제](https://biz.heraldcorp.com/article/10738314) · [파이낸셜뉴스](https://www.fnnews.com/news/202605122143119507)
 
 ---
 
-[증시 포인트] 🌐 역사적 미중 정상회담 1일차: 반도체·AI·농업까지 다 나왔다
+## 🎮 소비 엔터테인먼트 뉴스 — GTA 6, 역사상 가장 비싼 프리오더가 열린다
 
-10년 만에 미국 현직 대통령이 베이징을 밟았다. 트럼프 대통령이 이끄는 미국 대표단에는 일론 머스크(테슬라·스페이스X), 젠슨 황(엔비디아), 팀 쿡(애플)이 포함됐다 — 단순한 무역 협상이 아니라 AI 시대의 기술 패권을 놓고 벌이는 협상이었다. 1일차 결과는 예상보다 구체적이었다. 중국은 미국 농산물·에너지·항공기 구매 확대에 합의했고, 호르무즈 해협 개방 필요성에도 동의했다. 시진핑은 CEO 만찬에서 "중국의 문이 더 넓게 열린다"고 선언했다. 그리고 가장 중요한 결과 — 미국이 알리바바·바이트댄스·텐센트·JD.com·레노버·폭스콘 등 중국 10개 기업에 NVDA H200 칩을 각 최대 7만5천 개까지 구매할 수 있는 허가를 내줬다. S&P 500 선물 +0.3%, 나스닥 100 +0.2%로 화답했다. [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran)
+**1. 베스트바이 유출 → GTA 6 프리오더 D-2**
+락스타의 GTA 6 프리오더 캠페인이 5월 18일(월)부터 4일간 열린다. 유출 이메일의 진본 여부를 Insider Gaming이 확인했다. TTWO 주가는 유출 직후 7.7% 급등해 3개월 최고 수준에 진입했다. 중요한 건 이게 단순한 루머가 아니라 "11월 19일 출시가 예정대로"라는 간접 확인이라는 점이다. $2B 상당의 시가총액이 이틀 새 증발했다가 되돌아왔다. [GameingBible](https://www.gamingbible.com/news/gta-6-multiple-game-editions-leak-pre-order-899261-20260515) · [TechRadar](https://www.techradar.com/gaming/this-new-best-buy-leak-claims-gta-6-pre-orders-begin-on-may-18-but-i-wouldnt-hold-your-breath-yet)
 
----
+**2. RBLX, ARK가 낙폭 과대 구간에서 307K주 매수**
+Roblox(RBLX)는 이번 주 보안 연구 조사와 약한 가이던스로 18% 급락했다. 그러나 Cathie Wood의 ARK가 $42.79 구간에서 307,000주를 쓸어담았다. ARK의 논리는 단순하다: 6월 8일부터 성인(18+) 인증 완료 유저 대상 창작자 수익 배분이 26.6% → 37.8%로 42% 상향된다. 프리미엄 콘텐츠 생태계가 열리는 것. 이 카탈리스트는 아직 주가에 반영되지 않았다. [FX Leaders](https://www.fxleaders.com/news/2026/05/08/roblox-rblx-stock-analysis-42-79-hits-falling-channel-low-ark-buys-june-8-is-the-first-inflection-catalyst/)
 
-[오늘 테마: 핀테크/결제/크립토] 💳 목요일이 이렇게 핀테크/크립토로 가득 찬 날은 드물다
-
-**1. CLARITY Act — 암호화폐 규제 10년 공백의 끝이 오나**
-
-오늘 오전 10:30 ET, 미 상원 은행위원회가 309페이지 분량의 디지털자산 시장 명확화 법안(CLARITY Act) 조문별 심의를 시작했다. 이 법안은 단순한 규제 문건이 아니다. BTC와 ETH의 증권/상품 분류를 공식 확정하고, SEC와 CFTC의 관할 영역을 나누며, 스테이블코인 수익률 제한 규정을 포함한다. 표결 구도는 공화당 13 대 민주당 11 — 공화당 전원 찬성이 필요하다. 아직 공개 입장을 밝히지 않은 케네디 의원(R-LA)이 캐스팅 보트다. 시티 애널리스트는 통과 시 BTC ETF에 추가 $150억 순유입과 2026년 목표가 $143,000을 유지하고 있다. 폴리마켓 통과 확률: 69%(이전 80%에서 하락, 은행 로비와 민주당 반발 반영). 비트코인은 현재 $79,200에서 관망 중. $550M 규모의 BTC 숏 포지션이 $79K~$82K 구간에 쌓여 있어 통과 시 숏스퀴즈 시나리오가 나올 수 있다. [CCN](https://www.ccn.com/education/crypto/senate-clarity-act-vote-may-14-bitcoin-eth-xrp/)
-
-**2. JPMorgan, 이더리움 위에 미국 국채펀드를 올렸다 — JLTXX 공식 출시**
-
-J.P. Morgan Asset Management가 오늘 두 번째 토크나이즈드 머니마켓 펀드 "JLTXX"를 이더리움 퍼블릭 블록체인에 정식 출시했다. 운용 자산: 미국 국채 + 담보부 환매조건부채권(Repo). 초기 투자금 $1억, 앤커리지 디지털 참여. 설계 목적이 흥미롭다 — GENIUS Act(스테이블코인 법안)가 요구하는 '적격 준비금 자산' 기준을 충족하도록 설계됐다. 즉, 스테이블코인 발행사가 JLTXX를 담보로 보유할 수 있다. 관리는 JP모건 자체 블록체인 사업부 Kinexys Digital Assets. 작년 출시한 MONY 펀드에 이어 두 번째 이더리움 토크나이즈드 상품이다. 전통 금융이 블록체인 인프라를 '어쩔 수 없이'가 아닌 '전략적으로' 쓰기 시작한 전환점이다. [CoinDesk](https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up)
-
-**3. 찰스 슈왑, $11.77조 달러 고객을 스팟 크립토로 데려왔다**
-
-어제(5/13) 찰스 슈왑이 미국 소매 고객 대상 비트코인·이더리움 스팟 직접 거래를 공식 시작했다. 숫자부터 압도적이다: 활성 계좌 3,910만 개, AUM $11.77T — 월스트리트 최대 브로커리지의 크립토 직접 진출이다. 수수료 75bp/거래, 커스터디는 슈왑 프리미어 뱅크와 팩소스 공동. 뉴욕·루이지애나 제외 전 주 가능. 코인베이스·로빈후드·크라켄에 맞선 전통 금융의 선전포고다. 슈왑이 들어왔다는 건, 크립토가 더 이상 '니치 자산'이 아니라는 금융 산업의 공식 선언이기도 하다. [CoinDesk](https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail)
+**3. SPDR S&P 리테일 ETF 주간 -6% — 4주 연속 하락, 2025년 10월 이후 최악**
+리테일 섹터가 무너지고 있다. 4주 연속 낙폭, 주간 -6%는 2025년 10월 이후 가장 나쁜 한 주다. 투자자들이 소비 침체를 선반영하고 있다는 신호일 수도, 아니면 다음 주 어닝 결과 이전 불확실성 프리미엄일 수도 있다. 어닝이 좋으면 리테일 ETF의 가장 강력한 반등 트리거가 된다. [CNBC](https://www.cnbc.com/2026/05/15/whats-ahead-wall-street-and-main-street-face-off-with-nvidia-consumer-earnings.html)
 
 ---
 
-[기업 뉴스] 🏢 와치리스트 핵심 업데이트
+## 🏢 기업 뉴스
 
-**$TSLA 베를린 $250M 확장 + 중국 FSD 추진**
+**$NVDA — 역사상 가장 기다려지는 어닝, D-4**
 
-테슬라가 베를린 기가팩토리 배터리셀 생산 능력을 8GWh에서 18GWh로 두 배 이상 늘리는 데 $2.5억을 투자한다. 일자리 1,500개 이상 추가, 모델 Y 생산량은 7월부터 +20% 증가. 동시에 일론 머스크는 정상회담에서 FSD 중국 규제 승인을 직접 추진 중이다. FSD 구독자가 이미 128만 명(+51% YoY)을 기록한 상황에서 중국 시장까지 열리면 완전히 새로운 수익 엔진이 켜진다. Q1 실적은 이미 서프라이즈 수준이었다: EPS $0.41(컨센서스 $0.3592 대비 +14% 비트), 매출 $22.39B(+15.78% YoY), 자동차 부문 매출총이익률 21.1%(전년 16.2%에서 급반등). [Yahoo Finance](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-ahead-of-trump-xi-summit-223230477.html)
+NVIDIA가 수요일(5/20) 장 마감 후 Q1 FY2027 실적을 발표한다. 이것이 2026년 어닝 시즌 최대 이벤트라는 데 이견이 없다.
 
-**$NVDA H200, 드디어 중국으로 향한다**
+배경: 애널리스트 컨센서스는 매출 $78.8B, EPS $1.77. NVIDIA 자체 가이던스는 "$78B ±2%". 30명 중 21명이 Strong Buy. 평균 목표가 $280(현재 $224 대비 +25% 상승 여지). Motley Fool은 5월 13일 "Prediction: Nvidia Stock Is Going to Soar After May 20"이라는 제목을 달았다.
 
-미국이 알리바바·바이트댄스·텐센트·JD.com·레노버·폭스콘 등 중국 기업 10곳에 H200 AI 칩 수출을 허가했다. 고객당 최대 7만5천 개. 젠슨 황은 "트럼프 대통령이 직접 초청해 베이징에 동행하게 됐다"고 밝혔다. 이 뉴스에 NVDA는 6일 연속 상승 중이며, 시가총액이 $5.5T를 돌파했다. 단, 실제 출하는 중국 바이어들이 내부 지침 및 화웨이 어센드 대안 검토를 마친 뒤라 즉각적 배송량은 아직 0에 가깝다 — 시장은 기대를 선반영하는 중이다. [CNBC](https://www.cnbc.com/2026/05/14/trump-xi-meeting-china-stocks-ai-rally.html)
-
-**$GOOGL SpaceX와 우주 데이터센터 논의**
-
-구글과 스페이스X가 우주 궤도 데이터센터 공동 구축을 논의 중이라는 보도가 5/12 흘러나왔다. Google Cloud Q1이 이미 +63%를 기록한 상황에서 인프라 확장의 다음 프런티어를 지구 바깥에서 찾겠다는 시도다. 알파벳 시총은 오늘 $4.88T를 넘어섰다.
+전망: 진짜 관건은 Q2 가이던스다. 월가는 $86.6B(+85% YoY)를 예상한다. Blackwell 공급망, AMD와 커스텀 ASIC 경쟁, 데이터센터 CAPEX 감속 여부가 Q&A의 핵심이 될 것. 금요일의 -4.4% 낙폭은 어닝 전 차익실현이지, 근본적 약화가 아니다. [Motley Fool](https://www.fool.com/investing/2026/05/13/nvidia-could-make-a-big-move-by-may-20-heres-what/) · [Motley Fool](https://www.fool.com/investing/2026/05/14/will-nvidia-beat-q1-earnings-on-may-20-heres-what/)
 
 ---
 
-[흥미로운 이야기] 💡 감원 발표가 주가를 올린 날
+**$GOOGL — Google I/O D-3, AI 어시스턴트 2.0의 시대**
 
-**시스코 +19% — 4,000명 해고가 곧 AI 성장 선언이었다**
+구글 최대 개발자 이벤트 I/O가 화요일(5/19)부터 이틀간 열린다. Gemini 차세대 버전, AI 오버뷰 확장, Android 업데이트가 핵심. 특히 OpenAI의 ChatGPT와 Apple의 AI 통합에 맞서 구글이 어떤 차별점을 내세우는지가 주가 트리거다. 현재 $394로 연고점($399.54)에서 1.4% 아래. 이벤트 기대가 주가를 지지하고 있다. [CNBC](https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html)
 
-시스코가 어젯밤 4,000명 감원을 발표하며 주가가 +19% 폭등했다. 역설처럼 보이지만 투자자들은 다르게 읽었다. 구조조정의 목적이 비용 절감이 아니라 AI 인프라 피벗에 집중하기 위한 자원 재배치였기 때문이다. Q3 실적이 이를 뒷받침했다: 매출 $15.84B(+12% YoY, 컨센서스 $15.56B 비트), EPS $1.06(컨센서스 $1.04 비트). AI 인프라 수주는 FY2026 누적 $5.3B을 기록했고, 연간 목표를 기존 $5B에서 $9B으로 80% 상향했다. AI 관련 매출 가이던스도 $3B에서 $4B으로 올렸다. CEO 척 롭스는 "우리는 인류 역사상 가장 역동적인 기술 인프라 환경을 살고 있다"고 표현했다. CSCO는 오늘부로 AI 인프라 투자의 '픽앤샤블' 후보 목록에 공식 등재됐다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/cisco-q3-2026-earnings-beat-112834347.html)
+---
+
+**$COIN — -6%, CLARITY Act 차익실현 + BTC 약세 이중 압박**
+
+목요일 CLARITY Act 상원 위원회 통과 소식에 +8% 랠리했던 코인베이스가 금요일 -6%로 반납했다. $193으로 밀렸다($212 → $193). BTC도 $78,800 수준으로 -2.86%를 기록해 동반 약세. Q1 어닝미스($394M 순손실) 그림자가 여전하고, 진짜 체크포인트는 상원 본회의 60표 클로처다. 단기 노이즈, 장기 방향성은 여전히 규제 정상화. [24/7 Wall St.](https://247wallst.com/investing/2026/05/15/coinbase-slumps-6-strategy-slides-5-in-digital-asset-stocks-rout/)
+
+---
+
+**$TSLA — FSD 연방 조사 확대, 모델 단종의 무게**
+
+NHTSA가 테슬라 FSD에 대한 연방 조사를 추가 차종으로 확대했다. 모델 S/X 단종 결정도 이날 기정사실화됐다. 주가는 -4.75%로 $422에 마감했다. 다음 주 쇼케이스 이벤트는 없지만, FSD 관련 헤드라인이 지속적으로 하방 압력을 유지 중. 반전 트리거는 8월로 예정된 사이버캡 상용화 일정 확인.
+
+---
+
+## 🌟 흥미로운 이야기
+
+**유가 $105에서 소비자가 선택하는 것**
+
+WTI $105는 단순한 숫자가 아니다. 이란-호르무즈 리스크가 실질 소비에 영향을 주는 경로가 보이기 시작했다. 미국인의 82%가 향후 가솔린 가격 상승을 예상하고 있다(Deloitte, 2026년 5월). 식품 가격 상승 예상도 74%로 3년 만에 최고. 그런데 흥미롭게도, 소비는 이분화됐다. 저소득층이 가솔린 지출 증가에 기타 지출을 줄이는 동안, 고소득층은 여전히 지출한다. 승차 공유, 배달, 테마파크 — 이 세 카테고리는 오히려 성장 중이다. 이번 어닝위크가 어느 쪽 이야기를 더 들려줄지, 그게 결국 S&P 7,400 지지선의 운명이다. [Deloitte](https://www.deloitte.com/us/en/insights/topics/economy/consumer-pulse/state-of-the-us-consumer.html) · [TheStreet](https://www.thestreet.com/latest-news/stock-market-today-may-15-2026-updates)

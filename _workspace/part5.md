@@ -1,15 +1,20 @@
 ---
 
-🎙️ 이번 주 테크 인사이더들이 이야기한 것
+## 🎙️ 이번 주 팟캐스트 — 베이징에서 터진 SaaS 핵폭탄
+
+**All-In Podcast E273** — "Trump-Xi 정상회담 + Benioff: 'SaaSpocalypse지만 첫 번째가 아니야'" (2026-05-15)
+
+SaaS 주가가 무너지고 있는 동안, 마크 베니오프(Salesforce CEO)가 베이징에서 All-In 팟캐스트에 올라 정반대 발언을 쏟아냈다. 제목부터 도발적이다: "Not My First SaaSpocalypse." 그는 지금의 SaaS 폭락을 20년 경력 동안 겪은 세 번째 재편이라고 규정한다. 단기 고통은 있지만 AI 에이전트가 ROI를 증명하는 순간, 고객 관계가 탄탄한 엔터프라이즈 플랫폼이 생존한다는 논리다.
+
+가장 흥미로운 대목은 Salesforce의 AI 전략 전환이다. 베니오프는 "Sora를 죽여라, 그것도 죽여라"라고 팀에 지시했다고 말했다. 비디오 생성 AI와 컴패니언 봇 개발을 전면 중단하고, Anthropic 코딩 에이전트의 가능성을 본 뒤 전 팀을 에이전트 기반 고객 서비스로 돌렸다는 것. 올해 Anthropic 토큰 사용 예산: $3억. Salesforce 안의 Claude가 코딩과 제품 개발을 돕고 있다.
+
+트럼프-시진핑 정상회담 맥락도 다뤘다. 베니오프의 결론은 단순하다: "우리는 알리바바와 독점 파트너십을 맺었다. 중국 사업은 그들을 통해 전부 간다." 지정학적 긴장 속에서도 기업은 각자의 채널을 만든다는 현실주의적 시각.
+
+에피소드 말미엔 OpenAI가 Apple을 상대로 ChatGPT 통합 실패 관련 소송을 검토 중이라는 뉴스도 등장했다. AI 플랫폼 전쟁이 법정으로 번지는 순간, 시장의 지각판이 또 한번 흔들릴 것이다.
+
+[All-In Podcast](https://allin.com/episodes) · [Podscripts](https://podscripts.co/podcasts/all-in-with-chamath-jason-sacks-friedberg/trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino)
 
 ---
 
-**1. No Priors AI #461 "아마존이 '토큰 맥시멀리스트'를 만들었다" (2026-05-12)**
-
-Sarah Guo & Elad Gil의 No Priors가 이번 주 AI 업계 내부의 이상한 현상을 해부했다. "토큰맥싱(tokenmaxxing)" — 아마존 개발자들이 사내 AI 코딩 도구 리더보드 1위를 차지하기 위해 불필요하게 긴 프롬프트를 의도적으로 작성하는 행동이 확산되고 있다. 성과 지표가 잘못 설계되면 AI 도입이 오히려 생산성을 낮추는 역설이 실제로 일어나고 있다는 것이다. 에피소드에서 "That doesn't sound very healthy(그다지 건강한 소리가 아닌데)"라는 분석가의 한마디가 이 현상을 정확히 포착한다. 같은 에피소드에서 SpaceX와 Google의 우주 데이터센터 협업 논의(오늘 $GOOGL 뉴스와 직결)를 다뤘고, Anthropic이 AI 훈련·배포·방어 방식을 둘러싼 법적 분쟁에 직면했다는 내용도 짚었다. "AI 회사가 어떻게 모델을 훈련시켰는지가 이제 법정에서 다루는 사안이 됐다" — AI 산업의 다음 리스크가 기술이 아니라 법정에 있다는 선제적 경고다. 오늘 CLARITY Act, JPMorgan 이더리움 상품 출시와 맞물리면 AI·크립토·규제가 같은 방향으로 수렴하고 있다는 그림이 보인다.
-
----
-
-**2. TBPN 에피소드 (2026-05-11) "Cerebras IPO 가격 올렸다, 트럼프는 베이징으로"**
-
-Technology Brothers의 John Coogan & Jordi Hays가 지금 오늘(5/14) 실제로 일어나고 있는 두 가지를 사흘 전에 미리 분석해줬다. 첫째, AI 추론 전용 칩 기업 Cerebras가 IPO 가격 범위를 상향 조정했다는 소식을 다뤘다. Cerebras는 NVDA H100 대비 최대 20배 추론 속도를 내세우며 상장을 추진 중인 회사다 — NVDA H200이 중국에 풀린 오늘, AI 칩 전쟁의 다음 챕터를 가장 선명하게 보여주는 후보. 둘째, 트럼프의 중국 방문 임박 소식을 다뤘다. 5월 11일에 TBPN이 예측한 두 가지 이슈가 5월 14일에 정확히 현실화됐다. 테크 인사이더들이 시장보다 사흘 빠른 이유가 있다.
+*머뉴 MoneyNews | 돈이 되는 모든 것에 대한 소식*
+*⚠️ 본 브리핑은 투자 조언이 아닌 정보 제공 목적입니다.*
