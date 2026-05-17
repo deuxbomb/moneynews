@@ -1,56 +1,65 @@
 ---
 
-## 🎪 이번 주의 구조 — 소비자의 지갑이 둘로 나뉘었다
+## 📰 이번 주 시장 리뷰 — 5.114%가 모든 걸 바꿨다
 
-미국 4월 CPI가 전년 동기 대비 3.8%로 치솟았다. 2023년 5월 이후 최고치다. 전월 대비 +0.6% — 휘발유와 운송비가 주도했다. 실질 소매판매는 명목 0.5% 증가에도 불구하고 사실상 마이너스다. 고소득층의 테마파크·배달·여행 지출은 여전하지만, 저소득층 재량 소비는 3개월 연속 둔화(Deloitte 소비자 체크포인트 5월). 다음 주 홈디포(HD), 월마트(WMT), 타겟(TGT) 실적이 "어느 소비자의 이야기"를 더 많이 담는지가 시장의 방향타가 된다. [헤럴드경제](https://biz.heraldcorp.com/article/10738314) · [파이낸셜뉴스](https://www.fnnews.com/news/202605122143119507)
+역대 최고치가 무너지는 데 단 하루면 충분하다. 코스피 7,981(5/14 ATH) → 7,493(-488p, 5/15). S&P 500 7,500선 → 7,408(-1.24%, 5/15). 무엇이 방아쇠를 당겼나?
+
+첫 번째는 채권이다. 미국 30년물 국채 금리가 5.114%를 찍었다 — 수년 만의 최고치다. "이란-호르무즈 해협 리스크→에너지 공급 불안→인플레이션 재가열→연준 금리 인하 불가→혹시 인상까지?" 이 시나리오가 시장 가격에 처음으로 진지하게 반영됐다. PPI +1.4%(예상의 3배)가 그 불씨에 기름을 붓는 형국이었다.
+
+두 번째는 유가다. WTI $105.66. 이란 리스크가 줄어들 것이란 기대가 잠깐 나왔다가 다시 사라졌다. 에너지 섹터는 -4.2%였지만(적어도 유가 수혜), 기술주와 소비주는 더 크게 빠졌다.
+
+세 번째는 Fed. 금리 선물 시장에 미국 연내 금리 인상 확률이 45%까지 올라왔다는 보도가 나왔다. 트레이더들은 '금리 인하 기대'를 모두 거둬들인 상태다.
+
+**다음 주(5/18-22) 핵심 이벤트 체크리스트:**
+- 5/19(월)-5/20(화): Google I/O — Gemini 차세대 모델, AI 에이전트 발표
+- 5/20(수) AMC: NVDA Q1 FY27 어닝 — 컨센서스 매출 $78.5B, EPS $1.76
+- 5/20(수): NOC 연간 주주총회
+- 5/21(목): WMT Q1 실적 발표 (소비 건강 체크)
 
 ---
 
-## 🎮 소비 엔터테인먼트 뉴스 — GTA 6, 역사상 가장 비싼 프리오더가 열린다
+## 🏗️ 오늘의 테마: 산업재/방산/인프라 — 조정 속에 숨은 구조적 성장
 
-**1. 베스트바이 유출 → GTA 6 프리오더 D-2**
-락스타의 GTA 6 프리오더 캠페인이 5월 18일(월)부터 4일간 열린다. 유출 이메일의 진본 여부를 Insider Gaming이 확인했다. TTWO 주가는 유출 직후 7.7% 급등해 3개월 최고 수준에 진입했다. 중요한 건 이게 단순한 루머가 아니라 "11월 19일 출시가 예정대로"라는 간접 확인이라는 점이다. $2B 상당의 시가총액이 이틀 새 증발했다가 되돌아왔다. [GameingBible](https://www.gamingbible.com/news/gta-6-multiple-game-editions-leak-pre-order-899261-20260515) · [TechRadar](https://www.techradar.com/gaming/this-new-best-buy-leak-claims-gta-6-pre-orders-begin-on-may-18-but-i-wouldnt-hold-your-breath-yet)
+**방산 섹터 -3.08% 급락의 진짜 의미**
 
-**2. RBLX, ARK가 낙폭 과대 구간에서 307K주 매수**
-Roblox(RBLX)는 이번 주 보안 연구 조사와 약한 가이던스로 18% 급락했다. 그러나 Cathie Wood의 ARK가 $42.79 구간에서 307,000주를 쓸어담았다. ARK의 논리는 단순하다: 6월 8일부터 성인(18+) 인증 완료 유저 대상 창작자 수익 배분이 26.6% → 37.8%로 42% 상향된다. 프리미엄 콘텐츠 생태계가 열리는 것. 이 카탈리스트는 아직 주가에 반영되지 않았다. [FX Leaders](https://www.fxleaders.com/news/2026/05/08/roblox-rblx-stock-analysis-42-79-hits-falling-channel-low-ark-buys-june-8-is-the-first-inflection-catalyst/)
+금요일 방산 섹터가 집단적으로 팔렸다. 표면적 이유는 미·이란 긴장 완화 신호, 즉 '전쟁 프리미엄' 제거다. 하지만 구조적 성장 스토리는 멀쩡하다. 트럼프의 '황금돔(Golden Dome)' 미사일 방어 프로그램은 총 $1510억 예산으로 RTX, Lockheed, NOC, SpaceX, Anduril 12개사에 $32억 우주 인터셉터 계약을 이미 집행 중이다. 미 국방 예산은 2027년 $1.5조 돌파를 향해 달리고 있다. 단기 이란 뉴스에 -3%를 준 시장은 10년 테마를 팔아버린 셈이다. [Motley Fool](https://www.fool.com/investing/2026/05/15/3-defense-stocks-to-buy-in-may/)
 
-**3. SPDR S&P 리테일 ETF 주간 -6% — 4주 연속 하락, 2025년 10월 이후 최악**
-리테일 섹터가 무너지고 있다. 4주 연속 낙폭, 주간 -6%는 2025년 10월 이후 가장 나쁜 한 주다. 투자자들이 소비 침체를 선반영하고 있다는 신호일 수도, 아니면 다음 주 어닝 결과 이전 불확실성 프리미엄일 수도 있다. 어닝이 좋으면 리테일 ETF의 가장 강력한 반등 트리거가 된다. [CNBC](https://www.cnbc.com/2026/05/15/whats-ahead-wall-street-and-main-street-face-off-with-nvidia-consumer-earnings.html)
+**Boeing: 구멍난 배가 돌아오고 있다**
+
+$BA는 Q1 2026에서 매출 $22.2B(+14% YoY)을 올렸다. 방산 사업 매출 +21%, 서비스 +6%. 가장 인상적인 건 이거다: 상업용 항공기 143대 인도(+10% YoY)가 Airbus의 같은 기간 114대를 처음으로 제쳤다. 상업 백로그 $576B는 역대 최대치, 총 백로그는 $695B. 팔다 만 배가 다시 항구를 나서고 있다. [Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-boeing-reports-q1-2026-earnings-beat-stock-surges-93CH-4630045)
+
+**인프라 슈퍼사이클: EMCOR Q1 어닝 +30%, 백로그 $15.6B**
+
+$EME(EMCOR Group, 전기·기계 인프라)가 Q1에서 EPS $6.84(컨센서스 $5.95 대비 +15% 서프라이즈), 매출 $4.63B(+19.7% YoY)을 기록했다. 이 회사의 가장 큰 백로그 성장 동인은 데이터센터다 — $15.62B 백로그 중 상당 부분이 AI 인프라 프로젝트다. 가이던스도 상향($18.5B~19.25B FY 매출). 단, 주가가 이미 1년 새 101% 올라 $913에 있어 오늘의 픽에서는 제외했다. [IndexBox](https://www.indexbox.io/blog/emcor-stock-surges-after-record-q1-2026-earnings-and-raised-guidance/)
+
+**Quanta Services $PWR: 다음 주 기회**
+
+전력·통신 인프라 전문기업 Quanta Services도 Q1 EPS $2.68(컨센서스 상회)를 기록했고, 백로그는 $48.5B(역대 최대)다. AI 데이터센터 전력 연결과 그리드 현대화 수주가 주도하고 있다. 의회에서 5개년 인프라 법안 마크업($500~600B 규모)이 진행 중 — 일정이 확정되면 $PWR의 다음 카탈리스트가 된다. [Insider Monkey](https://www.insidermonkey.com/blog/quanta-pwr-the-best-construction-stock-for-data-center-infrastructure-1757777/)
 
 ---
 
 ## 🏢 기업 뉴스
 
-**$NVDA — 역사상 가장 기다려지는 어닝, D-4**
+**$NVDA — D-3, 역사적인 숫자의 무게**
 
-NVIDIA가 수요일(5/20) 장 마감 후 Q1 FY2027 실적을 발표한다. 이것이 2026년 어닝 시즌 최대 이벤트라는 데 이견이 없다.
+수요일(5/20) 장 마감 후, NVIDIA가 Q1 FY27 실적을 발표한다. 월가 컨센서스: 매출 $78.5B(+78% YoY), EPS $1.76(+117%). 5/14에 $235.74 ATH를 찍은 뒤 금요일 -4.42%로 $225.32까지 내려왔다. 시장의 두려움은 이렇다 — "역대 최대 기대치를 만족시켜도 주가가 안 오를 수 있다." Motley Fool은 실제로 "어닝 비트해도 주가는 크게 안 움직일 것"이라는 예측을 냈다. 핵심은 가이던스와 H20 중국 수출 제한 여파 언급이다. [TipRanks](https://www.tipranks.com/news/nvidia-stock-hits-all-time-highs-ahead-of-q1-earnings-what-top-financial-analysts-expect-from-here)
 
-배경: 애널리스트 컨센서스는 매출 $78.8B, EPS $1.77. NVIDIA 자체 가이던스는 "$78B ±2%". 30명 중 21명이 Strong Buy. 평균 목표가 $280(현재 $224 대비 +25% 상승 여지). Motley Fool은 5월 13일 "Prediction: Nvidia Stock Is Going to Soar After May 20"이라는 제목을 달았다.
+**$GOOGL — 내일부터 Google I/O, Gemini가 무대를 장악한다**
 
-전망: 진짜 관건은 Q2 가이던스다. 월가는 $86.6B(+85% YoY)를 예상한다. Blackwell 공급망, AMD와 커스텀 ASIC 경쟁, 데이터센터 CAPEX 감속 여부가 Q&A의 핵심이 될 것. 금요일의 -4.4% 낙폭은 어닝 전 차익실현이지, 근본적 약화가 아니다. [Motley Fool](https://www.fool.com/investing/2026/05/13/nvidia-could-make-a-big-move-by-may-20-heres-what/) · [Motley Fool](https://www.fool.com/investing/2026/05/14/will-nvidia-beat-q1-earnings-on-may-20-heres-what/)
+월요일(5/19)부터 Google I/O가 시작된다. 차세대 Gemini 모델과 AI 에이전트 플랫폼 확장이 핵심 발표 내용으로 알려진다. 작년 I/O에서 구글이 Search AI를 발표했을 때 주가가 크게 뛰었던 기억이 있다. $GOOGL은 현재 $393, 목표가 $490 대비 20%+ 업사이드를 가지고 있다. 다음 주 화요일까지 시장의 눈이 마운틴뷰로 쏠린다. [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nvda/earnings)
 
----
+**$TSLA — 사고가 터졌다**
 
-**$GOOGL — Google I/O D-3, AI 어시스턴트 2.0의 시대**
+Tesla가 로보택시 시범 운행 중 발생한 충돌 사고 2건을 공식 발표했다. 두 사례 모두 '텔레오퍼레이터(원격 운전자)'가 개입된 상황에서 발생했다. "FSD의 완전 자율성"이라는 테슬라의 내러티브에 균열이 생겼다. 주가는 금요일 -4.75%로 $418.57. 기술적 지지선인 $400선이 다음 관건이다.
 
-구글 최대 개발자 이벤트 I/O가 화요일(5/19)부터 이틀간 열린다. Gemini 차세대 버전, AI 오버뷰 확장, Android 업데이트가 핵심. 특히 OpenAI의 ChatGPT와 Apple의 AI 통합에 맞서 구글이 어떤 차별점을 내세우는지가 주가 트리거다. 현재 $394로 연고점($399.54)에서 1.4% 아래. 이벤트 기대가 주가를 지지하고 있다. [CNBC](https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html)
+**$NFLX — 패닉 바이백, 역대 최대**
 
----
+Netflix가 $25B 규모의 자사주 매입 프로그램을 승인했다고 공시했다 — 회사 역사상 가장 큰 규모다. Q1 실적이 기대를 밑돌고 주가가 2주 만에 -13% 밀린 직후의 결정이다. 경영진이 "현 주가는 저평가"라는 신호를 시장에 보낸 것이다. $87.20에서 반등 가능성이 있다.
 
-**$COIN — -6%, CLARITY Act 차익실현 + BTC 약세 이중 압박**
+**$COIN — 6% 하락, 하지만 CLARITY Act는 진전 중**
 
-목요일 CLARITY Act 상원 위원회 통과 소식에 +8% 랠리했던 코인베이스가 금요일 -6%로 반납했다. $193으로 밀렸다($212 → $193). BTC도 $78,800 수준으로 -2.86%를 기록해 동반 약세. Q1 어닝미스($394M 순손실) 그림자가 여전하고, 진짜 체크포인트는 상원 본회의 60표 클로처다. 단기 노이즈, 장기 방향성은 여전히 규제 정상화. [24/7 Wall St.](https://247wallst.com/investing/2026/05/15/coinbase-slumps-6-strategy-slides-5-in-digital-asset-stocks-rout/)
+CLARITY Act가 상원 금융위원회를 통과(13R-11D)한 직후, $COIN은 오히려 -6% 하락했다. 차익 실현 매도다. 동시에 BTC는 $80K 아래로 내려와 $77,864에 거래됐다. 단기 조정이나 CLARITY Act의 상원 본회의 표결(60표 클로처 필요)이 다음 관문이다.
 
----
+**$OKLO — Q1 어닝미스로 -7.83%**
 
-**$TSLA — FSD 연방 조사 확대, 모델 단종의 무게**
-
-NHTSA가 테슬라 FSD에 대한 연방 조사를 추가 차종으로 확대했다. 모델 S/X 단종 결정도 이날 기정사실화됐다. 주가는 -4.75%로 $422에 마감했다. 다음 주 쇼케이스 이벤트는 없지만, FSD 관련 헤드라인이 지속적으로 하방 압력을 유지 중. 반전 트리거는 8월로 예정된 사이버캡 상용화 일정 확인.
-
----
-
-## 🌟 흥미로운 이야기
-
-**유가 $105에서 소비자가 선택하는 것**
-
-WTI $105는 단순한 숫자가 아니다. 이란-호르무즈 리스크가 실질 소비에 영향을 주는 경로가 보이기 시작했다. 미국인의 82%가 향후 가솔린 가격 상승을 예상하고 있다(Deloitte, 2026년 5월). 식품 가격 상승 예상도 74%로 3년 만에 최고. 그런데 흥미롭게도, 소비는 이분화됐다. 저소득층이 가솔린 지출 증가에 기타 지출을 줄이는 동안, 고소득층은 여전히 지출한다. 승차 공유, 배달, 테마파크 — 이 세 카테고리는 오히려 성장 중이다. 이번 어닝위크가 어느 쪽 이야기를 더 들려줄지, 그게 결국 S&P 7,400 지지선의 운명이다. [Deloitte](https://www.deloitte.com/us/en/insights/topics/economy/consumer-pulse/state-of-the-us-consumer.html) · [TheStreet](https://www.thestreet.com/latest-news/stock-market-today-may-15-2026-updates)
+Oklo Inc.가 Q1 2026 실적에서 예상보다 큰 손실을 보고했다. EPS -18센트로 전년 -7센트에서 악화됐다. 주가는 -7.83% 하락해 $62선. 그러나 NRC의 Aurora PDC 승인(핵심 설계 인가)이라는 장기 카탈리스트는 살아있다. 수익화 전에는 변동성 감내가 필수인 종목이다.
