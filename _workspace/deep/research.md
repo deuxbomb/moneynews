@@ -1,170 +1,160 @@
-# 딥다이브 리서치 노트 — 2026-05-16
+# 딥다이브 리서치 노트 — 2026-05-18
 
 ## 테마
-Walt Disney ($DIS) — 6년 스트리밍 적자 끝 첫 두 자릿수 흑자. 지금 사야 하나?
+국가 AI 공장 전쟁 — 소버린 AI: 사우디·UAE·캐나다·아태가 쏟아붓는 $1000억의 지도
 
 ## 유형
-📊 종목 해부 (토요일 — 소비재/미디어/엔터 클러스터)
+📡 테크 트렌드 — 여러 국가/기업이 같은 방향(국가 AI 인프라 주권화) → 산업 흐름 조망
 
 ## 선정 이유
-Q2 FY2026(5/6 발표)에서 스트리밍 영업이익률 10.6%를 최초 달성. 2019년 Disney+ 론칭부터 2023년까지 누적 손실 100억 달러 이상. 6년의 실패를 딛고 선 첫 흑자 — '지금 사야 하나?'라는 투자자 질문이 절정에 달한 시점. 신임 CEO Josh D'Amaro의 첫 실적 발표이기도 함.
+2026년 5월 들어 HUMAIN(사우디), G42(UAE), TELUS+캐나다 정부, 프랑스 Mistral, 한국 AI기본법이 동시다발로 터지며 "소버린 AI(Sovereign AI)" 경쟁이 가시화됐다. NVIDIA가 매 딜의 공통 수혜자로 등장하고, IDC가 아태 정부 AI 투자 우선순위가 1년 만에 7위→2위로 급등했다는 데이터를 5/13 발표했다. 글로벌 소버린 AI 지출이 2026년 $1000억 돌파 전망이라는 맥락에서, 개별 헤드라인을 엮어 구조적 흐름으로 해석해야 할 시점이다.
 
 ---
 
-## 1차 자료 인용 (5건 ≥ 필수 3건)
+## 1차 자료 인용 — 총 7건
 
-1. **Disney Q2 FY2026 8-K (SEC EDGAR)** — 공식 실적 발표 파일
-   - 출처: https://www.sec.gov/Archives/edgar/data/1744489/000174448926000036/fy2026_q2xprxex991.htm
-
-2. **Disney Q2 FY2026 어닝콜 트랜스크립트 (The Motley Fool)** — 2026-05-06
-   - 출처: https://www.fool.com/earnings/call-transcripts/2026/05/06/disney-dis-q2-2026-earnings-transcript/
-
-3. **Disney 공식 Q2 CEO 코멘터리 (thewaltdisneycompany.com)** — Josh D'Amaro 공식 발언
-   - 출처: https://thewaltdisneycompany.com/news/disney-q2-earnings-2026/
-
-4. **Disney 10-K FY2025 (SEC EDGAR)** — 연간 재무 데이터 기준점
-   - 출처: https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/dis-20250927.htm
-
-5. **The Wrap 스트리밍 플랫폼 비교 분석 (2026년 5월)** — Netflix/Disney/WBD/Peacock 비교
-   - 출처: https://www.thewrap.com/industry-news/business/netflix-disney-warner-bros-discovery-paramount-peacock-subscribers-revenue-profit-may-2026-update/
+| # | 소스 유형 | 내용 요약 | URL |
+|---|-----------|-----------|-----|
+| 1 | NVIDIA 공식 보도자료 | HUMAIN-NVIDIA 전략적 파트너십 발표 (AI팩토리 구축) | https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia |
+| 2 | 캐나다 정부 공식 발표 (Canada.ca) | 캐나다 정부+TELUS MOU 체결, 소버린 AI 데이터센터 클러스터 구축 | https://www.canada.ca/en/innovation-science-economic-development/news/2026/05/government-of-canada-and-telus-advance-work-to-build-sovereign-ai-infrastructure.html |
+| 3 | IDC 공식 연구 보고서 (2026-05-13) | 아시아태평양 정부 소버린 AI 투자 우선순위 7위→2위 | https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/ |
+| 4 | WEF 보고서 "Rethinking AI Sovereignty" (2026) | 연간 AI 인프라 투자 $4000억(2030), McKinsey $5000-6000억 주권 시장 | https://www.weforum.org/publications/rethinking-ai-sovereignty/ |
+| 5 | WEF 보고서 "AI Infrastructure in the Age of Sovereignty" (2026-05) | AI 인프라가 지정학적 경쟁 핵심으로 부상, 디지털 대사관 개념 | https://reports.weforum.org/docs/WEF_AI_Infrastructure_in_the_Age_of_Sovereignty_Requirements_Strategies_and_a_Trusted_Framework_for_Digital_Embassies_2026.pdf |
+| 6 | NVIDIA 공식 블로그 — Jensen Huang, World Governments Summit | "모든 나라가 자국 지능을 소유해야 한다" 발언, 소버린 AI 개념 공식화 | https://blogs.nvidia.com/blog/world-governments-summit/ |
+| 7 | CFR (미국외교협회) 분석 (2026) | AI 칩 수출통제 정책 비판: "전략적으로 비일관적이고 시행 불가능" | https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable |
 
 ---
 
 ## 팩트 (출처 필수)
 
-### Q2 FY2026 핵심 실적 (2026-05-06 발표)
+### 🇸🇦 사우디아라비아 — HUMAIN + NVIDIA
 
-1. 전체 매출 $25.2B (+7% YoY), 컨센서스 $24.85B 상회 — 출처: https://variety.com/2026/tv/news/disney-q2-2026-earnings-josh-damaro-streaming-income-1236738974/
-2. 조정 EPS $1.57 (+8%), 컨센서스 $1.50 상회 — 출처: https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html
-3. GAAP 희석 EPS $1.27 (전년 $1.81에서 감소 — 전년 일회성 세금 혜택 기저 효과) — 출처: https://www.stocktitan.net/sec-filings/DIS/8-k-walt-disney-co-reports-material-event-0097bd347113.html
-4. 총 세그먼트 영업이익 $4.6B (+4% YoY) — 출처: 상동
-5. 발표 당일 주가 +8.4% 급등, 현재 주가 ~$108 — 출처: https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html
+1. HUMAIN은 사우디아라비아 국부펀드(PIF) 산하 AI 스타트업. 2026년 5월 NVIDIA와 전략적 파트너십 체결. — 출처: [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia)
 
-### 스트리밍 세그먼트 (Entertainment SVOD)
+2. 1차 배포 규모: NVIDIA GB300 Grace Blackwell 슈퍼컴퓨터 **18,000대**, InfiniBand 네트워킹. 리야드·담맘 2개 거점에서 각각 **100MW** 용량으로 2026년 2분기 가동 예정. — 출처: [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia)
 
-6. SVOD 매출 $5.49B (+13% YoY) — 출처: https://www.stocktitan.net/sec-filings/DIS/10-q-walt-disney-co-quarterly-earnings-report-2442316a11a7.html
-7. SVOD 영업이익 $582M (+88% YoY, 전년 $310M) — 출처: 상동
-8. SVOD 영업이익률 **10.6%** — 디즈니 역사상 최초 두 자릿수 스트리밍 마진 — 출처: 상동
-9. 스트리밍 매출이 선형 TV 매출을 처음으로 초과 (Entertainment 구독·광고 기준) — 출처: https://www.fool.com/investing/2026/05/06/disneys-new-ceo-josh-damaro-kicks-off-his-tenure-w/
-10. Q1 FY2026 스트리밍: 매출 $5.35B (+11%), 영업이익 $450M (+72%) — 전 분기 데이터 — 출처: https://businesstats.com/disney-plus/
+3. 장기 목표: 5년간 최대 **500MW** 용량, "수십만 개"의 NVIDIA 최첨단 GPU. HUMAIN은 3년간 최대 **60만 개** NVIDIA GPU 배포 계획. — 출처: [ThinkAutomated](https://thinkautomated.io/news/u-s-oks-blackwell-exports-to-uae-and-saudi-as-humain-targets-600k-gpus)
 
-### 세그먼트별 결과
+4. xAI(일론 머스크)와 HUMAIN이 사우디아라비아에 **500MW** 데이터센터 공동 프로젝트 발표. Adobe, Qualcomm, AMD, Cisco도 HUMAIN과 딜 체결. — 출처: [StockTwits/Axios](https://stocktwits.com/news-articles/markets/equity/elon-musk-announces-xai-humain-nvidia-to-launch-500-mw-project/cLPohxfREBs)
 
-11. Entertainment 세그먼트: 매출 $11.72B (+10%) — 출처: 10-Q 집계
-12. Experiences 세그먼트: 매출 $9.49B (+7%), 영업이익 $2.62B (+5%) — 분기 사상 최대 — 출처: https://www.wdwmagic.com/other/walt-disney-company/news/06may2026-disney-parks-revenue-hits-q2-record-as-guest-spending-rises-5.htm
-13. Sports 세그먼트(ESPN): 매출 $4.61B (+2%) — 출처: 10-Q
-14. Experiences 영업이익 $2.62B / 총 세그먼트 OI $4.6B = **57%** (최대 이익 세그먼트) — 자체 계산
+### 🇦🇪 UAE — G42 / Stargate UAE
 
-### 가이던스 및 자본 배분
+5. Stargate UAE: G42(아부다비 AI 챔피언)이 OpenAI·Oracle과 공동으로 구축하는 **1GW** AI 캠퍼스. 아부다비 남쪽 사막 약 19km² 부지. 총 비용 **$300억 이상** 예상. — 출처: [G42 공식](https://www.g42.ai/resources/news/global-tech-alliance-launches-stargate-uae)
 
-15. Q3 FY2026 가이던스: 총 세그먼트 영업이익 ~$5.3B (+16% YoY) — 출처: Variety
-16. FY2026 조정 EPS 가이던스: +12% (53주 효과 제외), +16% 포함 시 — 출처: CNBC
-17. FY2026 자사주매입 목표: $8B 이상 — 출처: CNBC
-18. FY2026 전체 FCF 가이던스: ~$10B (운영현금 $19B - 설비투자 $9B) — 출처: https://247wallst.com/investing/2026/05/12/analysts-see-20-upside-for-disney-on-new-streaming-profitability-milestone/
-19. FY2026 매출 전망: $101B 최초 돌파 예상 (컨센서스) — 출처: 복수 애널리스트 집계
+6. 1단계: **200MW** Grace Blackwell GB300 클러스터, 2026년 말 가동. G42 CEO: 이후 "분기당 200~500MW" 추가 확장, 궁극적으로 **5GW** 목표. — 출처: [Digital Dubai](https://www.digitaldubai.ai/dubai-updates/stargate-uae-g42-ai-infrastructure-cluster-200mw-first-phase-2026)
 
-### FCF 현황 (주의 요망)
+7. G42: 미국 정부로부터 **35,000개** 블랙웰 칩 수출 허가 확보. 트럼프 행정부가 Biden 시대 규제 완화, 보안 공약 조건으로 UAE·사우디에 총 **70,000개** 첨단 AI 칩 승인. — 출처: [G42 공식](https://www.g42.ai/resources/news/g42-receives-us-approval-advanced-ai-chip-exports-enabling-full-scale-deployment-trusted-ai-infrastructure)
 
-20. H1 FY2026 FCF: $2.66B (-53% YoY) — 출처: 247wallst.com (위)
-21. FCF 감소 원인: (1) 캘리포니아 산불 관련 세금 지연 납부 + (2) Entertainment·Sports 콘텐츠 지출 증가 — 출처: 상동
-22. Q2 FY2026 영업현금흐름: $0.7B (전년 $3.2B에서 감소) — 출처: 상동
+### 🇨🇦 캐나다 — TELUS + 연방정부
 
----
+8. 2026년 5월, 캐나다 혁신부와 TELUS가 "Enabling Large-Scale Sovereign AI Data Centres" 이니셔티브 하에 MOU 체결. BC 하이드로 청정 재생에너지 **85MW** 확보. — 출처: [Canada.ca](https://www.canada.ca/en/innovation-science-economic-development/news/2026/05/government-of-canada-and-telus-advance-work-to-build-sovereign-ai-infrastructure.html)
 
-## 스트리밍 6년 역사 (시계열용)
+9. 3개 시설: 캠룹스(2026년 말 가동), 밴쿠버 M3(2026년 말~2028), 150 West Georgia(2029). 2032년까지 총 150MW, **6만 개 GPU+** 목표. 전력의 98%+ 재생에너지. — 출처: [Canada Newswire](https://www.newswire.ca/news-releases/telus-and-government-of-canada-advance-work-to-scale-canada-s-sovereign-ai-infrastructure-854223505.html)
 
-23. 2019년 11월: Disney+ 론칭, 월 $6.99 — 출처: https://www.dealnews.com/features/disney-plus-price-increase/
-24. 론칭 16개월 만에 1억 구독자 돌파 (2021년) — 출처: 복수 매체
-25. FY2022 스트리밍 사업 연간 손실 ~$3.4-4B (Bob Iger 직접 "3년 전 $4B 손실" 언급) — 출처: https://www.worldofreel.com/blog/2024/5/15/disney-ceo-says-studio-lost-4-billion-because-it-tried-to-tell-too-many-stories/
-26. 2022년 11월 20일: CEO Chapek 전격 경질, Iger 복귀 — 출처: Deadline
-27. Iger 구조조정: 7,000명 감원, 총 $7.5B 절감 (초기 목표 $5.5B에서 상향) — 출처: https://deadline.com/2023/08/disney-earnings-streaming-disney-disney-world-bob-iger-1235458860/
-28. 콘텐츠 비용: $30B (FY2022) → $24B (FY2026, 스포츠:엔터 50:50) — 출처: https://variety.com/2025/biz/news/disney-content-spending-2026-sports-entertainment-local-content-1236585670/
-29. 누적 스트리밍 손실 2023년까지 $10B+ — 출처: https://www.rankupwards.com/investment/how-much-money-has-disney-lost
-30. 2022년 12월: 광고 지원 플랜 $7.99 론칭 (광고 없는 플랜 $10.99로 동시 인상) — 출처: https://www.dealnews.com/features/disney-plus-price-increase/
-31. 가격 인상 여정 (광고 없는 플랜): $6.99(2019) → $10.99(2022) → $13.99(2023) → $15.99(2024) → $18.99(2025년 10월) — 총 **+171%** — 출처: 상동
-32. 현재 요금: Disney+ Basic(광고 있음) $11.99/월, Premium(광고 없음) $18.99/월 — 출처: 상동
+### 🇫🇷 프랑스 — Mistral + Fluidstack
 
-### 구독자·ARPU 데이터 (마지막 공식 발표)
-33. Disney+ 구독자 131.6M (FY2025 Q4, 마지막 공식 발표) — 출처: https://businesstats.com/disney-plus/
-34. Disney+ + Hulu 합산 ~196M (마지막 공식 발표) — 출처: 복수 매체
-35. Q1 FY2026부터 구독자수·ARPU 발표 완전 중단 (수익성 지표로 전환) — 출처: https://www.thewrap.com/disney-hulu-espn-stop-reporting-subscribers-average-revenue-per-user/
-36. ARPU $8.04/월 (FY2025 Q4, +11.7% YoY) — 출처: https://businesstats.com/disney-plus/
+10. Fluidstack: €100억 투자, 최신세대 AI 칩 **50만 개**, 1GW 용량, 프랑스 핵에너지 기반. 1단계 2026년 가동 예정. — 출처: [USFunds/WEF](https://www.usfunds.com/resource/nations-are-spending-billions-to-make-their-own-sovereign-ai/)
 
----
+11. Mistral AI: $8.3억 부채금융 조달(2026-03-30), NVIDIA GB300 **13,800개**, 44MW, 파리 남쪽 Bruyères-le-Châtel. 2026년 6월 가동 예정. — 출처: [CNBC](https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html)
 
-## ESPN DTC 관련
+12. MGX(아부다비 $1000억 AI펀드)+Bpifrance+NVIDIA+Mistral: 파리 근교 **1.4GW** AI 캠퍼스. 2026년 하반기 착공, 2028년 운영. — 출처: [thenextweb/DCD](https://thenextweb.com/news/mistral-ai-830m-debt-data-centre-paris)
 
-37. ESPN DTC 2025년 8월 21일 론칭 (ESPN 72년 역사 최초 단독 DTC) — 출처: https://www.cnbc.com/2025/08/21/disney-espn-app-launch.html
-38. ESPN Unlimited $29.99/월 (12개 ESPN 채널 전체 + NFL, NBA, MLB 등) — 출처: 상동
-39. ESPN Select $11.99/월 (ESPN+ 수준 콘텐츠) — 출처: 상동
-40. Disney+/Hulu/ESPN Unlimited 번들: $29.99/월 (첫 12개월) — 출처: 상동
-41. ESPN 2026년 4월: CW와 ACC·Mountain West·Pac-12 서브라이선싱 계약; WWE WrestleMania 독점 중계 계약 — 출처: https://en.wikipedia.org/wiki/ESPN_(streaming_service)
+### 🇰🇷 한국
+
+13. 한국 정부, 국가성장펀드에서 AI 역량 강화에 **57억 달러** 투입 공약(2026-05-04). — 출처: [AI Business Review](https://www.aibusinessreview.org/2026/05/04/south-korea-5-7bn-ai-investment-sovereignty/)
+
+14. NVIDIA: 삼성·SK그룹·현대·NAVER·한국 정부와 협력, 소버린 클라우드·AI팩토리 전반에 **26만 개** NVIDIA GPU 배포. — 출처: [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure)
+
+15. AI기본법 2026년 1월 시행, 한국 AI 거버넌스의 입법적 기반 마련. 정부지원 $3.81억으로 5개 컨소시엄(네이버·SKT·LG·엔씨·업스테이지) 선정. — 출처: [Introl Blog](https://introl.com/blog/south-korea-735b-sovereign-ai-initiative-infrastructure-requirements-opportunities)
+
+### 🇯🇵 일본
+
+16. IDC: 일본 AI 인프라 지출 2026년 **$55억+**, YoY 18%+ 성장. 2022-2025년 7배 확대. 2028년에는 AI 인프라 지출이 비AI 인프라 지출 초과 전망. — 출처: [IDC 공식 블로그](https://www.idc.com/resource-center/blog/7x-growth-in-just-three-years-japans-ai-infrastructure-will-surge-past-5-5-billion-in-2026-idc-reveals/)
+
+### 🌏 아시아태평양 (IDC 2026-05-13)
+
+17. IDC 연구: APAC 정부 소버린 AI 투자 우선순위 **7위→2위** (1년 만에). 8개 시장(호주·인도·인도네시아·일본·말레이시아·필리핀·싱가포르·한국) 정부 IT 의사결정자 **360명** 조사. — 출처: [IDC/Media OutReach](https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/)
+
+18. APAC 응답자 **76.9%**: "소버린 AI 투자가 지정학적 리스크·공급망 혼란에 대한 기관 복원력을 강화한다" 동의. 46.1% 소버린 AI 기술 적극 검토 중. 단 **3.1%**만 본격 투자 단계. — 출처: [IDC/Media OutReach](https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/)
+
+### 🌍 글로벌 매크로
+
+19. 글로벌 소버린 AI 시스템 지출: **2026년 $1000억 돌파** 전망. — 출처: [ComputeForecast](https://www.computeforecast.com/long-reads/sovereign-ai-infrastructure-nation-state-competition/)
+
+20. McKinsey: AI 지출의 30~40%가 주권 요구사항에 의해 결정될 전망 = **2030년 $5000억~$6000억** 규모. — 출처: [McKinsey](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/sovereign-ai-building-ecosystems-for-strategic-resilience-and-impact)
+
+21. WEF: 2030년까지 연간 AI 인프라 투자 **$4000억**. McKinsey: 2030년까지 데이터센터에 **$7조** 투자, AI 워크로드 $5.2조. — 출처: [WEF](https://www.weforum.org/publications/rethinking-ai-sovereignty/)
+
+22. 전 세계 데이터센터 월간 건설지출: 2024-01 $249억 → 2025-01 $358억 → 2025-12 $451억. 2024년 CapEx $4300억, 2029년 $1.1조 전망. — 출처: [CNBC/McKinsey](https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html)
+
+### 🇨🇳 중국 — Huawei Ascend (대항마)
+
+23. 화웨이 Ascend 950PR (2026 Q1): 자체 HBM(HiBL 1.0) 탑재, FP4 추론 성능 NVIDIA H20의 **2.8배**. ByteDance: 2026~27년 Ascend 칩 **$56억** 주문. — 출처: [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/huaweis-ascend-and-kunpeng-progress-shows-how-china-is-rebuilding-an-ai-compute-stack-under-sanctions)
+
+24. 화웨이 AI 칩 매출: 2026년 **+60%** 성장, ~$120억 전망. 중국 AI 모델의 글로벌 토큰 점유율: 2025년 ~1% → 2026년 ~**30%**. — 출처: [The Deep Dive](https://thedeepdive.ca/huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-drives-orders-away-from-nvidia/)
 
 ---
 
-## CEO 교체 및 전략 변화
+## 직접 인용 (정확한 원문만)
 
-42. Josh D'Amaro 2026년 3월 18일 CEO 취임, Bob Iger 후임 — 출처: https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html
-43. D'Amaro 전 역할: Disney Experiences 회장 (테마파크·크루즈·리조트·소비자 제품) — 출처: 상동
-44. 3기둥 성장 전략: (1) IP/창의성 중심, (2) 글로벌 팬과 직접 연결, (3) AI 기반 스토리텔링·운영 — 출처: https://www.foxbusiness.com/markets/disney-ceo-unveils-entertainment-giants-new-3-pillar-growth-plan
-45. Disney+를 모든 Disney 경험을 연결하는 "디지털 허브(digital centerpiece)"로 포지셔닝 — 출처: https://www.thewrap.com/industry-news/business/disney-earnings-q2-2026/
-46. Q2 FY2026이 D'Amaro의 첫 실적 발표 — 출처: Deadline
+1. "Every country needs to own the production of their own intelligence." — Jensen Huang, NVIDIA CEO, World Governments Summit, Dubai — 출처: [NVIDIA Blog](https://blogs.nvidia.com/blog/world-governments-summit/)
 
----
+2. "We are building 20 years of AI infrastructure in one year." — HUMAIN, paraphrased from multiple reports — 출처: [IndexBox](https://www.indexbox.io/blog/saudi-arabias-humain-builds-ai-data-centers-with-us-chips/)
 
-## 직접 인용 (확인된 원문)
+3. "The regulation acknowledging that exporting advanced AI chips to China poses serious national security risks while simultaneously creating a pathway to permit their sale results in a framework that is strategically incoherent." — CFR — 출처: [CFR](https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable)
 
-1. *"Our focus remains consistent: improve the consumer experience, deepen engagement, and continue building a healthy and more durable growth business."* — Josh D'Amaro, Q2 FY2026 Earnings Call, 2026-05-06
-
-2. *"First, creative excellence, it will remain at the center of everything that we do... Second, we have a real opportunity to deepen our direct relationship with our fans by creating a more connected Disney experience across streaming, sports, games and Experiences — with Disney+ playing an increasingly central role."* — Josh D'Amaro, Q2 FY2026 Earnings Call
-
-3. *"We are focused on scaling outside the US. We are increasing our local content investments and early results — they're encouraging."* — Josh D'Amaro, Q2 FY2026 Earnings Call
-
-4. Bob Iger (전 CEO): "3년 전 [스트리밍 사업은] $4B의 운영 손실을 기록했다" — 출처: WorldofReel/2024
+4. "AI infrastructure has moved to the centre of global debates on competitiveness." — WEF "AI Infrastructure in the Age of Sovereignty" (May 2026) — 출처: [WEF](https://reports.weforum.org/docs/WEF_AI_Infrastructure_in_the_Age_of_Sovereignty_Requirements_Strategies_and_a_Trusted_Framework_for_Digital_Embassies_2026.pdf)
 
 ---
 
-## 경쟁 비교
+## 숫자 데이터 (검증 가능한 것만)
 
-47. Netflix Q1 2026 영업이익률: **29.5%** (vs 디즈니 10.6% → 18.9pp 격차) — 출처: The Wrap
-48. Netflix Q1 2026 수익 +82%, $5.28B — 출처: 상동
-49. WBD (HBO Max) 스트리밍 이익 +29%, $438M — 출처: 상동
-50. Peacock: 분기 매출 $2B 최초 돌파, 그러나 아직 적자 (흑자 전환 "임박") — 출처: 상동
-51. 미국 SVOD 시장 점유율: Netflix 32.5%, Disney 16.7%, Amazon 15.3% (상위 3 = 64.5%) — 출처: https://www.contentgrip.com/streaming-market-share-q1-2026/
-52. Paramount + WBD 합병 주주 승인 2026-04-23, $81B 주식 가치·$110B 기업가치 — 출처: https://markets.financialcontent.com/stocks/article/marketminute-2026-3-31-the-consolidation-renaissance-a-retrospective-on-the-170-billion-warner-paramount-union
-53. Paramount: "WBD와 합병 없이는 Netflix·Disney·Amazon과 경쟁 불가" 공식 인정 — 출처: https://variety.com/2026/tv/news/paramount-warner-bros-merger-hbo-max-catch-up-netflix-disney-amazon-1236745942/
-
----
-
-## 국제 비교
-
-54. 한국 Tving 연간 손실: ₩6.1B(2020) → ₩76.2B(2021) → ₩119.1B(2022) → ₩140.2B(2023) → ₩71B(2024) — 출처: https://www.koreatimes.co.kr/business/tech-science/20250810/will-tving-wavve-merger-prompt-local-streaming-services-recovery
-55. Wavve 순손실 ₩8.3B, 유동부채가 자산 초과 ₩90.7B — 출처: 상동
-56. 한국: Tving+Wavve 합병 공정위 승인, Netflix 독주 저지 시도 — 출처: 상동
-57. 일본 프리미엄 스트리밍 시장 2025년 $7.2B (+15% YoY), 구독자 6,730만명 — 출처: https://variety.com/2026/tv/news/japan-streaming-market-7-billion-1236663822/
-58. 일본: Netflix 22% 수익 점유율 1위, Disney+(Hulu Japan 번들) 3~5% 시청점유율 — 출처: 상동
-59. 일본: 로컬 콘텐츠가 전체 스트리밍 시청시간의 80% 차지 — 출처: 상동
-60. 한국·일본 모두: 미국 빅2(Netflix·Disney)만이 흑자 달성한 글로벌 미디어 vs 로컬 OTT 모두 적자 지속
-
----
-
-## 밸류에이션
-
-61. 주가 ~$108 (2026-05-16 기준) — 출처: 복수 검색
-62. P/E (TTM) ~17x, Forward P/E ~14.6x — 출처: https://www.gurufocus.com/term/pettm/DIS
-63. 역사적 평균 P/E: 45.7x(3년), 70.3x(5년) — 팬데믹 손실로 왜곡. 현재 17x은 할인 상태 — 출처: 상동
-64. 애널리스트 컨센서스: 31명 중 26명 Buy이상(84% 강세), 목표가 $130~$134 (+20~25% 업사이드) — 출처: https://247wallst.com/investing/2026/05/12/analysts-see-20-upside-for-disney-on-new-streaming-profitability-milestone/
-65. 3개 IB가 Q2 실적 후 목표가 상향 (5월 7일) — 출처: https://247wallst.com/investing/2026/05/07/disney-just-got-a-wall-street-pile-on-three-firms-hike-price-targets-after-q2-crusher/
+| 항목 | 수치 | 출처 |
+|------|------|------|
+| HUMAIN 1차 GPU | 18,000 GB300 | NVIDIA Newsroom |
+| HUMAIN 장기 목표 | 600,000 GPU / 500MW / 5년 | ThinkAutomated |
+| Stargate UAE 1단계 | 200MW / 2026년 말 | Digital Dubai |
+| Stargate UAE 최종 | 1GW / $30B+ | G42 공식 |
+| G42 수출허가 | 35,000 Blackwell chips | G42 공식 |
+| UAE+사우디 합계 허가 | 70,000 chips | Business Standard |
+| TELUS 캐나다 클러스터 | 85MW → 150MW(2032) / 60,000+ GPU | Canada.ca |
+| Mistral 데이터센터 | 13,800 GB300 / 44MW / $8.3억 | CNBC |
+| 프랑스 Fluidstack | 500,000 chips / 1GW / €100억 | WEF/USFunds |
+| 한국 정부 AI 투자 | $57억 (국가성장펀드) | AI Business Review |
+| 한국 NVIDIA GPU | 260,000개 (소버린 클라우드+팩토리) | NVIDIA Newsroom |
+| 일본 AI 인프라 지출 | $55억+ (2026) / 7배 성장(2022-25) | IDC |
+| APAC 소버린AI 우선순위 | 7위→2위 (1년 만에) | IDC (2026-05-13) |
+| 글로벌 소버린AI 지출 | $1000억+(2026) | ComputeForecast |
+| McKinsey 주권 AI 시장 | $5000억~$6000억(2030) | McKinsey |
+| 글로벌 DC CapEx | $4300억(2024) → $1.1조(2029) | CNBC/McKinsey |
+| 화웨이 AI칩 매출 성장 | +60% → ~$120억 (2026) | The Deep Dive |
+| 중국 AI 토큰 점유율 | ~1%(2025) → ~30%(2026) | Just Security |
+| DOJ Operation Gatekeeper | $1.6억 규모 중국 우회 적발 (2025-12) | CFR/Morrison Foerster |
 
 ---
 
-## 반론/리스크
+## 관련 종목
 
-1. FCF -53% (H1 2026): $2.66B → 현금 창출 능력은 아직 취약. 세금 효과 제거 후에도 콘텐츠 지출 확대
-2. 스트리밍 OI $582M 좋아 보이지만 Experiences OI $2.62B의 22% 수준 — 실질 이익 기여 아직 미미
-3. 구독자수·ARPU 발표 완전 중단 → 정보 불투명성 상승
-4. D'Amaro 신임 CEO는 파크 출신 — 스트리밍/기술 전략 역량 미검증
-5. Netflix 29.5% vs Disney 10.6% → 18.9pp 격차. 추격에 3~5년 소요 가능
-6. 미국 SVOD 성장률 급감 (업계 전체 +5% 수준)
-7. Paramount+WBD 합병 완료 시 규모·콘텐츠 면에서 강력한 3위 경쟁자 등장
-8. 스포츠 세그먼트 Q3 영업이익 -14% 전망 (NFL·신규 권리 계약 비용 급증)
+| 티커 | 연결 포인트 |
+|------|-------------|
+| $NVDA | 소버린 AI 딜의 최대 직접 수혜자 — 모든 국가 딜에 등장 |
+| $ANET | 소버린 클라우드·AI팩토리 네트워킹 인프라 (Arista Networks) |
+| $SMCI | AI 서버 공급 (SuperMicro) |
+| $VRT | 데이터센터 전력관리 (Vertiv) |
+| $AMD | HUMAIN 딜 포함, 소버린 AI 서버 다변화 |
+| 삼성전자 / SK하이닉스 | HBM 수요: ASIC+소버린AI 동시 성장 → HBM 소요량 급증 |
+| $CSCO | 사우디 HUMAIN 딜에 Cisco 포함 |
+
+---
+
+## 반론/리스크 (반대 시각)
+
+1. **하드웨어 ≠ AI 역량**: 데이터센터를 짓는 것과 AI 생태계를 구축하는 것은 다르다. 사우디·UAE는 AI 인재, 데이터 파이프라인, 로컬 소프트웨어 생태계가 취약. Fast Company: "Trump의 NVIDIA 외교는 실패한다" — 출처: [Fast Company](https://www.fastcompany.com/91446055/saudi-arabia-nvidia-trump-mbs-chips-uae-china)
+
+2. **칩 우회 수출 리스크**: DOJ Operation Gatekeeper (2025년 12월): 최소 $1.6억 규모의 AI 칩이 중국·홍콩으로 불법 수출 시도 적발. 소버린 AI 명목 수출된 칩이 제3국으로 흘러갈 보장 없음. — 출처: [CFR](https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable)
+
+3. **"완전한 주권"은 환상**: AI 모델은 지속적인 업데이트·미국 통제 공급망 의존 필수. 진짜 소버린 AI는 소프트웨어·모델·칩 전 레이어 독립성을 요구하는데, 중국(화웨이 Ascend)조차 완전 독립에 수년이 걸리는 중. — 출처: [Chatham House](https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-the-best-bargaining-chip)
+
+4. **중국의 역습**: 화웨이 Ascend로 글로벌 독자 AI 에코시스템 구축 시도. ByteDance $56억 주문, 중국 AI 모델 글로벌 점유율 1%→30% 급증. 수출통제가 중국을 막기보다 자체 공급망 구축을 앞당기는 역설. — 출처: [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/huaweis-ascend-and-kunpeng-progress-shows-how-china-is-rebuilding-an-ai-compute-stack-under-sanctions)
+
+5. **APAC 현실**: IDC 조사에서 "본격 투자" 단계는 단 3.1%. 10명 중 9명이 "핵심 AI 스킬 부족"을 호소. 소버린 AI 우선순위는 높아졌지만 실행은 초기 단계.

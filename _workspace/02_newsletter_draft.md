@@ -1,197 +1,130 @@
-D-2 카운트다운 — 엔비디아·구글이 AI의 다음 방향을 결정한다
-머뉴 MoneyNews | 2026년 5월 18일 (월) | 돈이 되는 모든 것에 대한 소식
+# 국가가 AI를 사기 시작했다 — 사우디의 "20년을 1년에" 선언, $1000억이 그리는 소버린 AI 지도
 
-🇰🇷 코스피 7,443 (-0.67%) / 코스닥 1,123 (-0.64%) / 원달러 1,501원
-🇺🇸 S&P 500 7,408 (-1.24%▼fri) / 나스닥 26,225 (-1.54%▼fri) / 다우 49,526 (-1.07%▼fri) / WTI $103.2 / BTC $77,800
-
-📌 주초를 뜨겁게 여는 세 개의 기폭제
-
-1. **국채가 경고를 보냈다, 그러나 AI는 멈추지 않는다** — 30년물이 5.1%를 돌파하며 지난 금요일 기술주를 무릎 꿇렸다. 엔비디아 -4.42%, AMD -5.7%, 마이크론 -6.6%. 숫자만 보면 AI 랠리의 종말처럼 보이지만, 실체는 다르다. 인플레이션 공포가 일으킨 유동성 충격이지, AI 자본지출 감소 신호가 아니다. 이번 주 그 해답은 수요일 엔비디아 어닝이 제시한다. [Yahoo Finance](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-yields-rise-trump-xi-summit-ends-224527041.html)
-
-2. **이번 주가 전부다** — 구글 I/O는 내일(5/19) 오전 10시 PT. Gemini 4.0 · Android XR 스마트안경 · Gemini Spark 에이전트 발표 예고. 엔비디아 어닝은 수요일(5/20) 장마감 후. 컨센서스 매출 $78.8B, 골드만삭스 데스크 노트는 $80B+를 가리킨다. FOMC 의사록도 수요일에 나온다. 세 개의 방아쇠가 48시간 안에 당겨진다. [TechTimes](https://www.techtimes.com/articles/316755/20260517/google-i-o-2026-keynote-opens-tuesday-new-gemini-lands-behind-mythos-gpt-55.htm)
-
-3. **이란이 기름값을 붙잡고 있다** — WTI $103, 호르무즈 봉쇄 우려가 사라지지 않는다. 원달러는 1,501원으로 다시 1,500원대를 넘어섰다. 수입 인플레 리스크가 한국 증시를 짓누르고 있다. 미국 소비자도 예외가 아니다. 이번 주 수요일 FOMC 의사록이 연준의 다음 수를 힌트로 줄 것이다. [Investing.com](https://www.investing.com/commodities/crude-oil)
-
-💰 관심 종목 현황
-$TSLA  $422  (-4.75%)  목표가 $430  — 주말 로보택시 운영 이슈 보도 + 호주 법원 경고로 월요일 급락
-$GOOGL $396  (+0.5%)  목표가 $445  — 내일 I/O 기대감, Gemini 4.0·Android XR 선공개 루머
-$NVDA  $229  (+0.2%)  목표가 $276  — D-2 카운트다운, 컨센서스 $78.8B / Q2 가이던스 $86B+ 주목
-$COIN  $194  (-6%주간) 목표가 $250 — CLARITY Act 진전 후 차익실현 압력 지속
-$NFLX  $88   (+1.2%)  목표가 $118  — NFL 5경기 중계권 확장 발표, 광고 매출 성장 지속
-$OKLO  $62   (-7.8%주간) 목표가 $101 — Q1 어닝미스 여파, JPMorgan $83 중립 개시
-$OHI   $47   (±0%)    목표가 $52   — 분기 배당 $0.67 지속, BMO 목표가 $52 재확인
-$SPY   $738  (-0.2%)  —               S&P 500 추적, 어닝 주간 앞두고 관망 모드
-$QQQ   $709  (-1.5%)  —               나스닥 100, 기술주 조정 일단락 여부가 관건
-
-👀 오늘 주목할 것
-- **내일 새벽 (한국 5/20 02:00)** 구글 I/O 2026 키노트 시작. Gemini 4.0의 200만 토큰 컨텍스트가 GPT-5.5와의 격차를 얼마나 좁혔는지가 핵심. $GOOGL은 이미 +28% YTD를 반영 중이라 기대치가 높다.
-- **D-2 NVDA 어닝** — Polymarket 비트 확률 90%, 그러나 지난 4번 중 3번 비트 후에도 주가 하락. 가이던스와 중국 수출 실마리가 주가를 결정한다. 골드만삭스의 목표가는 시장 컨센서스 대비 14~34% 높다.
-- **$TSLA** — 월요일 오전에만 -4.75%. 로보택시 테스트에서 대기시간·내비 오류 보도와 호주 집단소송 법원 강경 경고가 맞물렸다. 단기 모멘텀이 꺾인 구간.
-
-🔥 오늘의 픽 — AI 인프라/반도체 (월요일 테마)
-
-🌡️ 시장 온도
-금요일의 상처가 아직 남아있다. 30년물 5.1%+라는 숫자가 시장의 배경음악처럼 깔려 있고, VIX는 22를 넘어 Fear 영역에 걸쳐 있다. 필라델피아 반도체 지수(SOX)는 금요일 3%+ 하락했지만, 연초 이후 여전히 +60% 수준이다. 공포 속에 기회가 숨어있는 전형적인 구조다.
-
-🎯 오늘의 테마: AI 인프라/반도체
-
-오늘이 월요일인 이유가 있다. BofA는 이번 주 반도체 섹터 2026년 매출 전망을 $1.3조로 상향했다. NVDA 어닝(D+2)은 단순 실적이 아니라 이 $1.3조 시장의 성장 속도를 검증하는 테스트다. 금요일 기술주 셀오프는 인플레 공포가 촉발한 기계적 조정이지 AI 인프라 수요 약화 신호가 아니다 — 오늘 MRVL이 +3.34% 반등하며 그 신호를 먼저 보내고 있다.
+**2026-05-18 | 📡 테크 트렌드 | AI 인프라/반도체**
 
 ---
 
-💡 픽 1: MRVL의 D+9 약속 — 애널리스트 웨이브가 시작됐다
+## 18,000개의 Blackwell이 리야드에 도착하는 날
 
-$MRVL Marvell Technology (시총 약 $159B, 반도체/ASIC 맞춤 칩)
+지난주, 사우디아라비아 리야드 외곽 어딘가에 역사상 최대 규모의 AI 하드웨어 물량이 내려앉았습니다. NVIDIA의 최신 Grace Blackwell GB300 슈퍼컴퓨터 18,000대. 빌딩 한 층을 통째로 채울 분량의 AI 가속기가 일시에 설치되기 시작한 거예요. 발주자는 사우디아라비아 국부펀드(PIF) 산하 AI 스타트업 HUMAIN. 그리고 HUMAIN 측이 밝힌 바에 따르면, 이번 투자는 단순한 인프라 업그레이드가 아닙니다. "20년치 AI 인프라를 1년 만에 짓겠다"는 것이었습니다.
 
-9일 뒤인 5월 27일, Marvell은 Q1 FY2027 실적을 발표한다. 어닝을 9일 앞두고 월가가 조용히 움직이기 시작했다. BofA의 Vivek Arya가 목표가를 $125에서 $200으로 올렸고, RBC 캐피탈이 $170→$200, B. Riley는 $156→$205, TD Cowen은 $90→$190으로 잇따라 올렸다. 어떤 애널리스트도 내리지 않는 상황 — 지금 가격(~$184)이 너무 싸다는 월가의 합창이다.
+단순한 과시? 아닐 수 있습니다. HUMAIN은 이번 1차 배포(18,000 GPU, 200MW)를 시작으로 3년 내 **60만 개**의 NVIDIA GPU, 5년 내 **500MW** 용량을 목표로 잡았습니다. xAI(일론 머스크)와 공동으로 **500MW** 데이터센터를 짓겠다는 계획도 발표했죠. 숫자만 놓고 보면, 마이크로소프트·구글이 전 세계에 쪼개 짓는 데이터센터를 한 나라에 집중 배치하겠다는 수준입니다.
 
-Marvell은 AI 인프라 맞춤 칩(ASIC)의 설계·제조 핵심 파트너다. 구글이 Ironwood TPU를 만들 때, 아마존이 Trainium 3를 만들 때, 이 칩들이 실리콘이 되는 과정에 Marvell이 있다. "NVIDIA 없이도 AI 데이터센터가 돌아가는" 세상을 빅테크가 원한다면, 그 픽앤샤블 수혜주 1순위가 MRVL이다. 컨센서스 Q1 매출은 $2.4B (+27% YoY), EPS $0.79 (+27.4% YoY). 오늘 장 초반 +3.34% 반등은 기관이 먼저 진입하고 있다는 신호다.
-
-5G 기지국 수요 회복 + 데이터센터 네트워킹 + ASIC 맞춤 설계의 세 엔진이 동시에 돌아가기 시작한 Marvell에, 9일 짜리 카탈리스트가 박혀있다.
-
-📊 스코어카드
-기술적 2/3(모멘텀+거래량) | 수급 2.5/3(이상옵션+기관진입) | 카탈리스트 2/2 | 펀더멘털 2/2 | 신선도 +1 | **종합 9.5/10**
-📅 D-Day: 2026-05-27 Q1 FY2027 실적 발표 (AMC)
-현재가: ~$184 | P/E: 53x | 목표가: $200(BofA/RBC) ~ $205(B.Riley) (+9~+11%)
-가이던스 컨센: $2.4B 매출 (+27% YoY) | 2026 YTD: +89%
+그런데 이건 사우디만의 이야기가 아닙니다. 같은 주, 캐나다 정부는 통신사 TELUS와 MOU를 체결하며 브리티시 컬럼비아에 소버린 AI 데이터센터 클러스터를 짓기로 했고, 아부다비의 G42는 Stargate UAE 1단계(200MW) 착공을 공식화했습니다. IDC는 5월 13일, 아시아태평양 정부들의 AI 투자 우선순위에서 소버린 AI가 **1년 만에 7위에서 2위**로 뛰어올랐다는 연구 결과를 냈습니다 ([IDC](https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/)). 세계 곳곳에서 국가들이 AI 인프라를 "주권 자산"으로 선언하고 있어요. 2026년, 이 흐름에 올라타는 쪽과 구경만 하는 쪽의 격차가 벌어지기 시작했습니다.
 
 ---
 
-💡 픽 2: AVGO의 $10.7B 약속 — 6월 3일을 기다리는 AI 내러티브
+## 이 레이스가 시작된 건 ChatGPT가 터진 그날부터였다
 
-$AVGO Broadcom Inc. (시총 약 $2.0T, 반도체/네트워킹)
+소버린 AI라는 개념이 주류 담론에 등장한 건 2024년 초의 일입니다. NVIDIA CEO Jensen Huang이 두바이 세계정부정상회의(World Governments Summit) 연단에 서서 이렇게 말했을 때죠.
 
-6월 3일, Broadcom은 Q2 FY2026 실적을 발표한다(D+16). 이미 1분기에 AI 반도체 매출 $8.4B (+106% YoY)을 찍었고, Q2 가이던스는 $10.7B. Hock Tan CEO의 목표는 2027년까지 AI에서만 $100B을 팔겠다는 것이다. 매 분기 이 트랙을 지키는 한, 주가의 방향은 하나뿐이다.
+*"모든 나라가 자국의 지능 생산을 소유해야 합니다(Every country needs to own the production of their own intelligence)."* ([NVIDIA Blog](https://blogs.nvidia.com/blog/world-governments-summit/))
 
-Broadcom의 무기는 XPU — 구글의 TPU, 메타의 MTIA, 애플의 자체 AI 칩 설계를 실제로 실리콘에 새겨주는 회사다. NVIDIA가 범용 GPU를 팔고, Marvell이 중형 ASIC을 담당한다면, Broadcom은 초대형 빅테크 전용 맞춤 두뇌를 만드는 사실상 유일한 파트너다. Wells Fargo가 목표가를 $545로 올렸고, TD Cowen은 $500. 현재가 $425에서 기회가 보인다.
+하지만 실제 출발점을 역추적하면 2022년 11월로 거슬러 올라갑니다. ChatGPT 공개 후 불과 며칠 만에 100만 사용자를 돌파했고, 각국 정부는 "우리 데이터가 미국 서버에서 처리되고 있다"는 사실을 처음으로 위협으로 인식하기 시작했습니다.
 
-금요일 -3.32%($14.60) 하락으로 과열을 식힌 지금 — 배당 성장주+AI 성장주 두 속성을 동시에 가진 종목이 어닝 전 조용히 숨을 들이키고 있다.
+데이터센터 투자 흐름이 그걸 증명합니다. 전 세계 데이터센터 월간 건설 지출은 2020~2022년 평균 월 $90~100억 수준이었습니다. ChatGPT 쇼크 직후인 2023년부터 급등해 2024년 1월 $249억, 2025년 1월 $358억, 2025년 12월 $451억까지 치솟았어요. 2년 만에 다섯 배. 전체 CapEx는 2024년 $4,300억에서 2029년 $1.1조로 두 배 이상 증가할 전망입니다 ([McKinsey](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/sovereign-ai-building-ecosystems-for-strategic-resilience-and-impact)).
 
-📊 스코어카드
-기술적 1/3(역추세) | 수급 2/3(기관진입+배당재투자) | 카탈리스트 2/2 | 펀더멘털 2/2 | 신선도 +1 | **종합 8/10**
-📅 D-Day: 2026-06-03 Q2 FY2026 실적 발표 (PMC)
-현재가: ~$425 | P/E: 35x | 목표가: $452 avg / $500(TD Cowen) / $545(Wells Fargo)
-AI 매출 Q2 가이던스: $10.7B (+27% QoQ) | 2026 YTD: +23%
+여기에 지정학 변수가 더해졌습니다. 2023년 미국 상무부(BIS)가 NVIDIA 첨단 AI 칩의 대중 수출 제한을 시작했고, 바이든 행정부는 2025년 규제를 더 강화했습니다. 이 흐름 속에서 중동·캐나다·유럽은 "미국 테크에 계속 의존해도 괜찮은가"라는 질문을 던지게 됐습니다. 그리고 2025년 말 트럼프 행정부가 등장해 UAE와 사우디에 총 70,000개의 첨단 AI 칩 수출을 허가하면서 게임이 완전히 바뀌었습니다. "AI 칩은 외교 무기"라는 공식이 완성된 거예요.
 
----
-⚠️ 투자 조언이 아닌 데이터 기반 분석입니다.
-
-📰 벨이 울리기 전, 역사가 쓰이기 직전이다
-
-S&P 500은 지난 금요일 -1.24%로 7,408에 마감했다. 처음 보면 평범한 조정 같지만, 배경이 다르다. 30년물 국채가 5.114%까지 솟구쳤고, 인플레 공포가 촉발한 기술주 셀오프가 단 하루 만에 2026년 AI 랠리 진영을 흔들었다. AMD -5.7%, 마이크론 -6.6%, 엔비디아 -4.42%. 그러나 이 조정은 구조가 아닌 심리의 산물이다. 이번 주 수요일이면 엔비디아가 $78.8B 실적으로 AI 지출의 건전성을 직접 증명하거나 반박할 것이다. [Yahoo Finance](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-yields-rise-trump-xi-summit-ends-224527041.html)
+그 결과가 지금 우리가 목격하는 $1,000억짜리 소버린 AI 레이스입니다. WEF는 2030년까지 AI 인프라에 연간 **$4,000억**이 투자될 것으로 예측하고 있고, McKinsey는 AI 전체 지출의 30~40%가 주권 요구사항에 영향받는 **$5,000억~$6,000억** 시장이 형성될 것으로 봤습니다. 코스피 전체 시가총액(약 $4,000억)을 훌쩍 넘는 규모예요 ([WEF](https://www.weforum.org/publications/rethinking-ai-sovereignty/)).
 
 ---
 
-🖥️ AI 반도체 전쟁, 2막이 시작된다 (오늘 핵심 테마 — AI 인프라/반도체)
+## 세 개의 진영, 각자의 이유로 같은 방향을 향한다
 
-1. **BofA "반도체 $1.3조 시대" — 이번 주가 첫 증거 제출일이다**
+지금 소버린 AI 경쟁은 크게 세 진영으로 나뉩니다. 돈이 넘치는 중동, 민주주의 동맹의 서방, 그리고 빠르게 쫓는 아시아. 나라마다 이유는 달라도 목표는 하나입니다. "우리의 AI는 우리 땅에서 돌아야 한다."
 
-BofA는 이번 주 2026년 반도체 업계 매출 전망을 $1.32조로 상향했다. AI 프로세서와 네트워킹 수요가 그 기반이다. 엔비디아·Broadcom·Marvell·AMD를 4대 드라이버로 지목했고, "AI 지출은 '더 강하게, 더 오래' 지속될 것"이라는 분석을 냈다. 이 예측의 첫 번째 체크포인트가 수요일 NVDA 실적이다 — 틀리면 전망 자체가 흔들리고, 맞으면 반도체 랠리의 두 번째 레그가 시작된다. [Yahoo Finance](https://finance.yahoo.com/news/bofa-hikes-2026-chips-forecast-to-13-trillion-names-nvidia-broadcom-marvell-amd-as-top-drivers-164800203.html)
+**🌍 중동 진영: 오일머니에서 AI머니로**
 
-2. **Broadcom AI 매출 $8.4B → $10.7B — 구글·메타·애플의 비밀 무기 제조사**
+사우디아라비아 HUMAIN의 1차 배포(18,000 GB300, 200MW)는 2026년 2분기 리야드·담맘에서 동시 가동됩니다. 장기 목표는 5년 내 500MW·60만 GPU. xAI의 500MW 공동 프로젝트, AMD·Cisco·Qualcomm까지 가세해 중동 최대 AI 생태계를 단번에 선언했습니다.
 
-Broadcom은 Q1 FY2026에서 AI 반도체 매출 $8.4B (+106% YoY)을 기록했다. Q2 가이던스는 $10.7B. Hock Tan CEO가 2027년까지 AI에서만 $100B을 팔겠다는 목표를 제시한 이후, 매 분기 트랙이 지켜지고 있다. 구글의 TPU, 메타의 MTIA, 애플의 자체 AI 칩 — 이 맞춤형 ASIC의 설계와 제조를 담당하는 것이 Broadcom이다. "NVIDIA 없는 AI"의 설계도를 파는 회사다. 6월 3일 Q2 실적 발표(D+16)가 다음 카탈리스트다. [StockTitan](https://www.stocktitan.net/news/AVGO/broadcom-inc-to-announce-second-quarter-fiscal-year-2026-financial-04if2lwax8o1.html)
+UAE는 사우디보다 한 발 앞서 있습니다. G42의 Stargate UAE는 아부다비 사막 19km²에 **1GW** AI 캠퍼스를 짓는 프로젝트입니다. OpenAI·Oracle과 공동 운영, 1단계 200MW는 2026년 말 가동. 총 비용 **$300억 이상**, 최종 목표 5GW. 이미 35,000개의 GB300 칩 수출 허가도 확보했습니다. 사우디가 선언하는 동안 UAE는 삽을 먼저 떴어요 ([G42 공식](https://www.digitaldubai.ai/dubai-updates/stargate-uae-g42-ai-infrastructure-cluster-200mw-first-phase-2026)).
 
-3. **Marvell, 어닝 D+9 앞두고 PT 웨이브 — "두 번째 ASIC 챔피언" 자리를 놓고**
+**🌐 서방 동맹: 유럽과 캐나다의 조용한 진지함**
 
-BofA $200, RBC $200, B.Riley $205, TD Cowen $190 — 발표일(5/27) 9일 앞두고 애널리스트들이 일제히 Marvell 목표가를 올렸다. Wall Street 컨센서스는 Strong Buy. 기대치: Q1 매출 $2.4B (+27% YoY), EPS $0.79 (+27.4%). Marvell은 구글·아마존·마이크로소프트의 자체 AI 칩 ASIC 설계를 돕는 회사로, 5G 수요 회복과 데이터센터 네트워킹이 세 번째 성장 엔진으로 돌아가고 있다. 금요일 반도체 섹터 급락 다음 날 MRVL이 +3.34% 반등한 것은 기관의 선제 진입 신호다. [ForeignPolicyJournal](https://www.foreignpolicyjournal.com/2026/05/16/marvell-technology-nasdaq-mrvl-stock-receives-wave-of-price-target-upgrades-ahead-of-q1-earnings/)
+캐나다 혁신부는 2026년 5월 TELUS와 MOU를 체결하며 "Enabling Large-Scale Sovereign AI Data Centres" 이니셔티브를 공식화했습니다. BC Hydro 청정에너지 85MW를 확보해 캠룹스·밴쿠버 3개 데이터센터를 단계적으로 짓습니다. 2032년까지 150MW, 6만 GPU+. 전력의 98%가 재생에너지라는 점에서 유럽 기업들의 거점으로 부상 중입니다 ([Canada.ca](https://www.canada.ca/en/innovation-science-economic-development/news/2026/05/government-of-canada-and-telus-advance-work-to-build-sovereign-ai-infrastructure.html)).
 
----
+프랑스는 더 직접적입니다. Fluidstack이 €100억을 투자해 50만 개 AI 칩, 1GW 규모 핵에너지 기반 데이터센터를 2026년 1단계 가동. Mistral AI는 $8.3억 부채금융으로 GB300 13,800개, 44MW 데이터센터를 2026년 6월 파리 남쪽에 오픈합니다. 더 큰 그림은 MGX(아부다비)+Bpifrance+NVIDIA+Mistral이 공동 선언한 파리 근교 **1.4GW** AI 캠퍼스(2028년 운영 목표)입니다 ([CNBC](https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html)).
 
-🏢 기업 뉴스 — 이번 주 와치리스트 현황
+**🌏 동아시아: 법과 예산, 그리고 7배 성장**
 
-$TSLA 로보택시의 현실: 50대 vs 웨이모 250대, 충돌률은 4배
+한국은 2026년 1월 AI기본법을 시행하며 아시아에서 가장 구체적인 AI 거버넌스 입법 기반을 마련했습니다. 국가성장펀드에서 **$57억**을 AI 역량에 투입하고, 네이버·SKT·LG·엔씨·업스테이지 5개 컨소시엄에 $3.81억을 지원합니다. NVIDIA와의 협력으로 삼성·SK·현대·NAVER 전반에 **26만 개** GPU가 배포 중입니다 ([NVIDIA Newsroom](https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure)).
 
-**이야기** — 지난 금요일 테슬라 주가는 -4.75%로 시작했다. 배경은 여러 겹이다. Reuters가 오스틴·댈러스·휴스턴의 로보택시 테스트 라이드에서 대기 시간 초과(27% 무가용), 내비게이션 오류, 잘못된 하차 지점을 확인하며 보도했다. 그리고 토요일, 호주 연방법원 판사는 테슬라의 집단소송 비협조에 "정말 힘든 시간(really bad time)"을 보게 될 것이라고 공개 경고했다. [TheStreet](https://www.thestreet.com/automotive/tesla-still-has-robotaxi-wait-time-issues-in-austin)
+일본은 숫자로 말합니다. AI 인프라 지출이 2022~2025년 **7배** 확대됐고, 2026년 $55억+에서 YoY 18% 이상 성장 중입니다. 경제안보촉진법 기반의 정부 주도 클라우드 이니셔티브가 대규모 GPU 서버 배포를 가속화했고, 2028년에는 AI 인프라 지출이 비AI 인프라를 추월할 전망입니다 ([IDC](https://www.idc.com/resource-center/blog/7x-growth-in-just-three-years-japans-ai-infrastructure-will-surge-past-5-5-billion-in-2026-idc-reveals/)).
 
-**배경** — 숫자가 냉정하다. 오스틴에서 테슬라 로보택시는 50대. 웨이모는 같은 도시에 250대를 배치했다. 대기 시간은 25분 이상이 전체의 25%+, 차량이 아예 없는 경우가 27%. 더 심각한 건 안전 데이터다 — 오스틴에서만 8월 이후 15건의 충돌이 NHTSA에 보고됐고, 충돌률은 인간 운전자의 4배다. 웨이모의 평균 대기가 3~6분인 것과 대조적이다.
+**🇨🇳 그리고 중국: 홀로 가는 길**
 
-**전망** — 테슬라는 "이것은 편의성 문제이지 안전 이슈가 아니다"라고 반박하고 있다. 그러나 Motley Fool 분석처럼 "로보택시 진짜 확장"은 2027년 이후가 될 수 있다. Cybercab 대규모 생산과 FSD 고도화가 전제 조건이다. $TSLA는 지금 로보택시 기대주에서 "실행 검증 단계"로 넘어가는 구간에 있다. [Electrek](https://electrek.co/2026/05/12/tesla-robotaxi-convenience-issues-hide-safety-bottleneck/)
-
----
-
-$GOOGL 내일 밤이면 AI 전쟁의 지도가 바뀐다
-
-**이야기** — 구글 I/O 2026이 내일(5/19) 오전 10시 PT, 한국 새벽 2시에 시작된다. Gemini 4.0의 첫 공개 발표가 예정되어 있다. 200만 토큰 컨텍스트 윈도우 — 전체 코드베이스나 수십 권의 책을 한 번에 처리하는 수준이다. 이미 +28% YTD를 반영한 $GOOGL 주가가 이번 발표에서 어떤 추가 상승 여력을 찾을지가 관건이다. [AndroidAuthority](https://www.androidauthority.com/what-to-expect-from-google-io-2026-3664979/)
-
-**배경** — 발표 예상 목록: Gemini 4.0 (2M 토큰, 멀티모달), Android XR 스마트안경 (AR/AI 통합 하드웨어), Gemini Spark 에이전트 (멀티앱 작동 AI), Android 17 (역대 최대 AI 통합). Oppenheimer는 I/O 발표를 앞두고 목표가를 $425→$445로 올렸고, 77%의 애널리스트가 Buy 등급을 유지 중이다.
-
-**전망** — ChatGPT o3와 GPT-5.5 대비 Gemini 4.0이 실질적인 성능 차별화를 보여주는지가 핵심이다. 실망스러운 발표는 단기 -3~5% 조정을 줄 수 있다. 그러나 장기 구도에서 구글의 검색+AI+클라우드+하드웨어 통합 전략은 여전히 가장 완성도 높은 AI 생태계다. [TechTimes](https://www.techtimes.com/articles/316755/20260517/google-i-o-2026-keynote-opens-tuesday-new-gemini-lands-behind-mythos-gpt-55.htm)
+나머지 국가들이 NVIDIA GPU를 채우는 동안, 중국은 다른 판을 짜고 있습니다. 화웨이 Ascend 950PR은 2026년 Q1 출시된 자체 AI 추론 칩으로, FP4 성능이 NVIDIA H20의 **2.8배**를 달성했습니다. ByteDance는 2026~27년 사이 Ascend 칩에 **$56억**을 주문했고, 화웨이 AI칩 매출은 2026년 +60% 성장해 $120억에 달할 전망입니다. 중국 AI 모델의 글로벌 토큰 사용 비중도 2025년 ~1%에서 2026년 ~30%로 폭등 중입니다 ([Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/huaweis-ascend-and-kunpeng-progress-shows-how-china-is-rebuilding-an-ai-compute-stack-under-sanctions)). 다른 모든 나라가 NVIDIA 의존 "소버린 AI"를 짓는 동안, 중국만이 완전 독립형 AI 스택을 쌓고 있어요.
 
 ---
 
-$NVDA D-2 카운트다운 — 가이던스가 전부다
+## "GPU 쌓는다고 AI 강국이 되나" — 소버린 AI의 세 가지 균열
 
-**이야기** — 수요일(5/20) 장마감 후 엔비디아 Q1 FY2027 실적 발표. 컨센서스: 매출 $78.8B, EPS $1.77. 그러나 진짜 숫자는 Q2 가이던스다 — 컨센서스는 $86B+, 어닝콜에서 Jensen Huang의 중국 수출 언급이 주가를 결정할 가능성이 높다. [Motley Fool](https://www.fool.com/investing/2026/05/13/nvidia-reports-its-fiscal-2027-q1-earnings-may-20/)
+이 모든 투자가 장밋빛 미래만을 약속하는 건 아닙니다. 비판 진영은 세 가지 핵심 약점을 정확히 찌릅니다.
 
-**배경** — Polymarket 기준 비트 확률 90%. 그러나 지난 4번의 어닝 중 3번은 비트에도 주가 하락이었다. 골드만삭스의 2026년 추정치는 Street 대비 14%, 2027년은 34% 높다. 이 간극을 엔비디아가 실제로 메워갈 수 있는지가 주가 재평가의 핵심이다. 금요일 반도체 섹터 급락에도 불구하고 월요일 엔비디아는 +0.2% 회복 중이다.
+**균열 1: 하드웨어 ≠ AI 역량**
 
-**전망** — Blackwell GPU 수요는 이미 검증됐다. 관건은 두 가지 — ① Q2 가이던스가 $86B을 넘느냐 ② 중국 H20 수출 관련 매출이 실적에 잡혔느냐. 후자는 수익 인식 타이밍에 따라 실질 서프라이즈 크기를 결정한다. [247WallSt](https://247wallst.com/investing/2026/05/14/nvidia-is-up-20-in-a-month-could-the-may-20-earnings-report-knock-it-right-back-down/)
+Fast Company가 "Trump의 NVIDIA 외교는 실패한다"고 쓴 이유가 있습니다. 사우디와 UAE는 데이터센터를 지을 돈은 있지만, AI를 실제로 운영하는 데 필요한 재료인 AI 인재, 학습 데이터 파이프라인, 로컬 소프트웨어 생태계가 턱없이 부족합니다 ([Fast Company](https://www.fastcompany.com/91446055/saudi-arabia-nvidia-trump-mbs-chips-uae-china)). IDC의 조사에서도 이 균열이 드러납니다. "소버린 AI 투자에 동의한다"는 APAC 정부가 **76.9%**인데, 실제로 "본격 투자" 단계에 있는 곳은 고작 **3.1%**입니다. 10명 중 9명이 "핵심 AI 스킬 부족"이 최대 장벽이라고 답했죠 ([IDC](https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/)).
 
----
+**균열 2: 칩은 국경을 넘는다**
 
-$COIN CLARITY Act 이후의 숙취
+2025년 12월, 미국 DOJ는 Operation Gatekeeper를 발표했습니다. AI 칩 **$1.6억 상당**이 중국·홍콩으로 불법 우회 수출됐거나 시도된 사건입니다. 소버린 AI 명목으로 수출된 70,000개의 칩이 실제로 해당 국가에만 머무를 거라는 보장은 없습니다. CFR(미국외교협회)은 현행 수출통제 체계를 두고 *"국가 안보 위협을 인정하면서 동시에 판매를 허용하는, 전략적으로 비일관적이고 시행 불가능한 프레임워크"*라고 직격했습니다 ([CFR](https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable)).
 
-CLARITY Act가 상원 은행위원회를 통과했지만, $COIN 주가는 지난주 -6% 하락했다. 정치적 이정표가 투자 수익으로 즉시 연결되지 않는 현실이다. 2분기 거래량 회복과 상반기 ETH 스테이킹 승인 여부가 다음 카탈리스트다. BTC가 $77,800으로 $80,000선 아래에 있는 한, Coinbase의 수수료 매출도 눌릴 가능성이 높다. 중기 관점에서 규제 명확화는 긍정적이지만, 단기 트레이더들의 차익실현 압력이 아직 남아있다.
+**균열 3: "진짜 주권"의 역설**
 
----
+소버린 AI를 선언한 나라들 대부분이 NVIDIA GPU, 미국 클라우드 API, 미국 AI 기업이 개발한 모델 위에서 돌아갑니다. AI 모델은 지속적인 업데이트가 필요하고, 반도체 공급망은 TSMC·ASML 없이는 돌아가지 않습니다. 진짜 주권은 칩·모델·소프트웨어 전 레이어의 독립성을 요구하는데, 중국조차 화웨이 Ascend 생태계 완성에 수년이 걸리는 중입니다. 오히려 아이러니한 현실이 있습니다. 미국의 수출통제가 중국을 막기보다는, 오히려 자체 공급망 구축을 더 빠르게 앞당기고 있다는 거예요.
 
-$NFLX NFL 5경기, 광고 플라이휠이 빨라진다
-
-Netflix는 2026 NFL 시즌 중계권을 기존 2경기에서 5경기로 확장했다 (추수감사절 전날, 크리스마스 당일, 18주차 포함). 4년 연장 계약이다. JPMorgan은 이 발표 후 목표가를 $118로 제시하며 35% 업사이드를 언급했다. 스포츠 라이브는 광고 수주 단가가 일반 콘텐츠 대비 3~5배 높다 — NFL이 광고 플라이휠의 최고 엔진임을 Netflix도 알고 있다. 광고 티어 가입자 수 성장 + NFL 중계권 확장의 조합은 2027년 광고 매출 도약의 초석이다.
+그럼에도 소버린 AI 투자가 멈추지 않는 이유는 분명합니다. 잘못된 투자라도, 하지 않으면 더 뒤처집니다. 각국 정부는 완벽한 주권보다 "합리적인 자율성"을 목표로 삼고 있고, 그 방향 자체는 되돌릴 수 없는 흐름입니다.
 
 ---
 
-🔮 이번 주 흥미로운 이야기
+## 투자자 관점: 이 $1000억 레이스의 픽앤샤블은 누구인가
 
-1. **50년짜리 무기** — 반도체 업계가 2026년 $1.32조로 도달한 이유 중 하나는 "AI가 이제 단순 소프트웨어가 아닌 하드웨어 인프라를 필요로 한다"는 것이다. 데이터센터 1GW 시대 — 이 전력을 공급할 인프라가 다음 10년의 진짜 병목이 된다. 엔비디아 어닝이 그 시작점을 어디로 찍느냐가 이번 주의 핵심이다. [Kalkine](https://kalkine.ca/news/premium/global-semiconductor-supercycle-explodes-in-2026-as-ai-chip-wars-trillion-dollar-demand-and-us-china-tensions-reshape-markets/)
+소버린 AI가 만드는 수혜 구조는 명확합니다. 누가 이기든, 국가가 AI를 살 때마다 특정 플레이어들에겐 돈이 들어옵니다.
 
-2. **오늘의 수字** — 50 vs 250. 테슬라 오스틴 로보택시 50대, 웨이모 오스틴 250대. 아직도 5배 차이. 테슬라가 "Waymo 킬러"가 되려면 먼저 Waymo를 따라잡아야 한다. 규모의 전쟁에서 테슬라는 아직 1막이다. [CleanTechnica](https://cleantechnica.com/2026/05/12/issues-with-teslas-robotaxi-rollout-in-texas/)
+**🎯 직접 수혜 1순위 — $NVDA**
 
-📊 이번 주 어닝 캘린더 — AI의 성적표가 나온다
+모든 국가 딜에 NVIDIA가 등장합니다. 사우디 18,000 GB300, UAE 35,000 Blackwell, 프랑스 Mistral 13,800 GB300, 한국 26만 GPU. Jensen Huang이 "소버린 AI"라는 개념을 처음 세계 무대에 퍼뜨린 것도, 결국 가장 큰 수혜를 받는 것도 NVIDIA입니다. 소버린 AI 딜이 하나 체결될 때마다 수천~수만 GPU 주문이 따라옵니다.
 
-**5/20 (수)** 엔비디아 Q1 FY2027 AMC | 컨센서스 $78.8B 매출, EPS $1.77. Q2 가이던스 $86B+ 필요.
-**5/20 (수)** FOMC 의사록 공개 | 4월 28~29일 회의 내용. 연내 금리 인상 가능성 45% 주목.
-**5/21 (목)** Walmart Q1 FY2027 AM | 소비 이중화 트렌드 내 월마트의 포지션.
-**5/21 (목)** Deere Q2 FY2026 AM | 농업 경기 사이클 + AI 정밀농업 투자.
-**5/27 (화)** Marvell Q1 FY2027 AMC | AI ASIC 두 번째 챔피언 검증일.
-**6/3 (수)** Broadcom Q2 FY2026 PMC | AI XPU 매출 $10.7B 달성 여부.
+**🔌 인프라 픽앤샤블 — $ANET, $VRT, $SMCI**
 
----
+소버린 AI 데이터센터에는 AI 서버($SMCI), 전력관리 시스템($VRT, Vertiv), AI 네트워킹($ANET, Arista Networks)이 필수입니다. 누가 땅을 차지하든 삽을 파는 사람이 돈을 법니다.
 
-🎯 애널리스트 컨센서스 & 수급 신호
+**🇰🇷 한국의 숨은 수혜 — 삼성전자, SK하이닉스 HBM**
 
-**NVDA 어닝 옵션 신호**
-Goldman Sachs의 James Schneider는 2026년 추정치를 Street 대비 14% 높게, 2027년은 34% 높게 잡고 있다. Polymarket 비트 확률 90%. 옵션 내재 변동성(IV)은 어닝 전 급등 — 단방향 베팅보다 스트래들이 유리한 국면이다.
+소버린 AI 데이터센터에 들어가는 GPU에는 고대역폭 메모리(HBM)가 필수입니다. 글로벌 HBM 점유율의 90%+를 삼성·SK하이닉스가 쥐고 있습니다. 소버린 AI 붐이 ASIC 수요 증가(5/11 딥다이브 참고)와 동시에 진행되면서 HBM 수요가 이중으로 확장되고 있습니다.
 
-**MRVL 목표가 웨이브**
-지난 3일: BofA $125→$200, RBC $170→$200, B.Riley $156→$205, TD Cowen $90→$190. 22개 Buy, 4개 Hold, 0개 Sell. 단, +89% YTD 반영 상태라 실적 미스 시 되돌림 주의.
+**Bear Case**: 각국 정부의 투자가 선언에 그치거나 예산 삭감될 경우, 또는 Huawei Ascend가 비NVIDIA 소버린 AI 진영을 만들어낼 경우. 소버린 AI의 가장 큰 리스크는 정치 리스크입니다. 오늘의 AI 동맹이 내일의 수출규제 대상이 될 수 있습니다.
 
-**AVGO 목표가 분포**
-Wells Fargo $545, TD Cowen $500, 컨센서스 평균 $452. 현재가 $425 — 어닝 전 6주 눌림 구간이 역사적 진입 패턴.
+**Bull Case**: McKinsey 예측대로 AI 지출의 30~40%가 주권 요구사항에 영향받는다면, 이건 매년 수천억 달러 규모의 구조적 수요입니다. 클라우드 빅3가 독점하던 AI 컴퓨트 시장에 국가 발주라는 새로운 수요 레이어가 영구적으로 추가된 것입니다.
 
 ---
 
-🏦 스마트머니 동향
+## 머뉴's Advice 🧭
 
-**ARK Invest — AMD 팔고 AI 헬스케어+크립토 산다**
+① **$NVDA는 소버린 AI 딜이 발표될 때마다 매수 기회를 만든다.** 중동 정상회담, G20, APEC 등 국가 간 AI 협약이 체결되는 타이밍에 신규 발주가 몰립니다. 단기 노이즈에 흔들리기보다 소버린 AI 발주 뉴스를 중장기 모멘텀으로 읽을 것.
 
-Cathie Wood가 AMD를 3거래일 연속 매도. 이번 주에만 37,836주(~$17.4M)를 털어냈다. AMD는 올해 +98% YTD 급등 상태 — ARK 입장에서 이익 실현이다. 대신 Tempus AI(AI 헬스케어, 162,765주, ~$7.9M)와 Circle(크립토 인프라, 41,904주, ~$5.5M) 신규 확대. 지난주에는 Figma(477K주)와 CoreWeave(199K주, ~$16M)도 신규 진입했다. ARK의 "스몰캡 AI"로의 이동이 뚜렷하다. [Benzinga](https://www.benzinga.com/news/26/05/52474906/ark-invest-sells-amd-buys-tempus-ai-circle)
+② **한국 HBM 투자자라면 소버린 AI 수요를 ASIC 사이클에 추가해서 계산하라.** 5/11 ASIC 딥다이브에서 다뤘듯이 하이퍼스케일러들의 자체 칩 개발 + 이번 소버린 AI 붐이 동시에 진행되면 HBM은 수요 2중 팽창 국면에 있습니다.
 
-**헤지펀드/슈퍼인베스터 — NVDA 어닝 앞 포지션**
+③ **"선언 뉴스"와 "GPU 배송 뉴스"를 구분하라.** IDC 데이터처럼 "동의 76%, 실제 투자 3%"인 상황이 당분간 지속됩니다. 헤드라인(MOU 체결, 수백억 투자 약속)과 실제 NVIDIA GPU 납품·데이터센터 가동 소식은 6~12개월 차이가 납니다. 포지션은 "선언 이후 실제 착공 확인 시점"에 맞추는 것이 유효합니다. 오늘 사우디·UAE 뉴스를 보고 흥분하되, 지갑은 냉정하게.
 
-BofA 13F(2026 Q1) 기준 NVDA·AVGO·AMD 최선호 유지. NVDA D-2 앞에서 대형 헤지펀드는 옵션 헤지 강화 + 롱 포지션 유지 구조 — "가이던스 미스 보험"을 사면서 기본 포지션은 지키는 전략이다.
+---
 
-🎙️ 오늘의 팟캐스트 — 월가를 뒤집은 복수극
+## 출처
 
-1. **Acquired** — "Vanguard" (2026-05-18 오늘 발행)
-
-   월가에서 $500B을 훔쳐 투자자에게 돌려준 남자의 이야기다. Vanguard는 미국 S&P 500 대다수 기업의 최대 주주이며 5,000만 명의 자산을 운용한다. 그런데 이 회사에는 주주가 없고, 이익도 없다. 운용 수익은 고객 수수료 인하로 고스란히 돌아간다 — 1975년 창립 이후 월가 운용사들의 주머니에서 꺼내 투자자에게 돌려준 금액이 $500B(약 700조원)이다.
-
-   더 흥미로운 건 시작점이다. Vanguard는 파트너들에게 해고당한 한 남자의 복수에서 출발했다. Jack Bogle은 1974년 Wellington Management에서 쫓겨난 뒤, "내가 다시 만든다면 절대 이런 회사를 만들지 않겠다"는 분노를 자본화했다. 인덱스 펀드라는 아이디어 — "액티브 매니저가 시장을 이기지 못한다면 그냥 시장을 사면 된다" — 를 처음 실행에 옮겼고, 월가 전체가 조롱했지만 50년이 지나 Vanguard는 세계 최대 자산운용사가 됐다.
-
-   Acquired는 "모든 회사에는 이야기가 있다"는 슬로건으로 기업의 역사와 비즈니스 모델을 해부하는 팟캐스트다. Ferrari, Nike, Benchmark에 이어 이번 Vanguard 에피소드는 — 투자자라면 자신이 무슨 펀드를 사고 있는지 이해하는 필수 교양이자, 금융 민주화의 역사다.
-
-   [Acquired Vanguard 에피소드](https://www.acquired.fm/episodes/vanguard)
-
-<!-- slack_trigger: 2026-05-18 -->
+- [NVIDIA Newsroom — HUMAIN 파트너십](https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia)
+- [Canada.ca — TELUS MOU 공식 발표](https://www.canada.ca/en/innovation-science-economic-development/news/2026/05/government-of-canada-and-telus-advance-work-to-build-sovereign-ai-infrastructure.html)
+- [IDC 아태 소버린 AI 연구 (2026-05-13)](https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/)
+- [WEF "Rethinking AI Sovereignty" 2026](https://www.weforum.org/publications/rethinking-ai-sovereignty/)
+- [WEF "AI Infrastructure in the Age of Sovereignty" 2026-05](https://reports.weforum.org/docs/WEF_AI_Infrastructure_in_the_Age_of_Sovereignty_Requirements_Strategies_and_a_Trusted_Framework_for_Digital_Embassies_2026.pdf)
+- [NVIDIA Blog — Jensen Huang World Governments Summit](https://blogs.nvidia.com/blog/world-governments-summit/)
+- [CFR — AI 칩 수출통제 비판](https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable)
+- [G42/Digital Dubai — Stargate UAE 200MW 1단계](https://www.digitaldubai.ai/dubai-updates/stargate-uae-g42-ai-infrastructure-cluster-200mw-first-phase-2026)
+- [CNBC — Mistral AI $830M 데이터센터](https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html)
+- [NVIDIA Newsroom — 한국 AI 인프라](https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure)
+- [IDC 블로그 — 일본 AI 인프라 $55억 (2026)](https://www.idc.com/resource-center/blog/7x-growth-in-just-three-years-japans-ai-infrastructure-will-surge-past-5-5-billion-in-2026-idc-reveals/)
+- [Tom's Hardware — 화웨이 Ascend 950PR](https://www.tomshardware.com/tech-industry/semiconductors/huaweis-ascend-and-kunpeng-progress-shows-how-china-is-rebuilding-an-ai-compute-stack-under-sanctions)
+- [McKinsey — Sovereign AI Ecosystems](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/sovereign-ai-building-ecosystems-for-strategic-resilience-and-impact)
+- [Fast Company — Trump NVIDIA 외교 비판](https://www.fastcompany.com/91446055/saudi-arabia-nvidia-trump-mbs-chips-uae-china)
+- [ThinkAutomated — HUMAIN 60만 GPU 목표](https://thinkautomated.io/news/u-s-oks-blackwell-exports-to-uae-and-saudi-as-humain-targets-600k-gpus)
+- [AI Business Review — 한국 $57억 투자](https://www.aibusinessreview.org/2026/05/04/south-korea-5-7bn-ai-investment-sovereignty/)
