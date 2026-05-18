@@ -205,3 +205,27 @@
 - 오늘의 픽: $DE (카탈리스트: D+4 2026-05-21 Q2 어닝, $575 ATH-15%, 애널 목표$653), $ETN (카탈리스트: 이사 내부자 매수 961주 5/8+5/11, 데이터센터 발주+200%YoY, 전력망=국방자산) [와치리스트 외]
 - 뉴스 토픽: [산업재/인프라] 전력망 Defense Production Act 국방 핵심자산 지정 / PWR 수주잔고 $48.5B 역대최고 / ETN 데이터센터+200% / [이번주 이벤트] Google I/O 5/19-20 (Gemini4·Android17·Googlebook) / NVDA 어닝 5/20 AMC($78.75B컨센) / FOMC 의사록 5/20 / WMT+DE 어닝 5/21 / [매크로] WTI $101 (금요일$105에서 하락·안도) / S&P500선물 7,432(일요일 안정) / 30Y국채 5.1%+ 유지 / BTC $78,247 / [기업] NVDA D-3 어닝($225, BofA목표$320) / GOOGL D-2 I/O / TSLA 베를린 $250M증설+FSD 사고2건 / COIN -6% CLARITY Act 차익실현 / NFLX $25B 자사주매입+일부 Buy→Hold / OKLO $64(-7.83%)Q1 어닝미스
 - 팟캐스트: (신규 에피소드 없음 — 주말 휴방, 전일 에피소드 재청취 추천 리스트 제공)
+
+## 2026-05-18 14:10 [AM] (테마: AI 인프라/반도체)
+- 헤드라인: D-2 카운트다운 — 엔비디아·구글이 AI의 다음 방향을 결정한다
+- 오늘의 픽: $MRVL (카탈리스트: 2026-05-27 Q1 FY27 실적 D+9, BofA/RBC $200 PT), $AVGO (카탈리스트: 2026-06-03 Q2 FY26 실적 D+16, Wells Fargo $545 PT) [와치리스트 외 발굴]
+- 뉴스 토픽: [AI/반도체] BofA 2026 반도체 $1.3조 상향 / AVGO AI 매출 $8.4B→$10.7B 가이던스 / MRVL 애널리스트 PT 웨이브 / [이벤트] NVDA D-2 어닝($78.8B 컨센) / Google I/O D+1 (Gemini 4.0·Android XR) / [기업] TSLA -4.75% 로보택시 이슈(50대 vs 웨이모 250대) / GOOGL I/O 내일 / NFLX NFL 5경기 계약 / COIN CLARITY Act 차익실현 / [매크로] 30Y 국채 5.1%+ / WTI $103 이란 긴장 / 원달러 1,501원
+- 팟캐스트: Acquired "Vanguard" (2026-05-18, 오늘 발행)
+
+## 2026-05-18 14:00 [DEEP] (테마 클러스터: AI 인프라/반도체, 유형: 📡 테크 트렌드)
+- 제목: 국가가 AI를 사기 시작했다 — 사우디의 "20년을 1년에" 선언, $1000억이 그리는 소버린 AI 지도
+- 테마 유형: 테크트렌드 (여러 국가/기업이 같은 방향 → 소버린 AI 인프라 흐름 조망)
+- 핵심 주제: 2026년 5월 HUMAIN(사우디)+G42(UAE)+TELUS(캐나다)+Mistral(프랑스)+한국·일본이 동시다발적으로 소버린 AI 인프라 선언. IDC APAC 보고서(5/13)에서 정부 AI 투자 우선순위가 7위→2위로 급등. 중동(석유→AI), 서방 민주주의 동맹(캐나다·프랑스), 동아시아(한국·일본) 3진영 비교. 중국 Huawei Ascend의 독자 스택 구축 대비. "GPU = AI 역량"이 아니라는 비판 시각과 칩 우회 수출 리스크도 균형 있게 다룸.
+- 다룬 종목/기업: $NVDA (직접 수혜), $ANET, $SMCI, $VRT (픽앤샤블), 삼성전자/SK하이닉스 HBM, HUMAIN, G42, TELUS, Mistral AI, 화웨이 Ascend
+- 핵심 주장/결론: 소버린 AI는 국가가 AI를 외교 무기로 삼는 구조적 흐름. "선언 뉴스"와 "GPU 배송 뉴스"를 구분하는 투자 원칙이 핵심. McKinsey 기준 2030년 $5000~6000억 규모의 주권 AI 시장이 형성될 전망이지만, 실제 집행은 아직 초기(3.1% 본격투자 단계).
+- 1차 자료 출처: NVIDIA 공식 보도자료 × 1, 캐나다 정부(Canada.ca) MOU 발표 × 1, IDC 아태 조사 보고서 × 1, WEF "Rethinking AI Sovereignty" 보고서 × 1, WEF "AI Infrastructure in the Age of Sovereignty" × 1, NVIDIA Blog Jensen Huang 발언 × 1, CFR 분석 × 1 (총 7건)
+- 판정: Minor (5개 개선점 반영 — ChatGPT 미검증 수치 제거, HUMAIN 발언 paraphrase 수정, 국제 비교 3진영 구조화, McKinsey 수치 코스피 시총 비교 맥락화, 머뉴's Advice ③ 구체적 체크포인트로 강화)
+
+## 2026-05-17 14:00 [DEEP] (테마 클러스터: 산업재/인프라/방산, 유형: 🔮 미래전망)
+- 제목: 하늘을 사면 얼마일까 — $1.2조 골든돔, 미국을 지킬 수 있을까
+- 테마 유형: 미래전망 — Bull/Base/Bear 시나리오 분석
+- 핵심 주제: CBO가 5월 12일 발표한 골든돔 20년 비용 추산 $1.2T vs. 정부 추산 $185B(6.5배 격차). 우주기반 요격체(SBI) 70%가 비용 구조 핵심. 40년 SDI→GMD→골든돔 역사, 아이언돔·NATO·중국A2AD·K방산 국제 비교, Bull/Base/Bear 3개 시나리오로 투자 시사점 도출.
+- 다룬 종목/기업: $RTX (Raytheon), $LMT (Lockheed Martin), $NOC (Northrop Grumman), $RKLB (Rocket Lab), SpaceX, Anduril, 한국방산
+- 핵심 주장/결론: SBI 기술 실현 가능성이 검증되지 않아 Base(지상 중심 재편)가 가장 현실적. RTX·LMT는 Base에서도 확실한 수혜. NOC는 과매도(RSI 32.65) + 복수수주 이중 플레이. 2028 SBI 시연이 핵심 분기점.
+- 1차 자료 출처: CBO 보고서(Federal News Network/Defense One 보도) × 1, 백악관 EO14186 × 1, RTX 2025 실적 보도자료 × 1, LMT GovCon Wire × 1, Space Force OTA 계약 × 1, Arms Control Center GMD FAQ × 1, Gen. Guetlein 의회 발언(Breaking Defense) × 1 (총 7건)
+- 판정: Minor (4개 개선점 반영 — 스타링크 6,000기 환각 제거, RTX 백로그 맥락 추가, Base 시나리오 Guetlein 연결 강화, 시사점 첫 문장 교체)
