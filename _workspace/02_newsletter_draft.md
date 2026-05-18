@@ -1,132 +1,123 @@
-# 국가가 AI를 사기 시작했다 — 사우디의 "20년을 1년에" 선언, $1000억이 그리는 소버린 AI 지도
+# 하늘을 사면 얼마일까 — $1.2조 골든돔, 미국을 지킬 수 있을까
 
-**2026-05-18 | 📡 테크 트렌드 | AI 인프라/반도체**
-
----
-
-## 18,000개의 Blackwell이 리야드에 도착하는 날
-
-지난주, 사우디아라비아 리야드 외곽 어딘가에 역사상 최대 규모의 AI 하드웨어 물량이 내려앉았습니다. NVIDIA의 최신 Grace Blackwell GB300 슈퍼컴퓨터 18,000대. 빌딩 한 층을 통째로 채울 분량의 AI 가속기가 일시에 설치되기 시작한 거예요. 발주자는 사우디아라비아 국부펀드(PIF) 산하 AI 스타트업 HUMAIN. 그리고 HUMAIN 측이 밝힌 바에 따르면, 이번 투자는 단순한 인프라 업그레이드가 아닙니다. "20년치 AI 인프라를 1년 만에 짓겠다"는 것이었습니다.
-
-단순한 과시? 아닐 수 있습니다. HUMAIN은 이번 1차 배포(18,000 GPU, 200MW)를 시작으로 3년 내 **60만 개**의 NVIDIA GPU, 5년 내 **500MW** 용량을 목표로 잡았습니다. xAI(일론 머스크)와 공동으로 **500MW** 데이터센터를 짓겠다는 계획도 발표했죠. 숫자만 놓고 보면, 마이크로소프트·구글이 전 세계에 쪼개 짓는 데이터센터를 한 나라에 집중 배치하겠다는 수준입니다.
-
-그런데 이건 사우디만의 이야기가 아닙니다. 같은 주, 캐나다 정부는 통신사 TELUS와 MOU를 체결하며 브리티시 컬럼비아에 소버린 AI 데이터센터 클러스터를 짓기로 했고, 아부다비의 G42는 Stargate UAE 1단계(200MW) 착공을 공식화했습니다. IDC는 5월 13일, 아시아태평양 정부들의 AI 투자 우선순위에서 소버린 AI가 **1년 만에 7위에서 2위**로 뛰어올랐다는 연구 결과를 냈습니다 ([IDC](https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/)). 세계 곳곳에서 국가들이 AI 인프라를 "주권 자산"으로 선언하고 있어요. 2026년, 이 흐름에 올라타는 쪽과 구경만 하는 쪽의 격차가 벌어지기 시작했습니다.
+**2026-05-17 | 🔮 미래전망 | 산업재/방산 클러스터**
 
 ---
 
-## 이 레이스가 시작된 건 ChatGPT가 터진 그날부터였다
+## 7배의 괴리 — CBO가 폭로한 숫자
 
-소버린 AI라는 개념이 주류 담론에 등장한 건 2024년 초의 일입니다. NVIDIA CEO Jensen Huang이 두바이 세계정부정상회의(World Governments Summit) 연단에 서서 이렇게 말했을 때죠.
+2026년 5월 12일, 미국 의회예산처(CBO)는 조용히 보고서 한 편을 발표했다. 그리고 방산 업계는 발칵 뒤집혔다.
 
-*"모든 나라가 자국의 지능 생산을 소유해야 합니다(Every country needs to own the production of their own intelligence)."* ([NVIDIA Blog](https://blogs.nvidia.com/blog/world-governments-summit/))
+트럼프 대통령이 "하늘의 방패"라고 자랑해온 골든돔(Golden Dome) 미사일 방어 체계. 트럼프가 내세운 가격표는 $175B, 이후 총괄 책임자 Gen. Michael Guetlein이 "추가 우주 역량 확보"를 이유로 $185B으로 살짝 올렸다. 그런데 CBO가 계산한 숫자는 **20년간 $1.2조(trillion)**였다. 정부 추산의 **약 6.5배**다. — [Federal News Network](https://federalnewsnetwork.com/defense-news/2026/05/cbo-estimates-golden-dome-could-cost-1-2-trillion-over-20-years/)
 
-하지만 실제 출발점을 역추적하면 2022년 11월로 거슬러 올라갑니다. ChatGPT 공개 후 불과 며칠 만에 100만 사용자를 돌파했고, 각국 정부는 "우리 데이터가 미국 서버에서 처리되고 있다"는 사실을 처음으로 위협으로 인식하기 시작했습니다.
+이 격차가 말하는 건 단순한 회계 오류가 아니다. 골든돔의 핵심 아이디어 — 우주에 7,800개의 무장 위성을 띄워 적의 ICBM을 우주에서 격추한다는 구상 — 그 자체가 과연 현실 가능한 꿈인지, 아니면 $1.2조짜리 환상인지를 묻고 있다. — [Fortune](https://fortune.com/2026/05/12/how-much-does-trump-golden-dome-cost-1-2-trillion-cbo/)
 
-데이터센터 투자 흐름이 그걸 증명합니다. 전 세계 데이터센터 월간 건설 지출은 2020~2022년 평균 월 $90~100억 수준이었습니다. ChatGPT 쇼크 직후인 2023년부터 급등해 2024년 1월 $249억, 2025년 1월 $358억, 2025년 12월 $451억까지 치솟았어요. 2년 만에 다섯 배. 전체 CapEx는 2024년 $4,300억에서 2029년 $1.1조로 두 배 이상 증가할 전망입니다 ([McKinsey](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/sovereign-ai-building-ecosystems-for-strategic-resilience-and-impact)).
+CBO 추산을 뜯어보면 구조가 보인다. 전체 획득 비용 $1T 이상 중 **약 70%가 바로 이 우주 기반 요격체(SBI, Space-Based Interceptors)** 단 하나의 레이어다. 나머지 30%로 지상 레이더망, 운동 요격체, 레이저 타격 시스템까지 구축해야 한다. 거기에 연간 $80억의 운영비가 20년간 쌓인다. — [Defense One](https://www.defenseone.com/defense-systems/2026/05/golden-dome-cost-trillion-cbo/413485/)
 
-여기에 지정학 변수가 더해졌습니다. 2023년 미국 상무부(BIS)가 NVIDIA 첨단 AI 칩의 대중 수출 제한을 시작했고, 바이든 행정부는 2025년 규제를 더 강화했습니다. 이 흐름 속에서 중동·캐나다·유럽은 "미국 테크에 계속 의존해도 괜찮은가"라는 질문을 던지게 됐습니다. 그리고 2025년 말 트럼프 행정부가 등장해 UAE와 사우디에 총 70,000개의 첨단 AI 칩 수출을 허가하면서 게임이 완전히 바뀌었습니다. "AI 칩은 외교 무기"라는 공식이 완성된 거예요.
+아이러니하게도, SBI의 실현 가능성을 가장 의심하는 사람은 다름 아닌 골든돔 총책임자 Gen. Guetlein 본인이다. 그는 의회에서 이렇게 말했다. *"오늘 우리가 모르는 것은 '이걸 대규모로, 그리고 감당할 수 있는 비용으로 할 수 있느냐'다. 그게 부스트 단계 요격의 가장 큰 도전이 될 것이다."* SBI가 최종 설계에서 빠질 수 있다는 가능성을 열어둔 발언이었다. — [Breaking Defense](https://breakingdefense.com/2026/04/golden-dome-czar-signals-space-based-interceptors-arent-guaranteed-as-dod-weighs-cost/)
 
-그 결과가 지금 우리가 목격하는 $1,000억짜리 소버린 AI 레이스입니다. WEF는 2030년까지 AI 인프라에 연간 **$4,000억**이 투자될 것으로 예측하고 있고, McKinsey는 AI 전체 지출의 30~40%가 주권 요구사항에 영향받는 **$5,000억~$6,000억** 시장이 형성될 것으로 봤습니다. 코스피 전체 시가총액(약 $4,000억)을 훌쩍 넘는 규모예요 ([WEF](https://www.weforum.org/publications/rethinking-ai-sovereignty/)).
+하원에서는 Seth Moulton 의원(민주당)이 SBI 자금 차단 수정안을 제출하며 쏘아붙였다. *"단 한 명의 증인도 기본적인 질문에 답하지 못했는데, 작동하지 않을 수도 있는 프로그램에 수천억 달러를 쓰기 전에 상세한 이행 계획부터 내놓으라."* — [Air and Space Forces](https://www.airandspaceforces.com/congress-more-insight-golden-dome-budget/)
 
----
+그럼에도 돈은 이미 움직이고 있다. 의회는 FY2025 조정법(One Big Beautiful Bill Act)으로 **$24.4B**을, FY2026 국방 예산에 추가 **$13.4B**을 이미 배정했다. 2026년 4월에는 Space Force가 SpaceX·Anduril·$LMT·$RTX·$NOC 등 12개 기업에 SBI 프로토타입 개발 계약 **$3.2B**을 발주했다. 2028년까지 시연이 목표다. — [DefenseScoop](https://defensescoop.com/2026/04/24/golden-dome-space-based-interceptor-missile-defense-contractors/)
 
-## 세 개의 진영, 각자의 이유로 같은 방향을 향한다
-
-지금 소버린 AI 경쟁은 크게 세 진영으로 나뉩니다. 돈이 넘치는 중동, 민주주의 동맹의 서방, 그리고 빠르게 쫓는 아시아. 나라마다 이유는 달라도 목표는 하나입니다. "우리의 AI는 우리 땅에서 돌아야 한다."
-
-**🌍 중동 진영: 오일머니에서 AI머니로**
-
-사우디아라비아 HUMAIN의 1차 배포(18,000 GB300, 200MW)는 2026년 2분기 리야드·담맘에서 동시 가동됩니다. 장기 목표는 5년 내 500MW·60만 GPU. xAI의 500MW 공동 프로젝트, AMD·Cisco·Qualcomm까지 가세해 중동 최대 AI 생태계를 단번에 선언했습니다.
-
-UAE는 사우디보다 한 발 앞서 있습니다. G42의 Stargate UAE는 아부다비 사막 19km²에 **1GW** AI 캠퍼스를 짓는 프로젝트입니다. OpenAI·Oracle과 공동 운영, 1단계 200MW는 2026년 말 가동. 총 비용 **$300억 이상**, 최종 목표 5GW. 이미 35,000개의 GB300 칩 수출 허가도 확보했습니다. 사우디가 선언하는 동안 UAE는 삽을 먼저 떴어요 ([G42 공식](https://www.digitaldubai.ai/dubai-updates/stargate-uae-g42-ai-infrastructure-cluster-200mw-first-phase-2026)).
-
-**🌐 서방 동맹: 유럽과 캐나다의 조용한 진지함**
-
-캐나다 혁신부는 2026년 5월 TELUS와 MOU를 체결하며 "Enabling Large-Scale Sovereign AI Data Centres" 이니셔티브를 공식화했습니다. BC Hydro 청정에너지 85MW를 확보해 캠룹스·밴쿠버 3개 데이터센터를 단계적으로 짓습니다. 2032년까지 150MW, 6만 GPU+. 전력의 98%가 재생에너지라는 점에서 유럽 기업들의 거점으로 부상 중입니다 ([Canada.ca](https://www.canada.ca/en/innovation-science-economic-development/news/2026/05/government-of-canada-and-telus-advance-work-to-build-sovereign-ai-infrastructure.html)).
-
-프랑스는 더 직접적입니다. Fluidstack이 €100억을 투자해 50만 개 AI 칩, 1GW 규모 핵에너지 기반 데이터센터를 2026년 1단계 가동. Mistral AI는 $8.3억 부채금융으로 GB300 13,800개, 44MW 데이터센터를 2026년 6월 파리 남쪽에 오픈합니다. 더 큰 그림은 MGX(아부다비)+Bpifrance+NVIDIA+Mistral이 공동 선언한 파리 근교 **1.4GW** AI 캠퍼스(2028년 운영 목표)입니다 ([CNBC](https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html)).
-
-**🌏 동아시아: 법과 예산, 그리고 7배 성장**
-
-한국은 2026년 1월 AI기본법을 시행하며 아시아에서 가장 구체적인 AI 거버넌스 입법 기반을 마련했습니다. 국가성장펀드에서 **$57억**을 AI 역량에 투입하고, 네이버·SKT·LG·엔씨·업스테이지 5개 컨소시엄에 $3.81억을 지원합니다. NVIDIA와의 협력으로 삼성·SK·현대·NAVER 전반에 **26만 개** GPU가 배포 중입니다 ([NVIDIA Newsroom](https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure)).
-
-일본은 숫자로 말합니다. AI 인프라 지출이 2022~2025년 **7배** 확대됐고, 2026년 $55억+에서 YoY 18% 이상 성장 중입니다. 경제안보촉진법 기반의 정부 주도 클라우드 이니셔티브가 대규모 GPU 서버 배포를 가속화했고, 2028년에는 AI 인프라 지출이 비AI 인프라를 추월할 전망입니다 ([IDC](https://www.idc.com/resource-center/blog/7x-growth-in-just-three-years-japans-ai-infrastructure-will-surge-past-5-5-billion-in-2026-idc-reveals/)).
-
-**🇨🇳 그리고 중국: 홀로 가는 길**
-
-나머지 국가들이 NVIDIA GPU를 채우는 동안, 중국은 다른 판을 짜고 있습니다. 화웨이 Ascend 950PR은 2026년 Q1 출시된 자체 AI 추론 칩으로, FP4 성능이 NVIDIA H20의 **2.8배**를 달성했습니다. ByteDance는 2026~27년 사이 Ascend 칩에 **$56억**을 주문했고, 화웨이 AI칩 매출은 2026년 +60% 성장해 $120억에 달할 전망입니다. 중국 AI 모델의 글로벌 토큰 사용 비중도 2025년 ~1%에서 2026년 ~30%로 폭등 중입니다 ([Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/huaweis-ascend-and-kunpeng-progress-shows-how-china-is-rebuilding-an-ai-compute-stack-under-sanctions)). 다른 모든 나라가 NVIDIA 의존 "소버린 AI"를 짓는 동안, 중국만이 완전 독립형 AI 스택을 쌓고 있어요.
+수천억 달러짜리 방어막의 시대가 시작됐다. 문제는 그것이 하늘을 정말로 막을 수 있느냐다.
 
 ---
 
-## "GPU 쌓는다고 AI 강국이 되나" — 소버린 AI의 세 가지 균열
+## 40년이 반복한 꿈 — 스타워즈에서 골든돔까지
 
-이 모든 투자가 장밋빛 미래만을 약속하는 건 아닙니다. 비판 진영은 세 가지 핵심 약점을 정확히 찌릅니다.
+골든돔은 처음이 아니다. 미국은 40년 전에도 같은 꿈을 꿨다.
 
-**균열 1: 하드웨어 ≠ AI 역량**
+1983년 3월 23일, 로널드 레이건 대통령은 TV 카메라 앞에서 "소련의 핵 미사일을 발사 즉시 격추할 수 있는 방어막"을 선언했다. 전략방위구상(SDI), 언론이 '스타워즈'라고 부른 그 계획이다. 의회는 1983년부터 1993년까지 10년간 **$440억**을 쏟아부었다. 연간 최고 **$40억**이 SDI 예산으로 집행됐다. 결과는? 냉전 종식 후 SDI는 조용히 축소됐다. — [Carnegie Endowment](https://carnegieendowment.org/china/posts/2000/01/brief-history-of-ballistic-missile-defense-and-current-programs-in-the-united-states)
 
-Fast Company가 "Trump의 NVIDIA 외교는 실패한다"고 쓴 이유가 있습니다. 사우디와 UAE는 데이터센터를 지을 돈은 있지만, AI를 실제로 운영하는 데 필요한 재료인 AI 인재, 학습 데이터 파이프라인, 로컬 소프트웨어 생태계가 턱없이 부족합니다 ([Fast Company](https://www.fastcompany.com/91446055/saudi-arabia-nvidia-trump-mbs-chips-uae-china)). IDC의 조사에서도 이 균열이 드러납니다. "소버린 AI 투자에 동의한다"는 APAC 정부가 **76.9%**인데, 실제로 "본격 투자" 단계에 있는 곳은 고작 **3.1%**입니다. 10명 중 9명이 "핵심 AI 스킬 부족"이 최대 장벽이라고 답했죠 ([IDC](https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/)).
+2000년대 초, 부시 행정부는 북한·이란 같은 '불량 국가' 대응을 명목으로 지상 기반 중단단계 방어(GMD)를 알래스카·캘리포니아에 배치했다. FY2001 예산은 $47억. 그리고 지금 이 시스템의 요격 성공률은 21회 시험 중 12회 성공 — **57%**다. 미 군비통제협회는 "최근 6번 중 3번이 실패한, 고도로 각색된 시험에서 55% 성공률"이라고 비판했다. 실전에서 ICBM이 날아오면 그 성공률이 그대로 적용된다고 믿기 어렵다. — [Arms Control Center](https://armscontrolcenter.org/issues/missile-defense/gmd-frequently-asked-questions/)
 
-**균열 2: 칩은 국경을 넘는다**
+2026년 FY2027 국방자율전투그룹(DAWG) 단년도 예산 제안은 **$546억**이다. SDI 최고액($40억)의 약 5배(인플레 조정 기준). 규모의 포부는 달라졌어도, 기술의 실현 가능성이라는 질문은 40년이 지난 지금도 답을 기다린다. — [GlobalSecurity](https://www.globalsecurity.org/military/agency/dod/dawg-budget.htm)
 
-2025년 12월, 미국 DOJ는 Operation Gatekeeper를 발표했습니다. AI 칩 **$1.6억 상당**이 중국·홍콩으로 불법 우회 수출됐거나 시도된 사건입니다. 소버린 AI 명목으로 수출된 70,000개의 칩이 실제로 해당 국가에만 머무를 거라는 보장은 없습니다. CFR(미국외교협회)은 현행 수출통제 체계를 두고 *"국가 안보 위협을 인정하면서 동시에 판매를 허용하는, 전략적으로 비일관적이고 시행 불가능한 프레임워크"*라고 직격했습니다 ([CFR](https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable)).
-
-**균열 3: "진짜 주권"의 역설**
-
-소버린 AI를 선언한 나라들 대부분이 NVIDIA GPU, 미국 클라우드 API, 미국 AI 기업이 개발한 모델 위에서 돌아갑니다. AI 모델은 지속적인 업데이트가 필요하고, 반도체 공급망은 TSMC·ASML 없이는 돌아가지 않습니다. 진짜 주권은 칩·모델·소프트웨어 전 레이어의 독립성을 요구하는데, 중국조차 화웨이 Ascend 생태계 완성에 수년이 걸리는 중입니다. 오히려 아이러니한 현실이 있습니다. 미국의 수출통제가 중국을 막기보다는, 오히려 자체 공급망 구축을 더 빠르게 앞당기고 있다는 거예요.
-
-그럼에도 소버린 AI 투자가 멈추지 않는 이유는 분명합니다. 잘못된 투자라도, 하지 않으면 더 뒤처집니다. 각국 정부는 완벽한 주권보다 "합리적인 자율성"을 목표로 삼고 있고, 그 방향 자체는 되돌릴 수 없는 흐름입니다.
+골든돔이 SDI와 결정적으로 다른 점이 하나 있다. SDI는 주로 지상 기반 요격을 검토했다. 골든돔은 **우주에서 쏘는 위성 무기**를 핵심으로 한다. CBO 추산에 따르면 단 10발의 적 ICBM을 동시에 격추하려면 7,800개의 무장 위성이 필요하다. 이는 현재 세계 최대 상업용 위성 군집을 훌쩍 넘어서는 규모다. 세계적으로 전례가 없는 우주 군비 구축이며, 바로 이 규모가 비용 추산을 $185B에서 $1.2T으로 7배나 벌려놓은 핵심 원인이다.
 
 ---
 
-## 투자자 관점: 이 $1000억 레이스의 픽앤샤블은 누구인가
+## 원형과 반격 — 아이언돔, NATO, 중국, 그리고 한국
 
-소버린 AI가 만드는 수혜 구조는 명확합니다. 누가 이기든, 국가가 AI를 살 때마다 특정 플레이어들에겐 돈이 들어옵니다.
+골든돔은 이름부터 이스라엘의 **아이언돔(Iron Dome)**에서 영감을 얻었다. 트럼프는 취임 직후 "미국판 아이언돔"을 만들겠다고 선언했다. 하지만 아이언돔과 골든돔 사이에는 넘을 수 없는 물리적 간극이 있다.
 
-**🎯 직접 수혜 1순위 — $NVDA**
+아이언돔은 하마스의 아음속 로켓을 막는 시스템이다. 요격체 단가 $40,000~$200,000, 적 로켓 가격 $800. 비용 비율이 최대 250:1로 불리한데도, 이스라엘은 이 시스템에 약 $10억을 투자해 85~97%의 성공률을 달성했다. 도시 방어에는 충분한 선택이다. — [Britannica](https://www.britannica.com/topic/Iron-Dome)
 
-모든 국가 딜에 NVIDIA가 등장합니다. 사우디 18,000 GB300, UAE 35,000 Blackwell, 프랑스 Mistral 13,800 GB300, 한국 26만 GPU. Jensen Huang이 "소버린 AI"라는 개념을 처음 세계 무대에 퍼뜨린 것도, 결국 가장 큰 수혜를 받는 것도 NVIDIA입니다. 소버린 AI 딜이 하나 체결될 때마다 수천~수만 GPU 주문이 따라옵니다.
+그런데 골든돔이 막아야 할 것은 아음속 로켓이 아니다. 마하 20을 넘는 ICBM, 풀업 기동이 가능한 극초음속 활공체, 레이더를 피하는 저고도 순항 미사일이다. 아이언돔이 야구공을 막는 포수라면, 골든돔은 레이저 유도 총알을 맨손으로 잡아야 한다. 원형은 같은 이름을 가졌지만, 임무는 근본적으로 다른 세계다.
 
-**🔌 인프라 픽앤샤블 — $ANET, $VRT, $SMCI**
+**NATO 동맹**의 반응은 이중적이다. 2025 헤이그 정상회의에서 나토는 2035년까지 GDP 5%(핵심 방위 3.5% + 안보 인프라 1.5%)를 투자하기로 합의했다. 폴란드는 이미 GDP **4.8%**를 방산에 쏟아붓고 있으며, 독일은 헌법의 부채 제한 조항까지 개정했다. 골든돔이 미국의 방어막을 확장하는 프로그램이라는 사실이 동맹국에게는 안보 보험료를 낮출 핑계가 될 수도 있고, 반대로 미국 일극체제 의존에 대한 경각심을 자극하는 계기가 될 수도 있다. — [NATO](https://www.nato.int/en/what-we-do/introduction-to-nato/defence-expenditures-and-natos-5-commitment)
 
-소버린 AI 데이터센터에는 AI 서버($SMCI), 전력관리 시스템($VRT, Vertiv), AI 네트워킹($ANET, Arista Networks)이 필수입니다. 누가 땅을 차지하든 삽을 파는 사람이 돈을 법니다.
+가장 냉정하게 반응하는 나라는 **중국**이다. 중국은 이미 골든돔에 대한 '자연스러운 대답'을 준비해두고 있다. 반접근/지역거부(A2/AD) 전략 — DF-26 대함 탄도미사일, YJ-21 극초음속 대함무기, 극초음속 활공체로 미국의 접근을 막는 전략이다. 골든돔이 ICBM 10발을 막으려면 위성 7,800기가 필요하다면, 중국이 ICBM을 100발로 늘리면? 논리적으로 위성 78,000기가 필요해진다. CBO 스스로 인정했다. *"러시아나 중국 수준의 대규모 공격을 완전히 막는 건 불가능하다."* — [SCMP](https://www.scmp.com/news/china/diplomacy/article/3351626/trumps-golden-dome-will-combat-chinas-hypersonic-weapons-cruise-missiles)
 
-**🇰🇷 한국의 숨은 수혜 — 삼성전자, SK하이닉스 HBM**
-
-소버린 AI 데이터센터에 들어가는 GPU에는 고대역폭 메모리(HBM)가 필수입니다. 글로벌 HBM 점유율의 90%+를 삼성·SK하이닉스가 쥐고 있습니다. 소버린 AI 붐이 ASIC 수요 증가(5/11 딥다이브 참고)와 동시에 진행되면서 HBM 수요가 이중으로 확장되고 있습니다.
-
-**Bear Case**: 각국 정부의 투자가 선언에 그치거나 예산 삭감될 경우, 또는 Huawei Ascend가 비NVIDIA 소버린 AI 진영을 만들어낼 경우. 소버린 AI의 가장 큰 리스크는 정치 리스크입니다. 오늘의 AI 동맹이 내일의 수출규제 대상이 될 수 있습니다.
-
-**Bull Case**: McKinsey 예측대로 AI 지출의 30~40%가 주권 요구사항에 영향받는다면, 이건 매년 수천억 달러 규모의 구조적 수요입니다. 클라우드 빅3가 독점하던 AI 컴퓨트 시장에 국가 발주라는 새로운 수요 레이어가 영구적으로 추가된 것입니다.
+예상치 못한 수혜자가 있다. **한국**이다. 한국 방산 수출은 2025년 **$154억**으로 급성장했고, DB투자증권은 2026년 $377억 달성 가능성을 제시했다. 폴란드에서만 전체 수출의 40% 이상이 나온다. 천무 유도미사일 5.6조원, 루마니아 K9 자주포 $10억. Carnegie Endowment는 2026년 2월 한국이 "단순 무기 수출국에서 신뢰받는 방산 파트너"로 전환하고 있다고 분석했다. 골든돔이 촉발한 전 세계 방산 지출 확대는 한국 방산 슈퍼사이클의 외부 엔진이 되고 있다. — [Seoul Economic Daily](https://en.sedaily.com/politics/2026/03/24/koreas-defense-exports-hit-154b-in-2025-set-to-grow-further) · [Carnegie](https://carnegieendowment.org/research/2026/02/are-long-term-nato-south-korea-defense-ties-possible)
 
 ---
 
-## 머뉴's Advice 🧭
+## 세 갈래 미래 — $1.2조가 실현되는 방식
 
-① **$NVDA는 소버린 AI 딜이 발표될 때마다 매수 기회를 만든다.** 중동 정상회담, G20, APEC 등 국가 간 AI 협약이 체결되는 타이밍에 신규 발주가 몰립니다. 단기 노이즈에 흔들리기보다 소버린 AI 발주 뉴스를 중장기 모멘텀으로 읽을 것.
+골든돔의 미래는 세 개의 분기점에서 갈린다. 어느 길로 가느냐에 따라 수혜 기업과 규모가 완전히 달라진다.
 
-② **한국 HBM 투자자라면 소버린 AI 수요를 ASIC 사이클에 추가해서 계산하라.** 5/11 ASIC 딥다이브에서 다뤘듯이 하이퍼스케일러들의 자체 칩 개발 + 이번 소버린 AI 붐이 동시에 진행되면 HBM은 수요 2중 팽창 국면에 있습니다.
+**🐂 Bull: 의회가 자금을 풀고 기술이 따라잡는다**
 
-③ **"선언 뉴스"와 "GPU 배송 뉴스"를 구분하라.** IDC 데이터처럼 "동의 76%, 실제 투자 3%"인 상황이 당분간 지속됩니다. 헤드라인(MOU 체결, 수백억 투자 약속)과 실제 NVIDIA GPU 납품·데이터센터 가동 소식은 6~12개월 차이가 납니다. 포지션은 "선언 이후 실제 착공 확인 시점"에 맞추는 것이 유효합니다. 오늘 사우디·UAE 뉴스를 보고 흥분하되, 지갑은 냉정하게.
+의회가 20년간 $600B 이상을 배정하고 2028년 SBI 시연이 현실 가능성을 입증한다면, RTX·LMT·NOC는 수십 년 분량의 수주잔고를 확보한다. 이미 RTX 총백로그는 역대 최대 **$271B**(연간 매출 $88.6B의 약 3년치 수주잔고, +25% YoY)이며, LMT는 PAC-3 생산을 3.3배(600발→2,000발/년), THAAD를 4배(96기→400기/년)로 늘리기로 DOW와 합의했다. SpaceX는 위성 발사 역량을 독점적으로 제공하며 계약 금액이 폭발한다. 가능성 조건: 2028년 SBI 시연 성공 + 공화당 재정파 반발 억제.
+
+**🐻 Bear: DOGE 압박 + 기술 실패 + 정치 변화**
+
+공화당 내 재정 매파들이 $1.2T 추산을 근거로 SBI 예산을 전면 차단한다. Gen. Guetlein의 경고처럼 SBI가 최종 설계에서 빠진다. 2028년 중간선거에서 민주당이 의회 주도권을 회복하면 골든돔 자금은 급격히 삭감될 수 있다. GMD의 57% 성공률이 상기시키듯, 기술은 마케팅보다 느리다. 가능성 조건: 2028 중간선거 민주당 승리 + SBI 시연 실패 + 부채 위기 재연.
+
+**⚖️ Base(가장 현실적): 지상 중심으로 규모 축소**
+
+실제로 Gen. Guetlein은 의회에서 이미 SBI 포기 가능성을 시사했고, 상·하원 세출소위원회는 "구체적인 예산 정보가 부족해 프로그램 요소별 자원 배분을 제대로 평가할 수 없다"고 지적했다. SBI는 빠지거나 대폭 축소되고, 골든돔은 GMD 업그레이드 + PAC-3/THAAD 대량 증산 + 레이더망 강화로 재편될 가능성이 가장 높다. 총비용 $400~600B 수준. 지상 기반에 집중되면 RTX와 LMT가 가장 큰 수혜를 받고, 우주 스타트업들의 기대감은 꺼진다. 중국·러시아 대규모 공격 방어는 포기하되, 북한·이란 수준 제한적 위협에 집중한다.
+
+---
+
+## 방산주가 기대를 먹고 산다면, 지금 어디를 늘려야 하나
+
+지금 당장 계약이 없어도 수혜 기업의 주가는 움직인다. 기대가 미래를 당겨오는 자산군이 방산주다.
+
+**$RTX**: PAC-3·THAAD·Tomahawk 제조사. 2025년 총백로그 $271B(역대 최대, 연간 매출의 3년치). 방산 백로그 $107B. SBI 계약 12개사 중 1개. Base 시나리오에서 가장 확실한 수혜. Tomahawk 60기→1,000기+ 생산 확대가 DOW 협약으로 이미 확정. — [RTX IR](https://www.rtx.com/news/news-center/2026/01/27/rtx-reports-2025-results-and-announces-2026-outlook-)
+
+**$LMT**: THAAD·PAC-3 주도 제조사. 2025년 매출 $75B. PAC-3 3.3배·THAAD 4배 확대 협약 완료. 골든돔의 지상 레이어가 핵심이 될수록 수혜는 더 확실해진다. — [GovCon Wire](https://www.govconwire.com/articles/lockheed-2025-sales-dow-pac-3-thaad-agreements)
+
+**$NOC**: 기존 GMD 운영사 + 우주 감시 + SBI 계약사. B-21·F/A-XX·골든돔 복수 수주 가능성. RSI 32.65 극단 과매도(5/16 기준), 5/20 주주총회가 단기 촉매.
+
+**$RKLB (Rocket Lab)**: 소형 발사체 + 위성 제조로 SBI 공급망 진입 가능성. 공식적으로 골든돔을 "차세대 성장 시장"으로 지목(2026-05-15). — [Motley Fool](https://www.fool.com/investing/2026/05/15/rocket-lab-targets-missile-defense-and-golden-dome/)
+
+**진입·이탈 신호**:
+- 매수 트리거: ① 2028 SBI 시연 성공 발표, ② FY2027 국방예산 의회 통과(방산 지출 수치 확인), ③ $NOC RSI 30 하회 후 반등 확인
+- 이탈 트리거: ① SBI 공식 취소 발표, ② 의회 예산 삭감 결의, ③ 2028 중간선거 민주당 압승
+
+---
+
+## 머뉴's Advice
+
+① **RTX + LMT는 Base 시나리오에서도 확실한 수혜다**: SBI가 빠져도 PAC-3·THAAD·Tomahawk 증산은 DOW 협약으로 이미 확정됐다. 순수 골든돔 베팅이 아닌, 전반적 방산 슈퍼사이클 플레이로 접근하라.
+
+② **NOC는 과매도 역추세 + 골든돔 옵션의 이중 플레이**: RSI 32.65 극단 과매도, 5/20 주주총회가 1차 촉매. 역추세 반등도 기대할 수 있고, B-21·F/A-XX·골든돔 복수 수주 시 상당한 업사이드가 있다.
+
+③ **방어막의 경제학을 잊지 마라**: 요격 비용이 발사 비용보다 항상 비쌀 때, 진정한 억지력은 방어막이 아닌 외교와 보복 능력에 있다는 역설을 역사는 반복해왔다. 골든돔이 실현되든 축소되든, 이 40년의 논쟁은 2028년 SBI 시연이 끝나야 새 챕터가 열린다. 그때까지, 방산주는 기대를 먹고 산다.
 
 ---
 
 ## 출처
 
-- [NVIDIA Newsroom — HUMAIN 파트너십](https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia)
-- [Canada.ca — TELUS MOU 공식 발표](https://www.canada.ca/en/innovation-science-economic-development/news/2026/05/government-of-canada-and-telus-advance-work-to-build-sovereign-ai-infrastructure.html)
-- [IDC 아태 소버린 AI 연구 (2026-05-13)](https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/)
-- [WEF "Rethinking AI Sovereignty" 2026](https://www.weforum.org/publications/rethinking-ai-sovereignty/)
-- [WEF "AI Infrastructure in the Age of Sovereignty" 2026-05](https://reports.weforum.org/docs/WEF_AI_Infrastructure_in_the_Age_of_Sovereignty_Requirements_Strategies_and_a_Trusted_Framework_for_Digital_Embassies_2026.pdf)
-- [NVIDIA Blog — Jensen Huang World Governments Summit](https://blogs.nvidia.com/blog/world-governments-summit/)
-- [CFR — AI 칩 수출통제 비판](https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable)
-- [G42/Digital Dubai — Stargate UAE 200MW 1단계](https://www.digitaldubai.ai/dubai-updates/stargate-uae-g42-ai-infrastructure-cluster-200mw-first-phase-2026)
-- [CNBC — Mistral AI $830M 데이터센터](https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html)
-- [NVIDIA Newsroom — 한국 AI 인프라](https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure)
-- [IDC 블로그 — 일본 AI 인프라 $55억 (2026)](https://www.idc.com/resource-center/blog/7x-growth-in-just-three-years-japans-ai-infrastructure-will-surge-past-5-5-billion-in-2026-idc-reveals/)
-- [Tom's Hardware — 화웨이 Ascend 950PR](https://www.tomshardware.com/tech-industry/semiconductors/huaweis-ascend-and-kunpeng-progress-shows-how-china-is-rebuilding-an-ai-compute-stack-under-sanctions)
-- [McKinsey — Sovereign AI Ecosystems](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/sovereign-ai-building-ecosystems-for-strategic-resilience-and-impact)
-- [Fast Company — Trump NVIDIA 외교 비판](https://www.fastcompany.com/91446055/saudi-arabia-nvidia-trump-mbs-chips-uae-china)
-- [ThinkAutomated — HUMAIN 60만 GPU 목표](https://thinkautomated.io/news/u-s-oks-blackwell-exports-to-uae-and-saudi-as-humain-targets-600k-gpus)
-- [AI Business Review — 한국 $57억 투자](https://www.aibusinessreview.org/2026/05/04/south-korea-5-7bn-ai-investment-sovereignty/)
-
-<!-- slack_trigger: 2026-05-18 -->
+- [Federal News Network](https://federalnewsnetwork.com/defense-news/2026/05/cbo-estimates-golden-dome-could-cost-1-2-trillion-over-20-years/) — CBO $1.2T 추산
+- [Defense One](https://www.defenseone.com/defense-systems/2026/05/golden-dome-cost-trillion-cbo/413485/) — CBO 비용 구조 분석
+- [NPR](https://www.npr.org/2026/05/13/g-s1-121780/trumps-golden-dome-cost) — 트럼프 추산 vs. CBO
+- [Fortune](https://fortune.com/2026/05/12/how-much-does-trump-golden-dome-cost-1-2-trillion-cbo/) — SBI 위성 7,800기 추산
+- [DefenseScoop](https://defensescoop.com/2026/04/24/golden-dome-space-based-interceptor-missile-defense-contractors/) — Space Force 12개사 $3.2B 계약
+- [Breaking Defense](https://breakingdefense.com/2026/04/golden-dome-czar-signals-space-based-interceptors-arent-guaranteed-as-dod-weighs-cost/) — Gen. Guetlein 인용
+- [RTX Press Release](https://www.rtx.com/news/news-center/2026/01/27/rtx-reports-2025-results-and-announces-2026-outlook-) — RTX 2025 실적·백로그
+- [GovCon Wire – LMT](https://www.govconwire.com/articles/lockheed-2025-sales-dow-pac-3-thaad-agreements) — LMT PAC-3·THAAD 생산 확대
+- [Air and Space Forces](https://www.airandspaceforces.com/congress-more-insight-golden-dome-budget/) — Seth Moulton 인용
+- [Arms Control Center – GMD](https://armscontrolcenter.org/issues/missile-defense/gmd-frequently-asked-questions/) — GMD 성공률 57%
+- [Britannica – Iron Dome](https://www.britannica.com/topic/Iron-Dome) — 아이언돔 성능·비용
+- [Carnegie Endowment BMD](https://carnegieendowment.org/china/posts/2000/01/brief-history-of-ballistic-missile-defense-and-current-programs-in-the-united-states) — SDI 역사 지출
+- [GlobalSecurity DAWG](https://www.globalsecurity.org/military/agency/dod/dawg-budget.htm) — FY2027 DAWG 예산 $546억
+- [NATO Official](https://www.nato.int/en/what-we-do/introduction-to-nato/defence-expenditures-and-natos-5-commitment) — NATO 5% GDP 목표
+- [Seoul Economic Daily](https://en.sedaily.com/politics/2026/03/24/koreas-defense-exports-hit-154b-in-2025-set-to-grow-further) — 한국 방산 수출 $154억
+- [Carnegie – Korea](https://carnegieendowment.org/research/2026/02/are-long-term-nato-south-korea-defense-ties-possible) — K방산 전략 파트너 전환
+- [SCMP](https://www.scmp.com/news/china/diplomacy/article/3351626/trumps-golden-dome-will-combat-chinas-hypersonic-weapons-cruise-missiles) — 중국 A2/AD 전략
+- [Motley Fool – RKLB](https://www.fool.com/investing/2026/05/15/rocket-lab-targets-missile-defense-and-golden-dome/) — Rocket Lab 골든돔 타겟
+<!-- slack_trigger: 2026-05-17 -->
