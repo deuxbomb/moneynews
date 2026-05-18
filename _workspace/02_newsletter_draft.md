@@ -128,3 +128,5 @@ Fast Company가 "Trump의 NVIDIA 외교는 실패한다"고 쓴 이유가 있습
 - [Fast Company — Trump NVIDIA 외교 비판](https://www.fastcompany.com/91446055/saudi-arabia-nvidia-trump-mbs-chips-uae-china)
 - [ThinkAutomated — HUMAIN 60만 GPU 목표](https://thinkautomated.io/news/u-s-oks-blackwell-exports-to-uae-and-saudi-as-humain-targets-600k-gpus)
 - [AI Business Review — 한국 $57억 투자](https://www.aibusinessreview.org/2026/05/04/south-korea-5-7bn-ai-investment-sovereignty/)
+
+<!-- slack_trigger: 2026-05-18 -->
