@@ -1,40 +1,42 @@
-📅 이번 주 실적 캘린더 — 역대급 어닝 주간
 
-| 날짜 | 종목 | 발표 시간 | 컨센서스 |
-|------|------|-----------|---------|
-| 5/19 (화) | $HD (Home Depot) | BMO | EPS $3.57 예상 |
-| 5/19 (화) | $CAVA | AMC | 12% 옵션 스윙 예고 |
-| 5/20 (수) | $NVDA | AMC | 매출 $78.75B (+78.7% YoY) |
-| 5/20 (수) | FOMC 의사록 | 오후 2시 ET | 매파 뉘앙스 주목 |
-| 5/21 (목) | $WMT (Walmart) | BMO | 소비 트렌드 바로미터 |
-| 5/21 (목) | $DE (Deere) | BMO | EPS -12.5% YoY (컨센서스) |
+📊 이번 주 어닝 캘린더 — AI의 성적표가 나온다
 
-BMO: Before Market Open | AMC: After Market Close
+**5/20 (수)** 엔비디아 Q1 FY2027 AMC | 컨센서스 $78.8B 매출, EPS $1.77. Q2 가이던스 $86B+ 필요. 장마감 후 발표, 서울 기준 5/21 새벽 실시간 확인.
+**5/20 (수)** FOMC 의사록 공개 | 4월 28~29일 회의 내용. 연내 금리 인상 가능성 45% (현재 선물 시장)와의 괴리가 있는지 주목.
+**5/21 (목)** Walmart Q1 FY2027 AM | 소비 이중화(고소득↑ 저소득↓) 트렌드 내 월마트의 포지션.
+**5/21 (목)** Deere Q2 FY2026 AM | 농업 경기 사이클 + AI 정밀농업 투자 현황.
+**5/27 (화)** Marvell Q1 FY2027 AMC | AI ASIC 두 번째 챔피언 검증일.
+**6/3 (수)** Broadcom Q2 FY2026 PMC | AI XPU 매출 $10.7B 달성 여부.
 
-**애널리스트 코멘트 요약**
+---
 
-$NVDA: BofA 비바크 아리야 목표가 $300→$320 (5/13). "Blackwell 공급 제약이 해소되면서 데이터센터 수요가 온전히 실적에 반영될 것." 평균 목표가 $282. [TheStreet](https://www.thestreet.com/investing/stocks/bank-of-america-resets-nvidia-stock-price-target-for-2026)
+🎯 애널리스트 컨센서스 & 수급 신호
 
-$DE: 복수 애널리스트 Buy 유지, 평균 목표가 $653 (최고 $793, 최저 $471). "15% 조정은 시장의 단기 공포가 현실을 앞서간 것일 수 있다." [TIKR](https://www.tikr.com/blog/deere-stock-has-fallen-15-from-its-all-time-high-is-the-pullback-before-q2-earnings-a-buying-opportunity)
+**NVDA 어닝 옵션 신호**
+Goldman Sachs의 James Schneider는 2026년 추정치를 Street 대비 14% 높게, 2027년은 34% 높게 잡고 있다. 이 격차가 엔비디아 주가의 잠재 상승폭을 의미한다. Polymarket 비트 확률 90%. 옵션 시장의 내재 변동성(IV)은 어닝 전 급등했다 — 시장이 큰 움직임을 예상하고 있다. 단방향 베팅보다 스트래들이 유리한 국면이다.
 
-$GOOGL: I/O 이후 밸류에이션 재평가 기대. Q1에 이미 AI 클라우드 $20B 돌파. 목표가 $450-$500 구간 다수.
+**MRVL 목표가 웨이브**
+지난 3일간 MRVL 목표가 상향 행진: BofA $125→$200, RBC $170→$200, B.Riley $156→$205, TD Cowen $90→$190. 22개 Buy, 4개 Hold, 0개 Sell. 이런 컨센서스 집중은 드물다. 단, 이미 +89% YTD 상승이 반영되어 있어 실적 미스 시 되돌림이 클 수 있다.
+
+**AVGO 목표가 분포**
+Wells Fargo $545, TD Cowen $500, 컨센서스 평균 $452. 현재가 $425에서 약 6.4% 업사이드(평균)~ 28.2% 업사이드(WF). 어닝 전 6주 동안 AVGO가 눌린 구간이 역사적으로 좋은 진입점이었다는 패턴이 있다.
 
 ---
 
 🏦 스마트머니 동향
 
-**ARK Invest (최근 확인 동향)**
-- $CBRS (Cerebras) 연속 매수 중 — AI 추론 인프라 테마 확대
-- $RBLX (Roblox) 추가 매수 — 게이밍 메타버스 롱포지션 유지
-- $TSM, $AMD 매도 지속 — ASIC 테마 확대, 전통 GPU 축소 신호
-- $NVDA에 대해서는 별도 포지션 변화 미확인 (어닝 전 관망)
+**ARK Invest — AMD 팔고 AI 헬스케어+크립토 산다**
 
-**내부자 매수 클러스터 (최근 14일)**
-- $ETN Eaton: 이사 Gerald Johnson 5/8 746주 @$402 + 5/11 215주 @$419 = 961주 (~$39.5만)
-- 동시에 안토니오 갈바오 임원이 494주 매도 — 순 +467주 양방향 신호
-- 방산 섹터: $NOC 이미 AM 에디션에서 RSI 32.65 극단 과매도 확인
+Cathie Wood가 AMD를 3거래일 연속 매도했다. 이번 주에만 37,836주(~$17.4M)를 ARKF·ARKK·ARKW에서 털어냈다. AMD는 올해 AI 데이터센터 수요로 +98% YTD 급등한 상태 — ARK 입장에서는 이익 실현이다. 대신 사는 것이 흥미롭다: Tempus AI(AI 헬스케어, 162,765주, ~$7.9M)와 Circle(크립토 인프라, 41,904주, ~$5.5M)을 신규 확대했다. AI+의료 + 크립토 규제 명확화 이후의 수혜주로 포트폴리오를 이동 중이다. 지난주에는 Figma(IPO 직후, 477K주)와 CoreWeave(199K주, ~$16M) 도 신규 진입했다. ARK의 "스몰캡 AI"로의 이동이 뚜렷하다. [Benzinga](https://www.benzinga.com/news/26/05/52474906/ark-invest-sells-amd-buys-tempus-ai-circle)
 
-**헤지펀드 포지션 (지난 13F 기준)**
-- 대형 헤지펀드들이 AI 인프라 주식(전력, 냉각, 통신망)을 방어주로 재분류하는 흐름 포착
-- 에너지 섹터 순매도 vs. 산업재(전력인프라) 순매수 전환이 5월 들어 감지됨
-- $PWR (Quanta Services): +32% 30일 랠리 이후에도 기관 수급 유입 지속 중 [Tickeron](https://tickeron.com/blogs/quanta-services-pwr-32-surge-in-30-days-driven-by-earnings-beat-and-record-backlog-13081/)
+**헤지펀드/슈퍼인베스터 — NVDA 어닝 앞 포지션**
+
+지난 13F 기준(2026 Q1) BofA는 NVDA·AVGO·AMD를 최선호 칩 종목으로 유지했다. NVDA 어닝 D-2 앞에서 대형 헤지펀드는 옵션 헤지를 강화하면서도 롱 포지션을 유지하는 구조를 선택하고 있다 — "가이던스 미스 보험"을 사면서 기본 포지션은 지키는 전략이다.
+
+**내부자 거래 — SOX 급락 다음 날 반도체 내부자 동향**
+
+금요일 급락 이후 반도체 섹터 내부자 매수 신호를 대기 중. OpenInsider 데이터 기준 직전 주 임원급 매수는 제한적이었으나, MRVL 어닝 전 경영진의 포지션 변화가 이번 주 주목할 사항이다.
+
+**시장 전체 수급**
+
+S&P 500 반도체 섹터는 금요일 -3.1% 하락했지만, 2026년 YTD로는 여전히 +60% 수준이다. 리테일 자금 유입은 둔화됐지만 기관 자금은 NVDA 어닝 결과를 확인 후 재진입하는 패턴이 예상된다. 이번 주 목요일 장 마감 후, 금요일 반도체 지수의 방향이 6월 랠리의 출발점이 된다.
