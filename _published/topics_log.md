@@ -229,3 +229,9 @@
 - 핵심 주장/결론: SBI 기술 실현 가능성이 검증되지 않아 Base(지상 중심 재편)가 가장 현실적. RTX·LMT는 Base에서도 확실한 수혜. NOC는 과매도(RSI 32.65) + 복수수주 이중 플레이. 2028 SBI 시연이 핵심 분기점.
 - 1차 자료 출처: CBO 보고서(Federal News Network/Defense One 보도) × 1, 백악관 EO14186 × 1, RTX 2025 실적 보도자료 × 1, LMT GovCon Wire × 1, Space Force OTA 계약 × 1, Arms Control Center GMD FAQ × 1, Gen. Guetlein 의회 발언(Breaking Defense) × 1 (총 7건)
 - 판정: Minor (4개 개선점 반영 — 스타링크 6,000기 환각 제거, RTX 백로그 맥락 추가, Base 시나리오 Guetlein 연결 강화, 시사점 첫 문장 교체)
+
+## 2026-05-18 22:00 [PM] (테마: AI 인프라/반도체)
+- 헤드라인: 핵발전소에 드론이 떴다 — 코스피는 버텼고, 오늘 밤 미장이 흔들린다
+- 오늘의 픽: $ANET (카탈리스트: D+1 JP모건 TMC 컨퍼런스 5/19, $142 vs 목표 $183), $AMD (카탈리스트: NVDA 어닝 섹터 촉매 D+2 5/20, 데이터센터 +57%) [와치리스트 외]
+- 뉴스 토픽: [매크로] UAE 바라카 원전 드론 공격·WTI $103(+2%)·브렌트 $111·미선물 -0.58% / [AI인프라] 반도체 시장 $1.29T(+52.8%) IDC·Mag7 카펙스 $527B·HBM 사전배정 완료·NVDA+IREN $3.4B 계약 / [원자력] OKLO+NVDA+LANL 파트너십·UAE 원전 내러티브 재조명 / [기업] TSLA FSD v14.3.3(개입없는 주행 카운터)·NVDA KeyBanc PT $300 D-2 어닝·GOOGL I/O 내일 / [헬스케어] UNH -5% 버크셔 전량 매각·REGN -12% 흑색종 Phase3 실패
+- 팟캐스트: (신규 없음 — 일요일 휴방, Acquired Vanguard는 AM 포함)

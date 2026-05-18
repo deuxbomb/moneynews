@@ -1,123 +1,186 @@
-# 하늘을 사면 얼마일까 — $1.2조 골든돔, 미국을 지킬 수 있을까
+핵발전소에 드론이 떴다 — 코스피는 버텼고, 오늘 밤 미장이 흔들린다
 
-**2026-05-17 | 🔮 미래전망 | 산업재/방산 클러스터**
-
----
-
-## 7배의 괴리 — CBO가 폭로한 숫자
-
-2026년 5월 12일, 미국 의회예산처(CBO)는 조용히 보고서 한 편을 발표했다. 그리고 방산 업계는 발칵 뒤집혔다.
-
-트럼프 대통령이 "하늘의 방패"라고 자랑해온 골든돔(Golden Dome) 미사일 방어 체계. 트럼프가 내세운 가격표는 $175B, 이후 총괄 책임자 Gen. Michael Guetlein이 "추가 우주 역량 확보"를 이유로 $185B으로 살짝 올렸다. 그런데 CBO가 계산한 숫자는 **20년간 $1.2조(trillion)**였다. 정부 추산의 **약 6.5배**다. — [Federal News Network](https://federalnewsnetwork.com/defense-news/2026/05/cbo-estimates-golden-dome-could-cost-1-2-trillion-over-20-years/)
-
-이 격차가 말하는 건 단순한 회계 오류가 아니다. 골든돔의 핵심 아이디어 — 우주에 7,800개의 무장 위성을 띄워 적의 ICBM을 우주에서 격추한다는 구상 — 그 자체가 과연 현실 가능한 꿈인지, 아니면 $1.2조짜리 환상인지를 묻고 있다. — [Fortune](https://fortune.com/2026/05/12/how-much-does-trump-golden-dome-cost-1-2-trillion-cbo/)
-
-CBO 추산을 뜯어보면 구조가 보인다. 전체 획득 비용 $1T 이상 중 **약 70%가 바로 이 우주 기반 요격체(SBI, Space-Based Interceptors)** 단 하나의 레이어다. 나머지 30%로 지상 레이더망, 운동 요격체, 레이저 타격 시스템까지 구축해야 한다. 거기에 연간 $80억의 운영비가 20년간 쌓인다. — [Defense One](https://www.defenseone.com/defense-systems/2026/05/golden-dome-cost-trillion-cbo/413485/)
-
-아이러니하게도, SBI의 실현 가능성을 가장 의심하는 사람은 다름 아닌 골든돔 총책임자 Gen. Guetlein 본인이다. 그는 의회에서 이렇게 말했다. *"오늘 우리가 모르는 것은 '이걸 대규모로, 그리고 감당할 수 있는 비용으로 할 수 있느냐'다. 그게 부스트 단계 요격의 가장 큰 도전이 될 것이다."* SBI가 최종 설계에서 빠질 수 있다는 가능성을 열어둔 발언이었다. — [Breaking Defense](https://breakingdefense.com/2026/04/golden-dome-czar-signals-space-based-interceptors-arent-guaranteed-as-dod-weighs-cost/)
-
-하원에서는 Seth Moulton 의원(민주당)이 SBI 자금 차단 수정안을 제출하며 쏘아붙였다. *"단 한 명의 증인도 기본적인 질문에 답하지 못했는데, 작동하지 않을 수도 있는 프로그램에 수천억 달러를 쓰기 전에 상세한 이행 계획부터 내놓으라."* — [Air and Space Forces](https://www.airandspaceforces.com/congress-more-insight-golden-dome-budget/)
-
-그럼에도 돈은 이미 움직이고 있다. 의회는 FY2025 조정법(One Big Beautiful Bill Act)으로 **$24.4B**을, FY2026 국방 예산에 추가 **$13.4B**을 이미 배정했다. 2026년 4월에는 Space Force가 SpaceX·Anduril·$LMT·$RTX·$NOC 등 12개 기업에 SBI 프로토타입 개발 계약 **$3.2B**을 발주했다. 2028년까지 시연이 목표다. — [DefenseScoop](https://defensescoop.com/2026/04/24/golden-dome-space-based-interceptor-missile-defense-contractors/)
-
-수천억 달러짜리 방어막의 시대가 시작됐다. 문제는 그것이 하늘을 정말로 막을 수 있느냐다.
+머뉴 MoneyNews 오후 브리핑 | 2026년 5월 18일 (월) | 돈이 되는 모든 것에 대한 소식
 
 ---
 
-## 40년이 반복한 꿈 — 스타워즈에서 골든돔까지
+🇰🇷 오늘 한국 장 마감
+코스피 7,516.04 (+0.31%) / 코스닥 1,111.09 (-0.3%) / 원달러 1,501원
 
-골든돔은 처음이 아니다. 미국은 40년 전에도 같은 꿈을 꿨다.
+오늘 코스피는 아침부터 고난이었다. 개장 직후 7,443p로 내려앉더니 장중 한때 7,150p까지 추락 — 전일 대비 -4.58%, 무려 340포인트가 증발하는 순간이었다. 방아쇠는 일요일 저녁 UAE 아부다비 바라카 원전에 날아든 드론 한 대. 이란發 드론으로 추정되는 공격이 원전 외곽 전력 설비를 타격했다는 소식이 새벽 뉴스를 도배하자 글로벌 리스크오프 흐름이 한 번에 쏟아졌다. 하지만 코스피는 이야기가 달랐다. 7,150p라는 '패닉셀' 가격을 본 개인과 기관이 동시에 '저점매수' 버튼을 눌렀고, 결국 7,516p로 마감 — 장중 낙폭의 90% 이상을 회복하는 V자 반등을 연출했다. 지수가 장중 -4.58%에서 +0.31%로 전환된 건 올해 두 번째 기록이다. 코스닥은 이틀째 하락세(1,111)를 이어가며 대형주와 중소형주 간의 온도차를 드러냈다.
 
-1983년 3월 23일, 로널드 레이건 대통령은 TV 카메라 앞에서 "소련의 핵 미사일을 발사 즉시 격추할 수 있는 방어막"을 선언했다. 전략방위구상(SDI), 언론이 '스타워즈'라고 부른 그 계획이다. 의회는 1983년부터 1993년까지 10년간 **$440억**을 쏟아부었다. 연간 최고 **$40억**이 SDI 예산으로 집행됐다. 결과는? 냉전 종식 후 SDI는 조용히 축소됐다. — [Carnegie Endowment](https://carnegieendowment.org/china/posts/2000/01/brief-history-of-ballistic-missile-defense-and-current-programs-in-the-united-states)
+🇺🇸 미국 프리마켓
+선물: S&P500 -0.58% / 나스닥100 -0.53% / 다우 -0.78% / WTI $103.06 (+2.0%) / BTC $76,803 (↓)
 
-2000년대 초, 부시 행정부는 북한·이란 같은 '불량 국가' 대응을 명목으로 지상 기반 중단단계 방어(GMD)를 알래스카·캘리포니아에 배치했다. FY2001 예산은 $47억. 그리고 지금 이 시스템의 요격 성공률은 21회 시험 중 12회 성공 — **57%**다. 미 군비통제협회는 "최근 6번 중 3번이 실패한, 고도로 각색된 시험에서 55% 성공률"이라고 비판했다. 실전에서 ICBM이 날아오면 그 성공률이 그대로 적용된다고 믿기 어렵다. — [Arms Control Center](https://armscontrolcenter.org/issues/missile-defense/gmd-frequently-asked-questions/)
+월요일 새벽, 미국 선물 시장은 더 예민하게 반응했다. S&P500 선물이 -0.58%, 다우가 -0.78% 하락하며 출발선에서부터 삐걱댔다. 에너지는 다르다. WTI는 $103를 돌파했고(+2.0%), 브렌트유는 $111.14(+1.72%)까지 치솟았다. 원전 인근 드론 공격 = 호르무즈 긴장 재고조 = 유가 급등의 공식이 자동으로 작동한 것. 비트코인은 $76,800 선으로 밀려났다. 지정학 리스크가 고조될 때 달러로 피신하는 전통적 패턴이 재현 중이다. 시장 전반의 긴장감을 압축하면 하나의 문장이 나온다: "이번 주 수요일 저녁, 엔비디아가 모든 걸 정리해 줄 것이다."
 
-2026년 FY2027 국방자율전투그룹(DAWG) 단년도 예산 제안은 **$546억**이다. SDI 최고액($40억)의 약 5배(인플레 조정 기준). 규모의 포부는 달라졌어도, 기술의 실현 가능성이라는 질문은 40년이 지난 지금도 답을 기다린다. — [GlobalSecurity](https://www.globalsecurity.org/military/agency/dod/dawg-budget.htm)
+📌 오늘 밤 미장, 이 세 가지를 보라
 
-골든돔이 SDI와 결정적으로 다른 점이 하나 있다. SDI는 주로 지상 기반 요격을 검토했다. 골든돔은 **우주에서 쏘는 위성 무기**를 핵심으로 한다. CBO 추산에 따르면 단 10발의 적 ICBM을 동시에 격추하려면 7,800개의 무장 위성이 필요하다. 이는 현재 세계 최대 상업용 위성 군집을 훌쩍 넘어서는 규모다. 세계적으로 전례가 없는 우주 군비 구축이며, 바로 이 규모가 비용 추산을 $185B에서 $1.2T으로 7배나 벌려놓은 핵심 원인이다.
+1. **UAE 바라카 원전 드론 공격** — 일요일 저녁 드론이 UAE 바라카 원전 외곽 전력 설비를 타격했다. 방사능 누출은 없었고 원전 4개 호기 모두 정상 가동 중이지만, '원전에 드론이 날아든다'는 그 자체가 새로운 지정학 리스크를 열었다. WTI가 $103, 브렌트가 $111을 넘은 배경이다. [NPR](https://www.houstonpublicmedia.org/npr/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant) · [Fortune](https://fortune.com/2026/05/17/drone-strike-fire-uae-barakah-nuclear-power-plant-iran-war-ceasefire/)
 
----
+2. **엔비디아 어닝 D-2** — 수요일(5/20) AMC. 컨센서스는 매출 $78B, EPS $1.77, 데이터센터 $73.2B(+87.2%). KeyBanc는 오늘 목표가를 $275→$300으로 상향했다. 클린한 텔은 세 가지: 총이익률(컨센 74.5% vs 가이던스 ~75%), Q2 가이던스, 중국 수출 코멘터리. [HeyGoTrade](https://www.heygotrade.com/en/blog/nvidia-q1-fy27-earnings-preview-may-20-2026/)
 
-## 원형과 반격 — 아이언돔, NATO, 중국, 그리고 한국
+3. **Google I/O D+1** — 내일(5/19) 오전 10시(PT) 기조연설 시작. Gemini 4.0(또는 Gemini Omni — 텍스트·이미지·영상 통합 단일 파이프라인), Android XR 안경(카메라+스피커+마이크 탑재), AI 에이전트 대거 발표 예고. 알파벳($GOOGL)에게 연간 최대 카탈리스트 행사다. [AIxploria](https://www.aixploria.com/en/ai-radar/google-io-2026-gemini-announcements-preview/)
 
-골든돔은 이름부터 이스라엘의 **아이언돔(Iron Dome)**에서 영감을 얻었다. 트럼프는 취임 직후 "미국판 아이언돔"을 만들겠다고 선언했다. 하지만 아이언돔과 골든돔 사이에는 넘을 수 없는 물리적 간극이 있다.
+💰 관심 종목 현황
 
-아이언돔은 하마스의 아음속 로켓을 막는 시스템이다. 요격체 단가 $40,000~$200,000, 적 로켓 가격 $800. 비용 비율이 최대 250:1로 불리한데도, 이스라엘은 이 시스템에 약 $10억을 투자해 85~97%의 성공률을 달성했다. 도시 방어에는 충분한 선택이다. — [Britannica](https://www.britannica.com/topic/Iron-Dome)
+$TSLA $418 (-1.2%) 목표가: $360~$550 - 로보택시 39대 운영 중(대기·불가 팝업 빈발), 네덜란드 RDW EU 전역 FSD 승인 추진 중
+$GOOGL $396.78 (-0.7%) 목표가: ~$430 - 52주 최고 $403.70 근접, I/O 내일 최대 카탈리스트
+$NVDA $228.32 (+0.4%) 목표가: $300(KeyBanc↑) - 어닝 D-2, AI 인프라 수요 폭발적 기대
+$COIN $194.48 (-2.3%) 목표가: $280 - CLARITY Act 상원 진행 중, BTC 약세 동반
+$NFLX ~$87 - $25B 자사주매입 계획 발표, 일부 Buy→Hold 다운그레이드
+$OKLO $62.00 (+1.5%) 목표가: $91~$130 - UAE 원전 공격으로 원자력 내러티브 부각
+$OHI $47.01 (+0.4%) 목표가: ~$52 - 헬스케어 리츠, UNH 버크셔 엑시트 헬스케어 섹터 영향 주시
+$SPY $737.74 (-0.19%) — $QQQ $708.32 (-0.086%)
 
-그런데 골든돔이 막아야 할 것은 아음속 로켓이 아니다. 마하 20을 넘는 ICBM, 풀업 기동이 가능한 극초음속 활공체, 레이더를 피하는 저고도 순항 미사일이다. 아이언돔이 야구공을 막는 포수라면, 골든돔은 레이저 유도 총알을 맨손으로 잡아야 한다. 원형은 같은 이름을 가졌지만, 임무는 근본적으로 다른 세계다.
+👀 오늘 밤 주목할 것
 
-**NATO 동맹**의 반응은 이중적이다. 2025 헤이그 정상회의에서 나토는 2035년까지 GDP 5%(핵심 방위 3.5% + 안보 인프라 1.5%)를 투자하기로 합의했다. 폴란드는 이미 GDP **4.8%**를 방산에 쏟아붓고 있으며, 독일은 헌법의 부채 제한 조항까지 개정했다. 골든돔이 미국의 방어막을 확장하는 프로그램이라는 사실이 동맹국에게는 안보 보험료를 낮출 핑계가 될 수도 있고, 반대로 미국 일극체제 의존에 대한 경각심을 자극하는 계기가 될 수도 있다. — [NATO](https://www.nato.int/en/what-we-do/introduction-to-nato/defence-expenditures-and-natos-5-commitment)
-
-가장 냉정하게 반응하는 나라는 **중국**이다. 중국은 이미 골든돔에 대한 '자연스러운 대답'을 준비해두고 있다. 반접근/지역거부(A2/AD) 전략 — DF-26 대함 탄도미사일, YJ-21 극초음속 대함무기, 극초음속 활공체로 미국의 접근을 막는 전략이다. 골든돔이 ICBM 10발을 막으려면 위성 7,800기가 필요하다면, 중국이 ICBM을 100발로 늘리면? 논리적으로 위성 78,000기가 필요해진다. CBO 스스로 인정했다. *"러시아나 중국 수준의 대규모 공격을 완전히 막는 건 불가능하다."* — [SCMP](https://www.scmp.com/news/china/diplomacy/article/3351626/trumps-golden-dome-will-combat-chinas-hypersonic-weapons-cruise-missiles)
-
-예상치 못한 수혜자가 있다. **한국**이다. 한국 방산 수출은 2025년 **$154억**으로 급성장했고, DB투자증권은 2026년 $377억 달성 가능성을 제시했다. 폴란드에서만 전체 수출의 40% 이상이 나온다. 천무 유도미사일 5.6조원, 루마니아 K9 자주포 $10억. Carnegie Endowment는 2026년 2월 한국이 "단순 무기 수출국에서 신뢰받는 방산 파트너"로 전환하고 있다고 분석했다. 골든돔이 촉발한 전 세계 방산 지출 확대는 한국 방산 슈퍼사이클의 외부 엔진이 되고 있다. — [Seoul Economic Daily](https://en.sedaily.com/politics/2026/03/24/koreas-defense-exports-hit-154b-in-2025-set-to-grow-further) · [Carnegie](https://carnegieendowment.org/research/2026/02/are-long-term-nato-south-korea-defense-ties-possible)
-
----
-
-## 세 갈래 미래 — $1.2조가 실현되는 방식
-
-골든돔의 미래는 세 개의 분기점에서 갈린다. 어느 길로 가느냐에 따라 수혜 기업과 규모가 완전히 달라진다.
-
-**🐂 Bull: 의회가 자금을 풀고 기술이 따라잡는다**
-
-의회가 20년간 $600B 이상을 배정하고 2028년 SBI 시연이 현실 가능성을 입증한다면, RTX·LMT·NOC는 수십 년 분량의 수주잔고를 확보한다. 이미 RTX 총백로그는 역대 최대 **$271B**(연간 매출 $88.6B의 약 3년치 수주잔고, +25% YoY)이며, LMT는 PAC-3 생산을 3.3배(600발→2,000발/년), THAAD를 4배(96기→400기/년)로 늘리기로 DOW와 합의했다. SpaceX는 위성 발사 역량을 독점적으로 제공하며 계약 금액이 폭발한다. 가능성 조건: 2028년 SBI 시연 성공 + 공화당 재정파 반발 억제.
-
-**🐻 Bear: DOGE 압박 + 기술 실패 + 정치 변화**
-
-공화당 내 재정 매파들이 $1.2T 추산을 근거로 SBI 예산을 전면 차단한다. Gen. Guetlein의 경고처럼 SBI가 최종 설계에서 빠진다. 2028년 중간선거에서 민주당이 의회 주도권을 회복하면 골든돔 자금은 급격히 삭감될 수 있다. GMD의 57% 성공률이 상기시키듯, 기술은 마케팅보다 느리다. 가능성 조건: 2028 중간선거 민주당 승리 + SBI 시연 실패 + 부채 위기 재연.
-
-**⚖️ Base(가장 현실적): 지상 중심으로 규모 축소**
-
-실제로 Gen. Guetlein은 의회에서 이미 SBI 포기 가능성을 시사했고, 상·하원 세출소위원회는 "구체적인 예산 정보가 부족해 프로그램 요소별 자원 배분을 제대로 평가할 수 없다"고 지적했다. SBI는 빠지거나 대폭 축소되고, 골든돔은 GMD 업그레이드 + PAC-3/THAAD 대량 증산 + 레이더망 강화로 재편될 가능성이 가장 높다. 총비용 $400~600B 수준. 지상 기반에 집중되면 RTX와 LMT가 가장 큰 수혜를 받고, 우주 스타트업들의 기대감은 꺼진다. 중국·러시아 대규모 공격 방어는 포기하되, 북한·이란 수준 제한적 위협에 집중한다.
+- **코스피 7,150 지지 확인**: 오늘 장중 패닉에도 개인·기관이 사줬다. 외국인이 이 레벨을 계속 팔면 다음 지지선은 7,200→6,900 구간
+- **WTI $105 돌파 여부**: $105를 넘으면 에너지 섹터 강세 / 기술주 추가 압박 시나리오 현실화
+- **NVDA 어닝 사전 포지셔닝**: 수요일 전까지 프리마켓에서 변동성 높을 것. 콜/풋 IV 급등 중
+- **Google I/O 실시간**: 한국 시각 내일 새벽 2시 기조연설 시작. Gemini 4.0 발표 내용이 $GOOGL $400 돌파의 열쇠
 
 ---
 
-## 방산주가 기대를 먹고 산다면, 지금 어디를 늘려야 하나
+🔥 오늘의 픽 — AI 인프라/반도체 (월요일 클러스터)
 
-지금 당장 계약이 없어도 수혜 기업의 주가는 움직인다. 기대가 미래를 당겨오는 자산군이 방산주다.
+🌡️ 시장 온도
 
-**$RTX**: PAC-3·THAAD·Tomahawk 제조사. 2025년 총백로그 $271B(역대 최대, 연간 매출의 3년치). 방산 백로그 $107B. SBI 계약 12개사 중 1개. Base 시나리오에서 가장 확실한 수혜. Tomahawk 60기→1,000기+ 생산 확대가 DOW 협약으로 이미 확정. — [RTX IR](https://www.rtx.com/news/news-center/2026/01/27/rtx-reports-2025-results-and-announces-2026-outlook-)
+드론 한 대가 시장 분위기를 바꿨다. UAE 원전 공격 소식에 글로벌 리스크오프가 발동됐고, AI/반도체 섹터도 예외 없이 매도 압력을 받았다. SPY -0.19%, QQQ -0.086%. 하지만 아이러니가 있다 — AI 인프라의 펀더멘털(수요)은 전혀 흔들리지 않았다. 오늘의 낙폭은 지정학 변수에서 온 것이지, 실적이나 가이던스에서 온 게 아니다. 그게 월요일 AI 인프라 픽의 출발점이다.
 
-**$LMT**: THAAD·PAC-3 주도 제조사. 2025년 매출 $75B. PAC-3 3.3배·THAAD 4배 확대 협약 완료. 골든돔의 지상 레이어가 핵심이 될수록 수혜는 더 확실해진다. — [GovCon Wire](https://www.govconwire.com/articles/lockheed-2025-sales-dow-pac-3-thaad-agreements)
+🎯 오늘의 테마 — AI 인프라, 폭락 후 진입의 기술
 
-**$NOC**: 기존 GMD 운영사 + 우주 감시 + SBI 계약사. B-21·F/A-XX·골든돔 복수 수주 가능성. RSI 32.65 극단 과매도(5/16 기준), 5/20 주주총회가 단기 촉매.
-
-**$RKLB (Rocket Lab)**: 소형 발사체 + 위성 제조로 SBI 공급망 진입 가능성. 공식적으로 골든돔을 "차세대 성장 시장"으로 지목(2026-05-15). — [Motley Fool](https://www.fool.com/investing/2026/05/15/rocket-lab-targets-missile-defense-and-golden-dome/)
-
-**진입·이탈 신호**:
-- 매수 트리거: ① 2028 SBI 시연 성공 발표, ② FY2027 국방예산 의회 통과(방산 지출 수치 확인), ③ $NOC RSI 30 하회 후 반등 확인
-- 이탈 트리거: ① SBI 공식 취소 발표, ② 의회 예산 삭감 결의, ③ 2028 중간선거 민주당 압승
+월요일 = AI 인프라/반도체 클러스터. 스크리너 조합은 #1 과매도(역추세) + #5 공매도+거래량 + #6 배당인상·가치. 오늘 ANET는 가이던스 실망으로 $170→$142에 쌓인 낙폭이 42일째 이어지는 와중에 내일 JP모건 컨퍼런스를 앞두고 있다. AMD는 데이터센터 +57%라는 성장 근거를 들고 있으나, UAE 공격에 동반된 매크로 공포로 -3.5% 하락하며 진입 기회를 만들었다. 수요일 NVDA 어닝이 AI 칩 섹터 전체에 '숫자로 말하는' 분기점이 된다.
 
 ---
 
-## 머뉴's Advice
+💡 픽 1: 42일간의 낙폭이 만든 기회창
 
-① **RTX + LMT는 Base 시나리오에서도 확실한 수혜다**: SBI가 빠져도 PAC-3·THAAD·Tomahawk 증산은 DOW 협약으로 이미 확정됐다. 순수 골든돔 베팅이 아닌, 전반적 방산 슈퍼사이클 플레이로 접근하라.
+$ANET — Arista Networks (시총 ~$44B, 섹터: AI 네트워킹/클라우드 인프라)
 
-② **NOC는 과매도 역추세 + 골든돔 옵션의 이중 플레이**: RSI 32.65 극단 과매도, 5/20 주주총회가 1차 촉매. 역추세 반등도 기대할 수 있고, B-21·F/A-XX·골든돔 복수 수주 시 상당한 업사이드가 있다.
+5월 5일, 아리스타 네트웍스는 Q1 실적을 발표했다. 매출 $2.71B(+35.1% YoY), EPS $0.87 — 양쪽 다 컨센서스를 웃돌았다. 그런데 주가는 $170에서 $142로 무너졌다. 이유는 Q2 가이던스: 매출 $2.8B, EPS $0.88 전망이 "충분히 강하지 않다"는 월가의 판정을 받았기 때문이다. 5분기 연속 어닝 비트 기업이 가이던스 하나로 -17% 맞은 것이다. 그리고 오늘, 그 아리스타가 내일 J.P. Morgan Global Technology, Media & Communications 컨퍼런스(5/19)에 CCO 및 SVP를 보낸다. 컨퍼런스 전날 주가는 다시 -3.95%로 내렸다.
 
-③ **방어막의 경제학을 잊지 마라**: 요격 비용이 발사 비용보다 항상 비쌀 때, 진정한 억지력은 방어막이 아닌 외교와 보복 능력에 있다는 역설을 역사는 반복해왔다. 골든돔이 실현되든 축소되든, 이 40년의 논쟁은 2028년 SBI 시연이 끝나야 새 챕터가 열린다. 그때까지, 방산주는 기대를 먹고 산다.
+AI 네트워킹 수요는 줄지 않았다. 아리스타의 고객은 마이크로소프트, 메타, 구글이다. 이들이 AI 인프라 투자를 늘릴수록 아리스타의 400G/800G 이더넷 스위치 수요도 함께 올라간다. AI 클러스터 네트워크의 표준이 되고 있는 울트라 이더넷 생태계에서 아리스타는 사실상의 패권자다.
+
+리스크는 '더 강한 가이던스 기대 → 또 실망' 사이클 가능성이다. 지지선은 $139.23. 애널 목표가 컨센서스 $182.83(현재 대비 +28.5%)이 꽤 멀어 보이지만, 내일 컨퍼런스에서 긍정적 코멘트가 나오면 단기 반등 트리거로 작동할 수 있다.
+
+📊 스코어카드
+기술적 2/3 (가격 압축 -17% +1 / 거래량 급증 +1 / RSI 42.32 중립) |
+수급 1/3 (이상옵션 불확실 / 기관 진입 예상 +0.5 / 내부자 미확인) |
+카탈리스트 2/2 (JP모건 TMC 컨퍼런스 5/19 D+1 ✅) |
+펀더멘털 2/2 (매출 +35.1% / AI 네트워킹 패권 ✅) |
+신선도 +1 (AM 미등장)
+→ 종합 **8/10** ✅
+
+📅 D-Day: 5/19 JP모건 TMC 컨퍼런스 (내일)
+지지선: $139.23 / 목표가 컨센서스: $182.83
 
 ---
 
-## 출처
+💡 픽 2: AI 칩 2위가 최대 수혜일 때
 
-- [Federal News Network](https://federalnewsnetwork.com/defense-news/2026/05/cbo-estimates-golden-dome-could-cost-1-2-trillion-over-20-years/) — CBO $1.2T 추산
-- [Defense One](https://www.defenseone.com/defense-systems/2026/05/golden-dome-cost-trillion-cbo/413485/) — CBO 비용 구조 분석
-- [NPR](https://www.npr.org/2026/05/13/g-s1-121780/trumps-golden-dome-cost) — 트럼프 추산 vs. CBO
-- [Fortune](https://fortune.com/2026/05/12/how-much-does-trump-golden-dome-cost-1-2-trillion-cbo/) — SBI 위성 7,800기 추산
-- [DefenseScoop](https://defensescoop.com/2026/04/24/golden-dome-space-based-interceptor-missile-defense-contractors/) — Space Force 12개사 $3.2B 계약
-- [Breaking Defense](https://breakingdefense.com/2026/04/golden-dome-czar-signals-space-based-interceptors-arent-guaranteed-as-dod-weighs-cost/) — Gen. Guetlein 인용
-- [RTX Press Release](https://www.rtx.com/news/news-center/2026/01/27/rtx-reports-2025-results-and-announces-2026-outlook-) — RTX 2025 실적·백로그
-- [GovCon Wire – LMT](https://www.govconwire.com/articles/lockheed-2025-sales-dow-pac-3-thaad-agreements) — LMT PAC-3·THAAD 생산 확대
-- [Air and Space Forces](https://www.airandspaceforces.com/congress-more-insight-golden-dome-budget/) — Seth Moulton 인용
-- [Arms Control Center – GMD](https://armscontrolcenter.org/issues/missile-defense/gmd-frequently-asked-questions/) — GMD 성공률 57%
-- [Britannica – Iron Dome](https://www.britannica.com/topic/Iron-Dome) — 아이언돔 성능·비용
-- [Carnegie Endowment BMD](https://carnegieendowment.org/china/posts/2000/01/brief-history-of-ballistic-missile-defense-and-current-programs-in-the-united-states) — SDI 역사 지출
-- [GlobalSecurity DAWG](https://www.globalsecurity.org/military/agency/dod/dawg-budget.htm) — FY2027 DAWG 예산 $546억
-- [NATO Official](https://www.nato.int/en/what-we-do/introduction-to-nato/defence-expenditures-and-natos-5-commitment) — NATO 5% GDP 목표
-- [Seoul Economic Daily](https://en.sedaily.com/politics/2026/03/24/koreas-defense-exports-hit-154b-in-2025-set-to-grow-further) — 한국 방산 수출 $154억
-- [Carnegie – Korea](https://carnegieendowment.org/research/2026/02/are-long-term-nato-south-korea-defense-ties-possible) — K방산 전략 파트너 전환
-- [SCMP](https://www.scmp.com/news/china/diplomacy/article/3351626/trumps-golden-dome-will-combat-chinas-hypersonic-weapons-cruise-missiles) — 중국 A2/AD 전략
-- [Motley Fool – RKLB](https://www.fool.com/investing/2026/05/15/rocket-lab-targets-missile-defense-and-golden-dome/) — Rocket Lab 골든돔 타겟
-<!-- slack_trigger: 2026-05-17 -->
+$AMD — Advanced Micro Devices (시총 ~$435B, 섹터: AI 반도체/CPU·GPU)
+
+AMD의 Q1 2026 성적표: 매출 $10.25B(+38% YoY), 데이터센터 세그먼트 $5.78B(+57%). MI300X AI 가속기가 주요 클라우드에 빠르게 깔리고 있다. 애널리스트 목표가는 Bernstein $525, Keybanc $530, Mizuho $515, Daiwa $500 — 현재가($428) 대비 평균 20% 업사이드가 열려 있다. 오늘 UAE 공격발 글로벌 매도세에 AMD도 -3.5% 동반 하락했다. 지정학 이슈로 인한 가격 하락이지, 실적 데이터 때문이 아니다.
+
+핵심 카탈리스트는 수요일 엔비디아 어닝(5/20)이다. NVDA가 AI 데이터센터 수요 강세를 확인해주면 — 컨센서스 $73.2B 데이터센터 매출, +87.2% YoY 기대 — 이는 AMD의 MI300X 수요 전망도 동시에 업그레이드되는 효과를 낸다. 시장은 NVDA 어닝을 "AI 칩 섹터 전체의 성적표"로 읽는다. 이 읽기가 옳다면, AMD는 NVDA 어닝 비트 시나리오에서 직접적 수혜 주다.
+
+리스크: NVDA가 가이던스를 실망시키거나 중국 수출 제한 확대가 시사되면 AMD도 동반 급락. 또한 AMD 자체 다음 어닝은 7월(분기)이고, Advancing AI 이벤트도 7월 22일이라 단기 개별 촉매가 약한 편이다.
+
+📊 스코어카드
+기술적 1/3 (단기 하락 추세 / RSI 미확인) |
+수급 2/3 (기관 매수 기대 +1 / 애널 연이은 PT 업 +0.5) |
+카탈리스트 1/2 (NVDA 어닝 간접 섹터 촉매 D+2 △) |
+펀더멘털 2/2 (데이터센터 +57%, 매출 +38% ✅) |
+신선도 +1 (AM 미등장)
+→ 종합 **7/10** ✅ (경계선, 리스크 인지 필수)
+
+📅 D-Day: 5/20 NVDA 어닝 — 섹터 방향 결정
+컨센서스: $428 → 목표가 $515~530
+
+---
+
+⚠️ 투자 조언이 아닌 데이터 기반 분석. 모든 투자 결정은 본인 책임.
+
+---
+
+## 드론 한 대가 세 개의 시장을 흔들었다 — UAE 원전 공격, WTI, 그리고 헬스케어
+
+일요일 저녁, 아무도 예상 못 한 뉴스가 나왔다. UAE 아부다비 인근 바라카(Barakah) 원자력발전소 외곽에 드론이 날아들었다. 세 대 중 두 대는 요격됐고 하나는 전력 설비를 타격했다. 방사능 누출은 없었고 4개 호기 모두 정상 가동 중이라는 UAE 당국의 공식 발표가 나왔지만, '원전에 드론이 날아들었다'는 사실 자체가 월요일 새벽 시장을 패닉으로 몰았다. 브렌트유 $111.14(+1.72%), WTI $103.06(+2.02%). 이란 연계 공격으로 추정되며 미국-이란 교착 속에서 에스컬레이션 리스크가 한 단계 올라갔다. S&P500 선물 -0.58%, 다우 -0.78%. 에너지 섹터가 올라가는 만큼 기술주가 눌리는 구도다. [NPR](https://www.houstonpublicmedia.org/npr/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant) · [Fortune](https://fortune.com/2026/05/17/drone-strike-fire-uae-barakah-nuclear-power-plant-iran-war-ceasefire/) · [IG International](https://www.ig.com/en/news-and-trade-ideas/us-equities-pull-back-as-drone-strike-on-uae-nuclear-plant-heigh-260518)
+
+---
+
+## 반도체 총매출 $1.3조 시대 — AI 인프라가 만드는 새 기준선
+
+IDC가 집계한 2026년 글로벌 반도체 시장 규모: $1.29조(+52.8% YoY). 2025년 $842.8B에서 한 해 만에 $450B이 넘게 늘어난다. 숫자가 이렇게 커진 이유는 하나다 — AI 인프라. 마이크로소프트·아마존·알파벳·메타가 2026년 한 해에만 데이터센터·AI 인프라에 쏟아붓는 자본지출 합계는 $650B+이며, 매그니피센트 세븐 전체 기준으로는 $527B(전년비 $62B 상향)이 책정돼 있다. 그 결과는 HBM 시장에서 먼저 보인다 — 2026년과 2027년 HBM 공급의 상당 부분이 이미 사전 배정이 완료된 상태다. 새 수요가 생겨도 바로 공급을 늘릴 수 없다는 뜻이다. NVDA·$AVGO·$MRVL이 강한 이유가 바로 여기에 있다. [IDC](https://www.idc.com/resource-center/blog/semiconductor-market-to-surge-past-the-trillion-dollar-threshold-ai-infrastructure-drives-market-growth/)
+
+1. **NVDA+IREN: $3.4B, 5GW 블랙웰 배포 계약** — NVIDIA와 AI 컴퓨트 기업 IREN이 5년짜리 $3.4B 계약을 체결했다. IREN의 텍사스 차일드레스 캠퍼스에 NVIDIA DSX 설계 기반 블랙웰 GPU를 최대 5기가와트 규모로 깔기로 한 것. "AI 인프라를 짓는 기업들이 NVDA의 진짜 고객"임을 보여주는 구조다. [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure)
+
+2. **OKLO × NVIDIA × LANL — 핵연료를 AI로 개발한다** — UAE 원전 공격으로 원자력 내러티브가 다시 뜨거워진 오늘, 재조명받는 파트너십이 있다. 4월 발표된 OKLO·NVIDIA·로스알라모스 국립연구소(LANL) 협약. 핵심은 두 방향이다: ① NVIDIA의 AI 시스템(디지털 트윈·시뮬레이션)으로 OKLO의 플루토늄 연료(Pluto 원자로) R&D를 가속, ② 핵발전으로 동작하는 'AI 팩토리' 개념 증명. AI 데이터센터의 전력 수요를 핵으로 해결하겠다는 전략의 실행 버전이다. $OKLO는 오늘 +1.5% 상승했다. [BusinessWire](https://www.businesswire.com/news/home/20260423742786/en/Oklo-NVIDIA-and-Los-Alamos-National-Laboratory-Collaborate-to-Advance-Nuclear-Fuel-Validation-at-Los-Alamos-in-Support-of-Nuclear-Powered-AI-Factories) · [Data Center Dynamics](https://www.datacenterdynamics.com/en/news/oklo-partners-with-nvidia-los-alamos-on-ai-driven-advanced-nuclear-infrastructure-development/)
+
+3. **Tesla FSD v14.3.3 업데이트 — "개입 없이 달린 거리"를 세기 시작했다** — 테슬라가 어제(5/17) FSD v14.3.3을 배포했다. 새 기능의 핵심: '개입 없는 자율주행 연속 주행 기록 카운터'. 운전자가 얼마나 오래 핸들에 손을 안 댔는지 추적한다. 마케팅 용도이기도 하지만, FSD v15(2027 초 예상)를 향한 검증 데이터 수집의 의미도 있다. 현재 39대 로보택시가 운행 중인 달라스·휴스턴에서도 대기시간·불가 팝업이 빈발한다는 현장 리포트가 이어진다. [Tesla Oracle](https://www.teslaoracle.com/2026/05/17/tesla-fsd-v14-3-3-2026-14-6-6-adds-a-new-fsd-intervention-free-live-streak-counter-video-release-notes/)
+
+---
+
+## 월요일의 충격들 — 버크셔가 팔았다, 리제네론이 넘어졌다
+
+**버크셔가 UNH를 버렸다 — 그렉 에이블의 첫 번째 큰 선언**
+$UNH(유나이티드헬스)가 프리마켓에서 -5% 급락했다. 이유는 버크셔 해서웨이의 13F 공시. 그렉 에이블(1/1 CEO 취임 이후 첫 번째 대규모 매도) 체제의 버크셔가 UNH 5백만 주를 전량 매각했다. 매입한 지 채 1년도 안 됐다. 에이블은 취임 후 DAL·M·AMZN·V 등 줄줄이 포트폴리오를 정리하는 중이다. "버핏 없는 버크셔가 어떤 선택을 할 것인가"라는 질문에 대한 첫 번째 큰 대답이 나왔다. 헬스케어 섹터는 메디케어 정책 역풍 + 연방 조사 + 버크셔 엑시트의 삼중 압박을 받고 있다. [Seeking Alpha](https://seekingalpha.com/news/4594282-unitedhealth-stock-slips-as-berkshire-hathaway-exits-stake) · [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/berkshire-exit-puts-unitedhealth-valuation-031847300.html)
+
+**리제네론 -12% — Keytruda의 벽은 여전히 높다**
+$REGN(리제네론)이 오늘 새벽 프리마켓에서 -12%로 추락했다. 흑색종 3상 임상 실패가 이유다. fianlimab + cemiplimab 병용요법이 머크의 Keytruda(pembrolizumab) 대비 무진행생존기간(PFS)을 통계적으로 유의미하게 개선하는 데 실패했다. 수치 개선은 있었다(중앙 PFS 6.4개월 → 11.5개월). 그러나 통계적 유의성을 넘지 못하면 FDA 승인 신청이 불가능하다. 시티가 Buy→Neutral 다운그레이드(PT $900→$700). BMO도 목표가를 ~20% 삭감했다. 다음 주 금요일 헬스케어 테마가 이미 예열되고 있다. [BioSpace](https://www.biospace.com/drug-development/regeneron-misses-again-as-melanoma-combo-bows-to-mercks-keytruda-in-phase-3) · [Investing.com](https://www.investing.com/news/stock-market-news/regeneron-shares-fall-12-on-disappointing-melanoma-trial-data-4694797)
+
+---
+
+## 엔비디아 어닝 D-2 — 시장이 원하는 숫자 세 개
+
+수요일(5/20) AMC, NVIDIA Q1 FY27 실적 발표까지 48시간. 월가 컨센서스를 분해하면 이렇다:
+
+| 항목 | 컨센서스 | YoY |
+|------|---------|-----|
+| 매출 | $78.0B | +~120% |
+| EPS (Non-GAAP) | $1.77 | — |
+| 데이터센터 매출 | $73.2B | +87.2% |
+| 총이익률 | 74.5% | (가이던스 ~75%) |
+
+어닝콜의 진짜 질문은 세 가지다: ① 총이익률이 75% 가이던스를 유지하는가? ② Q2 가이던스는 컨센 이상인가? ③ 중국 H200 수출이 얼마나 언급되는가? KeyBanc는 오늘 목표가를 $275→**$300** 상향하며 "블랙웰 GPU 출하량 쿼터별 15~20만 대 증가"를 근거로 댔다. SOX 지수는 YTD +65%로 닷컴 버블 이후 최대 상승 페이스다. 이번 어닝은 '축제의 지속 여부'를 결정하는 분기점이다.
+
+**옵션 시장 신호**
+- P/C 비율(30일 볼륨): **0.48** → 불리시 포지셔닝
+- P/C 오픈 인터레스트: **0.84** → 균형 이동 중
+- IV 30일: **44.58%** / IV 퍼센타일: **34%** (평균 이하 → 비교적 저렴한 옵션)
+- 해석: 시장은 콜을 더 많이 샀다. 단, IV가 낮은 편이라 어닝 전 스트래들 비용이 싸지 않다는 의미도 아니다 — 절대 변동성은 충분히 크다.
+
+---
+
+🏦 스마트머니 동향
+
+**ARK Invest (5/15 기준 최신)**
+- $CBRS (Cerebras Systems) 신규 편입: ARKK·ARKW 동시 매수
+- $TSM (TSMC) 매도: $16.6M 규모
+- $AMD 매도: $5.13M 규모
+- 해석: 캐시 우드는 공개 상장 반도체 대형주(AMD·TSM)를 줄이고, AI 인프라 신흥 플레이어(Cerebras)를 늘리는 방향으로 전환 중이다.
+
+**버크셔 해서웨이 (Q1 2026 13F)**
+- $UNH (유나이티드헬스) 전량 매각: 약 500만 주
+- DAL, M, AMZN, V 등도 잇따른 매도
+- 그렉 에이블의 포트폴리오 정리는 "버핏식 장기보유"에서 "에이블식 리밸런싱"으로의 전환을 시사한다
+
+**Situational Awareness LP (Leopold Aschenbrenner — 전 OpenAI, Q1 2026 13F)**
+- 반도체 풋옵션 $8.46B (전체 포트의 62%) — 반도체 섹터 대규모 숏
+- 롱 포지션: Bloom Energy, CoreWeave (AI 인프라 전력·컴퓨트)
+- 해석: "반도체 주가는 과열, AI 인프라 근본 수요는 지속"이라는 이중 배팅. SOX +65% YTD가 부담스럽다는 스마트머니의 신호. NVDA 어닝 후 이 포지션이 맞는지 틀리는지 판가름 난다.
+
+**내부자 거래 (주요 동향)**
+- $ETN (이튼): 이사회 이사, 5/8·5/11 연속 매수 961주 (5/17 PM 기록)
+- $SOFI (소파이): Anthony Noto CEO, 5/8·5/11 연속 $500K+ 내부자 매수 (5/14 PM 기록)
+- AI/반도체 섹터 주요 내부자 거래: 데이터 업데이트 지연으로 오늘 기준 신규 확인 건 없음
+
+---
+
+## 🎙️ 이번 주 팟캐스트 — 오늘은 쉬는 날
+
+오늘(일요일)은 TBPN(평일 전용), All-In 모두 신규 에피소드가 없다. 이번 주 최신 에피소드는 오늘 오전 AM 브리핑에 포함된 Acquired "Vanguard"(2026-05-18 발행). 뱅가드 71년 역사 해부편. 오늘 밤은 Google I/O 전날 — 내일 새벽 2시(KST) 기조연설 생중계를 준비하거나, 이번 주 수요일 NVDA 어닝 컨퍼런스콜 대본(fool.com, seekingalpha.com 무료 트랜스크립트)을 미리 북마크해두는 것을 추천한다.
+
+내일(화) 예상 신규 에피소드: TBPN "Google I/O Day 1 + NVDA 어닝 프리뷰" (오전 11시 PT 생방)
+
