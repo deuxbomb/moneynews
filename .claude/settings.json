@@ -35,10 +35,11 @@
       "Bash(find *)",
       "Bash(wc *)",
       "Bash(python3 *)",
+      "Bash(rm -f *)",
       "WebSearch(*)",
       "WebFetch(*)",
       "ToolSearch(*)",
-      "mcp__github__push_files"
+      "mcp__github__*"
     ]
   }
 }
