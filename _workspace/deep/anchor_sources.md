@@ -1,21 +1,35 @@
-# 앵커 소스 — 2026-05-18 소버린 AI 딥다이브 (14:00 트리거 우선 활용)
+# 앵커 소스 — 2026-05-19 딥다이브 ($MBLY 종목 해부)
+# 14:00 트리거가 우선 활용
 
 ## 1차 자료 (필수 3건+)
 
-- [NVIDIA Newsroom] https://nvidianews.nvidia.com/news/saudi-arabia-and-nvidia-to-build-ai-factories-to-power-next-wave-of-intelligence-for-the-age-of-reasoning — 사우디-NVIDIA 공식 발표: HUMAIN + Blackwell 18,000개, 3GW 목표, AMD·Cisco·xAI 패키지
-- [Canada.ca 정부 공문] https://www.canada.ca/en/innovation-science-economic-development/news/2026/05/government-of-canada-and-telus-advance-work-to-build-sovereign-ai-infrastructure.html — 캐나다 정부 + TELUS BC 데이터센터 MOU (2026-05)
-- [HPCwire/AIwire] https://www.hpcwire.com/aiwire/2026/05/11/red-hat-and-core42-set-the-standard-for-sovereign-ai-infrastructure/ — UAE Core42 + Red Hat 소버린 AI 인프라 파트너십 (2026-05-11)
-- [Asia News Network/IDC] https://asianews.network/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/ — 아태 정부 AI 투자 7위→2위, 신뢰·인재·인프라 준비도 격차
-- [Washington Times] https://www.washingtontimes.com/news/2026/may/12/needed-congressionally-supported-rickover-plan-sovereign-ai/ — 미국 의회 소버린 AI 인프라 Rickover 플랜 제안 (2026-05-12)
+- [SEC EDGAR Q1 2026 8-K] https://www.sec.gov/Archives/edgar/data/0001910139/000110465926047231/tm2612233d1_ex99-1.htm
+  → Q1 2026 공식 실적 보도자료. 매출 $558M, 가이던스 $1.975B, $250M 자사주매입 공식 수치
+
+- [Q1 어닝콜 트랜스크립트 전문 (Benzinga)] https://www.benzinga.com/insights/news/26/04/51998067/mobileye-global-reports-q1-2026-results-full-earnings-call-transcript
+  → CEO Amnon Shashua + CFO 발언 원문. 중국 OEM 수출, Surround ADAS 고객 확대, EyeQ6 램프업 코멘트 포함
+
+- [BusinessWire Mahindra DMS 수주 발표] https://www.businesswire.com/news/home/20260323700031/en/Mobileye-Secures-Major-DMS-Production-Program-with-Leading-U.S.-Automaker
+  → 주요 미국 OEM DMS(운전자 모니터링) 대규모 양산 계약. 신규 수주 방향성 증거
+
+- [Mobileye 공식 EyeQ 기술 페이지] https://www.mobileye.com/technology/eyeq-chip/
+  → EyeQ1(2004)~EyeQ6 High(2025) 세대별 성능·전력 스펙. 시계열 분석의 기술적 백본
+
+- [SEC EDGAR FY2025 연간 8-K] https://www.sec.gov/Archives/edgar/data/0001910139/000110465926005578/tm263599d1_ex99-1.htm
+  → FY2025 전체 실적. 2023 재고위기(-52%) → 2024 안정화 → 2025 회복 시계열 구성용
 
 ## 보조 자료
 
-- [Fast Company 반대 시각] https://www.fastcompany.com/91446055/saudi-arabia-nvidia-trump-mbs-chips-uae-china — "Trump의 NVIDIA 외교는 실패한다" 비판
-- [Federal News Network] https://federalnewsnetwork.com/commentary/2026/04/the-future-of-federal-ai-building-sovereign-infrastructure-from-the-ground-up/ — 미국 연방 소버린 AI 인프라 미래 (2026-04)
-- [Rest of World] https://restofworld.org/2025/trump-middle-east-trip-ai-chip-tech-deals/ — 트럼프 중동 순방 $2.2T 테크·칩 딜 전체 맵
-- [WEF] https://www.weforum.org/stories/2026/02/shared-infrastructure-ai-sovereignty/ — 소버린 AI 공유 인프라 모델 분석
-- [Core42/Mubadala] https://www.computerweekly.com/news/366642883/Core42-partners-with-Solutions-on-Mubadala-sovereign-AI — Mubadala 소버린 AI 파트너십 확장
+- [Yahoo Finance Q1 어닝콜 하이라이트] https://finance.yahoo.com/quote/MBLY/earnings/MBLY-Q1-2026-earnings_call-544819.html
+  → 어닝콜 요약본. 빠른 팩트 확인용
 
-## SEC EDGAR 추가 탐색 필요 (14:00 트리거)
-- NVIDIA 10-K (수출 규제 섹션): https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVDA&type=10-K&dateb=&owner=include&count=10
-- ARM Holdings 10-K (소버린 AI 라이선스 섹션 확인)
+- [MBLY Mobileye IR 홈페이지] https://ir.mobileye.com/
+  → 최신 IR 자료, 프레젠테이션 슬라이드 확인용
+
+## 경쟁 비교 자료 (국제 비교 섹션용)
+
+- [AV Chips Market Report] https://www.coherentmarketinsights.com/industry-reports/autonomous-vehicle-chips-market
+  → ADAS 칩 시장 점유율 (Mobileye 65~70% vs 경쟁사)
+
+- [Mobileye Wikipedia] https://en.wikipedia.org/wiki/Mobileye
+  → Intel 인수(2017)~재상장(2022) 역사 개요. 이야기 섹션 배경용
