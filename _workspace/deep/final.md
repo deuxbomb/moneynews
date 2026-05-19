@@ -1,122 +1,119 @@
-# 하늘을 사면 얼마일까 — $1.2조 골든돔, 미국을 지킬 수 있을까
+# $3.8조가 날아갔는데 주가는 올랐다 — Mobileye, ADAS 왕좌에서 27% 성장의 다음 스텝
 
-**2026-05-17 | 🔮 미래전망 | 산업재/방산 클러스터**
-
----
-
-## 7배의 괴리 — CBO가 폭로한 숫자
-
-2026년 5월 12일, 미국 의회예산처(CBO)는 조용히 보고서 한 편을 발표했다. 그리고 방산 업계는 발칵 뒤집혔다.
-
-트럼프 대통령이 "하늘의 방패"라고 자랑해온 골든돔(Golden Dome) 미사일 방어 체계. 트럼프가 내세운 가격표는 $175B, 이후 총괄 책임자 Gen. Michael Guetlein이 "추가 우주 역량 확보"를 이유로 $185B으로 살짝 올렸다. 그런데 CBO가 계산한 숫자는 **20년간 $1.2조(trillion)**였다. 정부 추산의 **약 6.5배**다. — [Federal News Network](https://federalnewsnetwork.com/defense-news/2026/05/cbo-estimates-golden-dome-could-cost-1-2-trillion-over-20-years/)
-
-이 격차가 말하는 건 단순한 회계 오류가 아니다. 골든돔의 핵심 아이디어 — 우주에 7,800개의 무장 위성을 띄워 적의 ICBM을 우주에서 격추한다는 구상 — 그 자체가 과연 현실 가능한 꿈인지, 아니면 $1.2조짜리 환상인지를 묻고 있다. — [Fortune](https://fortune.com/2026/05/12/how-much-does-trump-golden-dome-cost-1-2-trillion-cbo/)
-
-CBO 추산을 뜯어보면 구조가 보인다. 전체 획득 비용 $1T 이상 중 **약 70%가 바로 이 우주 기반 요격체(SBI, Space-Based Interceptors)** 단 하나의 레이어다. 나머지 30%로 지상 레이더망, 운동 요격체, 레이저 타격 시스템까지 구축해야 한다. 거기에 연간 $80억의 운영비가 20년간 쌓인다. — [Defense One](https://www.defenseone.com/defense-systems/2026/05/golden-dome-cost-trillion-cbo/413485/)
-
-아이러니하게도, SBI의 실현 가능성을 가장 의심하는 사람은 다름 아닌 골든돔 총책임자 Gen. Guetlein 본인이다. 그는 의회에서 이렇게 말했다. *"오늘 우리가 모르는 것은 '이걸 대규모로, 그리고 감당할 수 있는 비용으로 할 수 있느냐'다. 그게 부스트 단계 요격의 가장 큰 도전이 될 것이다."* SBI가 최종 설계에서 빠질 수 있다는 가능성을 열어둔 발언이었다. — [Breaking Defense](https://breakingdefense.com/2026/04/golden-dome-czar-signals-space-based-interceptors-arent-guaranteed-as-dod-weighs-cost/)
-
-하원에서는 Seth Moulton 의원(민주당)이 SBI 자금 차단 수정안을 제출하며 쏘아붙였다. *"단 한 명의 증인도 기본적인 질문에 답하지 못했는데, 작동하지 않을 수도 있는 프로그램에 수천억 달러를 쓰기 전에 상세한 이행 계획부터 내놓으라."* — [Air and Space Forces](https://www.airandspaceforces.com/congress-more-insight-golden-dome-budget/)
-
-그럼에도 돈은 이미 움직이고 있다. 의회는 FY2025 조정법(One Big Beautiful Bill Act)으로 **$24.4B**을, FY2026 국방 예산에 추가 **$13.4B**을 이미 배정했다. 2026년 4월에는 Space Force가 SpaceX·Anduril·$LMT·$RTX·$NOC 등 12개 기업에 SBI 프로토타입 개발 계약 **$3.2B**을 발주했다. 2028년까지 시연이 목표다. — [DefenseScoop](https://defensescoop.com/2026/04/24/golden-dome-space-based-interceptor-missile-defense-contractors/)
-
-수천억 달러짜리 방어막의 시대가 시작됐다. 문제는 그것이 하늘을 정말로 막을 수 있느냐다.
+> **📊 종목 해부 | $MBLY | 2026-05-19**
 
 ---
 
-## 40년이 반복한 꿈 — 스타워즈에서 골든돔까지
+## 손실 38억 달러, 주가 +15%: 자율주행의 역설
 
-골든돔은 처음이 아니다. 미국은 40년 전에도 같은 꿈을 꿨다.
+2026년 4월 23일, Mobileye($MBLY)가 1분기 실적을 발표했을 때 숫자는 기묘했다. GAAP 기준 순손실이 38억 달러(약 5조 원)에 달했다. 주당 손실은 -$4.68. 언뜻 보면 망한 회사의 수치다.
 
-1983년 3월 23일, 로널드 레이건 대통령은 TV 카메라 앞에서 "소련의 핵 미사일을 발사 즉시 격추할 수 있는 방어막"을 선언했다. 전략방위구상(SDI), 언론이 '스타워즈'라고 부른 그 계획이다. 의회는 1983년부터 1993년까지 10년간 **$440억**을 쏟아부었다. 연간 최고 **$40억**이 SDI 예산으로 집행됐다. 결과는? 냉전 종식 후 SDI는 조용히 축소됐다. — [Carnegie Endowment](https://carnegieendowment.org/china/posts/2000/01/brief-history-of-ballistic-missile-defense-and-current-programs-in-the-united-states)
+그런데 주가는 그날 하루에만 15.17% 올랐다.
 
-2000년대 초, 부시 행정부는 북한·이란 같은 '불량 국가' 대응을 명목으로 지상 기반 중단단계 방어(GMD)를 알래스카·캘리포니아에 배치했다. FY2001 예산은 $47억. 그리고 지금 이 시스템의 요격 성공률은 21회 시험 중 12회 성공 — **57%**다. 미 군비통제협회는 "최근 6번 중 3번이 실패한, 고도로 각색된 시험에서 55% 성공률"이라고 비판했다. 실전에서 ICBM이 날아오면 그 성공률이 그대로 적용된다고 믿기 어렵다. — [Arms Control Center](https://armscontrolcenter.org/issues/missile-defense/gmd-frequently-asked-questions/)
+무슨 일이 벌어진 걸까? 답은 간단하다. 손실 38억 달러의 99% 이상은 '굿윌 손상(Goodwill Impairment)'이라는 비현금 회계 항목이었다. 실제 사업에서 돈이 날아간 게 아니다. Intel이 2017년 Mobileye를 153억 달러에 사들일 때 장부에 기록한 프리미엄을 지금 시가로 재평가하면서 생긴 회계 조정이다. 진짜 영업현금흐름은 플러스 7,500만 달러 — 분기 기준으로 7,500만 달러의 현금을 실제로 창출했다는 의미다. 장부 손실과 현금 손실은 전혀 다른 이야기다.
 
-2026년 FY2027 국방자율전투그룹(DAWG) 단년도 예산 제안은 **$546억**이다. SDI 최고액($40억)의 약 5배(인플레 조정 기준). 규모의 포부는 달라졌어도, 기술의 실현 가능성이라는 질문은 40년이 지난 지금도 답을 기다린다. — [GlobalSecurity](https://www.globalsecurity.org/military/agency/dod/dawg-budget.htm)
+Mobileye는 자율주행차의 '눈'을 만드는 회사다. 1999년 이스라엘의 AI 교수 겸 연구자 Amnon Shashua가 창업했다. 차량에 장착된 카메라로 도로와 장애물을 인식하는 EyeQ 칩이 핵심 제품이며, 전 세계 약 1,200개 차종에 탑재되어 있다. 주요 완성차 업체 상위 10개사 전부가 Mobileye의 고객이다. 우리가 자동차 계기판에서 보는 차선 이탈 경고, 충돌 방지 자동 브레이크 — 그 뒤에 EyeQ 칩이 있다.
 
-골든돔이 SDI와 결정적으로 다른 점이 하나 있다. SDI는 주로 지상 기반 요격을 검토했다. 골든돔은 **우주에서 쏘는 위성 무기**를 핵심으로 한다. CBO 추산에 따르면 단 10발의 적 ICBM을 동시에 격추하려면 7,800개의 무장 위성이 필요하다. 이는 현재 세계 최대 상업용 위성 군집을 훌쩍 넘어서는 규모다. 세계적으로 전례가 없는 우주 군비 구축이며, 바로 이 규모가 비용 추산을 $185B에서 $1.2T으로 7배나 벌려놓은 핵심 원인이다.
+그리고 진짜 숫자가 있었다. 매출 5억 5,800만 달러, 전년 대비 +27%. 조정 주당순이익(EPS) $0.12로 애널리스트 컨센서스 $0.09를 33% 상회. 2022년 화려한 재상장 후 2023년 재고 위기로 주가가 고점 대비 80% 이상 폭락했던 기업이, 3년 만에 처음으로 "부활"이라는 단어를 쓸 수 있는 실적을 내놓은 것이다.
 
----
-
-## 원형과 반격 — 아이언돔, NATO, 중국, 그리고 한국
-
-골든돔은 이름부터 이스라엘의 **아이언돔(Iron Dome)**에서 영감을 얻었다. 트럼프는 취임 직후 "미국판 아이언돔"을 만들겠다고 선언했다. 하지만 아이언돔과 골든돔 사이에는 넘을 수 없는 물리적 간극이 있다.
-
-아이언돔은 하마스의 아음속 로켓을 막는 시스템이다. 요격체 단가 $40,000~$200,000, 적 로켓 가격 $800. 비용 비율이 최대 250:1로 불리한데도, 이스라엘은 이 시스템에 약 $10억을 투자해 85~97%의 성공률을 달성했다. 도시 방어에는 충분한 선택이다. — [Britannica](https://www.britannica.com/topic/Iron-Dome)
-
-그런데 골든돔이 막아야 할 것은 아음속 로켓이 아니다. 마하 20을 넘는 ICBM, 풀업 기동이 가능한 극초음속 활공체, 레이더를 피하는 저고도 순항 미사일이다. 아이언돔이 야구공을 막는 포수라면, 골든돔은 레이저 유도 총알을 맨손으로 잡아야 한다. 원형은 같은 이름을 가졌지만, 임무는 근본적으로 다른 세계다.
-
-**NATO 동맹**의 반응은 이중적이다. 2025 헤이그 정상회의에서 나토는 2035년까지 GDP 5%(핵심 방위 3.5% + 안보 인프라 1.5%)를 투자하기로 합의했다. 폴란드는 이미 GDP **4.8%**를 방산에 쏟아붓고 있으며, 독일은 헌법의 부채 제한 조항까지 개정했다. 골든돔이 미국의 방어막을 확장하는 프로그램이라는 사실이 동맹국에게는 안보 보험료를 낮출 핑계가 될 수도 있고, 반대로 미국 일극체제 의존에 대한 경각심을 자극하는 계기가 될 수도 있다. — [NATO](https://www.nato.int/en/what-we-do/introduction-to-nato/defence-expenditures-and-natos-5-commitment)
-
-가장 냉정하게 반응하는 나라는 **중국**이다. 중국은 이미 골든돔에 대한 '자연스러운 대답'을 준비해두고 있다. 반접근/지역거부(A2/AD) 전략 — DF-26 대함 탄도미사일, YJ-21 극초음속 대함무기, 극초음속 활공체로 미국의 접근을 막는 전략이다. 골든돔이 ICBM 10발을 막으려면 위성 7,800기가 필요하다면, 중국이 ICBM을 100발로 늘리면? 논리적으로 위성 78,000기가 필요해진다. CBO 스스로 인정했다. *"러시아나 중국 수준의 대규모 공격을 완전히 막는 건 불가능하다."* — [SCMP](https://www.scmp.com/news/china/diplomacy/article/3351626/trumps-golden-dome-will-combat-chinas-hypersonic-weapons-cruise-missiles)
-
-예상치 못한 수혜자가 있다. **한국**이다. 한국 방산 수출은 2025년 **$154억**으로 급성장했고, DB투자증권은 2026년 $377억 달성 가능성을 제시했다. 폴란드에서만 전체 수출의 40% 이상이 나온다. 천무 유도미사일 5.6조원, 루마니아 K9 자주포 $10억. Carnegie Endowment는 2026년 2월 한국이 "단순 무기 수출국에서 신뢰받는 방산 파트너"로 전환하고 있다고 분석했다. 골든돔이 촉발한 전 세계 방산 지출 확대는 한국 방산 슈퍼사이클의 외부 엔진이 되고 있다. — [Seoul Economic Daily](https://en.sedaily.com/politics/2026/03/24/koreas-defense-exports-hit-154b-in-2025-set-to-grow-further) · [Carnegie](https://carnegieendowment.org/research/2026/02/are-long-term-nato-south-korea-defense-ties-possible)
+질문은 하나다: 이 27% 성장이 진짜 반등의 시작인가, 아니면 일시적인 반짝임인가.
 
 ---
 
-## 세 갈래 미래 — $1.2조가 실현되는 방식
+## 10년 차트가 담은 두 번의 사이클 — EyeQ 270만 개에서 2억 개까지
 
-골든돔의 미래는 세 개의 분기점에서 갈린다. 어느 길로 가느냐에 따라 수혜 기업과 규모가 완전히 달라진다.
+Mobileye의 역사는 두 개의 커다란 파도로 이루어져 있다. 첫 번째는 성장의 파도, 두 번째는 위기와 부활의 파도다.
 
-**🐂 Bull: 의회가 자금을 풀고 기술이 따라잡는다**
+**첫 번째 파도 (2004~2022)**: EyeQ 칩 1세대가 2004년 시장에 처음 나왔을 때, 연간 출하량은 사실상 집계하기 어려운 수준이었다. 2014년에 270만 개. 2020년에 1,930만 개. 그리고 2021년, 회사는 누적 출하량 1억 개를 돌파했다고 발표했다. 자동차 ADAS 역사상 유례없는 규모였다. 이 성공이 Intel의 눈에 들었고, 2017년 153억 달러에 피인수됐다. 2022년 10월, Mobileye는 Intel 날개 아래 NASDAQ에 재상장했다. IPO 당시 기업가치는 약 210억 달러. 자율주행 붐과 ADAS 수요 기대감이 폭발하던 시절이었다.
 
-의회가 20년간 $600B 이상을 배정하고 2028년 SBI 시연이 현실 가능성을 입증한다면, RTX·LMT·NOC는 수십 년 분량의 수주잔고를 확보한다. 이미 RTX 총백로그는 역대 최대 **$271B**(연간 매출 $88.6B의 약 3년치 수주잔고, +25% YoY)이며, LMT는 PAC-3 생산을 3.3배(600발→2,000발/년), THAAD를 4배(96기→400기/년)로 늘리기로 DOW와 합의했다. SpaceX는 위성 발사 역량을 독점적으로 제공하며 계약 금액이 폭발한다. 가능성 조건: 2028년 SBI 시연 성공 + 공화당 재정파 반발 억제.
+**두 번째 파도 — 추락과 회복 (2023~현재)**: 2023년 3분기, Mobileye는 충격적인 발표를 했다. 고객사들이 EyeQ 칩을 과도하게 재고로 쌓아두고 있다는 것. 2021~2022년 반도체 공급난 때 소위 "부족할까봐" 선주문한 물량이었다. 고객 보유 초과 재고만 약 600~700만 개. 이 발표 이후 Q1 2024 매출은 Q1 2023($4억 5,800만) 대비 -50% 감소할 것이라는 전망이 나왔다. 주가는 IPO 직후 고점에서 80% 이상 폭락했다.
 
-**🐻 Bear: DOGE 압박 + 기술 실패 + 정치 변화**
+그 이후 숫자의 반등 과정이다:
+- FY2023: 37M EyeQ 출하 (피크 이전 마지막 해)
+- FY2024: 31~33M 출하 가이던스 (재고 정리 구간), 누적 2억 개 출하 달성
+- FY2025: 연매출 $18억 9,400만 (+15% YoY)
+- FY2026 Q1: $5억 5,800만 (+27% YoY), EyeQ 볼륨 +28%
 
-공화당 내 재정 매파들이 $1.2T 추산을 근거로 SBI 예산을 전면 차단한다. Gen. Guetlein의 경고처럼 SBI가 최종 설계에서 빠진다. 2028년 중간선거에서 민주당이 의회 주도권을 회복하면 골든돔 자금은 급격히 삭감될 수 있다. GMD의 57% 성공률이 상기시키듯, 기술은 마케팅보다 느리다. 가능성 조건: 2028 중간선거 민주당 승리 + SBI 시연 실패 + 부채 위기 재연.
+3년 만에 재고 위기를 극복하고 성장 궤도로 복귀한 것이다. 단순한 일회성 반등이 아님을 보여주는 숫자도 있다. 8년 선행 파이프라인이 245억 달러(2022년 말 대비 +42% 증가). 새로운 고객 수주가 파이프라인을 꾸준히 늘리고 있다는 뜻이다.
 
-**⚖️ Base(가장 현실적): 지상 중심으로 규모 축소**
-
-실제로 Gen. Guetlein은 의회에서 이미 SBI 포기 가능성을 시사했고, 상·하원 세출소위원회는 "구체적인 예산 정보가 부족해 프로그램 요소별 자원 배분을 제대로 평가할 수 없다"고 지적했다. SBI는 빠지거나 대폭 축소되고, 골든돔은 GMD 업그레이드 + PAC-3/THAAD 대량 증산 + 레이더망 강화로 재편될 가능성이 가장 높다. 총비용 $400~600B 수준. 지상 기반에 집중되면 RTX와 LMT가 가장 큰 수혜를 받고, 우주 스타트업들의 기대감은 꺼진다. 중국·러시아 대규모 공격 방어는 포기하되, 북한·이란 수준 제한적 위협에 집중한다.
-
----
-
-## 방산주가 기대를 먹고 산다면, 지금 어디를 늘려야 하나
-
-지금 당장 계약이 없어도 수혜 기업의 주가는 움직인다. 기대가 미래를 당겨오는 자산군이 방산주다.
-
-**$RTX**: PAC-3·THAAD·Tomahawk 제조사. 2025년 총백로그 $271B(역대 최대, 연간 매출의 3년치). 방산 백로그 $107B. SBI 계약 12개사 중 1개. Base 시나리오에서 가장 확실한 수혜. Tomahawk 60기→1,000기+ 생산 확대가 DOW 협약으로 이미 확정. — [RTX IR](https://www.rtx.com/news/news-center/2026/01/27/rtx-reports-2025-results-and-announces-2026-outlook-)
-
-**$LMT**: THAAD·PAC-3 주도 제조사. 2025년 매출 $75B. PAC-3 3.3배·THAAD 4배 확대 협약 완료. 골든돔의 지상 레이어가 핵심이 될수록 수혜는 더 확실해진다. — [GovCon Wire](https://www.govconwire.com/articles/lockheed-2025-sales-dow-pac-3-thaad-agreements)
-
-**$NOC**: 기존 GMD 운영사 + 우주 감시 + SBI 계약사. B-21·F/A-XX·골든돔 복수 수주 가능성. RSI 32.65 극단 과매도(5/16 기준), 5/20 주주총회가 단기 촉매.
-
-**$RKLB (Rocket Lab)**: 소형 발사체 + 위성 제조로 SBI 공급망 진입 가능성. 공식적으로 골든돔을 "차세대 성장 시장"으로 지목(2026-05-15). — [Motley Fool](https://www.fool.com/investing/2026/05/15/rocket-lab-targets-missile-defense-and-golden-dome/)
-
-**진입·이탈 신호**:
-- 매수 트리거: ① 2028 SBI 시연 성공 발표, ② FY2027 국방예산 의회 통과(방산 지출 수치 확인), ③ $NOC RSI 30 하회 후 반등 확인
-- 이탈 트리거: ① SBI 공식 취소 발표, ② 의회 예산 삭감 결의, ③ 2028 중간선거 민주당 압승
+기술 진화도 숫자를 뒷받침한다. EyeQ 칩은 지금 6세대(EyeQ6 High)다. 기본 ADAS 칩 단가가 개당 40~50달러라면, EyeQ6H 기반 Surround ADAS 시스템은 150~200달러. 단가가 3~5배 뛴 고부가가치 제품 비중이 늘어나는 게 2026년 Mobileye의 핵심 변곡점이다.
 
 ---
 
-## 머뉴's Advice
+## 같은 시장, 다른 전략 — 미국·중국·한국의 ADAS 전쟁
 
-① **RTX + LMT는 Base 시나리오에서도 확실한 수혜다**: SBI가 빠져도 PAC-3·THAAD·Tomahawk 증산은 DOW 협약으로 이미 확정됐다. 순수 골든돔 베팅이 아닌, 전반적 방산 슈퍼사이클 플레이로 접근하라.
+Mobileye가 지배하는 ADAS 시장은 전 세계적으로 경쟁이 격화되고 있다. 나라별로 전략이 다르고, 그 전략들이 교차하는 지점에서 Mobileye의 진짜 기회와 위협이 드러난다.
 
-② **NOC는 과매도 역추세 + 골든돔 옵션의 이중 플레이**: RSI 32.65 극단 과매도, 5/20 주주총회가 1차 촉매. 역추세 반등도 기대할 수 있고, B-21·F/A-XX·골든돔 복수 수주 시 상당한 업사이드가 있다.
+**미국: 분열된 공급망**
 
-③ **방어막의 경제학을 잊지 마라**: 요격 비용이 발사 비용보다 항상 비쌀 때, 진정한 억지력은 방어막이 아닌 외교와 보복 능력에 있다는 역설을 역사는 반복해왔다. 골든돔이 실현되든 축소되든, 이 40년의 논쟁은 2028년 SBI 시연이 끝나야 새 챕터가 열린다. 그때까지, 방산주는 기대를 먹고 산다.
+NVIDIA DRIVE 플랫폼은 AI 헤비 컴퓨팅을 원하는 완성차에 제안하는 고성능 솔루션이다. 테슬라는 아예 자체 AI 칩과 FSD 소프트웨어를 개발해 Mobileye를 2021년 고객 명단에서 지웠다. Qualcomm의 Snapdragon Ride는 2026년 GM 수주를 공개하며 Mobileye의 핵심 고객군을 공략 중이다. 그러나 Mobileye가 약 1,200개 차종에 탑재된 '누적 관성'은 단기에 뒤집기 어렵다. 완성차 업체가 ADAS 공급사를 바꾸려면 5~7년의 설계 사이클이 필요하기 때문이다.
+
+**중국: 의외의 수혜**
+
+중국은 Mobileye의 가장 흥미로운 시장이다. 중국 OEM들은 자국 내 ADAS 기술(화웨이 MDC, 바이두 Apollo 등)을 발전시키는 한편으로, 해외 수출용 차량에는 글로벌 브랜드 인지도를 위해 Mobileye를 채택하는 경향이 있다. CEO Amnon Shashua는 "중국 OEM들의 수출 야망을 지원하는 전략이 결실을 맺고 있다"고 명시적으로 언급했다. 2026년 Q1 27% 성장의 주요 드라이버 중 하나가 바로 이 중국 OEM 수출 수요였다. 보호무역과 관세 전쟁이 격화되는 시대에, Mobileye는 중국의 글로벌 진출에 편승하는 역설적 수혜자가 됐다.
+
+**한국: 시장 포지션 찾기**
+
+현대모비스는 독자적인 ADAS 소프트웨어와 AI 개발에 공격적으로 투자하고 있다. NVIDIA, Mobileye와 정면 경쟁 선언이다. 그러나 현대차그룹의 일부 차종에는 여전히 Mobileye EyeQ가 탑재된다. 한국 시장에서 Mobileye는 경쟁자인 동시에 파트너인 복잡한 관계를 유지 중이다. 삼성전자의 Exynos Auto V920은 인포테인먼트와 자율주행을 통합하는 시도지만, ADAS 전용 칩으로서의 Mobileye와는 아직 직접 경쟁 영역이 다르다는 평가다.
+
+**일본/유럽: Mobileye의 전통 텃밭**
+
+일본 완성차(Toyota, Honda)와 유럽 프리미엄 브랜드(VW, Porsche, BMW)는 Mobileye의 전통적 강세 지역이다. 2026년 1분기, Mobileye는 VW 그룹과의 EyeQ6H 기반 L2++(SuperVision)·L3(Chauffeur) 프로그램에서 중요한 마일스톤을 달성했다고 발표했다. Porsche 차량에서 미국 도로를 EyeQ6H SuperVision으로 주행한 결과가 "outstanding"이라는 CEO 발언도 나왔다.
+
+---
+
+## 이 낙관론이 틀릴 수 있는 이유 — Q2 역성장과 Intel 오버행이라는 두 개의 지뢰
+
+Mobileye의 부활 서사에는 두 개의 불편한 사실이 있다.
+
+**지뢰 1: Q2 2026 역성장 예고**
+
+Q1 2026에서 +27%를 찍고 바로 다음 분기인 Q2 2026 가이던스는 -6% YoY다. 성장이 일시적 기저 효과였는지, 아니면 계절적 패턴인지를 구분해야 한다. 경영진은 Q1에 안전재고 정규화(Safety Stock Normalization)가 집중됐고 나머지 분기에는 이 효과가 사라진다고 설명했다. 그러나 시장에는 "2023년 재고 위기가 다시 오는 것 아니냐"는 회의론이 여전하다. Q2 실적이 예상보다 나쁠 경우, $3.8B 굿윌 손상을 촉발했던 "시가총액 하락"이 재현될 수 있다.
+
+**지뢰 2: Intel의 77~88% 지분 오버행**
+
+Intel은 Mobileye 지분을 77~88% 보유하고 있다. Intel 자체가 심각한 재무 압박을 받고 있는 상황에서, 이 지분은 언제든 현금화 대상이 될 수 있다. 이미 선례가 있다. Intel은 Mobileye 지분을 15억 달러어치 매각한 바 있다. 표면적으로 Intel은 "다수 지분을 매각할 계획이 없다"고 했지만, 그 '다수'의 기준이 51%인지 더 높은 수준인지는 불분명하다. 대규모 블록딜이 나올 경우 주가 압박은 불가피하다.
+
+**Bull Case**: Q2 역성장이 실제로는 보수적 가이던스였음을 Q3 어닝에서 증명한다면, 그리고 EyeQ6H Surround ADAS 19M 단위 파이프라인이 순조롭게 램프업된다면, 현재 주가는 상당히 저평가다. 애널리스트 51명 컨센서스 목표가 중앙값이 $17.01이다. *행동 기준: Q2 실제 매출이 가이던스(-6%) 보다 낫고, EyeQ6H 신규 수주 뉴스가 더 나온다면 진입 신호로 삼는다.*
+
+**Bear Case**: Q2가 예상대로 -6% 역성장이고, Intel이 추가 지분 매각에 나서며, Qualcomm이 GM 수주를 넘어 더 많은 고객을 공략한다면, 굿윌 손상을 촉발한 시가총액 하락이 계속될 수 있다. *행동 기준: Intel 블록딜 뉴스가 나오는 즉시 관망 전환. Q3 실적도 역성장이면 재평가 필요.*
+
+---
+
+## 투자자의 시계 — 19M 유닛과 $250M 자사주매입이 말하는 것
+
+Mobileye를 지금 사야 할지 결정하기 위한 핵심 체크포인트 세 가지를 제시한다.
+
+**체크포인트 1: Q2 2026 실적 확인**
+
+Q2 가이던스 -6% YoY는 보수적 설정일 가능성이 있다. 경영진은 "나머지 3분기에는 충분한 보수성이 내재되어 있다"고 말했다. Q2 실적이 가이던스를 상회한다면 — 즉 -6%보다 나은 결과가 나온다면 — 이것이 진입 신호가 될 수 있다. 반대로 가이던스대로 역성장이 확인되면 Q3까지 관망이 합리적이다.
+
+**체크포인트 2: EyeQ6H Surround ADAS 램프업**
+
+2026년부터 EyeQ6H 기반 Surround ADAS 차량 생산이 본격화된다. 현재 수주된 19M 단위 이상이 실제로 생산라인에 올라가는지가 관건이다. ASP $150~200짜리 제품의 비중이 늘어날수록 매출총이익률 개선과 매출 성장이 동시에 나타난다. Q3~Q4 실적에서 이 신호를 포착하는 것이 핵심이다.
+
+**체크포인트 3: Intel 지분 동향**
+
+Intel의 Mobileye 지분 변동은 예고 없이 주가를 흔든다. Intel이 지분을 추가 매각한다는 뉴스가 나오면 단기 매도 압력을 각오해야 한다. 반대로 Intel이 "전략적 파트너십 강화" 등의 이유로 지분을 유지하거나 오히려 Mobileye에 추가 기술 지원을 약속한다면 신뢰 신호가 된다.
+
+**머뉴's Advice**
+
+① **지금 당장 매수보다는 분할 매수**: Q2 실적 발표 전후 변동성이 크다. 지금 30%, Q2 실적 확인 후 30%, EyeQ6H 첫 양산 확인 뉴스 후 40%로 분할하는 접근이 합리적이다. 애널리스트 컨센서스 목표가 중앙값 $17.01 대비 현재 주가 괴리가 클수록 첫 진입 비중을 높이는 것도 방법이다.
+
+② **$250M 자사주매입은 중요한 신호**: 경영진이 자사주를 시장에서 산다는 것은 "현재 주가가 저평가"라는 내부 신호다. 2026년 내 주당 $10~$17 구간이 주요 지지선이 될 전망이다.
+
+③ **리스크 한도 설정**: Intel 오버행이 현실화될 경우 주가가 단기에 -20%까지 빠질 수 있다. 포트폴리오의 2~3% 이내로 비중을 관리하고, -15% 손절선을 미리 설정해두는 것이 안전하다. 자율주행 기술 전환이 예상보다 빠르게 일어날수록 Mobileye의 역할은 더 커진다 — 하지만 그 속도는 아직 아무도 모른다.
 
 ---
 
 ## 출처
-
-- [Federal News Network](https://federalnewsnetwork.com/defense-news/2026/05/cbo-estimates-golden-dome-could-cost-1-2-trillion-over-20-years/) — CBO $1.2T 추산
-- [Defense One](https://www.defenseone.com/defense-systems/2026/05/golden-dome-cost-trillion-cbo/413485/) — CBO 비용 구조 분석
-- [NPR](https://www.npr.org/2026/05/13/g-s1-121780/trumps-golden-dome-cost) — 트럼프 추산 vs. CBO
-- [Fortune](https://fortune.com/2026/05/12/how-much-does-trump-golden-dome-cost-1-2-trillion-cbo/) — SBI 위성 7,800기 추산
-- [DefenseScoop](https://defensescoop.com/2026/04/24/golden-dome-space-based-interceptor-missile-defense-contractors/) — Space Force 12개사 $3.2B 계약
-- [Breaking Defense](https://breakingdefense.com/2026/04/golden-dome-czar-signals-space-based-interceptors-arent-guaranteed-as-dod-weighs-cost/) — Gen. Guetlein 인용
-- [RTX Press Release](https://www.rtx.com/news/news-center/2026/01/27/rtx-reports-2025-results-and-announces-2026-outlook-) — RTX 2025 실적·백로그
-- [GovCon Wire – LMT](https://www.govconwire.com/articles/lockheed-2025-sales-dow-pac-3-thaad-agreements) — LMT PAC-3·THAAD 생산 확대
-- [Air and Space Forces](https://www.airandspaceforces.com/congress-more-insight-golden-dome-budget/) — Seth Moulton 인용
-- [Arms Control Center – GMD](https://armscontrolcenter.org/issues/missile-defense/gmd-frequently-asked-questions/) — GMD 성공률 57%
-- [Britannica – Iron Dome](https://www.britannica.com/topic/Iron-Dome) — 아이언돔 성능·비용
-- [Carnegie Endowment BMD](https://carnegieendowment.org/china/posts/2000/01/brief-history-of-ballistic-missile-defense-and-current-programs-in-the-united-states) — SDI 역사 지출
-- [GlobalSecurity DAWG](https://www.globalsecurity.org/military/agency/dod/dawg-budget.htm) — FY2027 DAWG 예산 $546억
-- [NATO Official](https://www.nato.int/en/what-we-do/introduction-to-nato/defence-expenditures-and-natos-5-commitment) — NATO 5% GDP 목표
-- [Seoul Economic Daily](https://en.sedaily.com/politics/2026/03/24/koreas-defense-exports-hit-154b-in-2025-set-to-grow-further) — 한국 방산 수출 $154억
-- [Carnegie – Korea](https://carnegieendowment.org/research/2026/02/are-long-term-nato-south-korea-defense-ties-possible) — K방산 전략 파트너 전환
-- [SCMP](https://www.scmp.com/news/china/diplomacy/article/3351626/trumps-golden-dome-will-combat-chinas-hypersonic-weapons-cruise-missiles) — 중국 A2/AD 전략
-- [Motley Fool – RKLB](https://www.fool.com/investing/2026/05/15/rocket-lab-targets-missile-defense-and-golden-dome/) — Rocket Lab 골든돔 타겟
+- [BusinessWire](https://www.businesswire.com/news/home/20260423384609/en/Mobileye-Releases-First-Quarter-2026-Results-Updates-Full-Year-Outlook-and-Announces-a-%24250-Million-Share-Repurchase-Program) — Mobileye Q1 2026 실적 공식 보도자료
+- [Mobileye IR](https://ir.mobileye.com/news-releases/news-release-details/mobileye-releases-first-quarter-2026-results-updates-full-year) — Q1 2026 실적 발표 공식
+- [SEC EDGAR 8-K Q1 2026](https://www.sec.gov/Archives/edgar/data/0001910139/000110465926047231/tm2612233d1_ex99-1.htm) — SEC 8-K 원문
+- [SEC EDGAR 8-K FY2025](https://www.sec.gov/Archives/edgar/data/0001910139/000110465926005578/tm263599d1_ex99-1.htm) — FY2025 연간 실적
+- [Mobileye IR (Surround ADAS)](https://www.mobileye.com/news/mobileye-surround-adas-adds-second-top-10-automaker/) — Surround ADAS Top 10 OEM 수주
+- [Mobileye IR (SuperVision 파이프라인)](https://ir.mobileye.com/news-releases/news-release-details/mobileye-growth-pipeline-fueled-supervision-and-future-av-wins) — SuperVision·AV 파이프라인 $24.5B 발표
+- [StockTitan (Proxy 2026)](https://www.stocktitan.net/sec-filings/MBLY/def-14a-mobileye-global-inc-definitive-proxy-statement-393ca6d9f08f.html) — DEF 14A Intel 지분 구조
+- [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/mobileye-global-q1-earnings-call-183827448.html) — Q1 어닝콜 하이라이트
+- [The Register](https://www.theregister.com/2024/01/05/mobileye_shares_crash/) — 2024년 재고 위기 경위
+- [Times of Israel](https://www.timesofisrael.com/intel-to-sell-1-5-billion-of-mobileye-stake-via-secondary-share-offering/) — Intel 지분 매각 선례

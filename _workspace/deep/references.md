@@ -1,40 +1,30 @@
-# 레퍼런스 기사 분석 — 2026-05-18 (소버린 AI 테크트렌드)
+# 레퍼런스 기사 분석 (2026-05-19)
 
 ## 레퍼런스 기사
 
-### 1. "The Sovereign AI Blueprint: Why Nations Must Build Their Own Intelligence Grid" — Medium (Apr 2026)
-URL: https://medium.com/@koopingshung/the-sovereign-ai-blueprint-why-nations-must-build-their-own-intelligence-grid-52a3e8977663
+### 1. StocksToTrade — "Mobileye Global MBLY Surges After Q1 Earnings Beat And Buyback"
+- URL: https://stockstotrade.com/news/mobileye-global-inc-mbly-news-2026_05_13/
+- 구조: 짧은 뉴스 기사 형식 → 도입(주가 급등 사실) → 실적 핵심 수치 → 자사주매입 → 전망 한 줄
+- 문체: 직접적, 투자자 중심, 숫자 우선
+- 도입부: 주가 움직임 수치(+15%)로 시작 → 관심 유도
+- 배울 점: 가장 극적인 숫자로 시작하는 리드. 굿윌 손상이라는 "나쁜 숫자"를 먼저 처리하고 좋은 숫자로 전환하는 서사 구조
 
-- **구조**: "왜 지금인가" 위기감 리드 → 소버린 AI 정의 → 국가별 사례 → 인프라 요건 5가지 → 투자 시사점으로 마무리
-- **문체**: 테크 전문 독자 대상, 구체적 숫자로 권위 구축. "Intelligence Grid"처럼 새로운 개념을 먼저 제시하고 설명하는 방식
-- **도입부 전략**: 단일 사건(AI 모델 의존성 위기)에서 시작해 "이게 왜 국가 안보 문제인가"로 빠르게 확장
-- **숫자 활용**: 각국 투자액을 단순 나열하지 않고 "GDP 대비", "군사 예산과 비교" 방식으로 맥락화
-- **배울 점**: ① 오프닝을 특정 장면/인물의 행동으로 시작해 공감 유도 ② 각국을 나열하되 비교표 대신 서사로 연결 ③ "주권"이라는 단어를 AI에 처음 적용한 역사적 맥락 언급
+### 2. Ainvest.com — "Mobileye Q1 2026: The $3.8B Loss That Doesn't Matter and the 27% Growth Story That Does"
+- URL: https://www.ainvest.com/news/mobileye-q1-2026-3-8b-loss-doesn-matter-27-growth-story-2604/
+- 구조: 제목이 전체 서사를 요약 → GAAP vs 조정 지표 대비 → 성장 동인 분석 → 의미 해석
+- 문체: 역설적 제목으로 독자 호기심 자극, 두 숫자의 대비 활용
+- 도입부: "The $3.8B Loss That Doesn't Matter" — 손실이 의미 없다는 역설로 시작
+- 숫자 활용: GAAP vs 조정 지표를 명확히 구분하여 혼란 방지
+- 배울 점: 복잡한 회계 개념(굿윌 손상)을 투자자 언어로 단순화. 두 개의 상반된 숫자를 제목에 넣어 클릭 유도
 
-### 2. "AI Sovereignty and the New Cold War" — Modern Diplomacy (May 2026)
-URL: https://moderndiplomacy.eu/2026/05/15/ai-sovereignty-and-the-new-cold-war-why-nations-are-racing-for-sovereign-ai/
+### 3. Kavout — "Is Mobileye Global (MBLY) a Deep Value Play or a Falling Knife"
+- URL: https://www.kavout.com/market-lens/is-mobileye-global-mbly-a-deep-value-play-or-a-falling-knife
+- 구조: 질문형 제목 → 현재 상황 진단 → Bull case → Bear case → 결론(판정 유보)
+- 문체: 분석적이나 결론을 독자에게 맡기는 열린 형식
+- 배울 점: "Deep Value or Falling Knife" 이분법 프레임이 투자자의 실질적 고민을 정확히 짚음. 판정을 유보하는 결론이 오히려 신뢰도를 높임.
 
-- **구조**: 지정학적 긴장감으로 시작 → "새로운 냉전" 프레임 설정 → 미국/중국 양극화 → 중간국들의 선택 → 한국·일본·유럽의 포지셔닝 → 미래 전망
-- **문체**: 외교·정책 전문가 톤. 강력한 은유("New Cold War", "Digital Arms Race") 활용. 독자를 국가 정책 결정자 시선으로 끌어들임
-- **도입부 전략**: 역사적 유사성 제시("냉전 시대 핵무기처럼, 오늘날 AI 컴퓨트는...") 즉각적 프레임 형성
-- **숫자 활용**: 퍼센트·달러 수치를 지정학 맥락과 결합. "미국+중국이 전 세계 AI 투자의 65%" 같은 통계로 압도적 격차를 시각화
-- **배울 점**: ① 두 강대국 경쟁 구도로 먼저 프레임 설정, 이후 제3세계 선택지를 논의하는 흐름 ② 각 나라의 선택을 "필연"이 아닌 "전략적 결정"으로 표현 ③ 반대 시각(이 모든 것이 과장된 우려인가?)을 짧게 다루고 넘어가는 균형
-
-### 3. IDC Asia Pacific 보고서 요약 기사들 (May 13, 2026)
-URL: https://www.media-outreach.com/news/singapore/2026/05/13/464368/
-
-- **구조**: 헤드라인 수치 → 보고서 핵심 발견 3가지 → 각 항목 상세 → 전문가 코멘트 → 시사점
-- **문체**: 보도자료 형태지만 "7위→2위"처럼 변화량을 강조해 동적 이미지 생성
-- **도입부 전략**: 가장 놀라운 숫자로 시작 ("1년 만에 7위→2위" = 변화의 속도감)
-- **숫자 활용**: 단순 순위가 아닌 "1년 만에 몇 계단 상승"으로 변화율 강조. 퍼센트(76.9%, 46.1%, 3.1%)를 계층적으로 제시
-- **배울 점**: ① 작은 수치(3.1% 실제 투자)를 큰 수치(76.9% 동의)와 대비해 "말과 행동의 괴리"라는 내러티브 생성 ② 지역별 데이터를 구체적 국가 이름으로 연결 ③ 도전과 기회를 동시에 제시해 독자에게 균형 있는 그림 제공
-
----
-
-## 머뉴 스타일 차별화 포인트
-
-기존 레퍼런스들의 공통 약점:
-1. 숫자 나열 후 해석 부족 → **머뉴는 "이 숫자가 왜 놀라운가"를 반드시 1문장 추가**
-2. 각국을 평면적으로 나열 → **머뉴는 사우디(야망), UAE(실행), 캐나다(조용한 진지함), 한국(빠른 팔로워) 등 각국의 "캐릭터"를 부여**
-3. 투자 시사점이 막연함 → **머뉴는 구체적 티커($NVDA, $ANET 등)와 진입/관망 조건 명시**
-4. 반대 시각 생략 → **머뉴는 "하드웨어≠AI 역량" 비판을 정면으로 다루며 균형**
+## 우리 글에 적용할 기법
+1. **역설적 리드**: "$3.8B 손실인데 주가는 올랐다" 구조로 시작 (Ainvest 참고)
+2. **GAAP vs 조정 명확 구분**: 독자 혼란 방지
+3. **질문형 소제목**: 독자의 실질적 고민을 소제목으로 (Kavout 참고)
+4. **결론 열어두기**: Accept/Reject가 아닌 "이 조건이 충족되면 매수, 아니면 관망" 형식

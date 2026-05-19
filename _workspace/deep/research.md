@@ -1,160 +1,139 @@
-# 딥다이브 리서치 노트 — 2026-05-18
+# 리서치 노트 — Mobileye $MBLY 종목 해부 (2026-05-19)
 
-## 테마
-국가 AI 공장 전쟁 — 소버린 AI: 사우디·UAE·캐나다·아태가 쏟아붓는 $1000억의 지도
-
-## 유형
-📡 테크 트렌드 — 여러 국가/기업이 같은 방향(국가 AI 인프라 주권화) → 산업 흐름 조망
-
-## 선정 이유
-2026년 5월 들어 HUMAIN(사우디), G42(UAE), TELUS+캐나다 정부, 프랑스 Mistral, 한국 AI기본법이 동시다발로 터지며 "소버린 AI(Sovereign AI)" 경쟁이 가시화됐다. NVIDIA가 매 딜의 공통 수혜자로 등장하고, IDC가 아태 정부 AI 투자 우선순위가 1년 만에 7위→2위로 급등했다는 데이터를 5/13 발표했다. 글로벌 소버린 AI 지출이 2026년 $1000억 돌파 전망이라는 맥락에서, 개별 헤드라인을 엮어 구조적 흐름으로 해석해야 할 시점이다.
+## 1차 자료 인용 건수: 7건 ✅ (기준 3건 이상)
+1. SEC EDGAR 8-K Q1 2026 (04/23/2026): https://www.sec.gov/Archives/edgar/data/0001910139/000110465926047231/tm2612233d1_ex99-1.htm
+2. Mobileye IR 공식 Q1 2026 보도자료: https://ir.mobileye.com/news-releases/news-release-details/mobileye-releases-first-quarter-2026-results-updates-full-year
+3. BusinessWire Q1 2026 실적 발표: https://www.businesswire.com/news/home/20260423384609/en/Mobileye-Releases-First-Quarter-2026-Results-Updates-Full-Year-Outlook-and-Announces-a-%24250-Million-Share-Repurchase-Program
+4. SEC EDGAR FY2025 8-K (연간 실적): https://www.sec.gov/Archives/edgar/data/0001910139/000110465926005578/tm263599d1_ex99-1.htm
+5. Mobileye 공식 Surround ADAS Top 10 OEM 수주 발표: https://www.mobileye.com/news/mobileye-surround-adas-adds-second-top-10-automaker/
+6. Mobileye IR SuperVision & 파이프라인 발표: https://ir.mobileye.com/news-releases/news-release-details/mobileye-growth-pipeline-fueled-supervision-and-future-av-wins
+7. SEC EDGAR DEF 14A Proxy 2026 (Intel 지분 구조): https://www.stocktitan.net/sec-filings/MBLY/def-14a-mobileye-global-inc-definitive-proxy-statement-393ca6d9f08f.html
 
 ---
 
-## 1차 자료 인용 — 총 7건
+## 테마
+Mobileye $MBLY — Intel이 만들고, Intel이 짓눌렀지만, 자율주행 수요가 되살린 ADAS 왕의 부활
 
-| # | 소스 유형 | 내용 요약 | URL |
-|---|-----------|-----------|-----|
-| 1 | NVIDIA 공식 보도자료 | HUMAIN-NVIDIA 전략적 파트너십 발표 (AI팩토리 구축) | https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia |
-| 2 | 캐나다 정부 공식 발표 (Canada.ca) | 캐나다 정부+TELUS MOU 체결, 소버린 AI 데이터센터 클러스터 구축 | https://www.canada.ca/en/innovation-science-economic-development/news/2026/05/government-of-canada-and-telus-advance-work-to-build-sovereign-ai-infrastructure.html |
-| 3 | IDC 공식 연구 보고서 (2026-05-13) | 아시아태평양 정부 소버린 AI 투자 우선순위 7위→2위 | https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/ |
-| 4 | WEF 보고서 "Rethinking AI Sovereignty" (2026) | 연간 AI 인프라 투자 $4000억(2030), McKinsey $5000-6000억 주권 시장 | https://www.weforum.org/publications/rethinking-ai-sovereignty/ |
-| 5 | WEF 보고서 "AI Infrastructure in the Age of Sovereignty" (2026-05) | AI 인프라가 지정학적 경쟁 핵심으로 부상, 디지털 대사관 개념 | https://reports.weforum.org/docs/WEF_AI_Infrastructure_in_the_Age_of_Sovereignty_Requirements_Strategies_and_a_Trusted_Framework_for_Digital_Embassies_2026.pdf |
-| 6 | NVIDIA 공식 블로그 — Jensen Huang, World Governments Summit | "모든 나라가 자국 지능을 소유해야 한다" 발언, 소버린 AI 개념 공식화 | https://blogs.nvidia.com/blog/world-governments-summit/ |
-| 7 | CFR (미국외교협회) 분석 (2026) | AI 칩 수출통제 정책 비판: "전략적으로 비일관적이고 시행 불가능" | https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable |
+## 유형
+📊 종목 해부 (한 종목 완전 분해 — 관심종목 외 발굴)
+
+## 선정 이유
+Q1 2026에서 매출 +27%, 조정 EPS 컨센서스 대비 서프라이즈. $3.788B 비현금 굿윌 손상으로 GAAP 손실이 $3.8B임에도 주가 +15%. 2023년 재고 위기로 -80% 폭락했던 주가의 본격 반등 국면 진입 여부가 핵심 질문. 화요일 EV/자율주행 테마 클러스터 정렬.
 
 ---
 
 ## 팩트 (출처 필수)
 
-### 🇸🇦 사우디아라비아 — HUMAIN + NVIDIA
+### Q1 2026 실적 (SEC 8-K, BusinessWire 보도자료)
+1. Q1 2026 매출: $558M (+27% YoY, Q1 2025 $438M) — 출처: BusinessWire Q1 2026
+2. 조정 EPS: $0.12 (컨센서스 $0.09 → +$0.03 서프라이즈) — 출처: BusinessWire Q1 2026
+3. GAAP EPS: -$4.68 (굿윌 손상 $3.788B 포함) — 출처: SEC 8-K Q1 2026
+4. GAAP 매출총이익률: 49% (Q1 2025 47%) — 출처: BusinessWire Q1 2026
+5. 조정 매출총이익률: 66% (Q1 2025 69%) — 출처: BusinessWire Q1 2026
+6. 영업현금흐름: $75M — 출처: WebSearch (BusinessWire 인용)
+7. EyeQ 볼륨 증가: 28% YoY — 출처: WebSearch (Q2 가이던스 기사 인용)
+8. 굿윌 손상: $3.788B 비현금, Intel 2017년 $15.3B 인수 시 생성된 굿윌, 시가총액 하락+거시 불확실성이 트리거 — 출처: WebSearch (ainvest.com, SEC 8-K 인용)
 
-1. HUMAIN은 사우디아라비아 국부펀드(PIF) 산하 AI 스타트업. 2026년 5월 NVIDIA와 전략적 파트너십 체결. — 출처: [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia)
+### FY2026 가이던스 (BusinessWire 보도자료)
+9. FY2026 매출 가이던스: $1.935B~$2.015B (중간값 $1.975B, 기존 대비 2% 상향) — 출처: BusinessWire Q1 2026
+10. FY2026 조정 영업이익 가이던스: $185M~$235M — 출처: WebSearch (BusinessWire 인용)
+11. Q2 2026 매출 가이던스: -6% YoY 역성장 예상 — 출처: WebSearch (Investing.com 인용)
+12. FY2026 EyeQ 출하 예상: 약 38M 개 — 출처: WebSearch (분기 가이던스 기사)
 
-2. 1차 배포 규모: NVIDIA GB300 Grace Blackwell 슈퍼컴퓨터 **18,000대**, InfiniBand 네트워킹. 리야드·담맘 2개 거점에서 각각 **100MW** 용량으로 2026년 2분기 가동 예정. — 출처: [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia)
+### 역사적 수치
+13. FY2025 전체 매출: $1,894M (+15% YoY) — 출처: WebSearch (Mobileye 뉴스/SEC FY2025 8-K 인용)
+14. 2023년 EyeQ 출하: 37M 개 — 출처: WebSearch (SEC 8-K FY2023 인용)
+15. 2024년 EyeQ 출하 가이던스: 31-33M 개 (재고 위기 정리) — 출처: WebSearch (The Register 기사)
+16. 2021년 EyeQ 누적 1억 개 출하 — 출처: WebSearch (Mobileye 100M 마일스톤 블로그)
+17. 2024년 EyeQ 누적 2억 개 출하 — 출처: WebSearch (Mobileye 뉴스)
+18. 2014년 연간 EyeQ 출하: 270만 개 — 출처: WebSearch (Mobileye EyeQ 블로그)
+19. 2020년 연간 EyeQ 출하: 1,930만 개 — 출처: WebSearch (Mobileye EyeQ 블로그)
+20. Q1 2023 매출: $458M; Q1 2024 예상 매출: -50% 감소 (재고 위기) — 출처: WebSearch (The Register 기사)
 
-3. 장기 목표: 5년간 최대 **500MW** 용량, "수십만 개"의 NVIDIA 최첨단 GPU. HUMAIN은 3년간 최대 **60만 개** NVIDIA GPU 배포 계획. — 출처: [ThinkAutomated](https://thinkautomated.io/news/u-s-oks-blackwell-exports-to-uae-and-saudi-as-humain-targets-600k-gpus)
+### 기업 역사
+21. 1999년 이스라엘 창립 (Amnon Shashua 교수) — 출처: WebSearch (Cognitive Market Research)
+22. 2017년 Intel이 $15.3B에 인수 — 출처: WebSearch (jerrywus.com / SEC 424B4)
+23. 2022년 10월 NASDAQ 재상장, IPO 가치 약 $21B, Intel이 5~10% 지분만 매각 — 출처: WebSearch (247WallSt)
+24. 재고 과잉: 고객 보유 초과 재고 6-7M EyeQ 단위 발견 (2023 Q3-Q4) — 출처: WebSearch (SEC 8-K FY2023 인용)
 
-4. xAI(일론 머스크)와 HUMAIN이 사우디아라비아에 **500MW** 데이터센터 공동 프로젝트 발표. Adobe, Qualcomm, AMD, Cisco도 HUMAIN과 딜 체결. — 출처: [StockTwits/Axios](https://stocktwits.com/news-articles/markets/equity/elon-musk-announces-xai-humain-nvidia-to-launch-500-mw-project/cLPohxfREBs)
+### Intel 지분 오버행 (SEC Proxy 2026)
+25. Intel 현재 Mobileye 지분: 약 77~88% (출처별 상이) — 출처: WebSearch (StockTwits, Times of Israel)
+26. Intel의 $1.5B 지분 매각 선례 — 출처: WebSearch (Times of Israel)
+27. Intel 2026년 Mobileye 자사주매입: $100M (6.23M주, 주당 $16.04625) — 출처: Proxy 2026 (StockTitan)
+28. Intel 공식 입장: "다수 지분 매각 계획 없다" — 출처: WebSearch (TT News)
 
-### 🇦🇪 UAE — G42 / Stargate UAE
+### 자사주매입 및 Mentee Robotics
+29. $250M 자사주매입 프로그램 발표 (2026년 4월 23일) — 출처: BusinessWire Q1 2026
+30. Mentee Robotics 인수: $900M ($612M 현금 + 26.2M주), CES 2026 발표, 2026년 PoC/2028년 양산 목표 — 출처: WebSearch (AIBusiness, FinancialContent)
 
-5. Stargate UAE: G42(아부다비 AI 챔피언)이 OpenAI·Oracle과 공동으로 구축하는 **1GW** AI 캠퍼스. 아부다비 남쪽 사막 약 19km² 부지. 총 비용 **$300억 이상** 예상. — 출처: [G42 공식](https://www.g42.ai/resources/news/global-tech-alliance-launches-stargate-uae)
+### ADAS 파이프라인 및 시장 (Mobileye IR)
+31. Mobileye 8년 파이프라인: $24.5B (2022년 말 대비 +42%) — 출처: Mobileye IR
+32. EyeQ6H Surround ADAS 예상 납품: 19M+ 단위 (VW + 미국 OEM + Mahindra) — 출처: WebSearch (Yahoo Finance Mobileye Surround 기사)
+33. SuperVision 기반 차량: 2026년 약 120만 대 예상 — 출처: WebSearch (Mobileye IR SuperVision 기사)
+34. Surround ADAS ASP: $150-200 (기본 ADAS 칩 $40-50 대비 3-5배) — 출처: WebSearch (Yahoo Finance 기사)
+35. Mobileye 기술 탑재 차량: 약 1,200개 차종 — 출처: WebSearch (ADAS 시장 기사)
 
-6. 1단계: **200MW** Grace Blackwell GB300 클러스터, 2026년 말 가동. G42 CEO: 이후 "분기당 200~500MW" 추가 확장, 궁극적으로 **5GW** 목표. — 출처: [Digital Dubai](https://www.digitaldubai.ai/dubai-updates/stargate-uae-g42-ai-infrastructure-cluster-200mw-first-phase-2026)
+### CEO 발언 (어닝콜 — Yahoo Finance/WebSearch 인용)
+36. Amnon Shashua: "very good results" (Q1 2026 결과) — 출처: WebSearch
+37. Amnon Shashua: "We also secured an important design win with Mahindra which adds a third Surround ADAS customer and a second customer for our next-generation SuperVision product" — 출처: WebSearch (Yahoo Finance)
+38. Amnon Shashua: Porsche SuperVision 미국 프리프로덕션 테스트에서 "outstanding" 성능 — 출처: WebSearch (Yahoo Finance)
 
-7. G42: 미국 정부로부터 **35,000개** 블랙웰 칩 수출 허가 확보. 트럼프 행정부가 Biden 시대 규제 완화, 보안 공약 조건으로 UAE·사우디에 총 **70,000개** 첨단 AI 칩 승인. — 출처: [G42 공식](https://www.g42.ai/resources/news/g42-receives-us-approval-advanced-ai-chip-exports-enabling-full-scale-deployment-trusted-ai-infrastructure)
+### 애널리스트 목표가
+39. TD Cowen: $10 (Buy), Goldman Sachs: $9 (Neutral), UBS: $10 (Neutral) — 출처: WebSearch
+40. 애널리스트 컨센서스 중앙값: $17.01 (51명 기준, 범위 $12-$31.10) — 출처: WebSearch (MarketBeat)
+41. 주가 5/13 하루 상승: +15.17% — 출처: WebSearch / 테마 파일
 
-### 🇨🇦 캐나다 — TELUS + 연방정부
-
-8. 2026년 5월, 캐나다 혁신부와 TELUS가 "Enabling Large-Scale Sovereign AI Data Centres" 이니셔티브 하에 MOU 체결. BC 하이드로 청정 재생에너지 **85MW** 확보. — 출처: [Canada.ca](https://www.canada.ca/en/innovation-science-economic-development/news/2026/05/government-of-canada-and-telus-advance-work-to-build-sovereign-ai-infrastructure.html)
-
-9. 3개 시설: 캠룹스(2026년 말 가동), 밴쿠버 M3(2026년 말~2028), 150 West Georgia(2029). 2032년까지 총 150MW, **6만 개 GPU+** 목표. 전력의 98%+ 재생에너지. — 출처: [Canada Newswire](https://www.newswire.ca/news-releases/telus-and-government-of-canada-advance-work-to-scale-canada-s-sovereign-ai-infrastructure-854223505.html)
-
-### 🇫🇷 프랑스 — Mistral + Fluidstack
-
-10. Fluidstack: €100억 투자, 최신세대 AI 칩 **50만 개**, 1GW 용량, 프랑스 핵에너지 기반. 1단계 2026년 가동 예정. — 출처: [USFunds/WEF](https://www.usfunds.com/resource/nations-are-spending-billions-to-make-their-own-sovereign-ai/)
-
-11. Mistral AI: $8.3억 부채금융 조달(2026-03-30), NVIDIA GB300 **13,800개**, 44MW, 파리 남쪽 Bruyères-le-Châtel. 2026년 6월 가동 예정. — 출처: [CNBC](https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html)
-
-12. MGX(아부다비 $1000억 AI펀드)+Bpifrance+NVIDIA+Mistral: 파리 근교 **1.4GW** AI 캠퍼스. 2026년 하반기 착공, 2028년 운영. — 출처: [thenextweb/DCD](https://thenextweb.com/news/mistral-ai-830m-debt-data-centre-paris)
-
-### 🇰🇷 한국
-
-13. 한국 정부, 국가성장펀드에서 AI 역량 강화에 **57억 달러** 투입 공약(2026-05-04). — 출처: [AI Business Review](https://www.aibusinessreview.org/2026/05/04/south-korea-5-7bn-ai-investment-sovereignty/)
-
-14. NVIDIA: 삼성·SK그룹·현대·NAVER·한국 정부와 협력, 소버린 클라우드·AI팩토리 전반에 **26만 개** NVIDIA GPU 배포. — 출처: [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure)
-
-15. AI기본법 2026년 1월 시행, 한국 AI 거버넌스의 입법적 기반 마련. 정부지원 $3.81억으로 5개 컨소시엄(네이버·SKT·LG·엔씨·업스테이지) 선정. — 출처: [Introl Blog](https://introl.com/blog/south-korea-735b-sovereign-ai-initiative-infrastructure-requirements-opportunities)
-
-### 🇯🇵 일본
-
-16. IDC: 일본 AI 인프라 지출 2026년 **$55억+**, YoY 18%+ 성장. 2022-2025년 7배 확대. 2028년에는 AI 인프라 지출이 비AI 인프라 지출 초과 전망. — 출처: [IDC 공식 블로그](https://www.idc.com/resource-center/blog/7x-growth-in-just-three-years-japans-ai-infrastructure-will-surge-past-5-5-billion-in-2026-idc-reveals/)
-
-### 🌏 아시아태평양 (IDC 2026-05-13)
-
-17. IDC 연구: APAC 정부 소버린 AI 투자 우선순위 **7위→2위** (1년 만에). 8개 시장(호주·인도·인도네시아·일본·말레이시아·필리핀·싱가포르·한국) 정부 IT 의사결정자 **360명** 조사. — 출처: [IDC/Media OutReach](https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/)
-
-18. APAC 응답자 **76.9%**: "소버린 AI 투자가 지정학적 리스크·공급망 혼란에 대한 기관 복원력을 강화한다" 동의. 46.1% 소버린 AI 기술 적극 검토 중. 단 **3.1%**만 본격 투자 단계. — 출처: [IDC/Media OutReach](https://www.media-outreach.com/news/singapore/2026/05/13/464368/asia-pacific-governments-embrace-sovereign-ai-as-a-strategic-national-priority-but-scale-hinges-on-trust-skills-and-infrastructure-readiness/)
-
-### 🌍 글로벌 매크로
-
-19. 글로벌 소버린 AI 시스템 지출: **2026년 $1000억 돌파** 전망. — 출처: [ComputeForecast](https://www.computeforecast.com/long-reads/sovereign-ai-infrastructure-nation-state-competition/)
-
-20. McKinsey: AI 지출의 30~40%가 주권 요구사항에 의해 결정될 전망 = **2030년 $5000억~$6000억** 규모. — 출처: [McKinsey](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/sovereign-ai-building-ecosystems-for-strategic-resilience-and-impact)
-
-21. WEF: 2030년까지 연간 AI 인프라 투자 **$4000억**. McKinsey: 2030년까지 데이터센터에 **$7조** 투자, AI 워크로드 $5.2조. — 출처: [WEF](https://www.weforum.org/publications/rethinking-ai-sovereignty/)
-
-22. 전 세계 데이터센터 월간 건설지출: 2024-01 $249억 → 2025-01 $358억 → 2025-12 $451억. 2024년 CapEx $4300억, 2029년 $1.1조 전망. — 출처: [CNBC/McKinsey](https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html)
-
-### 🇨🇳 중국 — Huawei Ascend (대항마)
-
-23. 화웨이 Ascend 950PR (2026 Q1): 자체 HBM(HiBL 1.0) 탑재, FP4 추론 성능 NVIDIA H20의 **2.8배**. ByteDance: 2026~27년 Ascend 칩 **$56억** 주문. — 출처: [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/huaweis-ascend-and-kunpeng-progress-shows-how-china-is-rebuilding-an-ai-compute-stack-under-sanctions)
-
-24. 화웨이 AI 칩 매출: 2026년 **+60%** 성장, ~$120억 전망. 중국 AI 모델의 글로벌 토큰 점유율: 2025년 ~1% → 2026년 ~**30%**. — 출처: [The Deep Dive](https://thedeepdive.ca/huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-drives-orders-away-from-nvidia/)
+### 경쟁 환경
+42. Qualcomm Snapdragon Ride: GM 수주로 Mobileye 경쟁 심화 — 출처: WebSearch (AutoNews)
+43. Hyundai Mobis가 ADAS 소프트웨어/AI 독자 개발 중 — 출처: WebSearch (한국 기사)
+44. 화웨이 MDC(Mobileye Data Center) 플랫폼이 중국 내 경쟁 — 출처: WebSearch
 
 ---
 
-## 직접 인용 (정확한 원문만)
+## 직접 인용 (원문)
 
-1. "Every country needs to own the production of their own intelligence." — Jensen Huang, NVIDIA CEO, World Governments Summit, Dubai — 출처: [NVIDIA Blog](https://blogs.nvidia.com/blog/world-governments-summit/)
+1. "We also secured an important design win with Mahindra which adds a third Surround ADAS customer and a second customer for our next-generation SuperVision product" — Amnon Shashua (CEO), Q1 2026 어닝콜 (2026-04-23)
 
-2. "We are building 20 years of AI infrastructure in one year." — HUMAIN, paraphrased from multiple reports — 출처: [IndexBox](https://www.indexbox.io/blog/saudi-arabias-humain-builds-ai-data-centers-with-us-chips/)
+2. "Mobileye's focus over the last couple of years on supporting Chinese OEMs on their export ambitions is paying dividends." — Mobileye IR 보도 인용
 
-3. "The regulation acknowledging that exporting advanced AI chips to China poses serious national security risks while simultaneously creating a pathway to permit their sale results in a framework that is strategically incoherent." — CFR — 출처: [CFR](https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable)
-
-4. "AI infrastructure has moved to the centre of global debates on competitiveness." — WEF "AI Infrastructure in the Age of Sovereignty" (May 2026) — 출처: [WEF](https://reports.weforum.org/docs/WEF_AI_Infrastructure_in_the_Age_of_Sovereignty_Requirements_Strategies_and_a_Trusted_Framework_for_Digital_Embassies_2026.pdf)
+3. "outstanding" (Porsche SuperVision 미국 테스트 성능 묘사) — Amnon Shashua, Q1 2026 어닝콜
 
 ---
 
-## 숫자 데이터 (검증 가능한 것만)
+## 숫자 데이터 테이블
 
 | 항목 | 수치 | 출처 |
 |------|------|------|
-| HUMAIN 1차 GPU | 18,000 GB300 | NVIDIA Newsroom |
-| HUMAIN 장기 목표 | 600,000 GPU / 500MW / 5년 | ThinkAutomated |
-| Stargate UAE 1단계 | 200MW / 2026년 말 | Digital Dubai |
-| Stargate UAE 최종 | 1GW / $30B+ | G42 공식 |
-| G42 수출허가 | 35,000 Blackwell chips | G42 공식 |
-| UAE+사우디 합계 허가 | 70,000 chips | Business Standard |
-| TELUS 캐나다 클러스터 | 85MW → 150MW(2032) / 60,000+ GPU | Canada.ca |
-| Mistral 데이터센터 | 13,800 GB300 / 44MW / $8.3억 | CNBC |
-| 프랑스 Fluidstack | 500,000 chips / 1GW / €100억 | WEF/USFunds |
-| 한국 정부 AI 투자 | $57억 (국가성장펀드) | AI Business Review |
-| 한국 NVIDIA GPU | 260,000개 (소버린 클라우드+팩토리) | NVIDIA Newsroom |
-| 일본 AI 인프라 지출 | $55억+ (2026) / 7배 성장(2022-25) | IDC |
-| APAC 소버린AI 우선순위 | 7위→2위 (1년 만에) | IDC (2026-05-13) |
-| 글로벌 소버린AI 지출 | $1000억+(2026) | ComputeForecast |
-| McKinsey 주권 AI 시장 | $5000억~$6000억(2030) | McKinsey |
-| 글로벌 DC CapEx | $4300억(2024) → $1.1조(2029) | CNBC/McKinsey |
-| 화웨이 AI칩 매출 성장 | +60% → ~$120억 (2026) | The Deep Dive |
-| 중국 AI 토큰 점유율 | ~1%(2025) → ~30%(2026) | Just Security |
-| DOJ Operation Gatekeeper | $1.6억 규모 중국 우회 적발 (2025-12) | CFR/Morrison Foerster |
+| Q1 2026 매출 | $558M (+27% YoY) | SEC 8-K |
+| 조정 EPS | $0.12 (컨센 $0.09) | BusinessWire |
+| GAAP EPS | -$4.68 (굿윌 $3.788B) | SEC 8-K |
+| FY2026 가이던스 중간값 | $1.975B | BusinessWire |
+| Q2 2026 예상 | -6% YoY | Investing.com |
+| FY2025 연매출 | $1,894M (+15%) | SEC FY2025 8-K |
+| EyeQ 누적 (2021) | 1억 개 | Mobileye 공식 |
+| EyeQ 누적 (2024) | 2억 개 | Mobileye 공식 |
+| 2014년 연간 출하 | 270만 개 | Mobileye 블로그 |
+| 2020년 연간 출하 | 1,930만 개 | Mobileye 블로그 |
+| 8년 파이프라인 | $24.5B (+42%) | Mobileye IR |
+| Surround ADAS ASP | $150-200 | Yahoo Finance |
+| Intel 지분 | ~77~88% | Proxy 2026 |
+| 자사주매입 | $250M | BusinessWire |
+| Mentee Robotics | $900M 인수 | Mobileye 공식 |
+| 애널리스트 목표가 중앙값 | $17.01 | MarketBeat |
 
 ---
 
 ## 관련 종목
+- $MBLY: 주인공 (ADAS 1위, 부활 사이클)
+- $INTC: 최대주주(77~88%), 오버행이자 파트너
+- $NVDA: ADAS 경쟁자 (DRIVE 플랫폼)
+- $QCOM: Snapdragon Ride, GM 수주 경쟁
 
-| 티커 | 연결 포인트 |
-|------|-------------|
-| $NVDA | 소버린 AI 딜의 최대 직접 수혜자 — 모든 국가 딜에 등장 |
-| $ANET | 소버린 클라우드·AI팩토리 네트워킹 인프라 (Arista Networks) |
-| $SMCI | AI 서버 공급 (SuperMicro) |
-| $VRT | 데이터센터 전력관리 (Vertiv) |
-| $AMD | HUMAIN 딜 포함, 소버린 AI 서버 다변화 |
-| 삼성전자 / SK하이닉스 | HBM 수요: ASIC+소버린AI 동시 성장 → HBM 소요량 급증 |
-| $CSCO | 사우디 HUMAIN 딜에 Cisco 포함 |
-
----
-
-## 반론/리스크 (반대 시각)
-
-1. **하드웨어 ≠ AI 역량**: 데이터센터를 짓는 것과 AI 생태계를 구축하는 것은 다르다. 사우디·UAE는 AI 인재, 데이터 파이프라인, 로컬 소프트웨어 생태계가 취약. Fast Company: "Trump의 NVIDIA 외교는 실패한다" — 출처: [Fast Company](https://www.fastcompany.com/91446055/saudi-arabia-nvidia-trump-mbs-chips-uae-china)
-
-2. **칩 우회 수출 리스크**: DOJ Operation Gatekeeper (2025년 12월): 최소 $1.6억 규모의 AI 칩이 중국·홍콩으로 불법 수출 시도 적발. 소버린 AI 명목 수출된 칩이 제3국으로 흘러갈 보장 없음. — 출처: [CFR](https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable)
-
-3. **"완전한 주권"은 환상**: AI 모델은 지속적인 업데이트·미국 통제 공급망 의존 필수. 진짜 소버린 AI는 소프트웨어·모델·칩 전 레이어 독립성을 요구하는데, 중국(화웨이 Ascend)조차 완전 독립에 수년이 걸리는 중. — 출처: [Chatham House](https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-the-best-bargaining-chip)
-
-4. **중국의 역습**: 화웨이 Ascend로 글로벌 독자 AI 에코시스템 구축 시도. ByteDance $56억 주문, 중국 AI 모델 글로벌 점유율 1%→30% 급증. 수출통제가 중국을 막기보다 자체 공급망 구축을 앞당기는 역설. — 출처: [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/huaweis-ascend-and-kunpeng-progress-shows-how-china-is-rebuilding-an-ai-compute-stack-under-sanctions)
-
-5. **APAC 현실**: IDC 조사에서 "본격 투자" 단계는 단 3.1%. 10명 중 9명이 "핵심 AI 스킬 부족"을 호소. 소버린 AI 우선순위는 높아졌지만 실행은 초기 단계.
+## 반론/리스크
+1. Q2 2026 가이던스 -6% YoY → 재고 사이클 완전 해소 미확인
+2. Intel 77~88% 지분 오버행 — 언제든 추가 매각 가능
+3. Tesla/GM 자체 ADAS 내재화로 장기 고객 이탈 가능
+4. Qualcomm Snapdragon Ride GM 수주로 경쟁 심화
+5. 굿윌 손상 $3.788B = 시가총액 하락이 트리거 = 시장의 불신을 수치화
+6. Mentee Robotics $900M 인수: 현금 소각 + 희석 우려
+7. 조정 매출총이익률 66% (전년 69%에서 하락) — 믹스 변화 압박
