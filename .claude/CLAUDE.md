@@ -2,6 +2,20 @@
 
 자율주행 뉴스 + 미국 증시 동향 + 관심 종목 딥다이브 + 테크 팟캐스트 요약을 에이전트 팀이 협업하여 HTML 뉴스레터로 생성하는 하네스.
 
+## ⚙️ 자동 실행 권한 (별도 승인 불필요)
+
+아래 루틴들은 **사용자 승인 없이 자동으로 실행**된다. 관련 권한은 `.claude/settings.json`에 명시되어 있다.
+
+| 루틴 | 트리거 | 자동 허용 도구 |
+|------|--------|--------------|
+| 뉴스레터 엔진 (AM/PM) | 스케줄 트리거 | Bash, Read, Write, Edit, WebSearch, WebFetch, git |
+| 딥다이브 테마 선정 (09:00 KST) | 스케줄 트리거 | 동일 |
+| 딥다이브 작성+검수+발행 (14:00 KST) | 스케줄 트리거 | 동일 + mcp__github__push_files |
+
+**자동 허용 Bash 명령 목록**: `git add/commit/push/pull/stash/checkout`, `mkdir`, `cat`, `cp`, `ls`, `tail`, `head`, `wc`, `date`, `python3`, `echo`
+
+파일 작업(Read/Write/Edit), 웹 검색/조회(WebSearch/WebFetch), MCP GitHub 도구(`mcp__github__push_files`) 모두 자동 허용.
+
 ## 브랜딩
 - **이름**: 머뉴 (MoneyNews)
 - **태그라인**: "돈이 되는 모든 것에 대한 소식"

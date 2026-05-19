@@ -6,9 +6,26 @@
       "Bash(git commit *)",
       "Bash(git push *)",
       "Bash(git push -u *)",
+      "Bash(git pull *)",
+      "Bash(git stash *)",
+      "Bash(git checkout *)",
+      "Bash(mkdir *)",
+      "Bash(cat *)",
+      "Bash(cp *)",
+      "Bash(ls *)",
+      "Bash(tail *)",
+      "Bash(head *)",
+      "Bash(wc *)",
+      "Bash(date *)",
+      "Bash(python3 *)",
+      "Bash(echo *)",
+      "Read(*)",
+      "Write(*)",
+      "Edit(*)",
       "WebSearch(*)",
       "WebFetch(*)",
-      "ToolSearch(*)"
+      "ToolSearch(*)",
+      "mcp__github__push_files"
     ]
   }
 }
