@@ -1,10 +1,9 @@
 
-🎙️ 지금 들을 만한 팟캐스트
-
 ---
 
-1. **All-In Podcast E274** "OpenAI vs 애플, 생각하는 기계, 그리고 앤트로픽의 다크 SPV 추격"
-(2026-05-18 발행)
+## 🎙️ 팟캐스트 — TBPN: Google I/O 라이브 오늘 밤
 
-카마스·제이슨·삭스·프리드버그 넷이 이번 주 최대 뉴스를 집어들었다. OpenAI가 애플과의 ChatGPT 통합 실패를 두고 법적 분쟁을 검토 중이라는 보도, Thinking Machines Lab의 실시간 추론 모델 출시, 그리고 Anthropic이 AI 스타트업 투자에서 이른바 "다크 SPV"(불투명 특수목적법인)를 통한 자본 우회를 법적으로 문제 삼겠다는 움직임. 트럼프-시진핑 베이징 정상회담 이후 빅테크의 중국 사업 지형 변화도 논의. AI 산업의 권력 싸움이 법정으로 이동하는 신호인가, 아니면 단기 노이즈인가 — 삭스와 카마스의 시각이 엇갈린다. 테크·VC·AI를 한 번에 업데이트하고 싶다면 이 에피소드로 시작하라.
-[All-In Podcast](https://allin.com/episodes)
+오늘 새벽(PT 기준 오전 11시 = KST 5/20 새벽)이 되면 **TBPN(Technology's Daily Show, OpenAI 인수)**이 Google I/O 키노트 특집 라이브 방송을 진행한다. John Coogan & Jordi Hays가 Gemini Intelligence, Android XR 안경, Googlebook 발표를 실시간으로 분석할 예정이다. OpenAI가 인수한 팟캐스트가 구글 I/O를 어떤 시각으로 다루는지 — 이것 자체가 볼거리다.
+
+오늘 PM 에디션 마감(KST 22:00) 기준으로 All-In E275 등 주요 팟캐스트 신규 에피소드 발행이 확인되지 않았다. 억지로 채우지 않는다. TBPN 라이브는 내일 AM 에디션에서 리캡 예정.
+
