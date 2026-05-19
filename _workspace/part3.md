@@ -1,28 +1,61 @@
----
 
-## 드론 한 대가 세 개의 시장을 흔들었다 — UAE 원전 공격, WTI, 그리고 헬스케어
-
-일요일 저녁, 아무도 예상 못 한 뉴스가 나왔다. UAE 아부다비 인근 바라카(Barakah) 원자력발전소 외곽에 드론이 날아들었다. 세 대 중 두 대는 요격됐고 하나는 전력 설비를 타격했다. 방사능 누출은 없었고 4개 호기 모두 정상 가동 중이라는 UAE 당국의 공식 발표가 나왔지만, '원전에 드론이 날아들었다'는 사실 자체가 월요일 새벽 시장을 패닉으로 몰았다. 브렌트유 $111.14(+1.72%), WTI $103.06(+2.02%). 이란 연계 공격으로 추정되며 미국-이란 교착 속에서 에스컬레이션 리스크가 한 단계 올라갔다. S&P500 선물 -0.58%, 다우 -0.78%. 에너지 섹터가 올라가는 만큼 기술주가 눌리는 구도다. [NPR](https://www.houstonpublicmedia.org/npr/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant) · [Fortune](https://fortune.com/2026/05/17/drone-strike-fire-uae-barakah-nuclear-power-plant-iran-war-ceasefire/) · [IG International](https://www.ig.com/en/news-and-trade-ideas/us-equities-pull-back-as-drone-strike-on-uae-nuclear-plant-heigh-260518)
+📰 오늘의 뉴스
 
 ---
 
-## 반도체 총매출 $1.3조 시대 — AI 인프라가 만드는 새 기준선
+🏎️ 로보택시 전쟁 2026 — 공장 벨트를 먼저 돌린 나라가 이긴다
 
-IDC가 집계한 2026년 글로벌 반도체 시장 규모: $1.29조(+52.8% YoY). 2025년 $842.8B에서 한 해 만에 $450B이 넘게 늘어난다. 숫자가 이렇게 커진 이유는 하나다 — AI 인프라. 마이크로소프트·아마존·알파벳·메타가 2026년 한 해에만 데이터센터·AI 인프라에 쏟아붓는 자본지출 합계는 $650B+이며, 매그니피센트 세븐 전체 기준으로는 $527B(전년비 $62B 상향)이 책정돼 있다. 그 결과는 HBM 시장에서 먼저 보인다 — 2026년과 2027년 HBM 공급의 상당 부분이 이미 사전 배정이 완료된 상태다. 새 수요가 생겨도 바로 공급을 늘릴 수 없다는 뜻이다. NVDA·$AVGO·$MRVL이 강한 이유가 바로 여기에 있다. [IDC](https://www.idc.com/resource-center/blog/semiconductor-market-to-surge-past-the-trillion-dollar-threshold-ai-infrastructure-drives-market-growth/)
+EV와 자율주행의 전쟁은 이제 "기술 시연"이 아닌 "공장 라인"으로 무대가 이동했다. 어제(5/18) 샤오펑은 광저우에서 세계 최초 L4 로보택시 대량생산 1호차를 밀어냈다. GX 플랫폼 기반, LiDAR 없는 순수 비전 방식, 자체 개발 Turing AI칩 4개 탑재로 3,000 TOPS의 연산력을 자랑한다. VLA 2.0 엔드투엔드 AI 모델로 구동 — HD맵도 필요 없다. 하반기 파일럿, 2027 초 완전 무인 운행이 목표다.
 
-1. **NVDA+IREN: $3.4B, 5GW 블랙웰 배포 계약** — NVIDIA와 AI 컴퓨트 기업 IREN이 5년짜리 $3.4B 계약을 체결했다. IREN의 텍사스 차일드레스 캠퍼스에 NVIDIA DSX 설계 기반 블랙웰 GPU를 최대 5기가와트 규모로 깔기로 한 것. "AI 인프라를 짓는 기업들이 NVDA의 진짜 고객"임을 보여주는 구조다. [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure)
+이 소식이 의미심장한 이유는 테슬라와 비교해서다. 테슬라는 오스틴·댈러스·휴스턴 3개 도시에서 총 50여 대를 운행 중이다. 웨이모는 11개 도시, 약 3,000대로 주간 40만 건을 소화한다. 로보택시 스타트업들이 "언제까지나 올 것"이라고 얘기하는 동안, 중국은 이미 공장 벨트를 돌리기 시작했다.
 
-2. **OKLO × NVIDIA × LANL — 핵연료를 AI로 개발한다** — UAE 원전 공격으로 원자력 내러티브가 다시 뜨거워진 오늘, 재조명받는 파트너십이 있다. 4월 발표된 OKLO·NVIDIA·로스알라모스 국립연구소(LANL) 협약. 핵심은 두 방향이다: ① NVIDIA의 AI 시스템(디지털 트윈·시뮬레이션)으로 OKLO의 플루토늄 연료(Pluto 원자로) R&D를 가속, ② 핵발전으로 동작하는 'AI 팩토리' 개념 증명. AI 데이터센터의 전력 수요를 핵으로 해결하겠다는 전략의 실행 버전이다. $OKLO는 오늘 +1.5% 상승했다. [BusinessWire](https://www.businesswire.com/news/home/20260423742786/en/Oklo-NVIDIA-and-Los-Alamos-National-Laboratory-Collaborate-to-Advance-Nuclear-Fuel-Validation-at-Los-Alamos-in-Support-of-Nuclear-Powered-AI-Factories) · [Data Center Dynamics](https://www.datacenterdynamics.com/en/news/oklo-partners-with-nvidia-los-alamos-on-ai-driven-advanced-nuclear-infrastructure-development/)
+1. **샤오펑 L4 로보택시 양산 개시** — 중국 최초 완전 인하우스 L4 로보택시 양산. GX 플랫폼, Turing 칩 4개, VLA 2.0, LiDAR·HD맵 없음. 하반기 파일럿 → 2027 완전무인. 주목 종목: $XPEV [Electrek](https://electrek.co/2026/05/18/xpeng-robotaxi-mass-production-china-first/)
 
-3. **Tesla FSD v14.3.3 업데이트 — "개입 없이 달린 거리"를 세기 시작했다** — 테슬라가 어제(5/17) FSD v14.3.3을 배포했다. 새 기능의 핵심: '개입 없는 자율주행 연속 주행 기록 카운터'. 운전자가 얼마나 오래 핸들에 손을 안 댔는지 추적한다. 마케팅 용도이기도 하지만, FSD v15(2027 초 예상)를 향한 검증 데이터 수집의 의미도 있다. 현재 39대 로보택시가 운행 중인 달라스·휴스턴에서도 대기시간·불가 팝업이 빈발한다는 현장 리포트가 이어진다. [Tesla Oracle](https://www.teslaoracle.com/2026/05/17/tesla-fsd-v14-3-3-2026-14-6-6-adds-a-new-fsd-intervention-free-live-streak-counter-video-release-notes/)
+2. **테슬라 vs 웨이모, 격차가 숫자로 드러났다** — 웨이모 주간 40만 건, 11개 도시, 3,000대 / 테슬라 오스틴·달라스·휴스턴 합계 50여 대. 대기 시간 25% 이상은 25분+, 27%는 차량 없음. 한편 리비안-우버 $1.25B 파트너십, 5만 대 R2 SUV 로보택시 계약(2028 SF·마이애미 시작). $TSLA [InsideEVs](https://insideevs.com/news/781782/tesla-removes-robotaxi-model-y-safety-driver-testing/) · [Uber IR](https://investor.uber.com/news-events/news/press-release-details/2026/Uber-and-Rivian-Partner-to-Deploy-up-to-50000-Fully-Autonomous-Robotaxis-2026-TViR4R05gi/default.aspx)
+
+3. **한국 배터리, 美 프로젝트 취소에 유럽으로 피벗** — SK On, 닛산 미시시피 EV 계획 취소로 $100억 배터리 공급 재검토. 대신 현대차 EREV(제네시스 GV70용) NCM 배터리 하반기 대량생산 착수, 세계 첫 EREV 배터리 양산. LGES는 BMW와 원통형 배터리 10조원($6.8B) 계약. [Korea Times](https://www.koreatimes.co.kr/amp/business/companies/20260506/korean-battery-firms-take-hit-as-more-ev-projects-in-us-fall-through) · [Seoul Economic Daily](https://en.sedaily.com/news/2026/05/13/sk-on-to-mass-produce-koreas-first-erev-batteries-as-new)
 
 ---
 
-## 월요일의 충격들 — 버크셔가 팔았다, 리제네론이 넘어졌다
+💻 구글이 AI의 다음 판을 짰다 — Gemini 4.0 시대 개막
 
-**버크셔가 UNH를 버렸다 — 그렉 에이블의 첫 번째 큰 선언**
-$UNH(유나이티드헬스)가 프리마켓에서 -5% 급락했다. 이유는 버크셔 해서웨이의 13F 공시. 그렉 에이블(1/1 CEO 취임 이후 첫 번째 대규모 매도) 체제의 버크셔가 UNH 5백만 주를 전량 매각했다. 매입한 지 채 1년도 안 됐다. 에이블은 취임 후 DAL·M·AMZN·V 등 줄줄이 포트폴리오를 정리하는 중이다. "버핏 없는 버크셔가 어떤 선택을 할 것인가"라는 질문에 대한 첫 번째 큰 대답이 나왔다. 헬스케어 섹터는 메디케어 정책 역풍 + 연방 조사 + 버크셔 엑시트의 삼중 압박을 받고 있다. [Seeking Alpha](https://seekingalpha.com/news/4594282-unitedhealth-stock-slips-as-berkshire-hathaway-exits-stake) · [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/berkshire-exit-puts-unitedhealth-valuation-031847300.html)
+1. **Google I/O 2026 키노트: Gemini 4.0 공식 출범** — 오전 10시(PT), 마운틴뷰 쇼어라인 앰피시어터에서 순다 피차이가 Gemini 4.0 발표. 향상된 추론·코딩·멀티모달·에이전틱 AI가 핵심. Android XR 스마트글라스(카메라·마이크·스피커, 인렌즈 디스플레이 옵션) 두 종류 공개. "Googlebook" 노트북 생태계(Acer·ASUS·Dell·HP·Lenovo 파트너)로 PC 시장 공략. Gemini Intelligence - Chrome·Gmail·Maps·Android 전반 에이전트화. $GOOGL 주가는 I/O 기대감에 상승 [Android Central](https://www.androidcentral.com/phones/live/google-i-o-2026-live-blog-android-17-android-xr-glasses-and-all-the-gemini-ai-news)
 
-**리제네론 -12% — Keytruda의 벽은 여전히 높다**
-$REGN(리제네론)이 오늘 새벽 프리마켓에서 -12%로 추락했다. 흑색종 3상 임상 실패가 이유다. fianlimab + cemiplimab 병용요법이 머크의 Keytruda(pembrolizumab) 대비 무진행생존기간(PFS)을 통계적으로 유의미하게 개선하는 데 실패했다. 수치 개선은 있었다(중앙 PFS 6.4개월 → 11.5개월). 그러나 통계적 유의성을 넘지 못하면 FDA 승인 신청이 불가능하다. 시티가 Buy→Neutral 다운그레이드(PT $900→$700). BMO도 목표가를 ~20% 삭감했다. 다음 주 금요일 헬스케어 테마가 이미 예열되고 있다. [BioSpace](https://www.biospace.com/drug-development/regeneron-misses-again-as-melanoma-combo-bows-to-mercks-keytruda-in-phase-3) · [Investing.com](https://www.investing.com/news/stock-market-news/regeneron-shares-fall-12-on-disappointing-melanoma-trial-data-4694797)
+---
 
+🏢 기업 뉴스
+
+**$TSLA 테슬라 — 50대의 현실, Cybercab의 꿈**
+오스틴·달러스·휴스턴 세 도시 로보택시 합산 50여 대. 실제 서비스 경험은 대기 시간 25분 초과가 절반 이상. 확장 계획(피닉스·마이애미·올랜도·탬파·라스베이거스 상반기 목표)은 "준비 중"으로 후퇴. 반면 사이버캡은 기가텍사스에서 양산 개시, 공급은 늘어날 예정. Elon Musk는 FSD V15 출시 이전까지 대규모 확장을 유보하겠다고 시사.
+
+배경: 웨이모는 우버 앱에도 올라탔고(오스틴·애틀랜타 운행 중), 2026년 내 100,000대 AV 달성을 목표로 하는 우버와 파트너십을 심화하고 있다. 테슬라가 양산 단계를 서둘러야 하는 이유다.
+
+전망: 사이버캡 생산량이 늘어나는 H2 2026이 진짜 테스트다. FSD 클레임과 실제 도시 확장 속도가 일치하는지 — 그게 $TSLA 500달러 복귀의 열쇠. [InsideEVs](https://insideevs.com/news/781782/tesla-removes-robotaxi-model-y-safety-driver-testing/)
+
+**$GOOGL 알파벳 — I/O가 끝난 뒤가 진짜다**
+Gemini 4.0과 Android XR로 AI 내러티브를 재점화했다. 하지만 시장이 진짜 원하는 건 "AI가 구글 광고 매출을 잠식하는가, 증폭하는가"라는 질문의 답이다. BofA는 Buy, 목표가 $430을 유지한다. I/O 직후 주가 반응보다는 2~3주 후 애널리스트 노트 흐름이 더 중요할 것.
+
+전망: 구글 클라우드 AI 수주 증가가 확인되면 다음 ATH($430 이상) 도전은 H2 2026 내 가능하다. 반면 Gemini 발표가 "예상 범위 내"였다면 단기 차익 실현 압력. [TechRadar](https://www.techradar.com/phones/android/5-things-to-expect-at-google-i-o-2026)
+
+**$NVDA 엔비디아 — 내일 밤, 모든 질문에 답이 나온다**
+D-1 어닝. 컨센서스 EPS $1.78, 매출 $79.2B. 가이던스가 $85B+이면 AI 슈퍼사이클 재확인 신호. IREN $3.4B 계약, 소버린 AI 수요(HUMAIN 사우디 $1000억), 中 H20 수출 허가 재개 — 수요 드라이버는 여전히 많다. KeyBanc 목표가 $300이 시장 컨센서스보다 약 35% 높다. 30년물 5.1%+ 금리 환경에서 PE 프리미엄 유지 여부가 시장의 고민. [Nasdaq](https://www.nasdaq.com/market-activity/stocks/nvda/earnings)
+
+**$OKLO 오클로 — 어닝미스, 그러나 스토리는 살아있다**
+Q1 어닝미스(손실 예상 대비 확대)로 주가가 62달러대로 내려왔다. NRC의 Aurora 파워하우스 설계 인증(PDC) 승인, 아이다호 국립연구소·NVIDIA와의 AI 데이터센터 파트너십은 여전히 유효하다. 목표가 $91~$130 범위는 장기 시나리오다. 단기적으로는 Q2 운영비용 관리와 파트너십 수주 업데이트가 관건.
+
+**$COIN 코인베이스 — CLARITY Act 통과, 진짜 레이스는 이제 본회의**
+상원 은행위원회 마크업 통과(5/14, 13R-11D) 이후 주가가 차익실현으로 밀렸다. Q1 순손실 $394M, 매출 $1.4B(컨센서스 $1.56B 하회)가 여전히 부담. 하지만 "규제 프레임워크 확정"이라는 장기 내러티브는 온전하다. 본회의 60표 클로처가 다음 허들.
+
+**$NFLX 넷플릭스 — NFL 5경기, 스트리밍의 스포츠화 가속**
+$25B 자사주매입(역대최대) + NFL 라이브 5경기 계약 확정. 광고 티어 구독자 지속 증가(2026 광고 매출 ~$3B 전망). Citi·JPM "저평가" 의견. Q2 어닝 전까지 낙관론이 우세하다.
+
+**$OHI 오메가 헬스케어 — 금리 5%+에도 리츠가 버티는 이유**
+30년물 5.1% 환경에서도 UBS가 목표가를 $52→$54로 올렸다(5/13). 시니어 케어 임대 수요 구조적 증가, 배당 수익률(~7%) 방어력이 시장에 재평가받는 중.
+
+---
+
+🗺️ 흥미로운 이야기
+
+1. **테슬라 2026 모델 Y, NHTSA 신규 ADAS 패스/페일 테스트 1호 통과** — 보행자 AEB, 차선 유지, 사각지대 평가 모두 클리어. 미국 자동차안전기준이 ADAS를 본격적으로 테스트하기 시작했다는 뜻이다. 좋은 뉴스지만, 실제 로보택시 확장과는 여전히 다른 레이어. [Smart Cities Dive](https://www.smartcitiesdive.com/news/robotaxi-waymo-motional-zoox-tesla-uber-lyft/759895/)
+
+2. **유럽 2026년부터 로보택시 서비스 본격 개시** — 런던, 베를린, 뮌헨, 류블랴나 등 6개 유럽 도시가 2026년부터 실제 L4 자율주행 로보택시를 운행한다. 웨이모·줌 등이 주도. 미국 중심이던 자율주행 경쟁이 글로벌화되는 신호. [Eleport](https://eleport.com/robotaxi-in-europe/)
