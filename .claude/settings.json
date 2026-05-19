@@ -6,9 +6,32 @@
       "Bash(git commit *)",
       "Bash(git push *)",
       "Bash(git push -u *)",
+      "Bash(git pull *)",
+      "Bash(git fetch *)",
+      "Bash(git log *)",
+      "Bash(git status)",
+      "Bash(git status *)",
+      "Bash(git branch *)",
+      "Bash(git checkout *)",
+      "Bash(git diff *)",
+      "Bash(mkdir *)",
+      "Bash(ls)",
+      "Bash(ls *)",
+      "Bash(date)",
+      "Bash(date *)",
+      "Bash(wc *)",
+      "Bash(grep *)",
+      "Bash(find *)",
       "WebSearch(*)",
       "WebFetch(*)",
-      "ToolSearch(*)"
+      "ToolSearch(*)",
+      "Read",
+      "Write",
+      "Edit",
+      "mcp__github__push_files",
+      "mcp__github__get_file_contents",
+      "mcp__github__list_commits",
+      "mcp__github__list_branches"
     ]
   }
 }
