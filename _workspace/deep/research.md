@@ -1,139 +1,148 @@
-# 리서치 노트 — Mobileye $MBLY 종목 해부 (2026-05-19)
+# 리서치 노트 — NVIDIA Q1 FY2027 어닝 딥다이브
+## 날짜: 2026-05-20
 
-## 1차 자료 인용 건수: 7건 ✅ (기준 3건 이상)
-1. SEC EDGAR 8-K Q1 2026 (04/23/2026): https://www.sec.gov/Archives/edgar/data/0001910139/000110465926047231/tm2612233d1_ex99-1.htm
-2. Mobileye IR 공식 Q1 2026 보도자료: https://ir.mobileye.com/news-releases/news-release-details/mobileye-releases-first-quarter-2026-results-updates-full-year
-3. BusinessWire Q1 2026 실적 발표: https://www.businesswire.com/news/home/20260423384609/en/Mobileye-Releases-First-Quarter-2026-Results-Updates-Full-Year-Outlook-and-Announces-a-%24250-Million-Share-Repurchase-Program
-4. SEC EDGAR FY2025 8-K (연간 실적): https://www.sec.gov/Archives/edgar/data/0001910139/000110465926005578/tm263599d1_ex99-1.htm
-5. Mobileye 공식 Surround ADAS Top 10 OEM 수주 발표: https://www.mobileye.com/news/mobileye-surround-adas-adds-second-top-10-automaker/
-6. Mobileye IR SuperVision & 파이프라인 발표: https://ir.mobileye.com/news-releases/news-release-details/mobileye-growth-pipeline-fueled-supervision-and-future-av-wins
-7. SEC EDGAR DEF 14A Proxy 2026 (Intel 지분 구조): https://www.stocktitan.net/sec-filings/MBLY/def-14a-mobileye-global-inc-definitive-proxy-statement-393ca6d9f08f.html
+## 1차 자료 인용 건수: 7건 ✅
+1. SEC EDGAR Q4 FY2026 8-K Press Release — https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000019/q4fy26pr.htm
+2. NVIDIA 공식 뉴스룸 Q3 FY2026 발표 — https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026
+3. NVIDIA GTC 2026 키노트 (Jensen Huang 발언) — https://finance.yahoo.com/sectors/technology/articles/nvidia-gtc-keynote-huang-unveils-090540676.html
+4. Google Cloud Ironwood TPU 공식 블로그 — https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads/
+5. SK하이닉스 공식 뉴스룸 2026 HBM 시장 전망 — https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/
+6. TSMC CoWoS 공급망 심층 분석 (Tom's Hardware) — https://www.tomshardware.com/tech-industry/a-deeper-look-at-the-tightened-chipmaking-supply-chain-and-where-it-may-be-headed-in-2026-nobodys-scaling-up-says-analyst-as-industry-remains-conservative-on-capacity
+7. CNBC H20 수출규제 / 화웨이 Ascend 보도 — https://www.cnbc.com/2025/04/15/nvidia-says-it-will-record-5point5-billion-quarterly-charge-tied-to-h20-processors-exported-to-china.html
 
 ---
 
 ## 테마
-Mobileye $MBLY — Intel이 만들고, Intel이 짓눌렀지만, 자율주행 수요가 되살린 ADAS 왕의 부활
+**NVIDIA Q1 FY2027 어닝 해부 — $79B 뒤에 숨은 5개 진짜 신호**
 
 ## 유형
-📊 종목 해부 (한 종목 완전 분해 — 관심종목 외 발굴)
+🔍 딥 리서치
 
 ## 선정 이유
-Q1 2026에서 매출 +27%, 조정 EPS 컨센서스 대비 서프라이즈. $3.788B 비현금 굿윌 손상으로 GAAP 손실이 $3.8B임에도 주가 +15%. 2023년 재고 위기로 -80% 폭락했던 주가의 본격 반등 국면 진입 여부가 핵심 질문. 화요일 EV/자율주행 테마 클러스터 정렬.
+오늘 ET 5:00 PM(KST 5/21 06:20) NVIDIA Q1 FY2027 실적 발표. 블랙웰 아키텍처 전환이 완료된 최초의 분기. 단순 비트/미스가 아니라 AI 수요 사이클의 지속 가능성을 판단하는 5개 구조적 질문이 있다.
 
 ---
 
 ## 팩트 (출처 필수)
 
-### Q1 2026 실적 (SEC 8-K, BusinessWire 보도자료)
-1. Q1 2026 매출: $558M (+27% YoY, Q1 2025 $438M) — 출처: BusinessWire Q1 2026
-2. 조정 EPS: $0.12 (컨센서스 $0.09 → +$0.03 서프라이즈) — 출처: BusinessWire Q1 2026
-3. GAAP EPS: -$4.68 (굿윌 손상 $3.788B 포함) — 출처: SEC 8-K Q1 2026
-4. GAAP 매출총이익률: 49% (Q1 2025 47%) — 출처: BusinessWire Q1 2026
-5. 조정 매출총이익률: 66% (Q1 2025 69%) — 출처: BusinessWire Q1 2026
-6. 영업현금흐름: $75M — 출처: WebSearch (BusinessWire 인용)
-7. EyeQ 볼륨 증가: 28% YoY — 출처: WebSearch (Q2 가이던스 기사 인용)
-8. 굿윌 손상: $3.788B 비현금, Intel 2017년 $15.3B 인수 시 생성된 굿윌, 시가총액 하락+거시 불확실성이 트리거 — 출처: WebSearch (ainvest.com, SEC 8-K 인용)
+### A. 직전 분기 (Q4 FY2026) 실적 — 기준선
+1. Q4 FY2026 총 매출: **$68.1B** (+20% QoQ, +73% YoY) — 출처: [Fortune](https://fortune.com/2026/02/25/nvidia-nvda-earnings-q4-results-jensen-huang/) · [CNBC](https://www.cnbc.com/2026/02/25/nvidia-nvda-earnings-report-q4-2026.html)
+2. Q4 FY2026 데이터센터 매출: **$62.3B** (+75% YoY, +22% QoQ) — 출처: SEC EDGAR 8-K (ServeTheHome 인용)
+3. Q4 FY2026 DC 컴퓨트: **$51.3B** (+58% YoY, +19% QoQ) — 출처: CNBC
+4. Q4 FY2026 DC 네트워킹: **$11.0B** (+263% YoY) — NVLink + InfiniBand 기반 — 출처: CNBC
+5. Q4 FY2026 GAAP/비-GAAP 총마진: **75.0% / 75.2%** — 출처: SEC EDGAR Q4 FY26 8-K
+6. Q4 FY2026 GAAP EPS: **$1.76** — 출처: NVIDIA Newsroom
+7. FY2026 전체 매출: **$215.9B** (+65% YoY from $130.5B) — 출처: [Yahoo Finance](https://finance.yahoo.com/news/nvidia-posts-record-215-billion-102845670.html)
+8. FY2026 전체 데이터센터: **$193.7B** (+68%) — 출처: Yahoo Finance
+9. Grace Blackwell(GB200 시스템) = **데이터센터 컴퓨트 매출의 약 66%** (Q4) — 출처: [ServeTheHome](https://www.servethehome.com/nvidia-reports-q4-fy2026-earnings-data-center-and-proviz-drive-revenue-records/)
 
-### FY2026 가이던스 (BusinessWire 보도자료)
-9. FY2026 매출 가이던스: $1.935B~$2.015B (중간값 $1.975B, 기존 대비 2% 상향) — 출처: BusinessWire Q1 2026
-10. FY2026 조정 영업이익 가이던스: $185M~$235M — 출처: WebSearch (BusinessWire 인용)
-11. Q2 2026 매출 가이던스: -6% YoY 역성장 예상 — 출처: WebSearch (Investing.com 인용)
-12. FY2026 EyeQ 출하 예상: 약 38M 개 — 출처: WebSearch (분기 가이던스 기사)
+### B. Q1 FY2027 컨센서스와 가이던스
+10. Q4 발표 시 Q1 FY2027 가이던스: **$78.0B ±2%** (범위 $76.4B~$79.6B) — 출처: Wall Street 분석 종합
+11. 월스트리트 컨센서스: **$78.8~79.2B**, EPS **$1.77** — 출처: [Kiplinger](https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-may-2026)
+12. 데이터센터 컨센서스: **~$73B** 예상 — 출처: Kiplinger
+13. 비-GAAP 총마진 가이던스: **74.5~75%** (mid-70s 목표) — 출처: IG International 분석
+14. Q2 FY2027 컨센서스: **$86.6B**, 위스퍼 넘버 **$90B** — 출처: [BitMEX](https://www.bitmex.com/blog/nvidia-earnings-q1-fy2027)
+15. Goldman Sachs Q1 추정: **$80.05B** (컨센서스 대비 +$2B, 최낙관) — 출처: [Motley Fool](https://www.fool.com/investing/2026/05/13/nvidia-reports-its-fiscal-2027-q1-earnings-may-20/)
 
-### 역사적 수치
-13. FY2025 전체 매출: $1,894M (+15% YoY) — 출처: WebSearch (Mobileye 뉴스/SEC FY2025 8-K 인용)
-14. 2023년 EyeQ 출하: 37M 개 — 출처: WebSearch (SEC 8-K FY2023 인용)
-15. 2024년 EyeQ 출하 가이던스: 31-33M 개 (재고 위기 정리) — 출처: WebSearch (The Register 기사)
-16. 2021년 EyeQ 누적 1억 개 출하 — 출처: WebSearch (Mobileye 100M 마일스톤 블로그)
-17. 2024년 EyeQ 누적 2억 개 출하 — 출처: WebSearch (Mobileye 뉴스)
-18. 2014년 연간 EyeQ 출하: 270만 개 — 출처: WebSearch (Mobileye EyeQ 블로그)
-19. 2020년 연간 EyeQ 출하: 1,930만 개 — 출처: WebSearch (Mobileye EyeQ 블로그)
-20. Q1 2023 매출: $458M; Q1 2024 예상 매출: -50% 감소 (재고 위기) — 출처: WebSearch (The Register 기사)
+### C. 분기별 성장 궤적 (시계열)
+16. Q1 FY2024 (2023년 4월): **$7.19B** (DC: $4.28B) — 출처: SEC EDGAR Q1 FY24 8-K
+17. Q2 FY2024: **$13.51B** (+101% YoY) — 출처: SEC EDGAR
+18. Q3 FY2024: **$18.12B** (+206% YoY) — 출처: SEC EDGAR
+19. Q1 FY2025 (2024년 4월): **$26.0B** (DC: $22.6B, +427% YoY) — 출처: SEC EDGAR Q1 FY25 8-K
+20. Q2 FY2026: **$46.7B** (+56% YoY) — 출처: NVIDIA Newsroom
+21. Q3 FY2026: **$57.0B** (+62% YoY) (DC: $51.2B, +66% YoY) — 출처: NVIDIA Newsroom Q3 FY2026
+22. Q4 FY2026: **$68.1B** (+73% YoY) (DC: $62.3B) — 출처: CNBC
+23. Q1 FY2027 컨센서스: **$78.8B** — Q1 FY2024($7.19B) 대비 **3년 만에 약 11배 성장**
 
-### 기업 역사
-21. 1999년 이스라엘 창립 (Amnon Shashua 교수) — 출처: WebSearch (Cognitive Market Research)
-22. 2017년 Intel이 $15.3B에 인수 — 출처: WebSearch (jerrywus.com / SEC 424B4)
-23. 2022년 10월 NASDAQ 재상장, IPO 가치 약 $21B, Intel이 5~10% 지분만 매각 — 출처: WebSearch (247WallSt)
-24. 재고 과잉: 고객 보유 초과 재고 6-7M EyeQ 단위 발견 (2023 Q3-Q4) — 출처: WebSearch (SEC 8-K FY2023 인용)
+### D. H20 수출 규제 충격
+24. 2025년 4월 9일 BIS, H20 중국 수출에 라이선스 요건 부과 — 출처: [CNBC](https://www.cnbc.com/2025/04/15/nvidia-says-it-will-record-5point5-billion-quarterly-charge-tied-to-h20-processors-exported-to-china.html)
+25. H20 관련 초기 충당금 공지: **$5.5B** → 실제 Q1 FY2026 write-down: **$4.5B** (재활용 등으로 $1B 절감) — 출처: [Fortune](https://fortune.com/2025/06/03/nvidia-chips-h20-writedown-4-5-billion-china/)
+26. 규제 이전 H20 분기 매출: **$4.6B** (Q1 FY2026) — 규제 후 추가 상실: $2.5B (Q1) + $8B (Q2 예상) — 출처: [Computer Weekly](https://www.computerweekly.com/news/366625005/Nvidia-takes-45bn-hit-due-export-restrictions)
+27. 중국 AI 가속기 시장에서 NVIDIA 점유율: **0%** (Jensen Huang 직접 확인) — 출처: Tom's Hardware
+28. 화웨이 AI 칩 2026 예상 매출: **$12B** ($7.5B in 2025 대비) — 출처: [Tom's Hardware](https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero)
 
-### Intel 지분 오버행 (SEC Proxy 2026)
-25. Intel 현재 Mobileye 지분: 약 77~88% (출처별 상이) — 출처: WebSearch (StockTwits, Times of Israel)
-26. Intel의 $1.5B 지분 매각 선례 — 출처: WebSearch (Times of Israel)
-27. Intel 2026년 Mobileye 자사주매입: $100M (6.23M주, 주당 $16.04625) — 출처: Proxy 2026 (StockTitan)
-28. Intel 공식 입장: "다수 지분 매각 계획 없다" — 출처: WebSearch (TT News)
+### E. 블랙웰 아키텍처 & TSMC CoWoS 병목
+29. NVIDIA, TSMC CoWoS 용량의 **50~60% 단독 점유** (2025~2026) — 출처: [wccftech](https://wccftech.com/nvidia-alone-has-tsmc-advanced-packaging-lines-booked-for-several-years-ahead/)
+30. CoWoS 용량: 35,000 wpm(2024 말) → **130,000 wpm**(2026 말 목표) — 출처: [fusionww.com](https://www.fusionww.com/insights/blog/inside-the-ai-bottleneck-cowos-hbm-and-2-3nm-capacity-constraints-through-2027)
+31. NVIDIA 경영진: "CoWoS 패키징 용량은 최소 2026년 중반까지 초과 수요" — 출처: Tom's Hardware
 
-### 자사주매입 및 Mentee Robotics
-29. $250M 자사주매입 프로그램 발표 (2026년 4월 23일) — 출처: BusinessWire Q1 2026
-30. Mentee Robotics 인수: $900M ($612M 현금 + 26.2M주), CES 2026 발표, 2026년 PoC/2028년 양산 목표 — 출처: WebSearch (AIBusiness, FinancialContent)
+### F. Rubin 플랫폼 (차세대)
+32. Rubin GPU: **Q3 2026** 출시 예정, Rubin Ultra: **H2 2027** — 출처: [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-enterprise-roadmap-rubin-rubin-ultra-feynman-and-silicon-photonics)
+33. Rubin NVL144 성능: **3.6 EFLOPS FP4** (Blackwell 대비 **3.3배** 향상) — 출처: Tom's Hardware
+34. Rubin: HBM3e → **HBM4** 전환, 대역폭 8 TB/s → **13 TB/s** — 출처: Tom's Hardware
+35. 제조 공정: TSMC **3nm** — 출처: Tom's Hardware
 
-### ADAS 파이프라인 및 시장 (Mobileye IR)
-31. Mobileye 8년 파이프라인: $24.5B (2022년 말 대비 +42%) — 출처: Mobileye IR
-32. EyeQ6H Surround ADAS 예상 납품: 19M+ 단위 (VW + 미국 OEM + Mahindra) — 출처: WebSearch (Yahoo Finance Mobileye Surround 기사)
-33. SuperVision 기반 차량: 2026년 약 120만 대 예상 — 출처: WebSearch (Mobileye IR SuperVision 기사)
-34. Surround ADAS ASP: $150-200 (기본 ADAS 칩 $40-50 대비 3-5배) — 출처: WebSearch (Yahoo Finance 기사)
-35. Mobileye 기술 탑재 차량: 약 1,200개 차종 — 출처: WebSearch (ADAS 시장 기사)
+### G. 국제 경쟁 — 한국/중국/구글
 
-### CEO 발언 (어닝콜 — Yahoo Finance/WebSearch 인용)
-36. Amnon Shashua: "very good results" (Q1 2026 결과) — 출처: WebSearch
-37. Amnon Shashua: "We also secured an important design win with Mahindra which adds a third Surround ADAS customer and a second customer for our next-generation SuperVision product" — 출처: WebSearch (Yahoo Finance)
-38. Amnon Shashua: Porsche SuperVision 미국 프리프로덕션 테스트에서 "outstanding" 성능 — 출처: WebSearch (Yahoo Finance)
+#### 한국 — SK하이닉스 HBM
+36. SK하이닉스 글로벌 HBM 점유율: **62%** (삼성, 마이크론 각 ~20%) — 출처: [Astute Group](https://www.astutegroup.com/news/general/sk-hynix-holds-62-of-hbm-micron-overtakes-samsung-2026-battle-pivots-to-hbm4/)
+37. SK하이닉스 2026년 HBM 전량 NVIDIA에 사전 배정 완료 — 출처: [Notebookcheck](https://www.notebookcheck.net/SK-hynix-sells-out-its-DRAM-NAND-and-HBM-chip-supply-to-Nvidia-through-2026-as-AI-demand-outpaces-Samsung-and-Micron-s-capacity.1151402.0.html)
+38. HBM3E 2026 가격 인상 **~20%** — 출처: [TrendForce](https://www.trendforce.com/news/2025/12/24/news-samsung-sk-hynix-reportedly-plan-20-hbm3e-price-hike-for-2026-as-nvidia-h200-asic-demand-rises/)
+39. UBS: SK하이닉스 Rubin용 HBM4 약 **70% 점유** 전망 — 출처: [KED Global](https://www.kedglobal.com/korean-chipmakers/newsView/ked202601280002)
 
-### 애널리스트 목표가
-39. TD Cowen: $10 (Buy), Goldman Sachs: $9 (Neutral), UBS: $10 (Neutral) — 출처: WebSearch
-40. 애널리스트 컨센서스 중앙값: $17.01 (51명 기준, 범위 $12-$31.10) — 출처: WebSearch (MarketBeat)
-41. 주가 5/13 하루 상승: +15.17% — 출처: WebSearch / 테마 파일
+#### 중국 — 화웨이 Ascend 910C
+40. 화웨이 Ascend 910C 계획 생산량: **600,000개** (2026년) — 출처: [Huawei Central](https://www.huaweicentral.com/huawei-plans-600000-ascend-910c-chips-by-2026-to-block-nvidia-in-china/)
+41. Ascend 910C 성능: B200의 **33% 처리량**, H100 대비 **60% 추론 성능** — 출처: [Tom's Hardware CFR 보고서](https://www.tomshardware.com/tech-industry/semiconductors/huawei-still-cant-match-nvidia-on-ai-chips-says-cfr-report)
+42. 중국 국내 AI 칩 제조사 합산 점유율: **41%** (IDC 2026 추산) — 출처: [Winbuzzer](https://winbuzzer.com/2026/04/03/chinese-chipmakers-now-hold-41-of-chinas-ai-chip-market-xcxwbn/)
 
-### 경쟁 환경
-42. Qualcomm Snapdragon Ride: GM 수주로 Mobileye 경쟁 심화 — 출처: WebSearch (AutoNews)
-43. Hyundai Mobis가 ADAS 소프트웨어/AI 독자 개발 중 — 출처: WebSearch (한국 기사)
-44. 화웨이 MDC(Mobileye Data Center) 플랫폼이 중국 내 경쟁 — 출처: WebSearch
+#### 구글 — Ironwood TPU (ASIC 위협)
+43. Google Ironwood (TPUv7): **4.6 PFLOPS FP8** (B200의 4.5 PFLOPS 대비 소폭 우위) — 출처: [Google Cloud Blog](https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads/)
+44. Ironwood 9,216칩 POD 총 성능: **42.5 ExaFLOPS** (NVIDIA 시스템 최대 72 GPU와의 규모 차이) — 출처: [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deploys-new-axion-cpus-and-seventh-gen-ironwood-tpu-training-and-inferencing-pods-beat-nvidia-gb300-and-shape-ai-hypercomputer-model)
+45. Ironwood TCO: GB200 서버 대비 **~44% 절감** — 출처: Tom's Hardware
+46. Anthropic-Google 계약: **400,000개 TPUv7, ~$100억** 규모 (공개된 최대 단일 ASIC 계약) — 출처: Tom's Hardware
 
----
-
-## 직접 인용 (원문)
-
-1. "We also secured an important design win with Mahindra which adds a third Surround ADAS customer and a second customer for our next-generation SuperVision product" — Amnon Shashua (CEO), Q1 2026 어닝콜 (2026-04-23)
-
-2. "Mobileye's focus over the last couple of years on supporting Chinese OEMs on their export ambitions is paying dividends." — Mobileye IR 보도 인용
-
-3. "outstanding" (Porsche SuperVision 미국 테스트 성능 묘사) — Amnon Shashua, Q1 2026 어닝콜
+### H. 주가 패턴 & 투자 포지셔닝
+47. NVIDIA 6분기 연속 컨센서스 대비 **3~4% 비트**, 그러나 최근 5번 중 **4번은 발표 당일 주가 하락** — 출처: [TIKR](https://www.tikr.com/blog/nvidia-stock-pulls-back-before-may-20-earnings-heres-what-the-1-trillion-demand-story-still-needs-to-prove)
+48. NVDA 2026년 3월 저점 대비 **+40% 반등**, YTD +19.2% (5월 19일 기준) — 출처: [Morningstar](https://www.morningstar.com/stocks/ahead-earnings-is-nvidia-stock-buy-sell-or-fairly-valued-3)
+49. 현재 P/E: **48배+** — 출처: Kiplinger 종합
 
 ---
 
-## 숫자 데이터 테이블
+## 직접 인용 (정확한 원문만)
 
-| 항목 | 수치 | 출처 |
-|------|------|------|
-| Q1 2026 매출 | $558M (+27% YoY) | SEC 8-K |
-| 조정 EPS | $0.12 (컨센 $0.09) | BusinessWire |
-| GAAP EPS | -$4.68 (굿윌 $3.788B) | SEC 8-K |
-| FY2026 가이던스 중간값 | $1.975B | BusinessWire |
-| Q2 2026 예상 | -6% YoY | Investing.com |
-| FY2025 연매출 | $1,894M (+15%) | SEC FY2025 8-K |
-| EyeQ 누적 (2021) | 1억 개 | Mobileye 공식 |
-| EyeQ 누적 (2024) | 2억 개 | Mobileye 공식 |
-| 2014년 연간 출하 | 270만 개 | Mobileye 블로그 |
-| 2020년 연간 출하 | 1,930만 개 | Mobileye 블로그 |
-| 8년 파이프라인 | $24.5B (+42%) | Mobileye IR |
-| Surround ADAS ASP | $150-200 | Yahoo Finance |
-| Intel 지분 | ~77~88% | Proxy 2026 |
-| 자사주매입 | $250M | BusinessWire |
-| Mentee Robotics | $900M 인수 | Mobileye 공식 |
-| 애널리스트 목표가 중앙값 | $17.01 | MarketBeat |
+1. "Computing demand is growing exponentially — the agentic AI inflection point has arrived. Grace Blackwell with NVLink is the king of inference today — delivering an order-of-magnitude lower cost per token — and Vera Rubin will extend that leadership even further." — Jensen Huang, NVIDIA Q4 FY2026 Earnings Call, Feb 25, 2026 — 출처: [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/jensen-huang-says-nvidia-turns-142802231.html)
+
+2. "I see through 2027 at least $1 trillion." — Jensen Huang, GTC 2026 Keynote, March 16, 2026 — 출처: [Yahoo Finance GTC](https://finance.yahoo.com/sectors/technology/articles/nvidia-gtc-keynote-huang-unveils-090540676.html)
+
+3. "Nvidia turns electrons into tokens. That's the whole business." — Jensen Huang, April 2026 — 출처: [247wallst.com](https://247wallst.com/investing/2026/04/16/jensen-huang-says-nvidia-turns-electrons-into-tokens-thats-the-whole-business/)
+
+---
+
+## 숫자 데이터 (검증 가능한 것만)
+
+| 메트릭 | 값 | 출처 |
+|--------|-----|------|
+| Q4 FY2026 총 매출 | $68.1B (+73% YoY) | CNBC/SEC EDGAR |
+| Q4 FY2026 DC 매출 | $62.3B (+75% YoY) | SEC EDGAR 8-K |
+| Q4 FY2026 Gross Margin | 75.0%/75.2% GAAP/비-GAAP | SEC EDGAR |
+| Q1 FY2027 NVIDIA 가이던스 | $78.0B ±2% | NVIDIA 공식 |
+| Q1 FY2027 컨센서스 | $78.8B, EPS $1.77 | Wall Street 종합 |
+| Q2 FY2027 컨센서스 | $86.6B (위스퍼 $90B) | BitMEX |
+| Q1 FY2024 매출 (3년 전) | $7.19B | SEC EDGAR |
+| Q1 FY2025 매출 (2년 전) | $26.0B | SEC EDGAR |
+| FY2026 전체 매출 | $215.9B (+65%) | Yahoo Finance |
+| H20 write-down | $4.5B (Q1 FY2026) | Fortune/CNBC |
+| 중국 AI 시장 NVIDIA 점유율 | 0% (화웨이 ~40%) | Tom's Hardware |
+| SK하이닉스 HBM 점유율 | 62% | Astute Group |
+| TSMC CoWoS 용량 | 35K→130K wpm | fusionww.com |
+| Ironwood 성능 | 4.6 PFLOPS FP8 / 42.5 ExaFLOPS (9K칩) | Google Cloud Blog |
+| Rubin 성능 향상 | Blackwell 대비 3.3배 | Tom's Hardware |
 
 ---
 
 ## 관련 종목
-- $MBLY: 주인공 (ADAS 1위, 부활 사이클)
-- $INTC: 최대주주(77~88%), 오버행이자 파트너
-- $NVDA: ADAS 경쟁자 (DRIVE 플랫폼)
-- $QCOM: Snapdragon Ride, GM 수주 경쟁
+- **$NVDA**: 직접 분석 대상
+- **$AVGO (Broadcom)**: ASIC 설계 수혜 (구글 TPU, 메타 MTIA 서플라이)
+- **$TSM (TSMC)**: CoWoS 패키징 독점 + Rubin 3nm 수탁
+- **삼성전자/SK하이닉스**: HBM3E/HBM4 공급망 수혜 — 픽앤샤블 플레이어
+- **$AMD**: GPU 2위 — NVDA 어닝 이후 섹터 재평가 촉매
+
+---
 
 ## 반론/리스크
-1. Q2 2026 가이던스 -6% YoY → 재고 사이클 완전 해소 미확인
-2. Intel 77~88% 지분 오버행 — 언제든 추가 매각 가능
-3. Tesla/GM 자체 ADAS 내재화로 장기 고객 이탈 가능
-4. Qualcomm Snapdragon Ride GM 수주로 경쟁 심화
-5. 굿윌 손상 $3.788B = 시가총액 하락이 트리거 = 시장의 불신을 수치화
-6. Mentee Robotics $900M 인수: 현금 소각 + 희석 우려
-7. 조정 매출총이익률 66% (전년 69%에서 하락) — 믹스 변화 압박
+
+1. **'비트했지만 하락'의 법칙**: 6분기 연속 비트에도 최근 5번 중 4번 당일 하락. 시장이 완벽함이 아닌 '전설'을 기대하는 상황.
+2. **H20 공백의 영구성**: 2024년 중국 매출 $17B → 2026년 $0. 규제 강화 리스크 지속.
+3. **ASIC 장기 위협**: Google Ironwood 44% TCO 우위 + Anthropic의 TPU 400K개 계약 — AI 추론 시장이 ASIC으로 이동하면 NVIDIA 장기 점유율 잠식 가능.
+4. **CoWoS 병목의 양날**: 2026년 중반까지 공급 제약 = 매출 상한선. 수요보다 공급이 부족한 유일한 이유이기도 함.
+5. **고밸류에이션**: P/E 48배+ — "AI 버블" 재점화 리스크.

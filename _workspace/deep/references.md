@@ -1,4 +1,44 @@
-# 레퍼런스 기사 분석 (2026-05-19)
+# 레퍼런스 기사 분석 — NVIDIA Q1 FY2027 어닝 딥다이브 (2026-05-20)
+
+## 주의: 다수 URL 403 접근 불가 — 검색 결과 요약 기반 구성
+
+---
+
+## 레퍼런스 1: TIKR — "NVIDIA Stock Pulls Back Before May 20 Earnings"
+URL: https://www.tikr.com/blog/nvidia-stock-pulls-back-before-may-20-earnings-heres-what-the-1-trillion-demand-story-still-needs-to-prove
+
+- **구조**: 역발상 프레임으로 시작 → 핵심 지표 나열 → 역사적 패턴 분석 → 투자자 관점
+- **문체**: "The pattern is now well established: the market prices in perfection, Nvidia delivers excellence, and the stock drops because the whisper numbers were even higher." — 간결하고 날카로운, 아이러니 활용
+- **도입부**: 주가 하락이라는 역설적 사실로 시작 — 예상과 반대 인사이트로 독자 주목
+- **숫자 활용**: "3~4% 비트, 그러나 4/5번 하락"이라는 역설적 대비로 임팩트 극대화
+- **배울 점**: 역설로 글 시작, 컨센서스 vs 위스퍼 넘버 구분, 단순 낙관론 피하기
+
+## 레퍼런스 2: Fortune — "Nvidia smashes Q4 2026 with $68 billion in revenue"
+URL: https://fortune.com/2026/02/25/nvidia-nvda-earnings-q4-results-jensen-huang/
+
+- **구조**: 헤드라인 숫자로 강렬하게 시작 → 세부 분류 → CEO 발언 → 미래 전망
+- **문체**: 힘 있는 동사("smashes"), 구체 숫자 먼저, 맥락은 그 다음
+- **숫자 활용**: "$62.3B 데이터센터"를 "AI 공장이 75% YoY로 폭발"로 표현
+- **배울 점**: 동사 선택이 핵심, 숫자보다 임팩트 먼저, Jensen Huang 인용으로 권위 부여
+
+## 레퍼런스 3: BitMEX — "Nvidia Earnings Preview Q1 FY27"
+URL: https://www.bitmex.com/blog/nvidia-earnings-q1-fy2027
+
+- **구조**: 5-key-signals 프레임 (투자자 체크리스트) → 각 신호별 심층 분석
+- **문체**: 투자자 관점 중심, 직접적 조언 톤
+- **숫자 활용**: 컨센서스 vs 가이던스 vs 위스퍼 넘버 3단 계층으로 정밀 비교
+- **배울 점**: 독자가 직접 결과 해석 가능한 체크리스트 제공, 모든 시나리오 커버
+
+## 우리 글에 적용할 기법
+1. **역설적 리드**: "가장 많이 팔리는 AI 칩 회사가 왜 중국에서 0%인가" 식의 역설로 시작
+2. **시계열 시각화**: "3년 전 $7B → 오늘 $79B"를 단순 숫자가 아닌 스토리로
+3. **체크리스트 종결**: 투자자가 오늘 밤 결과를 해석하는 5개 체크리스트로 마무리
+4. **인용 배치**: Jensen 핵심 발언을 독립 인용 블록으로, 맥락 다음에 배치
+5. **다층 비교**: 단순 YoY가 아닌 "Q1 FY2024 $7B vs Q1 FY2027 $79B — 4년 만에 11배"
+
+---
+
+## (이하 2026-05-19 Mobileye 레퍼런스 — 참고용 보존)
 
 ## 레퍼런스 기사
 
