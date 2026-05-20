@@ -296,3 +296,9 @@
 - 핵심 주장/결론: 오늘 밤의 핵심은 Q1 숫자가 아닌 Q2 가이던스. $88B+이면 AI 수요 사이클 지속, $86B 이하면 모멘텀 의구심. 픽앤샤블 최선호는 SK하이닉스 — 2026년 HBM 전량 NVIDIA 사전배정, Rubin HBM4 70% 확보 전망.
 - 1차 자료 출처: SEC EDGAR Q4 FY2026 8-K × 1, NVIDIA Newsroom Q3 FY2026 × 1, GTC 2026 키노트 트랜스크립트 × 1, Google Cloud Ironwood 공식 블로그 × 1, SK하이닉스 공식 뉴스룸 × 1, TSMC CoWoS 공급망 분석(Tom's Hardware) × 1, CNBC H20 수출규제 보도 × 1 (총 7건)
 - 판정: Minor (6개 개선점 반영 — 환각 6건 삭제/완화, Q2 기준선 근거 명시, 마지막 여운 문장 강화, $AVBO 오타 수정)
+
+## 2026-05-20 22:00 [PM] (테마: 에너지/원자력/친환경)
+- 헤드라인: 엔비디아의 밤이 왔다 — 79조 원짜리 답변, 장이 열리기 전 마지막 점검
+- 오늘의 픽: $BWXT (카탈리스트: PCG $200M 인수 + FY26 가이던스 상향 + Q1 서프라이즈), $D (카탈리스트: NEE 합병 $66.8B 2026-05-18 발표, 합병차익 스프레드 $8.7) [와치리스트 외]
+- 뉴스 토픽: [에너지] NEE-Dominion $66.8B 합병(AI 데이터센터 전력 패권) / NANO Nuclear-Supermicro MOU / 원자력 2040년 수요 +100% / WTI $103 이란 협상 기대 / [기업] NVDA 오늘 밤 Q1 FY27 실적($78.8B 컨센, D-Day) / GOOGL Google I/O Gemini 3.5 Flash·Android XR·Gemini Spark 발표 / TSLA FSD 유럽(네덜란드) 승인 / COIN 프리마켓 -0.53% CLARITY Act 차익실현 / [매크로] 30Y 5.19% / FOMC 의사록 오늘 오후 / WMT DE 내일 어닝 / [ARK] TSLA -33,775주, AMD -15,855주 매도
+- 팟캐스트: (오늘 창 내 신규 에피소드 미확인 — 복습 추천으로 대체)
