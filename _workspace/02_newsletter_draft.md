@@ -1,154 +1,181 @@
-# 달러가 코드가 됐다 — GENIUS Act 1년, 스테이블코인 시대를 선언한 4인의 목소리
+43조가 돌아왔다 — 코스피 8% 급반등의 밤, 미장이 엔비디아를 기다린다
+머뉴 MoneyNews 오후 브리핑 | 2026년 5월 21일 (목) | 돈이 되는 모든 것에 대한 소식
 
-*🎤 보이스 컴필 | $COIN $PYPL $V $MA Circle(CRCL) | 2026-05-21*
+🇰🇷 오늘 한국 장 마감
 
----
+코스피 **7,790** (+8.1%, +582p) / 코스닥 **1,084** (+2.7%) / 원달러 **1,498원**
 
-2025년 7월 18일, 도널드 트럼프가 한 장의 법안에 서명했다. GENIUS Act — 미국 역사상 최초의 연방 스테이블코인 법이다. 불과 10년 전, 스테이블코인이라는 단어조차 없던 시절의 이야기다. 그런데 지금은 달러로 된 디지털 코인이 한 해 동안 **33조 달러**를 움직인다. 미국 GDP(27조 달러)보다 많다. Visa와 Mastercard를 합쳐도 25.5조 달러인데.
+열흘간 44조를 팔아치웠던 외국인이 오늘 방향을 틀었다. 기관이 2조 3,000억을 쏟아부었고, 외국인도 2,023억 순매수로 전환했다. 전일 7,209에서 시작해 장중 7,790까지 치솟은 코스피는 장초반 코스닥에 매수 사이드카까지 발동시켰다. 촉매는 단 하나였다 — 어젯밤 젠슨 황이 말했다: "수요가 폭발했습니다. 에이전틱 AI가 도착했기 때문입니다."
 
-법이 생겼다고 세상이 바뀌는 건 아니다. 진짜 전쟁은 그 다음부터다. 누가 이 새로운 달러 인프라를 장악하는가, 누가 통제하는가, 그리고 누가 거부하는가. 이 전쟁의 전선은 미국에만 있지 않다. EU는 이미 1년 전에 규제 프레임워크를 발효시켰고, 한국은 은행과 핀테크가 주도권을 두고 싸우고 있다. 오늘 4명의 목소리를 들어보자. 미 재무장관 스콧 베센트, 민주당 상원의원 엘리자베스 워런, Stripe CEO 패트릭 콜리슨, PayPal CEO 알렉스 크리스. 이들의 발언은 단순한 찬반 논쟁이 아니다. 달러가 코드화되는 이 시대를 바라보는 네 개의 근본적으로 다른 세계관이다.
+🇺🇸 미국 프리마켓
 
----
+선물: **S&P 500 +0.8%** / **나스닥 +1.2%** / **다우 +0.6%** / WTI **$104.52** / BTC **$77,852**
 
-## 10년의 궤적 — 달러가 블록체인 위로 올라오기까지
+엔비디아 실적이 모든 것을 바꿨다. Q1 FY27 매출 $81.6B(+85%, 예상 $79.2B 상회), EPS $1.87(예상 $1.77 상회), Q2 가이던스 $91B(예상 $87.3B 상회), 그리고 $80B 자사주매입. 나스닥 선물이 앞서고 있지만 이란이 변수다 — 이란 최고지도자가 농축 우라늄 해외 반출 금지 지시를 내려 WTI가 $104를 유지 중이다. 강한 실적과 지정학적 긴장이 동시에 올라오는 복잡한 밤.
 
-스테이블코인의 역사는 생각보다 짧다. 2014년, 한 팀이 "Realcoin"이라는 이름으로 달러 가치에 페그된 디지털 토큰을 만들었다. 나중에 Tether(USDT)로 이름을 바꾼 이 코인은 당시 암호화폐 커뮤니티에서 거래 편의용 파킹 자산이었다. BTC를 팔면서 달러 가격을 유지하고 싶을 때 쓰는 중간 저장소.
+📌 오늘 미장을 이해하는 세 가지 숫자
 
-2018년, Circle과 Coinbase가 USDC를 출시했다. 더 투명하고 규제 친화적인 대안을 표방하며. 그리고 2019년, 페이스북이 "Libra"를 발표하면서 세상이 뒤집혔다. 20억 명의 사용자를 보유한 소셜미디어 회사가 사실상의 글로벌 화폐를 만들겠다고 나선 것이다. 각국 의회는 즉각 반발했다. 규제 압력 아래 페이스북(Meta)은 2022년 프로젝트를 폐기했다. Diem이라는 이름으로 재출시를 시도했지만, 결국 패배였다.
+1. **$91B** — 엔비디아 Q2 가이던스 중간값. 시장 예상($87.3B)을 4.2% 상회하는 충격적인 숫자다. 블랙웰 출하 가속, 에이전틱 AI 수요 폭발이 원동력. Jensen은 "Vera CPU가 $200B 시장의 새 탭을 열었다"고 했다. Rubin 아키텍처의 서막. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-forecasts-quarterly-revenue-above-202423200.html)
 
-하지만 그 패배가 씨앗이 됐다. Libra의 좌절은 규제 당국에게 경고를 날렸다 — 스테이블코인은 투기 장난감이 아니다. 방치하면 민간이 달러를 장악한다. 그 두려움이 역설적으로 입법을 앞당겼다. 2023년 PayPal이 PYUSD를 출시하고, 같은 해 FTX 붕괴가 규제 공백의 위험성을 재확인시키면서, 입법 기세는 돌이킬 수 없게 됐다.
+2. **+8.07%** — 오늘 코스피 상승률. 하루에 이게 가능한가? 가능하다. 10일간 44조의 외국인 매도가 지수를 7,209까지 눌렀고, 그 억압이 NVDA 실적 하나로 해제됐다. 압축스프링 효과. [머니투데이](https://www.mt.co.kr/stock/2026/05/21/2026052114054655825)
 
-2025년 7월 18일, GENIUS Act가 서명됐다. 그리고 10개월 뒤인 오늘(2026-05-21), 현실은 이렇다. PYUSD 잔고 **36억 달러** (+600% YoY), 스테이블코인 총 공급량 **3,200억 달러 돌파**, 글로벌 온체인 결제 규모 **연간 33조 달러**. Tether는 여전히 시장의 57.96%를 차지하는 $1,854억짜리 공룡이다. USDC는 $78B으로 2023년 이후 220% 성장했다. 세상의 달러 중 일부가 이미 블록체인 위에서 살고 있다.
+3. **32.5%** — 스트라이프가 페이팔을 인수할 확률(Polymarket 기준). 오늘 미장 핀테크 섹터에서 가장 뜨거운 화두. 오늘 밤 이 확률이 움직인다면 PYPL이 출렁인다.
 
----
+💰 관심 종목 현황
 
-## 스콧 베센트: 달러 패권을 지키는 무기
+| 티커 | 현재가 | 등락 | 애널 목표가 | 오늘 한줄 |
+|------|-------|------|-----------|----------|
+| $TSLA | $417.26 | ±0% | $369(컨센) | FSD 리투아니아(EU 2번째) 진출, ARK ARKK +109K주 역대 급 매수 전환 |
+| $GOOGL | $387.39 | -1.2% | $210(컨센) | Google I/O 완결: 26년 만에 최대 검색 변화, AI 에이전트 기본 탑재 |
+| $NVDA | $222.10 | -1.4% | $300+(KeyBanc) | $81.6B+$91B 가이던스+$80B 자사주매입 — 실적은 완벽, 주가는 제자리 패턴 |
+| $COIN | $195.20 | +1.1% | $310(컨센) | CLARITY Act 전체 상원 표결 임박, USDC 딜 압박 속 규제 기대감 |
+| $NFLX | $88.09 | +0.2% | $1,100(컨센) | $25B 자사주매입 진행 중, NFL 5경기 계약 장기 호재 |
+| $OKLO | $62.00 | 0% | $91-130(Bull) | Wolfe Research Peer Perform 신규 커버, Q1 어닝미스 소화 중 |
+| $OHI | $34.60 | +0.3% | $36(컨센) | 헬스케어 리츠 방어주, 분기 배당 $0.67 안정 |
+| $SPY | $742.30 | +0.7% | — | NVDA 발 랠리 기대감 선반영 |
+| $QQQ | $703.50 | +1.0% | — | 나스닥 100 기술주 상승 주도 |
 
-미 재무장관 스콧 베센트의 목소리는 명확하다. 스테이블코인은 달러 패권에 대한 위협이 아니라 **달러 패권을 강화하는 도구**다.
+👀 오늘 밤 주목할 것
 
-그는 상원 청문회에서 이렇게 말했다. *"Stablecoin legislation backed by US Treasuries or T-bills will create a market that will expand US dollar usage via these stablecoins all around the world."* 미국 국채로 뒷받침되는 스테이블코인이 세계 전역에서 달러 사용을 확장할 것이라는 논리다. 그리고 결정적으로: *"$2 trillion is a very, very reasonable number, and I could see it greatly exceeding that."* 스테이블코인 시장이 2030년까지 최소 **2조 달러**로 성장할 것이라는 전망이다. 베센트가 인용한 애널리스트 예측은 **3.7조 달러**다.
+- **엔비디아 주가 최종 반응**: 실적은 완벽하지만 주가는 AH -2% → 프리마켓 회복 패턴. 정규장에서 $230 돌파 여부가 핵심 — 돌파 못하면 "이미 선반영"이라는 내러티브가 힘을 얻는다.
+- **이란 리스크**: 이란 최고지도자의 우라늄 국내 보관 지시가 미-이란 협상을 복잡하게 만들었다. WTI $105 돌파 시 에너지 섹터 수혜, 기술주 부담.
+- **CLARITY Act 표결 카운트다운**: 메모리얼 데이(5/25) 전 전체 상원 표결 여부. 통과 시 크립토 섹터 전반이 급등할 수 있다.
+🔥 오늘의 픽 — 핀테크/결제/크립토 (목요일 테마)
 
-왜 재무장관이 이렇게 적극적인가? 달러 표시 스테이블코인이 폭발적으로 성장하면, 그 준비금은 대부분 미국 국채에 묶인다. GENIUS Act가 요구하는 1:1 준비금 규정이 있고, 그 준비금의 상당 부분을 단기 미국 국채와 역레포로 채워야 하기 때문이다. 스테이블코인이 성장할수록 미국 국채 수요가 늘어난다. 30년물 국채가 5.1%를 뚫은 오늘, 국채 수요는 재무부에게 가장 시급한 과제다.
+🌡️ 시장 온도
 
-베센트의 논리는 지정학적이기도 하다. *"Crypto is not a threat to the dollar. In fact, stablecoins can reinforce dollar supremacy."* 중국이 위안화 디지털화를 추진하고, 브릭스 국가들이 탈달러를 외치는 세상에서, 달러 표시 스테이블코인은 미국의 새로운 통화 외교 무기다. 인터넷에 달러의 새로운 레일을 깔아두면, 전 세계 인터넷 경제에서 달러의 기본 통화 지위가 유지된다.
+오늘 시장은 "공포 → 안도"의 극적인 반전이었다. NVDA 실적 하나가 44조 매도의 기억을 지웠다. 그런데 오늘 진짜 조용한 이야기는 핀테크/크립토에 있다. 트럼프가 5/19 행정명령으로 "핀테크와 크립토 기업을 기존 금융 인프라에 통합하라"고 명령했고, CLARITY Act는 Memorial Day 전 전체 상원 표결을 앞두고 있다. AI의 다음 인프라가 결제와 스테이블코인임을 시장이 서서히 눈치채기 시작했다.
 
-GENIUS Act는 이 전략의 법적 인프라다. 법 통과 10개월이 지난 지금, JPMorgan Asset Management가 5월 13일 론칭한 JLTXX 펀드는 이 전략이 실행 단계임을 보여준다. JLTXX는 GENIUS Act 준거 스테이블코인 발행사의 준비금 자산으로 특화 설계된 토크나이즈드 MMF다. JPMorgan은 자체 **1억 달러($100M)** 를 초기에 투입하며 GENIUS Act 기반 생태계에 베팅했다.
+🎯 오늘의 테마: 핀테크/크립토
 
----
-
-## 엘리자베스 워런: 이것은 트럼프 부패의 코드다
-
-워런 상원의원은 다른 세계에 산다. 그녀에게 GENIUS Act는 달러 강화 도구가 아니라 **정치적 부패의 디지털 버전**이다.
-
-*"This bill puts investors, our national security and our entire financial system at risk – and it will turbocharge Donald Trump's crypto corruption."*
-
-강한 말이다. 하지만 그녀가 지적하는 구체적 사실이 있다. 트럼프와 그의 가족은 크립토 거래에서 지난 1년 동안 최소 **14억 달러($1.4B)** 의 이익을 챙겼다. 그리고 결정적으로 — 아랍에미리트 아부다비의 국부펀드 MGX는 **트럼프 가족의 스테이블코인 USD1**로 바이낸스에 20억 달러를 투자했다. MGX의 공동 소유자는 중국 정부와 광범위한 연결 고리가 있는 기업이다.
-
-GENIUS Act 아래에서 USD1은 연방법이 인정하는 적법한 결제 스테이블코인이 된다. 대통령의 가족이 발행하는 스테이블코인에 법적 정당성을 부여하는 법을 대통령이 서명한다 — 이것이 워런이 말하는 "crypto corruption"의 구조적 의미다.
-
-워런의 금융 시스템 우려도 있다. AML(자금세탁방지) 체계를 우회하는 익명 스테이블코인 거래, 북한과 이란의 스테이블코인 활용 사례, 프라이버시 보호와 금융 추적 사이의 딜레마. 그녀는 5월 19일에도 OCC(통화감독청)가 Coinbase, Ripple 등 크립토 기업에 은행 면허를 부여한 것을 "불법 규제 차익"이라며 공격했다. 미국은행협회(ABA)와 대형 은행 연합의 반대도 같은 논리다 — 스테이블코인이 은행 예금을 대체하면 은행의 중개 기능이 해체된다. 수조 달러가 걸린 싸움이다.
-
-워런의 반대는 단순한 크립토 혐오가 아니다. 규제 없는 민간 화폐 발행 권한이 정치적으로 연결된 집단에게 집중되는 것에 대한, 고전적인 권력 분립의 문제다.
-
----
-
-## 패트릭 콜리슨 vs 알렉스 크리스: 이미 쓰이고 있다
-
-이론적 논쟁과 달리, Stripe와 PayPal의 CEO는 이미 현실에서 스테이블코인을 사용하고 있다. 그들의 발언은 미래 전망이 아니라 **지금 일어나고 있는 일에 대한 보고**다.
-
-패트릭 콜리슨(Stripe CEO)은 스테이블코인을 *"room-temperature superconductors for financial services"*라고 불렀다. 상온 초전도체 — 이 비유가 의미하는 것은 무엇인가. 초전도체는 전기 저항이 제로인 물질이다. 하지만 기존 초전도체는 영하 수백도의 극저온에서만 작동한다. 상온 초전도체는 그 마법이 일상 온도에서 작동하는 것이다. 콜리슨에게 스테이블코인은 금융의 마찰 저항을 제로에 가깝게 만들면서도, 일상적인 환경에서 작동하는 혁신이다.
-
-그는 왜 기업들이 채택하는지를 이렇게 설명했다. *"These businesses are not using crypto because it's crypto or for speculative benefit. They're performing real-world financial activity, and they've found that crypto (via stablecoins) is easier, faster, better than the status quo."* 더 쉽고, 더 빠르고, 더 좋기 때문이다. 단순하다.
-
-Stripe가 Paradigm과 함께 만든 Tempo 블록체인은 2026년 3월 메인넷을 론칭했다. 기업 간 스테이블코인 결제를 위한 전용 레이어. Visa, Fifth Third Bank, Howard Hughes Holdings, DoorDash가 이미 파트너다. DoorDash는 배달 기사들에게 스테이블코인으로 급여를 지급하는 옵션을 테스트 중이다. 5월에는 Morpho의 75억 달러($7.5B) 운용자산 대출 마켓이 통합됐다 — Tempo는 이제 결제를 넘어 DeFi 금융 플랫폼으로 진화하고 있다.
-
-알렉스 크리스(PayPal CEO)는 다른 방식으로 증명했다. PayPal은 PYUSD를 이용해 5개 법인, 3개 대륙에 걸친 **10억 달러($1B)** 의 기업 내부 자금을 이체했다. SWIFT를 통한 국제 송금은 2~5영업일에 수십 베이시스포인트 수수료가 붙는다. 스테이블코인은 분 단위, 수수료는 사실상 제로. *"How do we enable consumer-to-business transactions and actually disrupt payments by leveraging stablecoins?"* 크리스가 스스로에게 던진 질문이 PYUSD의 방향타다.
-
-그 결과가 $36억, YoY +600%다. 전 세계 스테이블코인 결제 규모는 2025년 **33조 달러**에 달했다. Visa와 Mastercard 합산($25.5조)을 넘어섰다. Visa는 Q1 2026에만 연환산 기준 **46억 달러**의 스테이블코인 결제를 자사 네트워크에서 처리했고, Mastercard는 스테이블코인 인프라 기업 BVNK를 **18억 달러**에 인수했다 — 역대 최대 스테이블코인 M&A다.
+목요일 스크리너 조합: #2(신고가/모멘텀) + #3(내부자) + #4(어닝서프라이즈)
+오늘 핀테크/크립토 클러스터가 주축인 이유: 트럼프 EO 5/19(결제 인프라 통합 명령) + CLARITY Act 전체 표결 임박(D+4) + GENIUS Act 7월 완전 시행(D+41). 규제의 방향이 확정되는 주간이다. 단, 오늘 NVDA 랠리가 AI 인프라 섹터를 지배하므로, 핀테크 픽들은 "AI 결제 인프라 교차점"에서 찾았다.
 
 ---
 
-## 같은 달러, 다른 규칙 — EU는 이미 1년 먼저 갔다
+💡 픽 1: BNPL이 흑자가 됐다, 6월 컨퍼런스가 증명한다
 
-스테이블코인 규제 경쟁에서 미국은 사실 선두가 아니다. **EU가 먼저 뛰었다.**
+**$AFRM Affirm Holdings** (시총 $21.8B, 핀테크/BNPL)
 
-EU의 MiCA(암호자산시장 규정)는 2024년 12월 30일 스테이블코인 조항이 전면 발효됐다 — GENIUS Act보다 7개월 앞서. Circle은 2024년 7월 MiCA 인증을 획득했고, 그 직후 유럽에서 USDC 거래량이 **337%** 급증했다. 규제 명확성이 시장을 폭발시킨다는 사례가 유럽에서 먼저 증명됐다. 2026년 현재 14개 발행사가 7개 EU 회원국에서 약 20종의 MiCA 준거 스테이블코인을 발행하고 있다. 미국 GENIUS Act는 MiCA보다 더 보수적이다 — 장기 채권 준비금 불가, 이자 지급 금지. 양 제도의 상호 운용 가능성이 2026~2027년 규제 협상의 핵심 의제다.
+Affirm이 조용히 변신했다. 2021년 BNPL 버블의 주인공에서, 2026년 실질 흑자 기업으로. Q3 FY2026(2월~4월) 매출 $1.1B(+30% YoY), 순이익 $130M(+62.5%)을 기록했다. 3년 전 "BNPL은 빚 함정"이라던 회의론자들이 숫자 앞에서 침묵했다. Affirm Card 채택이 급증하면서 반복 수익 기반이 생겼고, 트럼프 행정부가 "APR 10% 상한"을 검토 중인 역설적 환경에서도 BNPL 플레이어가 은행 대출 대비 구조적 우위를 갖는다는 역설적 혜택을 누리고 있다.
 
-**한국은 아직 협상 중이다.** 2024년 7월 시행된 가상자산이용자보호법(VAUPA)은 주로 거래소 규제에 집중됐고, 스테이블코인 발행은 포함되지 않았다. 8대 시중은행 컨소시엄이 원화 스테이블코인(KRW-coin) 개발을 추진하고 있지만, 금융위원회(발행자 제한 반대, 경쟁 허용)와 한국은행(은행 지분 51% 이상 의무화) 사이의 주도권 갈등이 법안 시행을 늦추고 있다. 디지털자산기본법(DABA)은 2026년 하반기 시행 목표이지만 유동적이다.
+CFO Rob O'Hare가 6월 3일 Evercore TMT Global Conference(D+13)에서, COO Michael Linford가 6월 4일 William Blair Growth Conference(D+14)에서 나란히 발표한다. 이런 더블 컨퍼런스 구성은 통상 숫자 업데이트를 동반한다. BofA는 최근 목표가를 $88로 상향했다. 현재 $65.54에서 34% 상승 여력.
 
-**싱가포르는 실용주의로 앞서나갔다.** MAS(통화청)는 2024년부터 단일통화 스테이블코인(SSCS) 전용 라이선스를 운용하며 Circle 싱가포르 법인 인증을 완료했다. Grab, Sea Group, ByteDance APAC 등 아시아 플랫폼 기업들의 크로스보더 결제 허브로서의 포지셔닝을 강화하고 있다. 한국 기업들이 원화 스테이블코인 논쟁을 벌이는 동안, 싱가포르의 달러 스테이블코인 인프라는 이미 아시아 시장에서 선점 우위를 굳히고 있다.
+배경: Affirm은 아마존, 월마트, 스트라이프, 셔필드 파이낸셜과의 파트너십을 확장 중이다. 스트라이프의 BNPL API가 Affirm을 통해 제공되는 구조. 트럼프 행정부가 PYUSD, USDC 등 스테이블코인 결제를 제도화하면, Affirm의 "즉결제-후분할" 구조가 디지털 달러 경제에도 자연스럽게 연결된다.
 
-세 지역의 공통 교훈은 하나다 — 규제가 명확해지자 기관이 움직였다. 한국만 아직 출발선 뒤에 서있다.
+전망/리스크: 상승 시나리오는 6월 컨퍼런스에서 Q4 가이던스 상향. 리스크는 미국 소비 침체 심화 시 BNPL 연체율 증가. 또한 내부자 매도(임원들의 꾸준한 RSU 매도)가 주가 오버행으로 작용 중이므로 분할 매수가 유리하다.
 
----
-
-## 네 목소리가 충돌하는 곳 — Tether라는 이름의 지뢰
-
-베센트, 워런, 콜리슨, 크리스. 이 네 사람이 보는 스테이블코인은 같은 기술인데 완전히 다른 의미를 갖는다.
-
-베센트에게 스테이블코인은 **지정학적 도구**다. 달러를 블록체인에 올리면, 달러가 세계 인터넷 경제의 기본 통화가 된다. 중국 위안화 CBDC와의 디지털 화폐 전쟁에서 미국이 가진 선제 무기다.
-
-워런에게 스테이블코인은 **규제 없는 권력 집중**이다. 민간이 화폐를 발행하고, 그 민간이 대통령의 가족이다. 금융 시스템의 가장 근본적인 안전장치 — 중앙은행의 화폐 독점권 — 가 민영화되는 과정이다.
-
-콜리슨과 크리스에게 스테이블코인은 **실용적 인프라**다. 기업이 돈을 빠르고 싸게 옮길 수 있는 도구. 기업은 더 나은 레일이 생기면 그리로 옮긴다. 이미 옮기고 있다.
-
-세 관점이 충돌하는 곳이 있다. **Tether**다. 시장의 57.96%, $1,854억을 차지하는 최대 스테이블코인은 미국 법인이 아니다. 영국령 버진아일랜드에 본사를 둔 해외 발행이다. GENIUS Act가 적용되지 않는다. 베센트의 달러 패권 논리는 Tether에게는 해당되지 않는다. 워런의 규제 우려도 Tether는 비껴간다. 콜리슨과 크리스가 만든 인프라의 유동성 상당 부분도 여전히 Tether에 의존한다. 달러 스테이블코인 시장의 절반 이상이 규제권 밖에서 성장하고 있는 이 역설 — 이것이 GENIUS Act가 직면한 가장 불편한 진실이다.
+📊 스코어카드
+기술적 2/3 | 수급 1.5/3 | **카탈리스트 2/2** | 펀더멘털 2/2 | 신선도 +1 | 종합 **8.5/10**
+📅 D-Day: 2026-06-03 Evercore TMT Conference (CFO 발표)
 
 ---
 
-## 달러가 코드가 된 세상, 당신의 포트폴리오는
+💡 픽 2: 달러가 블록체인으로 올라탔다, 그 인프라를 통제하는 회사
 
-**규제 명확성은 기관 진입의 문을 열었다.** GENIUS Act 이후 10개월. JPMorgan JLTXX 펀드 출시, Mastercard의 BVNK $18억 인수, Visa의 스테이블코인 결제 통합이 모두 같은 방향을 가리킨다. 기관이 움직이기 시작했다.
+**$CRCL Circle Internet Group** (시총 $27.6B, 스테이블코인/크립토 인프라)
 
-**투자 관점의 체크리스트**:
+Circle은 USDC의 발행사다. 지루하게 들릴 수 있지만, 숫자가 달라졌다. USDC 총 공급량 $75.3B(YoY +72%). 2026년 상반기 이자 수익만 $1.25B. Circle의 비즈니스 모델은 단순하다: 사용자들이 달러를 맡기면, 그 돈으로 미국 단기국채를 사서 이자를 번다. 금리가 높을수록, 달러 수요가 많을수록 Circle이 돈을 번다.
 
-🔑 **Circle(CRCL)**: IPO 준비 중. GENIUS Act = 최대 수혜자. USDC 발행사이자 스테이블코인 준수 인프라 리더. OCC 최종 규칙 발표(2026년 7월 예정)가 IPO 시기의 핵심 변수. 규칙이 확정되는 순간이 Circle의 기업 가치 평가 기준점이 된다.
+지금 두 가지 촉매가 동시에 작동 중이다. 첫째, 트럼프 행정부가 5/19 행정명령으로 "연방 정부와 연준이 핀테크·크립토 기업의 기존 결제 시스템 접근을 허용하라"고 명령했다 — USDC 사용 범위가 전통 금융으로 확대되는 법적 근거가 생겼다. 둘째, CLARITY Act가 상원 위원회(5/14)를 통과했고, 메모리얼 데이(5/25) 전 전체 상원 표결 가능성이 거론된다(D+4). 법이 통과되면 USDC는 "규제 확인된 스테이블코인"의 대표 주자가 된다.
 
-🔑 **$PYPL (PayPal)**: PYUSD 성장의 직접 수혜자. $36억 잔고는 PayPal 전체 결제 규모 대비 여전히 극히 작다 — 성장 여지가 크다. Q2 2026 어닝에서 PYUSD YoY 성장률 유지 여부를 확인할 것.
+배경: Circle의 Arc 블록체인이 올 여름 메인넷 오픈 예정이다. $222M 토큰 프리세일로 Arc 가치를 $3B으로 평가받았다. PayPal의 PYUSD가 +600% 성장하고, Stripe Tempo가 14개 파트너와 블록체인 결제를 확장하고, JPMorgan JLTXX가 이더리움에 토크나이즈된 MMF를 출시하는 이 흐름의 최대 수혜자가 Circle이다. 애널리스트 컨센서스: 매수 13명 / 매도 2명, 목표가 $148.08(현재가 $111.62 대비 +33%).
 
-🔑 **$COIN (Coinbase)**: Circle의 파트너. GENIUS Act로 USDC 준비금 이자 수입 구조가 안정화된다. 단, Hyperliquid 등 탈중앙화 거래소와의 경쟁 심화 — USDC 유동성이 이탈할 리스크가 공존한다.
+전망/리스크: 상승 시나리오 — CLARITY Act 통과 + Arc 출시 = 가격 $150 이상. 리스크 — Tether(USDT)가 규제 틀 밖에서 여전히 시장을 지배 중이며, 금리 인하 시 Circle의 이자 수익 구조가 악화된다. 최근 Hyperliquid USDC 딜에서 Circle이 $80M 수수료 압박을 받았다는 보도도 부담.
 
-🔑 **$V, $MA**: 이미 스테이블코인 인프라에 베팅했다. Visa의 Tempo 파트너십과 Mastercard의 BVNK 인수는 "대체보다 편승" 전략. 스테이블코인이 기존 카드 결제의 대안이 아닌 확장으로 진화하면 양사 모두 수혜.
-
-**진입 신호**:
-- OCC 최종 규칙 발표 (2026년 7월 예정) → 제도권 완전 편입 확인
-- Circle IPO 가격 책정 → 스테이블코인 밸류에이션의 공개 기준점
-- PYUSD 분기 잔고 $10B 돌파 → 스테이블코인이 PayPal 핵심 사업임을 증명하는 분기점
-
-**리스크**:
-- 워런의 "트럼프 부패" 공격이 2026 중간선거 의제로 부상 시, GENIUS Act 수정 압력 가능
-- Tether가 GENIUS Act 우회로 시장 지배를 유지 → 달러 스테이블코인 생태계가 역설적으로 역외에서 성장하는 아이러니
-
-머뉴's Advice:
-
-① **스테이블코인을 달러의 소프트웨어 업그레이드로 이해하라.** 달러가 없어지는 게 아니다. 달러가 달리는 레일이 바뀌는 것이다. 베센트와 콜리슨 모두 이 점에는 동의한다.
-
-② **"규제 명확성 = 기관 진입"의 공식은 이미 EU에서 증명됐다.** MiCA 이후 USDC 유럽 거래량 +337%. GENIUS Act 이후 JPMorgan JLTXX, Visa Tempo, Mastercard BVNK. 법이 생기면 기관이 움직인다. 한국이 1~2년 늦어지는 동안, 달러 레일은 이미 깔린다.
-
-③ **워런의 우려를 리스크 팩터로 관리하라.** 트럼프 USD1 이해충돌 이슈는 사라지지 않는다. 중간선거, 사법 도전, 추가 입법이 모두 가능한 경로다. 스테이블코인 투자에서 정치 리스크 모니터링은 선택이 아닌 필수다. 달러가 코드가 되는 이 순간, 코드를 쓰는 손이 누구의 것인지가 결국 모든 것을 결정한다.
+📊 스코어카드
+기술적 2/3 | 수급 1.5/3 | **카탈리스트 1.5/2** | 펀더멘털 2/2 | 신선도 +1 | 종합 **8/10**
+📅 D-Day: 2026-05-25 CLARITY Act 전체 상원 표결 가능성 (Memorial Day 전)
 
 ---
 
-## 출처
+⚠️ 투자 조언이 아닌 데이터 기반 분석. 종목 매수/매도는 개인의 판단과 책임하에 결정하세요.
+엔비디아가 증명한 날: 숫자, 방향, 그리고 남은 질문들
 
-- NBC News, "Senate advances a major crypto regulation bill on a bipartisan vote" — [NBC News](https://www.nbcnews.com/politics/congress/senate-advances-major-crypto-regulation-bill-bipartisan-vote-rcna207809)
-- Congress.gov S.1582 GENIUS Act 법안 텍스트 — [Congress.gov](https://www.congress.gov/bill/119th-congress/senate-bill/1582)
-- US Treasury Bessent X 공식 발언 — [Treasury X](https://x.com/SecScottBessent/status/1935027160374210573)
-- US Treasury Bessent X (달러 패권) — [Treasury X](https://x.com/SecScottBessent/status/1935404649718157691)
-- Yahoo Finance / Warren GENIUS Act 우려 — [Yahoo Finance](https://finance.yahoo.com/news/elizabeth-warren-warns-genius-act-180103769.html)
-- CoinDesk, "Stripe CEO Patrick Collison on stablecoins" — [CoinDesk](https://www.coindesk.com/business/2025/09/06/stripe-ceo-patrick-collison-explains-why-businesses-are-turning-to-stablecoins)
-- Fortune, "PayPal CEO Alex Chriss stablecoins" — [Fortune](https://fortune.com/2025/12/18/paypal-ceo-alex-chriss-stablecoins-innovators-dilemma/)
-- Cryptotimes, "JPMorgan JLTXX" — [Cryptotimes](https://www.cryptotimes.io/2026/05/13/jpmorgan-files-for-jltxx-new-tokenized-treasury-fund-on-ethereum-for-stablecoins/)
-- Unchained, "JPMorgan Second Tokenized MMF" — [Unchained](https://unchainedcrypto.com/jpmorgan-files-for-second-tokenized-money-market-fund-on-ethereum-designed-for-stablecoin-reserves/)
-- KuCoin, "Stablecoin Liquidity $320.6B in May 2026" — [KuCoin](https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026)
-- Bessemer Venture Partners, "Stablecoins: DeFi to global infrastructure" — [Bessemer VP](https://www.bvp.com/atlas/stablecoins-from-defi-primitive-to-global-financial-infrastructure)
-- CoinDesk, "Stripe Tempo goes live" — [CoinDesk](https://www.coindesk.com/tech/2026/03/18/stripe-led-payments-blockchain-tempo-goes-live-with-protocol-for-ai-agents)
-- Fortune, "Stripe Paradigm Tempo advisory" — [Fortune](https://fortune.com/2026/04/21/stripe-and-paradigm-tempo-advisory-stablecoin-adoption/)
-- PYMNTS, "Tempo Morpho Integration" — [PYMNTS](https://www.pymnts.com/cryptocurrency/2026/tempo-expands-beyond-payments-with-morpho-integration/)
-- KoreaTechDesk, "Korea Stablecoin Dilemma" — [KoreaTechDesk](https://koreatechdesk.com/korea-stablecoin-dilemma-digital-asset-cryptocurrency)
-- KuCoin, "South Korea Stablecoin Regulation 2026" — [KuCoin](https://www.kucoin.com/news/flash/south-korea-to-introduce-stablecoin-regulation-and-digital-asset-etfs-in-2026)
-- Paul Hastings Crypto Policy Tracker — [Paul Hastings](https://www.paulhastings.com/insights/crypto-policy-tracker/senate-advances-genius-act-cloture-leadership-shifts-and-sec-updates-custody-guidance)
-- ainvest, "Visa & Mastercard 2026 Stablecoin" — [ainvest](https://www.ainvest.com/news/visa-mastercard-2026-stablecoin-bets-flow-analysis-2603/)
-- WEF, "US GENIUS Act vs EU MiCA" — [WEF](https://www.weforum.org/stories/2025/09/us-genius-act-eu-mica-convergence-crypto-rules/)
+오늘 시장의 주역은 엔비디아였지만, 진짜 이야기는 그 뒤에 있다. AI 수요가 진짜라는 것을 $81.6B이 증명했다. 그러나 주가는 AH -2% 후 지지부진했다. 패턴이 보인다 — NVDA는 실적이 완벽할수록 주가가 흔들린다. 기대가 이미 너무 높이 올라갔다. 진짜 수익자는 NVDA 주식이 아니라 NVDA가 필요로 하는 것들이다: HBM4(SK하이닉스), CoWoS(TSMC), 전력(에너지주). 오늘 밤 그 퍼즐의 답이 미장에서 나온다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-forecasts-quarterly-revenue-above-202423200.html)
 
-<!-- slack_trigger: 2026-05-21 -->
+---
+
+달러가 블록체인 위를 걷기 시작했다 — 핀테크/크립토 격변의 한 주
+
+1. **트럼프 EO, 크립토를 결제 인프라에 박았다** — 트럼프 대통령이 5월 19일 행정명령에 서명했다. 핵심 내용: "핀테크 기업과 크립토 기업의 기존 금융 서비스·결제 시스템 접근 장벽을 제거하고, 연방 규제기관들이 협력 프레임을 구축하라." PYUSD +600% 성장, Stripe Tempo, JPMorgan JLTXX — 이 흐름이 이제 행정명령 수준의 뒷받침을 받게 됐다. USDC·USDT를 결제 레일로 수용하는 것이 정책 방향으로 굳어진다는 의미다. [CoinDesk](https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails)
+
+2. **CLARITY Act, 상원 전체 표결 초읽기** — 5월 14일 상원 은행위원회를 13-11로 통과한 CLARITY Act가 이번 주 전체 상원 표결을 앞두고 있다. 상원 루미스·모레노 의원이 "메모리얼 데이(5/25) 전 처리 안 되면 입법 동력 급감"이라고 경고했다. 통과 시 미국 최초의 포괄적 디지털 자산 시장 규제법이 된다 — $COIN, $CRCL, Circle이 직접 수혜. [CoinDesk](https://www.coindesk.com/policy/2026/05/14/clarity-act-clears-u-s-senate-committee-on-its-way-to-a-final-test-in-congress)
+
+3. **BTC $77,852 반등, 5/29 만기 $82K 콜 급증** — BTC가 주중 $76,000 저점에서 반등했다. Deribit의 BTC 5월 29일 만기 $82,000 콜옵션에 거래량이 몰리고 있다. 옵션 시장은 단기 반등에 베팅 중이다. NVDA 실적 호조 + 규제 테마 긍정이 겹치면 $80K 돌파 시도가 나올 수 있다. [InvestingNews](https://investingnews.com/cryptocurrency-market-recap/)
+
+4. **WMT Q1: 관세 폭풍 속 소비 저력 확인** — 월마트가 Q1 매출 $177.75B(+6.1%, 예상 $174.56B 상회), EPS $0.67(예상 $0.65 상회)을 발표했다. 이커머스 +22%, 회원제 확대, 광고 매출 성장이 핵심. "고소득층은 계속 소비하고, 저소득층은 가치 소비로 월마트를 찾는다" — 소비 이중화 구조에서 월마트가 양쪽 모두의 수혜자임을 증명했다. [StockStory](https://stockstory.org/us/stocks/nasdaq/wmt/news/earnings/walmarts-nasdaqwmt-q1-cy2026-earnings-results-revenue-in-line-with-expectations)
+
+---
+
+기업 뉴스 — 와치리스트 업데이트
+
+**$NVDA 엔비디아 — 완벽한 숫자, 고요한 주가**
+
+어젯밤 8시(ET), Jensen Huang이 말했다: "이번 분기는 특별한 분기였습니다. 수요가 폭발했습니다. 이유는 단순합니다: 에이전틱 AI가 도착했기 때문입니다." 숫자는 사상 최대였다. Q1 매출 $81.62B(+85% YoY), EPS $1.87, 데이터센터 $75.25B(+92% YoY), FCF $49B(역대 최고), 총마진 74.9%. Q2 가이던스 $91B(est $87.3B 대비 +4.2%). $80B 자사주매입 선물도 얹었다. 그런데 주가는 AH -2%였다. "이미 다 알려진 것"이라는 시장의 냉소. 그러나 역사가 말한다: NVDA는 실적 발표 후 30~90일이 진짜 움직임이다. Vera CPU "$200B 시장 개막"이라는 신규 사업 축을 제시했다. KeyBanc는 목표가 $300 유지 중. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-forecasts-quarterly-revenue-above-202423200.html)
+
+**$GOOGL 알파벳 — "구글 검색 26년 만에 최대 변화"**
+
+Google I/O 이틀째가 완료됐다. 핵심: 구글 검색이 AI 검색으로 완전히 전환된다. 새 검색창은 Gemini 3.5 Flash 기반이고, 더 긴 대화형 쿼리를 기본으로 받는다. "검색 에이전트"가 도입돼 사용자 대신 정보를 찾아 합성한다. 개인 정보를 바탕으로 맥락 검색하는 "Personal Intelligence"가 200개국에 확대된다. Gemini Spark는 백그라운드에서 반복 작업을 처리한다. 테크크런치는 "구글 검색, 당신이 아는 그것은 끝났다"고 선언했다. 광고 모델이 흔들릴 위험 vs AI 광고 포맷 신설이 기회 — 이 충돌이 향후 몇 분기의 핵심 변수다. [TechCrunch](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/)
+
+**$TSLA 테슬라 — ARK가 방향을 틀었다**
+
+오늘 ARK의 ARKK ETF가 테슬라 109,158주를 순매수했다. 이는 최근 ARK의 전방위 매도(TSLA, AMD, CRCL, HOOD, SHOP, AMD)와 정반대 흐름이다. Cathie Wood가 신호를 보내고 있는가? FSD는 리투아니아에서 유럽 두 번째 시장 진출을 확정했다. Cybercab과 Tesla Semi, Megapack 3는 올해 양산 예정이다. 테슬라 India 공장 계획 철회가 부담이지만, FSD 글로벌 확장이 상쇄하는 구도. 현재가 $417. ARK의 $600 목표가까지는 43% 거리. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-21-2026)
+
+**$COIN 코인베이스 — CLARITY Act가 주가를 움직인다**
+
+CLARITY Act 상원 위원회 통과 이후 코인베이스는 +7.6% 급등했다가 이익 실현으로 조정받고 있다. 현재 $193-197 레인지. Hyperliquid가 USDC 유동성 딜을 체결하면서 코인베이스·Circle이 $80M EBITDA 압박을 받는다는 분석도 나왔다. 그러나 큰 그림에서 COIN은 규제 승인의 최대 수혜자다. CLARITY Act 전체 표결이 이번 주라면 다시 한번 가격이 움직인다.
+
+---
+
+흥미로운 이야기 — 오늘 시장의 숨은 신호들
+
+1. **DE 어닝 서프라이즈 — 농업도 회복 중이다** — 디어(Deere) Q2 EPS $6.55(est $5.74 상회), 매출 $13.37B(+5% YoY). "미국 대형 농업 장비 수요 -15~20% 예상" 경고에도 불구하고 실적이 기대를 넘었다. 트럼프 농업 보조금·관세의 복잡한 영향이 지속되지만 건설·산림 부문(+5~10%)이 버팀목. 산업재 섹터의 조용한 회복을 보여준다. [MarketBeat](https://www.marketbeat.com/earnings/reports/2026-5-21-deere-company-stock/)
+
+2. **빌 애크먼, MSFT 신규 포지션 구축** — Pershing Square의 Bill Ackman이 1분기 Microsoft 포지션을 신규 구축했다. 명분은 "AI와 클라우드의 수익화". Azure의 AI 수요가 매 분기 가속화되고, 코파일럿 플러스 PC 생태계가 구독 수익으로 전환되는 사이클을 베팅했다. 슈퍼인베스터의 MSFT 신규 진입은 AI 인프라 사이클이 여전히 초기임을 방증한다. [Dataroma/ValuSider](https://valuesider.com/value-investors)
+
+3. **스페이스X IPO D+21, 소매 투자자 직접 접근 허용** — SpaceX가 Robinhood, Fidelity, Schwab을 통해 소매 투자자에게 직접 IPO 주식을 배분하겠다고 확인했다. 기업 가치 $1.75T, 역사상 최대 IPO 예정. "소매 투자자가 처음부터 참여할 수 있는 역사적 IPO"다. $HOOD 입장에서는 플랫폼 트래픽 폭발을 의미한다. [CNBC](https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html)
+딥다이브 — 실적 캘린더 & 스마트머니
+
+오늘의 실적 리뷰
+
+| 종목 | 발표 | 결과 | 신호 |
+|------|------|------|------|
+| $NVDA | 어제 AMC | $81.6B(+85%), Q2 $91B 가이던스 | ✅✅ 전면 초과 |
+| $WMT | 오늘 BMO | $177.75B(+6.1%), EPS $0.67 | ✅ 비트 |
+| $DE | 오늘 BMO | EPS $6.55 vs $5.74 est | ✅ 서프라이즈 |
+| $ZM(Zoom) | 오늘 AMC | 예정 | 발표 대기 |
+
+다음주 실적 캘린더에서 주목할 것은 사실상 없다 — 어닝 시즌이 마무리됐다. 6월부터 다음 어닝 시즌 전까지는 가이던스 리비전과 컨퍼런스 발표가 시장을 움직인다. $AFRM의 June 3-4 컨퍼런스가 핀테크 섹터의 다음 카탈리스트.
+
+애널리스트 컨센서스 업데이트
+
+| 종목 | 목표가 | 현재가 | 업사이드 | 의견 |
+|------|-------|-------|---------|------|
+| $AFRM | $88.00 (BofA) | $65.54 | +34% | 매수 |
+| $CRCL | $148.08 (컨센) | $111.62 | +33% | 매수 13/매도 2 |
+| $NVDA | $300 (KeyBanc) | $222 | +35% | 강력매수 |
+| $TSLA | $600 (ARK) | $417 | +44% | 각양각색 |
+| $GOOGL | $210 (컨센) | $387 | — | 정정필요(구주식기준?) |
+
+🏦 스마트머니 동향
+
+**빌 애크먼(Pershing Square)**: 1분기 Microsoft($MSFT) 신규 포지션 구축 확인. "AI와 클라우드의 수익화"를 명시적 이유로 제시. 버핏의 애플 포지션 축소 이후 슈퍼인베스터들의 AI 빅테크 직접 포지션이 늘고 있다.
+
+**ARK Invest (오늘 주요 움직임)**:
+- ARKK: $TSLA +109,158주 매수 — 최근 전방위 매도 흐름에서 테슬라만 방향 전환. Cathie Wood의 시그널인가, 아니면 리밸런싱인가.
+- ARKF(핀테크): Shopify($SHOP), Coinbase($COIN), Robinhood($HOOD)가 최대 보유 종목. 오늘 핀테크 테마 상승에 직접 수혜.
+
+**내부자 거래 동향** (OpenInsider 최신):
+- $AFRM: 임원들 RSU 행사 매도 지속 — 단기 오버행이나 회사 성장에는 영향 없음.
+- $MSTR (Strategy): Saylor 주도 BTC 지속 매입. 지난주 24,869 BTC (+$2.01B). 이는 MSTR 내부자 매수와 동일한 신호.
+
+**헤지펀드 13F 업데이트** (Q1 2026 기준):
+- 하워드 막스(Oaktree): 포트폴리오 업데이트 5/19 예정
+- 넬슨 펠츠(Trian): 5/15 업데이트, 세부 미확인
+- Strategy($MSTR): 843,738 BTC 보유($63.9B 취득가), BTC $77.8K 기준 포트폴리오 가치 $65.8B
+🎧 테크 팟캐스트
+
+오늘(목) 오전 11시 PT 기준 TBPN 금일 에피소드는 아직 방영 전입니다. All-In E274(5/18)·Acquired "Vanguard"(5/18)·TBPN May 20 "Google I/O Recap"은 오전 브리핑에서 이미 다뤘습니다. 금일 시청각에 새로 발행된 에피소드는 확인되지 않았습니다.
+
+**대신 다시 듣기 추천**: All-In E274 — "OpenAI vs 애플 + Thinking Machines 실시간 모델 + Anthropic 다크 SPV"는 오늘 NVDA 실적과 AI 에이전트 테마를 이해하는 데 최적의 배경 지식을 제공합니다. 링크: [Spotify](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF)
