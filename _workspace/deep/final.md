@@ -1,153 +1,152 @@
-# 블랙웰 시대의 첫 성적표 — $79B 뒤에 숨은 5개 진짜 신호
+# 달러가 코드가 됐다 — GENIUS Act 1년, 스테이블코인 시대를 선언한 4인의 목소리
 
-*🔍 딥 리서치 | $NVDA | 2026-05-20*
-
----
-
-## 전자를 돈으로 바꾸는 회사의 성적표
-
-오늘 밤 한국 시간 오전 6시 20분, 지구에서 가장 비싼 회사가 성적표를 공개한다.
-
-시가총액 $5.4조. 이 회사의 분기 실적이 발표되면, 여지없이 다음 날 장이 방향을 잡는다. NVIDIA($NVDA)의 Q1 FY2027 어닝이다.
-
-Jensen Huang은 지난 4월 이런 말을 했다. *"Nvidia turns electrons into tokens. That's the whole business."* — 전기(electricity)를 AI 토큰으로 변환하는 것이 사업의 전부라는 선언이다. 데이터센터에 전기를 넣으면 AI 출력이 나오고, 그 과정에 NVIDIA의 GPU가 없으면 아무것도 작동하지 않는다는 뜻이다.
-
-월스트리트 컨센서스는 매출 **$78.8B**, EPS **$1.77**. NVIDIA 자체 가이던스는 **$78.0B ±2%**다. 그런데 Goldman Sachs는 **$80.05B**을 들고 있고, 위스퍼 넘버는 그보다도 높다. 시장이 진짜 기대하는 건 "컨센서스 달성"이 아니라, Q2 가이던스에서 나올 **다음 분기의 전설**이다.
-
-Q2 컨센서스는 $86.6B, 위스퍼는 $90B. 오늘 밤의 핵심은 Q1 숫자가 아니라 Jensen이 Q2에 대해 뭐라고 하느냐다. 그 한 문장이 글로벌 AI 투자 사이클 전체를 움직인다.
+*🎤 보이스 컴필 | $COIN $PYPL $V $MA Circle(CRCL) | 2026-05-21*
 
 ---
 
-## 3년 만에 11배 — 이 궤적이 멈추는 날이 올까
+2025년 7월 18일, 도널드 트럼프가 한 장의 법안에 서명했다. GENIUS Act — 미국 역사상 최초의 연방 스테이블코인 법이다. 불과 10년 전, 스테이블코인이라는 단어조차 없던 시절의 이야기다. 그런데 지금은 달러로 된 디지털 코인이 한 해 동안 **33조 달러**를 움직인다. 미국 GDP(27조 달러)보다 많다. Visa와 Mastercard를 합쳐도 25.5조 달러인데.
 
-숫자로 먼저 압도하고 싶지 않다. 하지만 이 시계열을 보면 숫자 자체가 이미 이야기다.
-
-| 분기 | 총 매출 | YoY |
-|------|---------|-----|
-| Q1 FY2024 (2023. 4월) | $7.19B | +19% |
-| Q2 FY2024 (2023. 7월) | $13.51B | +101% |
-| Q3 FY2024 (2023. 10월) | $18.12B | +206% |
-| Q1 FY2025 (2024. 4월) | $26.0B | +262% |
-| Q2 FY2026 (2025. 7월) | $46.7B | +56% |
-| Q3 FY2026 (2025. 10월) | $57.0B | +62% |
-| Q4 FY2026 (2026. 1월) | $68.1B | +73% |
-| Q1 FY2027 컨센서스 (2026. 4월) | $78.8B | ~+80% |
-
-*출처: SEC EDGAR 8-K 시리즈, NVIDIA Newsroom*
-
-2023년 4월, NVIDIA의 분기 매출은 $7.19B이었다. 지금 컨센서스는 $78.8B이다. 정확히 3년 만에 **10.9배**다. 반도체 산업은 역사적으로 '무어의 법칙' — 2년마다 트랜지스터 집적도 2배 — 을 최대 성장 기준으로 여겼다. NVIDIA의 이 궤적은 그 기준을 훌쩍 넘어선다.
-
-이 궤적에는 한 번의 큰 충격이 있었다. **H20 수출규제**다. 2025년 4월 9일, 미국 상무부(BIS)가 NVIDIA의 H20 칩 중국 수출에 라이선스 요건을 부과했다. 규제 직전까지 H20은 분기당 $4.6B의 매출을 만들던 주력 품목이었다. 이 결정으로 NVIDIA는 Q1 FY2026에 **$4.5B의 재고·구매의무 충당금**을 기록했다(당초 $5.5B 공지에서 $1B 재활용으로 절감). 이후 Q1에 $2.5B, Q2에 $8B이 추가로 사라질 것으로 예상됐다.
-
-그런데 NVDA 주가는 그 이후에도 계속 올랐다. H20 공백을 미국·유럽·동남아시아 하이퍼스케일러 수요가 메웠기 때문이다. Blackwell(GB200 NVL72/NVL144) 시스템이 Q4 FY2026 데이터센터 컴퓨트 매출의 **약 66%**를 담당하기 시작했고, 네트워킹(NVLink + InfiniBand) 매출은 단독으로 **$11.0B** (+263% YoY)에 달했다.
-
-총마진도 자가 치유했다. Blackwell 초기 전환 충격으로 70% 초반까지 내려갔던 비-GAAP 총마진은 Q4 FY2026에 **75.2%**로 완전히 회복됐다. Jensen이 Q4 FY2026 어닝콜(2026년 2월 25일)에서 한 말이 이 맥락이다:
-
-> *"Computing demand is growing exponentially — the agentic AI inflection point has arrived. Grace Blackwell with NVLink is the king of inference today — delivering an order-of-magnitude lower cost per token — and Vera Rubin will extend that leadership even further."*
-
-그리고 GTC 2026 키노트(2026년 3월 16일)에서는 한 발 더 나아갔다. *"I see through 2027 at least $1 trillion."* Blackwell과 Rubin의 확인 주문 합계가 2027년까지 최소 $1조에 달한다는 공개 선언이다 — 1년 전 같은 자리에서 제시한 수치 대비 약 2배로 상향한 숫자다.
+법이 생겼다고 세상이 바뀌는 건 아니다. 진짜 전쟁은 그 다음부터다. 누가 이 새로운 달러 인프라를 장악하는가, 누가 통제하는가, 그리고 누가 거부하는가. 이 전쟁의 전선은 미국에만 있지 않다. EU는 이미 1년 전에 규제 프레임워크를 발효시켰고, 한국은 은행과 핀테크가 주도권을 두고 싸우고 있다. 오늘 4명의 목소리를 들어보자. 미 재무장관 스콧 베센트, 민주당 상원의원 엘리자베스 워런, Stripe CEO 패트릭 콜리슨, PayPal CEO 알렉스 크리스. 이들의 발언은 단순한 찬반 논쟁이 아니다. 달러가 코드화되는 이 시대를 바라보는 네 개의 근본적으로 다른 세계관이다.
 
 ---
 
-## NVIDIA 0% · 한국 62% · ASIC 44% — 국가별 AI 칩 생태계의 갈림길
+## 10년의 궤적 — 달러가 블록체인 위로 올라오기까지
 
-세 개의 숫자가 AI 칩 생태계를 가른다. 중국 시장에서 NVIDIA의 점유율 **0%**, SK하이닉스의 HBM 시장 점유율 **62%**, Google Ironwood의 TCO 절감 **44%**. 같은 AI 붐이지만 수혜 지도는 전혀 다르다.
+스테이블코인의 역사는 생각보다 짧다. 2014년, 한 팀이 "Realcoin"이라는 이름으로 달러 가치에 페그된 디지털 토큰을 만들었다. 나중에 Tether(USDT)로 이름을 바꾼 이 코인은 당시 암호화폐 커뮤니티에서 거래 편의용 파킹 자산이었다. BTC를 팔면서 달러 가격을 유지하고 싶을 때 쓰는 중간 저장소.
 
-### 미국 — 세계 표준을 혼자 만들다
+2018년, Circle과 Coinbase가 USDC를 출시했다. 더 투명하고 규제 친화적인 대안을 표방하며. 그리고 2019년, 페이스북이 "Libra"를 발표하면서 세상이 뒤집혔다. 20억 명의 사용자를 보유한 소셜미디어 회사가 사실상의 글로벌 화폐를 만들겠다고 나선 것이다. 각국 의회는 즉각 반발했다. 규제 압력 아래 페이스북(Meta)은 2022년 프로젝트를 폐기했다. Diem이라는 이름으로 재출시를 시도했지만, 결국 패배였다.
 
-NVIDIA는 글로벌 AI 가속기 시장에서 압도적 지위를 유지하고 있다. Blackwell 시스템은 전 세계 데이터센터에서 "AI를 돌리는 표준"이 됐다.
+하지만 그 패배가 씨앗이 됐다. Libra의 좌절은 규제 당국에게 경고를 날렸다 — 스테이블코인은 투기 장난감이 아니다. 방치하면 민간이 달러를 장악한다. 그 두려움이 역설적으로 입법을 앞당겼다. 2023년 PayPal이 PYUSD를 출시하고, 같은 해 FTX 붕괴가 규제 공백의 위험성을 재확인시키면서, 입법 기세는 돌이킬 수 없게 됐다.
 
-이 장악력의 구조적 기반은 **TSMC CoWoS 패키징 독점**이다. CoWoS(Chip-on-Wafer-on-Substrate)는 GPU 다이와 HBM 메모리를 하나의 실리콘 인터포저 위에 집적하는 첨단 패키징 공정인데, NVIDIA는 이 용량의 **50~60%를 단독 점유**한다. TSMC는 35,000 wpm(2024년 말)에서 130,000 wpm(2026년 말 목표)으로 용량을 확장 중이지만, 경영진이 직접 "최소 2026년 중반까지 초과 수요"라고 인정했다. 아이러니하게도, 이 공급 병목이 NVIDIA의 성장을 제한함과 동시에 경쟁사의 진입을 막는 가장 효과적인 해자가 됐다.
-
-### 한국 — 전방에 안 보이지만, 수익은 가장 확실하다
-
-한국 투자자에게 NVIDIA 어닝은 $NVDA 그 자체보다 **SK하이닉스**를 보는 렌즈로 쓸 수 있다.
-
-SK하이닉스는 현재 글로벌 HBM(고대역폭메모리) 시장의 **62%**를 점유한다. 삼성과 마이크론이 각각 약 20%로 추격 중이지만, 결정적으로 SK하이닉스의 **2026년 HBM 생산량 전체가 이미 NVIDIA에 사전 배정 완료**됐다. 말 그대로 전량 완판이다. HBM3E 가격은 2026년에 **약 20%** 인상됐다. NVIDIA가 잘 나갈수록 SK하이닉스의 수익성이 동반 개선되는 완전한 연동 구조다.
-
-다음 세대도 마찬가지다. UBS는 SK하이닉스가 Rubin 플랫폼용 **HBM4 수주의 약 70%**를 확보할 것으로 전망한다. Rubin은 HBM 대역폭이 기존 8 TB/s에서 **13 TB/s**로 도약하는 세대이므로, 칩당 HBM 가치도 비례해서 커진다. NVIDIA 어닝은 한국 반도체 산업의 미래 수요를 가늠하는 가장 신뢰할 수 있는 선행지표다.
-
-### 중국 — NVIDIA 0%가 만든 화웨이의 기회
-
-Jensen Huang이 직접 인정했다. "중국 AI 가속기 시장에서 NVIDIA 점유율은 **0%**다." H20 수출 규제 이후 NVIDIA는 완전히 배제됐고, 그 자리를 화웨이 Ascend가 채우고 있다.
-
-화웨이는 2026년 Ascend 910C를 **60만 개** 생산할 계획이며, 알리바바·바이트댄스·텐센트 등 주요 고객의 주문을 바탕으로 AI 칩 관련 매출을 $7.5B(2025)에서 **$12B**(2026)로 끌어올릴 전망이다. 중국 국내 AI 칩 제조사들의 합산 시장 점유율은 이미 **41%**에 달한다(IDC 추산).
-
-문제는 성능이다. Ascend 910C의 추론 성능은 H100의 **약 60%** 수준이고, B200 대비 처리량은 **33%**에 불과하다(CFR 분석). 중국이 AI 인프라를 쌓는 속도는 빠르지만, 칩 하나하나의 효율은 여전히 3~4세대 격차가 있다. 이 격차가 좁혀지는 속도가 NVIDIA의 장기 경쟁력을 판단하는 핵심 변수다.
-
-### 구글 Ironwood — 외부는 못 사는 최강 칩
-
-구글이 올해 발표한 **Ironwood(TPUv7)**는 단순한 내부 연구용 칩이 아니다. 개별 칩 성능에서 NVIDIA B200(4.5 PFLOPS FP8)을 소폭 넘어서는 **4.6 PFLOPS FP8**를 기록한다. 더 중요한 것은 확장성이다. Ironwood는 9,216개 칩을 하나의 포드로 연결해 **42.5 ExaFLOPS**의 총 성능을 낸다. NVIDIA 시스템의 최대 구성인 72 GPU와는 규모 자체가 다른 비교다.
-
-총 소유 비용(TCO)도 GB200 서버 대비 **약 44% 절감**. Anthropic은 이미 **40만 개 TPUv7을 약 $100억** 규모로 계약했다 — 공개된 최대 단일 ASIC 계약이다. 다만 Ironwood는 **구글 내부 전용**이다. 외부 기업은 살 수 없다. 이 제약이 현재 NVIDIA의 시장을 지키는 가장 중요한 방어선이다.
+2025년 7월 18일, GENIUS Act가 서명됐다. 그리고 10개월 뒤인 오늘(2026-05-21), 현실은 이렇다. PYUSD 잔고 **36억 달러** (+600% YoY), 스테이블코인 총 공급량 **3,200억 달러 돌파**, 글로벌 온체인 결제 규모 **연간 33조 달러**. Tether는 여전히 시장의 57.96%를 차지하는 $1,854억짜리 공룡이다. USDC는 $78B으로 2023년 이후 220% 성장했다. 세상의 달러 중 일부가 이미 블록체인 위에서 살고 있다.
 
 ---
 
-## 완벽하게 비트해도 주가가 떨어지는 이유
+## 스콧 베센트: 달러 패권을 지키는 무기
 
-이제 불편한 진실을 직시할 시간이다.
+미 재무장관 스콧 베센트의 목소리는 명확하다. 스테이블코인은 달러 패권에 대한 위협이 아니라 **달러 패권을 강화하는 도구**다.
 
-NVIDIA는 최근 **6분기 연속**으로 월스트리트 컨센서스를 **3~4% 초과**했다. 그런데 같은 기간 마지막 5번의 어닝 발표일 중 **4번은 당일 주가가 하락**했다. 이유는 간단하다. 시장은 컨센서스 달성이 아닌, 자신이 상상한 위스퍼 넘버를 기대한다. 완벽함(perfection)을 기대하는 곳에 탁월함(excellence)을 가져오면, 시장은 실망한다.
+그는 상원 청문회에서 이렇게 말했다. *"Stablecoin legislation backed by US Treasuries or T-bills will create a market that will expand US dollar usage via these stablecoins all around the world."* 미국 국채로 뒷받침되는 스테이블코인이 세계 전역에서 달러 사용을 확장할 것이라는 논리다. 그리고 결정적으로: *"$2 trillion is a very, very reasonable number, and I could see it greatly exceeding that."* 스테이블코인 시장이 2030년까지 최소 **2조 달러**로 성장할 것이라는 전망이다. 베센트가 인용한 애널리스트 예측은 **3.7조 달러**다.
 
-이것이 지금의 NVIDIA 투자에서 가장 중요한 행동 편향이다.
+왜 재무장관이 이렇게 적극적인가? 달러 표시 스테이블코인이 폭발적으로 성장하면, 그 준비금은 대부분 미국 국채에 묶인다. GENIUS Act가 요구하는 1:1 준비금 규정이 있고, 그 준비금의 상당 부분을 단기 미국 국채와 역레포로 채워야 하기 때문이다. 스테이블코인이 성장할수록 미국 국채 수요가 늘어난다. 30년물 국채가 5.1%를 뚫은 오늘, 국채 수요는 재무부에게 가장 시급한 과제다.
 
-**ASIC의 장기 위협**도 진지하게 다뤄야 한다. Google Ironwood, Amazon Trainium 3, Meta MTIA, Microsoft Maia 200 — AI 최대 고객사들이 모두 자체 ASIC을 개발 중이다. Anthropic의 TPU 40만 개 계약에서 보듯, 반복 추론(Inference)에 최적화된 ASIC은 NVIDIA GPU 대비 30~44% TCO 우위를 가진다. 지금은 훈련(Training) 수요가 GPU를 지탱하지만, 추론 비중이 높아질수록 NVIDIA의 파이가 서서히 잠식될 수 있다.
+베센트의 논리는 지정학적이기도 하다. *"Crypto is not a threat to the dollar. In fact, stablecoins can reinforce dollar supremacy."* 중국이 위안화 디지털화를 추진하고, 브릭스 국가들이 탈달러를 외치는 세상에서, 달러 표시 스테이블코인은 미국의 새로운 통화 외교 무기다. 인터넷에 달러의 새로운 레일을 깔아두면, 전 세계 인터넷 경제에서 달러의 기본 통화 지위가 유지된다.
 
-**CoWoS 병목은 동시에 성장의 천장**이기도 하다. NVIDIA가 TSMC 첨단 패키징 용량을 독점한다는 말은, 동시에 그 병목이 분기 매출의 상한선이 된다는 뜻이다. 2026년 중반 이후 용량이 풀릴 때, 누적 백로그가 한꺼번에 인식되면 단기 공급 과잉으로 마진이 일시 압박받을 수도 있다.
-
-그리고 **H20 공백의 영구성**. H20 수출 규제 이후 NVIDIA는 중국 AI 가속기 시장에서 0%로 전락했다. 화웨이가 60만 개 Ascend 910C를 이미 중국 시장에 공급 중인 가운데, 이 수요가 돌아올 가능성은 현재 규제 환경에서 극히 낮다. 한 번 빠진 시장은 쉽게 돌아오지 않는다.
-
-마지막으로, **밸류에이션 리스크**. P/E 48배+는 AI가 매년 50%씩 성장한다는 가정을 전제로 한다. 매크로 충격(금리, 경기침체)이나 하이퍼스케일러의 카펙스 삭감 신호가 하나라도 나오면, 이 밸류에이션은 순식간에 재평가될 수 있다.
+GENIUS Act는 이 전략의 법적 인프라다. 법 통과 10개월이 지난 지금, JPMorgan Asset Management가 5월 13일 론칭한 JLTXX 펀드는 이 전략이 실행 단계임을 보여준다. JLTXX는 GENIUS Act 준거 스테이블코인 발행사의 준비금 자산으로 특화 설계된 토크나이즈드 MMF다. JPMorgan은 자체 **1억 달러($100M)** 를 초기에 투입하며 GENIUS Act 기반 생태계에 베팅했다.
 
 ---
 
-## 오늘 밤 결과를 스스로 해석하는 5개 체크리스트
+## 엘리자베스 워런: 이것은 트럼프 부패의 코드다
 
-오늘 밤 ET 5:00 PM(KST 5/21 06:20)에 숫자가 쏟아진다. 미디어는 일제히 "비트!" 또는 "예상 하회!"를 외칠 것이다. 그 앞에서 스스로 판단할 수 있는 5개 기준을 제안한다.
+워런 상원의원은 다른 세계에 산다. 그녀에게 GENIUS Act는 달러 강화 도구가 아니라 **정치적 부패의 디지털 버전**이다.
 
-**① 매출 $79B+** (가이던스 중간값 $78B 대비)
-가이던스 범위($76.4~$79.6B) 안에 들어오면 정상. $80B을 넘으면 진짜 비트. $77B 미만이면 시장 실망.
+*"This bill puts investors, our national security and our entire financial system at risk – and it will turbocharge Donald Trump's crypto corruption."*
 
-**② Q2 FY2027 가이던스 $88B+**
-컨센서스 $86.6B보다 5% 이상 높은 수치여야 위스퍼 넘버($90B)에 근접한 "진짜 어닝"이다. $86B 이하면 성장 모멘텀에 의구심이 생긴다. 이것이 오늘 밤 가장 중요한 단 하나의 숫자다.
+강한 말이다. 하지만 그녀가 지적하는 구체적 사실이 있다. 트럼프와 그의 가족은 크립토 거래에서 지난 1년 동안 최소 **14억 달러($1.4B)** 의 이익을 챙겼다. 그리고 결정적으로 — 아랍에미리트 아부다비의 국부펀드 MGX는 **트럼프 가족의 스테이블코인 USD1**로 바이낸스에 20억 달러를 투자했다. MGX의 공동 소유자는 중국 정부와 광범위한 연결 고리가 있는 기업이다.
 
-**③ 비-GAAP 총마진 74.5%+**
-Blackwell 전환이 완료된 시점에서 마진이 다시 74% 밑으로 내려오면, Rubin 전환 비용이 이미 시작됐다는 신호다.
+GENIUS Act 아래에서 USD1은 연방법이 인정하는 적법한 결제 스테이블코인이 된다. 대통령의 가족이 발행하는 스테이블코인에 법적 정당성을 부여하는 법을 대통령이 서명한다 — 이것이 워런이 말하는 "crypto corruption"의 구조적 의미다.
 
-**④ H20 추가 충당금 없음 확인**
-Q4 FY2026 결과 발표 시 $4.5B를 이미 처리했다. 추가 충당금이 나오면 중국 관련 재고 리스크가 아직 살아있다는 신호로 주가에 즉각 타격.
+워런의 금융 시스템 우려도 있다. AML(자금세탁방지) 체계를 우회하는 익명 스테이블코인 거래, 북한과 이란의 스테이블코인 활용 사례, 프라이버시 보호와 금융 추적 사이의 딜레마. 그녀는 5월 19일에도 OCC(통화감독청)가 Coinbase, Ripple 등 크립토 기업에 은행 면허를 부여한 것을 "불법 규제 차익"이라며 공격했다. 미국은행협회(ABA)와 대형 은행 연합의 반대도 같은 논리다 — 스테이블코인이 은행 예금을 대체하면 은행의 중개 기능이 해체된다. 수조 달러가 걸린 싸움이다.
 
-**⑤ Rubin 2027 H1 공급 타임라인 재확인**
-Jensen이 "Rubin은 예정대로 H2 2026 샘플, 2027 H1 본격 공급"을 재확인하면 시장은 다음 수요 사이클을 신뢰한다. 타임라인이 밀리거나 언급이 없으면 투자자 불안 요인.
+워런의 반대는 단순한 크립토 혐오가 아니다. 규제 없는 민간 화폐 발행 권한이 정치적으로 연결된 집단에게 집중되는 것에 대한, 고전적인 권력 분립의 문제다.
 
-### 머뉴's Advice 🎯
+---
 
-**① 5개 중 4~5개 충족** → AI 수요 사이클 지속 신호. $NVDA 홀딩, $TSM·SK하이닉스 픽앤샤블 추가. 단, 발표 당일 주가 하락이 와도 패닉 매도 금지 — 6분기 연속 패턴이다.
+## 패트릭 콜리슨 vs 알렉스 크리스: 이미 쓰이고 있다
 
-**② 5개 중 2~3개 충족** → 불확실성 구간. $NVDA 기존 포지션 유지, 신규 추가는 Q2 실적 확인 후. 섹터 차원에서 $AVGO(ASIC 수혜)로 분산 고려.
+이론적 논쟁과 달리, Stripe와 PayPal의 CEO는 이미 현실에서 스테이블코인을 사용하고 있다. 그들의 발언은 미래 전망이 아니라 **지금 일어나고 있는 일에 대한 보고**다.
 
-**③ 2개 이하 또는 마진 실망** → 차익실현 검토 구간. CoWoS 병목 + Rubin 지연이 겹치면 하이퍼스케일러 발주 재검토 가능성. 이 경우 $AMD·$AVGO로 헤지.
+패트릭 콜리슨(Stripe CEO)은 스테이블코인을 *"room-temperature superconductors for financial services"*라고 불렀다. 상온 초전도체 — 이 비유가 의미하는 것은 무엇인가. 초전도체는 전기 저항이 제로인 물질이다. 하지만 기존 초전도체는 영하 수백도의 극저온에서만 작동한다. 상온 초전도체는 그 마법이 일상 온도에서 작동하는 것이다. 콜리슨에게 스테이블코인은 금융의 마찰 저항을 제로에 가깝게 만들면서도, 일상적인 환경에서 작동하는 혁신이다.
 
-**픽앤샤블 최선호**: SK하이닉스 — NVIDIA 성장과 직접 연동되는 HBM 독점 공급자. 2026년 HBM 전량이 NVIDIA에 사전배정됐고, Rubin용 HBM4도 70% 확보 전망. 국내 투자자에게 가장 순수한 NVIDIA 수혜 플레이다.
+그는 왜 기업들이 채택하는지를 이렇게 설명했다. *"These businesses are not using crypto because it's crypto or for speculative benefit. They're performing real-world financial activity, and they've found that crypto (via stablecoins) is easier, faster, better than the status quo."* 더 쉽고, 더 빠르고, 더 좋기 때문이다. 단순하다.
 
-AI 인프라 사이클이 끝나지 않았다는 것은 안다. 다만 "어디서, 누구를 통해, 어떤 형태로" 수혜받느냐는 달라지고 있다. 오늘 밤 NVIDIA의 성적표가 그 지도를 한 번 더 새로 그린다. 내일 새벽 6시, 커피 한 잔을 준비해두면서 딱 하나만 기억하라: **Q2 가이던스 $88B**. 그 숫자 하나가 오늘 밤의 모든 것을 결정한다.
+Stripe가 Paradigm과 함께 만든 Tempo 블록체인은 2026년 3월 메인넷을 론칭했다. 기업 간 스테이블코인 결제를 위한 전용 레이어. Visa, Fifth Third Bank, Howard Hughes Holdings, DoorDash가 이미 파트너다. DoorDash는 배달 기사들에게 스테이블코인으로 급여를 지급하는 옵션을 테스트 중이다. 5월에는 Morpho의 75억 달러($7.5B) 운용자산 대출 마켓이 통합됐다 — Tempo는 이제 결제를 넘어 DeFi 금융 플랫폼으로 진화하고 있다.
+
+알렉스 크리스(PayPal CEO)는 다른 방식으로 증명했다. PayPal은 PYUSD를 이용해 5개 법인, 3개 대륙에 걸친 **10억 달러($1B)** 의 기업 내부 자금을 이체했다. SWIFT를 통한 국제 송금은 2~5영업일에 수십 베이시스포인트 수수료가 붙는다. 스테이블코인은 분 단위, 수수료는 사실상 제로. *"How do we enable consumer-to-business transactions and actually disrupt payments by leveraging stablecoins?"* 크리스가 스스로에게 던진 질문이 PYUSD의 방향타다.
+
+그 결과가 $36억, YoY +600%다. 전 세계 스테이블코인 결제 규모는 2025년 **33조 달러**에 달했다. Visa와 Mastercard 합산($25.5조)을 넘어섰다. Visa는 Q1 2026에만 연환산 기준 **46억 달러**의 스테이블코인 결제를 자사 네트워크에서 처리했고, Mastercard는 스테이블코인 인프라 기업 BVNK를 **18억 달러**에 인수했다 — 역대 최대 스테이블코인 M&A다.
+
+---
+
+## 같은 달러, 다른 규칙 — EU는 이미 1년 먼저 갔다
+
+스테이블코인 규제 경쟁에서 미국은 사실 선두가 아니다. **EU가 먼저 뛰었다.**
+
+EU의 MiCA(암호자산시장 규정)는 2024년 12월 30일 스테이블코인 조항이 전면 발효됐다 — GENIUS Act보다 7개월 앞서. Circle은 2024년 7월 MiCA 인증을 획득했고, 그 직후 유럽에서 USDC 거래량이 **337%** 급증했다. 규제 명확성이 시장을 폭발시킨다는 사례가 유럽에서 먼저 증명됐다. 2026년 현재 14개 발행사가 7개 EU 회원국에서 약 20종의 MiCA 준거 스테이블코인을 발행하고 있다. 미국 GENIUS Act는 MiCA보다 더 보수적이다 — 장기 채권 준비금 불가, 이자 지급 금지. 양 제도의 상호 운용 가능성이 2026~2027년 규제 협상의 핵심 의제다.
+
+**한국은 아직 협상 중이다.** 2024년 7월 시행된 가상자산이용자보호법(VAUPA)은 주로 거래소 규제에 집중됐고, 스테이블코인 발행은 포함되지 않았다. 8대 시중은행 컨소시엄이 원화 스테이블코인(KRW-coin) 개발을 추진하고 있지만, 금융위원회(발행자 제한 반대, 경쟁 허용)와 한국은행(은행 지분 51% 이상 의무화) 사이의 주도권 갈등이 법안 시행을 늦추고 있다. 디지털자산기본법(DABA)은 2026년 하반기 시행 목표이지만 유동적이다.
+
+**싱가포르는 실용주의로 앞서나갔다.** MAS(통화청)는 2024년부터 단일통화 스테이블코인(SSCS) 전용 라이선스를 운용하며 Circle 싱가포르 법인 인증을 완료했다. Grab, Sea Group, ByteDance APAC 등 아시아 플랫폼 기업들의 크로스보더 결제 허브로서의 포지셔닝을 강화하고 있다. 한국 기업들이 원화 스테이블코인 논쟁을 벌이는 동안, 싱가포르의 달러 스테이블코인 인프라는 이미 아시아 시장에서 선점 우위를 굳히고 있다.
+
+세 지역의 공통 교훈은 하나다 — 규제가 명확해지자 기관이 움직였다. 한국만 아직 출발선 뒤에 서있다.
+
+---
+
+## 네 목소리가 충돌하는 곳 — Tether라는 이름의 지뢰
+
+베센트, 워런, 콜리슨, 크리스. 이 네 사람이 보는 스테이블코인은 같은 기술인데 완전히 다른 의미를 갖는다.
+
+베센트에게 스테이블코인은 **지정학적 도구**다. 달러를 블록체인에 올리면, 달러가 세계 인터넷 경제의 기본 통화가 된다. 중국 위안화 CBDC와의 디지털 화폐 전쟁에서 미국이 가진 선제 무기다.
+
+워런에게 스테이블코인은 **규제 없는 권력 집중**이다. 민간이 화폐를 발행하고, 그 민간이 대통령의 가족이다. 금융 시스템의 가장 근본적인 안전장치 — 중앙은행의 화폐 독점권 — 가 민영화되는 과정이다.
+
+콜리슨과 크리스에게 스테이블코인은 **실용적 인프라**다. 기업이 돈을 빠르고 싸게 옮길 수 있는 도구. 기업은 더 나은 레일이 생기면 그리로 옮긴다. 이미 옮기고 있다.
+
+세 관점이 충돌하는 곳이 있다. **Tether**다. 시장의 57.96%, $1,854억을 차지하는 최대 스테이블코인은 미국 법인이 아니다. 영국령 버진아일랜드에 본사를 둔 해외 발행이다. GENIUS Act가 적용되지 않는다. 베센트의 달러 패권 논리는 Tether에게는 해당되지 않는다. 워런의 규제 우려도 Tether는 비껴간다. 콜리슨과 크리스가 만든 인프라의 유동성 상당 부분도 여전히 Tether에 의존한다. 달러 스테이블코인 시장의 절반 이상이 규제권 밖에서 성장하고 있는 이 역설 — 이것이 GENIUS Act가 직면한 가장 불편한 진실이다.
+
+---
+
+## 달러가 코드가 된 세상, 당신의 포트폴리오는
+
+**규제 명확성은 기관 진입의 문을 열었다.** GENIUS Act 이후 10개월. JPMorgan JLTXX 펀드 출시, Mastercard의 BVNK $18억 인수, Visa의 스테이블코인 결제 통합이 모두 같은 방향을 가리킨다. 기관이 움직이기 시작했다.
+
+**투자 관점의 체크리스트**:
+
+🔑 **Circle(CRCL)**: IPO 준비 중. GENIUS Act = 최대 수혜자. USDC 발행사이자 스테이블코인 준수 인프라 리더. OCC 최종 규칙 발표(2026년 7월 예정)가 IPO 시기의 핵심 변수. 규칙이 확정되는 순간이 Circle의 기업 가치 평가 기준점이 된다.
+
+🔑 **$PYPL (PayPal)**: PYUSD 성장의 직접 수혜자. $36억 잔고는 PayPal 전체 결제 규모 대비 여전히 극히 작다 — 성장 여지가 크다. Q2 2026 어닝에서 PYUSD YoY 성장률 유지 여부를 확인할 것.
+
+🔑 **$COIN (Coinbase)**: Circle의 파트너. GENIUS Act로 USDC 준비금 이자 수입 구조가 안정화된다. 단, Hyperliquid 등 탈중앙화 거래소와의 경쟁 심화 — USDC 유동성이 이탈할 리스크가 공존한다.
+
+🔑 **$V, $MA**: 이미 스테이블코인 인프라에 베팅했다. Visa의 Tempo 파트너십과 Mastercard의 BVNK 인수는 "대체보다 편승" 전략. 스테이블코인이 기존 카드 결제의 대안이 아닌 확장으로 진화하면 양사 모두 수혜.
+
+**진입 신호**:
+- OCC 최종 규칙 발표 (2026년 7월 예정) → 제도권 완전 편입 확인
+- Circle IPO 가격 책정 → 스테이블코인 밸류에이션의 공개 기준점
+- PYUSD 분기 잔고 $10B 돌파 → 스테이블코인이 PayPal 핵심 사업임을 증명하는 분기점
+
+**리스크**:
+- 워런의 "트럼프 부패" 공격이 2026 중간선거 의제로 부상 시, GENIUS Act 수정 압력 가능
+- Tether가 GENIUS Act 우회로 시장 지배를 유지 → 달러 스테이블코인 생태계가 역설적으로 역외에서 성장하는 아이러니
+
+머뉴's Advice:
+
+① **스테이블코인을 달러의 소프트웨어 업그레이드로 이해하라.** 달러가 없어지는 게 아니다. 달러가 달리는 레일이 바뀌는 것이다. 베센트와 콜리슨 모두 이 점에는 동의한다.
+
+② **"규제 명확성 = 기관 진입"의 공식은 이미 EU에서 증명됐다.** MiCA 이후 USDC 유럽 거래량 +337%. GENIUS Act 이후 JPMorgan JLTXX, Visa Tempo, Mastercard BVNK. 법이 생기면 기관이 움직인다. 한국이 1~2년 늦어지는 동안, 달러 레일은 이미 깔린다.
+
+③ **워런의 우려를 리스크 팩터로 관리하라.** 트럼프 USD1 이해충돌 이슈는 사라지지 않는다. 중간선거, 사법 도전, 추가 입법이 모두 가능한 경로다. 스테이블코인 투자에서 정치 리스크 모니터링은 선택이 아닌 필수다. 달러가 코드가 되는 이 순간, 코드를 쓰는 손이 누구의 것인지가 결국 모든 것을 결정한다.
 
 ---
 
 ## 출처
 
-1. [SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000019/q4fy26pr.htm) — NVIDIA Q4 FY2026 8-K Press Release
-2. [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026) — Q3 FY2026 결과 발표
-3. [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/nvidia-gtc-keynote-huang-unveils-090540676.html) — GTC 2026 키노트 Jensen Huang 발언
-4. [247wallst](https://247wallst.com/investing/2026/04/16/jensen-huang-says-nvidia-turns-electrons-into-tokens-thats-the-whole-business/) — Jensen Huang "electrons into tokens"
-5. [Google Cloud Blog](https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads/) — Ironwood TPU 공식 발표
-6. [SK하이닉스 뉴스룸](https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/) — 2026 HBM 시장 전망
-7. [CNBC](https://www.cnbc.com/2025/04/15/nvidia-says-it-will-record-5point5-billion-quarterly-charge-tied-to-h20-processors-exported-to-china.html) — H20 수출규제 충당금 보도
-8. [Tom's Hardware](https://www.tomshardware.com/tech-industry/a-deeper-look-at-the-tightened-chipmaking-supply-chain-and-where-it-may-be-headed-in-2026-nobodys-scaling-up-says-analyst-as-industry-remains-conservative-on-capacity) — CoWoS 공급망 분석
-9. [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-enterprise-roadmap-rubin-rubin-ultra-feynman-and-silicon-photonics) — Rubin 플랫폼 로드맵
-10. [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deploys-new-axion-cpus-and-seventh-gen-ironwood-tpu-training-and-inferencing-pods-beat-nvidia-gb300-and-shape-ai-hypercomputer-model) — Ironwood vs NVIDIA 비교
-11. [Astute Group](https://www.astutegroup.com/news/general/sk-hynix-holds-62-of-hbm-micron-overtakes-samsung-2026-battle-pivots-to-hbm4/) — SK하이닉스 HBM 점유율
-12. [Huawei Central](https://www.huaweicentral.com/huawei-plans-600000-ascend-910c-chips-by-2026-to-block-nvidia-in-china/) — 화웨이 Ascend 910C 계획
-13. [Tom's Hardware](https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero) — 화웨이 AI 매출 전망
-14. [TIKR](https://www.tikr.com/blog/nvidia-stock-pulls-back-before-may-20-earnings-heres-what-the-1-trillion-demand-story-still-needs-to-prove) — 어닝 이후 주가 패턴 분석
-15. [KED Global](https://www.kedglobal.com/korean-chipmakers/newsView/ked202601280002) — SK하이닉스 HBM4 수주
+- NBC News, "Senate advances a major crypto regulation bill on a bipartisan vote" — [NBC News](https://www.nbcnews.com/politics/congress/senate-advances-major-crypto-regulation-bill-bipartisan-vote-rcna207809)
+- Congress.gov S.1582 GENIUS Act 법안 텍스트 — [Congress.gov](https://www.congress.gov/bill/119th-congress/senate-bill/1582)
+- US Treasury Bessent X 공식 발언 — [Treasury X](https://x.com/SecScottBessent/status/1935027160374210573)
+- US Treasury Bessent X (달러 패권) — [Treasury X](https://x.com/SecScottBessent/status/1935404649718157691)
+- Yahoo Finance / Warren GENIUS Act 우려 — [Yahoo Finance](https://finance.yahoo.com/news/elizabeth-warren-warns-genius-act-180103769.html)
+- CoinDesk, "Stripe CEO Patrick Collison on stablecoins" — [CoinDesk](https://www.coindesk.com/business/2025/09/06/stripe-ceo-patrick-collison-explains-why-businesses-are-turning-to-stablecoins)
+- Fortune, "PayPal CEO Alex Chriss stablecoins" — [Fortune](https://fortune.com/2025/12/18/paypal-ceo-alex-chriss-stablecoins-innovators-dilemma/)
+- Cryptotimes, "JPMorgan JLTXX" — [Cryptotimes](https://www.cryptotimes.io/2026/05/13/jpmorgan-files-for-jltxx-new-tokenized-treasury-fund-on-ethereum-for-stablecoins/)
+- Unchained, "JPMorgan Second Tokenized MMF" — [Unchained](https://unchainedcrypto.com/jpmorgan-files-for-second-tokenized-money-market-fund-on-ethereum-designed-for-stablecoin-reserves/)
+- KuCoin, "Stablecoin Liquidity $320.6B in May 2026" — [KuCoin](https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026)
+- Bessemer Venture Partners, "Stablecoins: DeFi to global infrastructure" — [Bessemer VP](https://www.bvp.com/atlas/stablecoins-from-defi-primitive-to-global-financial-infrastructure)
+- CoinDesk, "Stripe Tempo goes live" — [CoinDesk](https://www.coindesk.com/tech/2026/03/18/stripe-led-payments-blockchain-tempo-goes-live-with-protocol-for-ai-agents)
+- Fortune, "Stripe Paradigm Tempo advisory" — [Fortune](https://fortune.com/2026/04/21/stripe-and-paradigm-tempo-advisory-stablecoin-adoption/)
+- PYMNTS, "Tempo Morpho Integration" — [PYMNTS](https://www.pymnts.com/cryptocurrency/2026/tempo-expands-beyond-payments-with-morpho-integration/)
+- KoreaTechDesk, "Korea Stablecoin Dilemma" — [KoreaTechDesk](https://koreatechdesk.com/korea-stablecoin-dilemma-digital-asset-cryptocurrency)
+- KuCoin, "South Korea Stablecoin Regulation 2026" — [KuCoin](https://www.kucoin.com/news/flash/south-korea-to-introduce-stablecoin-regulation-and-digital-asset-etfs-in-2026)
+- Paul Hastings Crypto Policy Tracker — [Paul Hastings](https://www.paulhastings.com/insights/crypto-policy-tracker/senate-advances-genius-act-cloture-leadership-shifts-and-sec-updates-custody-guidance)
+- ainvest, "Visa & Mastercard 2026 Stablecoin" — [ainvest](https://www.ainvest.com/news/visa-mastercard-2026-stablecoin-bets-flow-analysis-2603/)
+- WEF, "US GENIUS Act vs EU MiCA" — [WEF](https://www.weforum.org/stories/2025/09/us-genius-act-eu-mica-convergence-crypto-rules/)

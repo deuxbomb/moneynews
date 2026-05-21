@@ -4,7 +4,7 @@
 
 ---
 
-2025년 7월 18일, 도널드 트럼프가 한 장의 법안에 서명했다. GENIUS Act — 미국 역사상 최초의 연방 스테이블코인 법이다. 불과 10년 전, 스테이블코인이라는 단어조차 없던 시절의 이야기다. 그런데 지금은 달러로 된 디지털 코인이 한 해 동안 **33조 달러**를 움직인다. 미국 GDP(27조 달러)보다 많다. Visa와 Mastercard를 합쳐도 25.5조 달러인데.
+2025년 7월 18일, 도널드 트럼프가 한 장의 법안에 서명했다. GENIUS Act — 미국 역사상 최초의 연방 스테이블코인 법이다. 불과 10년 전, 스테이블코인이라는 단어조차 없던 시절의 이야기다. 그런데 지금은 달러로 된 디지털 코인이 한 해 동안 33조 달러를 움직인다. Visa와 Mastercard를 합쳐도 25.5조 달러인데.
 
 법이 생겼다고 세상이 바뀌는 건 아니다. 진짜 전쟁은 그 다음부터다. 누가 이 새로운 달러 인프라를 장악하는가, 누가 통제하는가, 그리고 누가 거부하는가. 이 전쟁의 전선은 미국에만 있지 않다. EU는 이미 1년 전에 규제 프레임워크를 발효시켰고, 한국은 은행과 핀테크가 주도권을 두고 싸우고 있다. 오늘 4명의 목소리를 들어보자. 미 재무장관 스콧 베센트, 민주당 상원의원 엘리자베스 워런, Stripe CEO 패트릭 콜리슨, PayPal CEO 알렉스 크리스. 이들의 발언은 단순한 찬반 논쟁이 아니다. 달러가 코드화되는 이 시대를 바라보는 네 개의 근본적으로 다른 세계관이다.
 
@@ -26,7 +26,7 @@
 
 미 재무장관 스콧 베센트의 목소리는 명확하다. 스테이블코인은 달러 패권에 대한 위협이 아니라 **달러 패권을 강화하는 도구**다.
 
-그는 상원 청문회에서 이렇게 말했다. *"Stablecoin legislation backed by US Treasuries or T-bills will create a market that will expand US dollar usage via these stablecoins all around the world."* 미국 국채로 뒷받침되는 스테이블코인이 세계 전역에서 달러 사용을 확장할 것이라는 논리다. 그리고 결정적으로: *"$2 trillion is a very, very reasonable number, and I could see it greatly exceeding that."* 스테이블코인 시장이 2030년까지 최소 **2조 달러**로 성장할 것이라는 전망이다. 베센트가 인용한 애널리스트 예측은 **3.7조 달러**다.
+그는 상원 세출위원회 청문회에서 이렇게 말했다. *"Stablecoin legislation backed by US Treasuries or T-bills will create a market that will expand US dollar usage via these stablecoins all around the world."* 미국 국채로 뒷받침되는 스테이블코인이 세계 전역에서 달러 사용을 확장할 것이라는 논리다. 그리고 결정적으로: *"$2 trillion is a very, very reasonable number, and I could see it greatly exceeding that."* 스테이블코인 시장이 2030년까지 최소 2조 달러로 성장할 것이라는 전망이다. 베센트가 인용한 애널리스트 예측은 **3.7조 달러**다.
 
 왜 재무장관이 이렇게 적극적인가? 달러 표시 스테이블코인이 폭발적으로 성장하면, 그 준비금은 대부분 미국 국채에 묶인다. GENIUS Act가 요구하는 1:1 준비금 규정이 있고, 그 준비금의 상당 부분을 단기 미국 국채와 역레포로 채워야 하기 때문이다. 스테이블코인이 성장할수록 미국 국채 수요가 늘어난다. 30년물 국채가 5.1%를 뚫은 오늘, 국채 수요는 재무부에게 가장 시급한 과제다.
 
@@ -72,13 +72,15 @@ Stripe가 Paradigm과 함께 만든 Tempo 블록체인은 2026년 3월 메인넷
 
 스테이블코인 규제 경쟁에서 미국은 사실 선두가 아니다. **EU가 먼저 뛰었다.**
 
-EU의 MiCA(암호자산시장 규정)는 2024년 12월 30일 스테이블코인 조항이 전면 발효됐다 — GENIUS Act보다 7개월 앞서. Circle은 2024년 7월 MiCA 인증을 획득했고, 그 직후 유럽에서 USDC 거래량이 **337%** 급증했다. 규제 명확성이 시장을 폭발시킨다는 사례가 유럽에서 먼저 증명됐다. 2026년 현재 14개 발행사가 7개 EU 회원국에서 약 20종의 MiCA 준거 스테이블코인을 발행하고 있다. 미국 GENIUS Act는 MiCA보다 더 보수적이다 — 장기 채권 준비금 불가, 이자 지급 금지. 양 제도의 상호 운용 가능성이 2026~2027년 규제 협상의 핵심 의제다.
+EU의 MiCA(암호자산시장 규정)는 2024년 12월 30일 스테이블코인 조항이 전면 발효됐다 — GENIUS Act보다 7개월 앞서. Circle은 2024년 7월 MiCA 인증을 획득했고, 그 직후 유럽에서 USDC 거래량이 **337%** 급증했다. 규제 명확성이 시장을 폭발시킨다는 사례가 유럽에서 먼저 증명됐다. 2026년 현재 14개 발행사가 7개 EU 회원국에서 약 20종의 MiCA 준거 스테이블코인을 발행하고 있다.
 
-**한국은 아직 협상 중이다.** 2024년 7월 시행된 가상자산이용자보호법(VAUPA)은 주로 거래소 규제에 집중됐고, 스테이블코인 발행은 포함되지 않았다. 8대 시중은행 컨소시엄이 원화 스테이블코인(KRW-coin) 개발을 추진하고 있지만, 금융위원회(발행자 제한 반대, 경쟁 허용)와 한국은행(은행 지분 51% 이상 의무화) 사이의 주도권 갈등이 법안 시행을 늦추고 있다. 디지털자산기본법(DABA)은 2026년 하반기 시행 목표이지만 유동적이다.
+미국 GENIUS Act는 MiCA보다 더 보수적이다. 장기 채권을 준비금으로 쓸 수 없고, 이자 지급도 금지돼 있다. 반면 MiCA는 일부 유연성을 허용한다. 양 제도의 상호 운용 가능성 여부가 2026~2027년 규제 협상의 핵심 의제다.
 
-**싱가포르는 실용주의로 앞서나갔다.** MAS(통화청)는 2024년부터 단일통화 스테이블코인(SSCS) 전용 라이선스를 운용하며 Circle 싱가포르 법인 인증을 완료했다. Grab, Sea Group, ByteDance APAC 등 아시아 플랫폼 기업들의 크로스보더 결제 허브로서의 포지셔닝을 강화하고 있다. 한국 기업들이 원화 스테이블코인 논쟁을 벌이는 동안, 싱가포르의 달러 스테이블코인 인프라는 이미 아시아 시장에서 선점 우위를 굳히고 있다.
+**한국은 아직 협상 중이다.** 2024년 7월 시행된 가상자산이용자보호법(VAUPA)은 주로 거래소 등록·불공정거래 규제가 핵심으로, 스테이블코인 발행은 포함되지 않았다. 8대 시중은행 컨소시엄이 원화 스테이블코인(KRW-coin) 개발을 추진하고 있지만, 금융위원회(발행자 제한 반대, 경쟁 허용)와 한국은행(은행 지분 51% 이상 의무화) 사이의 주도권 갈등이 법안 시행을 늦추고 있다. 디지털자산기본법(DABA)은 2026년 하반기 시행 목표이지만 유동적이다. 결과적으로 한국 기업은 글로벌 스테이블코인 결제 생태계 편입에서 **최소 1~2년** 뒤처질 수 있다.
 
-세 지역의 공통 교훈은 하나다 — 규제가 명확해지자 기관이 움직였다. 한국만 아직 출발선 뒤에 서있다.
+**싱가포르는 실용주의로 앞서나갔다.** MAS는 2024년부터 단일통화 스테이블코인(SSCS) 전용 라이선스를 운용하며 Circle 싱가포르 법인 인증을 완료했다. 핀테크 허브 전략의 일환으로 규제 명확성을 조기에 제공한 결과, 아시아 스테이블코인 발행·결제 허브 자리를 선점하고 있다.
+
+세 지역의 공통점은 하나다 — 규제가 명확해지자 기관이 움직였다. 한국만 아직 그 출발선에 서있다.
 
 ---
 
@@ -102,7 +104,7 @@ EU의 MiCA(암호자산시장 규정)는 2024년 12월 30일 스테이블코인 
 
 **투자 관점의 체크리스트**:
 
-🔑 **Circle(CRCL)**: IPO 준비 중. GENIUS Act = 최대 수혜자. USDC 발행사이자 스테이블코인 준수 인프라 리더. OCC 최종 규칙 발표(2026년 7월 예정)가 IPO 시기의 핵심 변수. 규칙이 확정되는 순간이 Circle의 기업 가치 평가 기준점이 된다.
+🔑 **Circle(CRCL)**: IPO 준비 중. GENIUS Act = 최대 수혜자. USDC 발행사이자 스테이블코인 준수 인프라 리더. OCC 최종 규칙 발표(2026년 7월 예정)가 IPO 시기의 핵심 변수.
 
 🔑 **$PYPL (PayPal)**: PYUSD 성장의 직접 수혜자. $36억 잔고는 PayPal 전체 결제 규모 대비 여전히 극히 작다 — 성장 여지가 크다. Q2 2026 어닝에서 PYUSD YoY 성장률 유지 여부를 확인할 것.
 
@@ -116,37 +118,37 @@ EU의 MiCA(암호자산시장 규정)는 2024년 12월 30일 스테이블코인 
 - PYUSD 분기 잔고 $10B 돌파 → 스테이블코인이 PayPal 핵심 사업임을 증명하는 분기점
 
 **리스크**:
-- 워런의 "트럼프 부패" 공격이 2026 중간선거 의제로 부상 시, GENIUS Act 수정 압력 가능
-- Tether가 GENIUS Act 우회로 시장 지배를 유지 → 달러 스테이블코인 생태계가 역설적으로 역외에서 성장하는 아이러니
+- 워런의 "트럼프 부패" 공격이 2026 중간선거 의제로 부상 시, 추가 입법 또는 GENIUS Act 수정 압력 가능
+- Tether가 GENIUS Act 우회로 시장 지배를 유지 → 미국의 달러 스테이블코인 생태계가 역설적으로 역외에서 성장
 
 머뉴's Advice:
 
 ① **스테이블코인을 달러의 소프트웨어 업그레이드로 이해하라.** 달러가 없어지는 게 아니다. 달러가 달리는 레일이 바뀌는 것이다. 베센트와 콜리슨 모두 이 점에는 동의한다.
 
-② **"규제 명확성 = 기관 진입"의 공식은 이미 EU에서 증명됐다.** MiCA 이후 USDC 유럽 거래량 +337%. GENIUS Act 이후 JPMorgan JLTXX, Visa Tempo, Mastercard BVNK. 법이 생기면 기관이 움직인다. 한국이 1~2년 늦어지는 동안, 달러 레일은 이미 깔린다.
+② **"규제 명확성 = 기관 진입"의 공식은 이미 EU에서 증명됐다.** MiCA 이후 USDC 유럽 거래량 +337%. GENIUS Act 이후 JPMorgan JLTXX, Visa Tempo, Mastercard BVNK. 법이 생기면 기관이 움직인다. 한국이 1~2년 늦어지는 동안, 글로벌 스테이블코인 인프라는 미국과 유럽에서 굳어진다.
 
-③ **워런의 우려를 리스크 팩터로 관리하라.** 트럼프 USD1 이해충돌 이슈는 사라지지 않는다. 중간선거, 사법 도전, 추가 입법이 모두 가능한 경로다. 스테이블코인 투자에서 정치 리스크 모니터링은 선택이 아닌 필수다. 달러가 코드가 되는 이 순간, 코드를 쓰는 손이 누구의 것인지가 결국 모든 것을 결정한다.
+③ **워런의 우려를 리스크 팩터로 관리하라.** 트럼프 USD1 이해충돌 이슈는 사라지지 않는다. 중간선거, 사법 도전, 추가 입법이 모두 가능한 경로다. 스테이블코인 투자에서 정치 리스크 모니터링은 선택이 아닌 필수다.
 
 ---
 
 ## 출처
 
 - NBC News, "Senate advances a major crypto regulation bill on a bipartisan vote" — [NBC News](https://www.nbcnews.com/politics/congress/senate-advances-major-crypto-regulation-bill-bipartisan-vote-rcna207809)
-- Congress.gov S.1582 GENIUS Act 법안 텍스트 — [Congress.gov](https://www.congress.gov/bill/119th-congress/senate-bill/1582)
+- Congress.gov S.1582 GENIUS Act — [Congress.gov](https://www.congress.gov/bill/119th-congress/senate-bill/1582)
 - US Treasury Bessent X 공식 발언 — [Treasury X](https://x.com/SecScottBessent/status/1935027160374210573)
-- US Treasury Bessent X (달러 패권) — [Treasury X](https://x.com/SecScottBessent/status/1935404649718157691)
-- Yahoo Finance / Warren GENIUS Act 우려 — [Yahoo Finance](https://finance.yahoo.com/news/elizabeth-warren-warns-genius-act-180103769.html)
-- CoinDesk, "Stripe CEO Patrick Collison on stablecoins" — [CoinDesk](https://www.coindesk.com/business/2025/09/06/stripe-ceo-patrick-collison-explains-why-businesses-are-turning-to-stablecoins)
-- Fortune, "PayPal CEO Alex Chriss stablecoins" — [Fortune](https://fortune.com/2025/12/18/paypal-ceo-alex-chriss-stablecoins-innovators-dilemma/)
-- Cryptotimes, "JPMorgan JLTXX" — [Cryptotimes](https://www.cryptotimes.io/2026/05/13/jpmorgan-files-for-jltxx-new-tokenized-treasury-fund-on-ethereum-for-stablecoins/)
-- Unchained, "JPMorgan Second Tokenized MMF" — [Unchained](https://unchainedcrypto.com/jpmorgan-files-for-second-tokenized-money-market-fund-on-ethereum-designed-for-stablecoin-reserves/)
-- KuCoin, "Stablecoin Liquidity $320.6B in May 2026" — [KuCoin](https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026)
-- Bessemer Venture Partners, "Stablecoins: DeFi to global infrastructure" — [Bessemer VP](https://www.bvp.com/atlas/stablecoins-from-defi-primitive-to-global-financial-infrastructure)
-- CoinDesk, "Stripe Tempo goes live" — [CoinDesk](https://www.coindesk.com/tech/2026/03/18/stripe-led-payments-blockchain-tempo-goes-live-with-protocol-for-ai-agents)
-- Fortune, "Stripe Paradigm Tempo advisory" — [Fortune](https://fortune.com/2026/04/21/stripe-and-paradigm-tempo-advisory-stablecoin-adoption/)
-- PYMNTS, "Tempo Morpho Integration" — [PYMNTS](https://www.pymnts.com/cryptocurrency/2026/tempo-expands-beyond-payments-with-morpho-integration/)
-- KoreaTechDesk, "Korea Stablecoin Dilemma" — [KoreaTechDesk](https://koreatechdesk.com/korea-stablecoin-dilemma-digital-asset-cryptocurrency)
-- KuCoin, "South Korea Stablecoin Regulation 2026" — [KuCoin](https://www.kucoin.com/news/flash/south-korea-to-introduce-stablecoin-regulation-and-digital-asset-etfs-in-2026)
+- US Treasury Bessent X — [Treasury X](https://x.com/SecScottBessent/status/1935404649718157691)
+- Yahoo Finance / Warren "GENIUS Act 우려" — [Yahoo Finance](https://finance.yahoo.com/news/elizabeth-warren-warns-genius-act-180103769.html)
+- CoinDesk "Stripe CEO Patrick Collison explains stablecoins" — [CoinDesk](https://www.coindesk.com/business/2025/09/06/stripe-ceo-patrick-collison-explains-why-businesses-are-turning-to-stablecoins)
+- Fortune "PayPal CEO Alex Chriss stablecoins" — [Fortune](https://fortune.com/2025/12/18/paypal-ceo-alex-chriss-stablecoins-innovators-dilemma/)
+- Cryptotimes "JPMorgan JLTXX" — [Cryptotimes](https://www.cryptotimes.io/2026/05/13/jpmorgan-files-for-jltxx-new-tokenized-treasury-fund-on-ethereum-for-stablecoins/)
+- Unchained "JPMorgan Second Tokenized MMF" — [Unchained](https://unchainedcrypto.com/jpmorgan-files-for-second-tokenized-money-market-fund-on-ethereum-designed-for-stablecoin-reserves/)
+- KuCoin "Stablecoin Liquidity Hits $320.6B in May 2026" — [KuCoin](https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026)
+- Bessemer Venture Partners "Stablecoins: DeFi primitive to global infrastructure" — [Bessemer VP](https://www.bvp.com/atlas/stablecoins-from-defi-primitive-to-global-financial-infrastructure)
+- CoinDesk "Stripe Tempo goes live" — [CoinDesk](https://www.coindesk.com/tech/2026/03/18/stripe-led-payments-blockchain-tempo-goes-live-with-protocol-for-ai-agents)
+- Fortune "Stripe Paradigm Tempo advisory" — [Fortune](https://fortune.com/2026/04/21/stripe-and-paradigm-tempo-advisory-stablecoin-adoption/)
+- PYMNTS "Tempo Morpho Integration" — [PYMNTS](https://www.pymnts.com/cryptocurrency/2026/tempo-expands-beyond-payments-with-morpho-integration/)
+- KoreaTechDesk "Korea Stablecoin Dilemma" — [KoreaTechDesk](https://koreatechdesk.com/korea-stablecoin-dilemma-digital-asset-cryptocurrency)
+- KuCoin "South Korea Stablecoin Regulation 2026" — [KuCoin](https://www.kucoin.com/news/flash/south-korea-to-introduce-stablecoin-regulation-and-digital-asset-etfs-in-2026)
 - Paul Hastings Crypto Policy Tracker — [Paul Hastings](https://www.paulhastings.com/insights/crypto-policy-tracker/senate-advances-genius-act-cloture-leadership-shifts-and-sec-updates-custody-guidance)
-- ainvest, "Visa & Mastercard 2026 Stablecoin" — [ainvest](https://www.ainvest.com/news/visa-mastercard-2026-stablecoin-bets-flow-analysis-2603/)
-- WEF, "US GENIUS Act vs EU MiCA" — [WEF](https://www.weforum.org/stories/2025/09/us-genius-act-eu-mica-convergence-crypto-rules/)
+- ainvest "Visa & Mastercard 2026 Stablecoin Bets" — [ainvest](https://www.ainvest.com/news/visa-mastercard-2026-stablecoin-bets-flow-analysis-2603/)
+- WEF "US GENIUS Act vs EU MiCA" — [WEF](https://www.weforum.org/stories/2025/09/us-genius-act-eu-mica-convergence-crypto-rules/)
