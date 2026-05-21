@@ -1,3 +1,7 @@
+# Topics Log — 머뉴(MoneyNews) 발행 토픽 영구 기록
+# 형식: ## YYYY-MM-DD HH:MM (KST) [AM|PM|DEEP]
+# 자동 append: 각 트리거가 발행 후 자기 항목 추가
+# Backfilled: 2026-05-08 (지난 7일 git 히스토리에서 추출)
 
 ## 2026-05-01 22:49 [PM] (backfilled from 855ca97)
 - 헤드라인: 쉬는 날도 달리는 돈 — 한국 장 쉬는 사이, 미장은 7,200 위를 달린다
@@ -298,3 +302,9 @@
 - 오늘의 픽: $BWXT (카탈리스트: PCG $200M 인수 + FY26 가이던스 상향 + Q1 서프라이즈), $D (카탈리스트: NEE 합병 $66.8B 2026-05-18 발표, 합병차익 스프레드 $8.7) [와치리스트 외]
 - 뉴스 토픽: [에너지] NEE-Dominion $66.8B 합병(AI 데이터센터 전력 패권) / NANO Nuclear-Supermicro MOU / 원자력 2040년 수요 +100% / WTI $103 이란 협상 기대 / [기업] NVDA 오늘 밤 Q1 FY27 실적($78.8B 컨센, D-Day) / GOOGL Google I/O Gemini 3.5 Flash·Android XR·Gemini Spark 발표 / TSLA FSD 유럽(네덜란드) 승인 / COIN 프리마켓 -0.53% CLARITY Act 차익실현 / [매크로] 30Y 5.19% / FOMC 의사록 오늘 오후 / WMT DE 내일 어닝 / [ARK] TSLA -33,775주, AMD -15,855주 매도
 - 팟캐스트: (오늘 창 내 신규 에피소드 미확인 — 복습 추천으로 대체)
+
+## 2026-05-21 09:00 [AM] (테마: 핀테크/결제/크립토)
+- 헤드라인: NVDA가 역사를 썼다 — "수요가 폭발했다" 85조 원의 증명, 그런데 왜 주가는 제자리인가
+- 오늘의 픽: $HOOD (카탈리스트: 스페이스X SPCX IPO 로드쇼 진행 중 D+21 6/11, RV1 프리-IPO 펀드 NYSE 상장, Musk 소매 포함 확인), $MARA (카탈리스트: BTC 브레이크아웃 오늘 +6%, Long Ridge Energy $1.5B 딜 Q3 규제승인, 200MW HPC 데이터센터 피벗) [와치리스트 외 발굴]
+- 뉴스 토픽: [어닝] NVDA Q1 FY27 $81.6B +85% YoY 비트 but 주가 제자리 / WMT Q1 EPS 비트 이커머스+22% / DE Q2 어닝 발표 / [핀테크/크립토] Hyperliquid USDC 딜 → COIN/Circle $80M EBITDA 압박 / PayPal PYUSD $3.6B 600% 성장 / Stripe Tempo 블록체인 14개 파트너 / Stripe-PayPal 인수설 지속 / [스페이스X IPO] SPCX S-1 공개 $2T 기업가치 6/11 IPO 목표 / [기업] TSLA FSD 리투아니아 진출(EU 2번째) / GOOGL $388 Google I/O Gemini 3.5 / COIN -3.07% / OKLO $62 Wolfe Peer Perform / NFLX $89 $25B 자사주매입 진행 / [스마트머니] ARK 전방위 매도(TSLA AMD CRCL HOOD SHOP) / CBRS 매수 / Atreides TSLA 14,760주 매입 / 노스다코타 COIN 신규 취득
+- 팟캐스트: TBPN "Google I/O Recap, Fertility Decline, Spotify Logo Drama" (2026-05-20)
