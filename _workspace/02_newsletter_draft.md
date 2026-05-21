@@ -150,3 +150,5 @@ EU의 MiCA(암호자산시장 규정)는 2024년 12월 30일 스테이블코인 
 - Paul Hastings Crypto Policy Tracker — [Paul Hastings](https://www.paulhastings.com/insights/crypto-policy-tracker/senate-advances-genius-act-cloture-leadership-shifts-and-sec-updates-custody-guidance)
 - ainvest, "Visa & Mastercard 2026 Stablecoin" — [ainvest](https://www.ainvest.com/news/visa-mastercard-2026-stablecoin-bets-flow-analysis-2603/)
 - WEF, "US GENIUS Act vs EU MiCA" — [WEF](https://www.weforum.org/stories/2025/09/us-genius-act-eu-mica-convergence-crypto-rules/)
+
+<!-- slack_trigger: 2026-05-21 -->
