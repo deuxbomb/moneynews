@@ -40,6 +40,7 @@
 - **엔비디아 주가 최종 반응**: 실적은 완벽하지만 주가는 AH -2% → 프리마켓 회복 패턴. 정규장에서 $230 돌파 여부가 핵심 — 돌파 못하면 "이미 선반영"이라는 내러티브가 힘을 얻는다.
 - **이란 리스크**: 이란 최고지도자의 우라늄 국내 보관 지시가 미-이란 협상을 복잡하게 만들었다. WTI $105 돌파 시 에너지 섹터 수혜, 기술주 부담.
 - **CLARITY Act 표결 카운트다운**: 메모리얼 데이(5/25) 전 전체 상원 표결 여부. 통과 시 크립토 섹터 전반이 급등할 수 있다.
+
 🔥 오늘의 픽 — 핀테크/결제/크립토 (목요일 테마)
 
 🌡️ 시장 온도
@@ -90,6 +91,7 @@ Circle은 USDC의 발행사다. 지루하게 들릴 수 있지만, 숫자가 달
 ---
 
 ⚠️ 투자 조언이 아닌 데이터 기반 분석. 종목 매수/매도는 개인의 판단과 책임하에 결정하세요.
+
 엔비디아가 증명한 날: 숫자, 방향, 그리고 남은 질문들
 
 오늘 시장의 주역은 엔비디아였지만, 진짜 이야기는 그 뒤에 있다. AI 수요가 진짜라는 것을 $81.6B이 증명했다. 그러나 주가는 AH -2% 후 지지부진했다. 패턴이 보인다 — NVDA는 실적이 완벽할수록 주가가 흔들린다. 기대가 이미 너무 높이 올라갔다. 진짜 수익자는 NVDA 주식이 아니라 NVDA가 필요로 하는 것들이다: HBM4(SK하이닉스), CoWoS(TSMC), 전력(에너지주). 오늘 밤 그 퍼즐의 답이 미장에서 나온다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-forecasts-quarterly-revenue-above-202423200.html)
@@ -132,9 +134,10 @@ CLARITY Act 상원 위원회 통과 이후 코인베이스는 +7.6% 급등했다
 
 1. **DE 어닝 서프라이즈 — 농업도 회복 중이다** — 디어(Deere) Q2 EPS $6.55(est $5.74 상회), 매출 $13.37B(+5% YoY). "미국 대형 농업 장비 수요 -15~20% 예상" 경고에도 불구하고 실적이 기대를 넘었다. 트럼프 농업 보조금·관세의 복잡한 영향이 지속되지만 건설·산림 부문(+5~10%)이 버팀목. 산업재 섹터의 조용한 회복을 보여준다. [MarketBeat](https://www.marketbeat.com/earnings/reports/2026-5-21-deere-company-stock/)
 
-2. **빌 애크먼, MSFT 신규 포지션 구축** — Pershing Square의 Bill Ackman이 1분기 Microsoft 포지션을 신규 구축했다. 명분은 "AI와 클라우드의 수익화". Azure의 AI 수요가 매 분기 가속화되고, 코파일럿 플러스 PC 생태계가 구독 수익으로 전환되는 사이클을 베팅했다. 슈퍼인베스터의 MSFT 신규 진입은 AI 인프라 사이클이 여전히 초기임을 방증한다. [Dataroma/ValuSider](https://valuesider.com/value-investors)
+2. **빌 애크먼, MSFT 신규 포지션 구축** — Pershing Square의 Bill Ackman이 1분기 Microsoft 포지션을 신규 구축했다. 명분은 "AI와 클라우드의 수익화". Azure의 AI 수요가 매 분기 가속화되고, 코파일럿 플러스 PC 생태계가 구독 수익으로 전환되는 사이클을 베팅했다. 슈퍼인베스터의 MSFT 신규 진입은 AI 인프라 사이클이 여전히 초기임을 방증한다. [ValuSider](https://valuesider.com/value-investors)
 
 3. **스페이스X IPO D+21, 소매 투자자 직접 접근 허용** — SpaceX가 Robinhood, Fidelity, Schwab을 통해 소매 투자자에게 직접 IPO 주식을 배분하겠다고 확인했다. 기업 가치 $1.75T, 역사상 최대 IPO 예정. "소매 투자자가 처음부터 참여할 수 있는 역사적 IPO"다. $HOOD 입장에서는 플랫폼 트래픽 폭발을 의미한다. [CNBC](https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html)
+
 딥다이브 — 실적 캘린더 & 스마트머니
 
 오늘의 실적 리뷰
@@ -156,7 +159,6 @@ CLARITY Act 상원 위원회 통과 이후 코인베이스는 +7.6% 급등했다
 | $CRCL | $148.08 (컨센) | $111.62 | +33% | 매수 13/매도 2 |
 | $NVDA | $300 (KeyBanc) | $222 | +35% | 강력매수 |
 | $TSLA | $600 (ARK) | $417 | +44% | 각양각색 |
-| $GOOGL | $210 (컨센) | $387 | — | 정정필요(구주식기준?) |
 
 🏦 스마트머니 동향
 
@@ -166,16 +168,14 @@ CLARITY Act 상원 위원회 통과 이후 코인베이스는 +7.6% 급등했다
 - ARKK: $TSLA +109,158주 매수 — 최근 전방위 매도 흐름에서 테슬라만 방향 전환. Cathie Wood의 시그널인가, 아니면 리밸런싱인가.
 - ARKF(핀테크): Shopify($SHOP), Coinbase($COIN), Robinhood($HOOD)가 최대 보유 종목. 오늘 핀테크 테마 상승에 직접 수혜.
 
-**내부자 거래 동향** (OpenInsider 최신):
+**내부자 거래 동향**:
 - $AFRM: 임원들 RSU 행사 매도 지속 — 단기 오버행이나 회사 성장에는 영향 없음.
-- $MSTR (Strategy): Saylor 주도 BTC 지속 매입. 지난주 24,869 BTC (+$2.01B). 이는 MSTR 내부자 매수와 동일한 신호.
+- $MSTR (Strategy): Saylor 주도 BTC 지속 매입. 지난주 24,869 BTC (+$2.01B). 843,738 BTC 보유, BTC $77.8K 기준 포트폴리오 가치 $65.8B.
 
-**헤지펀드 13F 업데이트** (Q1 2026 기준):
-- 하워드 막스(Oaktree): 포트폴리오 업데이트 5/19 예정
-- 넬슨 펠츠(Trian): 5/15 업데이트, 세부 미확인
-- Strategy($MSTR): 843,738 BTC 보유($63.9B 취득가), BTC $77.8K 기준 포트폴리오 가치 $65.8B
 🎧 테크 팟캐스트
 
-오늘(목) 오전 11시 PT 기준 TBPN 금일 에피소드는 아직 방영 전입니다. All-In E274(5/18)·Acquired "Vanguard"(5/18)·TBPN May 20 "Google I/O Recap"은 오전 브리핑에서 이미 다뤘습니다. 금일 시청각에 새로 발행된 에피소드는 확인되지 않았습니다.
+오늘(목) TBPN 금일 에피소드는 아직 방영 전입니다(11AM PT = KST 다음날 새벽). All-In E274(5/18)·Acquired "Vanguard"(5/18)·TBPN May 20 "Google I/O Recap"은 오전 브리핑에서 이미 다뤘습니다. 금일 새로 발행된 에피소드는 확인되지 않았습니다.
 
-**대신 다시 듣기 추천**: All-In E274 — "OpenAI vs 애플 + Thinking Machines 실시간 모델 + Anthropic 다크 SPV"는 오늘 NVDA 실적과 AI 에이전트 테마를 이해하는 데 최적의 배경 지식을 제공합니다. 링크: [Spotify](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF)
+**다시 듣기 추천**: All-In E274 — "OpenAI vs 애플 + Thinking Machines 실시간 모델 + Anthropic 다크 SPV"는 오늘 NVDA 실적과 AI 에이전트 테마를 이해하는 데 최적의 배경 지식입니다. [Spotify](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF)
+
+<!-- slack_trigger: 2026-05-21-PM -->
