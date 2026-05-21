@@ -1,58 +1,45 @@
-📈 시장 포인트 — "어닝은 끝났다, 이제 두 개의 역사가 장을 움직인다"
+엔비디아가 증명한 날: 숫자, 방향, 그리고 남은 질문들
 
-어젯밤 NVIDIA는 역대 최대 분기 실적을 냈다. $81.6B, YoY +85%, 데이터센터 $75.25B(+92%). 젠슨 황의 말 한마디 — "수요가 폭발했다. 에이전틱 AI가 도래했다" — 는 AI 사이클이 아직 중반임을 확인했다. Q2 가이던스 $89~93B는 시장 기대치를 다시 상회했다. 그런데 주가는 제자리다. 역사적으로 NVIDIA 어닝 다음날 평균 상승률은 +2.4%이지만 중앙값은 +0.1% — 결국 오늘도 그 패턴이 재현됐다. "좋은 게 충분히 이미 가격에 녹아있다"는 월가의 냉정한 판단이다. [Quiver Quantitative](https://www.quiverquant.com/news/NVIDIA+Corporation+%28NVDA%29+Releases+Q1+2027+Earnings%3A+Blockbuster+Revenue%2C+Profit+and+EPS+Beat)
-
-오늘 아침 두 번째 역사가 열렸다. 스페이스X S-1 공개 — 티커 $SPCX, 기업가치 최대 $2조 달러, 목표 조달액 $75B. 사우디아람코(2019년 $294억)의 2.5배다. IPO는 6월 11-12일 목표. 일론 머스크는 소매 투자자 배분 비중 20%+ 목표를 밝혔다. 리테일 접근성이 역대급 IPO의 차별점 중 하나다. 골드만삭스가 리드 주관사 포지션을 노리고 있다. [Bloomberg](https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx) · [Fortune](https://fortune.com/2026/05/20/spacex-finally-files-ipo-prospectus-reveals-revenue-is-up-but-losses-are-too/)
-
-월마트(WMT)는 오늘 아침 소비자 건강을 확인시켜줬다. EPS $0.61(예상 $0.58 +5.7% 비트), 이커머스 +22%, 광고 사업 +50%. 고물가 환경에도 저가 옴니채널이 작동했다. 다만 매출 $163.98B는 $164.43B 추정치를 소폭 하회 — 완벽하진 않지만 튼튼했다. [24/7 Wall St.](https://247wallst.com/companies/wmt/earnings/2026/Q1)
+오늘 시장의 주역은 엔비디아였지만, 진짜 이야기는 그 뒤에 있다. AI 수요가 진짜라는 것을 $81.6B이 증명했다. 그러나 주가는 AH -2% 후 지지부진했다. 패턴이 보인다 — NVDA는 실적이 완벽할수록 주가가 흔들린다. 기대가 이미 너무 높이 올라갔다. 진짜 수익자는 NVDA 주식이 아니라 NVDA가 필요로 하는 것들이다: HBM4(SK하이닉스), CoWoS(TSMC), 전력(에너지주). 오늘 밤 그 퍼즐의 답이 미장에서 나온다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-forecasts-quarterly-revenue-above-202423200.html)
 
 ---
 
-💸 핀테크/크립토 전선 — "COIN이 흔들리는 사이, PayPal과 Stripe는 전장을 바꾼다"
+달러가 블록체인 위를 걷기 시작했다 — 핀테크/크립토 격변의 한 주
 
-**1. Hyperliquid 딜, COIN에 $80M 펀치** — Hyperliquid가 Circle의 USDC를 공식 기축자산(AQA)으로 채택하는 대신, USDC 예치금 이자 수익의 90%를 Hyperliquid 생태계로 가져가는 딜을 발표했다. 기존엔 이 수익이 Circle과 Coinbase로 흘렀다. Compass Point 추정: Coinbase + Circle 합산 EBITDA 최대 $80M 연간 감소 가능. COIN은 오늘 -3.07% 하락 중이다. 더 큰 문제는 이 딜이 선례가 되면 — Polymarket, Jupiter 등 다른 DeFi 프로토콜도 같은 조건을 요구할 수 있다. 크립토 생태계에서 중개자(COIN, Circle)의 지대 수익이 서서히 해체되는 신호로 읽힌다. [CoinDesk](https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say)
+1. **트럼프 EO, 크립토를 결제 인프라에 박았다** — 트럼프 대통령이 5월 19일 행정명령에 서명했다. 핵심 내용: "핀테크 기업과 크립토 기업의 기존 금융 서비스·결제 시스템 접근 장벽을 제거하고, 연방 규제기관들이 협력 프레임을 구축하라." PYUSD +600% 성장, Stripe Tempo, JPMorgan JLTXX — 이 흐름이 이제 행정명령 수준의 뒷받침을 받게 됐다. USDC·USDT를 결제 레일로 수용하는 것이 정책 방향으로 굳어진다는 의미다. [CoinDesk](https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails)
 
-**2. PayPal PYUSD, 1.6% 스테이블코인 시장 점유 확보** — PayPal의 자체 스테이블코인 PYUSD가 2025년 대비 600% 성장해 $3.6B 시총을 돌파했다. 전체 스테이블코인 시장의 1.6% 점유율. PayPal CEO Alex Chriss는 블록체인 통합을 전사적으로 밀어붙이는 중이다. Stripe의 Tempo 레이어1 블록체인에는 Anthropic, OpenAI, Visa, Klarna 등 14개 파트너가 합류 — 스테이블코인 결제 인프라 경쟁이 가속화된다. [DL News](https://www.dlnews.com/articles/markets/paypal-and-stripe-amond-fintechs-muscling-into-crypto-in-2026/)
+2. **CLARITY Act, 상원 전체 표결 초읽기** — 5월 14일 상원 은행위원회를 13-11로 통과한 CLARITY Act가 이번 주 전체 상원 표결을 앞두고 있다. 상원 루미스·모레노 의원이 "메모리얼 데이(5/25) 전 처리 안 되면 입법 동력 급감"이라고 경고했다. 통과 시 미국 최초의 포괄적 디지털 자산 시장 규제법이 된다 — $COIN, $CRCL, Circle이 직접 수혜. [CoinDesk](https://www.coindesk.com/policy/2026/05/14/clarity-act-clears-u-s-senate-committee-on-its-way-to-a-final-test-in-congress)
 
-**3. Stripe-PayPal 인수설, 여전히 진행 중** — Bloomberg가 2월 보도한 Stripe의 PayPal 부분/전체 인수 협상은 아직 "초기 단계"에서 결론이 나지 않았다. 두 거인의 합산 결제 인프라는 글로벌 온라인 거래의 40%+를 커버할 것으로 추산된다. 공식 발표 없이도 시장은 이 내러티브를 흘려보내지 않는다. [TechCrunch](https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal/)
+3. **BTC $77,852 반등, 5/29 만기 $82K 콜 급증** — BTC가 주중 $76,000 저점에서 반등했다. Deribit의 BTC 5월 29일 만기 $82,000 콜옵션에 거래량이 몰리고 있다. 옵션 시장은 단기 반등에 베팅 중이다. NVDA 실적 호조 + 규제 테마 긍정이 겹치면 $80K 돌파 시도가 나올 수 있다. [InvestingNews](https://investingnews.com/cryptocurrency-market-recap/)
 
----
-
-🏢 기업 뉴스
-
-**$TSLA — EU 프런티어 확장**
-이야기: Tesla가 FSD(지도 지원 자율주행)를 리투아니아에서 공식 서비스 개시했다. EU 두 번째 국가다. 테슬라는 현재 네덜란드에 이어 발트해 3국으로 유럽 FSD 확장을 빠르게 진행 중이다. 주가는 -1.43% ($412.90) — 넓은 시장 약세에 동조 중.
-배경: Andrej Karpathy가 Tesla를 떠나 Anthropic으로 이적했다는 소식도 들어왔다. 테슬라 AI 핵심 인재의 이탈이지만, FSD 기술 자체의 모멘텀은 멈추지 않았다. Q1 2026 어닝에서 자동차 총마진 개선과 서비스/FSD 매출 성장이 확인됐다.
-전망: 다음 어닝은 7월 21일(예상). FSD 유럽 확장 속도와 로보택시 허가 진행 상황이 핵심 변수다. [TradingKey](https://www.tradingkey.com/news/market-movers/261916864-market-movers-tsla-20260520)
-
-**$GOOGL — Google I/O 여운, Gemini 3.5로 AI 전선 재정비**
-이야기: 5월 19-20일 Google I/O에서 Gemini 3.5 패밀리를 공개했다. Gemini 3.5 Pro는 다음 달 출시 예정. CEO 순다르 피차이는 "올해는 AI에 전사적으로 올인한다"고 선언했다. Android XR 스마트글라스 발표도 Apple Vision Pro 대항마로 주목받았다.
-배경: Google은 Q1 2026에 $109.9B 매출(+22%), 클라우드 $20B을 기록한 강자다. NVDA의 어닝 비트가 AI 수요 사이클을 확인시켜줌으로써 GOOGL의 AI 클라우드 전략도 재평가받는다.
-전망: 주가 $388, 애널리스트 평균 목표가 $428(+10%). Google I/O 이후 순풍. 단기 리스크는 30년물 국채 5.1%+의 성장주 밸류에이션 압박. [Benzinga](https://www.benzinga.com/quote/GOOGL/analyst-ratings)
-
-**$NVDA — "Agentic AI 도래" 선언, but 주가는 '소문에 사고 뉴스에 팔기'**
-이야기: Q1 FY2027 실적은 경이롭다. $81.6B (+85%), 데이터센터 $75.25B (+92%), 비-GAAP EPS $1.87 (컨센 +5.4% 상회). 배당 인상. Q2 가이던스 $89.1~92.8B.
-배경: Jensen Huang은 "빅테크 하이퍼스케일러들이 Blackwell 300 아키텍처를 흡수하기 위해 돌진 중"이라고 했다. AI 에이전트 도입이 추론 컴퓨팅 수요의 폭발적 증가를 만들고 있다.
-전망: 역대 실적이지만 주가는 제자리. 이미 +40%나 오른 NVDA에 "비트=랠리" 공식은 없다. 진짜 촉매는 Q2 실적(8월) 또는 Rubin 아키텍처 출하 확인이다. [Quiver Quantitative](https://www.quiverquant.com/news/NVIDIA+Corporation+%28NVDA%29+Releases+Q1+2027+Earnings%3A+Blockbuster+Revenue%2C+Profit+and+EPS+Beat)
-
-**$COIN — Hyperliquid 쇼크, 스테이블코인 패러다임이 흔들린다**
-이야기: -3.07% ($194.18). Hyperliquid의 USDC 딜로 연간 최대 $80M EBITDA 손실이 예상된다. USDC를 발행하는 Circle과 쿠스터디-서비스로 수익을 올리는 Coinbase 모두 직격탄.
-배경: GENIUS Act 통과로 스테이블코인 규제 명확성이 왔지만, 탈중앙 DeFi의 역습이 중앙화 거래소의 수익 모델을 흔든다. Coinbase는 USDC 수탁 서비스로 연간 수억 달러를 벌어왔다.
-전망: 단기 약세 요인이지만, COIN은 여전히 규제 명확성의 최대 수혜주. 30년물 5.1%+ 환경에서도 크립토 관련 플랫폼 프리미엄은 유지된다. 매크로 개선 시 반등 여력 충분. [CoinDesk](https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say)
-
-**$NFLX — $25B 자사주매입 실행 중, 광고 비즈니스 궤도 진입**
-이야기: $89.33 (-0.52%). 역대 최대 $25B 자사주매입 프로그램이 실행 중이다. 스트리밍 1위 지위를 최대한 활용한 주주환원 전략.
-배경: 광고 티어 성장과 글로벌 구독자 침투율 확대가 매출 다각화의 핵심이다. 경쟁사 Disney+가 흑자 전환에 성공한 가운데 NFLX는 더 성숙한 단계에 있다.
-전망: 자사주매입이 EPS를 지탱한다. 프리미엄 콘텐츠(NFL 계약) + 광고 성장의 복합 효과로 안정적인 현금흐름 기반.
-
-**$OKLO — Wolfe "Peer Perform" 신규 커버, 신뢰 회복 과제**
-이야기: ~$61.94 (-2%). Q1 어닝 미스 + Wolfe Research "Peer Perform" 신규 커버가 압박. 목표가 $91.21(현재 대비 +47%) — 중장기 전망은 여전히 강세.
-배경: NRC Aurora PDC 승인은 기업의 기술적 신뢰성을 확인했다. 그러나 상업 운전까지 경로가 길고 현재 매출은 $0다. NVDA와 LANL 파트너십은 AI 데이터센터 전력 수요의 잠재적 고객.
-전망: SMR 섹터는 장기 테마다. 단기엔 어닝 미스 소화 + 규제 이정표 확인이 선결 과제.
+4. **WMT Q1: 관세 폭풍 속 소비 저력 확인** — 월마트가 Q1 매출 $177.75B(+6.1%, 예상 $174.56B 상회), EPS $0.67(예상 $0.65 상회)을 발표했다. 이커머스 +22%, 회원제 확대, 광고 매출 성장이 핵심. "고소득층은 계속 소비하고, 저소득층은 가치 소비로 월마트를 찾는다" — 소비 이중화 구조에서 월마트가 양쪽 모두의 수혜자임을 증명했다. [StockStory](https://stockstory.org/us/stocks/nasdaq/wmt/news/earnings/walmarts-nasdaqwmt-q1-cy2026-earnings-results-revenue-in-line-with-expectations)
 
 ---
 
-🧩 흥미로운 이야기
+기업 뉴스 — 와치리스트 업데이트
 
-1. **스페이스X S-1의 진짜 숫자**: 2025년 매출 $18B+, 순손실 $4.9B. 수익의 절반 이상이 스타링크(Starlink $11B). 일론 머스크는 Class B 주식의 93.6% 보유 + 85.1% 의결권. IPO 자금의 상당 부분은 화성 탐사 vs AI 인프라에 쓰일 예정. 지구 1위 로켓 회사를 사는 것이 아니라 "만물 컴퍼니"를 사는 것이다. [Fortune](https://fortune.com/2026/05/20/spacex-ipo-filing-s1-total-addressable-market-make-life-multiplanetary/) · [Al Jazeera](https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo)
-2. **MicroStrategy(MSTR), BTC 매도 가능성 첫 시인**: Michael Saylor이 5월 5일 처음으로 "채권 만기(2027~2028, $4.1B)에 따라 BTC 매도를 고려할 수 있다"고 언급했다. 2020년 이후 "절대 팔지 않겠다"던 스탠스의 첫 균열. MSTR은 현재 818K+ BTC 보유 ($64B 상당). 이 신호가 BTC 시장에 어떤 의미인지 장기 보유자들이 주시 중이다. [CoinDesk](https://www.coindesk.com/markets/2026/05/11/strategy-buys-535-bitcoin-for-usd43-million-days-after-signaling-potential-btc-sales)
+**$NVDA 엔비디아 — 완벽한 숫자, 고요한 주가**
+
+어젯밤 8시(ET), Jensen Huang이 말했다: "이번 분기는 특별한 분기였습니다. 수요가 폭발했습니다. 이유는 단순합니다: 에이전틱 AI가 도착했기 때문입니다." 숫자는 사상 최대였다. Q1 매출 $81.62B(+85% YoY), EPS $1.87, 데이터센터 $75.25B(+92% YoY), FCF $49B(역대 최고), 총마진 74.9%. Q2 가이던스 $91B(est $87.3B 대비 +4.2%). $80B 자사주매입 선물도 얹었다. 그런데 주가는 AH -2%였다. "이미 다 알려진 것"이라는 시장의 냉소. 그러나 역사가 말한다: NVDA는 실적 발표 후 30~90일이 진짜 움직임이다. Vera CPU "$200B 시장 개막"이라는 신규 사업 축을 제시했다. KeyBanc는 목표가 $300 유지 중. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-forecasts-quarterly-revenue-above-202423200.html)
+
+**$GOOGL 알파벳 — "구글 검색 26년 만에 최대 변화"**
+
+Google I/O 이틀째가 완료됐다. 핵심: 구글 검색이 AI 검색으로 완전히 전환된다. 새 검색창은 Gemini 3.5 Flash 기반이고, 더 긴 대화형 쿼리를 기본으로 받는다. "검색 에이전트"가 도입돼 사용자 대신 정보를 찾아 합성한다. 개인 정보를 바탕으로 맥락 검색하는 "Personal Intelligence"가 200개국에 확대된다. Gemini Spark는 백그라운드에서 반복 작업을 처리한다. 테크크런치는 "구글 검색, 당신이 아는 그것은 끝났다"고 선언했다. 광고 모델이 흔들릴 위험 vs AI 광고 포맷 신설이 기회 — 이 충돌이 향후 몇 분기의 핵심 변수다. [TechCrunch](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/)
+
+**$TSLA 테슬라 — ARK가 방향을 틀었다**
+
+오늘 ARK의 ARKK ETF가 테슬라 109,158주를 순매수했다. 이는 최근 ARK의 전방위 매도(TSLA, AMD, CRCL, HOOD, SHOP, AMD)와 정반대 흐름이다. Cathie Wood가 신호를 보내고 있는가? FSD는 리투아니아에서 유럽 두 번째 시장 진출을 확정했다. Cybercab과 Tesla Semi, Megapack 3는 올해 양산 예정이다. 테슬라 India 공장 계획 철회가 부담이지만, FSD 글로벌 확장이 상쇄하는 구도. 현재가 $417. ARK의 $600 목표가까지는 43% 거리. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-21-2026)
+
+**$COIN 코인베이스 — CLARITY Act가 주가를 움직인다**
+
+CLARITY Act 상원 위원회 통과 이후 코인베이스는 +7.6% 급등했다가 이익 실현으로 조정받고 있다. 현재 $193-197 레인지. Hyperliquid가 USDC 유동성 딜을 체결하면서 코인베이스·Circle이 $80M EBITDA 압박을 받는다는 분석도 나왔다. 그러나 큰 그림에서 COIN은 규제 승인의 최대 수혜자다. CLARITY Act 전체 표결이 이번 주라면 다시 한번 가격이 움직인다.
+
+---
+
+흥미로운 이야기 — 오늘 시장의 숨은 신호들
+
+1. **DE 어닝 서프라이즈 — 농업도 회복 중이다** — 디어(Deere) Q2 EPS $6.55(est $5.74 상회), 매출 $13.37B(+5% YoY). "미국 대형 농업 장비 수요 -15~20% 예상" 경고에도 불구하고 실적이 기대를 넘었다. 트럼프 농업 보조금·관세의 복잡한 영향이 지속되지만 건설·산림 부문(+5~10%)이 버팀목. 산업재 섹터의 조용한 회복을 보여준다. [MarketBeat](https://www.marketbeat.com/earnings/reports/2026-5-21-deere-company-stock/)
+
+2. **빌 애크먼, MSFT 신규 포지션 구축** — Pershing Square의 Bill Ackman이 1분기 Microsoft 포지션을 신규 구축했다. 명분은 "AI와 클라우드의 수익화". Azure의 AI 수요가 매 분기 가속화되고, 코파일럿 플러스 PC 생태계가 구독 수익으로 전환되는 사이클을 베팅했다. 슈퍼인베스터의 MSFT 신규 진입은 AI 인프라 사이클이 여전히 초기임을 방증한다. [Dataroma/ValuSider](https://valuesider.com/value-investors)
+
+3. **스페이스X IPO D+21, 소매 투자자 직접 접근 허용** — SpaceX가 Robinhood, Fidelity, Schwab을 통해 소매 투자자에게 직접 IPO 주식을 배분하겠다고 확인했다. 기업 가치 $1.75T, 역사상 최대 IPO 예정. "소매 투자자가 처음부터 참여할 수 있는 역사적 IPO"다. $HOOD 입장에서는 플랫폼 트래픽 폭발을 의미한다. [CNBC](https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html)
