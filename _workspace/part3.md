@@ -1,45 +1,44 @@
-엔비디아가 증명한 날: 숫자, 방향, 그리고 남은 질문들
+📰 오늘의 뉴스 — "완벽한 어닝, 차가운 시장"의 이유
 
-오늘 시장의 주역은 엔비디아였지만, 진짜 이야기는 그 뒤에 있다. AI 수요가 진짜라는 것을 $81.6B이 증명했다. 그러나 주가는 AH -2% 후 지지부진했다. 패턴이 보인다 — NVDA는 실적이 완벽할수록 주가가 흔들린다. 기대가 이미 너무 높이 올라갔다. 진짜 수익자는 NVDA 주식이 아니라 NVDA가 필요로 하는 것들이다: HBM4(SK하이닉스), CoWoS(TSMC), 전력(에너지주). 오늘 밤 그 퍼즐의 답이 미장에서 나온다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-forecasts-quarterly-revenue-above-202423200.html)
+[증시 포인트] 이란·CPI·NVDA — 세 가지가 동시에 착지했다
 
----
-
-달러가 블록체인 위를 걷기 시작했다 — 핀테크/크립토 격변의 한 주
-
-1. **트럼프 EO, 크립토를 결제 인프라에 박았다** — 트럼프 대통령이 5월 19일 행정명령에 서명했다. 핵심 내용: "핀테크 기업과 크립토 기업의 기존 금융 서비스·결제 시스템 접근 장벽을 제거하고, 연방 규제기관들이 협력 프레임을 구축하라." PYUSD +600% 성장, Stripe Tempo, JPMorgan JLTXX — 이 흐름이 이제 행정명령 수준의 뒷받침을 받게 됐다. USDC·USDT를 결제 레일로 수용하는 것이 정책 방향으로 굳어진다는 의미다. [CoinDesk](https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails)
-
-2. **CLARITY Act, 상원 전체 표결 초읽기** — 5월 14일 상원 은행위원회를 13-11로 통과한 CLARITY Act가 이번 주 전체 상원 표결을 앞두고 있다. 상원 루미스·모레노 의원이 "메모리얼 데이(5/25) 전 처리 안 되면 입법 동력 급감"이라고 경고했다. 통과 시 미국 최초의 포괄적 디지털 자산 시장 규제법이 된다 — $COIN, $CRCL, Circle이 직접 수혜. [CoinDesk](https://www.coindesk.com/policy/2026/05/14/clarity-act-clears-u-s-senate-committee-on-its-way-to-a-final-test-in-congress)
-
-3. **BTC $77,852 반등, 5/29 만기 $82K 콜 급증** — BTC가 주중 $76,000 저점에서 반등했다. Deribit의 BTC 5월 29일 만기 $82,000 콜옵션에 거래량이 몰리고 있다. 옵션 시장은 단기 반등에 베팅 중이다. NVDA 실적 호조 + 규제 테마 긍정이 겹치면 $80K 돌파 시도가 나올 수 있다. [InvestingNews](https://investingnews.com/cryptocurrency-market-recap/)
-
-4. **WMT Q1: 관세 폭풍 속 소비 저력 확인** — 월마트가 Q1 매출 $177.75B(+6.1%, 예상 $174.56B 상회), EPS $0.67(예상 $0.65 상회)을 발표했다. 이커머스 +22%, 회원제 확대, 광고 매출 성장이 핵심. "고소득층은 계속 소비하고, 저소득층은 가치 소비로 월마트를 찾는다" — 소비 이중화 구조에서 월마트가 양쪽 모두의 수혜자임을 증명했다. [StockStory](https://stockstory.org/us/stocks/nasdaq/wmt/news/earnings/walmarts-nasdaqwmt-q1-cy2026-earnings-results-revenue-in-line-with-expectations)
+어젯밤 세 개의 이벤트가 시장을 두드렸다. 엔비디아는 Q1 $81.6B(+85% YoY)로 컨센서스를 돌파했고, Baird는 목표가를 $300에서 $500으로 단번에 올렸다. 코어 CPI는 4월 기준 1.4%로 예상치(1.7%)를 크게 하회했다. 이란-미국 협상에서 Rubio 국무장관이 FT와의 인터뷰에서 "some good signs"를 언급하자 WTI 선물은 $97.29로 3.5% 급락했다. 셋 다 긍정적인 신호였는데, S&P 500은 +0.17%, 나스닥은 +0.09%에 그쳤다. 다우가 사상 최고치를 기록했지만 화제성은 없었다. Capital.com의 Kyle Rodda는 NVDA 어닝을 "a garden variety beat — well-telegraphed"라고 표현했다. 시장에 기대 포화 현상이 왔다는 뜻이다. [Bloomberg] [TheStreet]
 
 ---
 
-기업 뉴스 — 와치리스트 업데이트
+🩺 [헬스케어/바이오] 1주일 후면 시카고다 — ASCO 앞 3대 뉴스
 
-**$NVDA 엔비디아 — 완벽한 숫자, 고요한 주가**
+1. **MRNA: FDA가 자문위를 소집했다 — "거절이 아니라 심사"다**
+5월 21일, FDA가 Moderna의 mRNA 독감백신(mRNA-1010)에 대해 6월 18일 VRBPAC 자문위원회를 소집한다고 발표했다. 주가는 -2% 하락했지만, 사실은 다르다. 2월 심사 거부 → 3월 재수락 → 5월 자문위 소집의 순서는 FDA가 이 백신을 점점 더 진지하게 보고 있다는 증거다. PDUFA 날짜는 8월 5일이고, 자문위는 통상 최종 결정 6-8주 전에 열린다. 타이밍이 맞다. mRNA-1010은 50-64세 정식, 65세 이상 조건부 승인을 목표로 하며, 미국 독감 백신 시장($1.5B+)에서 첫 mRNA 제품이 된다. [AJMC] [Benzinga]
 
-어젯밤 8시(ET), Jensen Huang이 말했다: "이번 분기는 특별한 분기였습니다. 수요가 폭발했습니다. 이유는 단순합니다: 에이전틱 AI가 도착했기 때문입니다." 숫자는 사상 최대였다. Q1 매출 $81.62B(+85% YoY), EPS $1.87, 데이터센터 $75.25B(+92% YoY), FCF $49B(역대 최고), 총마진 74.9%. Q2 가이던스 $91B(est $87.3B 대비 +4.2%). $80B 자사주매입 선물도 얹었다. 그런데 주가는 AH -2%였다. "이미 다 알려진 것"이라는 시장의 냉소. 그러나 역사가 말한다: NVDA는 실적 발표 후 30~90일이 진짜 움직임이다. Vera CPU "$200B 시장 개막"이라는 신규 사업 축을 제시했다. KeyBanc는 목표가 $300 유지 중. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-forecasts-quarterly-revenue-above-202423200.html)
+2. **BMRN: Voxzogo Phase 3 성공 — 새 적응증, 새 시장**
+BioMarin이 hypochondroplasia(저신장 희귀질환) 아동 대상 Phase 3 CANOPY-HCH-3 결과를 발표했다. VOXZOGO 1차 목표 달성 — 연간 성장속도 +2.33cm/year (vs 위약, p<0.0001). 현재 이 질환에는 FDA 승인 치료제가 없다. Q3 2026 sNDA 신청 계획 발표. 주가 장외 +4.8% 급등. 연간 매출 가이던스도 $3.83-3.93B으로 이미 상향됐다. 다음 촉매: ASCO 2026 (D+7, 5월 29일)에서 VOXZOGO 장기 데이터 추가 발표. [Benzinga] [StockTitan]
 
-**$GOOGL 알파벳 — "구글 검색 26년 만에 최대 변화"**
-
-Google I/O 이틀째가 완료됐다. 핵심: 구글 검색이 AI 검색으로 완전히 전환된다. 새 검색창은 Gemini 3.5 Flash 기반이고, 더 긴 대화형 쿼리를 기본으로 받는다. "검색 에이전트"가 도입돼 사용자 대신 정보를 찾아 합성한다. 개인 정보를 바탕으로 맥락 검색하는 "Personal Intelligence"가 200개국에 확대된다. Gemini Spark는 백그라운드에서 반복 작업을 처리한다. 테크크런치는 "구글 검색, 당신이 아는 그것은 끝났다"고 선언했다. 광고 모델이 흔들릴 위험 vs AI 광고 포맷 신설이 기회 — 이 충돌이 향후 몇 분기의 핵심 변수다. [TechCrunch](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/)
-
-**$TSLA 테슬라 — ARK가 방향을 틀었다**
-
-오늘 ARK의 ARKK ETF가 테슬라 109,158주를 순매수했다. 이는 최근 ARK의 전방위 매도(TSLA, AMD, CRCL, HOOD, SHOP, AMD)와 정반대 흐름이다. Cathie Wood가 신호를 보내고 있는가? FSD는 리투아니아에서 유럽 두 번째 시장 진출을 확정했다. Cybercab과 Tesla Semi, Megapack 3는 올해 양산 예정이다. 테슬라 India 공장 계획 철회가 부담이지만, FSD 글로벌 확장이 상쇄하는 구도. 현재가 $417. ARK의 $600 목표가까지는 43% 거리. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-21-2026)
-
-**$COIN 코인베이스 — CLARITY Act가 주가를 움직인다**
-
-CLARITY Act 상원 위원회 통과 이후 코인베이스는 +7.6% 급등했다가 이익 실현으로 조정받고 있다. 현재 $193-197 레인지. Hyperliquid가 USDC 유동성 딜을 체결하면서 코인베이스·Circle이 $80M EBITDA 압박을 받는다는 분석도 나왔다. 그러나 큰 그림에서 COIN은 규제 승인의 최대 수혜자다. CLARITY Act 전체 표결이 이번 주라면 다시 한번 가격이 움직인다.
+3. **ASCO 2026 — 3,400개 항암 데이터가 열린다 (D+7)**
+5월 21일 대부분의 ASCO 초록이 공개됐다. 5월 29일~6월 2일 시카고 McCormick Place에서 온·오프라인 동시 개최. Kelun-Biotech의 RET 억제제 lunbotinib이 5월 29일 구두 발표로 예정돼있고, BioMarin, Moleculin 등 다수의 바이오텍이 데이터 발표를 대기 중이다. ASCO는 매년 FDA 승인 흐름을 바꾸는 최대 항암 학술 이벤트다. 다음 주, 바이오텍 섹터는 이 학회를 중심으로 움직일 가능성이 높다. [ASCO]
 
 ---
 
-흥미로운 이야기 — 오늘 시장의 숨은 신호들
+🏢 [기업 뉴스] 어닝 시즌의 후반전
 
-1. **DE 어닝 서프라이즈 — 농업도 회복 중이다** — 디어(Deere) Q2 EPS $6.55(est $5.74 상회), 매출 $13.37B(+5% YoY). "미국 대형 농업 장비 수요 -15~20% 예상" 경고에도 불구하고 실적이 기대를 넘었다. 트럼프 농업 보조금·관세의 복잡한 영향이 지속되지만 건설·산림 부문(+5~10%)이 버팀목. 산업재 섹터의 조용한 회복을 보여준다. [MarketBeat](https://www.marketbeat.com/earnings/reports/2026-5-21-deere-company-stock/)
+**$TSLA Q2 역대 최고 하루 판매량 — 반등의 신호탄?**
+Tesla가 2026년 Q2 중 역대 가장 높은 단일일 판매량을 기록했다. 구체적 수치 미공개이지만, Musk가 X를 통해 확인했다. FSD는 중국(파트너십 기반)과 리투아니아(EU 2번째)로 확대됐고, 베를린 공장에는 $250M 배터리셀 생산 라인이 증설 중이다. 주가는 $418로 안정. 47명 애널리스트 평균 Buy이지만 컨센서스 목표가 $412는 현재가보다 소폭 낮다. Q2 배달량 데이터가 다음 분기점이다. [Yahoo Finance]
 
-2. **빌 애크먼, MSFT 신규 포지션 구축** — Pershing Square의 Bill Ackman이 1분기 Microsoft 포지션을 신규 구축했다. 명분은 "AI와 클라우드의 수익화". Azure의 AI 수요가 매 분기 가속화되고, 코파일럿 플러스 PC 생태계가 구독 수익으로 전환되는 사이클을 베팅했다. 슈퍼인베스터의 MSFT 신규 진입은 AI 인프라 사이클이 여전히 초기임을 방증한다. [Dataroma/ValuSider](https://valuesider.com/value-investors)
+**$NVDA "Sell the News" 4번째 — Baird는 PT $500 올렸다**
+어닝은 완벽했다: Q1 $81.6B(+85%), 데이터센터 $75.2B(+100%), Q2 가이던스 컨센서스 상회. 그러나 주가는 -0.9%. 4분기 연속 어닝 직후 매도다. 시장은 이미 이 수준의 실적을 선반영했고, 이제 "다음 분기 Q2 $91B 가이던스 달성 여부"를 보고 싶어한다. Baird는 PT를 $300→$500으로 인상했지만, 단기 모멘텀은 약하다. 장기로는 데이터센터 수요 사이클이 여전히 강세다. [CNBC] [Kiplinger]
 
-3. **스페이스X IPO D+21, 소매 투자자 직접 접근 허용** — SpaceX가 Robinhood, Fidelity, Schwab을 통해 소매 투자자에게 직접 IPO 주식을 배분하겠다고 확인했다. 기업 가치 $1.75T, 역사상 최대 IPO 예정. "소매 투자자가 처음부터 참여할 수 있는 역사적 IPO"다. $HOOD 입장에서는 플랫폼 트래픽 폭발을 의미한다. [CNBC](https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html)
+**$GOOGL Google I/O 후 일주일 — 조용한 정착**
+Gemini 3.5 Flash, Android XR 안경, Googlebook 발표 이후 주가는 $387 수준에서 횡보 중. Blackstone과의 AI 데이터센터 합작투자 논의도 진행 중이다. 다음 주요 촉매는 Q2 실적(7월). 단기 촉매 부재로 $380-395 박스권 예상. [Yahoo Finance]
+
+**$COIN CLARITY Act 상원 본회의 카운트다운**
+5/14 상원 은행위 통과(13R-11D) 이후, 전체 상원 표결을 기다리는 중. Memorial Day 전 표결 가능성이 거론되지만, 클로처 60표 확보가 관건이다. BTC는 $77K대에서 안정. $190 수준 지지. 트럼프 EO(5/19) 크립토 결제 인프라 통합 명령으로 장기 방향은 우호적.
+
+---
+
+🌍 [흥미로운 이야기]
+
+1. **WTI $97 — 이란이 $20를 돌려줬다**
+5월 초 $105에서 어제 $97로. 이란 협상 기대감이 원유 시장을 뒤흔들고 있다. Rubio "some good signs" 발언 하나에 배럴당 $6 차이가 났다. 미국 가솔린 가격에 직접 연결되므로, 협상 타결이 현실화되면 다음 CPI가 더 내려갈 수 있다. 5월 31일 미국-이란 협상 시한이 다가오고 있다. [Bloomberg] [CNBC]
+
+2. **코어 CPI 1.4% — 연준이 미소지을 수 있을까**
+4월 코어 CPI 1.4%, 실업 청구 209K. 두 수치 모두 예상 하회. 연준이 원하는 방향이다. 단, 30년물 국채가 5.1%대를 유지하고 있어 금리 인하 기대는 '가능성' 수준에 머물고 있다. 연내 금리 인하 확률은 시장에서 여전히 논쟁 중. [Bloomberg]
