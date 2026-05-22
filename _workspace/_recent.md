@@ -1,3 +1,48 @@
+# Topics Log — 머뉴(MoneyNews) 발행 토픽 영구 기록
+# 형식: ## YYYY-MM-DD HH:MM (KST) [AM|PM|DEEP]
+# 자동 append: 각 트리거가 발행 후 자기 항목 추가
+# Backfilled: 2026-05-08 (지난 7일 git 히스토리에서 추출)
+
+## 2026-05-01 22:49 [PM] (backfilled from 855ca97)
+- 헤드라인: 쉬는 날도 달리는 돈 — 한국 장 쉬는 사이, 미장은 7,200 위를 달린다
+- 오늘의 픽: $AAPL, $CVX, $OKLO
+- 뉴스 토픽: [자율주행] 자율주행, Robotaxi / [빅테크] 엔비디아, 구글, 애플 / [크립토] 비트코인, 이더리움, 코인베이스 / [매크로] 연준, 금리, 고용지표 / [지정학] 이란
+- 팟캐스트: All-In Podcast ** — | All-In Podcast (https://allin.com/episodes) | Acquired Podcast ** — | Acquired 는 세상을 다시 보게 만드는 에피소드를 낸다. 이번은 페라리다. 79년 역사 동안 단 33만 대. 평균 판매 | Acquired - Ferrari Episode (https://www.acquired.fm/episodes)
+
+
+## 2026-05-02 14:45 [DEEP] (backfilled from 004235c)
+- 제목: 7,250억 달러의 내기 — 구글만 답을 내놨다
+
+
+## 2026-05-02 22:40 [PM] (backfilled from 2f1504d)
+- 헤드라인: 버핏 없는 첫 오마하, 그래도 돈은 흐른다
+- 오늘의 픽: $NVDA, $OKLO, $PBF
+- 뉴스 토픽: [자율주행] 자율주행, 웨이모, 테슬라 / [빅테크] 엔비디아, 구글, 애플 / [크립토] 비트코인, 코인베이스 / [매크로] 연준, 금리 / [지정학] 이란, 중국
+- 팟캐스트: All-In Podcast — | All-In 에피소드](https://allin.com/episodes) | Acquired Podcast — | Acquired 가 이번에는 자동차 섹터를 깊게 팠다. 79년 역사에 누적 판매 33만 대 — 일부러 적게 만드는 회사. 4 | Acquired FM (https://www.acquired.fm/episodes)
+
+
+## 2026-05-03 22:35 [PM] (backfilled from 1a75875)
+- 헤드라인: 4월 랠리의 끝에서, 월요일 미장을 기다리며
+- 오늘의 픽: $GOOGL, $NVDA, $OKLO
+- 뉴스 토픽: [자율주행] 자율주행, 웨이모, Robotaxi / [빅테크] 엔비디아, 구글, 애플 / [크립토] 비트코인, 코인베이스 / [매크로] 연준, 금리 / [지정학] 이란, 중국
+- 팟캐스트: All-In Podcast — | All-In 포맷으로 해부한 에피소드다. 빅테크 하이퍼스케일러(구글·마이크로소프트·메타)의 대규모 어닝 비트를 쭉 훑고, | All-In 최근 분기 중에서도 손꼽힐 만하다. [All-In Podcast](https://allin.com/episo | Lex Fridman Podcast #490 — | No Priors —
+
+
+## 2026-05-04 14:42 [DEEP] (backfilled from 46d3bbb)
+- 제목: 200대가 동시에 멈췄다 — 중국 로보택시의 브레이크가 걸린 날
+
+
+## 2026-05-04 22:30 [PM] (backfilled from abf97b9)
+- 헤드라인: 🔔 코스피 7천피 63포인트 앞! 반도체가 지수를 들고 뛴다
+- 오늘의 픽: $OKLO, $PLTR, $OHI
+- 뉴스 토픽: [자율주행] 자율주행, 테슬라, Robotaxi / [빅테크] 엔비디아, 구글, 애플 / [크립토] 비트코인, 코인베이스 / [매크로] 연준, 금리 / [지정학] 이란, 중국
+- 팟캐스트: All-In Podcast ** | | All-In 의 주인공은 단연 Elon vs Sam 재판이다. Chamath·Jason·Sacks·Friedberg 네  | all-in-with-chamath-jason-sacks-friedberg /id1502871393) | Lex Fridman Podcast ** | | TBPN ** |
+
+
+## 2026-05-05 14:42 [DEEP] (backfilled from 44b289e)
+- 제목: 로보택시 전쟁 2026: 한쪽은 주당 50만 건, 다른 쪽은 고작 25대
+
+
 ## 2026-05-06 14:43 [DEEP] (backfilled from a938411)
 - 제목: 같은 목적지, 다른 요금표 — 로보택시 가격전쟁의 서막이 올랐다
 
@@ -298,3 +343,9 @@
 - 핵심 주장/결론: 오늘 밤의 핵심은 Q1 숫자가 아닌 Q2 가이던스. $88B+이면 AI 수요 사이클 지속, $86B 이하면 모멘텀 의구심. 픽앤샤블 최선호는 SK하이닉스 — 2026년 HBM 전량 NVIDIA 사전배정, Rubin HBM4 70% 확보 전망.
 - 1차 자료 출처: SEC EDGAR Q4 FY2026 8-K × 1, NVIDIA Newsroom Q3 FY2026 × 1, GTC 2026 키노트 트랜스크립트 × 1, Google Cloud Ironwood 공식 블로그 × 1, SK하이닉스 공식 뉴스룸 × 1, TSMC CoWoS 공급망 분석(Tom's Hardware) × 1, CNBC H20 수출규제 보도 × 1 (총 7건)
 - 판정: Minor (6개 개선점 반영 — 환각 6건 삭제/완화, Q2 기준선 근거 명시, 마지막 여운 문장 강화, $AVBO 오타 수정)
+
+## 2026-05-21 22:00 [PM] (테마: 핀테크/결제/크립토)
+- 헤드라인: 43조가 돌아왔다 — 코스피 8% 급반등의 밤, 미장이 엔비디아를 기다린다
+- 오늘의 픽: $AFRM (카탈리스트: D+13 Evercore TMT Conference 6/3 CFO 발표 + D+14 William Blair 6/4 COO 발표, Q3 FY26 매출+30% 순이익+62.5%, BofA PT $88), $CRCL (카탈리스트: CLARITY Act 전체 상원 표결 Memorial Day 전 가능성 D+4, 트럼프 EO 5/19 크립토 결제 인프라 통합 명령, 목표가 $148 Buy 컨센서스) [와치리스트 외]
+- 뉴스 토픽: [핀테크/크립토] 트럼프 EO 5/19 크립토 결제 인프라 통합 명령 / CLARITY Act 전체 상원 표결 임박(D+4) / BTC $77,852 반등 5/29 만기 $82K 콜 급증 / WMT Q1 $177.75B(+6.1%) 이커머스+22% / SpaceX IPO 소매 직접 접근 확인 D+21 / [기업] NVDA Q1 $81.6B(+85%)+Q2 $91B 가이던스+$80B 자사주매입 / GOOGL Google I/O 완결 AI 검색 26년 만에 최대 변화 / TSLA ARK +109K주 매수 전환+FSD 리투아니아 / DE Q2 EPS $6.55 vs $5.74 서프라이즈 / [매크로] 코스피 +8.1%(7,790) 기관 2.3조 매수 / 외국인 10일 만에 매수 전환 +2,023억 / WTI $104.52 이란 긴장 / 원달러 1,498원 / [스마트머니] ARK TSLA +109K 매수 / 빌 애크먼 MSFT 신규 포지션
+- 팟캐스트: (금일 신규 에피소드 미확인 — 섹션 생략)
