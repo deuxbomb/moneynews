@@ -1,5 +1,16 @@
-🎧 테크 팟캐스트
 
-오늘(목) 오전 11시 PT 기준 TBPN 금일 에피소드는 아직 방영 전입니다. All-In E274(5/18)·Acquired "Vanguard"(5/18)·TBPN May 20 "Google I/O Recap"은 오전 브리핑에서 이미 다뤘습니다. 금일 시청각에 새로 발행된 에피소드는 확인되지 않았습니다.
+🎙️ 팟캐스트 — 이번 주 들을 것들
 
-**대신 다시 듣기 추천**: All-In E274 — "OpenAI vs 애플 + Thinking Machines 실시간 모델 + Anthropic 다크 SPV"는 오늘 NVDA 실적과 AI 에이전트 테마를 이해하는 데 최적의 배경 지식을 제공합니다. 링크: [Spotify](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF)
+[dedup 확인]
+- All-In E274 (5/18 발행): 5/19 AM 에디션에서 이미 요약 완료 → 생략
+- Acquired "Vanguard" (5/18): 5/18 AM 에디션에서 이미 요약 완료 → 생략
+- TBPN "Google I/O Recap, Fertility Decline, Spotify Logo Drama" (5/20): 5/21 AM에서 요약 완료 → 생략
+- All-In E275: 주말 발행 미확인 (일반적으로 금~토 발행, 현재 미인덱싱)
+- TBPN 5/21(수)·5/22(금) 에피소드: 발행 확인되나 제목·내용 미인덱싱
+
+12시간 이내 신규 확인 에피소드 없음. 팟캐스트 섹션은 이번 오후 에디션에서 생략합니다.
+
+🔜 이번 주 기대 에피소드
+- **All-In E275**: 메모리얼 데이 이후 첫 주, Salesforce·Dell 어닝, PCE 발표 예상 — "소비 어닝 프리뷰" 가능성
+- **TBPN 5/27(화)**: 미국 장 재개장 첫날. Salesforce 어닝 + 메모리얼 데이 소비 지표 첫 반응 
+- **No Priors**: AI+소비자 기술 관점 리뷰 예상 (최근 #461이 마지막)

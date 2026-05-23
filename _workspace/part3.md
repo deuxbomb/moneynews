@@ -1,45 +1,48 @@
-엔비디아가 증명한 날: 숫자, 방향, 그리고 남은 질문들
 
-오늘 시장의 주역은 엔비디아였지만, 진짜 이야기는 그 뒤에 있다. AI 수요가 진짜라는 것을 $81.6B이 증명했다. 그러나 주가는 AH -2% 후 지지부진했다. 패턴이 보인다 — NVDA는 실적이 완벽할수록 주가가 흔들린다. 기대가 이미 너무 높이 올라갔다. 진짜 수익자는 NVDA 주식이 아니라 NVDA가 필요로 하는 것들이다: HBM4(SK하이닉스), CoWoS(TSMC), 전력(에너지주). 오늘 밤 그 퍼즐의 답이 미장에서 나온다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-forecasts-quarterly-revenue-above-202423200.html)
+📰 이번 주를 돌아보면 — 다우 사상 최고, 소비의 진짜 시험은 이제 시작이다
 
----
+S&P 500이 8주 연속 상승이라는 역사를 썼다. Dow는 처음으로 50,000선을 돌파하며 50,579.70으로 역대 최고치를 경신했다. 나스닥도 7주 중 7주 오르며 26,344로 마감했다. "랠리가 너무 길었다"는 걱정을 지우듯, UBS는 연말 S&P 목표를 7,900으로 높였다. 근거는 명확하다: NVIDIA 어닝으로 AI 수요 사이클이 건재하고, 소비자 지출은 아직 탄탄하며, 10년물 금리가 5.1%대에서 4.56%로 내려앉았다. [Yahoo Finance] [The Street]
 
-달러가 블록체인 위를 걷기 시작했다 — 핀테크/크립토 격변의 한 주
-
-1. **트럼프 EO, 크립토를 결제 인프라에 박았다** — 트럼프 대통령이 5월 19일 행정명령에 서명했다. 핵심 내용: "핀테크 기업과 크립토 기업의 기존 금융 서비스·결제 시스템 접근 장벽을 제거하고, 연방 규제기관들이 협력 프레임을 구축하라." PYUSD +600% 성장, Stripe Tempo, JPMorgan JLTXX — 이 흐름이 이제 행정명령 수준의 뒷받침을 받게 됐다. USDC·USDT를 결제 레일로 수용하는 것이 정책 방향으로 굳어진다는 의미다. [CoinDesk](https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails)
-
-2. **CLARITY Act, 상원 전체 표결 초읽기** — 5월 14일 상원 은행위원회를 13-11로 통과한 CLARITY Act가 이번 주 전체 상원 표결을 앞두고 있다. 상원 루미스·모레노 의원이 "메모리얼 데이(5/25) 전 처리 안 되면 입법 동력 급감"이라고 경고했다. 통과 시 미국 최초의 포괄적 디지털 자산 시장 규제법이 된다 — $COIN, $CRCL, Circle이 직접 수혜. [CoinDesk](https://www.coindesk.com/policy/2026/05/14/clarity-act-clears-u-s-senate-committee-on-its-way-to-a-final-test-in-congress)
-
-3. **BTC $77,852 반등, 5/29 만기 $82K 콜 급증** — BTC가 주중 $76,000 저점에서 반등했다. Deribit의 BTC 5월 29일 만기 $82,000 콜옵션에 거래량이 몰리고 있다. 옵션 시장은 단기 반등에 베팅 중이다. NVDA 실적 호조 + 규제 테마 긍정이 겹치면 $80K 돌파 시도가 나올 수 있다. [InvestingNews](https://investingnews.com/cryptocurrency-market-recap/)
-
-4. **WMT Q1: 관세 폭풍 속 소비 저력 확인** — 월마트가 Q1 매출 $177.75B(+6.1%, 예상 $174.56B 상회), EPS $0.67(예상 $0.65 상회)을 발표했다. 이커머스 +22%, 회원제 확대, 광고 매출 성장이 핵심. "고소득층은 계속 소비하고, 저소득층은 가치 소비로 월마트를 찾는다" — 소비 이중화 구조에서 월마트가 양쪽 모두의 수혜자임을 증명했다. [StockStory](https://stockstory.org/us/stocks/nasdaq/wmt/news/earnings/walmarts-nasdaqwmt-q1-cy2026-earnings-results-revenue-in-line-with-expectations)
+그러나 이 랠리에는 불편한 동반자가 있다. 가솔린은 갤런당 $4.55로 4년 만에 메모리얼 데이 전 최고치를 기록했다. 이란 협상은 "최종 단계"라는 트럼프의 선언에도 이란 최고지도자가 농축 우라늄을 국내 보관하라고 지시하며 WTI가 $97~$98 사이에서 줄다리기 중이다. 다우 신고가와 가솔린 4년 최고가가 공존하는 이 역설 — 메모리얼 데이 소비 지표가 어느 쪽이 맞는지를 알려줄 것이다. [CNBC, Gulf Business]
 
 ---
 
-기업 뉴스 — 와치리스트 업데이트
+🎪 소비재/미디어/엔터 — "체험 경제"가 소비의 새 중심이 됐다
 
-**$NVDA 엔비디아 — 완벽한 숫자, 고요한 주가**
+Live Nation, 1등은 변하지 않는다
+Live Nation(LYV)이 Q1 2026에서 매출 $3.79B (+12% YoY)를 기록했다. 더 중요한 숫자는 이연 수익(deferred revenue) $6.6B — 아직 공연이 열리지도 않았는데 이미 그 돈이 들어와 있다는 뜻이다. 경영진은 "하계 공연 전 티켓 판매가 두 자릿수 증가"라고 했으며, "스타디움·원형극장 수요가 특히 강하다"고 덧붙였다. 메모리얼 데이 위크엔드가 시즌 개막을 알리면, Q3는 진짜 폭발 구간이 된다. [LYV Q1 8-K SEC, Motley Fool]
 
-어젯밤 8시(ET), Jensen Huang이 말했다: "이번 분기는 특별한 분기였습니다. 수요가 폭발했습니다. 이유는 단순합니다: 에이전틱 AI가 도착했기 때문입니다." 숫자는 사상 최대였다. Q1 매출 $81.62B(+85% YoY), EPS $1.87, 데이터센터 $75.25B(+92% YoY), FCF $49B(역대 최고), 총마진 74.9%. Q2 가이던스 $91B(est $87.3B 대비 +4.2%). $80B 자사주매입 선물도 얹었다. 그런데 주가는 AH -2%였다. "이미 다 알려진 것"이라는 시장의 냉소. 그러나 역사가 말한다: NVDA는 실적 발표 후 30~90일이 진짜 움직임이다. Vera CPU "$200B 시장 개막"이라는 신규 사업 축을 제시했다. KeyBanc는 목표가 $300 유지 중. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nvidia-forecasts-quarterly-revenue-above-202423200.html)
+AMC CEO가 직접 주식을 샀다
+AMC 엔터테인먼트 CEO Adam Aron이 5월 19일 공개 시장에서 250,000주($344K)를 직접 매입했다. 그는 X에서 이렇게 말했다: "나는 AMC와 2026/2027 박스오피스에 엄청난 확신이 있다. 그래서 오늘 내 돈으로 250,000주를 시장가에 샀다." 주가는 다음 날 17% 급등했다. 메모리얼 데이 위크엔드부터 하계 블록버스터 시즌이 공식 개막한다. [Meyka, StockTitan]
 
-**$GOOGL 알파벳 — "구글 검색 26년 만에 최대 변화"**
-
-Google I/O 이틀째가 완료됐다. 핵심: 구글 검색이 AI 검색으로 완전히 전환된다. 새 검색창은 Gemini 3.5 Flash 기반이고, 더 긴 대화형 쿼리를 기본으로 받는다. "검색 에이전트"가 도입돼 사용자 대신 정보를 찾아 합성한다. 개인 정보를 바탕으로 맥락 검색하는 "Personal Intelligence"가 200개국에 확대된다. Gemini Spark는 백그라운드에서 반복 작업을 처리한다. 테크크런치는 "구글 검색, 당신이 아는 그것은 끝났다"고 선언했다. 광고 모델이 흔들릴 위험 vs AI 광고 포맷 신설이 기회 — 이 충돌이 향후 몇 분기의 핵심 변수다. [TechCrunch](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/)
-
-**$TSLA 테슬라 — ARK가 방향을 틀었다**
-
-오늘 ARK의 ARKK ETF가 테슬라 109,158주를 순매수했다. 이는 최근 ARK의 전방위 매도(TSLA, AMD, CRCL, HOOD, SHOP, AMD)와 정반대 흐름이다. Cathie Wood가 신호를 보내고 있는가? FSD는 리투아니아에서 유럽 두 번째 시장 진출을 확정했다. Cybercab과 Tesla Semi, Megapack 3는 올해 양산 예정이다. 테슬라 India 공장 계획 철회가 부담이지만, FSD 글로벌 확장이 상쇄하는 구도. 현재가 $417. ARK의 $600 목표가까지는 43% 거리. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-21-2026)
-
-**$COIN 코인베이스 — CLARITY Act가 주가를 움직인다**
-
-CLARITY Act 상원 위원회 통과 이후 코인베이스는 +7.6% 급등했다가 이익 실현으로 조정받고 있다. 현재 $193-197 레인지. Hyperliquid가 USDC 유동성 딜을 체결하면서 코인베이스·Circle이 $80M EBITDA 압박을 받는다는 분석도 나왔다. 그러나 큰 그림에서 COIN은 규제 승인의 최대 수혜자다. CLARITY Act 전체 표결이 이번 주라면 다시 한번 가격이 움직인다.
+GTA6 — 11월 19일이 진짜 D-Day
+Take-Two(TTWO)는 5월 21일 어닝콜에서 GTA6 출시일이 2026년 11월 19일로 변경 없음을 확인했다. 5월 18~21일 진행된 프리오더 캠페인은 애널리스트가 예상하는 첫 주 $1B 선주문으로 가는 길목. BofA 목표가 $320(26× FY27-28 EPS), 컨센서스 Strong Buy 11명. 카운트다운: D-180. [Bloomberg, Yahoo Finance]
 
 ---
 
-흥미로운 이야기 — 오늘 시장의 숨은 신호들
+🏢 기업 뉴스 — 와치리스트 업데이트
 
-1. **DE 어닝 서프라이즈 — 농업도 회복 중이다** — 디어(Deere) Q2 EPS $6.55(est $5.74 상회), 매출 $13.37B(+5% YoY). "미국 대형 농업 장비 수요 -15~20% 예상" 경고에도 불구하고 실적이 기대를 넘었다. 트럼프 농업 보조금·관세의 복잡한 영향이 지속되지만 건설·산림 부문(+5~10%)이 버팀목. 산업재 섹터의 조용한 회복을 보여준다. [MarketBeat](https://www.marketbeat.com/earnings/reports/2026-5-21-deere-company-stock/)
+$TSLA — FSD가 드디어 중국 땅을 밟았다
+5월 21일, 테슬라는 FSD Supervised를 중국에 공식 출시했다. 트럼프-시진핑 정상회담 직후의 타이밍이 우연이 아니다. 중국 당국의 조건부 승인으로 현재는 옵트인 방식의 제한적 배포이며, 전면 배포는 Q3 2026이 목표다. 64,000위안($9,400)의 일회성 구매가 현재 유일한 옵션이다. 이로써 FSD는 미국·캐나다·한국·호주·뉴질랜드·네덜란드·리투아니아·중국 등 11개국으로 영토를 넓혔다. 중국 내 데이터 학습 가속화가 본격화될 전망이며, BYD·샤오펑 등 자국 경쟁사들이 저가 자율주행 기능으로 맞불을 놓고 있다. [CNBC, SCMP, just-auto]
 
-2. **빌 애크먼, MSFT 신규 포지션 구축** — Pershing Square의 Bill Ackman이 1분기 Microsoft 포지션을 신규 구축했다. 명분은 "AI와 클라우드의 수익화". Azure의 AI 수요가 매 분기 가속화되고, 코파일럿 플러스 PC 생태계가 구독 수익으로 전환되는 사이클을 베팅했다. 슈퍼인베스터의 MSFT 신규 진입은 AI 인프라 사이클이 여전히 초기임을 방증한다. [Dataroma/ValuSider](https://valuesider.com/value-investors)
+$NVDA — 어닝 이후 조용한 한 주, 다음 촉매는 6월 4일
+Q1 FY27 $81.6B 비트 + Q2 $91B 가이던스 발표 이후 주가는 $218대에서 숨을 고르고 있다. 6월 4일 $0.01 배당 ex-date(배당 자체는 기호)가 다가온다. ARK는 5월 21일 $TSLA 쪽으로 $45.55M을 대규모 전환 매수하며 NVIDIA 비중을 일시적으로 줄였다. SK하이닉스 HBM 전량 사전배정과 Blackwell 수요 초과는 변함없다.
 
-3. **스페이스X IPO D+21, 소매 투자자 직접 접근 허용** — SpaceX가 Robinhood, Fidelity, Schwab을 통해 소매 투자자에게 직접 IPO 주식을 배분하겠다고 확인했다. 기업 가치 $1.75T, 역사상 최대 IPO 예정. "소매 투자자가 처음부터 참여할 수 있는 역사적 IPO"다. $HOOD 입장에서는 플랫폼 트래픽 폭발을 의미한다. [CNBC](https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html)
+$COIN — CLARITY Act 차익실현 파도 지속
+$184.95(-4.3%)로 한 주를 마감했다. 5월 14일 상원 금융위 표결 이후 차익실현이 이어지고 있다. 상원 본회의 60표 클로처가 진짜 관문이며, 메모리얼 데이 전 표결 가능성은 현재 낮게 평가된다. BTC는 주말 $75,909~$76,788 사이에서 안정 거래 중. 5월 29일 만기 $82K 콜옵션 집중은 여전히 상방 베팅 유지를 보여준다.
+
+$GOOGL — Google I/O 발표의 시장 소화 중
+$386.98로 주간 마감. Google I/O에서 공개된 Gemini 4.0, Android XR 스마트글라스, Googlebook이 시장에 흡수되는 과정. AI 검색 26년 만의 최대 변화 선언 이후 실제 수익화 속도가 관건이다. 목표가 $420~$430 유지.
+
+---
+
+🌐 흥미로운 이야기들
+
+1. UBS 연말 S&P 목표 7,900 상향 — "AI 수요+소비자 탄력성+어닝 서프라이즈 3박자"
+"기업 어닝이 고평가를 정당화하고 있다"는 UBS의 판단이다. S&P 7,900이면 현재 대비 약 6% 추가 상승 여지. [Yahoo Finance]
+
+2. 이란 협상 줄다리기 — WTI의 운명이 걸렸다
+트럼프가 "최종 단계"라고 했지만, 이란 최고지도자가 농축 우라늄 국내 보관을 명령하며 협상에 새 변수를 던졌다. 합의 시 WTI $90대 진입, 교착 시 $105+ 재진입 시나리오가 공존한다. 가솔린 $4.55/갤런이 미국 소비자 심리에 하방 압력을 주고 있다. [CNBC, Rigzone]
+
+3. ARK 5/21 $TSLA $45.55M 대규모 매수 전환 — 신호인가 잡음인가
+지난 2주 동안 전방위 매도를 해온 ARK가 TSLA를 하루 만에 $45.55M어치 샀다. FSD 중국 출시(5/21)와 같은 날이다. 테슬라 로봇+자율주행 내러티브에 대한 ARK의 재확신 신호일 수 있다. CBRS(Cerebras) 매수도 병행했다. [ARK Invest Daily Trades, Moomoo]
