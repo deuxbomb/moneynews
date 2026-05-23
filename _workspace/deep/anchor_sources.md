@@ -1,56 +1,58 @@
-# 앵커 소스 — 2026-05-22 딥다이브 (ADC 항체약물접합체 + ASCO 2026)
+# 앵커 소스 — 2026-05-23 딥다이브 ($SPOT Spotify 종목해부)
 # 14:00 트리거가 우선 활용
 
 ## 1차 자료 (필수 3건+, 14:00 트리거 반드시 확인)
 
-- [FDA.gov] 공식 ADC 승인 목록 — FDA 승인 항암제 중 ADC 15개 전체 목록, 각 승인일·적응증 확인
-  https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications
+- [SEC EDGAR] Spotify 6-K Q1 2026 — 구독자·MAU·매출·총마진 최신 수치 원문
+  https://www.sec.gov/Archives/edgar/data/0001639920/000162828026027951/spot-20260331x6xk.htm
 
-- [BioSpace] AbbVie ASCO 2026 ADC 발표 보도자료 — Top1i ADC + T세포 인게이저 데이터, 전립선암·소세포폐암·난소암·다발골수종
-  https://www.biospace.com/press-releases/abbvie-announces-new-data-at-asco-2026-demonstrating-breadth-and-momentum-across-its-next-generation-oncology-pipeline
+- [Spotify Newsroom] Co-CEO Investor Day 발언 전문 (Alex Norström & Gustav Söderström, 2026-05-21)
+  2030 가이던스($100B 매출·1B 구독자·20%+ 영업마진) + AI/UMG 파트너십 세부사항
+  https://newsroom.spotify.com/2026-05-21/alex-norstrom-gustav-soderstrom-co-ceos-investor-day-remarks/
 
-- [BioSpace] SystImmune izalontamab brengitecan + 신규 ADC 파이프라인 ASCO 2026 — HER2/HER3/Claudin18.2/DLL3 타겟
-  https://www.biospace.com/press-releases/new-clinical-data-for-izalontamab-brengitecan-and-novel-adc-pipeline-to-be-presented-at-asco-2026
+- [SEC EDGAR] Spotify 6-K Q4 2025 / FY2025 — 연간 실적 및 장기 재무 흐름 비교
+  https://www.sec.gov/Archives/edgar/data/0001639920/000114036126004482/ef20065075_ex99-1.htm
 
-- [이투데이/머니투데이] HLB ASCO 2026 단독 부스 발표 — **오늘(5/22) 발행**, 간암(리보세라닙) + 담관암(리라푸그라티닙) FDA PDUFA 임박 데이터
-  https://www.mt.co.kr/stock/2026/05/22/2026052208551872337
-  https://www.etoday.co.kr/news/view/2587031
+- [CNBC] Spotify soars 13% after announcing AI music deal with UMG and 2030 guidance (2026-05-21)
+  https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html
 
-- [BioPharma Dive] Regeneron fianlimab 실패 — 5/18 melanoma Phase 3 miss, LAG-3 inhibitor 한계 맥락
-  https://www.biopharmadive.com/news/regeneron-cancer-immunotherapy-fianlimab-lag3-melanoma-study-results/820443/
+- [Billboard] Spotify Investor Day Highlights: UMG AI Deal, Audiobook Interest Surges
+  https://www.billboard.com/pro/spotify-investor-day-highlights-umg-ai-deal-audiobooks/
 
 ## 보조 자료 (시계열·국제 비교·투자 시사점)
 
-- [CancerNetwork] ASCO 2026 Data Readouts to Watch — CHALLENGE, KEYNOTE-B15, CHRYSALIS-2 등
-  https://www.cancernetwork.com/view/data-readouts-to-watch-at-the-2026-asco-annual-meeting
+- [Inderes] Spotify Investor Day 2026 — 애널리스트 평가 (Clearer 2030 roadmap resolves key strategic debates)
+  https://www.inderes.fi/en/analyst-comments/spotify-investor-day-2026-clearer-2030-roadmap-resolves-key-strategic-debates
 
-- [ASCO 공식] 연차총회 프로그램 개요 — 3,400+ 초록, 200+ 세션
-  https://www.asco.org/annual-meeting/program
+- [Gurufocus] Spotify SPOT Stock Surges 15% on AI Partnership and 2030 Revenue Guidance
+  https://www.gurufocus.com/news/8875485/spotify-spot-stock-surges-15-on-ai-partnership-and-2030-revenue-guidance
 
-- [OncDaily] Top Immunotherapy Trials to Watch at ASCO 2026
-  https://oncodaily.com/oncolibrary/immune-oncology/asco-2026-io
+- [Fortune / TechJuice] Spotify Investor Day: UMG AI Deal & Audiobooks $100M ARR
+  https://www.techjuice.pk/spotify-investor-day-ai-audiobooks-umg/
 
 ## 14:00 트리거 추가 수집 권장
 
-### 1차 자료 심층 발굴 (≥3건 필수)
-- SEC EDGAR AstraZeneca 20-F → Enhertu(trastuzumab deruxtecan) 매출 추이 및 Daiichi Sankyo 공동개발 계약 구조 검색
-  WebSearch: "AstraZeneca annual report Enhertu 2025 SEC 20-F" 또는 WebFetch: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AZN&type=20-F
+### 1차 자료 심층 발굴 (≥3건 필수 — 위 항목에서 3건 이미 확보, 아래에서 보강)
 
-- ASCO 공식 초록 데이터베이스 (회원 공개분)
-  WebFetch: https://meetings.asco.org/abstracts-presentations/abstracts
+- Spotify S-1 (2018 직상장 원문) — IPO 당시 실적 vs 현재 비교용 시계열 기준점
+  WebSearch: "Spotify S-1 2018 SEC EDGAR direct listing"
+  또는 WebFetch: https://www.sec.gov/Archives/edgar/data/0001639920/000162828018002762/spotifyf-1.htm
 
-- ClinicalTrials.gov — ADC 현재 진행 중인 임상 현황 검색
-  WebFetch: https://clinicaltrials.gov/search?intr=antibody+drug+conjugate&phase=2&phase=3&status=RECRUITING
+- Universal Music Group 2025/2026 연간 보고서 — AI 라이선싱 수익 모델, UMG-스포티파이 관계 현황
+  WebSearch: "Universal Music Group annual report 2025 AI licensing revenue"
 
-- Enhertu DESTINY-Breast02/03/04 결과 NEJM 원문 (시계열 팩트용)
-  WebSearch: "Enhertu DESTINY-Breast trastuzumab deruxtecan NEJM 2022 2023 2024"
+- 텐센트뮤직($TME) SEC 20-F — 중국 음악 스트리밍 시장 국제 비교용
+  WebSearch: "Tencent Music TME 20-F 2025 SEC EDGAR subscribers"
 
-- 레고켐바이오 ADC 플랫폼 기술수출 계약 현황 (한국 IR 자료)
-  WebSearch: "레고켐바이오 ADC 기술이전 얀센 엔라이브 2025 2026"
+- Apple Music 구독자 수 공식 데이터 (경쟁 비교용)
+  WebSearch: "Apple Music subscribers 2025 2026 market share"
 
 ### 시계열 데이터
-- ADC 시장 규모 추이 및 2030년 전망 → WebSearch: "ADC market size 2026 forecast Grand View Research" 또는 "antibody drug conjugate market 2032"
+- Spotify 매출·구독자 연간 추이 (2018~2025)
+  WebSearch: "Spotify annual revenue subscriber history 2018 2020 2022 2025"
 
-### 반대 시각
-- Enhertu ILD(간질성 폐질환) 부작용 데이터 → WebSearch: "trastuzumab deruxtecan ILD interstitial lung disease safety 2024 2025"
-- TROP2 포화 우려 분석 → WebSearch: "TROP2 ADC overcrowded market 2026 analysis"
+### 반대 시각 자료
+- 아티스트 AI 이탈 우려 — Taylor Swift, 대형 아티스트 계약 현황
+  WebSearch: "Spotify artist AI complaints UMG deal controversy 2026"
+- Apple Music 번들링 경쟁력 분석
+  WebSearch: "Apple Music vs Spotify market share 2026 bundling"
