@@ -357,3 +357,9 @@
 - 핵심 주장/결론: mid-teens CAGR로 2030년 예상 매출 ~$37B — $100B은 2035년 이후. UMG만 AI 파트너십 서명, Warner/Sony 미가입. 3분할 매수 전략(7월 Audiobooks, H2 Warner/Sony 합류, Q3 북미 반등 세 체크포인트 순차 확인) 권장. Forward P/E 29.79x, 5년 중앙값 대비 역사적 저점.
 - 1차 자료 출처: SEC EDGAR 6-K Q1 2026 × 1, SEC EDGAR 6-K Investor Day × 1, SEC EDGAR TME 6-K Q1 2026 × 1, Spotify Newsroom Investor Day Recap × 1, Spotify Newsroom UMG 파트너십 × 1, Spotify Newsroom Audiobook × 1, Spotify Newsroom Q1 실적 × 1 (총 7건)
 - 판정: Minor (3개 개선점 반영 — 한국 성장률 서술 명확화, 업사이드 수치 교정, FCF 27배 Morgan Stanley 출처 명시)
+
+## 2026-05-23 13:30 [PM] (테마: 소비재/미디어/엔터)
+- 헤드라인: 50,000의 문이 열렸다 — 다우 역대 최고치, 이제 소비가 이 랠리를 지킬 수 있는가
+- 오늘의 픽: $COST (카탈리스트: D+5 2026-05-28 Q3 FY26 어닝, EPS $4.98 컨센), $LYV (카탈리스트: 메모리얼 데이 D+2 하계 콘서트 시즌 개막, deferred revenue $6.6B 사상 최대) [와치리스트 외]
+- 뉴스 토픽: [매크로] 다우 50,579 역대 최고치 / S&P 500 8연속 주간 상승 / 10년물 4.56% 하락 / UBS 연말 S&P 목표 7,900 상향 / WTI $97.66 이란 협상 교착 / 가솔린 $4.55 4년 만에 메모리얼 데이 전 최고 / [소비재/엔터] COST D+5 어닝 / LYV 하계 공연 시즌 개막 / AMC CEO 250K주 직접 매수 / GTA6 11월19일 확정 / [기업] TSLA FSD 중국 공식 출시(11개국, Q3 전면승인 목표) / NVDA $218 어닝 이후 소강 / COIN $184.95 차익실현 지속 / ARK TSLA $45.55M 대규모 매수 전환
+- 팟캐스트: (12시간 이내 신규 확인 에피소드 없음 — 섹션 생략)
