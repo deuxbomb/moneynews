@@ -349,3 +349,11 @@
 - 오늘의 픽: $AFRM (카탈리스트: D+13 Evercore TMT Conference 6/3 CFO 발표 + D+14 William Blair 6/4 COO 발표, Q3 FY26 매출+30% 순이익+62.5%, BofA PT $88), $CRCL (카탈리스트: CLARITY Act 전체 상원 표결 Memorial Day 전 가능성 D+4, 트럼프 EO 5/19 크립토 결제 인프라 통합 명령, 목표가 $148 Buy 컨센서스) [와치리스트 외]
 - 뉴스 토픽: [핀테크/크립토] 트럼프 EO 5/19 크립토 결제 인프라 통합 명령 / CLARITY Act 전체 상원 표결 임박(D+4) / BTC $77,852 반등 5/29 만기 $82K 콜 급증 / WMT Q1 $177.75B(+6.1%) 이커머스+22% / SpaceX IPO 소매 직접 접근 확인 D+21 / [기업] NVDA Q1 $81.6B(+85%)+Q2 $91B 가이던스+$80B 자사주매입 / GOOGL Google I/O 완결 AI 검색 26년 만에 최대 변화 / TSLA ARK +109K주 매수 전환+FSD 리투아니아 / DE Q2 EPS $6.55 vs $5.74 서프라이즈 / [매크로] 코스피 +8.1%(7,790) 기관 2.3조 매수 / 외국인 10일 만에 매수 전환 +2,023억 / WTI $104.52 이란 긴장 / 원달러 1,498원 / [스마트머니] ARK TSLA +109K 매수 / 빌 애크먼 MSFT 신규 포지션
 - 팟캐스트: (금일 신규 에피소드 미확인 — 섹션 생략)
+## 2026-05-23 05:27 [DEEP] (테마 클러스터: 소비재/미디어/엔터, 유형: 📊 종목 해부)
+- 제목: 14년 만의 진짜 승부 — 스포티파이가 꺼낸 숫자 셋: 10억·$100B·20%, 약속인가 신기루인가
+- 테마 유형: 종목해부 (한 종목 완전 분해 — 관심종목 외 발굴)
+- 핵심 주제: 2026-05-21 스포티파이 Investor Day에서 공동 CEO 쇠데르스트룀·노르스트룀이 공개한 "10억 구독자·$100B 매출·20% 영업마진" 3대 목표를 수학적으로 검증. Q1 2026 실적(MAU 761M, 293M Premium, €4.53B 매출, 33% 총마진, €715M 영업이익, €3.2B LTM FCF) + UMG AI 커버 파트너십 + Audiobooks+ $100M ARR 경로 분석. 한국(YouTube 1위, 멜론 2위, Spotify 3위 3.6M — 4년 4.5배), 중국(Tencent Music 119M, 60%), 미국 북미 구독자 감소 국제 비교. $100B은 2030이 아닌 2035년 이후 North Star임을 수학으로 확인.
+- 다룬 종목/기업: $SPOT (Spotify), $TME (Tencent Music), $AAPL (Apple Music), $AMZN, $LYV (Live Nation)
+- 핵심 주장/결론: mid-teens CAGR로 2030년 예상 매출 ~$37B — $100B은 2035년 이후. UMG만 AI 파트너십 서명, Warner/Sony 미가입. 3분할 매수 전략(7월 Audiobooks, H2 Warner/Sony 합류, Q3 북미 반등 세 체크포인트 순차 확인) 권장. Forward P/E 29.79x, 5년 중앙값 대비 역사적 저점.
+- 1차 자료 출처: SEC EDGAR 6-K Q1 2026 × 1, SEC EDGAR 6-K Investor Day × 1, SEC EDGAR TME 6-K Q1 2026 × 1, Spotify Newsroom Investor Day Recap × 1, Spotify Newsroom UMG 파트너십 × 1, Spotify Newsroom Audiobook × 1, Spotify Newsroom Q1 실적 × 1 (총 7건)
+- 판정: Minor (3개 개선점 반영 — 한국 성장률 서술 명확화, 업사이드 수치 교정, FCF 27배 Morgan Stanley 출처 명시)

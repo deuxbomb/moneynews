@@ -1,142 +1,155 @@
-# 달러가 코드가 됐다 — GENIUS Act 1년, 스테이블코인 시대를 선언한 4인의 목소리
+# 14년 만의 진짜 승부 — 스포티파이가 꺼낸 숫자 셋: 10억·$100B·20%, 약속인가 신기루인가
 
-*🎤 보이스 컴필 | $COIN $PYPL $V $MA Circle(CRCL) | 2026-05-21*
-
----
-
-2025년 7월 18일, 도널드 트럼프가 한 장의 법안에 서명했다. GENIUS Act — 미국 역사상 최초의 연방 스테이블코인 법이다. 불과 10년 전, 스테이블코인이라는 단어조차 없던 시절의 이야기다. 그런데 지금은 달러로 된 디지털 코인이 한 해 동안 33조 달러를 움직인다. Visa와 Mastercard를 합쳐도 25.5조 달러인데.
-
-법이 생겼다고 세상이 바뀌는 건 아니다. 진짜 전쟁은 그 다음부터다. 누가 이 새로운 달러 인프라를 장악하는가, 누가 통제하는가, 그리고 누가 거부하는가. 오늘 4명의 목소리를 들어보자. 미 재무장관 스콧 베센트, 민주당 상원의원 엘리자베스 워런, Stripe CEO 패트릭 콜리슨, PayPal CEO 알렉스 크리스. 이들의 발언은 단순한 찬반 논쟁이 아니다. 달러가 코드화되는 이 시대를 바라보는 네 개의 근본적으로 다른 세계관이다.
+*📊 종목 해부 | $SPOT (Spotify Technology) | 2026-05-23*
 
 ---
 
-## 2014년부터 시작된 10년의 실험 — 왜 지금인가
+## 스웨덴 청년의 도박이 뉴욕을 뒤흔든 날
 
-스테이블코인의 역사는 생각보다 짧다. 2014년, 한 팀이 "Realcoin"이라는 이름으로 달러 가치에 페그된 디지털 토큰을 만들었다. 나중에 Tether(USDT)로 이름을 바꾼 이 코인은 당시 암호화폐 커뮤니티 사이에서 거래 편의를 위한 도구였다. BTC를 팔면서 달러 가격을 유지하고 싶을 때 쓰는, 일종의 파킹 자산이었다.
+2026년 5월 21일 목요일, 뉴욕 맨해튼. 스포티파이 공동 CEO 구스타프 쇠데르스트룀(Gustav Söderström)이 무대에 섰다. 그의 첫 마디는 도발적이었다.
 
-2018년에는 Circle과 Coinbase가 USDC를 출시했다. 더 투명하고 규제 친화적인 대안을 표방하며. 그리고 2019년, 페이스북이 "Libra"를 발표하면서 세상이 뒤집혔다. 20억 명의 사용자를 보유한 소셜미디어 회사가 사실상의 글로벌 화폐를 만들겠다고 나선 것이다. 각국 의회는 즉각 반발했다. 청문회가 열렸고, 규제 압력이 쏟아졌다. Facebook(나중에 Meta로 사명 변경)은 2022년 프로젝트를 완전히 포기했다. Diem이라는 이름으로 재출시를 시도했지만, 결국 패배였다.
+*"There is no media player for the generative era. We believe Spotify will become that."*
 
-하지만 그 패배는 씨앗이 됐다. Libra의 좌절은 규제 당국에게 스테이블코인이 단순한 투기 장난감이 아님을 일깨웠다. 방치하면 민간이 달러를 장악한다는 두려움이 생겼다. 그 두려움이 역설적으로 입법을 앞당겼다.
+생성형 AI 시대의 미디어 플레이어는 아직 없다. 우리가 될 것이다.
 
-2023년, PayPal이 PYUSD를 출시했다. 메이저 핀테크 기업의 첫 스테이블코인 진출이었다. 출시 당시 시장의 반응은 무덤덤했다. "또 하나의 스테이블코인"이었다. 그런데 지금 PYUSD 잔고는 **36억 달러**다. 2024년 대비 **600% 성장**이다. 이 숫자는 단순한 성장률이 아니다. 스테이블코인이 투기에서 실물로 넘어가는 변곡점의 증거다.
+그로부터 48시간 뒤, $SPOT 주가는 13.1% 올라 $489.93에 마감했다. 이틀간의 상승률은 최대 +16%. 창사 이래 최대 규모 투자자 행사(Investor Day)가 선사한 선물이었다.
 
-2026년 오늘, 스테이블코인 총 공급량은 **3,200억 달러를 넘었다**. 불과 3년 전 USDC가 $35B이었는데, 지금은 $78B이다. Tether는 $185B이다. 세상의 달러 중 일부가 이미 블록체인 위에서 살고 있다.
+이날 스포티파이는 세 가지 숫자를 꺼냈다. **10억** — 목표 유료 구독자. **$100B(100조원)** — 목표 매출. **20%** — 목표 영업마진. 2022년 전 CEO 다니엘 에크(Daniel Ek)가 처음 제시했던 "장기 North Star"를 신임 공동 CEO 체제가 재확인한 것이다.
 
----
+시장은 환호했다. 하지만 진짜 질문은 이것이다. 현재 매출 ~$18.5B(€17.3B)에서 $100B까지 — 이 여정이 가능한가? 그리고 지금 이 주가에 올라타는 게 현명한가?
 
-## 스콧 베센트: 달러 패권을 지키는 무기
-
-미 재무장관 스콧 베센트의 목소리는 명확하다. 스테이블코인은 달러 패권에 대한 위협이 아니라 **달러 패권을 강화하는 도구**다.
-
-그는 의회 청문회에서 이렇게 말했다. *"Stablecoin legislation backed by US Treasuries or T-bills will create a market that will expand US dollar usage via these stablecoins all around the world."* 미국 국채로 뒷받침되는 스테이블코인이 세계 전역에서 달러 사용을 확장할 것이라는 논리다. 그리고 결정적으로: *"$2 trillion is a very, very reasonable number, and I could see it greatly exceeding that."* 스테이블코인 시장이 2030년까지 **최소 2조 달러**로 성장할 것이라는 전망이다. 베센트가 인용한 애널리스트 예측은 **3.7조 달러**다.
-
-왜 재무장관이 이렇게 적극적인가? 달러 표시 스테이블코인이 폭발적으로 성장하면, 그 준비금은 대부분 미국 국채에 묶인다. GENIUS Act가 요구하는 1:1 준비금 규정이 있고, 그 준비금의 상당 부분을 단기 미국 국채와 역레포로 채워야 하기 때문이다. 스테이블코인이 성장할수록 미국 국채 수요가 늘어난다. 30년물 국채가 5.1%를 뚫은 지금, 국채 수요는 재무부에게 가장 시급한 문제다.
-
-베센트의 논리는 지정학적이기도 하다. *"Crypto is not a threat to the dollar. In fact, stablecoins can reinforce dollar supremacy."* 중국이 위안화 디지털화를 추진하고, 브릭스 국가들이 탈달러를 외치는 세상에서, 달러 표시 스테이블코인은 미국의 새로운 통화 외교 무기다. 인터넷에 달러의 새로운 레일을 깔아두면, 전 세계 인터넷 경제에서 달러의 기본 통화 지위가 유지된다.
-
-GENIUS Act는 이 전략의 법적 인프라다. 법 통과 10개월이 지난 지금, JPMorgan Asset Management가 5월 13일 론칭한 JLTXX 펀드는 이 전략이 실행 단계임을 보여준다. JLTXX는 **GENIUS Act 준거 스테이블코인 발행사의 준비금 자산**으로 특화 설계된 토크나이즈드 MMF다. JPMorgan이 자체 100억 달러(1억 달러 초기 투자)를 투입하면서 GENIUS Act 기반 생태계에 베팅하고 있다.
+스포티파이가 2006년 창업 이래 걸어온 길, 지금 이 순간의 숫자, 그리고 이 회사가 틀릴 수 있는 이유를 순서대로 해부한다.
 
 ---
 
-## 엘리자베스 워런: 이것은 트럼프 부패의 코드다
+## 음악을 공짜로 듣다가 돈을 벌게 된 20년 — 시계열이 말하는 단 하나의 진실
 
-워런 상원의원은 다른 세계에 산다. 그녀에게 GENIUS Act는 달러 강화 도구가 아니라 **정치적 부패의 디지털 버전**이다.
+스포티파이의 역사는 한 줄로 요약된다. "먼저 사용자를 모으고, 나중에 돈을 벌다."
 
-*"This bill puts investors, our national security and our entire financial system at risk – and it will turbocharge Donald Trump's crypto corruption."*
+2006년, 스웨덴 청년 다니엘 에크와 마르틴 로렌트손(Martin Lorentzon)이 스톡홀름에서 회사를 세웠다. 아이디어는 단순했다. 불법 다운로드가 음악 시장을 망치고 있으니, 합법적으로 공짜로 듣게 하면 된다. 광고로 돈을 받고, 광고가 싫으면 유료 가입.
 
-강한 말이다. 하지만 그녀가 지적하는 구체적 사실이 있다. 트럼프와 그의 가족은 크립토 거래에서 지난 1년 동안 최소 **14억 달러**의 이익을 챙겼다. 그리고 결정적으로 — 아랍에미리트 아부다비의 국부펀드 MGX는 **트럼프 가족의 스테이블코인 USD1**로 바이낸스에 20억 달러를 투자했다. MGX의 공동 소유자는 중국 정부와 광범위한 연결 고리가 있는 기업이다.
+2018년 NYSE 직상장(Direct Listing). 일반 IPO가 아닌 직상장을 택한 이유도 대담했다 — 신주를 발행해 자금을 조달할 필요가 없었으니. 하지만 이 회사, 창업 이래 한 번도 연간 흑자를 낸 적이 없었다.
 
-GENIUS Act가 통과되면 USD1은 연방법이 인정하는 적법한 결제 스테이블코인이 된다. 대통령의 가족이 발행하는 스테이블코인에 법적 정당성을 부여하는 법을 대통령이 서명한다 — 이것이 워런이 말하는 "crypto corruption"의 구조적 의미다.
+2020년은 도박의 해였다. 조 로건(Joe Rogan) 팟캐스트 독점 계약에 $200M. 이후 총 팟캐스트 독점 투자액은 ~$1B에 달했다. 매출은 2020년 €7.9B → 2022년 €11.7B으로 늘었지만, 손실도 함께 쌓였다.
 
-워런의 금융 시스템 우려도 있다. AML(자금세탁방지) 체계를 우회하는 익명 스테이블코인 거래, 북한과 이란의 스테이블코인 활용 사례, 프라이버시 보호와 금융 추적 사이의 딜레마. 그녀는 5월 19일에도 OCC(통화감독청)가 Coinbase, Ripple 등 크립토 기업에 은행 면허를 부여한 것을 "불법 규제 차익"이라며 강하게 공격했다.
+반전은 2023~2024년에 왔다. 누적 인력 25% 감원, 팟캐스트 독점 정책 전면 철회, 비용 구조 대수술. 2023년 10월, 창업 17년 만의 첫 분기 흑자. 2024년 10월, 한국 무료 서비스 출시로 신규 시장 개척.
 
-미국은행협회(ABA)와 5대 은행 연합이 공동으로 반대 서한을 제출한 것도 같은 맥락이다. 스테이블코인이 은행 예금을 대체하면 은행의 중개 기능이 해체된다는 논리다. 금융 산업의 수조 달러가 걸린 싸움이다.
+그리고 2026년 Q1이 보여주는 숫자가 이 회사의 진짜 변화를 증명한다.
 
-워런의 반대는 단순한 크립토 혐오가 아니다. 규제 없는 민간 화폐 발행 권한이 정치적으로 연결된 집단에게 집중되는 것에 대한, 어떻게 보면 고전적인 권력 분립의 문제다.
+- **MAU 761M** (+12% YoY) — 10년 전 대비 약 6배 성장
+- **프리미엄 구독자 293M** (+3M QoQ)  
+- **총마진 33.0%** — Q1 사상 최고치
+- **영업이익 €715M**, 영업마진 15.8%
+- **FCF €824M** (분기), LTM FCF €3.2B
 
----
+2016년 이후 FCF per share는 27배 확장됐다. 매출은 2022년 €11.7B에서 2025년 €17.3B으로, 연평균 14~18% 성장을 이어왔다. 수익성은 뒤늦게 왔지만, 오자 빠르게 왔다.
 
-## 패트릭 콜리슨 vs 알렉스 크리스: 이미 쓰이고 있다
-
-이론적 논쟁과 달리, Stripe와 PayPal의 CEO는 이미 현실에서 스테이블코인을 사용하고 있다. 그들의 발언은 미래 전망이 아니라 **지금 일어나고 있는 일에 대한 보고**다.
-
-패트릭 콜리슨(Stripe CEO)은 스테이블코인을 *"room-temperature superconductors for financial services"*라고 불렀다. 상온 초전도체 — 이 비유가 의미하는 건 무엇인가. 초전도체는 전기 저항이 제로인 물질이다. 하지만 기존 초전도체는 영하 수백도의 극저온에서만 작동한다. 상온 초전도체는 그 마법이 일상 온도에서 작동하는 것이다. 콜리슨에게 스테이블코인은 금융의 마찰 저항을 제로에 가깝게 만들면서도, 일상적인 환경에서 작동하는 혁신이다.
-
-그는 왜 기업들이 채택하는지를 이렇게 설명했다. *"These businesses are not using crypto because it's crypto or for speculative benefit. They're performing real-world financial activity, and they've found that crypto (via stablecoins) is easier, faster, better than the status quo."* 더 쉽고, 더 빠르고, 더 좋기 때문이다. 단순하다.
-
-Stripe가 Paradigm과 함께 만든 Tempo 블록체인은 2026년 3월 메인넷을 론칭했다. 목적은 명확하다 — 기업 간 스테이블코인 결제를 위한 전용 레이어. Visa, Fifth Third Bank, Howard Hughes Holdings, DoorDash가 이미 파트너다. DoorDash는 배달 기사들에게 스테이블코인으로 급여를 지급하는 옵션을 테스트 중이다. 5월에는 Morpho의 $75억 운용자산 대출 마켓이 통합됐다 — Tempo는 이제 결제를 넘어 DeFi 금융 플랫폼으로 진화하고 있다.
-
-알렉스 크리스(PayPal CEO)는 다른 방식으로 증명했다. PayPal은 2023~2024년 PYUSD를 이용해 5개 법인, 3개 대륙에 걸친 **10억 달러**의 기업 내부 자금을 이체했다. 무역금융에서 SWIFT를 통한 국제 송금은 2~5영업일이 걸리고, 수십 베이시스 포인트의 수수료가 붙는다. 스테이블코인은 분 단위로 처리되고, 수수료는 사실상 제로에 가깝다. "How do we enable consumer-to-business transactions and actually disrupt payments by leveraging stablecoins?" 크리스가 스스로에게 던진 질문이 PYUSD의 방향타다.
-
-그 결과가 $36억이다. 2024년 대비 600% 성장. 이 숫자를 맥락화하면 — 전국에 600개 지점을 가진 한국씨티은행의 연간 예수금과 비슷한 규모다. 단일 스테이블코인이 3년 만에 그 규모가 됐다.
-
-전 세계 스테이블코인 결제 규모는 2025년 $33조에 달했다. Visa와 Mastercard의 합산 처리액 $25.5조를 넘어섰다. Visa는 Q1 2026에만 연환산 기준 $46억의 스테이블코인 결제를 자사 네트워크에서 처리했고, Mastercard는 스테이블코인 인프라 기업 BVNK를 **18억 달러**에 인수했다 — 역대 최대 스테이블코인 M&A다.
+이 궤적에서 읽히는 메시지는 하나다. **스포티파이는 성장 회사에서 수익 회사로 탈바꿈하는 중이다.** 다만, 2030년 North Star($100B)까지는 여전히 먼 길이다. 회사가 제시한 mid-teens(~15%) CAGR을 적용하면 2030년 예상 매출은 ~$37~40B. $100B은 현 성장률 유지 시 2035년 내외에 도달 가능한 숫자다. 이 갭이 이 회사의 가장 큰 화두다.
 
 ---
 
-## 네 목소리가 충돌하는 지점 — 같은 사실, 다른 세계
+## 글로벌 1위의 딜레마 — 한국에선 이기고 있고, 중국엔 없고, 미국엔 적이 많다
 
-베센트, 워런, 콜리슨, 크리스. 이 네 사람이 보는 스테이블코인은 같은 기술인데 완전히 다른 의미를 갖는다.
+스포티파이는 글로벌 음악 스트리밍에서 독보적 1위다. 유료 구독자 293M, 전체 시장 점유율 ~31%. 2위 Apple Music(~100M 추정, ~15%)의 거의 3배다. 아마존 뮤직(~85M, ~13%)과 유튜브 뮤직(~125M+, ~9%)이 그 뒤를 잇는다. Top 3가 시장의 90% 이상을 장악한 고도 집중 시장이다.
 
-베센트에게 스테이블코인은 **지정학적 도구**다. 달러를 블록체인에 올리면, 달러가 세계 인터넷 경제의 기본 통화가 된다. 중국 위안화 CBDC와의 디지털 화폐 전쟁에서 미국이 가진 선제 무기다. 그의 관점에서 GENIUS Act는 달러 패권의 소프트웨어 업그레이드다.
+그런데 이 지형도는 나라마다 다르게 펼쳐진다.
 
-워런에게 스테이블코인은 **규제 없는 권력 집중**이다. 민간이 화폐를 발행하고, 그 민간이 대통령의 가족이다. 금융 시스템의 가장 근본적인 안전장치 — 중앙은행의 화폐 독점권 — 가 민영화되는 과정이다. 그녀의 반대는 스테이블코인 자체가 아니라, **누가 발행하느냐**의 문제다.
+**한국 — 이례적 반전 스토리**
 
-콜리슨과 크리스에게 스테이블코인은 **실용적 인프라**다. 기업이 돈을 빠르고 싸게 옮길 수 있는 도구. 지정학도 도덕도 아니다 — 기업은 더 나은 레일이 생기면 그리로 옮긴다. 이미 옮기고 있다.
+2022년, 한국에서 스포티파이의 존재감은 미미했다. MAU 79만명으로 지니(322만)와 FLO(213만) 뒤였다. 그리고 2024년 10월 — 무료 서비스 론칭. 1.5년 만에 MAU는 360만으로 4.5배 급증하며 3위로 도약했다.
 
-세 관점이 충돌하는 곳이 있다. **Tether**다. 시장의 57.96%, $1,855억을 차지하는 최대 스테이블코인은 미국 법인이 아니다. 영국령 버진아일랜드에 본사를 둔 해외 발행이다. GENIUS Act가 적용되지 않는다. 베센트의 달러 패권 논리는 Tether에게는 해당되지 않는다. 워런의 규제 우려도 Tether는 비껴간다. 콜리슨과 크리스가 만든 인프라의 유동성 상당 부분도 여전히 Tether에 의존한다. 이 역설이 스테이블코인 세계의 숨겨진 지뢰다.
+현재 한국 시장 순위: 유튜브 뮤직 1위(980만), 멜론 2위(650만), 스포티파이 3위(360만). 멜론과의 격차는 여전히 290만으로 크지만, 스포티파이의 성장 속도는 로컬 플랫폼을 압도한다. K팝의 글로벌 팬덤을 품은 스포티파이가 그 원산지 시장에서도 두각을 나타내기 시작했다는 의미다.
+
+**중국 — 텐센트의 벽**
+
+스포티파이는 중국 시장에 없다. 텐센트 뮤직(TME — QQ뮤직, 쿠고우, 쿠워 운영)이 유료 구독자 119M, 시장 점유율 60%로 군림한다. 중국 음악 스트리밍 시장 규모는 2024년 $3.9B에서 2030년 $8.4B으로 성장 전망이지만, 스포티파이와는 완전히 분리된 우주다. 텐센트뮤직의 카탈로그가 스포티파이에 일부 올라오는 역설적 협력 관계가 있을 뿐.
+
+**미국 — 번들링의 덫**
+
+가장 수익성 높은 북미 시장에서 Q1 2026 프리미엄 구독자가 감소했다. 원인으로 지목되는 것은 애플의 번들링 전략. 애플 뮤직은 iCloud와 Apple TV+를 묶어 월 $22.95에 판매한다. 스포티파이 1인 프리미엄($11.99/월)보다 가성비가 높아 보이는 패키지다. 아이폰을 쓰는 미국 프리미엄 고객이 이탈할 이유가 생겼다.
+
+반면 인도, 동남아, 중남미 등 신흥 시장에서 스포티파이의 성장은 여전히 두 자릿수다. 글로벌화의 과실을 더 넓게 따먹는 구조이기도 하다.
 
 ---
 
-## 달러가 코드가 된 세상, 당신의 포트폴리오는
+## 세 가지 경고등 — 이 이야기가 틀릴 수 있는 이유
 
-**규제 명확성은 기관 진입의 문을 열었다.** GENIUS Act 이후 10개월. JPMorgan의 JLTXX 펀드 출시, Mastercard의 BVNK $18억 인수, Visa의 스테이블코인 결제 통합이 모두 같은 방향을 가리킨다. 기관이 움직이기 시작했다.
+투자자는 이 세 가지 질문에 답해야 한다.
 
-**투자 관점의 체크리스트**:
+**① $100B 수학이 성립하는가?**
 
-🔑 **Circle(CRCL)**: IPO 준비 중. GENIUS Act = 최대 수혜자. USDC 발행사이자 스테이블코인 준수 인프라 리더. OCC 최종 규칙이 발표되는 2026년 7월 전후가 IPO 시점. GENIUS Act 시행이 지연되면 IPO도 지연된다.
+회사가 제시한 mid-teens(~15%) CAGR을 그대로 믿으면, 2025년 $18.5B → 2030년 ~$37B → 2035년 ~$74B이 나온다. $100B은 2035년 이후나 달성 가능한 숫자다. 물론 UMG AI 파트너십이 새로운 수익원을 열고, 오디오북·티켓팅 등 인접 버티컬이 급성장한다면 CAGR이 높아질 수 있다. Audiobooks+는 이미 구독자 100만명을 넘어 2026년 7월 ARR $100M 달성 경로에 있다. 하지만 지금 당장 $100B을 '2030년 목표'로 받아들이면 오산이다. 이 수치는 장기 비전이지, 5년 계획이 아니다.
 
-🔑 **$PYPL (PayPal)**: PYUSD 성장의 직접 수혜자. $36억 잔고는 아직 PayPal 전체 결제 규모 대비 극히 작다 — 성장 여지가 크다. Q2 2026 어닝에서 PYUSD 관련 지표를 주목할 것.
+**② UMG 파트너십이 진짜 게임체인저인가?**
 
-🔑 **$COIN (Coinbase)**: Circle의 파트너. GENIUS Act 통과로 USDC 준비금 이자 수입 구조가 안정화된다. 단, Hyperliquid 등 탈중앙화 거래소와의 경쟁이 심화 중 — USDC 유동성이 Coinbase에서 떠날 리스크가 동시에 존재.
+2026년 5월 21일 발표된 UMG와의 AI 커버·리믹스 기능은 파격적이다. 공동 CEO 알렉스 노르스트룀은 "동의(consent), 크레딧(credit), 보상(compensation)에 기반했다"고 강조했다. 하지만 계약을 맺은 것은 UMG뿐이다. Warner Music, Sony Music, 수천 개 독립 레이블은 아직 서명하지 않았다. AI 커버 기능이 실제로 사용 가능한 아티스트는 전체 카탈로그의 일부에 불과하다. 기능이 론칭되더라도 "테일러 스위프트는 안 된다"는 상황이 펼쳐질 수 있다.
 
-🔑 **$V, $MA**: 이미 스테이블코인 인프라에 베팅했다. 스테이블코인이 기존 카드 결제를 대체하는 게 아니라 **새로운 결제 레이어를 확장**하는 방향이면 수혜, 대체하는 방향이면 위협. Visa의 Tempo 파트너십과 Mastercard의 BVNK 인수는 "대체보다 편승" 전략으로 읽힌다.
+또 다른 위험은 다른 레이블들이 UMG보다 더 유리한 조건을 요구하며 협상을 장기화하는 시나리오다. AI 음악 기능이 "스포티파이 독점"에서 "업계 표준"으로 가려면 Warner와 Sony의 동의가 필수다.
 
-**진입 신호**:
-- OCC 최종 규칙 발표 (2026년 7월 예정) → 제도권 완전 편입 확인 신호
-- Circle IPO 가격 책정 → 스테이블코인 밸류에이션의 공개 기준점
-- PYUSD 분기 잔고 $50B 돌파 → 스테이블코인이 PayPal의 핵심 사업임을 증명하는 시점
+**③ 북미 이탈과 광고 부진이 구조적인가?**
 
-**리스크**:
-- 워런의 "트럼프 부패" 공격이 2026 중간선거의 핵심 의제가 되면, 추가 입법 또는 GENIUS Act 수정 압력 가능
-- Tether가 GENIUS Act 우회로 시장 지배를 유지하는 시나리오 — 미국의 달러 스테이블코인 생태계가 역설적으로 역외에서 성장
+Q1 2026에서 북미 프리미엄 구독자가 감소했다. 같은 분기 광고 매출도 시장 기대에 미치지 못했다. 회사는 "글로벌 신흥 시장이 상쇄한다"고 말하지만, 북미와 서유럽이 ARPU(가입자당 평균 매출)가 월등히 높다. 신흥 시장 100만명이 늘어도 북미 10만명 감소를 상쇄하기 어렵다. AI 생성 음악의 스팸 리스크도 현실적이다. 딥저(Deezer)는 2025년 AI 생성 음악 스트리밍의 85%가 사기성이라고 보고했다. 스포티파이도 수천 개 트랙을 이미 삭제한 바 있다.
 
-머뉴's Advice:
+---
 
-① **스테이블코인을 달러의 소프트웨어 업그레이드로 이해하라.** 달러가 없어지는 게 아니다. 달러가 달리는 레일이 바뀌는 것이다. 베센트와 콜리슨 모두 이 점에는 동의한다.
+## 지금 이 주가에서 무엇을 사는 것인가 — 투자자 체크포인트 3개
 
-② **"규제 명확성 = 기관 진입"의 공식을 기억하라.** JPMorgan JLTXX, Visa Tempo, Mastercard BVNK — 이 세 가지 움직임은 모두 GENIUS Act 이후 10개월 안에 일어났다. 법이 생기면 기관이 움직인다.
+**현재 밸류에이션 해석**
 
-③ **워런의 우려를 리스크 팩터로 관리하라.** 트럼프 USD1 이해충돌 이슈는 사라지지 않는다. 중간선거, 사법 도전, 추가 입법이 모두 가능한 경로다. 단기 스테이블코인 투자에서는 정치 리스크 모니터링이 필수다.
+$489.93에서 스포티파이의 P/E는 42.27배. Forward P/E는 29.79배. 언뜻 비싸 보인다. 하지만 맥락이 있다. 이 회사의 5년 P/E 역사적 중앙값은 ~98~102배다. 지금 42배는 역사적 최저권에 해당한다. 이유는 두 가지: 이익이 빠르게 늘었고(분모 급증), 시장이 한때 과열 평가를 했기 때문이다. 어느 쪽이 더 크냐에 따라 현재 주가가 싼지 아닌지가 갈린다.
+
+Jefferies는 목표가를 $540 → $600으로 상향했다. Morgan Stanley는 Overweight를 유지하며 $590 PT. 컨센서스 목표가는 $649. 현 주가($489.93) 대비 약 25~32% 업사이드를 보는 셈이다.
+
+**체크포인트 ①: 2026년 7월 — Audiobooks+ ARR $100M 달성 여부**
+
+달성하면 스포티파이가 음악 밖에서도 구독 사업을 키울 수 있다는 증거. 미달하면 오디오북 내러티브가 흔들린다.
+
+**체크포인트 ②: 2026 H2 — Warner/Sony UMG 파트너십 추가 합류 여부**
+
+Warner 또는 Sony가 AI 커버 파트너십에 합류하면 스포티파이의 AI 음악 기능이 실제 킬러 앱으로 진화. 합류 없으면 UMG 독점 반쪽짜리 기능에 그침.
+
+**체크포인트 ③: Q3 2026 (10월 발표 예정) — 북미 프리미엄 구독자 반등 여부**
+
+Live Nation 'Reserved' 티켓팅(여름 출시)이 실제로 북미 프리미엄 이탈을 막아주는가. 수수료 없는 콘서트 사전 예매라는 파격이 구독 유지율(retention)에 영향을 주는지 확인할 첫 데이터.
+
+---
+
+## 머뉴's Advice
+
+① **현재 포지션 없다면**: 3분할 매수 전략이 합리적. ①지금 33% / ②7월 Audiobooks ARR 확인 후 33% / ③Q3 실적에서 북미 반등 확인 후 33%. 한 번에 full buy는 UMG 단독 계약 리스크를 무시하는 것.
+
+② **이미 보유 중이라면**: 7월 Audiobooks 체크포인트와 H2 Warner/Sony 협상 결과를 지켜보며 홀드. $430 아래는 손절 고려선(Q2 가이던스 미스 + 북미 구독 추가 하락 시).
+
+③ **장기 관점**: 스포티파이가 '음악 플랫폼'에서 '오디오 + 라이브 + AI 창작 생태계'로 확장하는 방향성은 맞다. 5년 중앙값 P/E 102배 대비 현재 42배는 역사적으로 저렴한 진입점일 수 있다. 단, $100B North Star는 2030 목표가 아닌 2035년 내외의 장기 비전임을 기억할 것. 과도한 기대는 실망으로 돌아온다.
+
+---
+
+스포티파이는 14년간 적자를 감내하며 761M명의 청중을 모았다. 이제 그 청중을 돈으로 바꾸는 게임이 시작됐다. 구스타프 쇠데르스트룀이 무대에서 선언한 "생성형 AI 미디어 플레이어"가 될 수 있는가 — 그 답은 2026년 하반기 세 가지 체크포인트에서 윤곽이 드러날 것이다. 10억명의 귀를 잡은 기업이, 이제 10억명의 지갑을 열 수 있는가.
 
 ---
 
 ## 출처
 
-- NBC News, "Senate advances a major crypto regulation bill on a bipartisan vote" — https://www.nbcnews.com/politics/congress/senate-advances-major-crypto-regulation-bill-bipartisan-vote-rcna207809
-- Congress.gov S.1582 GENIUS Act — https://www.congress.gov/bill/119th-congress/senate-bill/1582
-- US Treasury Secretary Bessent X 공식 계정 — https://x.com/SecScottBessent/status/1935027160374210573
-- US Treasury Secretary Bessent X — https://x.com/SecScottBessent/status/1935404649718157691
-- Yahoo Finance / Warren "GENIUS Act 우려" — https://finance.yahoo.com/news/elizabeth-warren-warns-genius-act-180103769.html
-- CoinDesk, "Stripe CEO Patrick Collison explains why businesses are turning to stablecoins" — https://www.coindesk.com/business/2025/09/06/stripe-ceo-patrick-collison-explains-why-businesses-are-turning-to-stablecoins
-- Fortune, "PayPal CEO Alex Chriss says stablecoins will be key" — https://fortune.com/2025/12/18/paypal-ceo-alex-chriss-stablecoins-innovators-dilemma/
-- Cryptotimes, "JPMorgan Files for JLTXX" — https://www.cryptotimes.io/2026/05/13/jpmorgan-files-for-jltxx-new-tokenized-treasury-fund-on-ethereum-for-stablecoins/
-- Unchained, "JPMorgan Files for Second Tokenized Money Market Fund" — https://unchainedcrypto.com/jpmorgan-files-for-second-tokenized-money-market-fund-on-ethereum-designed-for-stablecoin-reserves/
-- KuCoin, "Stablecoin Liquidity Hits $320.6B Milestone in May 2026" — https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026
-- Bessemer Venture Partners, "Stablecoins: from DeFi primitive to global financial infrastructure" — https://www.bvp.com/atlas/stablecoins-from-defi-primitive-to-global-financial-infrastructure
-- CoinDesk, "Stripe-led payments blockchain Tempo goes live" — https://www.coindesk.com/tech/2026/03/18/stripe-led-payments-blockchain-tempo-goes-live-with-protocol-for-ai-agents
-- Fortune, "Stripe and Paradigm-backed Tempo launches advisory unit" — https://fortune.com/2026/04/21/stripe-and-paradigm-tempo-advisory-stablecoin-adoption/
-- PYMNTS, "Tempo Expands Into Lending With Morpho Integration" — https://www.pymnts.com/cryptocurrency/2026/tempo-expands-beyond-payments-with-morpho-integration/
-- KoreaTechDesk, "Korea Stablecoin Dilemma" — https://koreatechdesk.com/korea-stablecoin-dilemma-digital-asset-cryptocurrency
-- Paul Hastings Crypto Policy Tracker — https://www.paulhastings.com/insights/crypto-policy-tracker/senate-advances-genius-act-cloture-leadership-shifts-and-sec-updates-custody-guidance
-- ainvest, "Visa & Mastercard 2026 Stablecoin Bets" — https://www.ainvest.com/news/visa-mastercard-2026-stablecoin-bets-flow-analysis-2603/
+**1차 자료**
+- [SEC EDGAR] Spotify Form 6-K Q1 2026 (2026-04-28): https://www.sec.gov/Archives/edgar/data/0001639920/000114036126004482/ef20065075_ex99-1.htm
+- [SEC EDGAR] Spotify Form 6-K Investor Day (2026-05-21): https://www.sec.gov/Archives/edgar/data/0001639920/000114036126017211/ef20071303_ex99-1.htm
+- [SEC EDGAR] Tencent Music Form 6-K Q1 2026: https://www.sec.gov/Archives/edgar/data/0001744676/000095010326007081/dp246528_ex9901.htm
+- [Spotify Newsroom] 2026 Investor Day Recap: https://newsroom.spotify.com/2026-05-21/investor-day-recap/
+- [Spotify Newsroom] UMG AI 파트너십 공식 발표: https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/
+- [Spotify Newsroom] Audiobook 업데이트: https://newsroom.spotify.com/2026-05-21/investor-day-audiobook-features-updates/
+- [Spotify Newsroom] Q1 2026 실적 발표: https://newsroom.spotify.com/2026-04-28/spotify-q1-2026-earnings/
+
+**보조 자료**
+- [BNN Bloomberg] UMG AI 딜 상세: https://www.bnnbloomberg.ca/business/2026/05/21/spotify-strikes-deal-with-universal-music-to-let-premium-users-create-ai-covers-remixes/
+- [TechCrunch] UMG AI 커버·리믹스: https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/
+- [TechCrunch] ElevenLabs 오디오북 도구: https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/
+- [Chartlex] 글로벌 음악 스트리밍 점유율 2026: https://www.chartlex.com/blog/business/music-streaming-market-share-2026
+- [RouteNote] 한국 스트리밍 시장 성장: https://routenote.com/blog/spotify-growth-south-korea-local-dsps/
+- [Music Business Research] 한국 K팝 스트리밍 시장 분석: https://musicbusinessresearch.wordpress.com/2026/03/30/the-economics-of-k-pop-part-2-the-music-streaming-market-in-south-korea/
+- [Gurufocus] Spotify Forward P/E: https://www.gurufocus.com/term/forward-pe-ratio/SPOT
+- [Financecharts] Spotify P/E 역사적 데이터: https://www.financecharts.com/stocks/SPOT/value/pe-ratio
+- [Gurufocus] Investor Day 주가 반응: https://www.gurufocus.com/news/8877644/spotify-technology-spot-shares-surge-131-on-ambitious-longterm-targets
+- [Country Chord] Reserved 티켓팅 파트너십: https://countrychord.com/spotify-to-reserve-concert-tickets-for-top-listeners-of-artists-through-new-live-nation-partnership/
+- [Music Business Worldwide] 공동 CEO 체제: https://www.musicbusinessworldwide.com/alex-norstrom-has-a-long-to-do-list-as-spotifys-new-co-ceo-heres-whats-on-it/
+- [Bloomberg] Joe Rogan 팟캐스트 도박: https://www.bloomberg.com/news/features/2021-01-12/spotify-spot-views-joe-rogan-more-podcasts-as-path-to-profitability
+- [Fortune] 팟캐스트 독점 철회: https://fortune.com/europe/2024/05/10/spotify-podcast-julie-mcnamara-exits-1-billion-bet-on-exclusivity-deals-joe-rogan-alex-cooper/
