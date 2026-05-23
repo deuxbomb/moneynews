@@ -153,3 +153,5 @@ Live Nation 'Reserved' 티켓팅(여름 출시)이 실제로 북미 프리미엄
 - [Bloomberg] Joe Rogan 팟캐스트 독점: https://www.bloomberg.com/news/features/2021-01-12/spotify-spot-views-joe-rogan-more-podcasts-as-path-to-profitability
 - [Fortune] 팟캐스트 독점 철회: https://fortune.com/europe/2024/05/10/spotify-podcast-julie-mcnamara-exits-1-billion-bet-on-exclusivity-deals-joe-rogan-alex-cooper/
 - [Music Business Worldwide] 공동 CEO 체제: https://www.musicbusinessworldwide.com/alex-norstrom-has-a-long-to-do-list-as-spotifys-new-co-ceo-heres-whats-on-it/
+
+<!-- slack_trigger: 2026-05-23 -->
