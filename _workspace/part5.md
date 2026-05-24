@@ -1,16 +1,14 @@
+🎙️ 테크 팟캐스트 — 이번 주 에피소드 현황
 
-🎙️ 팟캐스트 — 이번 주 들을 것들
+오늘(일요일)은 주요 팟캐스트 대부분이 주말 휴방이다. 지난 7일 _recent.md 기록 대조 결과:
 
-[dedup 확인]
-- All-In E274 (5/18 발행): 5/19 AM 에디션에서 이미 요약 완료 → 생략
-- Acquired "Vanguard" (5/18): 5/18 AM 에디션에서 이미 요약 완료 → 생략
-- TBPN "Google I/O Recap, Fertility Decline, Spotify Logo Drama" (5/20): 5/21 AM에서 요약 완료 → 생략
-- All-In E275: 주말 발행 미확인 (일반적으로 금~토 발행, 현재 미인덱싱)
-- TBPN 5/21(수)·5/22(금) 에피소드: 발행 확인되나 제목·내용 미인덱싱
+- **TBPN**: 5/20 "Google I/O Recap, Fertility Decline, Spotify Logo Drama" — AM(5/21)에서 이미 커버
+- **All-In Podcast**: E274 "OpenAI vs 애플, Thinking Machines 실시간 모델" (5/18) — AM(5/19)에서 커버
+- **Acquired**: "Vanguard" 에피소드 (5/18) — AM(5/18)에서 커버
+- **Lex Fridman / No Priors / 20VC**: 오늘 기준 신규 에피소드 미확인
 
-12시간 이내 신규 확인 에피소드 없음. 팟캐스트 섹션은 이번 오후 에디션에서 생략합니다.
+오늘 오후(KST) 기준 신규 에피소드 없음 — 팟캐스트 섹션 생략.
 
-🔜 이번 주 기대 에피소드
-- **All-In E275**: 메모리얼 데이 이후 첫 주, Salesforce·Dell 어닝, PCE 발표 예상 — "소비 어닝 프리뷰" 가능성
-- **TBPN 5/27(화)**: 미국 장 재개장 첫날. Salesforce 어닝 + 메모리얼 데이 소비 지표 첫 반응 
-- **No Priors**: AI+소비자 기술 관점 리뷰 예상 (최근 #461이 마지막)
+---
+
+이번 주 팟캐스트 예고: SpaceX IPO 로드쇼(6/4 시작)가 가까워지면 All-In, TBPN, Lex Fridman에서 일론 머스크 인터뷰 또는 IPO 특집 에피소드가 나올 가능성이 높다. 다음 주 뉴스레터에서 집중 커버 예정.
