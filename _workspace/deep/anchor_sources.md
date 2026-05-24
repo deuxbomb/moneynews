@@ -1,58 +1,56 @@
-# 앵커 소스 — 2026-05-23 딥다이브 ($SPOT Spotify 종목해부)
+# 앵커 소스 — 2026-05-24 딥다이브 (SpaceX IPO $SPCX — 🔮 미래전망)
 # 14:00 트리거가 우선 활용
 
 ## 1차 자료 (필수 3건+, 14:00 트리거 반드시 확인)
 
-- [SEC EDGAR] Spotify 6-K Q1 2026 — 구독자·MAU·매출·총마진 최신 수치 원문
-  https://www.sec.gov/Archives/edgar/data/0001639920/000162828026027951/spot-20260331x6xk.htm
+- [SEC EDGAR] SpaceX S-1 정식 공시 (2026-05-20)
+  Starlink 매출·순손실·비용 구조·Musk 지분·슈퍼보팅 원문
+  https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm
 
-- [Spotify Newsroom] Co-CEO Investor Day 발언 전문 (Alex Norström & Gustav Söderström, 2026-05-21)
-  2030 가이던스($100B 매출·1B 구독자·20%+ 영업마진) + AI/UMG 파트너십 세부사항
-  https://newsroom.spotify.com/2026-05-21/alex-norstrom-gustav-soderstrom-co-ceos-investor-day-remarks/
+- [CNBC] SpaceX IPO 라이브 업데이트 (2026-05-20)
+  IPO 일정($75B 공모, $1.75T 밸류에이션), 로드쇼 6/4, 상장 6/12
+  https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
 
-- [SEC EDGAR] Spotify 6-K Q4 2025 / FY2025 — 연간 실적 및 장기 재무 흐름 비교
-  https://www.sec.gov/Archives/edgar/data/0001639920/000114036126004482/ef20065075_ex99-1.htm
+- [VC Corner] SpaceX S-1 Full Teardown — $1.75T Valuation, Starlink, xAI, Anthropic Deal
+  재무 세부: 매출·손실·비용·TAM $28.5T 분석
+  https://www.thevccorner.com/p/spacex-spcx-ipo-s1-teardown-valuation-2026
 
-- [CNBC] Spotify soars 13% after announcing AI music deal with UMG and 2030 guidance (2026-05-21)
-  https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html
+## 보조 자료 (시계열·국제비교·투자 시사점)
 
-- [Billboard] Spotify Investor Day Highlights: UMG AI Deal, Audiobook Interest Surges
-  https://www.billboard.com/pro/spotify-investor-day-highlights-umg-ai-deal-audiobooks/
+- [BitMEX] SpaceX IPO Guide: S-1 Breakdown, Valuation & Trading Strategy
+  https://www.bitmex.com/blog/spacex-ipo-guide
 
-## 보조 자료 (시계열·국제 비교·투자 시사점)
-
-- [Inderes] Spotify Investor Day 2026 — 애널리스트 평가 (Clearer 2030 roadmap resolves key strategic debates)
-  https://www.inderes.fi/en/analyst-comments/spotify-investor-day-2026-clearer-2030-roadmap-resolves-key-strategic-debates
-
-- [Gurufocus] Spotify SPOT Stock Surges 15% on AI Partnership and 2030 Revenue Guidance
-  https://www.gurufocus.com/news/8875485/spotify-spot-stock-surges-15-on-ai-partnership-and-2030-revenue-guidance
-
-- [Fortune / TechJuice] Spotify Investor Day: UMG AI Deal & Audiobooks $100M ARR
-  https://www.techjuice.pk/spotify-investor-day-ai-audiobooks-umg/
+- [HeyGoTrade] SpaceX IPO SPCX Explained: What Retail Investors Need to Know Before June 11
+  소매 투자자 접근 (Robinhood), 공모 참여 방법
+  https://www.heygotrade.com/en/blog/spacex-ipo-spcx-explained-retail-investors-june-11/
 
 ## 14:00 트리거 추가 수집 권장
 
-### 1차 자료 심층 발굴 (≥3건 필수 — 위 항목에서 3건 이미 확보, 아래에서 보강)
+### 1차 자료 심층 발굴 (총 3건 이상 필수 — 위 SEC EDGAR + CNBC + VC Corner = 3건 확보)
 
-- Spotify S-1 (2018 직상장 원문) — IPO 당시 실적 vs 현재 비교용 시계열 기준점
-  WebSearch: "Spotify S-1 2018 SEC EDGAR direct listing"
-  또는 WebFetch: https://www.sec.gov/Archives/edgar/data/0001639920/000162828018002762/spotifyf-1.htm
+- SpaceX FY2025 재무제표 (S-1 내 포함) — 매출 $18B·순손실 $4.9B·비용 구조 상세
+  WebFetch 위 SEC EDGAR URL로 직접 접근
 
-- Universal Music Group 2025/2026 연간 보고서 — AI 라이선싱 수익 모델, UMG-스포티파이 관계 현황
-  WebSearch: "Universal Music Group annual report 2025 AI licensing revenue"
+- Rocket Lab 10-K 또는 연간 보고서 — 국제 비교용 (경쟁사 소형 발사체)
+  WebSearch: "Rocket Lab RKLB 10-K 2025 SEC EDGAR annual report revenue"
 
-- 텐센트뮤직($TME) SEC 20-F — 중국 음악 스트리밍 시장 국제 비교용
-  WebSearch: "Tencent Music TME 20-F 2025 SEC EDGAR subscribers"
-
-- Apple Music 구독자 수 공식 데이터 (경쟁 비교용)
-  WebSearch: "Apple Music subscribers 2025 2026 market share"
+- NASA 2026 예산 데이터 — SpaceX 의존도, 정부 계약 비중
+  WebSearch: "NASA 2026 budget SpaceX contracts total value"
 
 ### 시계열 데이터
-- Spotify 매출·구독자 연간 추이 (2018~2025)
-  WebSearch: "Spotify annual revenue subscriber history 2018 2020 2022 2025"
+- SpaceX 발사 횟수·성공률 연도별 추이 (2006~2026)
+  WebSearch: "SpaceX launch history annual 2006 2026 success rate"
+- 민간 우주 시장 규모 전망 (TAM $300B→$1T→$28.5T)
+  WebSearch: "commercial space market size TAM 2026 forecast SpaceX"
 
 ### 반대 시각 자료
-- 아티스트 AI 이탈 우려 — Taylor Swift, 대형 아티스트 계약 현황
-  WebSearch: "Spotify artist AI complaints UMG deal controversy 2026"
-- Apple Music 번들링 경쟁력 분석
-  WebSearch: "Apple Music vs Spotify market share 2026 bundling"
+- Elon Musk 정치 리스크 분석 — DOGE 관련 투자자 우려
+  WebSearch: "Elon Musk DOGE political risk SpaceX IPO investor concern 2026"
+- ESG 펀드 편입 제한 (슈퍼보팅 구조)
+  WebSearch: "SpaceX SPCX governance super voting ESG fund exclusion"
+
+### 국제 비교
+- 한화에어로스페이스·한국 누리호 현황
+  WebSearch: "한화에어로스페이스 우주사업 2026" OR "Korea Nuri rocket 2026 commercial launch"
+- 중국 민간 우주 (LandSpace·CASC) 현황
+  WebSearch: "China private space companies 2026 launch frequency"
