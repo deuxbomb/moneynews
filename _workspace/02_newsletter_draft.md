@@ -147,3 +147,4 @@ IPO 규모가 $75B이어도 유통 주식은 전체의 약 5%다. 상장 초기 
 - [Wikipedia — SpaceX 역사](https://en.wikipedia.org/wiki/SpaceX)
 - [SpaceflightNow — Starship Version 3](https://spaceflightnow.com/2026/05/21/live-coverage-spacex-to-launch-first-starship-version-3-rocket/)
 - [Orbital Radar — 글로벌 우주경제 2026](https://orbitalradar.com/space-economy)
+<!-- slack_trigger: 2026-05-24 -->
