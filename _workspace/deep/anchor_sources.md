@@ -1,56 +1,29 @@
-# 앵커 소스 — 2026-05-24 딥다이브 (SpaceX IPO $SPCX — 🔮 미래전망)
+# 앵커 소스 — 2026-05-25 딥다이브 (하이퍼스케일러 카펙스 $830B — 📡 테크트렌드)
 # 14:00 트리거가 우선 활용
 
 ## 1차 자료 (필수 3건+, 14:00 트리거 반드시 확인)
 
-- [SEC EDGAR] SpaceX S-1 정식 공시 (2026-05-20)
-  Starlink 매출·순손실·비용 구조·Musk 지분·슈퍼보팅 원문
-  https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm
+| # | 소스 | URL | 하이라이트 |
+|---|------|-----|-----------|
+| 1 | SEC EDGAR — Meta Q1 2026 10-Q | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=META&type=10-Q&dateb=&owner=include&count=5 | 카펙스 $13.7B (단일분기) + 연간 가이던스 $64-72B 확인 |
+| 2 | SEC EDGAR — Alphabet Q1 2026 10-Q | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GOOGL&type=10-Q&dateb=&owner=include&count=5 | 카펙스 $17.2B + 연간 $75B 공약 |
+| 3 | Goldman Sachs — "Tracking Trillions" | https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out | 2026E $765B → 2031E $1.6T 모델, AI 카펙스 ROI 논쟁 포함 |
+| 4 | Epoch AI — 하이퍼스케일러 카펙스 데이터 | https://epoch.ai/data-insights/hyperscaler-capex-trend | 2019-2026 연간 합산 추이 데이터셋 |
+| 5 | NVIDIA Q1 FY2027 어닝콜 트랜스크립트 | https://www.fool.com/earnings/call-transcripts/ | Q2 가이던스 $91B + 수요처 언급 (Jensen: "demand exceeds supply") |
 
-- [CNBC] SpaceX IPO 라이브 업데이트 (2026-05-20)
-  IPO 일정($75B 공모, $1.75T 밸류에이션), 로드쇼 6/4, 상장 6/12
-  https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html
+## 보조 자료
 
-- [VC Corner] SpaceX S-1 Full Teardown — $1.75T Valuation, Starlink, xAI, Anthropic Deal
-  재무 세부: 매출·손실·비용·TAM $28.5T 분석
-  https://www.thevccorner.com/p/spacex-spcx-ipo-s1-teardown-valuation-2026
+| 소스 | URL | 메모 |
+|------|-----|------|
+| Sesame Disk — 하이퍼스케일러 카펙스 2026 분석 | https://sesamedisk.com/hyperscaler-capex-2026-ai-infrastructure-markets/ | 빅4 합산 $725B(일부 추정), 레이어별 breakdown 참고 |
+| Epoch AI — 카펙스 GPT-4 이후 4배 | https://epoch.ai/data-insights/hyperscaler-capex-trend | 시계열 근거 |
+| AI CERTs — Hyperscaler Capex Surge | https://www.aicerts.ai/news/hyperscaler-capex-surge-redefines-2026-budgets/ | 추가 컨텍스트 |
+| Manufacturing Dive — Data Center Delay | https://www.manufacturingdive.com/news/opinion-omdia-ai-semiconductor-chip-scarcity/817172/ | 공급 병목 관점 (반대 시각용) |
+| The Next Web — Google + Marvell ASIC | https://thenextweb.com/news/google-marvell-ai-chips-inference-tpu-broadcom | 네트워크/ASIC 레이어 수혜 근거 |
 
-## 보조 자료 (시계열·국제비교·투자 시사점)
+## 수집 우선순위 (14:00 트리거 지시)
 
-- [BitMEX] SpaceX IPO Guide: S-1 Breakdown, Valuation & Trading Strategy
-  https://www.bitmex.com/blog/spacex-ipo-guide
-
-- [HeyGoTrade] SpaceX IPO SPCX Explained: What Retail Investors Need to Know Before June 11
-  소매 투자자 접근 (Robinhood), 공모 참여 방법
-  https://www.heygotrade.com/en/blog/spacex-ipo-spcx-explained-retail-investors-june-11/
-
-## 14:00 트리거 추가 수집 권장
-
-### 1차 자료 심층 발굴 (총 3건 이상 필수 — 위 SEC EDGAR + CNBC + VC Corner = 3건 확보)
-
-- SpaceX FY2025 재무제표 (S-1 내 포함) — 매출 $18B·순손실 $4.9B·비용 구조 상세
-  WebFetch 위 SEC EDGAR URL로 직접 접근
-
-- Rocket Lab 10-K 또는 연간 보고서 — 국제 비교용 (경쟁사 소형 발사체)
-  WebSearch: "Rocket Lab RKLB 10-K 2025 SEC EDGAR annual report revenue"
-
-- NASA 2026 예산 데이터 — SpaceX 의존도, 정부 계약 비중
-  WebSearch: "NASA 2026 budget SpaceX contracts total value"
-
-### 시계열 데이터
-- SpaceX 발사 횟수·성공률 연도별 추이 (2006~2026)
-  WebSearch: "SpaceX launch history annual 2006 2026 success rate"
-- 민간 우주 시장 규모 전망 (TAM $300B→$1T→$28.5T)
-  WebSearch: "commercial space market size TAM 2026 forecast SpaceX"
-
-### 반대 시각 자료
-- Elon Musk 정치 리스크 분석 — DOGE 관련 투자자 우려
-  WebSearch: "Elon Musk DOGE political risk SpaceX IPO investor concern 2026"
-- ESG 펀드 편입 제한 (슈퍼보팅 구조)
-  WebSearch: "SpaceX SPCX governance super voting ESG fund exclusion"
-
-### 국제 비교
-- 한화에어로스페이스·한국 누리호 현황
-  WebSearch: "한화에어로스페이스 우주사업 2026" OR "Korea Nuri rocket 2026 commercial launch"
-- 중국 민간 우주 (LandSpace·CASC) 현황
-  WebSearch: "China private space companies 2026 launch frequency"
+1. **SEC EDGAR 직접 확인**: Meta/Alphabet/Microsoft/Amazon Q1 2026 10-Q에서 카펙스 실수치 + 연간 가이던스 추출
+2. **어닝콜 트랜스크립트**: 각 CEO/CFO의 카펙스 목적지 발언 인용 (서버/네트워크/전력 비중 언급)
+3. **Goldman Sachs WebFetch**: "Tracking Trillions" 공개 페이지에서 수치 확인
+4. **레이어별 수혜 기업 IR**: Vertiv($VRT), Arista($ANET) Q1 어닝콜에서 데이터센터 수주 수치 추출
