@@ -1,8 +1,8 @@
-## 2026-05-24 14:00 [DEEP] (테마 클러스터: 산업재/인프라/방산, 유형: 🔮 미래전망)
-- 제목: 1,750조 원의 역설 — 역대 최대 IPO 스페이스X, 당신은 무엇을 사는 건가
-- 테마 유형: 미래전망 (Bull/Base/Bear 시나리오 분석)
-- 핵심 주제: 2026-05-20 SEC S-1 공개 직후, 역대 최대 IPO($75B 공모, $1.75T+ 기업가치) 스페이스X를 3개 사업부(스타링크·발사·xAI)로 해부. 매출 대비 95배 밸류에이션의 역사적 이례성, 스타링크-xAI 간 수익 교차보조 구조, 2002년 파산 직전에서 IPO까지 24년 재무 시계열, 미국/중국/유럽/한국 우주산업 국제 비교, Bull/Base/Bear 3시나리오 제시. 한국 투자자 접근법(미래에셋 $5B, Tiger ETF 25%) 포함.
-- 다룬 종목/기업: $SPCX (SpaceX), $RKLB (Rocket Lab), xAI, Amazon Kuiper, Blue Origin, 한화에어로스페이스, $HOOD
-- 핵심 주장/결론: 스타링크(흑자 $7.2B EBITDA)가 AI($12.7B 설비투자) 소진을 감당하는 구조. Anthropic $45B 계약이 버팀목. 95배 배수는 역대 최고 — 단기 투자자는 로드쇼(6/4) 공모가 범위 확인이 필수. Base 케이스는 3~6개월 소화 후 $1.2T 이하 진입이 현실적.
-- 1차 자료 출처: SEC EDGAR S-1 SpaceX × 1, xAI 공식 뉴스룸(Anthropic 파트너십) × 1, SEC EDGAR Rocket Lab 8-K Q1 2026 × 1, Morgan Stanley 우주산업 리포트 × 1, Korea Herald × 1 (총 5건)
-- 판정: Minor (5개 개선점 반영 — 미소스 추정 연율 삭제, 아리안 5 수치 제거, 원가 1/10 표현 교체, Space 부문 EBITDA 명확화, 분량 압축)
+## 2026-05-25 14:00 [DEEP] (테마 클러스터: AI 인프라/반도체, 유형: 📡 테크 트렌드)
+- 제목: $8,300억이 움직인다 — AI 데이터센터 돈, GPU 말고 실제로 어디 꽂히나
+- 테마 유형: 테크트렌드 (여러 기업 같은 방향 → AI 인프라 공급자 지형 조망)
+- 핵심 주제: NVIDIA Q2 $91B 가이던스 발표 5일 후, $8,300억(TrendForce 상위 9 CSP 합산) AI 데이터센터 카펙스가 NVIDIA 너머 어디로 흘러가는지 레이어별 픽앤샤블 지도 작성. Meta Q1 $19.84B+FY $125-145B, Alphabet Q1 $35.7B+FY $180-190B, Amazon Q1 $44.2B+FY ~$200B (모두 SEC 10-Q 확인). McKinsey 분류(Tech 60%/Power 25%/건설 15%)로 Vertiv($VRT 백로그 +81%), Arista($ANET AI $3.5B), Marvell($MRVL D+2 어닝), 한국 K전력기기(HD현대일렉·효성중공업, 수주 33조) 레이어별 수혜 분석. 국제비교: 미국 $650B+ vs 중국 $125B vs 일본(SoftBank Roze AI) vs 한국($65B+HBM 90%). 반대시각: Goldman $1T 필요 vs $450B 이익, Sequoia "70% 가동률 기준선", 닷컴 0.4% vs 1.2% GDP.
+- 다룬 종목/기업: $VRT (Vertiv), $ANET (Arista), $MRVL (Marvell), $NVDA (NVIDIA), $AVGO (Broadcom), $TSM (TSMC), HD현대일렉트릭(267260.KS), 효성중공업(298040.KS), Meta, Alphabet, Microsoft, Amazon
+- 핵심 주장/결론: $8,300억 카펙스의 픽앤샤블 레이어 1위 수혜는 전력·냉각(Vertiv 백로그 +81%), 2위 네트워킹(Arista +35%), 3위 ASIC(Broadcom/Marvell). 한국 HBM 90%+K전력기기 수주 33조는 글로벌 AI 인프라 사이클의 숨은 수혜. D+2 $MRVL, D+3 $DELL 어닝이 다음 확인 포인트.
+- 1차 자료 출처: SEC EDGAR Meta Q1 2026 10-Q × 1, SEC EDGAR Alphabet Q1 2026 10-Q × 1, NVIDIA Q1 FY2027 8-K × 1, SEC EDGAR Arista Networks Q1 2026 8-K × 1, SEC EDGAR Vertiv Q1 2026 × 1, TrendForce CSP 보고서 × 1, Goldman Sachs "Tracking Trillions" × 1, McKinsey "The cost of compute" × 1 (총 8건)
+- 판정: Minor (4개 개선점 반영 — $AVBO→$AVGO 오타 수정, MIT ROI 표현 완화, 마지막 문장 투자자 관점 강화, 도입부 독자 직접 호소 개선)
