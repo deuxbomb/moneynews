@@ -1,3 +1,82 @@
+# Topics Log — 머뉴(MoneyNews) 발행 토픽 영구 기록
+# 형식: ## YYYY-MM-DD HH:MM (KST) [AM|PM|DEEP]
+# 자동 append: 각 트리거가 발행 후 자기 항목 추가
+# Backfilled: 2026-05-08 (지난 7일 git 히스토리에서 추출)
+
+## 2026-05-01 22:49 [PM] (backfilled from 855ca97)
+- 헤드라인: 쉬는 날도 달리는 돈 — 한국 장 쉬는 사이, 미장은 7,200 위를 달린다
+- 오늘의 픽: $AAPL, $CVX, $OKLO
+- 뉴스 토픽: [자율주행] 자율주행, Robotaxi / [빅테크] 엔비디아, 구글, 애플 / [크립토] 비트코인, 이더리움, 코인베이스 / [매크로] 연준, 금리, 고용지표 / [지정학] 이란
+- 팟캐스트: All-In Podcast ** — | All-In Podcast (https://allin.com/episodes) | Acquired Podcast ** — | Acquired 는 세상을 다시 보게 만드는 에피소드를 낸다. 이번은 페라리다. 79년 역사 동안 단 33만 대. 평균 판매 | Acquired - Ferrari Episode (https://www.acquired.fm/episodes)
+
+
+## 2026-05-02 14:45 [DEEP] (backfilled from 004235c)
+- 제목: 7,250억 달러의 내기 — 구글만 답을 내놨다
+
+
+## 2026-05-02 22:40 [PM] (backfilled from 2f1504d)
+- 헤드라인: 버핏 없는 첫 오마하, 그래도 돈은 흐른다
+- 오늘의 픽: $NVDA, $OKLO, $PBF
+- 뉴스 토픽: [자율주행] 자율주행, 웨이모, 테슬라 / [빅테크] 엔비디아, 구글, 애플 / [크립토] 비트코인, 코인베이스 / [매크로] 연준, 금리 / [지정학] 이란, 중국
+- 팟캐스트: All-In Podcast — | All-In 에피소드](https://allin.com/episodes) | Acquired Podcast — | Acquired 가 이번에는 자동차 섹터를 깊게 팠다. 79년 역사에 누적 판매 33만 대 — 일부러 적게 만드는 회사. 4 | Acquired FM (https://www.acquired.fm/episodes)
+
+
+## 2026-05-03 22:35 [PM] (backfilled from 1a75875)
+- 헤드라인: 4월 랠리의 끝에서, 월요일 미장을 기다리며
+- 오늘의 픽: $GOOGL, $NVDA, $OKLO
+- 뉴스 토픽: [자율주행] 자율주행, 웨이모, Robotaxi / [빅테크] 엔비디아, 구글, 애플 / [크립토] 비트코인, 코인베이스 / [매크로] 연준, 금리 / [지정학] 이란, 중국
+- 팟캐스트: All-In Podcast — | All-In 포맷으로 해부한 에피소드다. 빅테크 하이퍼스케일러(구글·마이크로소프트·메타)의 대규모 어닝 비트를 쭉 훑고, | All-In 최근 분기 중에서도 손꼽힐 만하다. [All-In Podcast](https://allin.com/episo | Lex Fridman Podcast #490 — | No Priors —
+
+
+## 2026-05-04 14:42 [DEEP] (backfilled from 46d3bbb)
+- 제목: 200대가 동시에 멈췄다 — 중국 로보택시의 브레이크가 걸린 날
+
+
+## 2026-05-04 22:30 [PM] (backfilled from abf97b9)
+- 헤드라인: 🔔 코스피 7천피 63포인트 앞! 반도체가 지수를 들고 뛴다
+- 오늘의 픽: $OKLO, $PLTR, $OHI
+- 뉴스 토픽: [자율주행] 자율주행, 테슬라, Robotaxi / [빅테크] 엔비디아, 구글, 애플 / [크립토] 비트코인, 코인베이스 / [매크로] 연준, 금리 / [지정학] 이란, 중국
+- 팟캐스트: All-In Podcast ** | | All-In 의 주인공은 단연 Elon vs Sam 재판이다. Chamath·Jason·Sacks·Friedberg 네  | all-in-with-chamath-jason-sacks-friedberg /id1502871393) | Lex Fridman Podcast ** | | TBPN ** |
+
+
+## 2026-05-05 14:42 [DEEP] (backfilled from 44b289e)
+- 제목: 로보택시 전쟁 2026: 한쪽은 주당 50만 건, 다른 쪽은 고작 25대
+
+
+## 2026-05-06 14:43 [DEEP] (backfilled from a938411)
+- 제목: 같은 목적지, 다른 요금표 — 로보택시 가격전쟁의 서막이 올랐다
+
+
+## 2026-05-06 22:14 [PM] (backfilled from a186447)
+- 헤드라인: 🚀 코스피 7000 돌파, 새 역사 쓴 날의 저녁 — 오늘 밤 미장이 기다린다
+- 오늘의 픽: $AMD, $GLW, $UBER
+- 뉴스 토픽: [자율주행] 자율주행, 웨이모, 테슬라 / [빅테크] 엔비디아, 구글, 메타 / [크립토] 비트코인, 코인베이스 / [매크로] 연준, 금리 / [지정학] 이란
+- 팟캐스트: All-In Podcast ** — * | All-In Podcast (https://allin.com/episodes) | TBPN (Technology's Daily Show)** — * | TBPN 에 Anjney Midha(AMP 창업자)가 출연해 | TBPN (https://www.tbpn.com/)
+
+
+## 2026-05-06 22:14 [PM] (backfilled from bab7e8c)
+- 헤드라인: 🔔 코스피 7천피 63포인트 앞! 반도체가 지수를 들고 뛴다
+- 오늘의 픽: $OKLO, $PLTR, $OHI
+- 뉴스 토픽: [자율주행] 자율주행, 테슬라, Robotaxi / [빅테크] 엔비디아, 구글, 애플 / [크립토] 비트코인, 코인베이스 / [매크로] 연준, 금리 / [지정학] 이란, 중국
+- 팟캐스트: All-In Podcast ** | | All-In 의 주인공은 단연 Elon vs Sam 재판이다. Chamath·Jason·Sacks·Friedberg 네  | all-in-with-chamath-jason-sacks-friedberg /id1502871393) | Lex Fridman Podcast ** | | TBPN ** |
+
+
+
+
+## 2026-05-07 [DEEP]
+- 제목: NVIDIA가 AI를 빛으로 연결한다 — 72억 달러로 시작된 구리 시대의 종말
+- 테마 유형: 딥리서치
+- 핵심 주제: NVIDIA가 2026년 3~5월 3개월 사이 Coherent(20억), Lumentum(20억), Corning(최대 32억) 등 광학·포토닉스 기업 3곳에 총 72억 달러를 투자하며 AI 데이터센터 인터커넥트를 구리에서 광섬유/CPO로 전환하는 구조적 전략을 해부했다. 전력 효율 5배, 800G 트랜시버 공급 부족, 픽앤샤블 투자 아이디어(GLW, LITE, COHR)를 심층 분석.
+- 다룬 종목/기업: $NVDA, GLW(Corning), LITE(Lumentum), COHR(Coherent), $GOOGL, $OKLO
+- 핵심 주장/결론: NVIDIA는 GPU 제조사를 넘어 AI 인프라 공급망 전체를 수직 통합하는 중이며, 구리→광섬유 전환은 업계 합의가 된 방향으로 코닝(GLW)이 픽앤샤블 수혜의 핵심 플레이어다.
+- 판정: Minor (6개 개선점 반영 — 숫자 불일치 수정, 72억 달러 맥락화, 인용 번역 표기, Broadcom 출처 추가, 마무리 질문형 전환, GlobalFoundries 전환 연결 개선)
+
+## 2026-05-07 21:30 [PM]
+- 헤드라인: 기름값이 폭락하자, 코스피가 역사를 다시 썼다 — 이란 평화협상·WTI -3.5%·코스피 7,384 사상최고치
+- 오늘의 픽: $COIN (오늘 Q1 실적 발표 카탈리스트, CEO 14% 인력감축, BTC $81K), $FTNT (Q1 EPS +32% 서프라이즈, 빌링+31%, AI보안 수혜), $OKLO (NRC Aurora PDC 승인, 목표가 $91~$130)
+- 뉴스 토픽: [매크로] 이란-미국 평화협상 프레임워크 / WTI -3.5% 급락 / 섹터 에너지-4.2% vs 산업재+2.7% 테크+2.2% / 코스피 7384 사상최고 / [자율주행] 오토노머스에이투지+HL만도 MOU 체결 / 국토부 제4차 자율주행 협의체 화성 개최 / Berkshire McLane+Aurora 자율주행트럭 / [빅테크] GOOGL vs NVDA 시총 경쟁(GOOGL Q1 $109.9B+22%, Cloud $20B) / ARM -7.3% AGI CPU 공급부족 / [기업] COIN Q1 실적 오늘 저녁 / FTNT +15% 실적서프라이즈 / DASH +10% / MCD +3.3%
+- 팟캐스트: TBPN "Fixing AI's Biggest Bottleneck" with Anjney Midha (2026-05-05)
+
 ## 2026-05-08 [DEEP]
 - 제목: NVIDIA가 AI를 빛으로 연결한다 — 72억 달러로 시작된 구리 시대의 종말
 - 테마 유형: 딥리서치
@@ -298,3 +377,9 @@
 - 핵심 주장/결론: 스타링크(흑자 $7.2B EBITDA)가 AI($12.7B 설비투자) 소진을 감당하는 구조. Anthropic $45B 계약이 버팀목. 95배 배수는 역대 최고 — 단기 투자자는 로드쇼(6/4) 공모가 범위 확인이 필수. Base 케이스는 3~6개월 소화 후 $1.2T 이하 진입이 현실적.
 - 1차 자료 출처: SEC EDGAR S-1 SpaceX × 1, xAI 공식 뉴스룸(Anthropic 파트너십) × 1, SEC EDGAR Rocket Lab 8-K Q1 2026 × 1, Morgan Stanley 우주산업 리포트 × 1, Korea Herald × 1 (총 5건)
 - 판정: Minor (5개 개선점 반영 — 미소스 추정 연율 삭제, 아리안 5 수치 제거, 원가 1/10 표현 교체, Space 부문 EBITDA 명확화, 분량 압축)
+
+## 2026-05-24 21:00 [PM] (테마: 산업재/인프라/방산)
+- 헤드라인: 메모리얼 데이 전야 — 8주 랠리의 숨고르기, 화요일이 진짜 시작이다
+- 오늘의 픽: $PWR (카탈리스트: D+3 2026-05-27 KeyBanc Industrials Conference CEO+CFO 발표 + $1B 자사주매입 5/22 발표) [와치리스트 외] ※2번째 후보 발굴 실패(일요일 발굴 소진, KTOS 카탈리스트 부재, LDOS 카탈리스트 미확인)
+- 뉴스 토픽: [매크로] Kevin Warsh 연준 의장 취임(5/22) / US-이란 협상 진전 WTI 주간 -7% $96 / S&P 500 8연속 주간 상승(2023 이후 최장) / 다우 50,580 역대 최고 / 메모리얼 데이 미국 휴장 [산업재/인프라] PWR $1B 자사주매입 + $48.5B 수주잔고 / 골든돔 Rocket Lab-RTX 파트너십 / FY2026 $851.9B 예산 집행 개시 [기업] TSLA FSD 벨기에 2,000km 완주(EU 2번째 승인 임박) + $4.3B 배터리딜 + $2B AI 하드웨어 인수공시 / SpaceX IPO 타임라인 확정(로드쇼 6/4-8, 가격결정 6/11, 상장 6/12) / OKLO BofA Buy $80 유지 / NVDA Q1 $81.6B+Q2 $91B 소화 중 [주간 이벤트 예고] MRVL/CRM 어닝 5/27, GDP+PCE+DELL/COST 5/28
+- 팟캐스트: (일요일 휴방 — 신규 에피소드 없음, 섹션 생략)
