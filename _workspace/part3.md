@@ -1,37 +1,48 @@
-📊 메모리얼 데이의 조용함, 그 뒤에 쌓인 것들
+---
 
-시장은 잠시 멈췄다. 미국은 메모리얼 데이 휴장. 하지만 AI 반도체 사이클은 멈추지 않았다. 지난 한 주 동안 NVIDIA가 "수요가 폭발했다"고 선언하고, DELL이 $43B 수주잔고를 공개했으며, AMD가 삼성과 2nm 칩 계약을 협상 중이라는 소식이 나왔다. SOX 인덱스 +65% YTD. 이제 화요일부터 시작될 어닝 위크가 이 모든 기대를 숫자로 증명해야 한다. 두 가지 방향이 있다: 비트+가이던스 상향 → 랠리 연장, 또는 미스+실망 → 급격한 되돌림. 메모리얼 데이의 침묵은 嵐前의 고요다.
+## 스마트머니가 오늘 소리 없이 보낸 신호
+
+**[매크로] 호르무즈의 문이 열린다 — 유가 -8%, 인플레이션 경로가 바뀐다**
+트럼프 대통령이 일요일 "호르무즈 합의가 임박했다"고 밝혔다. WTI는 주간 기준 -8.4% 폭락해 $90달러대로 내려앉았다(이전 주 고점 $105.66). 2월 28일 미국·이스라엘 주도의 이란 공습 이후 사실상 차단됐던 세계 원유·LNG 물동량 20%가 통로를 찾아가는 상황이다. 이게 투자자에게 의미하는 것: 에너지 인플레이션 압력 완화 → 연준 금리 인상 확률 하락 → 성장주·기술주에 우호적. 다만 공화당 강경파(테드 크루즈 "매우 우려")의 반발이 변수. 화요일 시장은 이 합의가 '사실'인지 '기대'인지를 판단할 것이다. [Benzinga](https://www.benzinga.com/markets/equities/26/05/52763927/sp-500-index-perpetual-futures-hit-ath-as-top-republicans-blast-iran-deal) · [Fortune](https://fortune.com/2026/05/24/oil-prices-us-ceasefire-deal-iran-hormuz-strait-reopening/)
 
 ---
 
-🤖 [AI 인프라 이번 주 집중] 칩·서버·네트워크 — 공급망이 다시 시험대에
+## 2026 반도체 슈퍼사이클: 오늘 세 개의 데이터가 쐐기를 박았다
 
-1. ABF 기판이 다음 병목 — AI 반도체 공급망의 병목이 HBM 메모리에서 ABF 기판(Ajinomoto Build-up Film)으로 이동하고 있다는 분석이 나왔다. ABF는 GPU·ASIC·네트워킹 칩 등 고급 패키징에 필수적인 소재로, 수요 급증에도 생산 능력 확장이 2년 이상 걸린다. Digitimes는 "단기 병목은 실리콘, 장기 병목은 전력"이라고 요약했다. $NVDA·$AVGO·$TSM 모두 이 공급망 리스크에서 자유롭지 않다. [Digitimes]
+**[AI 인프라] 골드만삭스 "헤지펀드 반도체 비중 10% — 역대 최고"**
+오늘(5/25) 발행된 골드만삭스 헤지펀드 트렌드 모니터 리포트가 조용히 시장을 바꾸고 있다. 1,059개 헤지펀드($4.6조 운용)의 반도체 포트폴리오 비중이 10%로 사상 최고치를 기록했다. 소프트웨어 비중은 6%로 2019년 이후 최저. 올해 IT 부문 헤지펀드 롱 포지션은 +62% 수익률 — 가장 잘 작동하는 배팅이었다. 특히 **Lam Research(LRCX), Applied Materials(AMAT), Analog Devices, Micron(MU), Intel**이 Q2 신규 편입 최다 5종목에 포함됐다. 설계(NVIDIA, AMD)에서 제조 인프라(장비주)로 스마트머니의 무게중심이 이동하고 있다는 신호다. [Goldman Sachs via CNBC](https://www.cnbc.com/2026/05/25/hedge-mutual-funds-semiconductors-software-goldman-.html)
 
-2. MRVL D+2 — 커스텀 AI칩과 광학, 두 엔진이 동시에 켜졌다 — 화요일 Marvell Technology의 Q1 FY27 어닝이 이번 주 반도체 최대 이벤트다. 컨센서스는 매출 $2.4B(+27% YoY). AWS Trainium 커스텀 ASIC은 FY2026에 '제로'에서 $1.5B로 성장했고, 광학 인터커넥트는 CAGR +50% 기록 중이다. Citi는 5/21 목표가를 $118에서 $215로 두 배 올렸다. "Marvell은 GPU가 아닌 별개의 AI 반도체 수혜 채널"이라는 것이 핵심 테마다. [FX Leaders]
+**[AI 인프라] TSMC에 첫 번째 진짜 경쟁자가 나타났다**
+Digitimes가 오늘(5/25) 보도한 "Weekly Roundup: TSMC faces its first real rivals"가 주목받고 있다. TSMC가 2nm 팹 5개를 2026~2028년에 동시 가동하겠다고 밝혔지만, 삼성과 Intel이 같은 노드에서 경쟁력을 키우고 있다. 실제로 AMD는 2nm 생산을 삼성 파운드리로 일부 이전하는 협상을 진행 중이다. 단, TSMC 쪽 이야기도 있다: Q1 2026 매출 $38.5B (+35% YoY), 연간 설비투자 $52~56B 증가. 수요는 공급을 초과하고 있어, 경쟁자 출현이 TSMC 입장에서 당장의 위협이 아닌 시장 파이 확대를 의미할 수 있다. [Digitimes](https://www.digitimes.com/news/a20260525VL203/digitimes-asia-weekly-news-roundup-manufacturing-samsung-tsmc-2026.html)
 
-3. DELL D+3 — $43B 수주잔고, 미스는 없다는 베팅 — 수요일 Dell Technologies Q1 FY27 어닝. AI 최적화 서버 수주잔고 $43B, FY27 목표 $50B(전년 2배). PowerEdge Gen 18은 성능 70% 개선, NVIDIA와 협업한 deskside AI 솔루션 출시. BofA: "매출·EPS 모두 비트에 가이던스 상향." 금요일 이미 +15% 선반영됐지만, 가이던스 상향 폭에 따라 추가 상승 여지도 있다. [Tickeron / 24/7 Wall St.]
-
----
-
-🏢 기업 뉴스
-
-$TSLA [SpaceX 합병 vs Tesla 딜레마, 주가는 올랐다]
-테슬라 주가가 $426로 +1.95% 상승했지만, 투자자들 사이에 SpaceX IPO(6/12 SPCX 상장 예정)가 Tesla에 독인지 득인지 논쟁이 뜨겁다. SpaceX S-1에 따르면 SpaceX는 Tesla Cybertruck $131M, Megapack 에너지 저장 $697M을 구매해 두 기업 간 연결 고리가 공개됐다. 웨드부시 댄 아이브스는 "합병 가능성 80%"를 언급했다. 배경: Tesla는 프리몬트 공장을 연간 100만 대 규모 휴머노이드 로봇 생산라인으로 전환할 계획을 발표했고, FSD는 유럽(네덜란드→EU 전체) 승인에 다가서고 있다. 전망: SpaceX IPO 소매 자금이 Tesla를 이탈할 수 있다는 우려 vs. 두 회사 간 시너지로 Musk 생태계 가치 상승 기대가 충돌 중. [Fortune / Bloomberg]
-
-$GOOGL [구글이 26년 만에 검색을 다시 쓴다]
-Google I/O 2026(5/19)에서 구글이 발표한 것은 기능 업데이트가 아니었다. 검색의 패러다임 전환이었다. AI Mode 월간 사용자 10억 돌파, 쿼리 매 분기 2배 증가. 새 AI 검색 UI는 Gemini 3.5 Flash 기반 정보 에이전트가 사용자 대신 웹을 탐색해 합성된 답변을 전송하는 방식이다. Gemini Omni(멀티모달), Googlebook(AI 학습 도구), Android XR 스마트글라스도 공개됐다. 배경: 구글 매출의 58%가 검색 광고인데, AI 검색은 이 구조를 흔들 수 있다. 구글 스스로 검색 광고 모델에 칼을 꽂는 모양새다. 전망: 정보 에이전트 상업화와 구독 수익(AI Pro·Ultra) 확장이 2027년 실적 핵심 변수. 주가 $382는 여전히 52주 고점 대비 낮은 수준. [Google Blog / Time]
-
-$NVDA [어닝은 완벽했는데, 왜 주가는 제자리인가]
-Q1 FY27 매출 $81.6B(컨센 비트), 데이터센터 $75.2B(+100% YoY), Q2 가이던스 $91B, $80B 자사주매입에 배당금 $0.01→$0.25로 25배 인상. 숫자는 역대 최강이었다. 하지만 주가는 $215로 4회 연속 어닝 후 하락. 시장의 메시지: "이미 다 알고 있다." 배경: 현재 주가는 FY27 컨센서스 기준 P/E 31x, 하지만 $91B Q2 가이던스도 이미 선반영됐다는 시각이 지배적. 전망: 어닝 후 -5~10% 조정이 오히려 분할 매수 기회라는 의견 vs. ASIC 위협이 중기 모멘텀을 희석시킬 것이라는 반론. [Kiplinger]
-
-$COIN [CLARITY Act, 상원 본회의 60표가 다음 산]
-$COIN $192로 4일 연속 차익실현 중. 5/14 CLARITY Act 상원 금융위원회 13R-11D 통과 이후 기대감이 차익실현으로 전환됐다. 다음 분기점은 상원 본회의 60표 클로처 투표. 크립토 업계는 Memorial Day 전 표결을 기대했지만 일정이 밀렸다. BTC $76,378, 5/29 만기 $82K 콜 옵션 급증은 여전히 강세 신호. [FPJ]
+**[AI 인프라] 데이터센터 반도체 시장 $265.8B 전망 — 2024 대비 3배**
+GlobeNewswire가 5/22 발표한 리포트: 데이터센터 반도체 시장이 2029년까지 $265.8B 규모로 성장한다(2024년 $86.8B 대비 CAGR 25.1%). AI 추론 수요 확대 + 고성능 컴퓨팅 + 클라우드 3사 연간 설비투자 합계 $527B(2026년)이 배경. AI 가속기 중심의 GPU 시장뿐 아니라 네트워킹 반도체(ANET), 전력(VRT) 전체가 수혜권이다. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/22/3300169/0/en/Data-Center-Semiconductor-Market-to-Hit-265-8-Billion-by-2029-Outlook-Trends-Forecast.html)
 
 ---
 
-💡 흥미로운 이야기
+## 기업 뉴스 — 와치리스트 9종목 업데이트
 
-1. AMD 삼성 2nm 계약 협상 — AMD가 TSMC 의존도 줄이기 위해 삼성과 2nm 공정 칩 생산 계약을 협상 중이라는 보도가 나왔다. 성사 시 삼성 파운드리에 대형 AI 가속기 물량이 들어오는 구조. 삼성 파운드리 반등의 신호인지, 단순 공급망 다변화 전략인지 주목된다. [웹 보도]
+**$TSLA — Terafab, "구체적 합의 없음" 공식 확인**
+SpaceX S-1 공개가 테슬라 투자자에게 의외의 선물을 줬다. S-1에 따르면 Terafab(Tesla+SpaceX+xAI 합작 칩 공장, 텍사스 오스틴, 최대 $119B 규모)은 아직 "일반적 프레임워크 합의" 단계이며 재무 조건, IP 권리, 구속력 있는 계약은 없다. Dan Ives(Wedbush)가 "합병 확률 80~90%"를 외치고 있지만 S-1 공시는 현실을 더 냉정하게 말한다. 한편 Tesla FSD 벨기에에서 EU 두 번째 국가 출시를 목전에 두고 있다는 소식도 나왔다. [Electrek](https://electrek.co/2026/05/20/spacex-s1-tesla-terafab-macrohard-not-done-deal/) · [CNBC](https://www.cnbc.com/2026/05/21/will-elon-musk-eventually-merge-spacex-with-tesla-speculation-builds.html)
 
-2. ABF 기판 쇼티지, AI 반도체의 '조용한 킬러' — GPU·ASIC에 필수적인 Ajinomoto Build-up Film(ABF)이 HBM을 이은 다음 병목 소재로 부각됐다. ABF 생산 증설에 2년 이상 걸리는 구조적 문제. 칩을 다 만들어도 패키징이 안 돼 못 파는 상황이 현실화되고 있다. AI 인프라 병목은 "전력→HBM→이제 ABF"로 이동 중. [Digitimes]
+**$GOOGL — +25% YTD의 모멘텀, 오늘도 '사야 할 이유' 나왔다**
+Motley Fool이 오늘(5/25) "Prediction: Alphabet Stock Is a Buy Before June 2026" 분석을 게재했다. Google I/O 2026(Gemini 3.5 Flash, AI 모드 10억 명, Googlebook, Android XR 스마트글라스) 이후 +25% YTD 상승에도 애널리스트 58명 중 Strong Buy 컨센서스가 유지되고 있다. 다음 모멘텀은 AI 검색 광고 수익화가 Q2 실적에 본격 반영되는 시점이다. [Motley Fool](https://www.fool.com/investing/2026/05/25/prediction-alphabet-stock-is-buy-before-june-2026/)
+
+**$NVDA — Q1 $81.6B 비트 소강, 다음 신호는 MRVL 어닝(D+2)**
+NVDA는 현재 Q1 $81.6B(+85% YoY), Q2 가이던스 $91B 소화 국면. 당장 새 뉴스는 없지만 5/27(수) MRVL 어닝이 AI 반도체 섹터 전체의 수요 연속성을 확인해줄 시험대가 된다. Marvell의 성장이 커스텀 AI칩(Trainium, TPU용 ASIC) 수요를 보여준다면, NVDA 주변 생태계 전체에 긍정 신호다. [Sherwood News](https://sherwood.news/markets/marvell-rises-after-strong-cisco-earnings-and-price-target-hikes-from-bank-of-america-and-goldman-sachs-analysts/)
+
+**$COIN — CLARITY Act 차익실현 지속, 상원 전체 표결이 다음 관문**
+지난 금요일 -4.1%($184.99). 5/14 상원 은행위원회 통과(13R-11D) 이후 차익실현 물량이 이어지고 있다. 상원 전체 표결에서 60표 클로처(필리버스터 차단)를 넘어야 하는데, 현재 공화당 내부 반발(테드 크루즈의 이란 딜 반대와 유사한 구도)이 변수. 다음 상승 촉매는 명확한 본회의 일정 확정이다. [ForeignPolicyJournal](https://www.foreignpolicyjournal.com/2026/05/24/coinbase-nasdaq-coin-stock-slides-4-to-192-as-profit-taking-follows-senate-crypto-bill-vote/)
+
+**$OKLO — BofA Buy $80 재개, AI 전력 내러티브 살아있다**
+BofA가 지난 금요일(5/22) OKLO를 Buy 등급, 목표가 $80으로 재개했다. 현재 $66.58. Q1 어닝 미스가 있었지만, AI 데이터센터 전력 공급을 SMR(소형모듈원자로)이 담당한다는 장기 내러티브는 오히려 강화되고 있다. 원유 하락으로 에너지 전반이 압박받는 환경에서도 '탄소 없는 안정적 전력'이라는 차별화 포인트가 버텨줄지 주목된다.
+
+---
+
+## 오늘의 흥미로운 이야기
+
+**한국 팹리스, 월간 +64~127% 폭등 — AI 반도체 수혜 국내에도 퍼졌다**
+파이낸셜뉴스가 오늘(5/25) 보도한 내용이 흥미롭다. 파두(eSSD 컨트롤러)가 이달 +64.07%, 제주반도체(온디바이스 AI)는 +126.53% 폭등. 신한투자증권 분석: "이례적인 반도체 수급 불균형으로 가격 상승이 공급 확대 이전까지 지속될 것." AI 열풍이 NVIDIA·TSMC·하이닉스에서 이제 국내 팹리스까지 흘러내려오고 있다. [파이낸셜뉴스](https://www.fnnews.com/news/202605251817261272)
+
+**Chase Coleman(Tiger Global), AVGO +25%·TSM +49% 비중 대폭확대**
+세계 최고의 테크 헤지펀드 중 하나인 Tiger Global(Chase Coleman 운용)이 2026년 상반기에 Broadcom 비중을 +25%, TSMC 비중을 +49% 확대한 것으로 알려졌다. 골드만삭스 리포트가 이를 뒷받침: "가장 인기 있는 헤지펀드 롱 포지션들이 YTD +62% 수익률을 기록 중." 대형 AI 인프라 '픽앤샤블' 전략이 수익을 내고 있다는 것, 그리고 이 포지션들이 아직 언와인딩 신호를 보내지 않는다는 것이 오늘의 핵심이다. [Motley Fool](https://www.fool.com/investing/2026/05/25/over-half-of-billionaire-chase-coleman-is-invested/)
