@@ -1,32 +1,42 @@
-🔭 이번 주 딥 어닝 캘린더 — 화요일부터 목요일까지 쏟아진다
+🔬 AI 어닝 위크 — 실적 캘린더와 스마트머니 동향
 
-**Q1 GDP 2차 추정 + PCE (5/28 목요일)**
-이번 주 최대 데이터 이벤트다. Q1 GDP 속보치(+3.2%)가 상향될지 하향될지, PCE 물가가 4월 기준 얼마나 나올지 — 워시 연준의 다음 발언 방향이 여기서 결정된다. 현재 금리 선물은 6월 동결, 9월 1회 인하를 70%로 반영 중.
+📅 이번 주 AI 반도체 실적 캘린더
+| 날짜 | 기업 | 이벤트 | 컨센서스 |
+|------|------|--------|---------|
+| 5/27 AMC | $MRVL Marvell | Q1 FY27 어닝 | $2.4B 매출, EPS $0.77 |
+| 5/28 AMC | $DELL Dell | Q1 FY27 어닝 | $34.95B 매출, EPS $3.00 |
+| 5/28 AMC | $CRM Salesforce | Q1 FY27 어닝 | ~$11B 매출, AI Agentforce |
+| 5/28 AMC | $COST Costco | Q3 FY26 어닝 | EPS $4.98 컨센 |
+| 5/28 AM | GDP 1차 추정 | 1Q 2026 GDP 수정 | 소비·투자 포함 |
+| 5/28 AM | PCE 인플레이션 | 4월 PCE | 연준 목표 지표 |
+| 6/3 AMC | $AVGO Broadcom | Q2 FY26 어닝 | AI 매출 $10.7B 가이던스 |
 
-**5/27 Marvell Technology (MRVL) — AI ASIC의 성적표**
-컨센서스: 매출 $2.09B (+72% YoY), EPS $0.63. AI 커스텀 칩(Google TPU, Meta MTIA 파트너) 사이클의 실시간 온도계. 머뉴 5/18 AM에서 '픽'으로 분석한 종목. 가이던스가 $2.4B+ 나오면 반도체 섹터 전체 재점화 가능.
+📊 AI 어닝 프리뷰 — MRVL이 먼저 말한다
+Marvell의 이번 실적에서 시장이 체크할 3가지: ① Q1 매출 $2.4B 이상 ② FY27 AI 커스텀 칩 가이던스 20%+ 상향 ③ 광학 인터커넥트 사업 성장률 60%+ 유지. 이 세 가지 중 둘 이상 충족 시 Citi의 $215 목표가 재조명. AWS Trainium 파트너십의 실제 매출 기여도가 첫 번째 공개 검증 기회다.
 
-**5/27 Salesforce (CRM) — AI 에이전트 실적의 첫 본격 검증**
-컨센서스: 매출 $10.0B, EPS $2.67. Agentforce(AI 에이전트)의 유료 전환율이 핵심 체크포인트다. 기업 소프트웨어 전반의 AI 프리미엄이 유지되느냐가 여기서 확인된다.
-
-**5/28 Dell (DELL) + Costco (COST) + Best Buy (BBY)**
-- Dell: AI 서버 수요 지속 여부 / $NVDA 포스트어닝 수혜 확인
-- Costco: 소비 트레이드다운 vs. 멤버십 파워 — 5/23 DEEP(LYV) AM 이후 소비 모니터링
-- Best Buy: 소비 하방 리스크 최전선. '고소득 up, 저소득 down' 이중화 트렌드 검증
+애널리스트 컨센서스 트래킹
+- $MRVL: Buy 컨센 22/25명, 목표가 범위 $142~$220 (현재 $196)
+- $DELL: Buy 컨센 15/22명, 목표가 범위 $170~$300 (현재 $290)
+- $NVDA: Buy 컨센 37/40명, 목표가 $297 (현재 $215)
 
 ---
 
-🏦 스마트머니 동향 (이번 주 주목 움직임)
+🏦 스마트머니 동향
 
-**ARK Invest (5/22 금요일 마지막 거래일)**
-지난주 ARK는 TSLA에 대해 기관 단위 대규모 순매수 전환 기조를 이어갔다. CBRS(Cerebras) 누적 포지션 확대도 지속. TSM·AMD는 여전히 매도 방향. ARK 포트폴리오의 WeeklyDelta는 "TSLA 재편입 + AI 퓨어플레이 집중" 패턴을 이어가고 있다.
+ARK Invest (5/22 최신 거래):
+🟢 매수: Bullish(BLSH) +164,000주 (ARKK·ARKW·ARKF 합산), Cerebras Systems(CBRS) +38,646주
+🔴 매도: TSM(대만반도체) 일부 매도 (ARKW), AMD(Advanced Micro) 일부 매도 (ARKW)
 
-**Bill Ackman / Pershing Square**
-MSFT 신규 포지션 진입 확인(5/21). 빅테크 중 가장 늦게 담은 종목이 Microsoft — Azure AI 매출 성장 스토리가 밸류에이션 매력과 맞아떨어진 것으로 분석된다.
+ARK의 메시지: 글로벌 반도체 왕(TSMC·AMD) 비중을 줄이고 크립토 거래소(Bullish)와 AI 추론 칩 스타트업(Cerebras)으로 이동. 크립토 규제 수혜 + AI 엣지 인퍼런스 테마에 집중하는 모양새.
 
-**SpaceX 소매 투자자 접근 루트**
-Robinhood RV1 프리-IPO 펀드 NYSE 상장. Musk가 "소매 투자자 포함 확인" 발언 이후 HOOD 주가가 촉매로 작용 중. 6/11 가격결정 전까지 HOOD는 간접 플레이로 활용 가능.
+헤지펀드 Q2 2026 포지셔닝:
+헤지펀드 1,059개 (총 $4.6T 포지션) 분석에 따르면, 헤지펀드의 반도체 비중이 포트폴리오의 10%로 역대 최고치 도달. Q2에만 IT 섹터 비중을 +853bp 늘렸다 — 분기 기준 역대 최대 증가. 특히 증가폭이 컸던 종목: $LRCX(Lam Research), $AMAT(Applied Materials), $ADI, $MU(Micron), $INTC. [Tribune India / NewKerala]
 
-**인사이더 (주목 종목)**
-- $AMC: CEO 250K주 직접 매수 (5/23 확인) — 극단 저평가 인식 or 전략적 신호
-- $ETN (Eaton): 이사 연속 매수 (5/8+5/11) 확인 — 전력망 데이터센터 내러티브 지속
+슈퍼인베스터 주목 동향:
+- Situational Awareness LP (전 OpenAI 연구원 레오폴드 아셴브레너 설립): Q1 13F에서 $NVDA·반도체 ETF에 풋 옵션 포지션 $3.5B+ 구축. 장기 AI 믿음과 단기 조정 헤지를 동시에 운영. $IREN·CoreWeave·CleanSpark 등 AI 에너지 인프라는 롱. [Barchart]
+- Coatue (필리프 라퐁): Amazon·Alphabet·Microsoft 클라우드 3사 비중 대폭 축소, Oracle 전량 매도. TSM 비중 확대 (최대 보유 종목으로 유지), ASML 신규 진입. 클라우드 소프트웨어 → 하드웨어 인프라로 자금 이동. [Motley Fool]
+
+옵션 플로우 시그널:
+- BTC 5/29 만기 $82K 콜 옵션 급증 → 크립토 반등 기대
+- $NVDA 30일 IV 소강세 → 어닝 불확실성 해소 후 안정
+- $MRVL 어닝 전 옵션 스윙 ±12~15% 예상 (컨센서스 추정)
