@@ -403,3 +403,9 @@
 - 오늘의 픽: $KLAC (카탈리스트: 6/2 분기배당 $2.30 D+8 + 6/11 10-for-1 주식분할 D+17, 21% 배당인상, 스크리너 #6), $LRCX (카탈리스트: 6/2 BofA Global Technology Conference CFO 발표 D+8, 골드만삭스 헤지펀드 최다 편입 확인, 52주 신고가) [와치리스트 외]
 - 뉴스 토픽: [매크로] 이란-미 호르무즈 합의 임박 + WTI -8.4% 주간 $90달러대 / S&P 선물 ATH (메모리얼 데이 휴장) / [AI/반도체] Goldman Sachs 헤지펀드 반도체 비중 10% 역대최고 리포트(오늘 발행) + LRCX·AMAT·MU 최다 편입 / TSMC 첫 경쟁자 등장(삼성+Intel 2nm) / AMD-삼성 2nm 계약 임박 / 데이터센터 반도체 시장 $265.8B/2029 전망 / [기업] TSLA Terafab "초기단계" 공식확인(SpaceX S-1) / GOOGL +25% YTD Motley Fool 오늘 매수 추천 / NVDA $91B Q2 소화 중 / COIN -4.1% CLARITY Act 차익실현 / OKLO BofA Buy $80 재개 / Chase Coleman AVGO+25%·TSM+49% 확대 / [어닝프리뷰] MRVL D+2(5/27), DELL D+3(5/28)
 - 팟캐스트: (메모리얼 데이 — 신규 에피소드 없음, 섹션 생략)
+
+## 2026-05-26 09:00 [AM] (테마: EV/자율주행/모빌리티)
+- 헤드라인: 코스피 사상 최고 8,094 — 이란이 풀고, 시장이 달렸다
+- 오늘의 픽: $JOBY (카탈리스트: 2026-06-02 주주총회 D+7 + FAA TIA 비행시험 진행 중, 상업운항 H2 2026 목표, NYSE 항공택시 최초), $NIO (카탈리스트: 2026-05-27 ES9 공식 출시 D+1 + CCTV 안전 생중계 오늘 밤) [와치리스트 외 발굴]
+- 뉴스 토픽: [EV/자율주행] NIO ES9 D+1 출시 + CCTV 안전 생중계 / BYD Sealion 06 DM-i 오늘 론칭 / Tesla FSD 유럽 도미노(리투아니아 승인·벨기에 테스트·그리스 법안) / [매크로] 코스피 8,094 장중 사상 최고·WTI $90 (-6%) 이란 협상 진전·미국 메모리얼 데이 후 첫 재개장 / [기업] TSLA $426 (+1.95%) FSD 유럽 확산 / NVDA $215 (-1.90%) Q2 $91B 소화 중 / COIN $185 (-4.43%) CLARITY Act 차익실현 + CEO 비전 선언 / [딥다이브] MRVL D+1 어닝 프리뷰 ($2.41B 컨센, ±13.6% 스윙)
+- 팟캐스트: All-In Podcast "Elon's Anthropic Deal, The Next AI Monopoly?, 'FDA for AI' Panic" (2026-05-22)
