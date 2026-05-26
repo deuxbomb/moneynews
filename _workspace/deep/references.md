@@ -1,43 +1,41 @@
-# 레퍼런스 기사 분석 — 2026-05-25 딥다이브
+# 레퍼런스 기사 분석 — 2026-05-26 $LCID 딥다이브
 
 ## 레퍼런스 기사
 
-### 1. "The $660 Billion Physical Wall: Decoding the AI Infrastructure Supercycle"
-URL: https://medium.com/@vascobotelho2106/the-660-billion-physical-wall-decoding-the-ai-infrastructure-supercycle-af5f5ccbd3ce
+### 1. "For Lucid Motors Stock, Robotaxis Are Now the Whole Story"
+URL: https://finance.yahoo.com/markets/stocks/articles/lucid-motors-stock-robotaxis-now-140002396.html
 
-- **구조**: 숫자를 제목에서 직접 박아 충격 → 레이어별 분해(돈이 어디로?) → 기업별 수혜 → 리스크 언급
-- **문체**: "The miners are becoming the shovel makers" 같은 역설적 표현. 숫자+은유 조합이 강렬
-- **도입부**: 숫자로 시작 후 "GPU 말고 뭐가 돈을 버는가?" 질문 제기
-- **숫자 활용**: 레이어별 비율(60% compute, 25% power), 회사별 배분 추정
-- **배울 점**: 픽앤샤블 지도를 층위별 테이블로 시각화 / 역설적 표현으로 핵심 통찰 전달
+- **구조**: 현재 문제 제시(EV 판매 부진) → 피벗 내러티브(로보택시 삼각동맹) → 리스크/의구심 → 투자자 판단 제시
+- **문체**: 직설적, 수치 중심, 투자자 관점. "The whole story"라는 표현으로 전략적 전환을 강조
+- **도입부**: 핵심 명제를 제목에 넣고 첫 단락에서 바로 증거로 연결
+- **숫자 활용**: 투자 금액, 지분율, 차량 수 등을 묶어서 의미 부여
+- **배울 점**: 기업의 내러티브 전환을 "이것이 전부다"식으로 프레이밍하는 기법 → 우리 글의 제목과 도입부에 적용
 
----
+### 2. "Lucid (LCID) Stock Slides Despite $500M Uber Bet and 35,000-Vehicle Robotaxi Deal"
+URL: https://carboncredits.com/lucid-lcid-stock-slides-despite-500m-uber-bet-and-35000-vehicle-robotaxi-deal/
 
-### 2. "AI Capex 2026: The $690B Infrastructure Sprint" — Futurum Group
-URL: https://futurumgroup.com/insights/ai-capex-2026-the-690b-infrastructure-sprint/
+- **구조**: 뉴스 이벤트(딜 발표) → 역설(주가 하락) → 원인 분석(미래 vs 현재 괴리) → 투자 관점
+- **문체**: "Despite"라는 역접으로 시작 — 독자의 기대를 뒤집는 구조
+- **도입부**: 긍정 이벤트와 부정 반응의 대비로 긴장감 즉시 생성
+- **숫자 활용**: $500M + 35,000대를 하나의 '베팅' 패키지로 묶어 표현
+- **배울 점**: "빅딜에도 주가는 왜 떨어졌나" 구조 — 투자자가 진짜 고민하는 문제 정면 돌파
 
-- **구조**: 기업별 공약 → 레이어별 수혜자 → "왜 2026이 전환점인가" → 주의사항
-- **문체**: 스프린트/레이스 역동적 은유. 각 기업을 경쟁자로 프레임
-- **도입부**: Q1 2026 어닝콜 서프라이즈에서 출발 — 독자가 방금 경험한 뉴스 활용
-- **숫자 활용**: YoY 성장률+절대 금액 병기. "Amazon exceeded consensus by $53B"처럼 구체화
-- **배울 점**: 공급자(Vertiv 백로그, Arista 수주)를 수요자(하이퍼스케일러 카펙스)와 교차 검증하는 구조
+### 3. "Lucid targets late 2026 robotaxi launch while expanding Uber commitment to at least 35,000 vehicles"
+URL: https://seekingalpha.com/news/4586487-lucid-targets-late-2026-robotaxi-launch-while-expanding-uber-commitment-to-at-least-35000
 
----
-
-### 3. "Big Tech's $650 Billion AI Infrastructure Bet: Why 2026 Marks a Turning Point" — Amzur/Medium
-URL: https://amzur.medium.com/big-techs-650-billion-ai-infrastructure-bet-why-2026-marks-a-turning-point-e84f5379aa90
-
-- **구조**: 역사적 맥락(GPT-4 이전/이후) → 2026 전환점 이유 → 기업별 선언 → 장기 전망
-- **도입부**: "When ChatGPT launched in late 2022, it revealed the enormous inference cost at scale." — 원인-결과 선명한 서술
-- **숫자 활용**: GPT-4 전후 4배 증가 강조. "75%가 AI에 직접 배분"
-- **배울 점**: "소프트웨어에서 중공업으로의 AI 전환" 패러다임 프레임 / GPT-4 전후 역사 분기점 설정
+- **구조**: 이벤트 요약 → 핵심 수치 → 맥락(기존 계약과 비교) → 시사점
+- **문체**: 팩트 중심, 간결, SA 특유의 투자 저널 톤
+- **도입부**: 타이틀 자체가 핵심 뉴스를 담음
+- **숫자 활용**: "최소 35,000대" — '최소'라는 단어로 업사이드 여지 표현
+- **배울 점**: 계약 규모를 장기 수익 가능성으로 환산하는 방식 → 투자 판단에 유효
 
 ---
 
-## 구조·문체 종합 (우리 글 적용 기법)
+## 우리 글에 적용할 기법 요약
 
-1. **도입부**: 독자가 방금 경험한 NVIDIA $91B 가이던스에서 출발. "가장 큰 질문은 다른 곳에 있다" 역설 제기
-2. **시계열**: "GPT-4 이후 4배" 단순 비교 > 복잡한 연도별 나열. 연도별 테이블은 흐름 방해 없이 인라인으로
-3. **국제 비교**: 미국 vs 중국 비율로 간결하게. 한국은 HBM 공급자+DC 투자자 이중 역할 강조
-4. **반대 시각**: MIT/Goldman/Sequoia 세 기관 언어로 반복. 닷컴 비교 양면 병기. 역설적 결론 (FOMO = 내시균형)
-5. **시사점**: 레이어별 테이블, 각 레이어 Best Bet 종목 1-2개 + 근거 수치 1개
+1. **제목**: 역설 구조 사용 — "10조를 태우고, 로보택시를 얻었다" 또는 "5년의 추락이 끝나는 조건"
+2. **도입부**: 구체적 사건(CES 2026 쇼플로어의 한 장면)으로 시작 → 큰 그림으로 확장
+3. **시계열 섹션**: 연도별 생산/재무 수치를 표 + 해석 병행 — 단순 나열 금지
+4. **국제비교**: Waymo vs 바이두 vs Lucid-Nuro를 한 표에 넣어 시각적으로 대비
+5. **반대 시각**: 긍정 뉴스(딜 발표)와 부정 반응(주가 하락) 사이의 간극이 핵심 — 이것을 반대 섹션의 앵커로
+6. **시사점**: 추상적 권고 금지 — "Q3에 이 수치가 이렇게 나오면 진입, 이렇게 나오면 관망" 식 구체성
