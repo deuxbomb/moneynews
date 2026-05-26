@@ -1,48 +1,71 @@
 ---
 
-## 스마트머니가 오늘 소리 없이 보낸 신호
-
-**[매크로] 호르무즈의 문이 열린다 — 유가 -8%, 인플레이션 경로가 바뀐다**
-트럼프 대통령이 일요일 "호르무즈 합의가 임박했다"고 밝혔다. WTI는 주간 기준 -8.4% 폭락해 $90달러대로 내려앉았다(이전 주 고점 $105.66). 2월 28일 미국·이스라엘 주도의 이란 공습 이후 사실상 차단됐던 세계 원유·LNG 물동량 20%가 통로를 찾아가는 상황이다. 이게 투자자에게 의미하는 것: 에너지 인플레이션 압력 완화 → 연준 금리 인상 확률 하락 → 성장주·기술주에 우호적. 다만 공화당 강경파(테드 크루즈 "매우 우려")의 반발이 변수. 화요일 시장은 이 합의가 '사실'인지 '기대'인지를 판단할 것이다. [Benzinga](https://www.benzinga.com/markets/equities/26/05/52763927/sp-500-index-perpetual-futures-hit-ath-as-top-republicans-blast-iran-deal) · [Fortune](https://fortune.com/2026/05/24/oil-prices-us-ceasefire-deal-iran-hormuz-strait-reopening/)
+📰 이란 하나로 시장을 흔들다 — 오후 뉴스 큐레이션
 
 ---
 
-## 2026 반도체 슈퍼사이클: 오늘 세 개의 데이터가 쐐기를 박았다
+🌍 매크로: 이란 협상이 바꾼 하루
 
-**[AI 인프라] 골드만삭스 "헤지펀드 반도체 비중 10% — 역대 최고"**
-오늘(5/25) 발행된 골드만삭스 헤지펀드 트렌드 모니터 리포트가 조용히 시장을 바꾸고 있다. 1,059개 헤지펀드($4.6조 운용)의 반도체 포트폴리오 비중이 10%로 사상 최고치를 기록했다. 소프트웨어 비중은 6%로 2019년 이후 최저. 올해 IT 부문 헤지펀드 롱 포지션은 +62% 수익률 — 가장 잘 작동하는 배팅이었다. 특히 **Lam Research(LRCX), Applied Materials(AMAT), Analog Devices, Micron(MU), Intel**이 Q2 신규 편입 최다 5종목에 포함됐다. 설계(NVIDIA, AMD)에서 제조 인프라(장비주)로 스마트머니의 무게중심이 이동하고 있다는 신호다. [Goldman Sachs via CNBC](https://www.cnbc.com/2026/05/25/hedge-mutual-funds-semiconductors-software-goldman-.html)
-
-**[AI 인프라] TSMC에 첫 번째 진짜 경쟁자가 나타났다**
-Digitimes가 오늘(5/25) 보도한 "Weekly Roundup: TSMC faces its first real rivals"가 주목받고 있다. TSMC가 2nm 팹 5개를 2026~2028년에 동시 가동하겠다고 밝혔지만, 삼성과 Intel이 같은 노드에서 경쟁력을 키우고 있다. 실제로 AMD는 2nm 생산을 삼성 파운드리로 일부 이전하는 협상을 진행 중이다. 단, TSMC 쪽 이야기도 있다: Q1 2026 매출 $38.5B (+35% YoY), 연간 설비투자 $52~56B 증가. 수요는 공급을 초과하고 있어, 경쟁자 출현이 TSMC 입장에서 당장의 위협이 아닌 시장 파이 확대를 의미할 수 있다. [Digitimes](https://www.digitimes.com/news/a20260525VL203/digitimes-asia-weekly-news-roundup-manufacturing-samsung-tsmc-2026.html)
-
-**[AI 인프라] 데이터센터 반도체 시장 $265.8B 전망 — 2024 대비 3배**
-GlobeNewswire가 5/22 발표한 리포트: 데이터센터 반도체 시장이 2029년까지 $265.8B 규모로 성장한다(2024년 $86.8B 대비 CAGR 25.1%). AI 추론 수요 확대 + 고성능 컴퓨팅 + 클라우드 3사 연간 설비투자 합계 $527B(2026년)이 배경. AI 가속기 중심의 GPU 시장뿐 아니라 네트워킹 반도체(ANET), 전력(VRT) 전체가 수혜권이다. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/22/3300169/0/en/Data-Center-Semiconductor-Market-to-Hit-265-8-Billion-by-2029-Outlook-Trends-Forecast.html)
+트럼프, "이란 전쟁 종결 협상 잘 되고 있다" — 시장은 즉시 반응했다. 호르무즈 해협이 다시 열릴 수 있다는 기대에 WTI가 주간 8% 하락하며 $91대로 내려왔고, S&P 선물은 0.9%, 나스닥 선물은 1.3% 뛰었다. 가솔린 가격 하락 → 소비 여력 회복 → 인플레이션 완화 → 연준 정책 여유라는 연쇄 반응이 시장을 달구는 중이다. Polymarket에서 S&P 오늘 양봉 확률 91%. 다만 "협상 낙관론"은 이전에도 여러 번 나왔다가 무산됐다는 점 — 헤드라인 리스크는 여전하다. [Benzinga](https://www.benzinga.com/markets/prediction-markets/26/05/52769764/sp500-may-26-open-up-or-down-polymarket-iran-talks-oil-prices)
 
 ---
 
-## 기업 뉴스 — 와치리스트 9종목 업데이트
+🚗 EV·자율주행·모빌리티: 화요일 테마 뉴스
 
-**$TSLA — Terafab, "구체적 합의 없음" 공식 확인**
-SpaceX S-1 공개가 테슬라 투자자에게 의외의 선물을 줬다. S-1에 따르면 Terafab(Tesla+SpaceX+xAI 합작 칩 공장, 텍사스 오스틴, 최대 $119B 규모)은 아직 "일반적 프레임워크 합의" 단계이며 재무 조건, IP 권리, 구속력 있는 계약은 없다. Dan Ives(Wedbush)가 "합병 확률 80~90%"를 외치고 있지만 S-1 공시는 현실을 더 냉정하게 말한다. 한편 Tesla FSD 벨기에에서 EU 두 번째 국가 출시를 목전에 두고 있다는 소식도 나왔다. [Electrek](https://electrek.co/2026/05/20/spacex-s1-tesla-terafab-macrohard-not-done-deal/) · [CNBC](https://www.cnbc.com/2026/05/21/will-elon-musk-eventually-merge-spacex-with-tesla-speculation-builds.html)
+**1. 우버가 웨이모를 등지고 $10B를 꺼냈다**
 
-**$GOOGL — +25% YTD의 모멘텀, 오늘도 '사야 할 이유' 나왔다**
-Motley Fool이 오늘(5/25) "Prediction: Alphabet Stock Is a Buy Before June 2026" 분석을 게재했다. Google I/O 2026(Gemini 3.5 Flash, AI 모드 10억 명, Googlebook, Android XR 스마트글라스) 이후 +25% YTD 상승에도 애널리스트 58명 중 Strong Buy 컨센서스가 유지되고 있다. 다음 모멘텀은 AI 검색 광고 수익화가 Q2 실적에 본격 반영되는 시점이다. [Motley Fool](https://www.fool.com/investing/2026/05/25/prediction-alphabet-stock-is-buy-before-june-2026/)
+Uber가 Waymo를 공개 비판하면서 동시에 $10B 이상을 자체 AV 플릿 구축에 쏟아붓겠다고 선언했다. Lucid-Nuro 로보택시 2만 대 이상, NVIDIA 파트너십으로 28개 도시 L4 로보택시(2027~2028), Rivian 지분 투자까지 — Uber는 "우리가 AV 플랫폼"이 되겠다는 야심을 드러냈다. Waymo와는 여전히 오스틴·애틀란타에서 협력 중이지만, 장기 경쟁자가 됐다. EV 픽앤샤블에서 가장 중요한 시그널: 누가 AV 인프라를 통제하느냐가 로보택시 시대의 승자를 결정한다. [Electrek](https://electrek.co/2026/05/15/uber-turns-on-waymo-10-billion-robotaxi-alternatives/)
 
-**$NVDA — Q1 $81.6B 비트 소강, 다음 신호는 MRVL 어닝(D+2)**
-NVDA는 현재 Q1 $81.6B(+85% YoY), Q2 가이던스 $91B 소화 국면. 당장 새 뉴스는 없지만 5/27(수) MRVL 어닝이 AI 반도체 섹터 전체의 수요 연속성을 확인해줄 시험대가 된다. Marvell의 성장이 커스텀 AI칩(Trainium, TPU용 ASIC) 수요를 보여준다면, NVDA 주변 생태계 전체에 긍정 신호다. [Sherwood News](https://sherwood.news/markets/marvell-rises-after-strong-cisco-earnings-and-price-target-hikes-from-bank-of-america-and-goldman-sachs-analysts/)
+**2. NVIDIA + UBER = 28개 도시 L4 로보택시, 2027년부터**
 
-**$COIN — CLARITY Act 차익실현 지속, 상원 전체 표결이 다음 관문**
-지난 금요일 -4.1%($184.99). 5/14 상원 은행위원회 통과(13R-11D) 이후 차익실현 물량이 이어지고 있다. 상원 전체 표결에서 60표 클로처(필리버스터 차단)를 넘어야 하는데, 현재 공화당 내부 반발(테드 크루즈의 이란 딜 반대와 유사한 구도)이 변수. 다음 상승 촉매는 명확한 본회의 일정 확정이다. [ForeignPolicyJournal](https://www.foreignpolicyjournal.com/2026/05/24/coinbase-nasdaq-coin-stock-slides-4-to-192-as-profit-taking-follows-senate-crypto-bill-vote/)
+NVIDIA가 Uber 앱에 탑재될 완전 소프트웨어 구동 자율주행 차량을 로스앤젤레스·샌프란시스코에서 2027년 H1 출시하고, 2028년까지 28개 도시로 확장한다고 공식 발표했다. NVIDIA DRIVE Hyperion 플랫폼 + Alpamayo AI 모델 기반. 이 딜이 흥미로운 이유: NVIDIA가 칩만 파는 게 아니라 자율주행 소프트웨어 스택 전체를 플랫폼화하려는 전략이 보이기 때문이다. Waymo·Tesla·Aurora에 대한 NVIDIA의 간접 도전장. [Uber IR](https://investor.uber.com/news-events/news/press-release-details/2026/NVIDIA-to-Launch-L4-Software-Driven-Robotaxis-on-Uber-Across-28-Cities-by-2028/default.aspx)
 
-**$OKLO — BofA Buy $80 재개, AI 전력 내러티브 살아있다**
-BofA가 지난 금요일(5/22) OKLO를 Buy 등급, 목표가 $80으로 재개했다. 현재 $66.58. Q1 어닝 미스가 있었지만, AI 데이터센터 전력 공급을 SMR(소형모듈원자로)이 담당한다는 장기 내러티브는 오히려 강화되고 있다. 원유 하락으로 에너지 전반이 압박받는 환경에서도 '탄소 없는 안정적 전력'이라는 차별화 포인트가 버텨줄지 주목된다.
+**3. Waymo, 주간 40만 라이드 — 그리고 홍수에 멈췄다**
+
+Waymo가 현재 10개 도시에서 주당 40만 건의 유료 라이드를 완료하고 있으며, 2026년 말까지 100만 건을 목표로 한다. 하지만 이번 주 폭우에 따른 침수 도로를 인식하지 못해 일부 루트를 차단하는 OTA 업데이트를 해야 했다. 자율주행의 아킬레스건: "예외 상황"에서의 대처 능력. 100% 무인으로 가려면 아직 풀어야 할 문제가 있다. [Auto Connected Car News](https://www.autoconnectedcar.com/2026/05/autonomous-self-driving-vehicle-news-waymo-alphabet-may-mobility-toyota-ntt-lyft-uber-nuro-cpuc-lucid-hyundai-qualcomm-weride-stellantis-wayve-hesai-group-mercedes/)
+
+**4. Tesla FSD, 중국 정식 출시 + 유럽 도미노**
+
+Tesla가 드디어 중국에서 FSD를 공식 출시했다. 트럼프 방중 이후 중국 당국이 데이터 현지화 규정을 완화하면서 가능해진 결과다. 유럽에서는 이미 리투아니아(5/20), 그리스 법안 예정, 벨기에 승인 임박 — FSD 유럽 도미노가 진행 중이다. 단, 스웨덴·핀란드·덴마크·노르웨이 등 북유럽 규제기관이 과속 경향과 결빙 도로 성능을 문제 삼으며 다음 TCMV 회의(7월)까지 결정을 미루고 있다. [Electrek](https://electrek.co/2026/05/20/tesla-fsd-lithuania-second-european-country/) · [TechCrunch](https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/)
 
 ---
 
-## 오늘의 흥미로운 이야기
+🏢 기업 뉴스
 
-**한국 팹리스, 월간 +64~127% 폭등 — AI 반도체 수혜 국내에도 퍼졌다**
-파이낸셜뉴스가 오늘(5/25) 보도한 내용이 흥미롭다. 파두(eSSD 컨트롤러)가 이달 +64.07%, 제주반도체(온디바이스 AI)는 +126.53% 폭등. 신한투자증권 분석: "이례적인 반도체 수급 불균형으로 가격 상승이 공급 확대 이전까지 지속될 것." AI 열풍이 NVIDIA·TSMC·하이닉스에서 이제 국내 팹리스까지 흘러내려오고 있다. [파이낸셜뉴스](https://www.fnnews.com/news/202605251817261272)
+**$TSLA — FSD 두 개 시장을 동시에 뚫다**
 
-**Chase Coleman(Tiger Global), AVGO +25%·TSM +49% 비중 대폭확대**
-세계 최고의 테크 헤지펀드 중 하나인 Tiger Global(Chase Coleman 운용)이 2026년 상반기에 Broadcom 비중을 +25%, TSMC 비중을 +49% 확대한 것으로 알려졌다. 골드만삭스 리포트가 이를 뒷받침: "가장 인기 있는 헤지펀드 롱 포지션들이 YTD +62% 수익률을 기록 중." 대형 AI 인프라 '픽앤샤블' 전략이 수익을 내고 있다는 것, 그리고 이 포지션들이 아직 언와인딩 신호를 보내지 않는다는 것이 오늘의 핵심이다. [Motley Fool](https://www.fool.com/investing/2026/05/25/over-half-of-billionaire-chase-coleman-is-invested/)
+이야기: 오늘 프리마켓 $430 (+1.01%). 중국 FSD 출시와 유럽 확산 소식이 겹치면서 매수세가 붙었다. Wedbush의 Dan Ives 애널리스트는 "Tesla-SpaceX 합병이 내년 안에 현실화될 수 있다"는 리포트를 냈다. 큰 숫자처럼 보이지만, 합병 구조를 두고 Tesla 이사회 내부에서도 의견이 갈린다는 보도가 동시에 나왔다.
+
+배경: Tesla FSD의 수익화 모델이 구독제로 전환되면(유럽 월 €99, 미국 $99) 소프트웨어 매출의 MRR이 올라간다. 중국 출시는 수천만 대의 잠재 구독자 시장을 열어준다는 점에서 중요하다.
+
+전망: FSD 누적 승인 국가가 늘수록 ASP(평균판매단가) 기여도가 커진다. 단기적으론 北유럽 규제 허들이 변수. 합병설은 현실화되면 초대형 이벤트지만, 지금은 노이즈에 가깝다.
+
+**$GOOGL — 배당 D+13, EU 과징금 위협**
+
+이야기: Alphabet이 6월 8일 $0.22 배당락(D+13)을 앞두고 있다. 한편 독일 Handelsblatt가 EU가 Alphabet에 DMA(디지털시장법) 위반으로 대규모 과징금을 검토 중이라고 보도했다. 구체적 금액은 미정이지만, DMA 위반 최대 과징금은 글로벌 매출의 10%다.
+
+배경: 구글이 EU에서 검색 시장 지배력을 유지하면서 자사 서비스를 우선 배치했다는 게 EU의 주된 혐의다. Alphabet은 이에 대해 "AI 시대 경쟁은 이미 격화됐다"고 반박한다.
+
+전망: DMA 과징금이 현실화되면 단기 주가 압력. 하지만 항소·협상으로 수년이 걸릴 이슈라 치명적 단기 리스크는 아니다. 배당락 전 매수는 전통적 단기 전략.
+
+**$NVDA — UBER 파트너십 + Q2 $91B 소화 중**
+
+이야기: NVIDIA-UBER의 L4 로보택시 파트너십이 공식화되면서 NVIDIA가 단순 칩 공급자를 넘어 자율주행 소프트웨어 플랫폼으로 진화하는 그림이 구체화됐다. 주가는 $215에서 Q2 $91B 가이던스를 소화 중.
+
+전망: 다음 중요 이벤트는 6월 4일 배당락. 자율주행 파트너십은 중장기 모멘텀이지만, 단기 주가는 시장 전체 방향에 연동.
+
+**$MRVL — 내일 밤 심판의 날**
+
+이야기: 마벨 테크놀로지가 내일(5/27) 장 마감 후 Q1 FY27 실적을 발표한다. 컨센서스 EPS $0.80, 매출 $2.41B(+27% YoY). 옵션 시장이 ±13.6% 스윙을 예상하는 이유: 커스텀 AI칩과 광학 인터커넥트가 성장을 주도하는지, 아니면 데이터센터 수요가 NVIDIA에 집중되면서 파이를 잃고 있는지를 확인하는 자리이기 때문이다. 2026년 들어 주가 +100% 날아온 종목. 어닝 미스는 -13%의 공간을 열어준다. [Money Morning](https://moneymorning.com/2026/05/25/marvell-technology-mrvl-stock-earnings-may-2026)
+
+---
+
+🧩 흥미로운 이야기
+
+**1. 코스피 1만피가 된다고? — 증권사 줄줄이 목표 상향**
+
+코스피가 8,000선에 처음 안착하자, 국내 증권사들이 일제히 연말 목표를 올리고 있다. 일부 리서치팀은 "1만피도 보인다"는 제목을 쓰기 시작했다. 이 과정에서 주목할 것은 외국인의 귀환 여부다. 46조를 판 외국인이 다시 사러 오면 진짜 랠리가 된다. 오지 않으면 기관과 개인이 버티는 취약한 구조가 계속된다. [이투데이](https://www.etoday.co.kr/news/view/2587689)
+
+**2. ChargePoint CMO 교체 — 충전 인프라의 성장 배팅**
+
+$CHPT가 최근 새 최고마케팅성장임원(CMO)을 선임하며 성장 가속에 시동을 걸었다. 동시에 6월 3일 어닝을 앞두고, EV 보급 가속화와 Uber AV 플릿 충전 수요 수혜주로의 재평가 가능성이 열려 있다. 목표가 $9.25 대비 현재 $7.10 — 잠자는 30%의 업사이드가 어닝으로 깨어날 것인지 주목.
