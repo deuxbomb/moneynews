@@ -122,3 +122,5 @@ Lucid의 2026년 도박이 성공하려면 단 하나가 필요하다: **Bay Are
 6. **Investor.Uber.com 공식 보도자료 (CES 2026)** — https://investor.uber.com/news-events/news/press-release-details/2026/Lucid-Nuro-and-Uber-Unveil-Global-Robotaxi-at-CES-Announce-Autonomous-On-Road-Testing-2026-3kWDFYe--b/default.aspx
 
 7. **CleanTechnica — Apollo Go 2,000만건 달성 (2026-02-27)** — https://cleantechnica.com/2026/02/27/apollo-go-reaches-20-million-trips-190-million-fully-driverless-kilometers/
+
+<!-- slack_trigger: 2026-05-26 DEEP -->
