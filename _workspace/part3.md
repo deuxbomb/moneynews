@@ -1,55 +1,45 @@
-## MRVL 비트, MU $1조, CRM 대기 — AI 반도체→전력→소프트웨어, 세 개의 도미노
-
-S&P 500과 나스닥이 동시에 사상 최고치를 갱신한 어제, 가장 극적인 장면은 마이크론(MU)에서 나왔다. 하루 만에 +19% 급등하며 $1조 시총 클럽에 입성했다. "AI 메모리 수요의 구조적 변환"이라는 UBS 티모시 아르쿠리의 진단이 시장의 해석을 바꿨다. 그리고 오늘 마블 테크놀로지(MRVL)가 Q1 FY27 어닝에서 EPS $0.80(비트), 매출 $2.22B(비트), FY2027 가이던스 $11B(기존 $10B에서 상향)을 발표하며 확인사살했다 — AI 커스텀 칩 수요 사이클은 아직 끝나지 않았다. 오늘 밤 Salesforce(CRM)가 장 마감 후 어닝을 발표한다. 시장이 기다리는 건 "에이전틱 AI가 얼마나 빨리 매출로 변환되는가"다. [Money Morning](https://moneymorning.com/2026/05/25/marvell-technology-mrvl-stock-earnings-may-2026)
 
 ---
 
-## 가스가 원자력을 품는다 — AI 전력 공급망의 새 설계도
+## 어닝의 밤, 시장은 숨을 죽인다 — MRVL 비트, CRM이 마지막 열쇠를 쥐었다
 
-**이야기**: GE Vernova와 Blue Energy가 텍사스에 2.5GW 가스+원자력 하이브리드 발전소를 공동 개발한다. 2030년 GEV 가스터빈 1GW가 먼저 가동되고, 2032년 BWRX-300 소형모듈원자로(SMR) 1.5GW가 뒤를 잇는다. 발표 문구는 직설적이다: "AI 글로벌 리더십을 위해 미국 지역사회에 전력을 공급한다." [PR Newswire](https://www.prnewswire.com/news-releases/blue-energy-and-ge-vernova-accelerate-gas-plus-nuclear-approach-for-powering-american-communities-and-fueling-global-ai-leadership-302761986.html)
-
-**배경**: 이 구조의 핵심은 '브리지' 전략이다. SMR은 안전하고 탄소 없는 전력을 제공하지만 인허가와 건설에 10년 이상이 걸린다. 그 공백을 가스터빈이 채운다. 마치 5G 기지국이 완성되기 전에 와이파이로 버티는 것처럼. IEA는 2030년까지 데이터센터 전력 수요가 두 배 이상 늘어날 것으로 본다. GEV는 이 수요의 모든 레이어 — 발전, 송전, 원자력 — 에 포지션을 갖춘 거의 유일한 상장 기업이다.
-
-**의미**: Goldman Sachs가 GEV 목표가를 $1,000에서 $1,328로 올렸다. Jefferies는 $1,350이다. 두 투자은행 모두 AI 전력 수요 서사를 이 목표가의 근거로 들었다. 에너지 섹터가 AI 사이클의 두 번째 수혜자로 부상하고 있다. 반도체가 첫 번째였다면, 전력 인프라가 두 번째다.
-
-**OKLO, 워싱턴이 선택했다**: 5월 26일 DOE(미국 에너지부)가 잉여 플루토늄 재활용 프로그램 고급 협상 대상으로 Oklo를 선정했다. 핵무기 해체 과정의 플루토늄을 고속 중성자로(fast neutron reactor) 연료로 전환하는 기술이다. "국가 안보 + 에너지 전환"을 동시에 해결하는 이중 과제에서 Oklo가 낙점됐다. 주가는 최대 +11% 급등했다($67.90→$74.22). 다음 마일스톤: 7월 4일 목표 반응기 임계점(reactor criticality).
-
-**NRG의 AI 전력 포트폴리오**: NRG Energy가 T.H. Wharton 발전시설 상업 운영을 5월 말(D+4)로 목표했다. LS Power로부터 인수한 13GW 포트폴리오가 AI 데이터센터 전력 공급의 핵심 자산으로 가동된다. Q1에서 배당 인상 + 자사주매입 확대도 확인됐다.
+S&P 500과 나스닥이 어제 나란히 사상 최고치를 갈아치웠다. 대형 어닝이 한 번 더 시장을 들어올린 것인데, 공교롭게도 오늘 밤이 진짜 시험대다. 마블 테크놀로지($MRVL)가 장 마감 후 Q1 FY2027 EPS $0.80, 매출 $2.22B으로 컨센서스를 상회했고, 더 중요하게는 FY2027 연간 매출 가이던스를 $11B(+30% YoY)으로 대폭 상향했다. AI 커스텀 칩 데이터센터 사업부가 +42% 성장하며 핵심 동력임을 재확인했다. 반면 세일즈포스($CRM)는 오늘 밤 여전히 열려 있는 질문이다 — -32% YTD 압축 스프링이 Agentforce $800M ARR(+169%)을 발판으로 반등하느냐가 오늘 미장의 마지막 챕터가 된다. [Money Morning](https://moneymorning.com/2026/05/25/marvell-technology-mrvl-stock-earnings-may-2026) · [Benzinga](https://www.benzinga.com/markets/prediction-markets/26/05/52800148/sp500-may-27-open-up-or-down-polymarket-micron-ai-iran-talks)
 
 ---
 
-## 기업 뉴스
+## 정부가 플루토늄을 꺼냈다 — AI 전력 전쟁의 새 챕터, 핵연료 공급망이 끓는다
 
-### $TSLA — FSD, 중국을 달리고 유럽을 넘는다
+오늘 에너지/원자력 테마를 지배하는 이야기는 하나다.
 
-**이야기**: 테슬라의 완전자율주행(FSD) 소프트웨어가 5월 말 중국에서 공식 출시됐다. 리투아니아는 EU에서 두 번째 FSD 승인 국가가 됐고, 벨기에는 테스트 진행 중, 그리스는 관련 입법을 검토 중이다. 네덜란드 RDW 규제기관이 EU 전체 승인 신청을 제출했다 — EU-wide 승인이 나오면 4억 명의 운전자 시장이 한 번에 열린다. 주가 $432(+1.9%).
+1. **OKLO, DOE 잉여 플루토늄 협상 선정** — 미국 에너지부(DOE)가 어제 핵무기급 잉여 플루토늄을 민간 원자로 연료로 전환하는 'Surplus Plutonium Utilization Program' 협상 대상자로 Oklo를 선정했다. 유럽 원전업체 newcleo와 파트너십을 맺어 최대 $2B 투자가 연계됐다. 이와 함께 Exodys Energy, SHINE, Standard Nuclear, Flibe Energy도 선정됐다. 트럼프 행정부가 핵무기급 물질을 민간 에너지 기업에 넘기는 전례 없는 조치를 실행한 것이다. $OKLO +11% 폭등. [BusinessWire](https://www.businesswire.com/news/home/20260526380253/en/Oklo-Selected-by-U.S.-Department-of-Energy-for-Advanced-Negotiations-Under-Surplus-Plutonium-Utilization-Program)
 
-**배경**: 테슬라는 현재 휴스턴, 달라스, 피닉스, 마이애미 등 4개 이상 도시에서 26대 무인 로보택시를 운영 중이다. Cybercab·Tesla Semi·Megapack 3의 2026년 볼륨 생산도 일정대로 진행 중이다. P/E 389라는 높은 배수는 하드웨어 회사가 아닌 소프트웨어 로열티 비즈니스로의 전환에 대한 프리미엄이다.
+2. **우라늄 슈퍼사이클, 수요가 앞선다** — 우라늄 현물가는 $85/lb 지지선에서 버티고 있다. 연초 $101.41 고점 대비 하락했지만, Meta가 7.8GW 핵발전 용량 계약에 서명하고 Microsoft가 AI 데이터센터용 원자로 재가동 계약을 맺으면서 장기 수요 기반이 확고히 굳어지는 중이다. Goldman Sachs는 데이터센터 전력 수요가 2030년까지 2배 이상 증가할 것이라 전망. [CarbonCredits](https://carboncredits.com/uranium-prices-today/)
 
-**전망**: FSD 중국 출시 = 2억 명 이상 운전자 시장 첫 접근. 유럽 EU-wide 승인은 4억 명 시장이다. Q2 2026이 FSD 수익화의 첫 진짜 데이터 포인트가 될 것이다.
+3. **GEV+NRG: AI 전력 인프라 양대 축** — GE Vernova가 Blue Energy Texas와 2.5GW 가스+SMR 하이브리드 플랜트 파트너십을 발표했고(오늘 AM 픽 $GEV 상세 커버), NRG Energy의 T.H. Wharton 상업 운영이 D+4(5/31)로 임박했다. AI 전력 인프라 투자의 실물 건설이 가속화되는 국면. [Yahoo Finance](https://finance.yahoo.com/sectors/energy/articles/ge-vernova-gev-partners-blue-060030036.html)
 
----
-
-### $OKLO — 국가가 선택했다, 다음은 임계점
-
-**이야기**: DOE 잉여 플루토늄 프로그램 협상 선정 이후 Oklo가 $68→$74+ 급등. Bank of America가 5월 22일 Buy(목표 $80) 개시에 이어 이번 DOE 선정은 기술 이야기를 국가 프로젝트 이야기로 업그레이드했다.
-
-**의미**: 23명 애널리스트 평균 목표가 $91.21. DOE가 기술 타당성을 인정했다는 신호가 시장 확신을 강화하고 있다. 7월 4일 반응기 임계점 달성 여부가 다음 주가 분기점이다.
+4. **Riot Platforms + Terrestrial Energy** — 비트코인 채굴 기업 Riot Platforms가 캐나다 원자력 스타트업 Terrestrial Energy와 협업해 SMR(소형모듈원자로) 기반 대규모 데이터센터 개발 프로젝트를 시작한다고 발표. 크립토+원자력+AI 인프라의 삼각 수렴이 현실화되는 첫 사례다. [Riot Platforms](https://www.riotplatforms.com/terrestrial-energy-and-riot-platforms-launch-collaboration-to-develop-nuclear-powered-large-scale-data-center-projects/)
 
 ---
 
-### $NVDA — MRVL 비트가 생태계 수요를 확인했다
+## 어제도 오늘도 이 이름들이 시장을 움직인다 — 와치리스트 기업 뉴스
 
-**이야기**: NVDA는 오늘 $215-218 구간에서 -1~2% 소강세다. Q1 $81.6B 비트와 Q2 $91B 가이던스를 소화하는 중이지만, 오늘 MRVL의 어닝 비트는 AI 반도체 생태계 전반의 수요가 살아있다는 확인 신호다. Goldman Sachs 헤지펀드 포트폴리오에서 반도체 비중이 10%로 역대 최고를 기록했다는 보고서(5/25)가 나왔다.
+**$TSLA 사이버캡이 달린다 — 대량 생산의 첫 줄, 도달했다**
+테슬라가 기가텍사스에서 Cybercab 대량 생산을 공식 개시했다. 2월 첫 유닛 이후 수십 대가 출고 대기 중이고, 제조 부사장은 "역대 가장 효율적인 EV"(165Wh/마일)라고 확인했다. 목표는 주당 수백 대. 무인 FSD 로보택시 네트워크의 물리적 기반이 쌓이는 순간이다. FSD는 이제 리투아니아에 이어 그리스·벨기에까지 유럽 도미노 승인이 임박했다. 테슬라 로보택시(39대, 텍사스 3개 도시)와 웨이모(주간 40만 라이드) 간 격차가 좁혀지는 속도가 올해 주가 방향의 핵심 변수다. [Teslarati](https://www.teslarati.com/tesla-cybercab-gets-crazy-change-mass-production-begins/)
 
-**배경**: MRVL이 AI 커스텀 칩(ASIC)과 800G 인터커넥트로 FY27 $11B, FY28 $15B을 제시한 것은 NVIDIA 독점 구도에서 생태계 다각화가 가속되고 있음을 의미한다. GPU 독점이 약해지는 게 아니라, 전체 파이가 커지고 있다는 이야기다.
+**$GOOGL AI 검색 26년 만의 최대 변환 — 10억 명이 이미 쓴다**
+Google I/O 이후 여운이 계속된다. Sundar Pichai는 "검색의 새로운 시대, 완전히 AI로 재설계된 첫 번째 세대"라고 선언했고, AI Mode 월간 사용자가 10억 명을 돌파했다. 쿼리가 분기마다 2배씩 증가. SEO 기반 광고 업계와 퍼블리셔들에겐 위협이지만, $GOOGL 주주 입장에서는 검색 독점이 AI로 강화되는 신호다. D+13인 6/9에는 배당락도 예정되어 있다. [Google Blog](https://blog.google/products-and-platforms/products/search/search-io-2026/)
+
+**$OKLO 11% 폭등 — DOE 플루토늄 협상 선정의 의미**
+와치리스트에서 오늘 가장 큰 움직임은 $OKLO다. DOE 선정 소식이 주가를 $74로 밀어올렸다. BofA Buy $80 목표가 유지 중. 이 협상은 단순한 계약이 아니라 Oklo의 기술 검증이자 연료 공급 전략의 핵심 퍼즐이다. 단, 아직 '협상 선정' 단계 — 최종 계약까지는 수개월이 걸릴 수 있다. [Oklo Newsroom](https://oklo.com/newsroom/news-details/2026/Oklo-Selected-by-U-S--Department-of-Energy-for-Advanced-Negotiations-Under-Surplus-Plutonium-Utilization-Program/default.aspx)
+
+**$NVDA 소강 국면 — $91B Q2 소화 중, MRVL이 섹터 방향 제시**
+$NVDA는 Q1 $81.6B·Q2 $91B 가이던스 발표 이후 $213-215선에서 소화 중이다. 시장이 '좋은 뉴스를 소화하는 국면'인데, 오늘 밤 MRVL 어닝콜이 커스텀 AI칩 사이클의 연속성을 입증하면 반도체 섹터 전체의 재평가 계기가 될 수 있다.
+
+**$COIN 하락 지속 — CLARITY Act 차익실현의 그늘**
+$COIN은 $183선에서 하락세를 이어가고 있다. CLARITY Act 위원회 통과(13R-11D) 이후 시장이 "상원 본회의 60표 클로처"를 더 어렵게 보면서 차익실현 압박이 지속되는 양상. BTC도 $76,800선에서 박스권 흐름.
 
 ---
 
-## 흥미로운 이야기
+## 핵무기가 전기로 바뀐다 — 냉전 유산, 2026년에 AI 데이터센터 연료가 되다
 
-**1. 마이크론 $1조 클럽 — AI 메모리가 범용 부품을 졸업했다**
-Micron이 하루 +19% 급등으로 $1조 클럽에 합류했다. 올해 누적 수익률은 +185%. NVIDIA조차 부럽지 않다. UBS 목표가 $1,625는 현 주가에서 +80% 추가 업사이드다. AI 데이터센터가 HBM(고대역폭 메모리)을 "범용 부품"이 아닌 "AI 인프라의 핵심 구성 요소"로 취급하면서 구조적 재평가가 이뤄지고 있다. SK하이닉스의 HBM 점유율 62%, 삼성의 추격전 — 한국 반도체 기업들도 이 흐름의 직접 수혜자다. [CNBC](https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html)
-
-**2. CRM 오늘 밤 — 에이전틱 AI가 파이프라인을 매출로 바꿨는가**
-Salesforce가 오늘 장 마감 후 Q1 FY27 실적을 발표한다. 예상 변동성 ±8.71%. 핵심 질문은 하나다: "에이전틱 AI" 서비스가 얼마나 빨리 매출로 전환됐는가? 마진 훼손 없이 AI 성장을 보여줄 수 있다면, 엔터프라이즈 AI SaaS 전체에 강한 긍정 신호가 될 것이다. 내일(5/28)에는 DELL(±11.75%)과 COST(±3.65%) 어닝도 기다리고 있다.
+트럼프 행정부가 핵무기용 잉여 플루토늄을 민간 에너지 기업에 이전하는 결정을 내렸다는 사실 자체가 역사적이다. 냉전 시기 축적된 핵무기 물질이 AI 데이터센터 전력으로 전환되는 경로 — 1950년대 Atoms for Peace의 21세기 버전이다. 단기적으로는 OKLO가 가장 크게 수혜를 받지만, 농축·전환 인프라가 없으면 연료 제조가 불가능하다. 이 파이프라인 전체가 재평가받을 시점이 왔다. [CNN](https://www.cnn.com/2026/05/26/climate/trump-administration-plutonium-deal-energy-companies)
