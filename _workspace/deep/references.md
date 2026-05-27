@@ -1,6 +1,44 @@
-# 레퍼런스 기사 분석 — 2026-05-26 $LCID 딥다이브
+# 레퍼런스 기사 분석 — 2026-05-27 NextEra-Dominion 딥다이브
 
-## 레퍼런스 기사
+## 레퍼런스 기사 수집 현황
+
+대부분의 주요 분석 사이트(CNBC, Fortune, Seeking Alpha, TIKR 등)가 WebFetch 403 차단으로 전문 열람 불가.
+WebSearch 검색 결과 요약 + 구조 분석으로 대체.
+
+---
+
+### 1. Motley Fool — "NextEra Energy's $67 Billion Dominion Acquisition Will Make It the Dominant Power Player in the AI Era"
+URL: https://www.fool.com/investing/2026/05/19/nextera-energys-67-billion-dominion-energy-acquisi/
+- **구조**: 딜 규모 숫자로 도입 → AI 전력 수요 배경 → EPS 성장(9%+) 재무 분석 → 장기 투자 관점 순
+- **문체**: 낙관적·투자자 친화적 톤. "dominant power player", "once-in-a-lifetime" 임팩트 표현
+- **도입부**: 구체적 달러($67B)와 전략 의미를 첫 문단에서 즉시 제시
+- **숫자 활용**: EPS 9%+ 성장을 기존 8% 대비로 맥락화
+- **배울 점**: 큰 숫자 → 맥락 → 왜 지금? → 투자자 관점의 흐름
+
+### 2. Seeking Alpha — "Dominion Energy: The NextEra Merger Could Unlock The AI Power Trade"
+URL: https://seekingalpha.com/article/4906997-dominion-energy-the-nextera-merger-could-unlock-the-ai-power-trade
+- **구조**: 차익거래(13.25%) 즉시 제시 → 딜 리스크 분석 → 버지니아 SCC 집중 → 투자 판단
+- **문체**: 리스크 중심 균형 잡힌 분석. 날카로운 한 문장 결론
+- **도입부**: 아비트라지 숫자(13.25% + 배당 = ~23%) 즉시 제시로 독자 유인
+- **배울 점**: "한 가지 핵심 변수가 모든 것을 결정한다"는 포커스 기법
+
+### 3. Utility Dive — "Combined NextEra-Dominion would have 130-GW large-load pipeline"
+URL: https://www.utilitydive.com/news/nextera-dominion-merger-would-create-worlds-largest-regulated-electric-ut/820457/
+- **구조**: 컨퍼런스콜 130 GW 인용 → 데이터센터 수요 구조 → 규제 절차 → 업계 영향
+- **문체**: 기술 전문적·중립적 톤
+- **숫자 활용**: GW 단위 데이터센터 수요 맥락화, PJM 94% 비중
+- **배울 점**: 산업 구조적 숫자가 설득력 있는 증거가 되는 방식
+
+## 문체 합성 전략
+- 도입: 93조 원짜리 질문 → 즉시 의미 제시
+- 본론: 구체적 산업 데이터(130 GW, 94% PJM, IEA 945 TWh)
+- 시나리오: Bull/Base/Bear 각각 명확한 트리거 조건 + 수혜주 제시
+- 결론: "버지니아 SCC가 모든 것을 결정한다" 단일 포커스
+- 여운: 질문형 마무리
+
+---
+
+# (구) 레퍼런스 기사 분석 — 2026-05-26 $LCID
 
 ### 1. "For Lucid Motors Stock, Robotaxis Are Now the Whole Story"
 URL: https://finance.yahoo.com/markets/stocks/articles/lucid-motors-stock-robotaxis-now-140002396.html
