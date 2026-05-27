@@ -1,20 +1,36 @@
-# 앵커 소스 — 2026-05-26 딥다이브 (Lucid Motors $LCID 로보택시 피벗 — 📊 종목해부)
+# 앵커 소스 — 2026-05-27 딥다이브 (NextEra-Dominion 합병 — 🔮 미래전망)
 # 14:00 트리거가 우선 활용
 
-## 1차 자료 (필수 3건+, 14:00 트리거 반드시 확인)
+## 1차 자료 (SEC 공시)
 
-- [Lucid IR 공식 발표] https://ir.lucidmotors.com/news-releases/news-release-details/lucid-nuro-and-uber-unveil-global-robotaxi-ces-announce/ — Lucid+Nuro+Uber 삼각 파트너십 공식 발표 (20,000대, Uber 전용, 2026 후반 상업 서비스 시작)
-- [SEC EDGAR 8-K Q4 FY2025] https://www.sec.gov/Archives/edgar/data/0001811210/000162828026011118/q4fy25ex991earnings.htm — FY2025 실적: 생산량·매출·현금흐름·현금 잔액 (재무 핵심 팩트)
-- [Nuro.ai 공식] https://www.nuro.ai/nuro-lucid-uber-robotaxi — Nuro Driver L4 기술 스펙 + 파트너십 상세
+- [SEC] Dominion Energy Form 8-K (합병 발표, 2026-05-18)
+  https://www.sec.gov/Archives/edgar/data/0000715957/000119312526227930/d158175dex991.htm
+  → 합병 공식 발표문, 딜 구조($66.8B 주식교환), CEO 발언 인용 가능
+
+- [SEC] Dominion Energy Form 425 시리즈 (합병 관련 IR 자료 다수)
+  https://www.sec.gov/Archives/edgar/data/0000715957/000110465926063003/tm2614888d1_ex99-1.htm
+  → 합병 비율, 주주 설명 자료, 시너지 추정치
+
+## 에너지 수요 / 정책 1차 자료
+
+- [EIA] New U.S. electric generating capacity — 2026년 86GW 역대 최대 전망
+  https://www.eia.gov/todayinenergy/detail.php?id=67205
+  → 86GW 신규 설비, 태양광 43.4GW + 배터리 24GW + 풍력 11.8GW 수치 인용
+
+- [IRENA] 24/7 Renewables Outcompete Fossil Fuels on Firm Costs (2026-05-26)
+  https://www.irena.org/News/pressreleases/2026/May/24-7-Renewables-Outcompete-Fossil-Fuels-on-Firm-Costs
+  → 재생에너지 비용 경쟁력, 배터리 $78/MWh 역대 최저 데이터
+
+- [DOE] One Year After Executive Orders, U.S. Nuclear Energy Renaissance
+  https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
+  → 연방 정부의 에너지 정책 방향, SMR 승인 현황
 
 ## 보조 자료
 
-- [Lucid Motors Stories] https://lucidmotors.com/stories/lucid-nuro-uber-partner — CEO/CTO 발언 + 제품 비전
-- [CBT News CES 2026] https://www.cbtnews.com/lucid-nuro-uber-debut-robotaxi-at-ces-2026/ — CES 현장 리뷰, Lucid Gravity 로보택시 스펙
-- [WardsAuto] https://www.wardsauto.com/news/uber-nuro-lucid-unveil-robotaxi-ces-2026-autonmous-driving-level4/808852/ — 산업 전문지 분석
-- [TechCrunch Mobility Robotaxi Reality Check] https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/ — 로보택시 업계 전반 현황(비교 맥락용)
+- [OilPrice] Goldman Sachs SMR 우라늄 수요 모델 17% 업사이드
+  https://oilprice.com/Alternative-Energy/Nuclear-Power/Goldman-Adds-SMRs-to-Nuclear-Model-Sees-17-Upside-in-Uranium-Demand.html
+  → 에너지 시장 전망 섹션 참조용
 
-## 수집 우선순위
-1. SEC 8-K → FY2025 현금 잔액·소진 속도 확인 (재무 팩트 핵심)
-2. Lucid IR 뉴스룸 → 파트너십 상세 + 배치 타임라인
-3. TechCrunch 리얼리티 체크 → 업계 맥락 + 반대 시각
+- [World Nuclear News] What to watch in 2026
+  https://www.world-nuclear-news.org/articles/in-quotes-what-to-watch-out-for-in-2026
+  → 국제 비교 섹션 참조용
