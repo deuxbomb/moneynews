@@ -1,6 +1,6 @@
 
-## 2026-05-26 22:00 [PM] (테마: EV/자율주행/모빌리티)
-- 헤드라인: 코스피 사상 첫 8,000 마감 — 이란이 열면, 미국 장이 달린다
-- 오늘의 픽: $RIVN (카탈리스트: R2 SUV 고객 인도 June 시작 D+5~D+7, VW $1B 기관 참여), $CHPT (카탈리스트: D+8 6/3 Q1 FY27 어닝, EV충전 인프라 수혜) [와치리스트 외]
-- 뉴스 토픽: [EV/자율주행] Uber $10B AV 플릿 구축+Waymo 공개 비판 / NVIDIA-UBER 28개 도시 L4 로보택시 파트너십 2027~ / Waymo 주간 40만 라이드+홍수 장애 / TSLA FSD 중국 정식 출시+유럽 그리스·벨기에 임박 / [매크로] 코스피 사상 첫 8,000선 마감(8,047.51, +2.55%) / 이란 협상 낙관론 WTI $91 / S&P선물 +0.9% 나스닥선물 +1.3% / [기업] TSLA $430 프리마켓 FSD 중국·유럽 / GOOGL EU DMA 과징금 위협+배당 D+13 / NVDA UBER 파트너십 / MRVL D+1 어닝(EPS $0.80 컨센, ±13.6% 스윙) / RIVN R2 6월 인도 임박 / CHPT D+8 어닝 / [스마트머니] ARK TSLA $45.55M 매수(5/21) / Goldman 헤지펀드 반도체 비중 10% 역대최고 / Tiger Global AVGO+TSM 확대
-- 팟캐스트: No Priors AI "Andrej Karpathy: AutoResearch와 AI 자기진화의 시대" (2026-05-21)
+## 2026-05-27 09:30 [AM] (테마: 에너지/원자력/친환경)
+- 헤드라인: 마이크론 $1조·MRVL 비트·코스피 ATH — AI 전력 인프라, 오늘 에너지가 다음 왕좌를 노린다
+- 오늘의 픽: $GEV (카탈리스트: D+0 버스틴 CEO 기조발표, Goldman PT $1,328, Blue Energy Texas 2.5GW 파트너십, $10B 자사주매입+배당 2배), $NRG (카탈리스트: D+4 2026-05-31 T.H. Wharton 상업 운영, Q1 배당인상+바이백 확대) [와치리스트 외 발굴]
+- 뉴스 토픽: [에너지/AI전력] GEV+Blue Energy Texas 2.5GW 가스+SMR 하이브리드 플랜트 / OKLO DOE 잉여 플루토늄 원자로 연료 전환 협상 선정 +11% / NRG T.H. Wharton 상업 운영 D+4 / [매크로] S&P 500 7,519 ATH / 나스닥 26,656 ATH / WTI $93.8 이란 협상 하락 / BTC $76,054 / 코스피 8,047 ATH / [어닝] MRVL Q1 FY27 비트+FY27 $11B 가이던스 상향 / CRM 오늘 AMC ±8.71% / [기업] TSLA $432 FSD 중국 공식 출시+EU 도미노 승인 / OKLO $74 DOE 선정 +11% / MU +19% $1조 클럽 / NVDA $215 소강
+- 팟캐스트: Lenny's Podcast "AI 하드웨어 붐의 서막" Caitlin Kalinowski(전 OpenAI/Meta/Apple) (2026-05-17)
