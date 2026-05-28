@@ -452,3 +452,9 @@
 - 오늘의 픽: $CCJ (카탈리스트: DOE 핵연료 국산화 정책 + Scotiabank $175 PT + GLJ Research 최근 재확인, 현재가 $108 vs 컨센서스 $130), $LEU (카탈리스트: NNSA 단독 수의계약 결정 임박 + OKLO DOE 선정 연쇄 모멘텀, $2.3B 조건부 백로그) [와치리스트 외 발굴]
 - 뉴스 토픽: [에너지/원자력] OKLO DOE 잉여 플루토늄 전환 협상 선정+newcleo $2B 파트너십 +11% / 우라늄 현물 $85/lb 지지선 / GEV+Blue Energy Texas 2.5GW / Riot Platforms+Terrestrial Energy 핵 데이터센터 파트너십 / [매크로] S&P·나스닥 어제 ATH / S&P선물 +0.37% / WTI $91 이란협상 하락 / BTC $76,800 / 코스피 8,020 ATH권 / 원달러 1,543원 / [어닝] MRVL Q1 FY27 EPS $0.80 비트+매출 $2.22B 비트+FY27 $11B 가이던스 상향 but AH -3% / CRM 오늘 밤 AMC $11.06B 컨센 / [기업] TSLA Cybercab 대량생산 공식 개시·FSD 유럽 도미노(리투아니아→그리스·벨기에 임박) / GOOGL AI Mode 10억명 돌파 / OKLO $74 +11% DOE 선정 / NVDA $215 소강
 - 팟캐스트: (12시간 이내 신규 확인 에피소드 없음 — 섹션 생략)
+
+## 2026-05-28 01:21 [AM] (테마: 핀테크/결제/크립토)
+- 헤드라인: 달러와 유가가 방향을 바꾼다 — PCE가 오늘 장의 운명을 결정한다
+- 오늘의 픽: $SOFI (카탈리스트: 2026-05-27 SoFiUSD 스테이블코인 런칭 — 미국 최초 국법은행 스테이블코인, 토크나이즈드 디파짓 수 주 내), $MA (카탈리스트: 2026-05-27 뉴욕 BitLicense 취득 + BVNK $1.8B 인수 통합 진행) [와치리스트 외 발굴]
+- 뉴스 토픽: [핀테크/크립토] SoFiUSD 런칭(첫 미국 국법은행 스테이블코인, 14.7M 사용자) / Mastercard NY BitLicense 취득 / CLARITY Act 상원 전체 표결 임박 / MSTR 843,738 BTC (평균 $75,700 취득가) / [어닝] COST Q3 FY26 오늘 AMC ($4.98 EPS 컨센) / DELL Q1 FY27 오늘 AMC ($3.00 EPS, $43B AI 수주잔고) / [매크로] PCE 4월 발표 오늘 (예상 3.81%/Core 3.31%) / WTI $88 -6% 이란 협상 진전 / KOSPI 8,229 ATH / [기업] TSLA EU 판매 +46.5% / GOOGL AI Mode 10억명 / NVDA $215 소강 / OKLO $68 DOE 차익실현 / COIN $181 CLARITY Act 표결 대기
+- 팟캐스트: TBPN "Pope Leo의 AI 서한, 페라리 EV, 그리고 Enhanced Games" (2026-05-26)
