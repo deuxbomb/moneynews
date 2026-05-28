@@ -1,36 +1,36 @@
-# 앵커 소스 — 2026-05-27 딥다이브 (NextEra-Dominion 합병 — 🔮 미래전망)
+# 앵커 소스 — 2026-05-28 딥다이브 (엔터프라이즈 AI 에이전트 — 🎤 보이스컴필)
 # 14:00 트리거가 우선 활용
 
-## 1차 자료 (SEC 공시)
+## 1차 자료 (오늘 어닝 + 공식 발표)
 
-- [SEC] Dominion Energy Form 8-K (합병 발표, 2026-05-18)
-  https://www.sec.gov/Archives/edgar/data/0000715957/000119312526227930/d158175dex991.htm
-  → 합병 공식 발표문, 딜 구조($66.8B 주식교환), CEO 발언 인용 가능
+- [SEC EDGAR] CRM Q1 FY27 8-K — https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRM&type=8-K&dateb=&owner=include&count=10
+  (오늘 AMC 발표 후 수집 필요 — Agentforce 기여 매출 분리가 핵심 체크포인트)
 
-- [SEC] Dominion Energy Form 425 시리즈 (합병 관련 IR 자료 다수)
-  https://www.sec.gov/Archives/edgar/data/0000715957/000110465926063003/tm2614888d1_ex99-1.htm
-  → 합병 비율, 주주 설명 자료, 시너지 추정치
+- [Salesforce 공식] Agentforce Operations 발표 (2026-04-29) — https://www.salesforce.com/news/stories/agentforce-operations-announcement/
+  하이라이트: 사이클 타임 -70%, 수작업 오류 -80%, 백오피스 자동화 케이스(대출 심사 자동화)
 
-## 에너지 수요 / 정책 1차 자료
+- [SEC EDGAR] DELL Q1 FY27 8-K (오늘 발표) — https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DELL&type=8-K&dateb=&owner=include&count=10
+  하이라이트: FY27 AI 서버 매출 $50B 가이던스, Q1 ISG +100% 성장
 
-- [EIA] New U.S. electric generating capacity — 2026년 86GW 역대 최대 전망
-  https://www.eia.gov/todayinenergy/detail.php?id=67205
-  → 86GW 신규 설비, 태양광 43.4GW + 배터리 24GW + 풍력 11.8GW 수치 인용
+## 2차 자료 (인터뷰 / 발언 소스)
 
-- [IRENA] 24/7 Renewables Outcompete Fossil Fuels on Firm Costs (2026-05-26)
-  https://www.irena.org/News/pressreleases/2026/May/24-7-Renewables-Outcompete-Fossil-Fuels-on-Firm-Costs
-  → 재생에너지 비용 경쟁력, 배터리 $78/MWh 역대 최저 데이터
+- [Fortune] Marc Benioff — "Salesforce CEO: AI won't kill entry-level jobs, hiring 1,000 grads" (2026-04-27) — https://fortune.com/2026/04/27/salesforce-ceo-marc-benioff-hiring-1000-new-grads-ai-jobs/
+  하이라이트: "AI가 우리 일의 30~50% 처리" + 동시에 1,000명 신입 채용 역설
 
-- [DOE] One Year After Executive Orders, U.S. Nuclear Energy Renaissance
-  https://www.energy.gov/ne/articles/one-year-after-executive-orders-us-nuclear-energy-renaissance-full-swing
-  → 연방 정부의 에너지 정책 방향, SMR 승인 현황
+- [Fortune] Jensen Huang × Bill McDermott — "Agentic AI will rewire a $50 trillion economy" (2026-05-06) — https://fortune.com/2026/05/06/jensen-huang-servicenow-bill-mcdermott-agentic-ai-robos/
+  하이라이트: "operated by robots, managed by more robots", Huang의 $50T 경제 재편 선언
 
-## 보조 자료
+- [Fox Business / National CIO Review] Benioff AI 업무 비율 — https://www.foxbusiness.com/technology/salesforce-boss-reveals-stunning-amount-work-now-handled-ai
+  하이라이트: Salesforce 내부 AI 처리 업무 비율 공개 발언
 
-- [OilPrice] Goldman Sachs SMR 우라늄 수요 모델 17% 업사이드
-  https://oilprice.com/Alternative-Energy/Nuclear-Power/Goldman-Adds-SMRs-to-Nuclear-Model-Sees-17-Upside-in-Uranium-Demand.html
-  → 에너지 시장 전망 섹션 참조용
+- [NVIDIA GTC 2026 키노트] Jensen Huang enterprise IT 발언 — https://biztechmagazine.com/article/2026/03/nvidia-gtc-2026-jensen-huang-outlines-ambitious-future-enterprise-it-fueled-demand-ai-inference
+  하이라이트: "This is a renaissance of enterprise IT" / "billions of agents"
 
-- [World Nuclear News] What to watch in 2026
-  https://www.world-nuclear-news.org/articles/in-quotes-what-to-watch-out-for-in-2026
-  → 국제 비교 섹션 참조용
+- [Salesforce Ben] Benioff AI 에이전트 5대 예측 — https://www.salesforceben.com/5-bold-predictions-marc-benioff-has-about-ai-agents/
+  하이라이트: "limitless digital workforce", Agentforce 2.0 디지털 노동 플랫폼
+
+## 추가 수집 필요 (14:00 트리거 작업)
+- CRM Q1 FY27 어닝콜 트랜스크립트 (오늘 AMC 발표 후)
+- Gartner 2026/2027 AI Hype Cycle 보고서 (환멸의 계곡 예측)
+- ServiceNow $NOW Q1 2026 어닝콜 트랜스크립트 (AI 에이전트 수익화 비교)
+- 일본/독일 AI 에이전트 도입 현황 (노동 협약, 문화적 저항 데이터)
