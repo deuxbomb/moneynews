@@ -1,45 +1,57 @@
+오늘 밤 두 개의 어닝이 시장 체온을 재다 — COST·DELL의 밤
+
+이란 평화 협상 진전으로 WTI가 하루 만에 -6% 빠져 $88 대로 들어섰다. 유가 하락은 인플레이션 압력을 낮추는 긍정 시그널이지만, 오늘 발표될 PCE 물가(4월 기준)는 유가 급등 이전 데이터다. 클리블랜드 연준 나우캐스팅은 3.81%를 전망하고 있다. Core가 3.31% 이상이면 연준의 금리 인하 기대는 또 한 번 멀어진다. 코스피는 8,229 역대 최고치를 기록하고 있다. 한국이 글로벌 AI 반도체 랠리의 수혜를 제대로 받는 구조가 만들어지고 있다.
+
+오늘 밤 AMC(장 마감 후) 두 개의 실적이 발표된다. COST(코스트코)는 Q3 FY26 EPS $4.98, 매출 $69.6B 컨센서스. 4월 매출이 +13% 성장, 같은 기간 비교가능 매출 +11.6%를 기록한 만큼 비트 가능성이 높다. DELL(델)은 Q1 FY27 EPS $3.00 컨센서스. $43B AI 서버 수주잔고를 들고 있다. Bank of America는 비트 + 가이던스 상향을 예상하며 94% 확률로 컨센서스 상회를 점쳤다. [MarketBeat](https://www.marketbeat.com/earnings/reports/2026-5-28-dell-technologies-inc-stock/)
 
 ---
 
-## 어닝의 밤, 시장은 숨을 죽인다 — MRVL 비트, CRM이 마지막 열쇠를 쥐었다
+스테이블코인 시대가 은행 창구에서 열렸다 — 세 개의 사건이 하루에 일어났다
 
-S&P 500과 나스닥이 어제 나란히 사상 최고치를 갈아치웠다. 대형 어닝이 한 번 더 시장을 들어올린 것인데, 공교롭게도 오늘 밤이 진짜 시험대다. 마블 테크놀로지($MRVL)가 장 마감 후 Q1 FY2027 EPS $0.80, 매출 $2.22B으로 컨센서스를 상회했고, 더 중요하게는 FY2027 연간 매출 가이던스를 $11B(+30% YoY)으로 대폭 상향했다. AI 커스텀 칩 데이터센터 사업부가 +42% 성장하며 핵심 동력임을 재확인했다. 반면 세일즈포스($CRM)는 오늘 밤 여전히 열려 있는 질문이다 — -32% YTD 압축 스프링이 Agentforce $800M ARR(+169%)을 발판으로 반등하느냐가 오늘 미장의 마지막 챕터가 된다. [Money Morning](https://moneymorning.com/2026/05/25/marvell-technology-mrvl-stock-earnings-may-2026) · [Benzinga](https://www.benzinga.com/markets/prediction-markets/26/05/52800148/sp500-may-27-open-up-or-down-polymarket-micron-ai-iran-talks)
+1. SoFi, SoFiUSD 출시 — 미국 최초 국법은행 발행 스테이블코인
 
----
+2026년 5월 27일, SoFi Technologies가 미국 역사상 처음으로 국법은행이 발행한 스테이블코인인 SoFiUSD를 이더리움과 솔라나 네트워크에서 공식 출시했다. 14.7백만 명의 SoFi 앱 사용자가 즉시 이용 가능하다. 1:1 달러 페깅, 독립 CPA의 분기별 검증, SoFi Bank에서 직접 환전 보장. 주가는 발표 직후 장중 +3.5% 반응했다. 스테이블코인 시장 규모는 2025년 말 $3,080억을 돌파했으며, 2026년 전체 달러 결제의 3%를 차지할 전망이다. SoFi의 스테이블코인은 GENIUS Act(2025.07 서명) 요건을 가장 완벽하게 충족하는 은행 발행 구조다 — 국법은행 면허 자체가 규제 자본 기준을 이미 충족하기 때문이다. [Investors.SoFi](https://investors.sofi.com/news/news-details/2026/SoFiUSD-Becomes-the-First-Stablecoin-Issued-by-a-US-National-Bank-to-Launch-on-a-Banking-Platform/default.aspx) · [CoinDesk](https://www.coindesk.com/business/2026/05/27/sofi-brings-bank-issued-stablecoin-to-15-million-users-in-crypto-push)
 
-## 정부가 플루토늄을 꺼냈다 — AI 전력 전쟁의 새 챕터, 핵연료 공급망이 끓는다
+2. Mastercard, 뉴욕 BitLicense 취득 — 스테이블코인 결제 인프라 진격
 
-오늘 에너지/원자력 테마를 지배하는 이야기는 하나다.
+Mastercard Transaction Services(U.S.) LLC가 NYDFS(뉴욕 금융서비스부)로부터 BitLicense를 취득했다. 미국에서 가장 엄격한 디지털자산 영업 허가증을 세계 최대 결제 네트워크 중 하나가 획득한 것이다. 3개월 전(2026년 3월) $1.8B에 인수한 스테이블코인 인프라 기업 BVNK와 통합해 온체인 결제·정산 인프라를 구축할 계획이다. 은행들의 스테이블코인 발행이 확대될수록 Mastercard의 '결제 레일' 포지셔닝이 강해진다. [CoinDesk](https://www.coindesk.com/business/2026/05/27/mastercard-secures-new-york-bitlicense-to-support-stablecoin-and-digital-payment-infrastructure)
 
-1. **OKLO, DOE 잉여 플루토늄 협상 선정** — 미국 에너지부(DOE)가 어제 핵무기급 잉여 플루토늄을 민간 원자로 연료로 전환하는 'Surplus Plutonium Utilization Program' 협상 대상자로 Oklo를 선정했다. 유럽 원전업체 newcleo와 파트너십을 맺어 최대 $2B 투자가 연계됐다. 이와 함께 Exodys Energy, SHINE, Standard Nuclear, Flibe Energy도 선정됐다. 트럼프 행정부가 핵무기급 물질을 민간 에너지 기업에 넘기는 전례 없는 조치를 실행한 것이다. $OKLO +11% 폭등. [BusinessWire](https://www.businesswire.com/news/home/20260526380253/en/Oklo-Selected-by-U.S.-Department-of-Energy-for-Advanced-Negotiations-Under-Surplus-Plutonium-Utilization-Program)
+3. CLARITY Act 상원 전체 표결 임박 — 크립토 규제의 마지막 관문
 
-2. **우라늄 슈퍼사이클, 수요가 앞선다** — 우라늄 현물가는 $85/lb 지지선에서 버티고 있다. 연초 $101.41 고점 대비 하락했지만, Meta가 7.8GW 핵발전 용량 계약에 서명하고 Microsoft가 AI 데이터센터용 원자로 재가동 계약을 맺으면서 장기 수요 기반이 확고히 굳어지는 중이다. Goldman Sachs는 데이터센터 전력 수요가 2030년까지 2배 이상 증가할 것이라 전망. [CarbonCredits](https://carboncredits.com/uranium-prices-today/)
-
-3. **GEV+NRG: AI 전력 인프라 양대 축** — GE Vernova가 Blue Energy Texas와 2.5GW 가스+SMR 하이브리드 플랜트 파트너십을 발표했고(오늘 AM 픽 $GEV 상세 커버), NRG Energy의 T.H. Wharton 상업 운영이 D+4(5/31)로 임박했다. AI 전력 인프라 투자의 실물 건설이 가속화되는 국면. [Yahoo Finance](https://finance.yahoo.com/sectors/energy/articles/ge-vernova-gev-partners-blue-060030036.html)
-
-4. **Riot Platforms + Terrestrial Energy** — 비트코인 채굴 기업 Riot Platforms가 캐나다 원자력 스타트업 Terrestrial Energy와 협업해 SMR(소형모듈원자로) 기반 대규모 데이터센터 개발 프로젝트를 시작한다고 발표. 크립토+원자력+AI 인프라의 삼각 수렴이 현실화되는 첫 사례다. [Riot Platforms](https://www.riotplatforms.com/terrestrial-energy-and-riot-platforms-launch-collaboration-to-develop-nuclear-powered-large-scale-data-center-projects/)
+상원 금융위원회가 지난 5/14 15-9로 통과시킨 디지털자산 시장 구조법(CLARITY Act)이 상원 본회의 표결을 기다리고 있다. 60표 클로처(토론 종결)가 진짜 관문이다. 공화당 전원 + 민주 일부가 필요하다. 법안이 통과되면 $COIN·Circle($CRCL)·$PYPL의 규제 불확실성이 일거에 해소된다. COIN은 현재 CLARITY Act 차익실현 매도 압력으로 $181 선에 있다. 표결 일정이 구체화되면 다시 한번 급등 트리거가 발동될 수 있다. [Senate Banking Committee](https://www.banking.senate.gov/newsroom/majority/chairman-scott-senate-banking-committee-advance-clarity-act-in-historic-bipartisan-vote)
 
 ---
 
-## 어제도 오늘도 이 이름들이 시장을 움직인다 — 와치리스트 기업 뉴스
+기업 뉴스 — 와치리스트 오늘 스토리
 
-**$TSLA 사이버캡이 달린다 — 대량 생산의 첫 줄, 도달했다**
-테슬라가 기가텍사스에서 Cybercab 대량 생산을 공식 개시했다. 2월 첫 유닛 이후 수십 대가 출고 대기 중이고, 제조 부사장은 "역대 가장 효율적인 EV"(165Wh/마일)라고 확인했다. 목표는 주당 수백 대. 무인 FSD 로보택시 네트워크의 물리적 기반이 쌓이는 순간이다. FSD는 이제 리투아니아에 이어 그리스·벨기에까지 유럽 도미노 승인이 임박했다. 테슬라 로보택시(39대, 텍사스 3개 도시)와 웨이모(주간 40만 라이드) 간 격차가 좁혀지는 속도가 올해 주가 방향의 핵심 변수다. [Teslarati](https://www.teslarati.com/tesla-cybercab-gets-crazy-change-mass-production-begins/)
+$TSLA EU에서 달리다
 
-**$GOOGL AI 검색 26년 만의 최대 변환 — 10억 명이 이미 쓴다**
-Google I/O 이후 여운이 계속된다. Sundar Pichai는 "검색의 새로운 시대, 완전히 AI로 재설계된 첫 번째 세대"라고 선언했고, AI Mode 월간 사용자가 10억 명을 돌파했다. 쿼리가 분기마다 2배씩 증가. SEO 기반 광고 업계와 퍼블리셔들에겐 위협이지만, $GOOGL 주주 입장에서는 검색 독점이 AI로 강화되는 신호다. D+13인 6/9에는 배당락도 예정되어 있다. [Google Blog](https://blog.google/products-and-platforms/products/search/search-io-2026/)
+테슬라의 5월 EU 신차 등록이 전년 동기 대비 +46.5%(1만 654대)로 급반등했다. 독일·프랑스·스페인 등 주요 5개국에서 모두 성장을 기록했다. 이란-미국 협상 진전으로 가솔린 가격 하락 기대가 생겼지만, 아이러니하게도 그 이전에 치솟았던 유가가 오히려 EV 수요를 자극했다. FSD는 리투아니아, 그리스, 벨기에로 도미노 승인이 이어지고 있다. 올 하반기 유럽 전면 승인이 완성되면 $TSLA의 다음 스토리는 유럽 로보택시다. 다만 인도 공장 건설 계획 철회 소식은 성장 내러티브의 약한 고리로 남는다.
 
-**$OKLO 11% 폭등 — DOE 플루토늄 협상 선정의 의미**
-와치리스트에서 오늘 가장 큰 움직임은 $OKLO다. DOE 선정 소식이 주가를 $74로 밀어올렸다. BofA Buy $80 목표가 유지 중. 이 협상은 단순한 계약이 아니라 Oklo의 기술 검증이자 연료 공급 전략의 핵심 퍼즐이다. 단, 아직 '협상 선정' 단계 — 최종 계약까지는 수개월이 걸릴 수 있다. [Oklo Newsroom](https://oklo.com/newsroom/news-details/2026/Oklo-Selected-by-U-S--Department-of-Energy-for-Advanced-Negotiations-Under-Surplus-Plutonium-Utilization-Program/default.aspx)
+$GOOGL AI Mode 10억 명
 
-**$NVDA 소강 국면 — $91B Q2 소화 중, MRVL이 섹터 방향 제시**
-$NVDA는 Q1 $81.6B·Q2 $91B 가이던스 발표 이후 $213-215선에서 소화 중이다. 시장이 '좋은 뉴스를 소화하는 국면'인데, 오늘 밤 MRVL 어닝콜이 커스텀 AI칩 사이클의 연속성을 입증하면 반도체 섹터 전체의 재평가 계기가 될 수 있다.
+Google I/O에서 공개된 AI Mode가 출시 직후 10억 명 사용자를 돌파했다. 26년 만에 가장 큰 검색 변화라는 평가가 이어지고 있다. Gemini 3.5 Flash, Android XR 스마트글라스, Googlebook 등 I/O 발표 내용이 점차 시장에 소화되고 있다. 57명의 애널리스트가 전원 Buy 의견이다. 현재 주가 $389는 P/E 29.4배 — AI 확장 시대에 상대적으로 저렴한 밸류에이션이라는 시각이 지배적이다. Blackstone과의 AI 데이터센터 JV 협력도 진행 중이다.
 
-**$COIN 하락 지속 — CLARITY Act 차익실현의 그늘**
-$COIN은 $183선에서 하락세를 이어가고 있다. CLARITY Act 위원회 통과(13R-11D) 이후 시장이 "상원 본회의 60표 클로처"를 더 어렵게 보면서 차익실현 압박이 지속되는 양상. BTC도 $76,800선에서 박스권 흐름.
+$NVDA Q2 $91B 소화 중
+
+NVIDIA는 지난주 Q1 FY27 매출 $81.6B(+85% YoY) 비트와 Q2 $91B 가이던스를 발표했다. 주가는 현재 $215에서 큰 움직임 없이 소화 기간에 들어갔다. KeyBanc 목표가 $300은 유지. 오늘 DELL 실적이 AI 서버 수요 지속을 확인해 주면 $NVDA에도 반사 모멘텀이 생길 수 있다. 6월 4일 배당락일이 예정되어 있다.
+
+$OKLO DOE 선정 이후 숨고르기
+
+OKLO가 DOE 잉여 플루토늄 핵연료 전환 협상 선정되면서 지난주 +11% 급등했다. 오늘은 $68로 차익실현 소강 국면이다. BofA Buy 목표가 $80 유지. 이번 DOE 선정의 의미는 규제 승인 경로가 구체화되고 있다는 것이다 — 연료 공급, 인허가, 상업 운전의 3단계가 하나씩 연결되고 있다.
+
+$COIN CLARITY Act 대기 압력
+
+상원 본회의 표결 일정이 불확실한 상황에서 $COIN은 $181에서 매도 압력을 받고 있다. 차익실현 매도가 지속되고 있지만, 표결 일정이 구체화되면 다시 한 번 급등 가능성이 있다. BTC $75,500 하락도 연동 압력을 가하고 있다.
 
 ---
 
-## 핵무기가 전기로 바뀐다 — 냉전 유산, 2026년에 AI 데이터센터 연료가 되다
+흥미로운 이야기
 
-트럼프 행정부가 핵무기용 잉여 플루토늄을 민간 에너지 기업에 이전하는 결정을 내렸다는 사실 자체가 역사적이다. 냉전 시기 축적된 핵무기 물질이 AI 데이터센터 전력으로 전환되는 경로 — 1950년대 Atoms for Peace의 21세기 버전이다. 단기적으로는 OKLO가 가장 크게 수혜를 받지만, 농축·전환 인프라가 없으면 연료 제조가 불가능하다. 이 파이프라인 전체가 재평가받을 시점이 왔다. [CNN](https://www.cnn.com/2026/05/26/climate/trump-administration-plutonium-deal-energy-companies)
+1. MSTR, 843,738 BTC 보유 — BTC 가격이 수익분기점
+
+Strategy(MicroStrategy)의 BTC 보유량이 843,738개에 달한다. 평균 취득 단가는 약 $75,700. 현재 BTC 가격 $75,500과 거의 같은 레벨이다. 연초 대비 BTC Yield는 +13.3%. 지난 5/18 24,869 BTC를 $2.01B에 추가 매수했다. $1.5B 전환사채를 동시에 상환했다. STRC 우선주 매각으로 자금을 조달하는 방식 — 사실상 BTC 레버리지 기계다. BTC가 $75,700 아래로 내려가면 이 기계가 멈출 수 있다는 것이 최대 리스크다.
+
+2. 코스피 8,229 — 역대 최고치 갱신
+
+코스피가 8,229로 역대 최고치를 경신하고 있다. AI 반도체(SK하이닉스, 삼성전자) 랠리가 이끌고 있다. 이란 협상 진전으로 원자재 가격이 내리고, 원달러 환율도 1,543원으로 소폭 안정됐다. 코스닥은 1,172로 여전히 코스피 대비 약세지만, 5월 들어 역대 최고 행진을 이어가는 코스피가 국내 투자 심리를 받치고 있다. [Seoul Economic Daily](https://en.sedaily.com/finance/2026/05/26/kospi-rallies-while-kosdaq-stalls-as-growth-gap-widens)
