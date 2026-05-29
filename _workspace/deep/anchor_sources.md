@@ -1,36 +1,38 @@
-# 앵커 소스 — 2026-05-28 딥다이브 (엔터프라이즈 AI 에이전트 — 🎤 보이스컴필)
+# 앵커 소스 — 2026-05-29 딥다이브 (ASCO 2026 GLP-1 항암 효과 — 🔍 딥리서치)
 # 14:00 트리거가 우선 활용
 
-## 1차 자료 (오늘 어닝 + 공식 발표)
+## 1차 자료 (오늘 학회 데이터 + 공식 문서)
 
-- [SEC EDGAR] CRM Q1 FY27 8-K — https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRM&type=8-K&dateb=&owner=include&count=10
-  (오늘 AMC 발표 후 수집 필요 — Agentforce 기여 매출 분리가 핵심 체크포인트)
+- [ASCO Post] Abstract 3143 — GLP-1 RAs May Reduce Metastatic Progression in Obesity-Related Cancers (2026-05)
+  https://ascopost.com/news/may-2026/glp-1-ras-may-reduce-metastatic-progression-in-certain-obesity-related-cancers/
+  하이라이트: 10,000명+ 실제 환자 분석, 폐암·유방암·대장암·간암 4개 종에서 전이 38~50% 감소
 
-- [Salesforce 공식] Agentforce Operations 발표 (2026-04-29) — https://www.salesforce.com/news/stories/agentforce-operations-announcement/
-  하이라이트: 사이클 타임 -70%, 수작업 오류 -80%, 백오피스 자동화 케이스(대출 심사 자동화)
+- [Oncology Central] ASCO 2026 GLP-1s reduce risk of obesity-related cancers progressing
+  https://www.oncology-central.com/asco-2026-glp-1s-could-reduce-the-risk-of-some-obesity-related-cancers-progressing/
+  하이라이트: 7개 암 종류 분석, 전이 감소 상세 데이터
 
-- [SEC EDGAR] DELL Q1 FY27 8-K (오늘 발표) — https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DELL&type=8-K&dateb=&owner=include&count=10
-  하이라이트: FY27 AI 서버 매출 $50B 가이던스, Q1 ISG +100% 성장
+- [Managed Healthcare Executive] Cancer patients taking GLP-1s less likely to develop advanced disease
+  https://www.managedhealthcareexecutive.com/view/cancer-patients-taking-glp-1s-less-likely-to-develop-advanced-disease-asco-2026
+  하이라이트: 유방암 10만명 분석, 대장암 vs 아스피린 비교 데이터
 
-## 2차 자료 (인터뷰 / 발언 소스)
+- [ASCO Official News] GLP-1s, Exercise, Colorectal Cancer Treatment Among Topics Highlighted at ASCO 2026
+  https://www.asco.org/about-asco/press-center/news-releases/glp-1s-exercise-colorectal-cancer-treatment-highlighted-2026-asco-gastrointestinal-cancers-symposium
+  하이라이트: 공식 학회 보도자료 — 대장암 예방 36% (vs 아스피린) 데이터
 
-- [Fortune] Marc Benioff — "Salesforce CEO: AI won't kill entry-level jobs, hiring 1,000 grads" (2026-04-27) — https://fortune.com/2026/04/27/salesforce-ceo-marc-benioff-hiring-1000-new-grads-ai-jobs/
-  하이라이트: "AI가 우리 일의 30~50% 처리" + 동시에 1,000명 신입 채용 역설
+## 2차 자료 (기업 IR + SEC)
 
-- [Fortune] Jensen Huang × Bill McDermott — "Agentic AI will rewire a $50 trillion economy" (2026-05-06) — https://fortune.com/2026/05/06/jensen-huang-servicenow-bill-mcdermott-agentic-ai-robos/
-  하이라이트: "operated by robots, managed by more robots", Huang의 $50T 경제 재편 선언
+- [SEC EDGAR] Eli Lilly ($LLY) Q1 2026 10-Q / 8-K
+  https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLY&type=10-Q&dateb=&owner=include&count=5
+  하이라이트: Zepbound/Mounjaro 매출, 항암 파이프라인 R&D 비용, 가이던스
 
-- [Fox Business / National CIO Review] Benioff AI 업무 비율 — https://www.foxbusiness.com/technology/salesforce-boss-reveals-stunning-amount-work-now-handled-ai
-  하이라이트: Salesforce 내부 AI 처리 업무 비율 공개 발언
-
-- [NVIDIA GTC 2026 키노트] Jensen Huang enterprise IT 발언 — https://biztechmagazine.com/article/2026/03/nvidia-gtc-2026-jensen-huang-outlines-ambitious-future-enterprise-it-fueled-demand-ai-inference
-  하이라이트: "This is a renaissance of enterprise IT" / "billions of agents"
-
-- [Salesforce Ben] Benioff AI 에이전트 5대 예측 — https://www.salesforceben.com/5-bold-predictions-marc-benioff-has-about-ai-agents/
-  하이라이트: "limitless digital workforce", Agentforce 2.0 디지털 노동 플랫폼
+- [SEC EDGAR] Novo Nordisk ($NVO) 20-F / Q1 실적
+  https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NVO&type=20-F&dateb=&owner=include&count=5
+  하이라이트: Ozempic/Wegovy 매출, 심혈관·신장 적응증 확대 현황
 
 ## 추가 수집 필요 (14:00 트리거 작업)
-- CRM Q1 FY27 어닝콜 트랜스크립트 (오늘 AMC 발표 후)
-- Gartner 2026/2027 AI Hype Cycle 보고서 (환멸의 계곡 예측)
-- ServiceNow $NOW Q1 2026 어닝콜 트랜스크립트 (AI 에이전트 수익화 비교)
-- 일본/독일 AI 에이전트 도입 현황 (노동 협약, 문화적 저항 데이터)
+
+- NCI (미국 국립암연구소) 비만-암 역학 데이터 — https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity/obesity-fact-sheet
+- IARC 공식 분류: 비만 관련 13개 암 종류 목록 (비만 = 암 위험인자 2위, 흡연 다음)
+- NEJM GLP-1 심혈관 보호 LEADER trial 원문 (2016) — 메커니즘 및 효과 선례로 인용 가능
+- 한미약품 HL-1002 임상 현황 (한국 경구 GLP-1 개발)
+- GLP-1 시장 전망 데이터: 2023→2030 성장 예측 (Goldman Sachs / Evaluate Pharma)
