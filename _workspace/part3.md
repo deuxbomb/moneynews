@@ -1,61 +1,59 @@
-📰 이번 주 마지막 장 — GLP-1이 시장을 이끈다
+---
 
-[증시 포인트] 연준의 딜레마: 인플레는 오르고, 시장은 또 ATH
+📰 코스피 8,476 — 그리고 하늘에서 내린 뉴스들
 
-지난 밤 미국 증시는 다시 사상 최고치를 경신했다. S&P 500 7,564(+0.58%), 나스닥 26,917(+0.91%). 연료는 Snowflake였다. 클라우드 데이터 플랫폼인 SNOW가 어닝 발표 후 무려 36.5% 폭등하며 역대 단일 최고 일간 상승을 기록했다. "AI 수요는 끝나지 않았다"는 신호를 시장이 낚아챘다.
+**유가가 $87로 추락한 날, 한국이 세계를 이겼다**
 
-그런데 같은 날 발표된 4월 PCE는 3.8%(전년비)로 2023년 5월 이후 최고치를 찍었다. 月간으로는 0.4%(예상 0.5% 하회), Core PCE는 연 3.3%(月 0.2%, 예상 0.3% 하회). "예상보다 덜 나쁜" 수치에 시장은 어깨를 으쓱했다. 하지만 현실은 냉정하다 — 트레이더들은 이미 연준의 연내 금리인하 가능성을 사실상 제거했고, 2027년 초 오히려 인상 베팅이 남아있다. "좋은 성장에 끈적이는 인플레"라는 조합이 당분간 지속될 것임을 시장도 안다.
-
-Bitcoin은 다른 이야기를 한다. BTC가 $73,460으로 밀리며 ETF 순유출과 지정학 불안이 합쳐져 크립토 전반에 압박이 들어왔다. 코스피는 ATH 8,229를 유지하며 한국은 여전히 강세 구도. 원달러는 1,551원.
+오늘의 가장 큰 빅픽처부터: 미·이란이 60일 휴전 연장과 호르무즈 해협 '비제한적 통과' MOU에 합의했다. WTI가 $103에서 $87.66으로 내려오고, 브렌트가 $92로 밀렸다. 이 소식이 한국 시간 오전에 전해지면서 코스피가 +3.55%로 폭발, 코스닥만이 바이오 소형주 차익실현에 -2.68%로 역방향을 탔다. [Fortune](https://fortune.com/2026/05/29/japanese-korean-markets-hit-record-highs-us-iran-war/) [CNBC](https://www.cnbc.com/2026/05/29/asia-markets-today-live-updates-nikkei-225-hang-seng-index-kospi-nifty-50-csi-300.html) 단, 분석가들의 경고도 있다: 이란 우라늄 비축량과 통행세 협상이 아직 미완이라 "테딘티브 딜"은 1~2개월 내 와해될 수도 있다. 석유 공급 정상화까지는 3~6개월이 필요하다는 Sparta의 추산도 나왔다.
 
 ---
 
-[헬스케어/바이오 주요 뉴스] 오늘의 테마 클러스터
+🔬 ASCO 2026 — 오늘부터 암 치료의 다음 챕터가 열린다
 
-1. **LLY vs. CVS: 드디어 모든 문이 열렸다** [Yahoo Finance](https://finance.yahoo.com/sectors/healthcare/articles/cvs-adds-zepbound-back-preferred-170303720.html) · [UPI](https://www.upi.com/Top_News/US/2026/05/28/cvs-to-cover-foundayo-zepbound-obesity-drugs/8181779988280/)
+**1. GLP-1이 항암제가 되는 날**
 
-어젯밤 CVS Caremark가 조용하지만 역사적인 발표를 했다. 경구 비만치료제 Foundayo(orforglipron)를 6월 1일부터 커버리지 개시, Zepbound(tirzepatide)를 10월 1일부터 표준 처방목록 최우선으로 복귀시킨다는 것. 환자 본인 부담금은 월 $25로, 경쟁 Novo Nordisk 약과 동일하다.
+오늘 ASCO에서 발표된 실사용 데이터(12,112명 성향매칭 분석)는 GLP-1 복용군이 폐·유방·대장·간암 4개 암종에서 4기 전이 확률을 38~50% 낮춘다는 결과를 보여줬다. 대장암에선 아스피린 대비 36% 예방 우위. 이 데이터는 오전 머뉴 딥다이브에서 자세히 다뤘다. 오늘 Lilly($LLY)가 ASCO double-plenary의 영예를 차지했다는 사실만 추가한다. [ASCO](https://www.asco.org/about-asco/press-center/glp-may-reduce-metastatic-progression) · [AJMC](https://www.ajmc.com/view/glp-1s-more-effective-at-preventing-colorectal-cancer-than-aspirin)
 
-배경이 중요하다. 작년 CVS가 Zepbound를 처방목록에서 제외했을 때, LLY 주가는 크게 흔들렸다. 이제 CVS·Express Scripts·UnitedHealth Group의 PBM 세 곳이 모두 LLY 비만 포트폴리오를 품었다. 비만치료제 전쟁의 유통 장벽이 사라졌다. 처방 가능한 인구가 하룻밤 사이 수백만 명 늘어난 것과 같다. BofA는 즉각 LLY 목표주가를 $1,133에서 $1,251로 올렸다.
+**2. BioNTech — mRNA 암백신 시대의 서막**
 
-앞으로의 전쟁은 처방 접근성이 아닌 '효과와 부작용 프로파일'에서 결판난다. 경구 투여 편의성(Foundayo)이냐, 최강 체중감량 효과(Zepbound)냐, 아니면 Novo의 검증된 트랙레코드냐.
+$BNTX가 ASCO에서 펌이타밍(pumitamig) NSCLC 1차 치료 Phase 2 데이터와 고티스토바트(gotistobart) 백금내성 난소암 데이터를 공개했다. 세 번째 글로벌 데이터셋에서 일관된 항종양 활성 확인 — Phase 3 피봇의 근거가 마련됐다. ADC 포트폴리오(BNT326 HER3·BNT324 B7H3·HER2 ADC)도 추가 발표. 25개 이상 Phase 2/3 트라이얼 데이터가 6/2까지 쏟아진다. [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/22/3299948/0/en/BioNTech-to-Showcase-Progress-Across-Late-Stage-Oncology-Pipeline-at-the-2026-ASCO-Annual-Meeting.html)
 
-2. **FDA, GLP-1 계열 간 부전 보고서 검토 중** [TheStreet](https://www.thestreet.com/investing/stocks/eli-lilly-stock-swings-after-fda-liver-failure-report-for-glp-1-drug)
+**3. Gilead — 트로델비 ASCENT-03/04 구두발표**
 
-LLY 주가가 오늘 좋은 소식에도 일중 스윙이 있었던 이유. FDA가 GLP-1 계열 약물의 간 부전 관련 사례 보고를 검토 중이라는 소식이 나왔다. 임상 시험에서 인과관계가 확인된 것은 아니며, 업계는 "관찰 데이터 기반 검토"로 규정하고 있다. 하지만 GLP-1 시장 전체의 구조적 리스크로 관리할 필요가 있는 사안이다.
+$GILD가 ASCO에서 트로델비(Trodelvy) 1차 전이성 삼중음성유방암(mTNBC) 데이터를 경구발표한다. ASCENT-04(트로델비+키트루다 병용)와 ASCENT-03(단독) 분석 모두 포함. Kite CAR-T 혈액암 데이터도 추가. 총 25개 초록, 6개 경구발표. Gilead·Kite의 ADC+CAR-T 투트랙 전략의 임상적 근거가 쌓이고 있다. [BusinessWire](https://www.businesswire.com/news/home/20260520344508/en/New-ASCO-and-EHA-2026-Data-Demonstrate-Gilead-and-Kites-Momentum-Across-Antibody-Drug-Conjugates-and-Cell-Therapy-in-Oncology)
 
-3. **Regeneron Dupixent, 소아 두드러기까지 품다** [SimplyWallSt](https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-regn/regeneron-pharmaceuticals/news/does-regenerons-gene-therapy-milestone-and-buyback-shift-the)
+**4. FDA VRBPAC: COVID 백신 XFG 성분 권고 (어제)**
 
-REGN의 Dupixent가 2~11세 만성 자발성 두드러기(CSU) 소아 적응증 FDA 승인을 받았다. 동시에 희귀 청각 손실 유전자치료 Otarmeni도 가속 승인. 파이프라인은 멈추지 않았다. 주가는 RSI 25.62 극단 과매도 구간이지만, 실적(Q1 매출 $3.61B +19% YoY)과 사업 모멘텀은 건재하다. 6월 4일 $0.94 배당 지급이 D+6에 기다린다.
+FDA 자문위원회(VRBPAC)가 5월 28일 9:1 찬성으로 2026-27 COVID 백신을 XFG 변이 타겟으로 업데이트하도록 권고했다. Moderna($MRNA)는 "8월 중순까지 공급 가능"이라고 확인. FDA 공식 결정은 통상 위원회 권고 후 수 주 이내. mRNA 플랫폼의 적응력이 다시 한번 검증됐다. [PharmExec](https://www.pharmexec.com/view/fda-advisory-panel-vote-composition-covid-19-vaccines-2026-2027)
 
-4. **Vertex JOURNAVX, 첫 100만 건 처방을 돌파했다** [Vertex Pharmaceuticals Newsroom](https://investors.vrtx.com/news-releases/news-release-details/vertex-announces-fda-approval-journavxtm-suzetrigine-first-class)
+**5. Pfizer·Summit·Tempus도 ASCO에서 판을 흔든다**
 
-비오피오이드 통증 치료제 JOURNAVX(suzetrigine)가 2025년 3월 출시 후 누적 100만 건 이상의 처방을 기록했다. Q1 2026에만 35만 건 이상 처방, 매출 $29M 달성. Health Canada는 5월 21일 캐나다 NDS(신약 신청) 접수를 확인했다. VRTX는 糖尿病성 신경병증(DPN) 대상 Phase 3 두 건의 등록도 올해 내 완료 예정이다.
-
----
-
-[기업 뉴스] 관심 종목 오늘의 이야기
-
-$TSLA 자율주행의 유럽 도미노, 벨기에에서 시동이 걸렸다
-
-Tesla가 FSD를 벨기에 플란데런 지역에서 테스트할 수 있는 규제 승인을 받았다. 리투아니아, 그리스에 이어 유럽에서 세 번째다. '자율주행 = 미국 전용'이라는 편견이 흔들리고 있다. SpaceX IPO 로드쇼(6월 4~8일, 가격 결정 6월 11일)가 진행되면서 TSLA-SpaceX 합병설도 계속 불거지고 있지만, 공식 부인 입장은 변함이 없다.
-
-$NVDA Q1 $81.6B+Q2 $91B 소화 기간
-
-NVDA는 Q2 $91B 가이던스 발표 9일이 지났다. 주가 $210로 어닝 이후 소강 상태. Snowflake의 36.5% 폭등은 AI 수요 지속을 간접 확인했다. 다음 촉매는 6월 4일 배당락일, 그리고 6월 초 BofA 글로벌 테크 컨퍼런스.
-
-$GOOGL AI Mode의 끝은 어디인가
-
-AI Mode 사용자가 10억 명을 넘어섰다. Google I/O의 여진이 계속된다. $387에서 EU DMA 과징금 위협이라는 배경 소음이 있지만 구조적 방향은 상방.
-
-$COIN CLARITY Act 대기 모드
-
-BTC $73K 하락 속에 COIN도 $174로 약세. 상원 전체 표결이 임박했다는 보도가 이어지지만 확정 날짜가 없다. 표결 통과 시 COIN은 단기 최대 수혜. 리스크는 표결 지연.
+Pfizer는 40개 이상의 초록을 제출, 3개 late-breaking session 포함. Summit Therapeutics는 이보네스시맙(ivonescimab) BLA가 FDA에 접수(PDUFA 11월 14일)됐다. Tempus AI(TEM)는 오늘 ASCO에서 첫 Investor Day를 개최 — 임상 AI 데이터 플랫폼의 상업화 비전을 공개했다. [Pfizer](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-showcases-oncology-innovation-and-next-generation)
 
 ---
 
-[흥미로운 이야기] 주말 읽을거리
+💼 기업 뉴스
 
-1. **SpaceX IPO 카운트다운** — 6월 4일 로드쇼 시작, 6월 11일 가격 결정, 6월 12일 상장. 기업가치 $1.75T+. 역대 최대 IPO가 2주 안에 온다. SPCX(SpaceX) 첫 날 수익률이 시장 심리계의 바로미터가 될 것. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-28-2026)
+**$NVDA — 5월의 영웅, 6월의 새 도전**
 
-2. **Snowflake 36.5% — AI 클라우드의 재발견** — SNOW 분기 실적이 예상을 대폭 상회하며 역대 최고 단일 상승을 기록했다. "데이터 플랫폼 수요는 GPU만큼 뜨겁다"는 메시지를 다시 한번 확인. Databricks IPO의 기대감도 함께 올라갔다.
+Q1 FY2027 실적: 매출 $81.62B (컨센 $79.2B 대비 +3%), EPS $1.87 (컨센 $1.78 대비 +5.1%). ATH는 5월 15일의 $236.92였으나 현재 $214.25로 조정 중. $80B 자사주매입 + 주당 $0.25 배당 인상 발표. 차세대 플래그십 칩 Vera Rubin에 대한 기대감이 하반기 강세론을 유지시키는 구심점. 중국 규제 리스크와 AMD·화웨이 경쟁은 상존. [FX Leaders](https://www.fxleaders.com/news/2026/05/29/nvidia-nvda-stock-hits-236-high-in-may-2026-now-at-214-ai-demand-drives-growth/)
+
+**$TSLA — H2 2026 로드맵, 시장이 믿기 시작하다**
+
+Q1 매출 $22.4B (+16% YoY)로 반등. 2026 Capex 가이던스 $25B+로 상향. Cybercab·Tesla Semi·Megapack 3의 볼륨 생산 라인 설치 중이고, Optimus 1세대 라인 셋업도 완료됐다. 주가 $442.10으로 연간 -1%라는 부진이 아이러니한 이유 — 성장 내러티브가 워낙 커서 실적이 항상 기대 이하가 되는 구조. 오늘 밤 ASCO 이후 차세대 헬스케어 AI로서의 테슬라(Optimus 의료용) 논거가 다시 등장할 가능성도 있다. [Motley Fool](https://www.fool.com/investing/2026/05/29/tesla-stock-could-soar-in-the-second-half-of-2026/)
+
+**$COIN — CLARITY Act, 여름이 데드라인**
+
+Coinbase CEO Brian Armstrong이 "CLARITY Act는 미국 금융 시스템을 재편할 법안"이라고 공개 지지 발언을 했다. 상원 Banking Committee의 Tim Scott 의장은 여름 플로어 표결을 목표로 마크업을 완료했다. 99%의 합의가 이뤄진 상태 — 마지막 쟁점은 스테이블코인 이자 지급 여부. Coinbase는 Standard Chartered와 은행 연결성 파트너십도 확대 중. $COIN $182.35. [Fox Business](https://www.foxbusiness.com/media/coinbase-ceo-says-crypto-bill-could-transform-us-financial-system-senate-vote-approaches)
+
+**SpaceX IPO — D-13 카운트다운**
+
+S-1 공시 완료. 로드쇼 시작 6월 4일~8일(소스마다 상이), 공모가 결정 6월 11일, 거래 시작 6월 12일(예정). 나스닥 티커 SPCX. 공모 규모 약 $75B, 밸류에이션 $1.75T. EV/Sales 109~116배는 '정상적' 밸류에이션이 아니지만, 위성 인터넷(Starlink)+재사용 로켓+화성 옵션을 가진 회사가 '정상적'이지도 않다. 머스크 의결권 85.1% 유지 — 투자하되 통제권은 없다는 사실을 확인하고 진입할 것. [heygotrade](https://www.heygotrade.com/en/blog/spacex-ipo-spcx-explained-retail-investors-june-11/)
+
+---
+
+🌐 오늘의 흥미로운 이야기
+
+1. **5월의 정산**: S&P +5%, 나스닥 +8% — 4월 저점에서 무려 10%+의 반등을 마무리하는 5월 마지막 날이다. 두려움이 탐욕으로 전환된 속도를 기억하라. 6월은 SpaceX IPO, FOMC(6/17~18), Q2 어닝 시즌 예열이 기다린다. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-29-2026)
+
+2. **KOSPI ATH 해부**: 코스피 8,476은 삼성전자+SK하이닉스 시총 합산 $1.46T 돌파가 기여했다. HBM(고대역폭메모리) 수요가 ASIC 슈퍼사이클(이번 주 딥다이브에서 다뤘다)의 픽앤샤블로 재조명되는 순간. 그런데 코스닥 -2.68%는 '소형 바이오 거품 꺼지기'의 신호탄일 수 있다 — ASCO 데이터 발표가 있는 이번 주, 기대와 실망이 교차하는 소형주 바이오의 전형적인 패턴. [en.sedaily.com](https://en.sedaily.com/finance/2026/05/29/kospi-closes-up-29086-points-or-355-percent-at-847615)
