@@ -163,3 +163,5 @@ $LLY나 $NVO가 GLP-1의 암 예방 또는 전이 억제 임상(Phase 2 RCT)을 
 - GrandViewResearch — GLP-1 market forecast: [GrandViewResearch](https://www.grandviewresearch.com/industry-analysis/glp-1-receptor-agonist-market)
 - 메디데일리 — 한국 GLP-1 급여: [메디데일리](https://www.dailymedi.com/news/news_view.php?wr_id=929645)
 - KBR — 한미약품 비만약 개발: [KBR](https://www.koreabiomed.com/news/articleView.html?idxno=29519)
+
+<!-- slack_trigger: 2026-05-29 -->
