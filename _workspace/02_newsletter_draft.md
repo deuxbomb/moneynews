@@ -19,10 +19,10 @@ S&P 500이 금요일 7,563포인트로 마감하며 2023년 이후 최장인 **9
 💰 관심 종목 현황 (5월 29일 종가)
 $TSLA $435.79 (-1.43%) 목표가 $350 | 6일 랠리 후 차익실현. H2 FSD+Cybercab 기대감은 여전. SpaceX 합병설 재점화
 $GOOGL ~$388 (-0.5%) 목표가 $220 | AI Mode 10억명 돌파. ATH $402에서 -3.5%, AI 인프라 재평가 구간
-$OKLO $68.70 (+범위) 목표가 $80 | DOE 잉여 플루토늄 변환 협상 선정 모멘텀 지속. BofA Buy 유지
-$NVDA $216.24 (+소강) 목표가 $300 | Q2 $91B 가이던스 소화 중. 다음 카탈리스트는 GTC 발표 일정
-$COIN ~$182.00 (±) 목표가 $350 | CLARITY Act 통과 확률 46%→64% 급등. 비패시브 활동 기반 수익 허용 타협안 합의
-$NFLX $85.97 (-소폭) 목표가 $1,100 | $25B 자사주매입 진행 중. NFL 계약 + 월드컵 중계 잠재력
+$OKLO $68.70 (보합) 목표가 $80 | DOE 잉여 플루토늄 변환 협상 선정 모멘텀 지속. BofA Buy 유지
+$NVDA $216.24 (소강) 목표가 $300 | Q2 $91B 가이던스 소화 중. 다음 카탈리스트는 GTC 발표 일정
+$COIN ~$182.00 (보합) 목표가 $350 | CLARITY Act 통과 확률 46%→64% 급등. 비패시브 활동 기반 수익 허용 타협안 합의
+$NFLX $85.97 (소폭 하락) 목표가 $1,100 | $25B 자사주매입 진행 중. NFL 계약 + 월드컵 중계 잠재력
 $OHI ~$48.50 (+0.5%) 목표가 $54 | 52주 고점 $49.14에 근접. UBS Buy PT $54. 분기 배당 $0.67 지급 중
 $SPY ~$756 (+0.6%) | S&P 500 9주 연속 상승. 7,600 돌파 여부가 다음 심리선
 $QQQ ~$739 (+0.9%) | 나스닥 5월 +8%, 기술 섹터 주도권 건재
@@ -31,6 +31,7 @@ $QQQ ~$739 (+0.9%) | 나스닥 5월 +8%, 기술 섹터 주도권 건재
 - **LULU D+5 어닝 (6월 4일 AMC)**: RSI 24.22 극단 과매도 + 칩 윌슨 화해 + ±9.4% 스윙 예상. 역발상 투자의 교과서적 세팅
 - **FIFA 월드컵 D-12**: Fox Corp, Nike, 스포츠웨어·음식·숙박 체인에 구조적 소비 모멘텀 점화
 - **WTI $87**: 이란 휴전 연장 → 에너지 비용 하락 → 소비 여력 확대 시나리오
+
 🔥 오늘의 픽 — 소비재/미디어/엔터 (토요일 테마)
 
 🌡️ 시장 온도
@@ -78,6 +79,7 @@ RSI: 저점권 | P/S: 5.2x | ARK 보유: 307K주+ | 목표가: DA Davidson $45 (
 ---
 
 ⚠️ 투자 조언이 아닌 데이터 기반 분석입니다.
+
 📰 이번 주 마지막 체크 — 9주 랠리의 엔딩 크레딧
 
 S&P 500이 7,563으로 주간을 마감했다. 9주 연속 상승, 2023년 이후 최장 기록이다. 나스닥은 5월 한 달에만 +8%를 가져갔다. 다우는 50,668로 역대 최고치 권역을 지켰다. 이 모든 랠리의 연료는 두 가지였다: 이란 리스크 완화(WTI $87 하락 → 인플레 압력 경감)와 NVDA가 증명한 AI 수요 사이클 건재. 이제 시장은 다음 질문을 한다 — 이 랠리를 어떤 섹터가 이어받을 것인가. 소비재가 손을 들기 시작했다. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-29-2026)
@@ -100,58 +102,50 @@ Take-Two CEO Strauss Zelnick이 GTA6의 November 19, 2026 출시일을 재확인
 🏢 기업 뉴스
 
 **$TSLA "6일 랠리가 멈췄지만, H2는 아직 시작도 안 했다"**
-Tesla 주가는 금요일 6일 연속 상승세를 멈추고 -1.43% 하락, $435.79에 마감했다. 차익 실현이 이유였다. 하지만 Motley Fool은 같은 날 "Tesla 주가가 하반기 2026에 급등할 수 있다"는 기고를 내놨다. 핵심 논거는 세 가지: ① FSD의 유럽 도미노 승인(네덜란드 시작, EU 전역 확대 중) ② Cybercab 대량생산 공식 개시 ③ SpaceX IPO 이후 Musk의 Tesla 집중도 복귀. 하지만 Q1에서 드러난 capex $25B+ 계획(기존 가이던스 $20B 초과)은 투자자 우려의 핵심으로 남아 있다. SpaceX 합병설은 $3.4T 제국 시나리오로 다시 소환됐다. [Motley Fool](https://www.fool.com/investing/2026/05/29/tesla-stock-could-soar-in-the-second-half-of-2026/)
+Tesla 주가는 금요일 6일 연속 상승세를 멈추고 -1.43% 하락, $435.79에 마감했다. 차익 실현이 이유였다. Motley Fool은 같은 날 "Tesla 주가가 하반기 2026에 급등할 수 있다"는 기고를 내놨다. 핵심 논거: ① FSD 유럽 도미노 승인(네덜란드→EU 전역 확대 중) ② Cybercab 대량생산 공식 개시 ③ SpaceX IPO 이후 Musk의 Tesla 집중도 복귀. 다만 Q1 capex $25B+ 계획(가이던스 $20B 초과)은 여전히 투자자 우려다. SpaceX 합병설은 $3.4T 제국 시나리오로 재점화됐다. [Motley Fool](https://www.fool.com/investing/2026/05/29/tesla-stock-could-soar-in-the-second-half-of-2026/)
 
 **$GOOGL "AI가 10억을 건드렸다 — 이제 수익화가 문제"**
-Alphabet은 Google AI Mode 월간 활성 사용자 10억 명 돌파를 공식 발표했다. AI 검색 26년 역사상 최대 구조 변화다. Gemini 3.5 Flash의 압도적 비용 효율이 플랫폼 전체에 확산 중. 주가는 ATH $402(5월 13일) 대비 약 -3% 구간에서 소화 중. AI 사용 확대가 광고 수익 잠식 vs 강화 중 어느 쪽인지 — Q2 어닝에서 결판난다. [Google Finance](https://www.google.com/finance/)
+Alphabet이 Google AI Mode 월간 활성 사용자 10억 명 돌파를 공식 발표했다. AI 검색 26년 역사상 최대 구조 변화다. 주가는 ATH $402(5월 13일) 대비 약 -3% 구간에서 소화 중. AI 사용 확대가 광고 수익 잠식인지 강화인지 — Q2 어닝에서 결판난다.
 
 **$OKLO "DOE가 선택했다 — 다음 단계는 계약서"**
-Oklo가 DOE 잉여 플루토늄 변환 프로그램 협상 대상자로 선정된 모멘텀이 지속되고 있다. 주가는 $68.70 수준에서 지지선을 형성했다. BofA는 Buy PT $80을 유지 중. 다음 촉매는 DOE와의 공식 계약 체결 발표. 선정에서 계약까지의 시간이 실질적 매수 적기다.
+Oklo가 DOE 잉여 플루토늄 변환 프로그램 협상 대상자로 선정된 모멘텀이 지속 중이다. 주가 $68.70에서 지지선 형성. BofA Buy PT $80 유지. 선정에서 계약까지가 실질적 매수 적기다.
 
 **$COIN "CLARITY Act 통과 확률이 46%에서 64%로 뛰었다"**
-상원에서 스테이블코인 이자 수익 타협안이 합의됐다: 수동적(idle) 이자는 금지, 거래 기반 활동 수익은 허용. Coinbase는 즉각 이 타협을 지지했다. Polymarket의 CLARITY Act 통과 확률은 46%에서 64%로 점프했다. 법안이 통과되면 Coinbase는 명확한 규제 프레임 속에서 스테이블코인 수익 모델을 공식화할 수 있다. 주가는 ~$182에서 법안 표결을 대기 중. [DL News](https://www.dlnews.com/articles/regulation/clarity-act-odds-surge-on-stablecoin-compromise/)
+상원에서 스테이블코인 이자 타협안이 합의됐다: 수동적 이자는 금지, 거래 기반 활동 수익은 허용. Coinbase가 즉각 지지했다. Polymarket 통과 확률 46%→64% 점프. 주가 ~$182에서 표결 대기 중. [DL News](https://www.dlnews.com/articles/regulation/clarity-act-odds-surge-on-stablecoin-compromise/)
 
 ---
 
 🔮 흥미로운 이야기
 
-1. **스타벅스의 조용한 반전** — CEO Brian Niccol의 구원 임무가 숫자로 증명됐다. Q2 FY2026: 매출 $9.53B(+9%) 사상 최대, 동일매장매출 +6.2%, GAAP EPS $0.45(+32%). 1년 전만 해도 "망해가는 커피 왕국"이었던 회사가 가이던스를 5%+ 성장으로 올렸다. 주가는 $98.83. 다음 어닝은 8월 4일. 이 모멘텀이 지속되는지가 관건이다. [Simply Wall St](https://simplywall.st/stocks/us/consumer-services/nasdaq-sbux/starbucks/news/why-starbucks-sbux-is-up-79-after-earnings-beat-and-11-billi)
-2. **Abercrombie & Fitch +13%** — Q1 FY2026 어닝에서 예상치를 대폭 상회하며 단 하루에 13% 급등했다. Z세대가 소비를 멈추지 않았다는 증거. 소비 양극화 속에서 프리미엄 캐주얼의 복귀가 현실로 확인됐다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-may-29-132100817.html)
+1. **스타벅스의 조용한 반전** — CEO Brian Niccol의 구원 임무가 숫자로 증명됐다. Q2 FY2026: 매출 $9.53B(+9%) 사상 최대, 동일매장매출 +6.2%, GAAP EPS $0.45(+32%). 가이던스 5%+ 성장으로 상향. 주가 $98.83. [Simply Wall St](https://simplywall.st/stocks/us/consumer-services/nasdaq-sbux/starbucks/news/why-starbucks-sbux-is-up-79-after-earnings-beat-and-11-billi)
+2. **Abercrombie & Fitch +13%** — Q1 FY2026 어닝에서 예상치를 대폭 상회하며 단 하루에 13% 급등했다. Z세대가 소비를 멈추지 않았다는 증거. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-may-29-132100817.html)
+
 🔬 딥다이브 포인트 — 소비의 두 얼굴: 지갑은 열렸지만, 마음은 닫혔다
 
 **실적 캘린더 (다음 2주)**
-- 2026-06-02 (월): CRM (Salesforce) Q1 FY27 — AI 에이전트 성장 확인
-- 2026-06-03 (화): CHPT (ChargePoint) Q1 FY27 — EV 충전 수요 점검
-- 2026-06-04 (수): **LULU Q1 FY26 AMC** — 소비 어닝 선봉장 ★, CRM Q1 결과 시장 반응
-- 2026-06-05 (목): 미국 실업수당 주간 데이터
+- 2026-06-02 (월): CRM Q1 FY27 — AI 에이전트 성장 확인
+- 2026-06-04 (수): **LULU Q1 FY26 AMC** ★
 - 2026-06-08 (일): **RBLX 성인 수익화 정책 발효** ★
 - 2026-06-11 (수): FIFA 월드컵 2026 개막 ★★
 
 **소비 데이터 vs 소비 심리의 간극**
-BofA 카드 데이터(5월 23일 기준 주간): 전년 대비 +5.7%로 두 주 연속 상승. 지갑은 열려 있다. 하지만 Conference Board 소비자신뢰지수는 93.1로 하락(-0.7), Deloitte 조사에서 소비자의 2/3가 "지출을 줄이고 있다"고 답했다. 이 역설이 현재 소비 섹터 투자의 핵심이다: 지출은 늘지만 심리는 위축 → 고품질 브랜드(LULU, SBUX)와 가성비(ANF, COST)의 양극화가 심화된다.
+BofA 카드 데이터(5월 23일 기준 주간): +5.7% YoY 두 주 연속 상승. 지갑은 열려 있다. 하지만 Conference Board 소비자신뢰지수 93.1로 하락, Deloitte 조사에서 소비자의 2/3가 "지출을 줄이고 있다"고 답했다. 지출은 늘지만 심리는 위축 → 고품질 브랜드(LULU, SBUX)와 가성비(ANF)의 양극화가 심화된다.
 
-**애널리스트 컨센서스 스냅샷**
-- $LULU: 컨센서스 Buy (52개 중 다수), PT $185~189. 현재 $130 → +42~46% 업사이드
-- $RBLX: Mixed (중립 포함). DA Davidson PT $45, Piper Sandler $45. 성인화 전략 성패가 리레이팅 키
-- $SBUX: 최근 Jefferies Hold($92)로 보수적. 그러나 Q2 $98.83 종가는 PT 상회 → 상향 조정 여지
-
-**옵션/수급 신호**
-- $LULU 6월 만기 콜옵션 급증: D+5 어닝 앞두고 $140~150 스트라이크에 콜 포지션 몰림
-- $RBLX: ARK Invest 5월 16일 307,000주 매수 확인. 공시 기준 ARKW 내 비중 유지
-- $TSLA: ARKK가 최근 Bearish → Bullish로 전환 흐름 (5월 21일 $45.55M 매수)
+**애널리스트 컨센서스**
+- $LULU: 컨센서스 Buy, PT $185~189 (+42~46%)
+- $RBLX: Mixed, DA Davidson PT $45. 성인화 전략 성패가 리레이팅 키
+- $SBUX: Jefferies Hold $92 보수적, but Q2 $98.83이 PT 상회 → 상향 조정 여지
 
 🏦 스마트머니 동향
 
 **ARK Invest (5월 29일)**
-- ARKX: RKLB 13,668주 매도 — 골든돔 랠리 차익 실현으로 해석
-- ARKG: TWST 4,418주 매도 — 바이오 섹터 포지션 축소
-- ARKW: AMD 유지 (변동 없음)
-- ARKF: Shopify 포지션 유지
+- ARKX: RKLB 13,668주 매도 (골든돔 랠리 차익 실현)
+- ARKG: TWST 4,418주 매도 (바이오 포지션 축소)
+- ARKW: AMD 유지
 
 **헤지펀드 주목 포인트**
-Goldman Sachs 집계에 따르면 헤지펀드의 반도체 비중이 10%로 역대 최고에 달했다. 동시에 소비재 비중은 상대적으로 낮다 — 이는 6월 어닝 서프라이즈 발생 시 rotation이 빠르게 일어날 수 있는 구조다.
+Goldman Sachs 집계 헤지펀드 반도체 비중 10% 역대최고. 동시에 소비재 비중은 상대적 저점 — 6월 어닝 서프라이즈 시 빠른 rotation 가능 구조.
 
-FIFA 월드컵 2026을 앞두고 Gabelli는 "North American World Cup 수혜 바스켓"을 제시했다: FOX(방영권), NKE(공식 스포츠웨어), WING(맥주+날개 조합), ABNB(호텔 대안). 기관들의 사전 포지셔닝이 D-12부터 활성화될 수 있다.
+FIFA 월드컵 앞두고 Gabelli "World Cup 수혜 바스켓" 제시: FOX(방영권), NKE(공식 스포츠웨어), WING(맥주+날개), ABNB(호텔 대안). 기관 사전 포지셔닝이 D-12부터 활성화될 수 있다. [Gabelli](https://gabelli.com/research/beyond-the-pitch-2026-fifa-world-cup-overview-investment-opportunities/)
 
-**내부자 거래 (5월 26~29일 기간)**
-공개된 주요 거래: 5월 16~30일 기간 소비재 섹터에서 총 47건의 내부자 매수가 공시됨. AMC Entertainment CEO의 250K주 직접 매수(5/23)는 이미 4월 말 이후 누적 지분 확보 추세의 일환이다. LULU의 내부자 거래는 현재 공시 대기 중 — 칩 윌슨 화해 직후 이사진 변경에 따른 신규 포지션이 확인되면 추가 모멘텀.
+<!-- slack_trigger: 2026-05-30 -->
