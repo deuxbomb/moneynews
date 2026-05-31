@@ -1,39 +1,43 @@
-📰 이번 주 마지막 체크 — 9주 랠리의 엔딩 크레딧
+---
 
-S&P 500이 7,563으로 주간을 마감했다. 9주 연속 상승, 2023년 이후 최장 기록이다. 나스닥은 5월 한 달에만 +8%를 가져갔다. 다우는 50,668로 역대 최고치 권역을 지켰다. 이 모든 랠리의 연료는 두 가지였다: 이란 리스크 완화(WTI $87 하락 → 인플레 압력 경감)와 NVDA가 증명한 AI 수요 사이클 건재. 이제 시장은 다음 질문을 한다 — 이 랠리를 어떤 섹터가 이어받을 것인가. 소비재가 손을 들기 시작했다. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-29-2026)
+🏭 방산·인프라가 6월의 스케줄을 지배한다
+
+이번 주 핵심 이벤트는 목요일(6/4) HASC FY27 NDAA 마크업이다. 하원 군사위원회가 $1.15조 FY2027 국방수권법안을 마크업하는 마라톤 세션으로, F-35·F-15EX·아얼리버크급 구축함·PAC-3·AMRAAM·토마호크 등 핵심 무기체계에 대한 다년 조달 권한을 의결할 예정이다. 이 법안 통과 시 LMT($F-35, $F-15EX), RTX($PAC-3, $AMRAAM, $토마호크), HII($구축함) 수주 가시성이 대폭 확장된다. HASC 위원장 마이크 로저스는 "조선소, 항공기 공장, 탄약 생산의 용량 자체가 존재하지 않는다"고 직접 진술했다 — 다년계약이 민간 투자를 끌어당기는 메커니즘이 이 법안의 핵심이다. [Breaking Defense](https://breakingdefense.com/2026/05/hasc-1-15t-defense-policy-bill-takes-aim-at-industrial-base-challenges/)
 
 ---
 
-⚽ 소비재/미디어/엔터: 월드컵·GTA6·어닝이 삼각편대를 이룬다
+🌍 유럽 방산은 소화기 — 미국 방산은 반대 방향
 
-1. **FIFA 월드컵 2026, D-12 — $10.5B의 소비 폭탄이 온다**
-6월 11일, 32년 만에 미국이 월드컵 개최국이 된다. 104경기가 미국·캐나다·멕시코를 달군다. Ampere Analytics는 이 대회의 방송·광고 수익을 $6B 이상으로 추산한다. Fox Corp은 영어권 104경기 전권과 40경기 프라임타임 편성권을 보유한다. 광고 시장엔 $10.5B의 집중 투자가 예정됐다. Goldman Sachs는 Nike·Adidas에 1~3%의 매출 업리프트를 전망하고, Academy Sports와 Dick's Sporting Goods에도 1~2%p 컴프 상승을 기대한다. 맥주 소비는 전세계 기준 6월~7월 568M 리터 추가 예상. STZ·KO·PEP·MCD·WING·EAT 등이 수혜 리스트에 올랐다. [Gabelli](https://gabelli.com/research/beyond-the-pitch-2026-fifa-world-cup-overview-investment-opportunities/)
-
-2. **GTA6 11월 19일 확정 — D+173, 세 번째 트레일러가 D+30에 온다**
-Take-Two CEO Strauss Zelnick이 GTA6의 November 19, 2026 출시일을 재확인했다. 더 중요한 것은 타임라인이다: 세 번째 트레일러가 **6월 25일~7월 8일** 사이에 공개되고, 프리오더는 그 즉시 열린다. FY27 Net Bookings 가이던스는 $8~8.2B(전년 대비 +20%) — 이 숫자에 GTA6가 고스란히 반영됐다. 콘솔 게임 사상 최대 흥행이 예고된 이 타이틀은 소비재/엔터 섹터 전반의 마케팅 지출을 끌어올릴 촉매제가 된다. [Windows Report](https://windowsreport.com/gta-6-release-date-reaffirmed-for-november-19-2026-by-take-two-ceo/)
-
-3. **루루레몬 칩 윌슨 화해 — 경영 오버행 제거, 이제 실적이 답한다**
-5개월간 이어진 창업자-현 경영진 간 위임장 전쟁이 끝났다. 칩 윌슨이 proxy contest를 철회하고 윌슨이 지명한 이사 2명이 이사회에 합류한다. 주가에 녹아 있던 거버넌스 할인이 일부 해소됐다. 시장은 즉시 반응하지 않았지만 — 진짜 반응은 D+5(6월 4일) 어닝에서 나온다. [TheStreet](https://www.thestreet.com/investing/stocks/lululemon-stock-flashes-major-signal-as-chip-wilson-feud-cools)
+어제 CNBC가 "유럽 방산주 쿨다운"을 타이틀로 올렸다. Stoxx 유럽 항공우주·방산 인덱스는 올해 들어 -1.2% YTD. Rheinmetall은 최근 실적 발표에서 기대를 밑돌아 "400% 3년 랠리 이후 시장이 선별 모드로 전환"을 경험 중이다. 반면 같은 날 Saab는 +7.4%, Renk +5.4%, Exail +13.2% — 실적으로 차별화 중이다. 투자 시사점은 명확하다. 유럽 방산은 이제 지수 ETF가 아닌 종목 선택의 게임. 미국 방산은 역설적으로 이란 평화 우려에 짓눌린 과매도 구간에 있다 — 특히 Q1 미스 하나로 RSI 22.92까지 밀린 LMT. [CNBC](https://www.cnbc.com/2026/05/30/defense-stocks-consolidation-rheinmetall-saab-renk.html)
 
 ---
 
-🏢 기업 뉴스
+💻 Dell AI서버 +757% — 이 숫자가 AI 사이클을 다시 확인시켰다
 
-**$TSLA "6일 랠리가 멈췄지만, H2는 아직 시작도 안 했다"**
-Tesla 주가는 금요일 6일 연속 상승세를 멈추고 -1.43% 하락, $435.79에 마감했다. 차익 실현이 이유였다. 하지만 Motley Fool은 같은 날 "Tesla 주가가 하반기 2026에 급등할 수 있다"는 기고를 내놨다. 핵심 논거는 세 가지: ① FSD의 유럽 도미노 승인(네덜란드 시작, EU 전역 확대 중) ② Cybercab 대량생산 공식 개시 ③ SpaceX IPO 이후 Musk의 Tesla 집중도 복귀. 하지만 Q1에서 드러난 capex $25B+ 계획(기존 가이던스 $20B 초과)은 투자자 우려의 핵심으로 남아 있다. SpaceX 합병설은 $3.4T 제국 시나리오로 다시 소환됐다. [Motley Fool](https://www.fool.com/investing/2026/05/29/tesla-stock-could-soar-in-the-second-half-of-2026/)
-
-**$GOOGL "AI가 10억을 건드렸다 — 이제 수익화가 문제"**
-Alphabet은 Google AI Mode 월간 활성 사용자 10억 명 돌파를 공식 발표했다. AI 검색 26년 역사상 최대 구조 변화다. Gemini 3.5 Flash의 압도적 비용 효율이 플랫폼 전체에 확산 중. 주가는 ATH $402(5월 13일) 대비 약 -3% 구간에서 소화 중. AI 사용 확대가 광고 수익 잠식 vs 강화 중 어느 쪽인지 — Q2 어닝에서 결판난다. [Google Finance](https://www.google.com/finance/)
-
-**$OKLO "DOE가 선택했다 — 다음 단계는 계약서"**
-Oklo가 DOE 잉여 플루토늄 변환 프로그램 협상 대상자로 선정된 모멘텀이 지속되고 있다. 주가는 $68.70 수준에서 지지선을 형성했다. BofA는 Buy PT $80을 유지 중. 다음 촉매는 DOE와의 공식 계약 체결 발표. 선정에서 계약까지의 시간이 실질적 매수 적기다.
-
-**$COIN "CLARITY Act 통과 확률이 46%에서 64%로 뛰었다"**
-상원에서 스테이블코인 이자 수익 타협안이 합의됐다: 수동적(idle) 이자는 금지, 거래 기반 활동 수익은 허용. Coinbase는 즉각 이 타협을 지지했다. Polymarket의 CLARITY Act 통과 확률은 46%에서 64%로 점프했다. 법안이 통과되면 Coinbase는 명확한 규제 프레임 속에서 스테이블코인 수익 모델을 공식화할 수 있다. 주가는 ~$182에서 법안 표결을 대기 중. [DL News](https://www.dlnews.com/articles/regulation/clarity-act-odds-surge-on-stablecoin-compromise/)
+"역대 최고 하루 상승폭 +33%." Dell이 5월 29일 장을 지배했다. Q1 FY2027 AI 최적화 서버 매출 $16.13B (+757% YoY), AI 서버 신규 수주 $24.4B, AI 관련 수주잔고 $51.3B 신기록. 총 매출 $43.84B (+88% YoY), 컨센서스 $35.77B를 23% 상회했다. Full-year 가이던스를 $27B 상향 조정해 AI 서버 FY27 $60B, 총매출 $165-169B. 수혜는 NVDA($GPU 공급)→DELL($서버 통합)→클라우드 3사($인프라 배포) 생태계 전반에 걸쳐 있다. 이 숫자는 "AI 투자 거품"이라는 서사에 데이터로 반격한다. [CNBC](https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html)
 
 ---
 
-🔮 흥미로운 이야기
+📰 기업 뉴스
 
-1. **스타벅스의 조용한 반전** — CEO Brian Niccol의 구원 임무가 숫자로 증명됐다. Q2 FY2026: 매출 $9.53B(+9%) 사상 최대, 동일매장매출 +6.2%, GAAP EPS $0.45(+32%). 1년 전만 해도 "망해가는 커피 왕국"이었던 회사가 가이던스를 5%+ 성장으로 올렸다. 주가는 $98.83. 다음 어닝은 8월 4일. 이 모멘텀이 지속되는지가 관건이다. [Simply Wall St](https://simplywall.st/stocks/us/consumer-services/nasdaq-sbux/starbucks/news/why-starbucks-sbux-is-up-79-after-earnings-beat-and-11-billi)
-2. **Abercrombie & Fitch +13%** — Q1 FY2026 어닝에서 예상치를 대폭 상회하며 단 하루에 13% 급등했다. Z세대가 소비를 멈추지 않았다는 증거. 소비 양극화 속에서 프리미엄 캐주얼의 복귀가 현실로 확인됐다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-may-29-132100817.html)
+**$TSLA Tesla — 3.4조 달러 제국의 꿈과 Waymo 격차**
+
+SpaceX 합병 논쟁이 격화되고 있다. 머스크가 측근들에게 "Tesla-SpaceX 합병을 논의했다"는 CNBC 보도 이후, 초기 SpaceX 투자자 피터 디아만디스는 Bloomberg에 "언제가 아닌 언제냐의 문제"라고 발언했다. Polymarket은 2027년 5월 1일 전 합병 확률을 52%로 보고 있다. 합산 시가총액은 $3.35~3.6조. 동시에 현실도 있다 — 텍사스 자율주행 차량 등록 현황에서 Waymo 13 : Tesla 1. Tesla 로보택시는 오스틴·달라스·휴스턴 3개 도시에서 운행 중이지만, Waymo의 주간 40만 건과의 격차는 여전히 크다. 한편 Cybercab은 기가텍사스에서 대량생산이 공식 시작됐다. FSD는 에스토니아까지 진출 중.
+
+**$GOOGL Alphabet — $4.61T의 파트너십 정치**
+
+EQT와 Google Cloud AI 파트너십 체결. 유럽 최대 PE 중 하나와 협력해 AI 기반 포트폴리오 관리 인프라를 구축하는 계약이다. 시총 $4.61T로 NVDA($5T 클럽)를 추격 중. Google AI Mode는 10억 명 돌파를 넘어 후속 성장 단계로 진입 중.
+
+**$OKLO Oklo — DOE의 베팅, 그리고 민주당의 우려**
+
+DOE가 Oklo를 잉여 플루토늄 활용 프로그램 5개사 중 하나로 선정했다. 냉전 시대 무기급 플루토늄을 선진 원자로 연료로 전환하는 이 프로그램은 Oklo의 연료 공급망 전략에 핵심이다. 신규 자본 참여사 newcleo와 $2B 파트너십도 유지 중. 반론: 에드 마키 상원의원 등 민주당 의원들이 "무기급 플루토늄 민간 이전은 핵 비확산 리스크"라는 서한을 제출했다. 규제 리스크가 남아 있다. [Oklo Newsroom](https://oklo.com/newsroom/news-details/2026/Oklo-Selected-by-U-S--Department-of-Energy-for-Advanced-Negotiations-Under-Surplus-Plutonium-Utilization-Program/default.aspx)
+
+**$COIN Coinbase — CLARITY Act, 8월이 마감선**
+
+CLARITY Act가 상원 은행위원회를 15-9로 통과했다(5/14). 이제 전체 상원 표결이 남았다. 지지자들은 60표 초당적 동의가 필요하다. Coinbase CPO는 "5월 안 표결"을 예측했지만 미뤄졌고, 다음 타깃은 8월. COIN은 $188로 반등 중이나 입법 불확실성이 변수다.
+
+---
+
+🚀 흥미로운 이야기: SpaceX IPO, 역대 최대 공모가 이번 주 검증된다
+
+Bloomberg가 5월 29일 보도했다 — SpaceX가 IPO 밸류에이션 목표를 하향 조정 중이다. S-1 공시 당시 $1.75~2T 수준을 제시했지만, 로드쇼(6/8 시작) 전 기관 투자자들의 피드백이 반영되며 $1.8T 수준으로 좁혀지고 있다. 6월 11일 가격 결정, 12일 SPCX 나스닥 상장. Robinhood, Fidelity, Schwab을 통해 공모주의 30%가 개인투자자에게 직접 배정된다. 개인이 역대 최대 IPO에 직접 참여할 수 있는 첫 사례 — "민주화된 IPO"가 시장의 최대 실험이 될 한 주다. [Bloomberg](https://www.bloomberg.com/news/videos/2026-05-29/bloomberg-tech-5-29-2026-video)
