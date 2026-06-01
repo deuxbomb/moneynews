@@ -494,3 +494,9 @@
 - 오늘의 픽: $LMT (카탈리스트: 6/1 배당락 $3.45 D+1 + 6/4 HASC FY27 NDAA 마크업 D+4, RSI 22.92 극단과매도), $HII (카탈리스트: 6/4 HASC NDAA D+4 구축함 다년계약 + JPMorgan Positive Catalyst Watch 버지니아급 잠수함 차기 10척) [와치리스트 외 발굴]
 - 뉴스 토픽: [산업재/방산] HASC FY27 $1.15T NDAA 6/4 마크업(F-35·F-15EX·구축함·PAC-3 다년계약) / 유럽 방산 소화기(Rheinmetall 3년 +400% 후 선별모드) / DELL AI서버 매출 +757% 역대 최고 +33% 급등 / [기업] TSLA SpaceX합병 논쟁(Polymarket 52%·May1'27) + Cybercab 기가텍사스 대량생산 + Waymo 13:1 텍사스 격차 / GOOGL EQT AI클라우드 파트너십 $4.61T / OKLO DOE 잉여플루토늄 프로그램 선정(newcleo $2B) / COIN CLARITY Act 상원 전체 표결 8월 전 목표 / [매크로] KOSPI 8,476 ATH(+3.55%, 삼성 +5.84% 현대차 +6.79%) / KOSDAQ 1,075(-0.8%) / WTI $87(-16.2% 5월) / BTC $74,033 / S&P 7,580+나스닥 26,972+다우 51,032 ATH / [스마트머니] ARK TSLA -38,958주 매도 / 헤지펀드 반도체 비중 10% 역대최고 / 빌 애크먼 $10B 여름 배포 예고 / [이벤트] SpaceX IPO 로드쇼 6/8 → 상장 6/12
 - 팟캐스트: (일요일 — 신규 에피소드 미확인, 섹션 생략)
+
+## 2026-06-01 AM (테마: AI 인프라/반도체)
+- 헤드라인: 6월이 열린다 — S&P 9연속 신고가, 브로드컴 D-2 카운트다운
+- 오늘의 픽: $AVGO (카탈리스트: D+2 2026-06-03 AMC Q2 FY2026 어닝, AI매출 $10.7B 컨센), $AMAT (카탈리스트: D+1 2026-06-02 BofA 글로벌 기술 컨퍼런스 CFO 발표) [와치리스트 외 발굴]
+- 뉴스 토픽: [AI인프라/반도체] Anthropic $500억 AI 인프라 투자 선언 / AI 토큰비용 10배 하락 역설로 반도체 수요 +52.8% / BofA 글로벌 반도체시장 $1.3조 상향 / Data Center World 전력 병목 논의 / [기업] TSLA 텍사스 로보택시 42대 vs Waymo 577대 격차 공식화 / OKLO NVIDIA파트너십+Meta 1.2GW 핵캠퍼스 계약 / COIN CLARITY Act 타임스콧 "여름 전 서명" 목표 / GOOGL 배당 엑스데이트 6/8 / [스마트머니] 헤지펀드 반도체 노출도 사상 최고 / Goldman: 헤지펀드 반도체 비중 10% 역대 최고 / Susquehanna SOXX +476%
+- 팟캐스트: All-In Podcast "Anthropic's Digital God, Pope vs AI Job Loss Narrative" 빌 걸리 (2026-05-29)
