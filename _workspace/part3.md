@@ -1,43 +1,40 @@
----
+AI 인프라가 6월을 흔든다 — $1.3조 시장, 수요일 브로드컴이 확인해 준다
 
-🏭 방산·인프라가 6월의 스케줄을 지배한다
-
-이번 주 핵심 이벤트는 목요일(6/4) HASC FY27 NDAA 마크업이다. 하원 군사위원회가 $1.15조 FY2027 국방수권법안을 마크업하는 마라톤 세션으로, F-35·F-15EX·아얼리버크급 구축함·PAC-3·AMRAAM·토마호크 등 핵심 무기체계에 대한 다년 조달 권한을 의결할 예정이다. 이 법안 통과 시 LMT($F-35, $F-15EX), RTX($PAC-3, $AMRAAM, $토마호크), HII($구축함) 수주 가시성이 대폭 확장된다. HASC 위원장 마이크 로저스는 "조선소, 항공기 공장, 탄약 생산의 용량 자체가 존재하지 않는다"고 직접 진술했다 — 다년계약이 민간 투자를 끌어당기는 메커니즘이 이 법안의 핵심이다. [Breaking Defense](https://breakingdefense.com/2026/05/hasc-1-15t-defense-policy-bill-takes-aim-at-industrial-base-challenges/)
+미국 증시가 9주 연속 상승이라는 뜨거운 기록과 함께 6월을 맞이했다. S&P 500은 7,579에 개장해 ATH 영역에 머물고 있다. 오늘 발표될 5월 ISM 제조업 PMI와 4월 건설지출이 이 랠리의 체력을 점검할 지표다. 시장의 눈은 이미 수요일(6/3)을 향해 있다 — 브로드컴 Q2 어닝. AI 칩 수요 사이클이 계속되고 있는지, 이 숫자가 말해 줄 것이다. Bank of America는 올해 글로벌 반도체 시장 규모를 $1.3조로 상향했다. 4개월 전만 해도 $1.0조였다. 무엇이 이렇게 빠르게 바꿨을까. [Tickeron](https://tickeron.com/trading-investing-101/the-2026-semiconductor-race-report-13-trillion-already-spent-on-ai-chips--here-are-the-8-stocks-still-ahead-of-the-curve/)
 
 ---
 
-🌍 유럽 방산은 소화기 — 미국 방산은 반대 방향
+[AI 인프라/반도체] 토큰이 싸지는데, 왜 칩 수요는 더 폭증하는가
 
-어제 CNBC가 "유럽 방산주 쿨다운"을 타이틀로 올렸다. Stoxx 유럽 항공우주·방산 인덱스는 올해 들어 -1.2% YTD. Rheinmetall은 최근 실적 발표에서 기대를 밑돌아 "400% 3년 랠리 이후 시장이 선별 모드로 전환"을 경험 중이다. 반면 같은 날 Saab는 +7.4%, Renk +5.4%, Exail +13.2% — 실적으로 차별화 중이다. 투자 시사점은 명확하다. 유럽 방산은 이제 지수 ETF가 아닌 종목 선택의 게임. 미국 방산은 역설적으로 이란 평화 우려에 짓눌린 과매도 구간에 있다 — 특히 Q1 미스 하나로 RSI 22.92까지 밀린 LMT. [CNBC](https://www.cnbc.com/2026/05/30/defense-stocks-consolidation-rheinmetall-saab-renk.html)
+1. 역설: 토큰 비용 10배 하락 → 반도체 수요 52.8% 폭증
+AI 추론(inference) 비용이 2025년 초 대비 10배 가까이 떨어졌다. 천 토큰당 $0.06 → $0.006. 상식적으로 칩 수요가 줄어야 할 것 같다. 하지만 실제로는 반대다. 반도체 시장은 $1.29T로 지난해 대비 52.8% 성장했다. 이유는 하나 — 비용이 싸지면 더 많이 쓴다. AI 에이전트가 인간보다 토큰을 24배 더 소비한다는 Goldman Sachs 분석처럼, 저비용이 더 많은 사용으로 이어지는 선순환이 작동 중이다. Amazon·Alphabet·Microsoft·Meta의 2026년 합산 카펙스는 $7,250억 — 스위스 GDP를 넘는 숫자다. [Digitimes](https://www.digitimes.com/news/a20260529PD221/ai-inference-demand-data-infrastructure-efficiency.html)
 
----
+2. Anthropic $500억 투자 — AI 인프라 "삽 꽂기" 시대
+Anthropic이 미국 AI 컴퓨팅 인프라에 $500억(약 70조 원)을 투자하겠다고 발표했다. 텍사스와 뉴욕에 Fluidstack과 함께 데이터센터를 짓는 것이 시작이다. Meta는 루이지애나 홀리리지에 $270억 규모 데이터센터를 건설 중이다. 전 세계적으로 190GW 규모의 하이퍼스케일 데이터센터 용량이 발표됐다(777개 프로젝트). 계획이 아닌 실행의 단계다. [Anthropic](https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure)
 
-💻 Dell AI서버 +757% — 이 숫자가 AI 사이클을 다시 확인시켰다
-
-"역대 최고 하루 상승폭 +33%." Dell이 5월 29일 장을 지배했다. Q1 FY2027 AI 최적화 서버 매출 $16.13B (+757% YoY), AI 서버 신규 수주 $24.4B, AI 관련 수주잔고 $51.3B 신기록. 총 매출 $43.84B (+88% YoY), 컨센서스 $35.77B를 23% 상회했다. Full-year 가이던스를 $27B 상향 조정해 AI 서버 FY27 $60B, 총매출 $165-169B. 수혜는 NVDA($GPU 공급)→DELL($서버 통합)→클라우드 3사($인프라 배포) 생태계 전반에 걸쳐 있다. 이 숫자는 "AI 투자 거품"이라는 서사에 데이터로 반격한다. [CNBC](https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html)
-
----
-
-📰 기업 뉴스
-
-**$TSLA Tesla — 3.4조 달러 제국의 꿈과 Waymo 격차**
-
-SpaceX 합병 논쟁이 격화되고 있다. 머스크가 측근들에게 "Tesla-SpaceX 합병을 논의했다"는 CNBC 보도 이후, 초기 SpaceX 투자자 피터 디아만디스는 Bloomberg에 "언제가 아닌 언제냐의 문제"라고 발언했다. Polymarket은 2027년 5월 1일 전 합병 확률을 52%로 보고 있다. 합산 시가총액은 $3.35~3.6조. 동시에 현실도 있다 — 텍사스 자율주행 차량 등록 현황에서 Waymo 13 : Tesla 1. Tesla 로보택시는 오스틴·달라스·휴스턴 3개 도시에서 운행 중이지만, Waymo의 주간 40만 건과의 격차는 여전히 크다. 한편 Cybercab은 기가텍사스에서 대량생산이 공식 시작됐다. FSD는 에스토니아까지 진출 중.
-
-**$GOOGL Alphabet — $4.61T의 파트너십 정치**
-
-EQT와 Google Cloud AI 파트너십 체결. 유럽 최대 PE 중 하나와 협력해 AI 기반 포트폴리오 관리 인프라를 구축하는 계약이다. 시총 $4.61T로 NVDA($5T 클럽)를 추격 중. Google AI Mode는 10억 명 돌파를 넘어 후속 성장 단계로 진입 중.
-
-**$OKLO Oklo — DOE의 베팅, 그리고 민주당의 우려**
-
-DOE가 Oklo를 잉여 플루토늄 활용 프로그램 5개사 중 하나로 선정했다. 냉전 시대 무기급 플루토늄을 선진 원자로 연료로 전환하는 이 프로그램은 Oklo의 연료 공급망 전략에 핵심이다. 신규 자본 참여사 newcleo와 $2B 파트너십도 유지 중. 반론: 에드 마키 상원의원 등 민주당 의원들이 "무기급 플루토늄 민간 이전은 핵 비확산 리스크"라는 서한을 제출했다. 규제 리스크가 남아 있다. [Oklo Newsroom](https://oklo.com/newsroom/news-details/2026/Oklo-Selected-by-U-S--Department-of-Energy-for-Advanced-Negotiations-Under-Surplus-Plutonium-Utilization-Program/default.aspx)
-
-**$COIN Coinbase — CLARITY Act, 8월이 마감선**
-
-CLARITY Act가 상원 은행위원회를 15-9로 통과했다(5/14). 이제 전체 상원 표결이 남았다. 지지자들은 60표 초당적 동의가 필요하다. Coinbase CPO는 "5월 안 표결"을 예측했지만 미뤄졌고, 다음 타깃은 8월. COIN은 $188로 반등 중이나 입법 불확실성이 변수다.
+3. 전력이 새 병목 — 변압기 납기 5년
+Data Center World 2026에서 가장 많이 나온 단어는 "전력"이다. Oracle·NVIDIA·Google 엔지니어들이 공통으로 말했다 — "다음 제약은 GPU가 아닌 전력 조달"이다. 글로벌 변압기 수요는 2019~2025년 사이 119% 증가했지만 GE·지멘스·미쓰비시 등 주요 제조사의 납기는 최대 5년. AI 데이터센터가 지어지는 속도와 전력이 연결되는 속도가 어긋나기 시작했다. [Data Center Knowledge](https://www.datacenterknowledge.com/build-design/data-center-world-2026-ai-pushes-infrastructure-to-new-limits)
 
 ---
 
-🚀 흥미로운 이야기: SpaceX IPO, 역대 최대 공모가 이번 주 검증된다
+[기업 뉴스] 와치리스트 핵심 업데이트
 
-Bloomberg가 5월 29일 보도했다 — SpaceX가 IPO 밸류에이션 목표를 하향 조정 중이다. S-1 공시 당시 $1.75~2T 수준을 제시했지만, 로드쇼(6/8 시작) 전 기관 투자자들의 피드백이 반영되며 $1.8T 수준으로 좁혀지고 있다. 6월 11일 가격 결정, 12일 SPCX 나스닥 상장. Robinhood, Fidelity, Schwab을 통해 공모주의 30%가 개인투자자에게 직접 배정된다. 개인이 역대 최대 IPO에 직접 참여할 수 있는 첫 사례 — "민주화된 IPO"가 시장의 최대 실험이 될 한 주다. [Bloomberg](https://www.bloomberg.com/news/videos/2026-05-29/bloomberg-tech-5-29-2026-video)
+$TSLA — 42 vs 577: 텍사스에서 공개된 불편한 숫자
+텍사스 주가 5월 28일부터 자율주행차 상업 운행 신고제를 시행하며, 차량 대수가 처음으로 공개 기록이 됐다. 텍사스 전체에서 테슬라가 허가받은 로보택시는 42대(오스틴·댈러스·휴스턴 3개 도시 합산). Waymo는 같은 주에서 577대를 운행 중이다. 13:1의 격차다. 더 아픈 건 과거 발언이다 — 작년 가을 머스크는 "2025년 말까지 오스틴 단독으로 500대"를 약속했다. 8%만 달성했다. 테슬라의 FSD가 L2 수준에 머무르는 동안 Waymo는 미국 전역에 4,000대 가까운 L4 차량을 운용 중이다. SpaceX 합병 논쟁(Polymarket 확률 52%)도 계속되고 있다. [TNW](https://thenextweb.com/news/tesla-robotaxi-fleet-42-vehicles-waymo-577-texas)
+
+$GOOGL — 6월 8일, 배당 엑스데이트
+알파벳이 6월 8일 배당 엑스데이트($0.22/주)를 앞두고 있다. 주가는 $380 수준(시총 $4.59T, P/E 29). AI Mode 10억 명 돌파, Google I/O 발표 이후 AI 검색 26년 만의 최대 변화를 소화 중이다. 목표가 컨센서스 ~$420.
+
+$OKLO — NVIDIA 파트너십 + Meta 1.2GW 핵캠퍼스
+오클로가 NVIDIA와 AI 팩토리 운영을 위한 파트너십을 발표하면서 주가가 급등했다가 차익실현 물량이 나오며 $67 수준. Meta와는 오하이오 파이크 카운티에 1.2GW 핵에너지 캠퍼스 개발 계약을 체결했다. AI 데이터센터 전력 공급원으로서의 소형 핵반응로 스토리는 여전히 유효하다. BofA Buy $80 유지. [Barchart](https://www.barchart.com/story/news/1542915/as-nvidia-and-oklo-partner-on-ai-factories-should-you-buy-oklo-stock)
+
+$NVDA — $5.19T, Q2 $91B 소화 중
+주가 ~$212(P/E 32.33). Q1 $81.6B 비트, Q2 $91B 가이던스를 시장이 소화하는 과정에서 ATH 대비 소폭 조정된 상태. Strong Buy 컨센서스(61개 애널리스트, 목표가 $297). 브로드컴 어닝이 AI 칩 수요를 재확인하면 NVDA에도 모멘텀이 올 수 있다.
+
+$COIN — CLARITY Act 타임 스콧 "여름 전 서명" 목표
+코인베이스가 CLARITY Act 타협안(스테이블코인 수익 제한 + 일부 크립토 인센티브 보존)을 지지하고 나섰다. 상원 은행위원회 스콧 위원장은 "대통령 서명까지 여름"을 목표로 밀고 있다. 규제 확실성이 생기면 기관 채택 가속 → COIN 수혜. 현재 $188, 목표가 $232(Buy 컨센). [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/clarity-act-revived-coinbase-backs-085935463.html)
+
+---
+
+[흥미로운 이야기] 싸진 토큰이 부른 새 왕관 쟁탈전
+미국의 AI 데이터 인프라 비용이 AI 모델 단계에서는 분명히 하락하고 있다. 하지만 그 절약분이 더 크고 더 빠른 추론 수요로 재투자되는 패턴이 반복된다. Gartner는 2030년까지 AI 추론 비용이 90% 이상 하락할 것이라 예측했지만, Goldman Sachs는 "AI 에이전트가 인간 대비 24배 토큰을 사용한다"고 경고했다. 결론: 단가는 내려가지만 수량이 폭증하는 구조 — 반도체 수요는 단기간 꺾이지 않는다. 이 역설이 브로드컴 어닝을 6월 가장 중요한 이벤트로 만드는 이유다. [Gartner](https://www.gartner.com/en/newsroom/press-releases/2026-03-25-gartner-predicts-that-by-2030-performing-inference-on-an-llm-with-1-trillion-parameters-will-cost-genai-providers-over-90-percent-less-than-in-2025)
