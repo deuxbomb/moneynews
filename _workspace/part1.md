@@ -1,32 +1,29 @@
-6월이 열린다 — S&P 9연속 신고가, 브로드컴 D-2 카운트다운
-머뉴 MoneyNews | 2026-06-01 (월) | 돈이 되는 모든 것에 대한 소식
+BYD가 선을 넘었다 — 자율주행 책임보험 세계 최초, 오늘 밤 AVGO가 AI의 다음 챕터를 쓴다
+머뉴 MoneyNews | 2026-06-02 (화요일) | 돈이 되는 모든 것에 대한 소식
 
-🇰🇷 코스피 8,476 (ATH권) / 코스닥 1,075 / 원달러 1,543
-🇺🇸 S&P 500 7,579 (ATH) / 나스닥 26,917 (ATH) / 다우 50,668 (ATH) / WTI $87.36 / BTC $73,413
+🇰🇷 코스피 8,476 (ATH권) / 코스닥 1,078 / 원달러 1,543원
+🇺🇸 S&P 500 7,584 +0.05% / 나스닥 27,030 +0.21% / 다우 51,100 +0.1% / WTI $91.2 / BTC $73,200 -0.6%
 
-📌 AI 칩의 6월 — 판도를 가를 수요일이 다가온다
+📌 오늘 장의 세 개의 시계
 
-S&P 500이 9주 연속 상승이라는 2023년 이후 최장 기록을 세우며 6월 첫날을 맞이했다. 달력이 바뀌어도 시장이 주목하는 것은 하나다 — 수요일(6/3) 장 마감 후 발표되는 브로드컴(AVGO)의 Q2 실적. 컨센서스는 $22B(+47% YoY), AI 반도체 매출만 $10.7B(+140% YoY)로 예상된다. 오늘 미국에선 4월 건설지출과 5월 ISM 제조업 PMI 발표가 예정돼 있다. 이 두 지표가 추가 ATH 연장의 가늠자가 될 것이다.
+1. AVGO D+1 카운트다운 — 내일(6/3 AMC) 브로드컴 Q2 실적. AI 반도체 매출 $10.7B(+140% YoY) 컨센서스. NVDA Q1 실적이 "AI 수요가 폭발했다"를 증명했다면, AVGO는 그 수요가 칩 너머 커스텀 실리콘·네트워킹으로 퍼져나갔는지를 확인한다. AI 사이클 2막의 심판대. [Motley Fool](https://www.fool.com/investing/2026/05/31/broadcom-reports-earnings-june-3-time-to-buy/)
 
-1. AI 인프라 투자 사이클은 가속 중이다. Anthropic이 $500억(약 70조 원) 규모의 미국 AI 인프라 투자 계획을 공개했다. 텍사스와 뉴욕을 시작으로 Fluidstack과 함께 데이터센터를 구축한다. Meta의 루이지애나 $270억 데이터센터, 190GW에 달하는 하이퍼스케일 용량 발표(777개 프로젝트)까지 — 이제 AI는 "투자 계획"이 아닌 "삽 꽂기" 단계에 접어들고 있다. [Data Center Knowledge](https://www.datacenterknowledge.com/data-center-hardware/data-center-hardware-highlights-june-2026)
+2. GOOGL $80B 주식발행 + 버크셔 $10B — 알파벳이 AI 인프라 구축 자금 조달을 위해 $80B 규모 주식을 발행하고, 버크셔해서웨이가 $10B 사모 참여를 확정했다(6/1). 오마하의 현인이 AI 시대 인프라 전쟁에 뛰어들었다는 신호. [Alphabet IR](https://investor.google.com/)
 
-2. 전력이 다음 병목이 됐다. GPU가 아닌 전력. Data Center World 2026에서 Oracle, NVIDIA, Google 엔지니어들이 이구동성으로 말했다 — "다음 제약은 컴퓨팅이 아닌 전력 조달". 변압기 수요는 2019~2025년 사이 119% 폭증했지만 GE·지멘스·미쓰비시의 납기는 최대 5년이다. [Data Center Knowledge](https://www.datacenterknowledge.com/build-design/data-center-world-2026-ai-pushes-infrastructure-to-new-limits)
-
-3. 반도체 시장 $1.3조 상향 — Bank of America가 2026년 글로벌 반도체 시장 전망치를 $1.0조에서 $1.3조로 끌어올렸다. 2030년엔 $2조 예상. AMD는 YTD +114%, Micron은 $1조 클럽 합류(UBS $1,625 목표가). AI가 반도체 사이클을 구조적으로 재편하고 있다. [Tickeron](https://tickeron.com/trading-investing-101/the-2026-semiconductor-race-report-13-trillion-already-spent-on-ai-chips--here-are-the-8-stocks-still-ahead-of-the-curve/)
+3. SpaceX IPO D+10 — 6/12 SPCX 상장까지 열흘. 로드쇼 한창 진행 중. 소매 투자자 직접 배분 확인으로 대기 수요 여전.
 
 💰 관심 종목 현황
-$TSLA $434 (-0.3%) 목표가 $480 - Waymo 577대 vs 테슬라 42대 격차 재조명, SpaceX 합병 논쟁 지속
-$GOOGL $380 (-2.5%) 목표가 $420 - 배당 엑스데이트 6/8($0.22), AI Mode 10억명 돌파
-$OKLO $67 (-9.5%) 목표가 $80 (BofA Buy) - DOE 잉여플루토늄 선정 + NVIDIA 파트너십 모멘텀, 차익실현 하락
-$NVDA $212 (-1.5%) 목표가 $297 (Strong Buy) - $5.19T 시총, Q1 $81.6B+Q2 $91B 소화 중
-$COIN $188 (+3.8%) 목표가 $232 (Buy) - CLARITY Act 상원 타임 스콧 "여름 전 서명" 목표
-$NFLX $86 (-0.4%) 목표가 $110 - $25B 자사주매입 진행 중, 9연속 주간 상승 속 소강
-$OHI $45.41 (-0.1%) 목표가 $50 - 헬스케어 리츠 안정, 배당수익률 매력
-$SPY $756 (+0.2%) - S&P 500 9주 연속 상승, 85% 기업 어닝 비트
-$QQQ $738 (+0.3%) - 나스닥 ATH권 유지, AI 테크 리더십 지속
+$TSLA $422 -1.5% | 목표가 $410 | Cybercab 기가텍사스 대량생산 중. 텍사스 AV 42대 vs Waymo 577대 격차 여전. FSD 유럽 승인 도미노(벨기에·그리스 임박)
+$GOOGL $383 +1.2% | 목표가 $210 (구조조정 후 추정) | $80B 주식발행+버크셔 $10B AI 인프라 딜. 배당 엑스데이 D+6(6/8)
+$OKLO $67 -1.5% | 목표가 $80 (BofA Buy) | DOE 잉여플루토늄 전환 선정 모멘텀 지속. 단기 차익실현 소화
+$NVDA $215 +0.3% | 목표가 $180→$250권 | AVGO D+1 어닝 대기. COMPUTEX Physical AI 발표 여진
+$COIN $183 -1.1% | 목표가 $148→Buy 컨센 | CLARITY Act 상원 표결 대기. BTC $73K 하락 동조
+$NFLX $87 +1.1% | 목표가 $1,100 | 월드컵 스트리밍 기대감 + Q2 어닝 7월 예정
+$OHI $47 +0.5% | 목표가 $48.50 | 배당 안정. 요양원 수요 견조
+$SPY $757 +0.05% | 9주 연속 상승 이후 소강 국면
+$QQQ $743 +0.2% | NASDAQ 27K 첫 돌파 다음날, 기술적 숨고르기
 
 👀 오늘 주목할 것
-- D+1(6/2): AMAT CFO가 BofA 글로벌 기술 컨퍼런스에서 발표. AI 반도체 장비 수요 전망이 나온다
-- D+2(6/3 AMC): 브로드컴(AVGO) Q2 실적 — AI 매출 $10.7B 달성 여부가 이번 주 시장 분위기를 결정
-- D+7(6/8): 스페이스X IPO 로드쇼 시작 예정, GOOGL 배당 엑스데이트
-- 오늘 2PM ET: 5월 ISM 제조업 PMI — 9연속 ATH의 지속 여부를 가름할 경기 지표
+- AVGO 내일 AMC 어닝: AI 반도체 매출 $10.7B(+140% YoY) 컨센서스 달성 여부. Q3 가이던스 $22.5B+ 이면 AI 인프라 사이클 확인
+- BYD "God's Eye" 전면 책임보험 선언(6/1): 사고 시 무제한 전액 배상. 자율주행 ADAS 산업 게임체인저 — 오늘 자율주행 섹터 전체가 이걸 소화 중
+- RIVN 8연속 상승: R2 SUV 인도 D+7(6/9) 카운트다운. 소비자 EV 대중화의 실제 D-Day

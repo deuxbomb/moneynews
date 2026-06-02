@@ -509,3 +509,9 @@
 - 핵심 주장/결론: NVIDIA는 "Android of Robotics" 전략으로 Physical AI OS 장악을 노리지만 현재 매출의 3%에 불과. 한국(HBM+보스턴다이나믹스+$7.8~10.4B 투자)이 부품 게임의 핵심 수혜국. 중국 Unitree+AgiBot이 하드웨어 80% 점유로 ASP 압박 예고. 체크포인트: 6/3 $AVGO 어닝 Physical AI 가이던스.
 - 1차 자료 출처: SEC EDGAR NVIDIA FY2026 ARS × 1, IFR World Robotics 2025 × 2, TrendForce 휴머노이드 보고서 × 1, MarketsandMarkets Physical AI 시장 × 1, NVIDIA Investor Relations 한국 파트너십 × 1, NVIDIA Developer Blog Vera Rubin × 1 (총 7건)
 - 판정: Minor (6개 개선점 반영 — 120억→1,200억(120B) 수정, 336억→3,360억(336B) 수정, 미검증 FY2023/FY2024 수치 제거, Jensen Huang 인용 처리 명확화, Jetson Thor ASP 표현 완화, 마지막 여운 문장 강화)
+
+## 2026-06-02 09:30 [AM] (테마: EV/자율주행/모빌리티)
+- 헤드라인: BYD가 선을 넘었다 — 자율주행 책임보험 세계 최초 선언, 오늘 밤 AVGO가 AI의 다음 챕터를 쓴다
+- 오늘의 픽: $RIVN (카탈리스트: 2026-06-09 R2 SUV 고객 인도 시작 D+7, 8연속 상승 모멘텀), $PONY (카탈리스트: 2026-06-08 연간주주총회 D+6, Q1 로보택시 매출 5x YoY) [와치리스트 외 발굴]
+- 뉴스 토픽: [EV/자율주행] BYD God's Eye 전면 무제한 책임보험 세계 최초 선언(6/1) / RIVN R2 June 9 인도 확정 8연속 랠리 / XPeng L4 로보택시 양산 광저우 GX 플랫폼 Turing 칩 / Waymo Ohai 6세대 신형 로보택시 SF·LA·Phoenix 탑승 시작 / Tesla Cybercab 42대 vs Waymo 577대 Texas 격차 / BYD 전고체 배터리 수개월 내 배포 예고 / [매크로] NASDAQ 27K 사상 첫 돌파 다음날 소강 / AVGO D+1 (6/3 AMC) AI반도체 $10.7B+140% YoY 컨센 / GOOGL $80B 주식발행+버크셔 $10B AI인프라 딜 / SpaceX IPO D+10 / [기업] TSLA EU FSD 도미노(벨기에·그리스 임박) / OKLO DOE 모멘텀 지속 / COIN CLARITY Act 대기 / Blue Origin New Glenn 폭발(5/28) / [스마트머니] ARK KTOS+CBRS 매수 / Goldman 헤지펀드 반도체 비중 10% 역대최고 / Ackman $10B 여름 배포 예고
+- 팟캐스트: TBPN "New Glenn Explodes, Enterprise AI Enters ROI Era, The Dinosaur Fossil Boom" (2026-05-29)

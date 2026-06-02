@@ -1,38 +1,39 @@
-6월 첫 주 어닝 캘린더 & 시장 레이더
+━━━━━━━━━━━━━━━━━━━━━━━
+🔬 딥다이브 — AVGO D+1: AI 수요 사이클의 두 번째 증거대
+━━━━━━━━━━━━━━━━━━━━━━━
 
-📅 이번 주 주요 이벤트
-- 6/1 (오늘): 5월 ISM 제조업 PMI, 4월 건설지출 (2PM ET)
-- 6/2 (내일): AMAT CFO → BofA 글로벌 기술 컨퍼런스 발표 (8:40 AM PT)
-- 6/3 (수): AVGO Q2 FY2026 어닝 (AMC, $22B 컨센) + CrowdStrike 어닝 + 4월 팩토리 오더
-- 6/4 (목): HASC FY2027 NDAA 마크업 시작 ($1.5T 예산)
-- 6/8 (월): SpaceX IPO 로드쇼 시작 예정 / GOOGL 배당 엑스데이트($0.22)
-- 6/11 (목): KLAC 주식 10:1 분할 발효 / SpaceX IPO 가격 결정 예정
-- 6/12 (금): SpaceX SPCX Nasdaq 상장 목표
-- 6/24 (수): MU(Micron) Q3 FY2026 어닝
+**실적 캘린더**
+내일(6/3 AMC) 브로드컴(AVGO) Q2 FY2026 실적 발표. 핵심 체크리스트:
+- AI 반도체 매출: $10.7B 컨센 (+140% YoY) → 달성하면 커스텀 AI ASIC 수요 확인
+- 총매출: $22.12B (+47% YoY) → 인프라 소프트웨어 포함 견조 성장
+- Q3 가이던스: $22.5B+ 이면 사이클 지속, $22B 미만이면 피크아웃 우려
+- AI XPU 고객 수: 현재 3곳(Google, Meta, 알려지지 않은 1곳) 외 확장 발표 여부
 
-애널리스트 컨센서스 체크
-- AVGO Q2: 매출 $22B(+47%), AI 매출 $10.7B(+140%), EPS $2.40
-- CRWD Q2: 매출 컨센 ~$1.1B
-- MU Q3: 매출 컨센 $33.7~40.9B (광범위한 불확실성 반영)
+NVIDIA가 "공급자"를 검증했다면, AVGO는 "설계자"를 검증한다. 차이: NVDA GPU는 범용 AI 가속기, AVGO XPU는 특정 고객(구글 TPU, 메타 MTIA)의 전용 설계다. XPU가 성장한다는 건 "GPU로만 AI를 못 하겠다"는 빅테크의 판단이 굳어지고 있다는 뜻이다. ASIC 전환이 진짜라면, AVGO의 AI 매출 성장은 구조적이다.
 
----
+**애널리스트 컨센서스**
+AVGO에 대한 38명의 월가 애널리스트: Buy 35명, Hold 3명, Sell 0명. 12개월 평균 목표가 $264(현재 ~$238 대비 +11%). Citi PT $325, 골드만삭스 $280. 5월 31일 Motley Fool "실적 전에 매수해야 할 이유"를 발간. [Motley Fool](https://www.fool.com/investing/2026/05/31/broadcom-reports-earnings-june-3-time-to-buy/)
 
-🏦 스마트머니 동향 — 반도체에 역대급 돈이 몰린다
+**옵션/수급 신호**
+AVGO 6/3 어닝 옵션 스윙 예상: ±9.4%. 콜 프리미엄 우세. AI 사이클 수혜 기대가 풋보다 강하다. 6/8 GOOGL 배당 엑스데이와 함께 6월 첫 주는 빅테크 이벤트가 집중된 시기.
 
-헤지펀드가 반도체를 사들이는 속도가 전례 없다. Goldman Sachs 집계에 따르면 글로벌 헤지펀드의 반도체 섹터 노출도가 전체 포트폴리오의 약 10%에 달해 사상 최고를 기록했다. Susquehanna International Group은 1분기 SOXX 보유량을 476% 늘렸다(25만주 → 144만주). Goldman Sachs도 17% 증가, BNP Paribas도 58% 늘렸다. "스마트머니"가 AI 인프라 슈퍼사이클에 집단적으로 베팅하고 있다는 신호다.
+━━━━━━━━━━━━━━━━━━━━━━━
+🏦 스마트머니 동향
+━━━━━━━━━━━━━━━━━━━━━━━
 
-ARK Invest: 최근 흐름 요약
-- 5/31: TSLA -38,958주 매도 (차익실현 지속)
-- 5/26: Beamr·Intellia·Pacific Bio(바이오) 매수
-- 5/21: TSLA +109,000주 대규모 매수 전환 (2거래일 후 다시 매도 방향)
-ARK의 TSLA 태도가 흔들리고 있다 — 기대(로보택시)와 실망(42대)이 교차하는 반영이다.
+**ARK Invest (6/1 최신 트레이드)**
+캐시 우드의 ARK가 6월 첫 거래일에 전략적 리밸런싱을 단행했다. 핵심 매수:
+- $KTOS (Kratos Defense) 261,370주 매수 ($16.96M) — 방산 드론·국방 AI 테마 진입
+- $CBRS (Cerebras Systems) 35,950주 매수 ($9.22M) — AI 웨이퍼스케일 칩 베팅
+- $AMZN, $TEM (Tempus AI), $FUTU 소규모 추가
 
-내부자 거래 레이더 (최근 주목할 만한 매수)
-- Applied Materials(AMAT): 애널리스트 40명 Buy 컨센서스, 기관 비중 지속 증가 중
-- Broadcom(AVGO): Goldman 헤지펀드 보고서에 반도체 장비·네트워킹 중심 편입 확인
-- PWR(Quanta Services): 5/22 $1B 자사주매입 발표 이후 내부자 보유 안정
+ARK는 TSLA를 일부 매도하는 기조를 유지하면서도 AI 하드웨어(CBRS)와 방산 AI(KTOS)로 동시에 이동하고 있다. 자율주행에서 물리 AI 로봇으로 포트폴리오를 이동하는 신호. [GurFocus](https://www.gurufocus.com/news/8893302/ark-invest-rebalances-with-major-moves-in-defense-and-ai-hardware)
 
-슈퍼인베스터 동향
-- Bill Ackman: $100억 규모 여름 배포 예고 — "시장이 좋을 때 공격적으로 들어간다"고 밝혀
-- Chase Coleman(Tiger Global): AVGO +25%, TSM +49% 추가 확대 (1분기 13F 기준)
-- Coatue: TSM 확대·클라우드 3사(META/AMZN/GOOGL) 비중 소폭 축소
+**골드만삭스: 헤지펀드 반도체 비중 역대 최고**
+글로벌 헤지펀드의 반도체 섹터 비중이 10%를 돌파해 사상 최고를 기록했다(Goldman 5/25 보고서 지속 추적). LRCX·AMAT·MU가 최다 편입 종목. Chase Coleman(Tiger Global)이 AVGO+TSM 확대, Coatue도 TSM 강화. 6/3 AVGO 어닝이 이 포지션을 정당화하는 이벤트가 된다.
+
+**빌 애크먼 — $10B 여름 배포 예고**
+퍼싱스퀘어의 애크먼은 "이번 여름 $10B 규모의 새 포지션을 배포할 것"이라고 5월 말 공언했다. 현재 시장 추측은 AI 인프라 또는 소비재 대형주. 6~8월 발표가 예상되는 새 빅베팅이다.
+
+**SpaceX IPO 카운트다운 D+10 (6/12 상장 목표)**
+로드쇼가 진행 중이다. 기업가치 $1.75T(약 2,700조 원)으로 역대 최대 IPO를 노린다. 스타링크(EBITDA $7.2B 흑자)가 xAI 투자($12.7B)를 감당하는 구조. Anthropic $45B 계약이 버팀목. $HOOD를 통한 소매 투자자 직접 접근 가능 확인.
