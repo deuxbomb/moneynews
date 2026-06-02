@@ -1,23 +1,22 @@
 # 앵커 소스 — 14:00 트리거가 우선 활용
-# 테마: Physical AI 원년 — COMPUTEX 2026 (2026-06-01)
+# 테마: Aurora Innovation ($AUR) 종목 해부 (2026-06-02)
 
 ## 1차 자료 (필수 3건 이상)
 
-- [NVIDIA GTC Taipei at COMPUTEX 2026 공식 페이지] https://www.nvidia.com/en-tw/gtc/taipei/computex/ — NVIDIA 공식 COMPUTEX 일정·키노트 정보, Physical AI 발표 원문
-- [EE Times Asia — COMPUTEX 2026 키노트 분석] https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/ — "Physical AI 배포 원년" 선언, 엣지 인텔리전스·인프라 스케일링 3대 포인트
-- [Seoul Economic Daily — Jensen Huang, 한국 4대 그룹 AI 칩·로보틱스 미팅] https://en.sedaily.com/finance/2026/05/31/jensen-huang-to-meet-koreas-top-4-conglomerates-on-ai-chips — 삼성·SK·현대차·LG와 5/31 미팅, 한국 국제비교 소재
-- [BigGo Finance — Jensen Huang 'Five-Layer Cake' AI 전략 프리뷰] https://finance.biggo.com/news/CAqos50BvthpMgHBOlhD — Energy/Infra→Fab→Chip→System→App 5층 구조 최초 언급
-- [IDC — 반도체 시장 $1.29T, AI 인프라 드라이브] https://www.idc.com/resource-center/blog/semiconductor-market-to-surge-past-the-trillion-dollar-threshold-ai-infrastructure-drives-market-growth/ — 추론 워크로드 2/3 점유, ASIC 45% vs GPU 16% 성장 데이터
+- [Aurora Q1 2026 실적 발표 (IR 공식)] https://ir.aurora.tech/news-events/press-releases/detail/139/aurora-announces-first-quarter-2026-results — Q1 EPS -$0.10(beat), 7개 고객, 연말 200대+ 목표, DaaS 수익 모델 상세
+- [Aurora Innovation SEC EDGAR 10-K] https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AUR&type=10-K&dateb=&owner=include&count=10 — 재무제표, Cash runway, 주식 희석 내역
+- [Aurora 확장 발표 (Yahoo Finance)] https://finance.yahoo.com/markets/stocks/articles/aurora-innovation-aur-expands-driverless-083608688.html — Dallas-OKC Volvo 노선 확장, Hirschbach 500대 MOU
+- [Aurora IR 프레스 릴리즈 목록] https://ir.aurora.tech/news-events/press-releases — 2026-04-07 상업 런칭 발표, 파트너십 PRs (McLane, FedEx, Hirschbach)
 
 ## 보조 자료
 
-- [COMPUTEX Taipei 공식 — NVIDIA 최신 AI 이노베이션 키노트 예고] https://www.computextaipei.com.tw/en/news/5F511A9E6A5A8E05/info.html — 공식 행사 정보
-- [Moomoo — COMPUTEX 2026 투자자 프리뷰] https://www.moomoo.com/community/feed/computex-2026-preview-jensen-huang-opens-the-show-which-companies-116657442521097 — 주목 기업 리스트
-- [TradingKey — AVGO Q2 2026 어닝 프리뷰] https://www.tradingkey.com/analysis/stocks/us-stocks/261937612-broadcom-avgp-q2-google-meta-anthropic-openai-chip-asic-tradingkey — D+2 AVGO 어닝(6/3) Physical AI ASIC 연결고리
+- [Morgan Stanley $14 Overweight 커버리지] https://www.investing.com/news/analyst-ratings/northland-initiates-aurora-innovation-stock-coverage-citing-ai-drivers-93CH-4716559 — Northland 커버리지 개시 + Morgan Stanley PT 흐름
+- [AUR YTD 퍼포먼스 + 경쟁사 비교] https://247wallst.com/investing/2026/05/22/blackberry-soars-18-mobileye-climbs-4-aurora-innovation-rises-2-while-nvidia-drifts-automotive-ai-trade-picks-a-new-leader/ — Automotive AI 트레이드 내 포지셔닝
+- [Aurora 드라이버프리 화물 딜 빌드업] https://www.timothysykes.com/news/aurora-innovation-inc-aur-news-2026_05_28-2/ — 5월 말 딜 스택업 요약
 
-## 14:00 트리거 수집 우선순위
+## 14:00 리서처가 추가 확인할 사항
 
-1. **NVIDIA COMPUTEX 키노트 트랜스크립트/영상** — nvidia.com/en-tw/gtc/taipei/keynote/ (KST 12:00 이후 업로드)
-2. **IFR(국제로봇연맹) 2025 World Robotics Report** — ifr.org (시계열: 국가별 로봇 밀도 데이터)
-3. **SEC EDGAR** — Tesla 8-K (Optimus 생산 현황), Mobileye 8-K (ADAS 물리 AI 연결)
-4. **현대차그룹 보스턴다이나믹스 공식 자료** — bostondynamics.com (아틀라스 상업화 일정)
+1. **어닝콜 트랜스크립트** (Motley Fool): `"Aurora Innovation AUR Q1 2026 earnings call transcript"` — Chris Urmson CEO 발언, DaaS 단가/마일 구조 언급 여부
+2. **현금 runway**: 10-Q에서 2026년 말 현금 잔고 예상치 + 소진율
+3. **중국 경쟁사**: 智加科技 PlusAI / WeRide 트럭 부문 최신 상황 (국제 비교용)
+4. **한국**: 현대차 수소트럭 자율화 로드맵 공식 자료 (국제 비교용)

@@ -1,84 +1,81 @@
-# 딥다이브 테마 선정 — 2026-06-01 (월요일)
+# 딥다이브 테마 선정 — 2026-06-02 (화요일)
 
 ## 오늘 요일 테마 클러스터
-**월 — AI 인프라/반도체**
+**EV/자율주행/모빌리티 (화요일)**
 
 ## 분석 유형 (5유형 요일 회전)
-**📡 테크 트렌드 — 여러 기업이 같은 방향 → 산업 흐름 조망**
+**📊 종목 해부 — 한 종목 완전 분해 (관심종목 외 발굴)**
 
 ---
 
 ## 다양성 체크 — 지난 7일 [DEEP] 항목
 
-| 날짜 | 테마 | 유형 |
-|------|------|------|
-| 2026-05-25 | AI 인프라/반도체 — "$8,300억이 움직인다, AI 데이터센터 돈 어디 꽂히나" | 📡 테크트렌드 |
-| 2026-05-26 | EV/자율주행 — "적자 10조를 불태우고 로보택시를 얻었다, Lucid의 마지막 도박" | 📊 종목해부 |
-| 2026-05-27 | 에너지/원자력 — "93조 원짜리 도박, 미국 전력 제국이 탄생하면" | 🔮 미래전망 |
-| 2026-05-29 | 헬스케어/바이오 — "비만약이 암을 막는다, GLP-1의 두 번째 혁명" | 🔍 딥리서치 |
-| 2026-05-31 | 산업재/방산 — "3조 달러가 움직인다, 방산 슈퍼사이클 2026 하반기" | 🔮 미래전망 |
+| 날짜 | 테마 클러스터 | 유형 | 제목 |
+|------|-------------|------|------|
+| 2026-05-26 | EV/자율주행/모빌리티 | 📊 종목 해부 | 적자 10조를 불태우고 로보택시를 얻었다 — Lucid의 마지막 도박 |
+| 2026-05-27 | 에너지/원자력/친환경 | 🔮 미래전망 | 93조 원짜리 도박 — NextEra+Dominion |
+| 2026-05-29 | 헬스케어/바이오/의료기기 | 🔍 딥리서치 | 비만약이 암을 막는다 — GLP-1의 두 번째 혁명 |
+| 2026-05-31 | 산업재/인프라/방산 | 🔮 미래전망 | 3조 달러가 움직인다 — 방산 슈퍼사이클 |
+| 2026-06-01 | AI 인프라/반도체 | 📡 테크 트렌드 | AI가 몸을 얻는다 — Jensen Huang의 Physical AI 선언 |
 
-→ 오늘 테마 **"Physical AI"**는 5/25 "AI 데이터센터 카펙스 흐름"과 클러스터(AI 인프라/반도체)는 같지만 주제가 완전히 다름.
-5/25는 데이터센터 인프라 투자 레이어 분석, 오늘은 AI가 클라우드를 벗어나 물리 세계(로봇·공장·디바이스)로 확산되는 구조적 전환 ✅ 중복 없음
+→ **다양성 판정**: 2026-05-26에 동일 클러스터(EV/자율주행) + 동일 유형(📊 종목 해부)가 7일 전 존재.
+그러나 **종목과 앵글이 완전히 상이**:
+- 5/26: Lucid Motors ($LCID) = EV 제조사가 생존 위기 속 로보택시로 피벗하는 스토리
+- 오늘: Aurora Innovation ($AUR) = 이미 달리고 있는 세계 최초 상업 자율주행 트럭의 수익화 모델
+
+Lucid = "약속을 파는 기업", Aurora = "현실로 달리는 기업" — 완전히 다른 투자 테제. ✅ 통과
 
 ---
 
 ## 후보 테마 3개
 
-### 후보 1: Physical AI 원년 — COMPUTEX 2026, 로봇·공장·자동차가 AI 반도체의 다음 고객이 된다 ✅ **선정**
+### 후보 1: $AUR (Aurora Innovation) — 운전석이 비어야 돈이 된다 ✅ **선정**
 
-**설명:**
-오늘(6/1) KST 12:00 Jensen Huang이 COMPUTEX 2026 타이베이 뮤직센터에서 기조연설. 핵심 키워드는 "Physical AI" — AI가 데이터센터를 벗어나 로봇(NVIDIA Cosmos/Isaac/Gr00t), 제조 자동화, 자동차(DRIVE AGX), 엣지 디바이스로 확산되는 국면. 훈련(Training) 중심 AI 인프라 슈퍼사이클 1막이 끝나고, 추론(Inference) + 물리 세계 배포 2막이 열리는 구조적 전환.
+**요약**: Aurora Innovation이 2026년 4월 7일 세계 최초로 완전 무인 자율주행 화물 트럭 상업 서비스를 시작(Dallas-Houston I-45). Q1 결과: EPS -$0.10 (컨센서스 -$0.11 비트), 7개 고객사 확보(McLane/Berkshire, FedEx, Hirschbach 포함). 연말까지 200대+ 무인 트럭 목표. Q2 2세대 하드웨어 키트 출시 예정. YTD +57%.
 
-추가 카탈리스트: Jensen Huang이 어제(5/31) 한국 4대 그룹(삼성·SK·현대차·LG)과 AI 칩·로보틱스 회의. 이는 한국 산업계의 Physical AI 대응을 국제 비교 소재로 활용 가능.
+**왜 지금인가**: 
+- 4/7 상업 런칭 이후 약 2달이 지난 지금이 "첫 성적표 해부" 최적 타이밍
+- Northland 커버리지 개시 + Morgan Stanley PT $14 vs 현 주가 ~$5.30 — 괴리 이유 분석 필요
+- DaaS(Driver as a Service) 수익 모델이 SaaS처럼 작동할 수 있는가가 핵심 질문
 
-- **핵심 URL 1:** https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/
-- **핵심 URL 2:** https://en.sedaily.com/finance/2026/05/31/jensen-huang-to-meet-koreas-top-4-conglomerates-on-ai-chips
-- **핵심 URL 3:** https://finance.biggo.com/news/CAqos50BvthpMgHBOlhD (Five-Layer Cake 프리뷰)
-
----
-
-### 후보 2: Inference 시대의 주역 — AVGO D+2 어닝, AI 추론 반도체 2막의 승자 ❌ 탈락
-
-**탈락 이유:**
-ASIC 슈퍼사이클은 5/11 [DEEP]에서 다뤘고, AI 데이터센터 인프라 투자는 5/25 [DEEP]에서 다뤘음. "NVIDIA vs ASIC vs 커스텀 칩" 구도 반복. D+2 AVGO 어닝(6/3)은 14:00 트리거의 투자 시사점 섹션에서 충분히 다룰 수 있어 굳이 딥테마로 올릴 필요 없음.
+**핵심 URL**:
+- https://ir.aurora.tech/news-events/press-releases/detail/139/aurora-announces-first-quarter-2026-results
+- https://finance.yahoo.com/markets/stocks/articles/aurora-innovation-aur-expands-driverless-083608688.html
 
 ---
 
-### 후보 3: Jensen Huang의 'Five-Layer Cake' 해부 — AI 가치사슬의 5층 구조 ❌ 탈락
+### 후보 2: $RIVN (Rivian) — ❌ 탈락
 
-**탈락 이유:**
-후보 1(Physical AI)의 소재와 70% 겹침. Five-Layer Cake 프레임워크 자체가 Physical AI + Agentic AI를 포함하는 메타 프레임이라 별도 테마보다 후보 1 내 섹션으로 흡수하는 것이 낫다. 소버린 AI(5/18 [DEEP]), AI 데이터센터 카펙스(5/25 [DEEP])와의 유사성도 있음.
-
----
-
-## 선정 테마: Physical AI 원년 — COMPUTEX 2026, 로봇·공장·자동차가 AI 반도체의 다음 고객이 된다
-
-**제목 방향 제안:**
-"AI가 몸을 얻는다 — 젠슨 황의 COMPUTEX 선언, Physical AI가 열어젖힌 반도체 2막"
+**탈락 이유**: Uber $1.25B 로보택시 딜 발표 후 주가 -13.5% 역설은 흥미롭지만, 5/26 Lucid 딥다이브에서 이미 Uber-Rivian 딜을 보조 비교 대상으로 언급함. R2 생산 램프·깊은 적자·EBITDA 수익성 2027 이후 등 핵심 드라이버가 "아직 스토리 진행 중"이라 확정적 해부 시점이 아님. 오늘 당장 주가를 움직일 dated 카탈리스트 없음(Q2 어닝은 7월 예정).
 
 ---
 
-**선정 이유:**
+### 후보 3: $UBER — AV 플랫폼 전환 — ❌ 탈락
 
-1. **요일 테마 정렬** — 월요일 = AI 인프라/반도체 클러스터, 📡 테크트렌드 유형. Physical AI는 AI 반도체의 새로운 수요층을 조망하는 테크트렌드 분석에 최적.
-
-2. **지난 7일 차별화** — 5/25 [DEEP]은 "AI 데이터센터 카펙스가 어디 가나"(공급 투자 흐름), 오늘은 "AI가 물리 세계로 나가면 누가 칩을 만드나"(수요 확산). 완전히 다른 각도.
-
-3. **오늘의 카탈리스트(실시간)** — Jensen Huang COMPUTEX 키노트(KST 12:00 오늘). 14:00 트리거 작성 시점에 키노트 전문 분석 가능. 딥다이브와 카탈리스트 타이밍이 완벽하게 일치.
-
-4. **1차 자료 확보 가능성** — NVIDIA 공식 COMPUTEX/GTC 자료, SEC EDGAR(Tesla Optimus/Mobileye 관련 8-K), NVIDIA GTC 키노트 트랜스크립트, IFR(국제로봇연맹) 연례 보고서, Seoul Economic Daily(한국 4대 그룹 미팅).
-
-5. **시장 관심도** — 오늘 키노트 후 관련 종목($NVDA, $ISRG, 현대차 보스턴다이나믹스, 삼성) 반응이 즉각 나타날 것. 아시아 장(KST) 시간대와 타이밍 일치.
+**탈락 이유**: Waymo, Aurora, Rivian/Nuro, Baidu Apollo Go 다중 파트너 통합 전략은 매력적이나, 자율주행이 아직 Uber 밸류에이션의 minor fraction이라 "종목 해부" 유형으로 깊이 파기 어려움. Q2 어닝도 8월 예정으로 카탈리스트 부족.
 
 ---
 
-**다룰 좋은 관점 (14:00 작성용 힌트):**
+## 선정 테마: Aurora Innovation ($AUR)
 
-- **시계열:** 2016 AlphaGo(게임 AI) → 2019 대형 언어모델 훈련 → 2022 ChatGPT(클라우드 AI) → 2024 엣지 AI칩(NPU 탑재) → 2026 Physical AI(로봇·공장). AI가 "데이터센터 가두기"를 깨는 10년 역사의 변곡점.
+**제목 방향 제안**:
+"운전석이 비어야 돈이 된다 — 인류 첫 상업 자율주행 트럭 두 달 성적표, Aurora의 DaaS 경제학"
 
-- **국제 비교:** 미국(NVIDIA Gr00t + Figure + Tesla Optimus) vs 한국(현대차 보스턴다이나믹스 아틀라스, 삼성 휴머노이드 TF, Jensen Huang 어제 직접 미팅) vs 중국(Unitree H1, 샤오미 CyberOne) vs 일본(FANUC + SoftBank) vs 유럽(ABB 산업용 로봇). 한국이 제조업 로봇화 수혜 국가로 주목받는 이유.
+**선정 이유**:
+1. **화요일 EV/자율주행 클러스터 완벽 정렬** — 순수 자율주행 소프트웨어+하드웨어 플랫폼
+2. **지난 7일 차별화** — 5/26 Lucid(EV 제조사 피벗)과 앵글 완전 상이. 로보택시(승용차 B2C)가 아닌 자율주행 트럭(B2B DaaS) 경제학으로 완전히 새로운 서사
+3. **머뉴에서 한 번도 딥다이브 하지 않은 종목** — _recent.md 전체 조회 시 $AUR 딥다이브 없음 ✅
+4. **1차 자료 확보 가능** — Aurora IR 어닝콜 트랜스크립트(Motley Fool), SEC EDGAR 10-K, 파트너십 PR(McLane/Berkshire, Hirschbach, Volvo, FedEx), 애널리스트 노트(Morgan Stanley, TD Cowen, Northland)
+5. **명확한 투자 테제 긴장감** — Morgan Stanley PT $14 vs 현재 ~$5.30 (163% 업사이드). "왜 시장은 아직 믿지 않는가?"가 5섹션 구조의 핵심 질문
 
-- **반대 시각:** Physical AI가 실제 반도체 '매출'로 연결되는 데 몇 년이 걸리나? 로봇 1대 칩 단가는 데이터센터 GPU 대비 극도로 낮음. "소비자 전자기기 역사"의 반복 — 수량 늘어도 ASP 하락으로 매출 성장 제한. 에너지/냉각 병목이 Physical AI 확산을 늦출 가능성.
+**다룰 좋은 관점 (14:00 작성용 힌트)**:
 
-- **시사점(종목 힌트):** ① $NVDA — Cosmos/Isaac 플랫폼이 Physical AI OS로, SW 레이어 수익 다각화 ② $ISRG, ABB — 기존 산업 로봇 강자의 AI 접목 ③ 현대차(005380.KS) — 보스턴다이나믹스 아틀라스 상업화 + Jensen Huang 미팅 ④ 삼성전자 — HBM이 로봇 추론 칩에도 필수 ⑤ AVGO D+2 어닝(6/3) — Physical AI 커스텀 ASIC 수요 연결 고리.
+- **이야기**: 2026년 4월 7일 오전, Dallas-Houston I-45 위 운전석이 빈 18륜 트럭 — 로보택시보다 트럭이 먼저 실현된 이유
+
+- **시계열**: 2017 Waymo 무인 시작 → 2018 Aurora 창업(Urmson/ex-Google, Anderson/ex-Tesla) → 2021 SPAC $13B → 2022~2023 현금 소진·로보택시 버블 붕괴 → 2024 승용차 포기·트럭 집중 피벗 → 2026-04-07 역사적 첫 상업 주행. Cash runway 및 burn rate 시계열 포함.
+
+- **국제 비교**: 미국(Aurora/Kodiak/Torc) vs 중국(智加科技 PlusAI/위라이드 WeRide) vs 유럽(Volvo Autonomous Solutions/Einride) vs 한국(현대차 수소트럭 자율화 로드맵/카카오모빌리티). 왜 승용차보다 트럭이 먼저 상업화됐나: 고속도로 전용·예측 가능한 경로·B2B 계약 구조.
+
+- **반대 시각**: 2026년 연간 매출 $14-16M으로 수백M 달러 적자 감당 가능한가? SPAC 이후 주식 희석 리스크. Waymo Freight·Tesla Semi의 잠재 위협. "DaaS"가 진짜 SaaS처럼 작동하는지 미증명.
+
+- **시사점**: Q2 2세대 하드웨어 키트 배포·연말 200대 달성 여부가 핵심 체크포인트. Morgan Stanley $14 vs Hold 진영 논리 차이. 한국 투자자 관점: 현대차·HD현대 트럭 자율화 수혜 포인트, Berkshire McLane 계약 의미.
