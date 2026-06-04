@@ -1,180 +1,202 @@
-# 달러가 다시 태어나는 날 — 스테이블코인 패권전쟁, 5인의 선언이 말하는 것
+🕙 AVGO가 무너진 날, 스페이스X가 막을 올렸다 — 이란이 흔들고, 나스닥이 기침한다
 
-**2026년 6월 4일 | 머뉴 딥다이브 | 🎤 보이스 컴필**
-
----
-
-## 이야기: 한쪽에선 달러를 코드에 올리고, 다른 쪽에선 그 코드를 두려워한다
-
-2026년 5월 27일, 캘리포니아 새벽. SoFi Bank는 보도자료 하나를 배포했다.
-"SoFiUSD — 미국 최초, OCC 인가 국법은행이 퍼블릭 블록체인에 발행하는 스테이블코인."
-
-14.7백만 명의 SoFi 앱 사용자들은 이제 대출·저축·투자를 하는 같은 앱 안에서 달러를 Ethereum과 Solana 위의 토큰으로 바꿀 수 있게 됐다. 1대1 교환 보장, 독립 CPA 정기 증명. 거창하게 들리지 않을 수 있다. 하지만 이 사건이 중요한 이유는 SoFi 자체가 아니다.
-
-6일 뒤인 6월 1일, 지구 반대편 서울. 유럽중앙은행(ECB) 집행이사 Isabel Schnabel이 한국은행 국제 컨퍼런스 단상에 올라 경고를 날렸다. "달러 기반 스테이블코인은 세 가지 경로로 글로벌 금융 안정을 위협한다." 세 번째 위험을 말할 때 그녀의 목소리에는 묘한 긴박감이 담겼다.
-
-> "이는 경제적 펀더멘털이 아닌 **네트워크 효과를 통해 달러 지배력을 강화**할 수 있다."
-
-한쪽에서 미국은 달러를 코드 위에 올리고 있다. 다른 쪽에서 유럽은 그 코드가 달러 제국을 영구화할 것을 두려워한다. 총 **$321B(약 437조 원)**에 달하는 전 세계 스테이블코인 시장이 2026년 하반기, 규제·기술·패권이 동시에 교차하는 전쟁터가 되고 있다.
-
-그 전쟁터의 5인이 지난 수개월간 던진 말들을 모아 읽으면, 하나의 그림이 완성된다.
+머뉴 MoneyNews 오후 브리핑 | 2026년 6월 4일 (목) | 돈이 되는 모든 것에 대한 소식
 
 ---
 
-## 시계열: 달러를 코드로 만들려던 12년의 격전사
+🇰🇷 오늘 한국 장 마감
 
-### "이 아이디어는 단순하다 — 그래서 실패도 단순하다"
+코스피 **8,801 (6/2 ATH 기준)** / 코스닥 ~1,080 / 원달러 **1,530원**
 
-스테이블코인의 역사는 크립토의 역사만큼이나 짧고 격렬하다.
-
-**2014년**: Tether(USDT)가 등장했다. 달러 1개를 맡기면 토큰 1개를 준다. 당시 암호화폐 거래소에서 달러를 주고받으려면 전통 은행을 거쳐야 했다 — 느리고 비쌌다. USDT는 그 문제를 해결했다.
-
-**2018년**: Circle이 USDC를 출시했다. 이번엔 처음부터 규제 준수를 목표로. 당시 USDT가 90% 이상을 장악하던 시장이었다.
-
-**2021년**: DeFi 붐이 터지면서 스테이블코인 수요가 폭발했다. Terraform Labs의 Terra(UST)가 알고리즘 기반 달러 페그를 들고 등장했고, 고금리(최대 20%)로 수백억 달러를 끌어모았다.
-
-**2022년 5월**: 8일 만에 **$45B이 사라졌다.** UST는 1달러 페그를 잃었고, 연동된 LUNA는 99% 폭락했다. 알고리즘 스테이블코인은 본질적으로 뱅크런에 취약하다는 것이 증명됐다.
-
-그 이후 시장은 분열됐다. "담보 기반으로 다시 만들자"와 "규제가 없으면 안 된다" 두 목소리. 그 두 갈래가 2025년에 하나로 만났다.
-
-**2025년 7월 18일**: 트럼프 대통령이 GENIUS Act에 서명했다. 미국 최초의 연방 스테이블코인 법. 상원 68-30, 하원 308-122 — 이례적인 초당파 통과. 핵심 조항: 100% 달러 또는 저위험 자산 담보 의무. 알고리즘 기반 언페그 스테이블코인은 법적으로 발행 불가능해졌다.
-
-**2026년 5~6월 현재:**
-
-| 연도 | 이벤트 | 스테이블코인 총 시총 |
-|------|--------|---------------------|
-| 2022 초 | Terra 최고점 | ~$180B |
-| 2022 5월 | Terra 붕괴 | -$45B 충격 |
-| 2024 말 | MiCA 완전 적용 | ~$200B |
-| 2025 7월 | GENIUS Act 서명 | ~$250B |
-| 2026 6월 | 현재 | **~$321B** |
-
-그리고 USDC의 Q1 2026 온체인 거래량은 **$21.5조(Trillion)**, YoY +263%다. 시총 증가보다 거래량 증가가 훨씬 빠르다 — 실제로 쓰이고 있다는 뜻이다. Citi는 2025년 보고서에서 2030년 Base 케이스 **$1.9T**, Bull 케이스 **$4T**를 전망한다. 현재의 10~12배.
+6월 3일 현충일로 쉬고 오늘 다시 열린 한국 증시는 AVGO 쇼크와 이란 전쟁 리스크를 맞닥뜨렸다. 지난 2일 코스피는 8,801을 찍으며 또 한번 역대 최고를 갈아치웠고, 골드만삭스는 바로 그날 "코스피는 2026년 100% 올랐고, 여전히 35% 추가 상승 여지가 있다"는 리포트를 냈다. 하지만 오늘 재개장은 훈훈하지 않았다. 나스닥 선물이 AVGO 어닝 쇼크로 밀리면서 반도체·AI 종목 중심으로 차익실현 압력이 왔다. 원달러 환율은 2009년 3월 이후 최고 수준인 1,530원으로 출발했다. 오늘의 한국 장은 글로벌 AI 사이클이 '확장'에서 '검증'으로 넘어가는 첫 번째 무게 시험이었다.
 
 ---
 
-## 국제 비교: 미국은 달리고, 유럽은 막고, 한국은 망설인다
+🇺🇸 미국 프리마켓
 
-### 같은 기술, 다른 선택
+선물: **S&P -0.4%** / **나스닥 -0.9%** / **WTI $95.17 (-0.9%)** / **금 $4,500 (+0.7%)** / **BTC $62,347 (-4.2%)**
 
-**🇺🇸 미국 — 규제 후 가속**
+나스닥 선물이 흔들리는 이유는 두 가지다. 첫째, AVGO가 어제 장 마감 후 실적을 발표했는데 AI 매출은 +143% 사상 최고를 쳤지만, 소프트웨어 매출이 컨센서스를 1.9% 밑돌았고 Hock Tan CEO가 연간 AI 매출 목표를 올리지 않았다. 월가는 "구지 않으면 실망"으로 읽어 AVGO를 -15% 때렸다. 둘째, 미국과 이란의 휴전 협상이 엇박자를 내고 있다. 트럼프는 "이번 주말 딜 가능"이라 했지만 이란 외교장관은 "진전 없음"이라 반박했다. WTI는 $95로 안정되었지만 언제든 다시 뛸 준비가 돼 있다. BTC는 ETF 순유출 10연속 세션에 $62,000선을 간신히 지키는 중이다.
 
-GENIUS Act 이후 미국 시장에선 은행들이 직접 뛰어들었다. 2025년 12월, Circle과 Ripple이 같은 날 OCC(통화감독국) 조건부 은행 인가를 받았다. JPMorgan은 이미 기관 투자자용 예금 토큰 JPMD를 Ethereum L2 Base 위에 올렸다. SoFiUSD가 퍼블릭 블록체인 위에 국법은행 스테이블코인의 첫 테이프를 끊었다.
+📌 오늘 밤 시장을 움직일 변수
 
-핵심 인물들의 목소리:
+1. **스페이스X IPO 로드쇼 D-Day** — 주당 $135, $1.77조 밸류에이션으로 오늘 공식 시작. 역대 최대 IPO의 서막. HOOD·SoFi·피델리티·슈왑이 소매 창구 역할. 로드쇼 흥행도가 SPCX D+7 가격 결정(6/11)의 분위기를 좌우한다. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-june-4-2026-nasdaq-futures-slide-amid-iran-war-concerns)
 
-**Brian Armstrong (Coinbase CEO)** — "Scale stablecoins and payments"를 2026년 2대 목표로 공개 선언. 동시에 은행 로비단체를 공개 저격했다.
-> "For whatever reason, sometimes incumbent industries have trade groups, and they view the world with a zero-sum mindset — for the banks to win, crypto has to lose."
+2. **LULU 오늘 AMC** — lululemon이 장 마감 후 Q1 FY26 실적을 발표한다. 컨센서스 EPS $1.68(전년比 -35%), 매출 $2.43B. 주가는 연초 대비 -39%로 극단적 과매도 상태. 가이던스 톤이 전부다. [Motley Fool](https://www.fool.com/investing/2026/06/01/lululemon-athleticas-next-earnings-report-on-june/)
 
-**Tim Scott (상원 은행위원장)** — CLARITY Act(포괄 크립토 시장 구조 법안)를 추진 중. 5월 14일 위원회 15-9 통과, 6월 1일 Senate Calendar 등재. "Good-faith negotiations"의 산물이라고 강조. 여름 휴회 전 8주 안에 상원 전체 표결(60표 필요)을 목표로 한다.
-
-**Jeremy Allaire (Circle CEO)** — 서울에서 이렇게 선언했다.
-> **"Stablecoins are not crypto — they are global payment infrastructure."**
-
-CLARITY Act의 스테이블코인 수익 조항(거래 기반 보상은 허용, 패시브 이자는 금지)에 대해서도 긍정적이다. "It has to be based on real transactions, real payments volume, real activities, and that's exactly the kind of incentivization that we want to see."
-
-**💶 유럽 — MiCA로 막았지만, 달러는 이미 들어왔다**
-
-EU는 세계에서 가장 앞선 스테이블코인 규제 프레임인 MiCA를 2024년 12월 30일 완전 시행했다. 달러 스테이블코인에는 일 100만 건 또는 €2억 초과 거래 제한이 걸렸다. Binance·Coinbase·Kraken·Crypto.com은 2024-12~2025-03 EEA 사용자 대상 USDT 스팟 거래를 전면 폐지했다.
-
-결과? 유로화 스테이블코인 시총은 **€450~500M**. 달러 스테이블코인의 **0.2%**다. 규제로 달러를 막았지만, 유로 대안이 그 공백을 채우지 못했다. 그래서 Schnabel이 서울에서 경고를 날린 것이다 — EU 안팎에서 달러 스테이블코인은 여전히 지배적이다.
-
-ECB의 대응 전략은 두 가지다: 디지털 유로(소매용)와 'Pontes' 프로젝트(DLT 네트워크와 TARGET 인프라를 연결하는 브리지). 제한보다는 공공 인프라 확장으로 맞서겠다는 것이다.
-
-**🇰🇷 한국 — 법 만들다가 싸운다**
-
-한국은 2026년 4월 디지털자산기본법(DABA)을 발의했다. 스테이블코인 발행자에게 100% 준비금 의무, 이자 지급 금지. 여기까지는 글로벌 표준이다. 문제는 '누가 발행하느냐'다.
-
-한국은행: "은행이 51% 지분을 보유해야 스테이블코인 발행 가능."
-금융위원회(FSC): "그러면 핀테크 혁신이 죽는다. EU와 일본처럼 비은행 발행을 허용해야."
-
-결국 입법이 지연됐다. 해외 USDT·USDC가 국내에서 계속 활용되려면 국내 지점 설립과 한국 규제 준수가 의무화될 예정이다 — 카카오페이, 네이버파이낸셜, 토스 같은 국내 핀테크가 스테이블코인 발행 경쟁에 뛰어들 여지가 생긴다.
-
-**🇨🇳 중국 vs 🇸🇬 싱가포르·🇭🇰 홍콩**
-
-중국은 민간 스테이블코인을 금지하고 국가 주도 디지털 위안화(e-CNY)를 추진 중이다. 정반대로, 싱가포르와 홍콩은 스테이블코인 발행자에 규제 샌드박스를 제공하며 글로벌 발행 허브를 노린다.
-
-**전통 페이먼트의 선택 — Mastercard $1.8B 베팅**
-
-이 글로벌 전쟁에서 가장 실용적인 결론을 내린 회사는 Mastercard다. 2026년 3월 17일, 영국 스타트업 BVNK를 **최대 $1.8B**에 인수한다고 발표했다. BVNK는 130개국+에서 스테이블코인과 법정화폐를 연결하는 결제 인프라 회사다.
-
-Mastercard의 셈법: "어차피 달러가 코드로 이동한다면, 그 코드와 기존 카드 네트워크 사이의 다리가 돼라." 달러 스테이블코인 패권이 누구에게 가든, Mastercard는 수수료를 받는다.
+3. **COIN CFTC 승인** — 코인베이스가 글로벌 크립토 무기한 선물(Perpetual Futures) 거래 미국 최초 허가를 받았다. 상장 파생상품의 80%를 차지하는 퍼펄 시장에 공식 진입. $COIN +4% 급등. [Blockonomi](https://blockonomi.com/coinbase-coin-stock-jumps-4-following-cftc-approval-for-perpetual-futures-trading/)
 
 ---
 
-## 반대 시각: 스테이블코인이 왜 실제로 쓰이지 않을 5가지 이유
+💰 관심 종목 현황
 
-모든 낙관론에 균열을 낼 5가지 질문이다.
-
-**① Tether가 여전히 59%를 먹는다**: 무규제, 역외 운영, 준비금 투명성 논란에도 불구하고 $188B. 규제를 준수하는 USDC($78B)와의 격차는 2.4배. "규제 = 신뢰 = 채택"이라는 공식이 시장에서 통하지 않고 있다. 글로벌 트레이더들, 특히 개발도상국 사용자들은 규제보다 유동성과 접근성을 더 중시한다.
-
-**② SoFiUSD의 실사용 의문**: 14.7M 사용자 대부분은 학자금 대출, 자동차 보험, 저축 고객이다. 이들이 일상적으로 스테이블코인을 쓸 이유가 있을까? 은행이 발행했다고 수요가 자동 생성되지 않는다. 실사용 데이터가 없다.
-
-**③ CLARITY Act 60표의 함정**: 위원회 15-9는 상원 전체 60표가 아니다. 다수의 민주당 의원이 "금융 안정성 우려"를 이유로 추가 규제를 요구한다. 8주 안에 20명을 더 설득하는 것은 쉽지 않다.
-
-**④ 은행 스테이블코인의 담 쌓기**: JPMorgan JPMD는 기관 투자자 전용 폐쇄형 네트워크. JPMorgan 발행 스테이블코인과 Circle USDC가 자유롭게 교환되지 않는다면, "스테이블코인 생태계"가 아닌 "스테이블코인 사일로"다.
-
-**⑤ 규제 비용이 혁신을 죽인다**: EU MiCA 1년 후 EU 내 활성 스테이블코인 발행자는 30개사. 규제가 선제적으로 시장을 정리했지만, 그 결과 달러 스테이블코인이 떠난 자리를 유로 대안이 채우지 못했다. 과도한 규제가 역외 무규제 플레이어에게 시장을 넘기는 역설이 MiCA에서 실험 중이다.
-
----
-
-## 시사점: 달러 코드 전쟁의 승자를 고르는 법
-
-5인의 발언을 교차 분석하면 하나의 그림이 완성된다: **스테이블코인은 이미 크립토의 영역을 넘어, 글로벌 달러 패권의 디지털 전선이 됐다.** 그렇다면 투자자 관점에서 어디에 베팅할 것인가?
-
-**$COIN (Coinbase) — 가장 직접적인 수혜, CLARITY Act에 달렸다**
-
-USDC 이자 수익과 거래 수수료는 Coinbase의 핵심 매출축이다. CLARITY Act가 통과돼 활동 기반 보상이 합법화되면 수익 모델이 확장된다. 반대로 60표 확보 실패 시 현상 유지. **체크포인트: 향후 8주 내 상원 전체 표결.**
-
-**$MA (Mastercard) — 달러 코드 위에 올라타는 가장 안전한 방법**
-
-BVNK 인수 완료 시, Mastercard는 스테이블코인 결제 레일의 오케스트레이터가 된다. USDC가 성장하든, SoFiUSD가 성장하든 Mastercard는 수수료를 받는다. **Bull-Bear 양방향 헤지로 접근 가능.**
-
-**$SOFI — 장기 옵션, 단기 실사용 증거 대기**
-
-SoFiUSD는 전략적으로 옳다. 하지만 주가에는 기대가 상당 부분 반영돼 있다. **1년 후 분기 실적에서 SoFiUSD 거래량 데이터가 나올 때 진입 판단.**
-
-**한국 투자자를 위한 핀포인트**
-
-ECB Schnabel이 서울에서 경고한 이유가 있다. 한국 거래소 거래량의 상당 부분이 USDT 기반으로 움직인다. DABA 통과 후 해외 스테이블코인 규제 강화 + 국내 핀테크(카카오페이, 토스, 네이버파이낸셜) 스테이블코인 시장 진입이 현실화될 경우, 국내 디지털 금융 지형이 바뀐다.
+| 티커 | 가격 | 등락 | 목표가 | 한줄 |
+|------|------|------|--------|------|
+| $TSLA | $421 | - | $450+ | 오스틴 무인 로보택시 6/3 공식 런칭, FSD 10개국, 구독자 130만 |
+| $GOOGL | ~$374 | -3% | $440 | $84.75B 자본 조달(버크셔 $10B 포함), AI 인프라 올인 |
+| $NVDA | ~$226 | -1% | $300 | 오늘 배당락(ex-div), Physical AI 모멘텀 소강 |
+| $COIN | ~$185 | +4% | $220 | CFTC 퍼펄 선물 승인 — 미국 최초 오프쇼어 파생상품 게이트웨이 |
+| $NFLX | ~$83 | -1% | $120 | $25B 자사주매입 진행 중, 스트리밍 광고 수익 성장세 |
+| $OKLO | ~$70 | 0% | $80 | BofA Buy $80 유지, DOE 모멘텀 지속 |
+| $OHI | ~$38 | 0% | $42 | 헬스케어 리츠 안정적, 배당수익률 유효 |
+| $SPY | ~$758 | -0.4% | - | 이란+AVGO 쇼크로 소강, S&P 7,580 권 |
+| $QQQ | ~$462 | -0.8% | - | 나스닥 27K 돌파 후 첫 조정, AVGO 낙폭 반영 |
 
 ---
 
-**가장 중요한 체크포인트 3:**
+👀 오늘 밤 주목할 것
 
-| 이벤트 | 시점 | 의미 |
-|--------|------|------|
-| CLARITY Act 상원 전체 표결 | 8주 이내 | $COIN/$USDC 수익 모델 확장 여부 |
-| SoFiUSD 분기 거래량 공개 | 분기 실적 시즌 | 은행 스테이블코인 실수요 첫 증거 |
-| 한국 DABA 입법 일정 | 2026 하반기 | 국내 핀테크 지형 재편 여부 |
+- **AVGO -15%가 가르쳐주는 것**: AI 매출이 +143%여도 소프트웨어 한 줄이 시장을 흔든다. '예상보다 더 잘해야 한다'는 기준이 하늘 높은 줄 모른다. 장 개장 후 반도체 섹터의 충격 흡수 속도를 지켜봐라.
+- **이란 리스크**: WTI $100 돌파 시 연준의 금리 인하 기대가 후퇴하고 방산주가 다시 뜬다. 오늘 이란 외교장관 발언 계속 모니터링.
+- **스페이스X 로드쇼 수요**: $135 고정가에 기관들이 어느 정도 물량을 받아가느냐가 6/11 가격 결정의 힌트.
 
 ---
 
-Schnabel의 경고가 맞을 수도 있다. 달러 스테이블코인이 경제 펀더멘털이 아닌 네트워크 효과로 달러 제국을 영구화할 수 있다는 것.
+🔥 오늘의 픽 — 핀테크/결제/크립토 (목요일 테마)
 
-하지만 그 제국이 코드 위에 세워진다면, 코드를 설계하는 사람들이 다음 역사를 쓴다.
+🌡️ 시장 온도
 
-그 역사를 Armstrong과 Allaire와 Mastercard가 쓰려 한다. 그리고 그들 뒤에서, 한국의 카카오페이가 조용히 법안을 기다리고 있다.
+AVGO가 AI 최고실적을 내놓고도 -15%를 맞은 날이다. 시장의 기준은 "좋은 것"이 아니라 "기대보다 더 좋은 것"이다. BTC는 $62K로 밀렸고 나스닥 선물은 흔들린다. 공포와 탐욕 지수는 중립권으로 내려왔다. 하지만 역설적으로 핀테크·크립토 섹터는 오늘 가장 확실한 스토리를 갖고 있다.
+
+🎯 오늘의 테마
+
+목요일은 핀테크/결제/크립토 클러스터의 날이다. 오늘 스크리너는 #2(모멘텀) + #3(내부자) + #4(어닝서프라이즈) 조합으로 돌렸다. 시장 전체가 AVGO 쇼크와 이란 리스크로 방어적이지만, 크립토 시장에는 COIN의 CFTC 승인이라는 구조적 사건이 터졌다. 더 정확히는, 오늘의 두 픽은 "시장이 흔들릴 때 확실한 카탈리스트를 가진 종목"이라는 역발상에서 나온다.
 
 ---
 
-## 출처
+💡 픽 1: 역대 최대 IPO의 소매 창구 — 오늘이 D-Day다
 
-1. **White House GENIUS Act 팩트시트** (2025-07) — [whitehouse.gov](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/)
-2. **SoFi IR 공식 보도자료** — [investors.sofi.com](https://investors.sofi.com/news/news-details/2026/SoFiUSD-Becomes-the-First-Stablecoin-Issued-by-a-US-National-Bank-to-Launch-on-a-Banking-Platform/default.aspx)
-3. **Mastercard IR 공식 발표** (2026-03-17) — [investor.mastercard.com](https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-to-Acquire-BVNK-to-Connect-On-Chain-Payments-and-fiat-Rails/default.aspx)
-4. **ECB Isabel Schnabel 공식 연설** (서울, 2026-06-01) — [ecb.europa.eu](https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html)
-5. **Ripple OCC 인가 신청서** — [occ.gov](https://www.occ.gov/topics/charters-and-licensing/digital-assets-licensing-applications/ripple-national-trust-bank.pdf)
-6. **Circle OCC 조건부 승인** (2025-12-12) — [circle.com](https://www.circle.com/pressroom/circle-receives-conditional-approval-from-occ-for-national-trust-charter)
-7. **Citi "Stablecoins 2030" 보고서** — [citigroup.com](https://www.citigroup.com/global/insights/stablecoins-2030)
-8. **CNBC — CLARITY Act 위원회 통과** — [cnbc.com](https://www.cnbc.com/2026/05/14/clarity-act-congress-crypto-senate.html)
-9. **CryptoTimes — CLARITY Act Senate Calendar** — [cryptotimes.io](https://www.cryptotimes.io/2026/06/03/clarity-act-reaches-senate-calendar-as-crypto-awaits-verdict/)
-10. **Decrypt — Armstrong 2026 우선순위** — [decrypt.co](https://decrypt.co/353503/coinbase-targeting-stablecoin-growth-onchain-adoption-in-2026-brian-armstrong)
-11. **CoinDesk — Armstrong 은행 로비 비판** — [coindesk.com](https://www.coindesk.com/policy/2026/02/18/banking-trade-groups-responsible-for-impause-on-market-structure-bill-brian-armstrong-says)
-12. **Benzinga — Allaire CLARITY Act 지지** — [benzinga.com](https://www.benzinga.com/crypto/cryptocurrency/26/05/52475777/jeremy-allaire-stablecoin-rewards-usdc-adoption)
-13. **Bitcoin Foundation — 스테이블코인 $321B** — [bitcoinfoundation.org](https://bitcoinfoundation.org/news/stablecoin-news/stablecoin-market-cap-tops-321b/)
-14. **CoinDesk — CLARITY Act 스테이블코인 조항** — [coindesk.com](https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing)
-15. **CryptoSlate — JPMorgan JPMD on Base** — [cryptoslate.com](https://cryptoslate.com/jpmorgan-just-put-real-bank-deposits-on-ethereum-and-beat-the-fed-to-24-7-settlement/)
-16. **CoinDesk — 한국 DABA 발의** (2026-04) — [coindesk.com](https://www.coindesk.com/policy/2026/04/08/south-korea-proposes-cryptocurrency-law-with-bank-style-rules-for-stablecoins)
+**$HOOD | Robinhood Markets** (시총 $74.6B, 핀테크/브로커리지)
 
-<!-- slack_trigger: 2026-06-04 -->
+스페이스X가 오늘 역대 최대 IPO의 막을 올렸다. 주당 $135 고정가, 5억 5,500만 주, $75B 조달, $1.77조 밸류에이션. 이 공모에서 주목할 숫자가 하나 있다. 전체 공모의 **30%가 소매 투자자 전용 물량**이다. 역사적 평균의 3배다. 그 소매 창구 중 한 곳이 바로 Robinhood다. HOOD는 오늘부터 앱 내 'IPO Access' 기능을 통해 SPCX 청약을 받기 시작한다. 최소 잔액 없음. 6/11 가격 결정, 6/12 나스닥 상장.
+
+Robinhood가 스페이스X IPO에서 벌 돈은 단순한 수수료가 아니다. IPO 참여자들은 계좌를 새로 열거나 자금을 이체한다. 그 자금이 HOOD의 예탁금으로 남으면 순이자수익이 된다. HOOD는 작년 한 해 거래수수료보다 예탁금 이자에서 더 많은 돈을 벌었다. 역대 최대 IPO = 역대 최대 자금 유입 기회다.
+
+리스크는 있다. HOOD는 배정을 보장하지 않는다. 수요가 폭발하면 소매 물량도 쪼개진다. 그리고 HOOD 주가는 이미 스페이스X 기대감을 일부 반영한 상태다($81.53, 6/3 종가). D+7 가격 결정일까지 변동성은 클 것이다.
+
+📊 스코어카드
+기술적 **3**/3 | 수급 **1**/3 | 카탈리스트 **2**/2 | 펀더멘털 **1**/2 | 신선도 **+1** | 종합 **8**/10
+📅 D-Day: **6/11 (SPCX 가격 결정)**, **6/12 (나스닥 상장)**
+
+---
+
+💡 픽 2: 오늘부터 자기 주식을 산다 — 과매도와 바이백이 만날 때
+
+**$NU | Nu Holdings** (시총 ~$60B, LatAm 핀테크/네오뱅크)
+
+오늘(6/4) Nu Holdings 이사회가 **$10억 자사주매입 프로그램을 공식 발동**했다. 유효기간 1년(~2027/6/3). 오픈마켓 또는 파생거래로 Class A 보통주를 매입한다. 규모는 시총의 약 1.7%에 해당하는 물량이다.
+
+타이밍이 흥미롭다. NU는 어제(-7%) BofA의 목표가 하향과 마진 우려로 낙폭이 컸다. 동시에 콜롬비아에 $1.3억을 추가 투자하며 LatAm 세 번째 시장 공략을 가속화 중이다. 그리고 오늘 새벽, 차기 CFO로 Visa 북미 CFO 출신 Rob Livingston을 영입한다고 발표했다. 7/13 공식 취임. Visa 출신의 결제 DNA가 네오뱅크에 이식된다.
+
+Nu는 1억 명 이상의 브라질·멕시코·콜롬비아 고객을 보유한 세계 최대 디지털 은행이다. Q1 FY26 기준 순이익은 전년비 꾸준히 성장 중이다. BofA 하향이 마진 압박에 주목하는 건 정당하지만, 동시에 $1B 바이백을 발동하는 경영진은 다른 이야기를 하고 있다. 누가 맞는지는 7/13 이후 Livingston의 첫 IR 발언에서 드러날 것이다.
+
+📊 스코어카드
+기술적 **2**/3 | 수급 **2**/3 | 카탈리스트 **2**/2 | 펀더멘털 **2**/2 | 신선도 **+1** | 종합 **9**/10
+📅 D-Day: **6/4 (바이백 시작)**, **7/13 (신규 CFO 취임 / 첫 IR 발언)**
+
+---
+
+⚠️ 투자 조언이 아닌 데이터 기반 분석. 모든 투자 결정은 독자의 판단과 책임 하에 이루어집니다.
+
+---
+
+📰 AVGO가 흔든 하루, 크립토가 구조적 전환을 선언하다
+
+**[증시] AI는 맞췄는데, 소프트웨어에 뒤통수 맞은 AVGO**
+
+어제 밤 Broadcom이 Q2 FY26 실적을 발표했다. AI 반도체 매출 $108억(+143% YoY) — 컨센서스 초과. 총 매출 $222억(+48% YoY) — 컨센서스 초과. Non-GAAP EPS $2.44 — 컨센서스 초과. 그런데 주가는 -15%다. 이유는 두 가지다. 첫째, 인프라 소프트웨어 매출 $71.8억이 컨센서스 $73.2억에 1.9% 못 미쳤다. VMware 통합 효과가 기대만큼 빠르지 않다는 신호다. 둘째, Hock Tan CEO는 연간 AI 반도체 매출 가이던스 $1,000억(+100% YoY)을 올리지 않았다. Q3 AI 매출 $160억(+200% YoY) 가이던스는 강력했지만, 시장은 "연간 목표를 올렸어야 한다"고 반응했다. AVGO의 교훈: 하늘을 찌른 기대치는 실제 성과가 훌륭해도 만족하지 않는다. [stocktitan](https://www.stocktitan.net/news/AVGO/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial-if4yrbje8hq6.html)
+
+---
+
+📊 핀테크/크립토 — 목요일 주축 뉴스
+
+**1. 코인베이스, 퍼펄 선물 미국 최초 승인 — 크립토 파생상품의 문이 열렸다**
+
+CFTC가 Coinbase에 글로벌 크립토 무기한 선물(Perpetual Futures) 거래 허가를 내줬다. Deribit($31억 BTC 옵션 오픈인터레스트, 코인베이스가 $29억에 인수)와 파트너십으로 운영된다. 퍼펄 선물은 전 세계 크립토 거래량의 80%를 차지하는 상품이다. 미국 투자자들이 이 시장에 합법적으로 들어올 수 있는 첫 번째 공식 채널이 생겼다.
+
+BTC·ETH·SOL·DOGE 등 '디지털 상품' 퍼펄을 지원하며, 기관 온보딩은 이미 시작됐다. 소매 접근은 추후 단계적으로 개방된다. $COIN은 이 소식에 +4% 급등했다. 배경을 보면 더 선명하다. CLARITY Act가 상원 표결을 기다리는 지금, CFTC 승인은 "입법이 완성되기 전에도 규제 기관이 크립토를 정상화하기 시작했다"는 신호다. 반면 Jamie Dimon(JPMorgan CEO)은 오늘 Coinbase CEO Brian Armstrong을 직접 공격하며 CLARITY Act 반대를 선언했다. "코인베이스는 사실상 은행처럼 기능하면서 은행 규제를 피하고 있다"는 논리다. 지금은 규제 경쟁의 전선이 갈라지는 순간이다. [Blockonomi](https://blockonomi.com/coinbase-coin-stock-jumps-4-following-cftc-approval-for-perpetual-futures-trading/) · [cryptonews](https://cryptonews.net/news/legal/32949652/)
+
+**2. 스페이스X, 역대 최대 IPO의 막을 올리다 — $135, 오늘부터 로드쇼**
+
+SpaceX가 오늘 주당 $135 고정가로 IPO 로드쇼를 시작했다. $1.77조 밸류에이션, $75B 조달, 사우디 아람코($294억)의 2.5배. S-1에 따르면 Anthropic이 xAI에 월 $12.5억(연간 $15B)을 컴퓨트 비용으로 지불하는 계약이 있다. 이것 하나가 SpaceX를 단순한 로켓 회사에서 AI 인프라 회사로 탈바꿈시킨다. 소매 투자자 30% 물량은 HOOD·SoFi·피델리티·슈왑·E-Trade에서 청약 가능하다. D+7(6/11) 가격 결정, D+8(6/12) 나스닥 상장. 가격이 올라갈 가능성도 있다 — $135는 "최소한"의 숫자일 수 있다. [CNBC](https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html) · [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/261945743-avgo-stock-forecast-why-broadcom-dropped-17-percent-and-whats-next-tradingkey)
+
+**3. GOOGL, $84.75B 자본 조달 완료 — 버크셔가 구글에 $100억을 베팅하다**
+
+Alphabet이 $84.75억(당초 $80B에서 증액) 규모 자본 조달을 완료했다. 구성은 ① 버크셔 해서웨이 사모 $100억(Class A $5B, Class C $5B, 시가 대비 6% 할인) ② 공모 $300억(전환우선주 $150억 + 보통주 $150억) ③ ATM(시장 매출) $400억(Q3 2026부터 단계적). 목적은 하나다: AI 컴퓨트 인프라 확장. 버핏의 후계자들이 AI 인프라에 $100억을 베팅했다는 사실이 시장에 전하는 메시지는 "이건 거품이 아니다"에 가깝다. 다만 주식 희석(약 2%)이 단기 악재로 작용할 수 있어 GOOGL 주가는 소폭 하락 중이다. [Seeking Alpha](https://seekingalpha.com/news/4599490-alphabet-raises-80b-for-ai-investments-including-10b-from-berkshire-hathaway) · [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending)
+
+---
+
+🏢 기업 뉴스
+
+**$TSLA — 오스틴 무인 로보택시, 공식 런칭**
+
+6월 3일, Tesla가 오스틴 광역권에서 무감독 로보택시 서비스를 공식 런칭했다. 4월에 달라스·휴스턴에 이어 세 번째 텍사스 도시다. FSD는 현재 10개국에서 운영 중이며, Q1 FY26 기준 구독자 수는 130만 명을 넘었다. 누적 주행거리 84억 마일 — Waymo(2억 마일)의 42배다. 여전히 대규모 상업화까지 갈 길은 멀지만, "약속에서 데이터로" 전환은 분명히 가속화되고 있다. [GuruFocus](https://www.gurufocus.com/news/8900269/tesla-expands-robotaxi-service-signaling-shift-towards-ai-and-automation)
+
+**$COIN — CFTC 승인으로 +4%**, 크립토 파생상품 최전선 (위 참조)
+
+**$NVDA — 오늘 배당락(Ex-Dividend Day)**
+
+NVIDIA가 오늘 배당락일을 맞는다. 분기 배당은 소액이지만, 배당락일 특성상 주가에 기계적 조정이 반영된다. 실질적인 시장 영향보다는 Physical AI 모멘텀과 COMPUTEX 이후 소강 국면이 더 큰 요인이다. Q3 AI 매출 가이던스 $88B는 변함없이 유효하다.
+
+**$GOOGL — AI 인프라 올인** (위 참조)
+
+---
+
+🌍 흥미로운 이야기
+
+**이란, 이란, 이란 — 유가는 $95, 나스닥은 기침 중**
+
+미 하원이 트럼프 대통령의 대이란 군사작전 권한을 제한하는 결의안을 통과시켰다. 공화당 일부도 동조했다. 동시에 트럼프는 "이번 주말 딜 가능"이라 말했지만 이란 외교장관은 "중요한 진전 없음"이라 반박했다. WTI는 $95에서 -0.9% 하락했지만 여전히 $100 위험을 인식하고 있다. $100 돌파 시나리오: 이란 협상 결렬 → WTI $105+ → 인플레 우려 재점화 → 금리 인하 기대 후퇴 → 성장주 추가 타격. 오늘 밤 주목해야 할 변수다. [PBS](https://www.pbs.org/newshour/economy/doubts-about-the-u-s-iran-ceasefire-push-oil-prices-toward-100-and-slow-stocks)
+
+**BTC $62K — ETF 순유출 10연속 세션의 무게**
+
+비트코인이 $62,347까지 밀렸다. 불과 2주 전만 해도 $77K였다. 미국 비트코인 ETF에서 10 거래세션 연속 순유출이 일어났다. 기관 자금이 빠지는 속도가 소매 매수보다 빠른 국면이다. 단기 지지선은 2월 저점 $60K 근방이다. 역설적으로 이 구간은 COIN에게는 파생상품 수요가 폭발하는 시점이기도 하다. [CoinDesk](https://www.coindesk.com/daybook-us/2026/06/01/bitcoin-remains-under-pressure-as-etf-outflows-higher-oil-prices-weigh-on-crypto-markets)
+
+---
+
+🔍 딥다이브 & 스마트머니
+
+**📅 어닝 캘린더 — 오늘이 D-Day**
+
+- **$LULU (lululemon) AMC 오늘**: 컨센서스 EPS $1.68(YoY -35%), 매출 $2.43B. 주가 연초 대비 -39%($126권). 관건은 FY26 가이던스 톤이다. 북미 소비 약화 + 관세 인상 이중 압박. 에어컨이 꺼진 스튜디오에서 숨을 죽이는 분위기. 서프라이즈 없으면 -10% 가능, 가이던스 상향 시 +15% 반등 여지. 5/30 AM에 D+5 카탈리스트로 픽했던 종목이다.
+
+**📊 애널리스트 컨센서스 — $COIN**
+
+CFTC 퍼펄 승인 직후 $COIN은 +4% 급등. 애널리스트 28인 컨센서스는 Buy, 평균 목표가 $296-304(현재가 대비 +50%+). 하이 포캐스트 $400. Deribit 인수($29억)와 CFTC 승인이 합쳐진 구조는 COIN을 단순 거래소에서 "크립토 골드만삭스"로 재정의하는 시도다. CLARITY Act 통과 시 COIN의 스테이블코인 커스터디 수수료 모델이 추가 매출원이 된다. 반면 Jamie Dimon의 공개 반대는 의회 내 은행 로비의 강도를 높인다. [Blockonomi](https://blockonomi.com/coinbase-coin-stock-jumps-4-following-cftc-approval-for-perpetual-futures-trading/) · [Coinbase Blog](https://www.coinbase.com/blog/perpetual-futures-have-arrived-in-the-us)
+
+**💹 옵션·수급 동향**
+
+- **SPCX 프리-IPO 퍼펄**: Coinbase가 스페이스X 상장 전 퍼펄 계약을 오늘부터 상장. 투자자들이 SPCX 가격 전망을 베팅할 수 있는 첫 번째 공식 파생 채널이다.
+- **$COIN 옵션**: CFTC 뉴스 이후 콜 옵션 거래량 급증. $220-$240 행사가 6월·7월 만기 콜이 집중 매수되는 양상.
+- **$HOOD 옵션**: SpaceX IPO 로드쇼 시작 + D+7 가격 결정까지 내재 변동성(IV) 확대 예상. $85-$90 행사가 6/12 만기 콜에 이상 주목.
+
+**🏦 스마트머니 동향**
+
+| 주체 | 최근 동향 |
+|------|----------|
+| **ARK Invest** | ARKK $77.63(6/3) / ARKF $43.10(5/31 기준). 지난 2주 TSLA 대규모 매도 후 소강 국면. 바이오 섹터(ARKG) 매수 지속 |
+| **빌 애크먼 (Pershing Square)** | 여름 $10B 배포 예고. $MSFT 신규 포지션 5/21. 구체적 타겟 미공개 |
+| **Goldman Sachs 헤지펀드 추적** | 헤지펀드 반도체 비중 10% 역대 최고(지속). AVGO -15% 이후 일부 롱 포지션 조정 예상 |
+| **$NU Holdings** | 자사주 $10억 바이백 TODAY 공식 발동. "경영진이 현재 주가를 저평가로 인식" 신호 |
+| **Goldman on Korea** | "코스피 2026년 100% 상승 — 여전히 35% 추가 상승 여력" 6/3 리포트. AI 수혜 + 삼성 HBM 사이클 핵심 논거 |
+
+**💰 밸류에이션 체크 — 핀테크/크립토 섹터**
+
+| 티커 | 현재가 | 컨센 목표가 | 업사이드 | 주요 카탈리스트 |
+|------|--------|------------|---------|----------------|
+| $COIN | ~$181 | $296-304 | +65%+ | CFTC 퍼펄 승인, CLARITY Act, Deribit 통합 |
+| $HOOD | ~$81 | $95-100 | +20% | SpaceX IPO 소매 창구, 예탁금 유입 |
+| $SOFI | ~$14 | $18 | +29% | SoFiUSD 스테이블코인 런칭(5/27), S&P500 편입 |
+| $AFRM | ~$65 | $88 | +35% | Q3 FY26 매출+30%, 어닝서프라이즈 연속 |
+
+---
+
+🎙️ 오늘의 팟캐스트 — 버크셔가 구글을 샀다는 게 뭘 의미하는가
+
+**1. TBPN | "Google Taps Berkshire, History of Confidential IPO Filings, AI Executive Order, Putin's Longevity"** (2026-06-02)
+
+오늘 뉴스레터의 가장 큰 이야기를 팟캐스트 포맷으로 가장 잘 다룬 에피소드다. Google이 버크셔 해서웨이로부터 $100억을 받아 $84.75억 자본 조달을 완성했다는 소식을 TBPN 진행자 John Coogan과 Jordi Hays가 해부했다.
+
+핵심 논점: 버핏의 계승자들이 AI 인프라에 $100억을 베팅했다는 사실은 "이건 닷컴 버블이 아니다"는 신호로 읽힌다. 버크셔의 투자 철학은 단기 트렌드 추종이 아니라 20년 이상 복리 성장이 가능한 구조를 찾는 것이다. Alphabet의 AI 컴퓨트 수요가 "공급 한계에 도달했다"는 경영진 발언을 그들이 액면 그대로 믿었다는 뜻이다.
+
+두 번째 세그먼트에서는 기밀 IPO 신청(Confidential S-1 Draft Submission)의 역사를 다뤘다. JOBS Act 2012 이후 도입된 이 절차로 스타트업들은 SEC 심사를 받는 동안 경쟁사에 재무 정보를 노출하지 않을 수 있다. SpaceX도 이 절차를 활용해 공개 S-1 이전까지 $15B Anthropic 계약 등 핵심 정보를 감췄다. 오늘 스페이스X 로드쇼가 시작된 날, 이 맥락을 이해하는 것이 중요하다. [YouTube](https://www.youtube.com/watch?v=onWx5AO4qAE) · [TBPN](https://tbpn.substack.com/p/google-taps-berkshire)
