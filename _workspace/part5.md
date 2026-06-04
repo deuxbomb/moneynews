@@ -1,6 +1,12 @@
-━━━━━━━━━━━━━━━━━━━━━━━
-🎙️ 테크 팟캐스트 — 발사대에서 폭발한 로켓, 그리고 AI가 돈이 되는 순간
-━━━━━━━━━━━━━━━━━━━━━━━
 
-1. **TBPN** "New Glenn Explodes, Enterprise AI Enters ROI Era, The Dinosaur Fossil Boom" (2026-05-29)
-   Blue Origin의 New Glenn이 케이프커내버럴에서 폭발하던 그날(5/28) 다음날 TBPN이 바로 분석에 나섰다. 세 개 주제가 흥미롭다: ① New Glenn 폭발 — 베조스 vs 머스크의 로켓 격차가 어디서 왔는지, Blue Origin의 문화와 실행력 문제를 짚었다. ② Enterprise AI ROI 시대 — "AI 토큰 비용이 10배 하락하면 수요가 10배 증가한다"는 역설의 시대가 열렸다. 이제 기업들이 AI 도입을 ROI로 정당화하기 시작했다. John Coogan은 "이게 닷컴 버블과 다른 이유"를 설명했다. ③ 공룡 화석 투자 붐 — 억만장자들이 화석을 투자 자산으로 사들이는 새로운 트렌드. 소더비에서 $11M에 낙찰된 스피노사우루스 이야기. AI 시대에도 희소한 실물 자산은 매력이다. [tbpn.com](https://www.tbpn.com/)
+---
+
+🎙️ 오늘의 팟캐스트 — 버크셔가 구글을 샀다는 게 뭘 의미하는가
+
+**1. TBPN | "Google Taps Berkshire, History of Confidential IPO Filings, AI Executive Order, Putin's Longevity"** (2026-06-02)
+
+오늘 뉴스레터의 가장 큰 이야기를 팟캐스트 포맷으로 가장 잘 다룬 에피소드다. Google이 버크셔 해서웨이로부터 $100억을 받아 $84.75억 자본 조달을 완성했다는 소식을 TBPN 진행자 John Coogan과 Jordi Hays가 해부했다.
+
+핵심 논점: 버핏의 계승자들이 AI 인프라에 $100억을 베팅했다는 사실은 "이건 닷컴 버블이 아니다"는 신호로 읽힌다. 버크셔의 투자 철학은 단기 트렌드 추종이 아니라 20년 이상 복리 성장이 가능한 구조를 찾는 것이다. Alphabet의 AI 컴퓨트 수요가 "공급 한계에 도달했다"는 경영진 발언을 그들이 액면 그대로 믿었다는 뜻이다.
+
+두 번째 세그먼트에서는 기밀 IPO 신청(Confidential S-1 Draft Submission)의 역사를 다뤘다. JOBS Act 2012 이후 도입된 이 절차로 스타트업들은 SEC 심사를 받는 동안 경쟁사에 재무 정보를 노출하지 않을 수 있다. SpaceX도 이 절차를 활용해 공개 S-1 이전까지 $15B Anthropic 계약 등 핵심 정보를 감췄다. 오늘 스페이스X 로드쇼가 시작된 날, 이 맥락을 이해하는 것이 중요하다. [YouTube](https://www.youtube.com/watch?v=onWx5AO4qAE) · [TBPN](https://tbpn.substack.com/p/google-taps-berkshire)

@@ -1,55 +1,54 @@
-━━━━━━━━━━━━━━━━━━━━━━━
-📈 AVGO가 AI의 다음 증거를 내놓는다 — 9주 랠리 이후, 오늘 시장은 내일을 기다린다
-━━━━━━━━━━━━━━━━━━━━━━━
 
-나스닥이 사상 처음 27,000선을 넘어선 다음날이다. 오늘 장은 소강이다. 하지만 시장이 멈춘 게 아니라 내일(6/3)을 기다리고 있다. 브로드컴(AVGO) Q2 실적 발표. AI 반도체 매출 $10.7B(+140% YoY) 컨센서스를 달성하면, NVIDIA의 $81.6B 비트에 이어 AI 인프라 사이클이 GPU를 넘어 커스텀 ASIC·네트워킹으로 확산하고 있음이 두 번 확인된다. 달성 못 하면? 9주 랠리의 피로가 한꺼번에 쏟아질 수 있다.
+---
 
-한편 알파벳이 $80B 규모의 신규 주식 발행을 발표하고 버크셔해서웨이가 $10B 사모 참여를 확정했다(6/1). 워런 버핏이 마침내 AI 인프라 전쟁에 뛰어들었다. 오마하의 현인이 선택한 종목이 애플이 아닌 구글이라는 점이 상징적이다. [Alphabet IR](https://investor.google.com/) · [Bloomberg](https://www.bloomberg.com/)
+📰 AVGO가 흔든 하루, 크립토가 구조적 전환을 선언하다
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🚗 BYD가 선을 그었다 — 자율주행의 책임, 처음으로 기업이 끌어안다
-━━━━━━━━━━━━━━━━━━━━━━━
+**[증시] AI는 맞췄는데, 소프트웨어에 뒤통수 맞은 AVGO**
 
-**1. 세계 최초: BYD "God's Eye" 전면 배상 선언**
-어제(6/1) BYD가 자동차 산업 역사에 남을 선언을 했다. "God's Eye 도심 자율주행 시스템이 활성화된 상태에서 사고가 발생하면, BYD가 모든 직접 손해를 무제한으로 배상한다." 수리비, 제3자 재산, 부상. 상한선 없다.
+어제 밤 Broadcom이 Q2 FY26 실적을 발표했다. AI 반도체 매출 $108억(+143% YoY) — 컨센서스 초과. 총 매출 $222억(+48% YoY) — 컨센서스 초과. Non-GAAP EPS $2.44 — 컨센서스 초과. 그런데 주가는 -15%다. 이유는 두 가지다. 첫째, 인프라 소프트웨어 매출 $71.8억이 컨센서스 $73.2억에 1.9% 못 미쳤다. VMware 통합 효과가 기대만큼 빠르지 않다는 신호다. 둘째, Hock Tan CEO는 연간 AI 반도체 매출 가이던스 $1,000억(+100% YoY)을 올리지 않았다. Q3 AI 매출 $160억(+200% YoY) 가이던스는 강력했지만, 시장은 "연간 목표를 올렸어야 한다"고 반응했다. AVGO의 교훈: 하늘을 찌른 기대치는 실제 성과가 훌륭해도 만족하지 않는다. [stocktitan](https://www.stocktitan.net/news/AVGO/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial-if4yrbje8hq6.html)
 
-이건 단순한 마케팅이 아니다. BYD는 작년(2025년 7월) 스마트 주차 기능에 동일한 책임보험을 도입했다. 결과? 해당 기능의 실제 사용률이 21%에서 93%로 뛰었다. 사람들은 기능이 있어도 책임 불명확이 두려워 안 쓴다. 이번에는 도심 자율주행 전체로 확대했다.
+---
 
-테슬라 FSD는 이 약속을 단 한 번도 한 적이 없다. Waymo도 공식적으로 무제한 책임을 선언하지 않았다. 자율주행이 "기술 데모"에서 "법적 책임 있는 상품"으로 격상되는 변곡점이다. [Electrek](https://electrek.co/2026/06/01/byd-gods-eye-accepts-liability-tesla-never-has/) · [CleanTechnica](https://cleantechnica.com/2026/06/01/byd-takes-on-crash-liability-when-its-driver-assist-system-is-active/)
+📊 핀테크/크립토 — 목요일 주축 뉴스
 
-**2. RIVN R2 D+7 — 8일째 달린다**
-리비안 주가가 8거래일 연속 상승하며 +8.89%를 기록했다. 동력은 하나다: 6월 9일, R2 SUV 퍼포먼스 트림($58K, 330마일 항속) 고객 인도 시작. 리비안 최초의 mass-market 모델이다. 2025년 연간 인도가 42,247대였는데, 올해 가이던스가 62,000~67,000대로 뛴 것은 전적으로 R2 덕분이다. VW $1B 기관 참여, Uber 50,000대 로보택시 계약 — 모든 큰 베팅이 R2 플랫폼에 걸렸다. [TraderUnion](https://tradersunion.com/news/financial-news/show/2176413-rivian-surges-8-89percent-to-usd16-54/)
+**1. 코인베이스, 퍼펄 선물 미국 최초 승인 — 크립토 파생상품의 문이 열렸다**
 
-**3. XPeng, 중국 최초 L4 로보택시 양산 1호 출고**
-샤오펑(XPEV)이 광저우 GX 플랫폼에서 순수 비전 기반 L4 로보택시를 대량생산 체제로 돌입했다(5/28 발표, Q1 어닝 비트 5/29). 독자 개발 Turing AI 칩을 탑재했다. Q1 2026 실적은 매출 역성장이었지만 마진 회복과 Q2 인도량 개선 가이던스로 시장은 미래를 봤다. Wall Street 컨센서스 목표가 $23.39(현재 $15.59 대비 +50%). [Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/motley/2206102/xpeng-xpev-q1-2026-earnings-transcript/)
+CFTC가 Coinbase에 글로벌 크립토 무기한 선물(Perpetual Futures) 거래 허가를 내줬다. Deribit($31억 BTC 옵션 오픈인터레스트, 코인베이스가 $29억에 인수)와 파트너십으로 운영된다. 퍼펄 선물은 전 세계 크립토 거래량의 80%를 차지하는 상품이다. 미국 투자자들이 이 시장에 합법적으로 들어올 수 있는 첫 번째 공식 채널이 생겼다.
 
-━━━━━━━━━━━━━━━━━━━━━━━
+BTC·ETH·SOL·DOGE 등 '디지털 상품' 퍼펄을 지원하며, 기관 온보딩은 이미 시작됐다. 소매 접근은 추후 단계적으로 개방된다. $COIN은 이 소식에 +4% 급등했다. 배경을 보면 더 선명하다. CLARITY Act가 상원 표결을 기다리는 지금, CFTC 승인은 "입법이 완성되기 전에도 규제 기관이 크립토를 정상화하기 시작했다"는 신호다. 반면 Jamie Dimon(JPMorgan CEO)은 오늘 Coinbase CEO Brian Armstrong을 직접 공격하며 CLARITY Act 반대를 선언했다. "코인베이스는 사실상 은행처럼 기능하면서 은행 규제를 피하고 있다"는 논리다. 지금은 규제 경쟁의 전선이 갈라지는 순간이다. [Blockonomi](https://blockonomi.com/coinbase-coin-stock-jumps-4-following-cftc-approval-for-perpetual-futures-trading/) · [cryptonews](https://cryptonews.net/news/legal/32949652/)
+
+**2. 스페이스X, 역대 최대 IPO의 막을 올리다 — $135, 오늘부터 로드쇼**
+
+SpaceX가 오늘 주당 $135 고정가로 IPO 로드쇼를 시작했다. $1.77조 밸류에이션, $75B 조달, 사우디 아람코($294억)의 2.5배. S-1에 따르면 Anthropic이 xAI에 월 $12.5억(연간 $15B)을 컴퓨트 비용으로 지불하는 계약이 있다. 이것 하나가 SpaceX를 단순한 로켓 회사에서 AI 인프라 회사로 탈바꿈시킨다. 소매 투자자 30% 물량은 HOOD·SoFi·피델리티·슈왑·E-Trade에서 청약 가능하다. D+7(6/11) 가격 결정, D+8(6/12) 나스닥 상장. 가격이 올라갈 가능성도 있다 — $135는 "최소한"의 숫자일 수 있다. [CNBC](https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html) · [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/261945743-avgo-stock-forecast-why-broadcom-dropped-17-percent-and-whats-next-tradingkey)
+
+**3. GOOGL, $84.75B 자본 조달 완료 — 버크셔가 구글에 $100억을 베팅하다**
+
+Alphabet이 $84.75억(당초 $80B에서 증액) 규모 자본 조달을 완료했다. 구성은 ① 버크셔 해서웨이 사모 $100억(Class A $5B, Class C $5B, 시가 대비 6% 할인) ② 공모 $300억(전환우선주 $150억 + 보통주 $150억) ③ ATM(시장 매출) $400억(Q3 2026부터 단계적). 목적은 하나다: AI 컴퓨트 인프라 확장. 버핏의 후계자들이 AI 인프라에 $100억을 베팅했다는 사실이 시장에 전하는 메시지는 "이건 거품이 아니다"에 가깝다. 다만 주식 희석(약 2%)이 단기 악재로 작용할 수 있어 GOOGL 주가는 소폭 하락 중이다. [Seeking Alpha](https://seekingalpha.com/news/4599490-alphabet-raises-80b-for-ai-investments-including-10b-from-berkshire-hathaway) · [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending)
+
+---
+
 🏢 기업 뉴스
-━━━━━━━━━━━━━━━━━━━━━━━
 
-**$TSLA 텍사스 AV 42대 vs Waymo 577대 — 격차의 의미**
-텍사스 주 파일링에 따르면 테슬라의 완전자율 차량은 현재 42대, Waymo는 577대다. 테슬라 1대당 Waymo 13.7대가 달리고 있다. 머스크는 "연말까지 미국 전역 보편화"를 약속했지만, Waymo는 이미 주당 40만 건 라이드를 처리하고 있다. 단, 접근 방식이 다르다 — 테슬라는 소비자 차량 기반의 범용 FSD, Waymo는 전용 차량 기반의 지역 특화 L4. [CNBC](https://www.cnbc.com/2026/05/28/tesla-robotaxi-fleet-texas-one-tenth-size-of-waymos-filings-reveal.html)
+**$TSLA — 오스틴 무인 로보택시, 공식 런칭**
 
-한편 테슬라 FSD의 유럽 승인은 도미노처럼 이어지고 있다. 리투아니아 이어 벨기에 테스트 승인 확인, 그리스 입법 논의 중. EU 공식 승인이 현실화되면 유럽 시장이 한꺼번에 열린다.
+6월 3일, Tesla가 오스틴 광역권에서 무감독 로보택시 서비스를 공식 런칭했다. 4월에 달라스·휴스턴에 이어 세 번째 텍사스 도시다. FSD는 현재 10개국에서 운영 중이며, Q1 FY26 기준 구독자 수는 130만 명을 넘었다. 누적 주행거리 84억 마일 — Waymo(2억 마일)의 42배다. 여전히 대규모 상업화까지 갈 길은 멀지만, "약속에서 데이터로" 전환은 분명히 가속화되고 있다. [GuruFocus](https://www.gurufocus.com/news/8900269/tesla-expands-robotaxi-service-signaling-shift-towards-ai-and-automation)
 
-**$GOOGL 배당 엑스데이 D+6 + Waymo 신형 Ohai 출시**
-구글 배당 엑스데이는 6월 8일(D+6). 2026년 Q1부터 배당을 재개한 알파벳의 첫 연간 사이클. Waymo가 신형 로보택시 "Ohai"를 5월 28일부터 선택 탑승자에게 공개했다. 지크(Zeekr) 제조, 6세대 드라이버, 카메라 13개/라이다 4개/레이더 6개. 재래식 재규어 기반 대비 제조 원가가 크게 낮아졌다. 연말까지 수천 대 보급 목표. [TechCrunch](https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/)
+**$COIN — CFTC 승인으로 +4%**, 크립토 파생상품 최전선 (위 참조)
 
-**$NVDA AVGO 어닝 전야 포지셔닝**
-NVIDIA COMPUTEX Physical AI 발표(6/1) 여진이 지속되고 있다. Jensen Huang의 "Physical AI 원년" 선언과 함께 발표된 Cosmos 3, GR00T N1.7, Isaac GR00T 레퍼런스 휴머노이드가 로봇 섹터에 불을 지폈다. 내일 AVGO 어닝이 AI 반도체 수요의 두 번째 증거가 될 것이다. Q3 가이던스 $22.5B+ 이면 주가 강세 지속 예상.
+**$NVDA — 오늘 배당락(Ex-Dividend Day)**
 
-**$COIN CLARITY Act D-? + BTC $73K**
-비트코인이 $73,200으로 소폭 하락(-0.6%). CLARITY Act 상원 전체 표결이 가을 이전 목표로 여전히 진행 중. 팀 스콧 "여름 전 서명" 목표는 지연되고 있지만 타임라인이 무너지지는 않은 상태. COIN은 표결 결과에 직접 연동.
+NVIDIA가 오늘 배당락일을 맞는다. 분기 배당은 소액이지만, 배당락일 특성상 주가에 기계적 조정이 반영된다. 실질적인 시장 영향보다는 Physical AI 모멘텀과 COMPUTEX 이후 소강 국면이 더 큰 요인이다. Q3 AI 매출 가이던스 $88B는 변함없이 유효하다.
 
-**$OKLO DOE 모멘텀 지속**
-DOE 잉여플루토늄 연료 전환 선정 효과가 소화되고 있다. BofA Buy $80 유지. 6월 중 후속 계약 상세 공개가 예상되는 시점.
+**$GOOGL — AI 인프라 올인** (위 참조)
 
-━━━━━━━━━━━━━━━━━━━━━━━
-💡 흥미로운 이야기
-━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-**Blue Origin New Glenn, 발사대에서 폭발 — 베조스에게 닥친 최악의 날**
-5월 28일 밤 9시, 케이프커내버럴 발사단지에서 New Glenn 로켓의 정적 발사 테스트 중 폭발이 발생했다. 인명피해는 없다. 그러나 New Glenn의 유일한 발사 시설인 LC-36이 손상되었다. 아마존 Leo 위성 배치를 위한 6월 4일 발사는 불가능해졌다. SpaceX가 1년에 수십 회 발사하는 동안, Blue Origin은 2024년 첫 발사 이후 2026년 아직도 폭발을 겪고 있다. 베조스의 로켓 꿈이 머스크의 1/10 속도로 가고 있다. [Spaceflight Now](https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/)
+🌍 흥미로운 이야기
 
-**BYD 솔리드스테이트 배터리, "수개월 안에" 배포 시작**
-BYD가 차세대 전고체 배터리 탑재 차량을 "수개월 내에" 출시한다고 밝혔다. 도요타 LF-ZC가 취소되는 사이, BYD는 이 기술의 첫 대규모 배포자가 될 가능성이 높다. 에너지 밀도 2배, 충전 속도 3배. 전고체가 EV의 마지막 퍼즐이라면, BYD가 먼저 그 조각을 맞출 수 있다. [InsideEVs](https://insideevs.com/)
+**이란, 이란, 이란 — 유가는 $95, 나스닥은 기침 중**
+
+미 하원이 트럼프 대통령의 대이란 군사작전 권한을 제한하는 결의안을 통과시켰다. 공화당 일부도 동조했다. 동시에 트럼프는 "이번 주말 딜 가능"이라 말했지만 이란 외교장관은 "중요한 진전 없음"이라 반박했다. WTI는 $95에서 -0.9% 하락했지만 여전히 $100 위험을 인식하고 있다. $100 돌파 시나리오: 이란 협상 결렬 → WTI $105+ → 인플레 우려 재점화 → 금리 인하 기대 후퇴 → 성장주 추가 타격. 오늘 밤 주목해야 할 변수다. [PBS](https://www.pbs.org/newshour/economy/doubts-about-the-u-s-iran-ceasefire-push-oil-prices-toward-100-and-slow-stocks)
+
+**BTC $62K — ETF 순유출 10연속 세션의 무게**
+
+비트코인이 $62,347까지 밀렸다. 불과 2주 전만 해도 $77K였다. 미국 비트코인 ETF에서 10 거래세션 연속 순유출이 일어났다. 기관 자금이 빠지는 속도가 소매 매수보다 빠른 국면이다. 단기 지지선은 2월 저점 $60K 근방이다. 역설적으로 이 구간은 COIN에게는 파생상품 수요가 폭발하는 시점이기도 하다. [CoinDesk](https://www.coindesk.com/daybook-us/2026/06/01/bitcoin-remains-under-pressure-as-etf-outflows-higher-oil-prices-weigh-on-crypto-markets)
