@@ -1,84 +1,98 @@
-# 딥다이브 리서치 노트 — 2026-06-01
-## 테마: Physical AI 원년 — COMPUTEX 2026, AI가 클라우드를 벗어나 몸을 얻다
-## 유형: 📡 테크 트렌드 (월요일)
+# 리서치 노트 — 달러의 재발명: 스테이블코인 패권전쟁 (2026-06-04)
 
----
+## 테마
+스테이블코인 패권 전쟁 2026 — 은행·크립토·정부·중앙은행이 동시에 달려든다
 
-## 1차 자료 인용 건수: 7건 ✅
+## 유형
+🎤 보이스 컴필 — 주요 인물 5인 발언 교차 분석
 
-1. IFR 세계 로봇 보고서 (World Robotics 2025 / IFR 2026 Trends)
-2. NVIDIA FY2026 Annual Report / Earnings (SEC EDGAR NVDA 10-K / IR)
-3. TrendForce 중국 휴머노이드 로봇 시장 보고서 (2026-04-09)
-4. MarketsandMarkets Physical AI Market Report (2026-04-21 PRNewswire)
-5. NVIDIA Investor Relations 공식 보도자료 (Physical AI models, GR00T, Cosmos)
-6. NVIDIA + 한국 공식 보도자료 (South Korea AI Infrastructure Partnership)
-7. NVIDIA Vera Rubin 플랫폼 공식 기술 문서 (developer.nvidia.com / Tom's Hardware)
+## 1차 자료 인용 현황
+**총 7건 (기준: 3건 이상 ✅)**
+1. White House GENIUS Act 서명 팩트시트 (whitehouse.gov, 2025-07) — https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/
+2. SoFi IR 공식 보도자료 (investors.sofi.com, 2026-05-27) — https://investors.sofi.com/news/news-details/2026/SoFiUSD-Becomes-the-First-Stablecoin-Issued-by-a-US-National-Bank-to-Launch-on-a-Banking-Platform/default.aspx
+3. Mastercard IR 공식 발표 (investor.mastercard.com, 2026-03-17) — https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-to-Acquire-BVNK-to-Connect-On-Chain-Payments-and-fiat-Rails/default.aspx
+4. ECB Isabel Schnabel 공식 연설문 (ecb.europa.eu, 2026-06-01) — https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html
+5. Ripple OCC 공식 인가 신청서 (occ.gov) — https://www.occ.gov/topics/charters-and-licensing/digital-assets-licensing-applications/ripple-national-trust-bank.pdf
+6. Circle OCC 조건부 승인 공식 발표 (circle.com, 2025-12-12) — https://www.circle.com/pressroom/circle-receives-conditional-approval-from-occ-for-national-trust-charter
+7. Citi "Stablecoins 2030" 보고서 (citigroup.com, 2025) — https://www.citigroup.com/global/insights/stablecoins-2030
 
 ---
 
 ## 선정 이유
-오늘 6/1 KST 12:00 Jensen Huang이 COMPUTEX 2026 타이베이 뮤직센터에서 기조연설. "Physical AI" — AI가 데이터센터를 벗어나 로봇·공장·자동차·개인 디바이스로 확산. 훈련(Training) 중심 AI 인프라 슈퍼사이클 1막이 끝나고, 추론(Inference) + 물리 세계 배포 2막이 열리는 구조적 전환점.
+2026년 상반기, 스테이블코인 시장에 동시다발적 역사적 전환점이 발생했다:
+- 미국 최초 국법은행 스테이블코인 SoFiUSD 런칭 (5/27)
+- GENIUS Act(스테이블코인 법) 시행 약 1년 차
+- CLARITY Act(포괄 크립토 법) 상원 전체 표결 임박
+- ECB 이사 Isabel Schnabel이 서울에서 달러 스테이블코인 패권 경고 (6/1)
+- Mastercard BVNK $1.8B 인수로 전통 페이먼트 기업 스테이블코인 전면 참전
 
 ---
 
-## 팩트 (출처 필수)
+## 핵심 팩트 (출처 포함)
 
-### COMPUTEX 2026 키노트
-1. Jensen Huang, 6/1 오전 11시(현지) 타이베이 뮤직센터 기조연설. GTC Taipei 2026 + COMPUTEX 병행 (6/1~5) — 출처: https://www.nvidia.com/en-tw/gtc/taipei/keynote/
-2. 키노트 3대 테마: Agentic AI, Physical AI, AI Factory — 출처: https://www.fool.com/investing/2026/05/31/nvda-stock-jensen-huang-keynote-computex/
-3. "Five Layer Cake" 전략: 에너지 → 칩 → 데이터센터/클라우드 → AI 모델 → 애플리케이션. NVIDIA가 5개 레이어 모두에 포지셔닝 — 출처: https://www.newsbytesapp.com/news/science/nvidia-ceo-jensen-huang-outlines-5-layer-cake-powering-ai/tldr, https://finance.biggo.com/news/CAqos50BvthpMgHBOlhD
+### 시장 규모
+1. 전 세계 스테이블코인 총 시총: 약 $317~321B (2026년 5~6월 기준) — 출처: [Bitcoin Foundation](https://bitcoinfoundation.org/news/stablecoin-news/stablecoin-market-cap-tops-321b/)
+2. Tether USDT 시총: 약 $188B — 전체 시장의 59% 점유 — 출처: [CoinGecko](https://www.coingecko.com/en/coins/tether)
+3. Circle USDC 시총: 약 $77~78B — 출처: [TIKR](https://www.tikr.com/blog/circle-internet-group-stock-whats-next-after-usdc-hits-75-billion-in-circulation)
+4. USDC 온체인 거래량: Q1 2026 $21.5조(Trillion), YoY +263% — 출처: Circle IR 데이터
+5. 유로화 스테이블코인 시총: 약 €450~500M — 달러 스테이블코인의 0.2% 미만 — 출처: [ECB Schnabel 연설](https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html)
+6. Citi Base 케이스 2030 전망: $1.9T, Bull 케이스: $4T — 출처: [Citi 보고서](https://www.citigroup.com/global/insights/stablecoins-2030)
 
-### Physical AI 신제품 (COMPUTEX/GTC Taipei 2026)
-4. Cosmos 3: 세계 파운데이션 모델, mixture-of-transformers 아키텍처. 1인칭/3인칭으로 물리 세계 시뮬레이션, 텔레오퍼레이션·시뮬레이션·리프로젝션 비디오 학습. 비전 추론·세계 시뮬레이션·액션 생성 벤치마크 최고 성능 — 출처: https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots
-5. GR00T N1.7: 3B 파라미터 VLA(Vision-Language-Action) 모델. 20,000시간 EgoScale 인간 비디오 데이터 사전학습. 상업 라이선스 출시. MolmoSpaces·RoboArena 1위 — 출처: https://huggingface.co/blog/nvidia/gr00t-n1-7
-6. GR00T N2 프리뷰: DreamZero 리서치 기반 월드-액션 모델. 기존 최고 VLA 대비 새 환경 작업 성공률 2배 이상. 연내 출시 예정 — 출처: https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots
-7. Isaac GR00T Reference Humanoid = Unitree H2 Plus(약 183cm) + Sharpa 5지 손 + NVIDIA Jetson Thor. Jetson Thor 스펙: 2,070 FP4 TFLOPS, 128GB 통합 메모리, 40~130W, Blackwell GPU + 14코어 Arm CPU. 스탠퍼드·ETH 취리히 등 연구기관 배포 — 출처: https://www.prnewswire.com/news-releases/unitree-announces-h2-plus-an-nvidia-isaac-gr00t-reference-humanoid-robot-for-academic-research-302786748.html, https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html
+### GENIUS Act (1차 자료: White House)
+7. GENIUS Act: 2025-07-18 Trump 서명. 스테이블코인 1:1 담보 의무, 발행자 OCC 또는 주 감독 기관 인가 필수. 상원 68-30, 하원 308-122 통과 — 출처: [White House 팩트시트](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/)
 
-### RTX Spark (엣지 AI / 개인 AI 컴퓨팅)
-8. RTX Spark 슈퍼칩: Blackwell GPU(6,144 CUDA 코어) + Arm N1X CPU(20코어) + 최대 128GB LPDDR4X(300 GB/s). 1 PFLOP FP4 AI 성능. 120B 파라미터 모델 로컬 실행 가능. MediaTek과 공동 설계 — 출처: https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory
-9. 탑재 파트너: Dell, HP, Lenovo, Microsoft, Asus, MSI. 랩탑 30종+ + 데스크탑 10여 종. 2026년 가을 출시 — 출처: https://www.nvidia.com/en-us/geforce/news/computex-2026-nvidia-geforce-rtx-announcements/
-10. DGX Station: GB300 Grace Blackwell Ultra, 748GB 코히런트 메모리, 20 petaflops FP4 — 출처: Computex 2026 live coverage
+### CLARITY Act (시장 구조 법안)
+8. CLARITY Act: 2026-05-14 상원 은행위원회 15-9 가결. 2026-06-01 상원 전체 의사일정(Senate Calendar) 등재. 통과에 60표 필요. 여름 휴회 전 약 8주 남음 — 출처: [CNBC](https://www.cnbc.com/2026/05/14/clarity-act-congress-crypto-senate.html), [CryptoTimes](https://www.cryptotimes.io/2026/06/03/clarity-act-reaches-senate-calendar-as-crypto-awaits-verdict/)
+9. CLARITY Act 스테이블코인 수익 조항: 패시브 보유 이자 금지 + 거래/결제/스테이킹 기반 보상은 허용 — 출처: [CoinDesk](https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing)
 
-### Vera Rubin (차세대 데이터센터)
-11. Vera Rubin GPU: 336억 트랜지스터. 50 PFLOPs NVFP4 추론 (Blackwell 대비 5배). HBM4 최대 288GB/GPU, 22 TB/s 대역폭 — 출처: https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/
-12. Vera Rubin NVL72: 72 GPU + 36 Vera CPU, 3.6 EFLOPS NVFP4 추론. Blackwell 대비 토큰 비용 10배 절감. 2H 2026 양산 — 출처: https://www.tomshardware.com/pc-components/gpus/nvidia-launches-vera-rubin-nvl72-ai-supercomputer-at-ces-promises-up-to-5x-greater-inference-performance-and-10x-lower-cost-per-token-than-blackwell-coming-2h-2026
+### SoFiUSD 런칭 (1차 자료: SoFi IR)
+10. SoFiUSD: 2026-05-27 런칭. OCC 인가 국법은행 최초 퍼블릭 블록체인 스테이블코인. 1:1 달러 교환, Ethereum + Solana. 사용자 약 14.7M — 출처: [SoFi IR](https://investors.sofi.com/news/news-details/2026/SoFiUSD-Becomes-the-First-Stablecoin-Issued-by-a-US-National-Bank-to-Launch-on-a-Banking-Platform/default.aspx)
 
-### NVIDIA 재무 데이터 (1차 자료: SEC EDGAR / IR)
-13. NVIDIA FY2026 총 매출: $215.9B (+65% YoY) — 출처: https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000038/a2026-annualxreportxwebxfi.pdf (SEC EDGAR ARS FY2026)
-14. 데이터센터 매출: $193.7B (+68% YoY), 총 매출의 89.7%. 네트워킹(NVLink) +142% — 출처: 동일
-15. Physical AI 매출(FY2026): $6B / TTM 기준 $9B+ — 출처: https://www.fool.com/investing/2026/03/04/buy-nvidia-stock-physical-ai-transformation-2035/ (어닝콜 언급 인용)
-16. Blackwell 시스템: 2026년 상반기까지 매진, GPU당 약 $40,000 — 출처: https://futurumgroup.com/insights/nvidia-q4-fy-2026-earnings-highlight-durable-ai-infrastructure-demand/
-17. NVIDIA $1조 AI 칩 수요 선언 (2027년까지 확정 주문 기준) — 출처: https://www.datacenterknowledge.com/data-center-chips/gtc-2026-nvidia-unveils-vera-rubin-ai-platform-eyes-1t-by-2027
+### Mastercard BVNK 인수 (1차 자료: Mastercard IR)
+11. Mastercard BVNK 인수: 2026-03-17 발표, 최대 $1.8B ($1.5B + $300M 조건부). BVNK는 130개국+ 스테이블코인 결제 인프라 스타트업. 2026년 후반 완료 예상 — 출처: [Mastercard IR](https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-to-Acquire-BVNK-to-Connect-On-Chain-Payments-and-fiat-Rails/default.aspx)
 
-### 한국 파트너십
-18. NVIDIA + 한국 4대 그룹 "Korea Partner Night" 6/1 타이베이 다안구. 반도체 공급 + Physical AI 플랫폼(Omniverse·Isaac) 논의 — 출처: https://en.sedaily.com/finance/2026/05/31/jensen-huang-to-meet-koreas-top-4-conglomerates-on-ai-chips
-19. 한국 NVIDIA GPU 배치 260,000개: 삼성(50,000+), SK(50,000+), 현대차(50,000+), 네이버(60,000+). 총 투자액 ₩14.8조 (~$7.8~10.4B) — 출처: https://www.datacenterdynamics.com/en/news/nvidia-to-deploy-more-than-250000-gpus-across-south-korea-with-samsung-sk-group-and-hyundai-all-announcing-ai-factories/
-20. 현대차-NVIDIA Physical AI 파트너십 $3B 규모. 제조 AI + 자율주행 학습/검증/배포 통합 — 출처: https://nvidianews.nvidia.com/news/south-korea-ai-infrastructure
-21. Jensen Huang, 6/5경 한국 방문 예정. 최태원·정의선·구광모·이해진 면담 — 출처: https://en.sedaily.com/finance/2026/05/28/jensen-huang-to-visit-korea-next-month-for-possible-second
+### Circle OCC 조건부 승인 (1차 자료: Circle)
+12. Circle: 2025-12-12 OCC 조건부 승인, "First National Digital Currency Bank, N.A." 설립. USDC 준비금 감독 + 기관 커스터디 목표 — 출처: [Circle 공식](https://www.circle.com/pressroom/circle-receives-conditional-approval-from-occ-for-national-trust-charter)
 
-### 글로벌 시장 (1차 자료: IFR, TrendForce, MarketsandMarkets)
-22. IFR: 2024년 산업용 로봇 542,000대 설치 (역대 최고), 가동 재고 4,664,000대, 시장 $16.7B. 중국 54% 점유. 2028년 700,000대 예상 (CAGR ~7%) — 출처: https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles-over-10-years
-23. Physical AI 시장: $1.5B(2026) → $15.24B(2032), CAGR 47.2%. 아태 50.4% 최대 — 출처: https://www.prnewswire.com/news-releases/physical-ai-market-worth-15-24-billion-by-2032---exclusive-report-by-marketsandmarkets-302732794.html
-24. AI 기반 산업 로봇: $17.9B(2026) → $33.3B(2035), CAGR 7.1% — 출처: https://www.gminsights.com/industry-analysis/ai-powered-industrial-robot-market
+### Ripple RLUSD (1차 자료: OCC)
+13. Ripple National Trust Bank OCC 조건부 승인. RLUSD 공급량 2026년 초 $1.5B 달성 — 출처: [OCC 공식](https://www.occ.gov/topics/charters-and-licensing/digital-assets-licensing-applications/ripple-national-trust-bank.pdf)
 
-### 중국 휴머노이드 로봇 (TrendForce)
-25. 중국 2026년 휴머노이드 생산 +94% 급증. Unitree + AgiBot = 전체 80% 점유 — 출처: https://www.trendforce.com/presscenter/news/20260409-13007.html
-26. Unitree: 2025년 5,500대 출하, 2026년 목표 10,000~20,000대. 생산능력 75,000대/년 — 출처: 동일
-27. AgiBot: 2026년 3월 10,000번째 로봇 출하. 월 1,000→10,000대로 3개월 내 10배 확장 — 출처: 동일
-28. 글로벌 휴머노이드 출하 2026년 50,000대+ (+700% YoY) — 출처: https://www.dqindia.com/esdm/chinas-humanoid-robot-output-to-surge-94-in-2026-unitree-and-agibot-to-capture-nearly-80-market-share-11727677
+### JPMorgan
+14. JPMorgan JPMD (JPM Coin): 2025-06월 Ethereum L2 Base에 예금 토큰 출시. 기관 투자자용 24/7 결제 — 출처: [CryptoSlate](https://cryptoslate.com/jpmorgan-just-put-real-bank-deposits-on-ethereum-and-beat-the-fed-to-24-7-settlement/)
 
-### NVIDIA 로봇 생태계
-29. "Android of Robotics" 전략: GR00T + Isaac + Cosmos가 스마트폰의 Android처럼 로봇 표준 플랫폼 목표 — 출처: https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/
-30. Isaac 로봇 개발자 200만 명. Hugging Face LeRobot 통합으로 Hugging Face 1,300만 AI 빌더와 연결 — 출처: 동일
-31. 파트너: ABB, Agility, AGIBOT, Boston Dynamics, Caterpillar, FANUC, Figure, Hexagon, KUKA, Medtronic, Universal Robots, World Labs, YASKAWA — 출처: https://nvidianews.nvidia.com/news/nvidia-and-global-robotics-leaders-take-physical-ai-to-the-real-world
+### 유럽 MiCA (1차 자료: ECB 연설)
+15. MiCA 2024-12-30 완전 적용. 달러 스테이블코인 일 100만 건 또는 €2억 초과 거래 제한. 2024-12~2025-03 Coinbase·Binance·Kraken·Crypto.com USDT EEA 상장폐지 — 출처: [ECB 연설](https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html)
+
+### 한국
+16. 한국 디지털자산기본법(DABA): 2026-04 발의. 100% 준비금 의무. 은행 51% 지분 주장(한국은행) vs 이노베이션 우선(FSC) 충돌로 지연. 해외 스테이블코인 국내 지점 설립 필요 — 출처: [CoinDesk](https://www.coindesk.com/policy/2026/04/08/south-korea-proposes-cryptocurrency-law-with-bank-style-rules-for-stablecoins)
 
 ---
 
-## 직접 인용
+## 주요 인물 발언 (보이스 컴필 핵심)
 
-1. "AI isn't just in the cloud anymore. We're in the era of physical AI — intelligence that can perceive, reason, and act in the physical world." — Jensen Huang, COMPUTEX 2026 keynote (paraphrase, 정확한 원문은 영상 확인 필요) — 출처: Motley Fool 정리
-2. "Nvidia wants to be the Android of generalist robotics." — TechCrunch 헤드라인 (2026-01-05) — 출처: https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/
-3. "Inference demand is surging as multiple exponential forces converge, with models becoming more capable and agents built on these models able to reason, plan, and solve complex problems." — NVIDIA (Futurum 인용) — 출처: https://futurumgroup.com/insights/nvidia-gtc-2026-day-1-can-nvidias-ecosystem-accelerate-the-inference-inflection/
+### 1. Brian Armstrong (Coinbase CEO)
+- 2026 우선순위 발표: "Scale stablecoins and payments" — 3대 목표 중 #2 — 출처: [Decrypt](https://decrypt.co/353503/coinbase-targeting-stablecoin-growth-onchain-adoption-in-2026-brian-armstrong)
+- 은행 로비단체 공개 비판: "For whatever reason, sometimes incumbent industries have trade groups, and they view the world with a zero-sum mindset — for the banks to win, crypto has to lose." — 출처: [CoinDesk](https://www.coindesk.com/policy/2026/02/18/banking-trade-groups-responsible-for-impasse-on-market-structure-bill-brian-armstrong-says)
+- CNBC 인터뷰: "The high level principle is that you can't really have banks come in and try and kill their competition at the expense of the American consumer." — 출처: [CoinDesk](https://www.coindesk.com/policy/2026/02/18/banking-trade-groups-responsible-for-impasse-on-market-structure-bill-brian-armstrong-says)
+- CLARITY Act 마크업 지지: "Not everyone got everything they wanted, but they got the must-haves." "Mark it up." — 출처: [CoinDesk](https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing)
+
+### 2. Tim Scott (상원 은행위원장, R-SC)
+- "The bill was the product of several months of good-faith negotiations between Republicans, Democrats and various stakeholders." — 출처: [ABA Banking Journal](https://bankingjournal.aba.com/2026/05/senate-banking-committee-advances-clarity-act/)
+- "여름 전 서명" 목표 공언 — 출처: [PYMNTS](https://www.pymnts.com/cryptocurrency/2026/clarity-act-nears-senate-floor-ahead-of-recess-deadline/)
+
+### 3. Jeremy Allaire (Circle CEO)
+- 서울 선언: "Stablecoins are not crypto — they are global payment infrastructure." — 출처: [Pebblous](https://blog.pebblous.ai/story/circle-seoul-jeremy-allaire-pb/en/)
+- CLARITY Act 수익 조항 지지: "It has to be based on real transactions, real payments volume, real activities, and that's exactly the kind of incentivization that we want to see." — 출처: [Benzinga](https://www.benzinga.com/crypto/cryptocurrency/26/05/52475777/jeremy-allaire-stablecoin-rewards-usdc-adoption)
+- 동결 정책: "We won't freeze USDC without a court order" — 출처: [CoinDesk](https://www.coindesk.com/business/2026/04/13/circle-ceo-says-he-won-t-freeze-usdc-without-a-court-order-even-as-hackers-walk-away-with-millions)
+
+### 4. Isabel Schnabel (ECB 집행이사)
+- 2026-06-01 서울 한국은행 컨퍼런스 경고 — 달러 스테이블코인의 3대 위험:
+  (1) 뱅크런·파이어세일 (2) 통화정책 전달 교란 (3) 달러 패권 강화
+- "Dollar-backed stablecoins could amplify the international transmission of US monetary policy and accelerate currency substitution in economies with weaker monetary credibility." — 출처: [ECB 공식](https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html)
+- ECB 대응: 디지털 유로 + Pontes DLT 브리지 — "expand central bank payment infrastructure into the tokenised economy" — 출처: [The Block](https://www.theblock.co/amp/post/403142/digital-euro-stablecoin-risks-ecb)
+
+### 5. (보조) Stuart Alderoty (Ripple CLO)
+- Ripple은 백악관 회의 참석, RLUSD 국내 법적 인프라(OCC 인가) 확립 추진 — 출처: 보도자료 종합
 
 ---
 
@@ -86,39 +100,54 @@
 
 | 지표 | 수치 | 출처 |
 |------|------|------|
-| NVIDIA FY2026 총 매출 | $215.9B (+65% YoY) | SEC EDGAR |
-| NVIDIA 데이터센터 매출 | $193.7B (+68% YoY) | SEC EDGAR |
-| NVIDIA Physical AI 매출(FY2026) | $6B / TTM $9B+ | 어닝콜 |
-| Vera Rubin 추론 성능 | 50 PFLOPs (Blackwell 5배) | NVIDIA 기술 블로그 |
-| Vera Rubin 토큰 비용 절감 | Blackwell 대비 10배 | Tom's Hardware |
-| RTX Spark 로컬 실행 | 120B 파라미터 모델 | NVIDIA/Tom's Hardware |
-| Physical AI 시장(2026→2032) | $1.5B → $15.24B (CAGR 47.2%) | MarketsandMarkets |
-| 글로벌 산업 로봇(2024) | 542,000대 / $16.7B | IFR |
-| 중국 휴머노이드 생산 증가(2026) | +94% | TrendForce |
-| 글로벌 휴머노이드 출하(2026) | 50,000대+ (+700% YoY) | TrendForce |
-| 한국 NVIDIA GPU 배치 | 260,000개 | DCD / NVIDIA IR |
-| 한국 총 투자액 | ₩14.8조 (~$7.8~10.4B) | Reuters / DCD |
-| 현대차-NVIDIA Physical AI 계약 | $3B | NVIDIA IR |
-| Unitree 2026 생산 목표 | 10,000~20,000대 | TrendForce |
-| NVIDIA 로봇 개발자 수 | 200만 명 | NVIDIA |
+| 전체 스테이블코인 시총 | ~$321B (2026-05) | Bitcoin Foundation |
+| USDT 시총 | ~$188B (59% 점유) | CoinGecko |
+| USDC 시총 | ~$77~78B | TIKR / Circle |
+| USDC 온체인 거래량 Q1 2026 | $21.5T (+263% YoY) | Circle IR |
+| 유로 스테이블코인 시총 | €450~500M | ECB Schnabel 연설 |
+| Citi Base 전망 2030 | $1.9T | Citi "Stablecoins 2030" |
+| Citi Bull 전망 2030 | $4.0T | Citi "Stablecoins 2030" |
+| Mastercard BVNK 인수가 | $1.5B + $300M 조건부 | Mastercard IR |
+| RLUSD 공급량 | ~$1.5B | The Coin Republic |
+| GENIUS Act 상원 통과 | 68-30 초당파 | Congress.gov |
+| CLARITY Act 위원회 통과 | 15-9 | CNBC |
+| CLARITY Act 상원 필요 | 60표 | CoinDesk |
+| SoFiUSD 사용자 | 14.7M | SoFi IR |
+| EU 스테이블코인 발행자 수 | 30개 | BBVA MiCA 1년 보고 |
+
+---
+
+## 스테이블코인 역사 시계열
+
+- **2014**: Tether(USDT) 출시 — 최초의 대형 법정화폐 담보 스테이블코인
+- **2018**: Circle USDC 출시 — 규제 친화적 경쟁자
+- **2019**: JPMorgan JPM Coin — 기관 내부 결제 시험
+- **2021**: DeFi 붐, Terra(UST) 급성장
+- **2022 5월**: Terra/UST 붕괴 — $45B 증발, 알고리즘 스테이블코인 신뢰 붕괴
+- **2023**: EU MiCA 제정
+- **2024-12-30**: MiCA 완전 적용, USDT EU 상장폐지 시작
+- **2025-07-18**: GENIUS Act 서명 — 미국 최초 연방 스테이블코인 법
+- **2025-12**: Circle + Ripple 동시 OCC 조건부 인가
+- **2026-03-17**: Mastercard BVNK $1.8B 인수
+- **2026-05-14**: CLARITY Act 위원회 15-9 통과
+- **2026-05-27**: SoFiUSD 런칭 — 최초 국법은행 퍼블릭체인 스테이블코인
+- **2026-06-01**: CLARITY Act Senate Calendar 등재; ECB Schnabel 서울서 경고
 
 ---
 
 ## 관련 종목
-- $NVDA — Physical AI OS 플랫폼 + Jetson Thor 직접 수혜
-- $ISRG — 의료용 Physical AI (da Vinci → AI 강화)
-- 현대차 (005380.KS) — Boston Dynamics + Jensen Huang $3B 파트너십
-- 삼성전자 (005930.KS) — HBM + AI 팩토리 50K GPU
-- SK하이닉스 (000660.KS) — HBM4 Vera Rubin 공급
-- $AVGO — Physical AI ASIC 수요 (D+2 6/3 어닝)
-- $MRVL — 커스텀 AI 칩 수요
+- $COIN: USDC 공동 발행사, 스테이블코인 거래·이자 수익 핵심 수혜
+- $MA: BVNK 인수 완료시 스테이블코인 결제 레일 장악
+- $SOFI: SoFiUSD로 은행·핀테크·크립토 통합 포지셔닝
+- $SQ (Block): Cash App, 스테이블코인 결제 인프라 확대 중
+- $V (Visa): 2021년부터 USDC 결제 지원
 
 ---
 
 ## 반론/리스크
-
-1. Physical AI 매출은 아직 NVIDIA 전체의 3%: $6B vs 데이터센터 $194B. 의미있는 매출 비중이 되려면 2030년 이후 — 출처: https://www.fool.com/investing/2026/03/04/buy-nvidia-stock-physical-ai-transformation-2035/
-2. ASP 구조 문제: H100/H200 $40,000+인데 로봇용 Jetson Thor는 수십~수백 달러. 볼륨 확대 → ASP 하락. 스마트폰 AP 역사 반복 우려
-3. 중국 경쟁: 글로벌 휴머노이드 80% = 중국. Unitree G1 $16,000(저가). 하드웨어 레이어 빠른 상품화 가능
-4. 기술 성숙도: 로봇이 실제 공장·병원에서 안전하게 작동하는 수준까지 수 년 필요. 현재는 연구 단계
-5. 에너지/냉각: Physical AI 확산 따른 추가 전력·냉각 수요가 배포 속도 제한 가능
+1. **SoFiUSD 실사용 의문**: 14.7M 사용자 대부분이 일반 저축·대출 고객 — 스테이블코인 실활용 미지수
+2. **CLARITY Act 60표 허들**: 위원회 15-9는 상원 전체 60표 보장 못 함, 민주당 일부 반발 여전
+3. **은행 스테이블코인의 담 쌓기**: JPM Coin은 기관 폐쇄형 — 공개 상호운용성 없음
+4. **Tether의 지배**: 무규제·역외임에도 $188B — 규제 준수 대안이 실사용에서 추월하기까지 긴 시간
+5. **MiCA 부작용**: 달러 스테이블코인 제한이 장외 비규제 거래 증가 가능성
+6. **Terra 교훈**: 알고리즘 스테이블코인은 언제든 뱅크런 가능 — 준비금 증명이 생명

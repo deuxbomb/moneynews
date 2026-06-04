@@ -515,3 +515,12 @@
 - 오늘의 픽: $RIVN (카탈리스트: 2026-06-09 R2 SUV 고객 인도 시작 D+7, 8연속 상승 모멘텀), $PONY (카탈리스트: 2026-06-08 연간주주총회 D+6, Q1 로보택시 매출 5x YoY) [와치리스트 외 발굴]
 - 뉴스 토픽: [EV/자율주행] BYD God's Eye 전면 무제한 책임보험 세계 최초 선언(6/1) / RIVN R2 June 9 인도 확정 8연속 랠리 / XPeng L4 로보택시 양산 광저우 GX 플랫폼 Turing 칩 / Waymo Ohai 6세대 신형 로보택시 SF·LA·Phoenix 탑승 시작 / Tesla Cybercab 42대 vs Waymo 577대 Texas 격차 / BYD 전고체 배터리 수개월 내 배포 예고 / [매크로] NASDAQ 27K 사상 첫 돌파 다음날 소강 / AVGO D+1 (6/3 AMC) AI반도체 $10.7B+140% YoY 컨센 / GOOGL $80B 주식발행+버크셔 $10B AI인프라 딜 / SpaceX IPO D+10 / [기업] TSLA EU FSD 도미노(벨기에·그리스 임박) / OKLO DOE 모멘텀 지속 / COIN CLARITY Act 대기 / Blue Origin New Glenn 폭발(5/28) / [스마트머니] ARK KTOS+CBRS 매수 / Goldman 헤지펀드 반도체 비중 10% 역대최고 / Ackman $10B 여름 배포 예고
 - 팟캐스트: TBPN "New Glenn Explodes, Enterprise AI Enters ROI Era, The Dinosaur Fossil Boom" (2026-05-29)
+
+## 2026-06-04 05:55 [DEEP] (테마 클러스터: 핀테크/결제/크립토, 유형: 🎤 보이스 컴필)
+- 제목: 달러가 다시 태어나는 날 — 스테이블코인 패권전쟁, 5인의 선언이 말하는 것
+- 테마 유형: 보이스 컴필 (주요 인사 발언 5인 교차 분석)
+- 핵심 주제: 2026년 하반기 스테이블코인이 크립토를 넘어 글로벌 달러 패권의 디지털 전선이 되는 구조적 전환을 분석. SoFiUSD(미국 최초 국법은행 퍼블릭체인 스테이블코인, 5/27), ECB Schnabel 서울 달러 스테이블코인 패권 경고(6/1), CLARITY Act Senate Calendar 등재(6/1), Mastercard BVNK $1.8B 인수를 5인(Armstrong·Scott·Allaire·Schnabel·Mastercard) 발언 교차 분석. 미국·EU·한국·중국·싱가포르 국제 비교 + Terra 붕괴→GENIUS Act까지 12년 시계열 + 반대 시각 5가지 + $COIN/$MA/$SOFI 투자 시사점.
+- 다룬 종목/기업: $COIN (Coinbase), $MA (Mastercard), $SOFI (SoFi), $SQ (Block), $V (Visa), Circle (USDC), Tether (USDT), Ripple (RLUSD), JPMorgan (JPMD), SoFi Bank
+- 핵심 주장/결론: 스테이블코인은 이미 크립토의 영역을 넘어 글로벌 달러 패권의 디지털 전선. 핵심 체크포인트: CLARITY Act 8주 이내 상원 표결($COIN 수익 모델 확장 여부) + SoFiUSD 분기 거래량 공개(은행 스테이블코인 실수요 첫 증거) + 한국 DABA 입법 일정(국내 핀테크 재편).
+- 1차 자료 출처: White House GENIUS Act 팩트시트 × 1, SoFi IR 보도자료 × 1, Mastercard IR 보도자료 × 1, ECB Schnabel 공식 연설 × 1, Ripple OCC 신청서 × 1, Circle OCC 승인 × 1, Citi "Stablecoins 2030" 보고서 × 1 (총 7건)
+- 판정: Minor → Accept (4개 개선점 반영 — 단정 표현 완화, 국제 비교 독립 섹션 신설, 도입부 hook 강화, 마지막 여운 문장 추가)

@@ -1,177 +1,178 @@
-BYD가 선을 넘었다 — 자율주행 책임보험 세계 최초, 오늘 밤 AVGO가 AI의 다음 챕터를 쓴다
-머뉴 MoneyNews | 2026-06-02 (화요일) | 돈이 되는 모든 것에 대한 소식
+# 달러가 다시 태어나는 날 — 스테이블코인 패권전쟁, 5인의 선언이 말하는 것
 
-🇰🇷 코스피 8,476 (ATH권) / 코스닥 1,078 / 원달러 1,543원
-🇺🇸 S&P 500 7,584 +0.05% / 나스닥 27,030 +0.21% / 다우 51,100 +0.1% / WTI $91.2 / BTC $73,200 -0.6%
-
-📌 오늘 장의 세 개의 시계
-
-1. AVGO D+1 카운트다운 — 내일(6/3 AMC) 브로드컴 Q2 실적. AI 반도체 매출 $10.7B(+140% YoY) 컨센서스. NVDA Q1 실적이 "AI 수요가 폭발했다"를 증명했다면, AVGO는 그 수요가 칩 너머 커스텀 실리콘·네트워킹으로 퍼져나갔는지를 확인한다. AI 사이클 2막의 심판대. [Motley Fool](https://www.fool.com/investing/2026/05/31/broadcom-reports-earnings-june-3-time-to-buy/)
-
-2. GOOGL $80B 주식발행 + 버크셔 $10B — 알파벳이 AI 인프라 구축 자금 조달을 위해 $80B 규모 주식을 발행하고, 버크셔해서웨이가 $10B 사모 참여를 확정했다(6/1). 오마하의 현인이 AI 시대 인프라 전쟁에 뛰어들었다. [Alphabet IR](https://investor.google.com/)
-
-3. SpaceX IPO D+10 — 6/12 SPCX 상장까지 열흘. 로드쇼 한창 진행 중. 소매 투자자 직접 배분 확인으로 대기 수요 여전.
-
-💰 관심 종목 현황
-$TSLA $422 -1.5% | 목표가 $410 | Cybercab 기가텍사스 대량생산 중. 텍사스 AV 42대 vs Waymo 577대 격차 여전. FSD 유럽 승인 도미노(벨기에·그리스 임박)
-$GOOGL $383 +1.2% | 목표가 $210 (구조조정 후 추정) | $80B 주식발행+버크셔 $10B AI 인프라 딜. 배당 엑스데이 D+6(6/8)
-$OKLO $67 -1.5% | 목표가 $80 (BofA Buy) | DOE 잉여플루토늄 전환 선정 모멘텀 지속. 단기 차익실현 소화
-$NVDA $215 +0.3% | 목표가 $180→$250권 | AVGO D+1 어닝 대기. COMPUTEX Physical AI 발표 여진
-$COIN $183 -1.1% | 목표가 $148→Buy 컨센 | CLARITY Act 상원 표결 대기. BTC $73K 하락 동조
-$NFLX $87 +1.1% | 목표가 $1,100 | 월드컵 스트리밍 기대감 + Q2 어닝 7월 예정
-$OHI $47 +0.5% | 목표가 $48.50 | 배당 안정. 요양원 수요 견조
-$SPY $757 +0.05% | 9주 연속 상승 이후 소강 국면
-$QQQ $743 +0.2% | NASDAQ 27K 첫 돌파 다음날, 기술적 숨고르기
-
-👀 오늘 주목할 것
-- AVGO 내일 AMC 어닝: AI 반도체 매출 $10.7B(+140% YoY) 컨센서스 달성 여부. Q3 가이던스 $22.5B+ 이면 AI 인프라 사이클 확인
-- BYD "God's Eye" 전면 책임보험 선언(6/1): 사고 시 무제한 전액 배상. 자율주행 ADAS 산업 게임체인저
-- RIVN 8연속 상승: R2 SUV 인도 D+7(6/9) 카운트다운. 소비자 EV 대중화의 실제 D-Day
-
-🔥 오늘의 픽 — EV/자율주행/모빌리티
-
-🌡️ 시장 온도
-S&P 500이 9주 연속 상승 후 오늘 소폭 숨고르기. 나스닥은 사상 처음 27,000을 넘어선 다음날이다. VIX는 낮고 Fear&Greed는 Greed 존에 머물고 있다. 시장이 피곤하지 않다는 뜻이 아니라, 아직 팔려는 이유를 못 찾고 있다는 뜻이다.
-
-🎯 오늘의 테마
-화요일 = EV/자율주행/모빌리티. 그런데 오늘은 단순한 테마 클러스터 이상이다. 어제(6/1) BYD가 자율주행 역사에 선을 하나 그었다. "우리 차가 운전 중 사고를 내면, 우리가 무제한으로 배상하겠다." 이걸 선언한 자동차 회사는 전 세계에서 BYD가 처음이다. Tesla FSD는 단 한 번도 이런 약속을 한 적이 없다. 자율주행이 "기술 데모"에서 "법적 책임 있는 상품"으로 진화하는 날이다.
+**2026년 6월 4일 | 머뉴 딥다이브 | 🎤 보이스 컴필**
 
 ---
-💡 픽 1: R2의 날이 일주일 앞으로 왔다
-$RIVN Rivian Automotive (시총 ~$17B, EV/모빌리티)
 
-2026년 6월 9일. 리비안이 미국 EV 시장에 처음으로 mass-market 차량을 내놓는 날이다. R2 SUV Performance 트림($58K, 330마일 항속)의 고객 인도가 일주일 뒤 시작된다. 주가는 이미 8거래일 연속으로 올라 +8.89%를 찍었다. 시장은 이 날을 기다리고 있었다.
+## 이야기: 한쪽에선 달러를 코드에 올리고, 다른 쪽에선 그 코드를 두려워한다
 
-리비안이 이 시장에 왜 의미 있는가. R1T/R1S는 $70K 이상의 프리미엄 전기 픽업·SUV였다. R2는 일반 소비자가 처음 살 수 있는 리비안이다. 2025년 연간 인도 42,247대에서 2026년 가이던스가 62,000~67,000대로 뛴 이유가 R2 때문이다. VW가 $1B 기관 참여를 결정한 것도, Uber가 50,000대 로보택시 계약을 맺은 것도 모두 R2 플랫폼에 베팅한 것이다.
+2026년 5월 27일, 캘리포니아 새벽. SoFi Bank는 보도자료 하나를 배포했다.
+"SoFiUSD — 미국 최초, OCC 인가 국법은행이 퍼블릭 블록체인에 발행하는 스테이블코인."
 
-단기 리스크: RSI 54.99로 과열권은 아니지만 8일 연속 상승 후 차익실현 가능. CFO "인도 물량 하반기 집중"으로 Q1은 기대 이하일 수 있음. DA Davidson은 Neutral($15) 유지.
+14.7백만 명의 SoFi 앱 사용자들은 이제 대출·저축·투자를 하는 같은 앱 안에서 달러를 Ethereum과 Solana 위의 토큰으로 바꿀 수 있게 됐다. 1대1 교환 보장, 독립 CPA 정기 증명. 거창하게 들리지 않을 수 있다. 하지만 이 사건이 중요한 이유는 SoFi 자체가 아니다.
 
-📊 스코어카드
-기술적 2/3 | 수급 1/3 | 카탈리스트 2/2 | 펀더멘털 1/2 | 신선도 0 | 종합 6/10
-📅 D-Day: 2026-06-09 R2 SUV 고객 인도 시작 (퍼포먼스 트림, $58K)
-RSI: 54.99 | 목표가: 컨센 $17.74 / CFRA $22 (+29%) vs DA Davidson $15 | VW 기관 참여 $1B
+6일 뒤인 6월 1일, 지구 반대편 서울. 유럽중앙은행(ECB) 집행이사 Isabel Schnabel이 한국은행 국제 컨퍼런스 단상에 올라 경고를 날렸다. "달러 기반 스테이블코인은 세 가지 경로로 글로벌 금융 안정을 위협한다." 세 번째 위험을 말할 때 그녀의 목소리에는 묘한 긴박감이 담겼다.
 
-※ 종합 6/10으로 기준선(7점+) 미달. 그러나 14일 이내 확정 카탈리스트(6/9 인도)가 명확하고, 8일 연속 모멘텀 추세가 강하여 포함.
+> "이는 경제적 펀더멘털이 아닌 **네트워크 효과를 통해 달러 지배력을 강화**할 수 있다."
+
+한쪽에서 미국은 달러를 코드 위에 올리고 있다. 다른 쪽에서 유럽은 그 코드가 달러 제국을 영구화할 것을 두려워한다. 총 **$321B(약 437조 원)**에 달하는 전 세계 스테이블코인 시장이 2026년 하반기, 규제·기술·패권이 동시에 교차하는 전쟁터가 되고 있다.
+
+그 전쟁터의 5인이 지난 수개월간 던진 말들을 모아 읽으면, 하나의 그림이 완성된다.
 
 ---
-💡 픽 2: 로보택시가 수익을 냈다 — 아직 아무도 모르는 이름
-$PONY Pony AI Inc. (NASDAQ: PONY, 자율주행 로보택시)
 
-폰이 AI. 중국 광저우에서 시작해 지금은 싱가포르, 자그레브(유럽 최초 상업 로보택시 서비스), 미국 캘리포니아까지 운영 중인 자율주행 기업이다. 2026년 Q1에 로보택시 유료 매출이 전년 동기 대비 5배 뛰었다. 7세대 로보택시를 새로 공개하며 제조 원가를 70% 낮췄다. 연말까지 3,500대, 20개 도시 목표다.
+## 시계열: 달러를 코드로 만들려던 12년의 격전사
 
-오는 6월 8일(D+6) 연간주주총회. 소규모 글로벌 AV 투자자들이 주목하는 자리다. 전략 발표와 확장 로드맵이 공개될 가능성이 높다. Wall Street 컨센서스 목표가는 현재 주가 대비 50% 이상 업사이드($23.39).
+### "이 아이디어는 단순하다 — 그래서 실패도 단순하다"
 
-자율주행 빅테크(Waymo=Alphabet, 비상장)와 달리 PONY는 순수하게 자율주행으로만 돈 버는 공개 상장사다. BYD God's Eye 책임보험 선언, XPeng L4 로보택시 양산, Waymo Ohai 신형 출시 등 이번 주 섹터 전반에 강한 바람이 불고 있다.
+스테이블코인의 역사는 크립토의 역사만큼이나 짧고 격렬하다.
 
-📊 스코어카드
-기술적 1/3 | 수급 1/3 | 카탈리스트 2/2 | 펀더멘털 1/2 | 신선도 +1 | 종합 6/10
-📅 D-Day: 2026-06-08 연간주주총회(AGM) + Q1 로보택시 매출 5x YoY (4일 전 발표)
-목표가: 컨센 $23.39 (+50%+ 업사이드)
+**2014년**: Tether(USDT)가 등장했다. 달러 1개를 맡기면 토큰 1개를 준다. 당시 암호화폐 거래소에서 달러를 주고받으려면 전통 은행을 거쳐야 했다 — 느리고 비쌌다. USDT는 그 문제를 해결했다.
 
-※ 종합 6/10으로 기준선(7점+) 미달. 오늘 화요일 EV/자율주행 테마에서 기준선 충족 후보 발굴 어려움. 두 종목 모두 카탈리스트는 확실하나 수급 데이터 부족으로 점수 낮음을 밝힘.
+**2018년**: Circle이 USDC를 출시했다. 이번엔 처음부터 규제 준수를 목표로. 당시 USDT가 90% 이상을 장악하던 시장이었다.
 
-⚠️ 투자 조언이 아닌 데이터 기반 분석입니다.
+**2021년**: DeFi 붐이 터지면서 스테이블코인 수요가 폭발했다. Terraform Labs의 Terra(UST)가 알고리즘 기반 달러 페그를 들고 등장했고, 고금리(최대 20%)로 수백억 달러를 끌어모았다.
 
-━━━━━━━━━━━━━━━━━━━━━━━
-📈 AVGO가 AI의 다음 증거를 내놓는다 — 9주 랠리 이후, 오늘 시장은 내일을 기다린다
-━━━━━━━━━━━━━━━━━━━━━━━
+**2022년 5월**: 8일 만에 **$45B이 사라졌다.** UST는 1달러 페그를 잃었고, 연동된 LUNA는 99% 폭락했다. 알고리즘 스테이블코인은 본질적으로 뱅크런에 취약하다는 것이 증명됐다.
 
-나스닥이 사상 처음 27,000선을 넘어선 다음날이다. 오늘 장은 소강이다. 하지만 시장이 멈춘 게 아니라 내일(6/3)을 기다리고 있다. 브로드컴(AVGO) Q2 실적 발표. AI 반도체 매출 $10.7B(+140% YoY) 컨센서스를 달성하면, NVIDIA의 $81.6B 비트에 이어 AI 인프라 사이클이 GPU를 넘어 커스텀 ASIC·네트워킹으로 확산하고 있음이 두 번 확인된다. 달성 못 하면? 9주 랠리의 피로가 한꺼번에 쏟아질 수 있다.
+그 이후 시장은 분열됐다. "담보 기반으로 다시 만들자"와 "규제가 없으면 안 된다" 두 목소리. 그 두 갈래가 2025년에 하나로 만났다.
 
-한편 알파벳이 $80B 규모의 신규 주식 발행을 발표하고 버크셔해서웨이가 $10B 사모 참여를 확정했다(6/1). 워런 버핏이 마침내 AI 인프라 전쟁에 뛰어들었다. [Alphabet IR](https://investor.google.com/) · [Bloomberg](https://www.bloomberg.com/)
+**2025년 7월 18일**: 트럼프 대통령이 GENIUS Act에 서명했다. 미국 최초의 연방 스테이블코인 법. 상원 68-30, 하원 308-122 — 이례적인 초당파 통과. 핵심 조항: 100% 달러 또는 저위험 자산 담보 의무. 알고리즘 기반 언페그 스테이블코인은 법적으로 발행 불가능해졌다.
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🚗 BYD가 선을 그었다 — 자율주행의 책임, 처음으로 기업이 끌어안다
-━━━━━━━━━━━━━━━━━━━━━━━
+**2026년 5~6월 현재:**
 
-**1. 세계 최초: BYD "God's Eye" 전면 배상 선언**
-어제(6/1) BYD가 자동차 산업 역사에 남을 선언을 했다. "God's Eye 도심 자율주행 시스템이 활성화된 상태에서 사고가 발생하면, BYD가 모든 직접 손해를 무제한으로 배상한다." 수리비, 제3자 재산, 부상. 상한선 없다.
+| 연도 | 이벤트 | 스테이블코인 총 시총 |
+|------|--------|---------------------|
+| 2022 초 | Terra 최고점 | ~$180B |
+| 2022 5월 | Terra 붕괴 | -$45B 충격 |
+| 2024 말 | MiCA 완전 적용 | ~$200B |
+| 2025 7월 | GENIUS Act 서명 | ~$250B |
+| 2026 6월 | 현재 | **~$321B** |
 
-이건 단순한 마케팅이 아니다. BYD는 작년(2025년 7월) 스마트 주차 기능에 동일한 책임보험을 도입했다. 결과? 해당 기능의 실제 사용률이 21%에서 93%로 뛰었다. 사람들은 기능이 있어도 책임 불명확이 두려워 안 쓴다. 이번에는 도심 자율주행 전체로 확대했다.
+그리고 USDC의 Q1 2026 온체인 거래량은 **$21.5조(Trillion)**, YoY +263%다. 시총 증가보다 거래량 증가가 훨씬 빠르다 — 실제로 쓰이고 있다는 뜻이다. Citi는 2025년 보고서에서 2030년 Base 케이스 **$1.9T**, Bull 케이스 **$4T**를 전망한다. 현재의 10~12배.
 
-테슬라 FSD는 이 약속을 단 한 번도 한 적이 없다. Waymo도 공식적으로 무제한 책임을 선언하지 않았다. 자율주행이 "기술 데모"에서 "법적 책임 있는 상품"으로 격상되는 변곡점이다. [Electrek](https://electrek.co/2026/06/01/byd-gods-eye-accepts-liability-tesla-never-has/) · [CleanTechnica](https://cleantechnica.com/2026/06/01/byd-takes-on-crash-liability-when-its-driver-assist-system-is-active/)
+---
 
-**2. RIVN R2 D+7 — 8일째 달린다**
-리비안 주가가 8거래일 연속 상승하며 +8.89%를 기록했다. 동력은 하나다: 6월 9일, R2 SUV 퍼포먼스 트림($58K, 330마일 항속) 고객 인도 시작. 리비안 최초의 mass-market 모델이다. 2025년 연간 인도가 42,247대였는데, 올해 가이던스가 62,000~67,000대로 뛴 것은 전적으로 R2 덕분이다. VW $1B 기관 참여, Uber 50,000대 로보택시 계약 — 모든 큰 베팅이 R2 플랫폼에 걸렸다. [TraderUnion](https://tradersunion.com/news/financial-news/show/2176413-rivian-surges-8-89percent-to-usd16-54/)
+## 국제 비교: 미국은 달리고, 유럽은 막고, 한국은 망설인다
 
-**3. XPeng, 중국 최초 L4 로보택시 양산 1호 출고**
-샤오펑(XPEV)이 광저우 GX 플랫폼에서 순수 비전 기반 L4 로보택시를 대량생산 체제로 돌입했다. 독자 개발 Turing AI 칩을 탑재했다. Q1 2026 실적은 매출 역성장이었지만 마진 회복과 Q2 인도량 개선 가이던스로 시장은 미래를 봤다. Wall Street 컨센서스 목표가 $23.39(현재 $15.59 대비 +50%). [Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/motley/2206102/xpeng-xpev-q1-2026-earnings-transcript/)
+### 같은 기술, 다른 선택
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🏢 기업 뉴스
-━━━━━━━━━━━━━━━━━━━━━━━
+**🇺🇸 미국 — 규제 후 가속**
 
-**$TSLA 텍사스 AV 42대 vs Waymo 577대 — 격차의 의미**
-텍사스 주 파일링에 따르면 테슬라의 완전자율 차량은 현재 42대, Waymo는 577대다. 테슬라 1대당 Waymo 13.7대가 달리고 있다. 머스크는 "연말까지 미국 전역 보편화"를 약속했지만, Waymo는 이미 주당 40만 건 라이드를 처리하고 있다. 단, 접근 방식이 다르다 — 테슬라는 소비자 차량 기반의 범용 FSD, Waymo는 전용 차량 기반의 지역 특화 L4. [CNBC](https://www.cnbc.com/2026/05/28/tesla-robotaxi-fleet-texas-one-tenth-size-of-waymos-filings-reveal.html)
+GENIUS Act 이후 미국 시장에선 은행들이 직접 뛰어들었다. 2025년 12월, Circle과 Ripple이 같은 날 OCC(통화감독국) 조건부 은행 인가를 받았다. JPMorgan은 이미 기관 투자자용 예금 토큰 JPMD를 Ethereum L2 Base 위에 올렸다. SoFiUSD가 퍼블릭 블록체인 위에 국법은행 스테이블코인의 첫 테이프를 끊었다.
 
-한편 테슬라 FSD의 유럽 승인은 도미노처럼 이어지고 있다. 리투아니아 이어 벨기에 테스트 승인 확인, 그리스 입법 논의 중. EU 공식 승인이 현실화되면 유럽 시장이 한꺼번에 열린다.
+핵심 인물들의 목소리:
 
-**$GOOGL 배당 엑스데이 D+6 + Waymo 신형 Ohai 출시**
-구글 배당 엑스데이는 6월 8일(D+6). Waymo가 신형 로보택시 "Ohai"를 5월 28일부터 선택 탑승자에게 공개했다. 지크(Zeekr) 제조, 6세대 드라이버, 카메라 13개/라이다 4개/레이더 6개. 재래식 재규어 기반 대비 제조 원가가 크게 낮아졌다. 연말까지 수천 대 보급 목표. [TechCrunch](https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/)
+**Brian Armstrong (Coinbase CEO)** — "Scale stablecoins and payments"를 2026년 2대 목표로 공개 선언. 동시에 은행 로비단체를 공개 저격했다.
+> "For whatever reason, sometimes incumbent industries have trade groups, and they view the world with a zero-sum mindset — for the banks to win, crypto has to lose."
 
-**$NVDA AVGO 어닝 전야 포지셔닝**
-NVIDIA COMPUTEX Physical AI 발표(6/1) 여진이 지속되고 있다. Jensen Huang의 "Physical AI 원년" 선언과 함께 발표된 Cosmos 3, GR00T N1.7, Isaac GR00T 레퍼런스 휴머노이드가 로봇 섹터에 불을 지폈다. 내일 AVGO 어닝이 AI 반도체 수요의 두 번째 증거가 될 것이다. Q3 가이던스 $22.5B+ 이면 주가 강세 지속 예상.
+**Tim Scott (상원 은행위원장)** — CLARITY Act(포괄 크립토 시장 구조 법안)를 추진 중. 5월 14일 위원회 15-9 통과, 6월 1일 Senate Calendar 등재. "Good-faith negotiations"의 산물이라고 강조. 여름 휴회 전 8주 안에 상원 전체 표결(60표 필요)을 목표로 한다.
 
-**$COIN CLARITY Act D-? + BTC $73K**
-비트코인이 $73,200으로 소폭 하락(-0.6%). CLARITY Act 상원 전체 표결이 가을 이전 목표로 여전히 진행 중. COIN은 표결 결과에 직접 연동.
+**Jeremy Allaire (Circle CEO)** — 서울에서 이렇게 선언했다.
+> **"Stablecoins are not crypto — they are global payment infrastructure."**
 
-**$OKLO DOE 모멘텀 지속**
-DOE 잉여플루토늄 연료 전환 선정 효과가 소화되고 있다. BofA Buy $80 유지.
+CLARITY Act의 스테이블코인 수익 조항(거래 기반 보상은 허용, 패시브 이자는 금지)에 대해서도 긍정적이다. "It has to be based on real transactions, real payments volume, real activities, and that's exactly the kind of incentivization that we want to see."
 
-━━━━━━━━━━━━━━━━━━━━━━━
-💡 흥미로운 이야기
-━━━━━━━━━━━━━━━━━━━━━━━
+**💶 유럽 — MiCA로 막았지만, 달러는 이미 들어왔다**
 
-**Blue Origin New Glenn, 발사대에서 폭발 — 베조스에게 닥친 최악의 날**
-5월 28일 밤 9시, 케이프커내버럴 발사단지에서 New Glenn 로켓의 정적 발사 테스트 중 폭발이 발생했다. 인명피해는 없다. 그러나 New Glenn의 유일한 발사 시설인 LC-36이 손상되었다. 아마존 Leo 위성 배치를 위한 6월 4일 발사는 불가능해졌다. SpaceX가 1년에 수십 회 발사하는 동안, Blue Origin은 2024년 첫 발사 이후 2026년 아직도 폭발을 겪고 있다. [Spaceflight Now](https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/)
+EU는 세계에서 가장 앞선 스테이블코인 규제 프레임인 MiCA를 2024년 12월 30일 완전 시행했다. 달러 스테이블코인에는 일 100만 건 또는 €2억 초과 거래 제한이 걸렸다. Binance·Coinbase·Kraken·Crypto.com은 2024-12~2025-03 EEA 사용자 대상 USDT 스팟 거래를 전면 폐지했다.
 
-**BYD 전고체 배터리, "수개월 안에" 배포 시작**
-BYD가 차세대 전고체 배터리 탑재 차량을 "수개월 내에" 출시한다고 밝혔다. 도요타 LF-ZC가 취소되는 사이, BYD는 이 기술의 첫 대규모 배포자가 될 가능성이 높다. 에너지 밀도 2배, 충전 속도 3배. [InsideEVs](https://insideevs.com/)
+결과? 유로화 스테이블코인 시총은 **€450~500M**. 달러 스테이블코인의 **0.2%**다. 규제로 달러를 막았지만, 유로 대안이 그 공백을 채우지 못했다. 그래서 Schnabel이 서울에서 경고를 날린 것이다 — EU 안팎에서 달러 스테이블코인은 여전히 支배적이다.
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🔬 딥다이브 — AVGO D+1: AI 수요 사이클의 두 번째 증거대
-━━━━━━━━━━━━━━━━━━━━━━━
+ECB의 대응 전략은 두 가지다: 디지털 유로(소매용)와 'Pontes' 프로젝트(DLT 네트워크와 TARGET 인프라를 연결하는 브리지). 제한보다는 공공 인프라 확장으로 맞서겠다는 것이다.
 
-**실적 캘린더**
-내일(6/3 AMC) 브로드컴(AVGO) Q2 FY2026 실적 발표. 핵심 체크리스트:
-- AI 반도체 매출: $10.7B 컨센 (+140% YoY) → 달성하면 커스텀 AI ASIC 수요 확인
-- 총매출: $22.12B (+47% YoY) → 인프라 소프트웨어 포함 견조 성장
-- Q3 가이던스: $22.5B+ 이면 사이클 지속, $22B 미만이면 피크아웃 우려
-- AI XPU 고객 수: 현재 3곳(Google, Meta, 알려지지 않은 1곳) 외 확장 발표 여부
+**🇰🇷 한국 — 법 만들다가 싸운다**
 
-NVIDIA가 "공급자"를 검증했다면, AVGO는 "설계자"를 검증한다. 차이: NVDA GPU는 범용 AI 가속기, AVGO XPU는 특정 고객(구글 TPU, 메타 MTIA)의 전용 설계다. XPU가 성장한다는 건 "GPU로만 AI를 못 하겠다"는 빅테크의 판단이 굳어지고 있다는 뜻이다.
+한국은 2026년 4월 디지털자산기본법(DABA)을 발의했다. 스테이블코인 발행자에게 100% 준비금 의무, 이자 지급 금지. 여기까지는 글로벌 표준이다. 문제는 '누가 발행하느냐'다.
 
-**애널리스트 컨센서스**
-AVGO에 대한 38명의 월가 애널리스트: Buy 35명, Hold 3명, Sell 0명. 12개월 평균 목표가 $264(현재 ~$238 대비 +11%). [Motley Fool](https://www.fool.com/investing/2026/05/31/broadcom-reports-earnings-june-3-time-to-buy/)
+한국은행: "은행이 51% 지분을 보유해야 스테이블코인 발행 가능."
+금융위원회(FSC): "그러면 핀테크 혁신이 죽는다. EU와 일본처럼 비은행 발행을 허용해야."
 
-**옵션/수급 신호**
-AVGO 6/3 어닝 옵션 스윙 예상: ±9.4%. 콜 프리미엄 우세. 6/8 GOOGL 배당 엑스데이와 함께 6월 첫 주는 빅테크 이벤트 집중 시기.
+결국 입법이 지연됐다. 해외 USDT·USDC가 국내에서 계속 활용되려면 국내 지점 설립과 한국 규제 준수가 의무화될 예정이다 — 카카오페이, 네이버파이낸셜, 토스 같은 국내 핀테크가 스테이블코인 발행 경쟁에 뛰어들 여지가 생긴다.
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🏦 스마트머니 동향
-━━━━━━━━━━━━━━━━━━━━━━━
+**🇨🇳 중국 vs 🇸🇬 싱가포르·🇭🇰 홍콩**
 
-**ARK Invest (6/1 최신 트레이드)**
-캐시 우드의 ARK가 6월 첫 거래일에 전략적 리밸런싱을 단행했다. 핵심 매수:
-- $KTOS (Kratos Defense) 261,370주 매수 ($16.96M) — 방산 드론·국방 AI 테마
-- $CBRS (Cerebras Systems) 35,950주 매수 ($9.22M) — AI 웨이퍼스케일 칩
-- $AMZN, $TEM (Tempus AI), $FUTU 소규모 추가
-ARK는 자율주행에서 물리 AI 로봇으로 포트폴리오를 이동하는 신호. [GurFocus](https://www.gurufocus.com/news/8893302/ark-invest-rebalances-with-major-moves-in-defense-and-ai-hardware)
+중국은 민간 스테이블코인을 금지하고 국가 주도 디지털 위안화(e-CNY)를 추진 중이다. 정반대로, 싱가포르와 홍콩은 스테이블코인 발행자에 규제 샌드박스를 제공하며 글로벌 발행 허브를 노린다.
 
-**Goldman: 헤지펀드 반도체 비중 역대 최고 지속**
-글로벌 헤지펀드의 반도체 섹터 비중 10% 돌파. LRCX·AMAT·MU 최다 편입. Chase Coleman(Tiger Global) AVGO+TSM 확대. 6/3 AVGO 어닝이 이 포지션을 정당화하는 이벤트.
+**전통 페이먼트의 선택 — Mastercard $1.8B 베팅**
 
-**빌 애크먼 — $10B 여름 배포 예고**
-퍼싱스퀘어의 애크먼은 "이번 여름 $10B 규모 새 포지션 배포"를 공언. AI 인프라 또는 소비재 대형주 추측. 6~8월 발표 예상.
+이 글로벌 전쟁에서 가장 실용적인 결론을 내린 회사는 Mastercard다. 2026년 3월 17일, 영국 스타트업 BVNK를 **최대 $1.8B**에 인수한다고 발표했다. BVNK는 130개국+에서 스테이블코인과 법정화폐를 연결하는 결제 인프라 회사다.
 
-**SpaceX IPO D+10 (6/12 상장 목표)**
-기업가치 $1.75T으로 역대 최대 IPO. 스타링크(EBITDA $7.2B 흑자)가 xAI 투자($12.7B)를 감당. $HOOD를 통한 소매 투자자 직접 접근 가능.
+Mastercard의 셈법: "어차피 달러가 코드로 이동한다면, 그 코드와 기존 카드 네트워크 사이의 다리가 돼라." 달러 스테이블코인 패권이 누구에게 가든, Mastercard는 수수료를 받는다.
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🎙️ 테크 팟캐스트 — 발사대에서 폭발한 로켓, AI가 돈이 되는 순간
-━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-1. **TBPN** "New Glenn Explodes, Enterprise AI Enters ROI Era, The Dinosaur Fossil Boom" (2026-05-29)
-   Blue Origin New Glenn이 케이프커내버럴에서 폭발하던 그날(5/28) 다음날 TBPN이 바로 분석에 나섰다. ① New Glenn 폭발 — 베조스 vs 머스크의 로켓 격차가 어디서 왔는지. ② Enterprise AI ROI 시대 — "AI 토큰 비용이 10배 하락하면 수요가 10배 증가한다"는 역설의 시대가 열렸다. 이제 기업들이 AI 도입을 ROI로 정당화하기 시작했다. ③ 공룡 화석 투자 붐 — 억만장자들이 화석을 투자 자산으로 사들이는 트렌드. 소더비 $11M 스피노사우루스 이야기. [tbpn.com](https://www.tbpn.com/)
+## 반대 시각: 스테이블코인이 왜 실제로 쓰이지 않을 5가지 이유
 
-<!-- slack_trigger: 2026-06-02 -->
+모든 낙관론에 균열을 낼 5가지 질문이다.
+
+**① Tether가 여전히 59%를 먹는다**: 무규제, 역외 운영, 준비금 투명성 논란에도 불구하고 $188B. 규제를 준수하는 USDC($78B)와의 격차는 2.4배. "규제 = 신뢰 = 채택"이라는 공식이 시장에서 통하지 않고 있다. 글로벌 트레이더들, 특히 개발도상국 사용자들은 규제보다 유동성과 접근성을 더 중시한다.
+
+**② SoFiUSD의 실사용 의문**: 14.7M 사용자 대부분은 학자금 대출, 자동차 보험, 저축 고객이다. 이들이 일상적으로 스테이블코인을 쓸 이유가 있을까? 은행이 발행했다고 수요가 자동 생성되지 않는다. 실사용 데이터가 없다.
+
+**③ CLARITY Act 60표의 함정**: 위원회 15-9는 상원 전체 60표가 아니다. 다수의 민주당 의원이 "금융 안정성 우려"를 이유로 추가 규제를 요구한다. 8주 안에 20명을 더 설득하는 것은 쉽지 않다.
+
+**④ 은행 스테이블코인의 담 쌓기**: JPMorgan JPMD는 기관 투자자 전용 폐쇄형 네트워크. JPMorgan 발행 스테이블코인과 Circle USDC가 자유롭게 교환되지 않는다면, "스테이블코인 생태계"가 아닌 "스테이블코인 사일로"다.
+
+**⑤ 규제 비용이 혁신을 죽인다**: EU MiCA 1년 후 EU 내 활성 스테이블코인 발행자는 30개사. 규제가 선제적으로 시장을 정리했지만, 그 결과 달러 스테이블코인이 떠난 자리를 유로 대안이 채우지 못했다. 과도한 규제가 역외 무규제 플레이어에게 시장을 넘기는 역설이 MiCA에서 실험 중이다.
+
+---
+
+## 시사점: 달러 코드 전쟁의 승자를 고르는 법
+
+5인의 발언을 교차 분석하면 하나의 그림이 완성된다: **스테이블코인은 이미 크립토의 영역을 넘어, 글로벌 달러 패권의 디지털 전선이 됐다.** 그렇다면 투자자 관점에서 어디에 베팅할 것인가?
+
+**$COIN (Coinbase) — 가장 직접적인 수혜, CLARITY Act에 달렸다**
+
+USDC 이자 수익과 거래 수수료는 Coinbase의 핵심 매출축이다. CLARITY Act가 통과돼 활동 기반 보상이 합법화되면 수익 모델이 확장된다. 반대로 60표 확보 실패 시 현상 유지. **체크포인트: 향후 8주 내 상원 전체 표결.**
+
+**$MA (Mastercard) — 달러 코드 위에 올라타는 가장 안전한 방법**
+
+BVNK 인수 완료 시, Mastercard는 스테이블코인 결제 레일의 오케스트레이터가 된다. USDC가 성장하든, SoFiUSD가 성장하든 Mastercard는 수수료를 받는다. **Bull-Bear 양방향 헤지로 접근 가능.**
+
+**$SOFI — 장기 옵션, 단기 실사용 증거 대기**
+
+SoFiUSD는 전략적으로 옳다. 하지만 주가에는 기대가 상당 부분 반영돼 있다. **1년 후 분기 실적에서 SoFiUSD 거래량 데이터가 나올 때 진입 판단.**
+
+**한국 투자자를 위한 핀포인트**
+
+ECB Schnabel이 서울에서 경고한 이유가 있다. 한국 거래소 거래량의 상당 부분이 USDT 기반으로 움직인다. DABA 통과 후 해외 스테이블코인 규제 강화 + 국내 핀테크(카카오페이, 토스, 네이버파이낸셜) 스테이블코인 시장 진입이 현실화될 경우, 국내 디지털 금융 지형이 바뀐다.
+
+---
+
+**가장 중요한 체크포인트 3:**
+
+| 이벤트 | 시점 | 의미 |
+|--------|------|------|
+| CLARITY Act 상원 전체 표결 | 8주 이내 | $COIN/$USDC 수익 모델 확장 여부 |
+| SoFiUSD 분기 거래량 공개 | 분기 실적 시즌 | 은행 스테이블코인 실수요 첫 증거 |
+| 한국 DABA 입법 일정 | 2026 하반기 | 국내 핀테크 지형 재편 여부 |
+
+---
+
+Schnabel의 경고가 맞을 수도 있다. 달러 스테이블코인이 경제 펀더멘털이 아닌 네트워크 효과로 달러 제국을 영구화할 수 있다는 것.
+
+하지만 그 제국이 코드 위에 세워진다면, 코드를 설계하는 사람들이 다음 역사를 쓴다.
+
+그 역사를 Armstrong과 Allaire와 Mastercard가 쓰려 한다. 그리고 그들 뒤에서, 한국의 카카오페이가 조용히 법안을 기다리고 있다.
+
+---
+
+## 출처
+
+1. **White House GENIUS Act 팩트시트** (2025-07) — [whitehouse.gov](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/)
+2. **SoFi IR 공식 보도자료** — [investors.sofi.com](https://investors.sofi.com/news/news-details/2026/SoFiUSD-Becomes-the-First-Stablecoin-Issued-by-a-US-National-Bank-to-Launch-on-a-Banking-Platform/default.aspx)
+3. **Mastercard IR 공식 발표** (2026-03-17) — [investor.mastercard.com](https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-to-Acquire-BVNK-to-Connect-On-Chain-Payments-and-fiat-Rails/default.aspx)
+4. **ECB Isabel Schnabel 공식 연설** (서울, 2026-06-01) — [ecb.europa.eu](https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html)
+5. **Ripple OCC 인가 신청서** — [occ.gov](https://www.occ.gov/topics/charters-and-licensing/digital-assets-licensing-applications/ripple-national-trust-bank.pdf)
+6. **Circle OCC 조건부 승인** (2025-12-12) — [circle.com](https://www.circle.com/pressroom/circle-receives-conditional-approval-from-occ-for-national-trust-charter)
+7. **Citi "Stablecoins 2030" 보고서** — [citigroup.com](https://www.citigroup.com/global/insights/stablecoins-2030)
+8. **CNBC — CLARITY Act 위원회 통과** — [cnbc.com](https://www.cnbc.com/2026/05/14/clarity-act-congress-crypto-senate.html)
+9. **CryptoTimes — CLARITY Act Senate Calendar** — [cryptotimes.io](https://www.cryptotimes.io/2026/06/03/clarity-act-reaches-senate-calendar-as-crypto-awaits-verdict/)
+10. **Decrypt — Armstrong 2026 우선순위** — [decrypt.co](https://decrypt.co/353503/coinbase-targeting-stablecoin-growth-onchain-adoption-in-2026-brian-armstrong)
+11. **CoinDesk — Armstrong 은행 로비 비판** — [coindesk.com](https://www.coindesk.com/policy/2026/02/18/banking-trade-groups-responsible-for-impause-on-market-structure-bill-brian-armstrong-says)
+12. **Benzinga — Allaire CLARITY Act 지지** — [benzinga.com](https://www.benzinga.com/crypto/cryptocurrency/26/05/52475777/jeremy-allaire-stablecoin-rewards-usdc-adoption)
+13. **Bitcoin Foundation — 스테이블코인 $321B** — [bitcoinfoundation.org](https://bitcoinfoundation.org/news/stablecoin-news/stablecoin-market-cap-tops-321b/)
+14. **CoinDesk — CLARITY Act 스테이블코인 조항** — [coindesk.com](https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing)
+15. **CryptoSlate — JPMorgan JPMD on Base** — [cryptoslate.com](https://cryptoslate.com/jpmorgan-just-put-real-bank-deposits-on-ethereum-and-beat-the-fed-to-24-7-settlement/)
+16. **CoinDesk — 한국 DABA 발의** (2026-04) — [coindesk.com](https://www.coindesk.com/policy/2026/04/08/south-korea-proposes-cryptocurrency-law-with-bank-style-rules-for-stablecoins)
