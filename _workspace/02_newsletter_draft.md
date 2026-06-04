@@ -77,7 +77,7 @@ CLARITY Act의 스테이블코인 수익 조항(거래 기반 보상은 허용, 
 
 EU는 세계에서 가장 앞선 스테이블코인 규제 프레임인 MiCA를 2024년 12월 30일 완전 시행했다. 달러 스테이블코인에는 일 100만 건 또는 €2억 초과 거래 제한이 걸렸다. Binance·Coinbase·Kraken·Crypto.com은 2024-12~2025-03 EEA 사용자 대상 USDT 스팟 거래를 전면 폐지했다.
 
-결과? 유로화 스테이블코인 시총은 **€450~500M**. 달러 스테이블코인의 **0.2%**다. 규제로 달러를 막았지만, 유로 대안이 그 공백을 채우지 못했다. 그래서 Schnabel이 서울에서 경고를 날린 것이다 — EU 안팎에서 달러 스테이블코인은 여전히 支배적이다.
+결과? 유로화 스테이블코인 시총은 **€450~500M**. 달러 스테이블코인의 **0.2%**다. 규제로 달러를 막았지만, 유로 대안이 그 공백을 채우지 못했다. 그래서 Schnabel이 서울에서 경고를 날린 것이다 — EU 안팎에서 달러 스테이블코인은 여전히 지배적이다.
 
 ECB의 대응 전략은 두 가지다: 디지털 유로(소매용)와 'Pontes' 프로젝트(DLT 네트워크와 TARGET 인프라를 연결하는 브리지). 제한보다는 공공 인프라 확장으로 맞서겠다는 것이다.
 
@@ -176,3 +176,5 @@ Schnabel의 경고가 맞을 수도 있다. 달러 스테이블코인이 경제 
 14. **CoinDesk — CLARITY Act 스테이블코인 조항** — [coindesk.com](https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing)
 15. **CryptoSlate — JPMorgan JPMD on Base** — [cryptoslate.com](https://cryptoslate.com/jpmorgan-just-put-real-bank-deposits-on-ethereum-and-beat-the-fed-to-24-7-settlement/)
 16. **CoinDesk — 한국 DABA 발의** (2026-04) — [coindesk.com](https://www.coindesk.com/policy/2026/04/08/south-korea-proposes-cryptocurrency-law-with-bank-style-rules-for-stablecoins)
+
+<!-- slack_trigger: 2026-06-04 -->
