@@ -530,3 +530,9 @@
 - 오늘의 픽: $HOOD (카탈리스트: SpaceX IPO 로드쇼 D+0 시작·D+7 가격결정 6/11·D+8 상장 6/12, 소매 30% 창구 역할, 8/10), $NU (카탈리스트: $1B 자사주매입 D+0 TODAY 발동·신규 CFO 7/13 Visa 출신 Rob Livingston, 9/10) [와치리스트 외]
 - 뉴스 토픽: [핀테크/크립토] COIN CFTC 퍼펄 선물 미국 최초 승인 +4% / SpaceX IPO 로드쇼 TODAY $135·$1.77T·6/12 상장 / GOOGL $84.75B 자본 조달 버크셔 $10B / Jamie Dimon CLARITY Act 공개 반대 / BTC $62,347 ETF 순유출 10연속 / [기업] AVGO -15% 소프트웨어 미스+가이던스 무변화 / TSLA 오스틴 무인 로보택시 6/3 공식런칭 FSD 10개국 1.3M 구독 / NVDA 오늘 배당락 / [매크로] 이란전쟁 리스크+WTI $95+나스닥선물 -0.9% / 코스피 8,801 ATH권(6/2) 현충일 후 재개장 / 원달러 1,530(2009년 최고) / Goldman "코스피 35% 추가 상승"
 - 팟캐스트: TBPN "Google Taps Berkshire, History of Confidential IPO Filings, AI Executive Order, Putin's Longevity" (2026-06-02)
+
+## 2026-06-05 01:09 [AM] (테마: 헬스케어/바이오/의료기기)
+- 헤드라인: 고용이 시장을 심판한다 — ADA가 헬스케어를 깨우는 날, 나스닥은 AVGO 충격을 소화한다
+- 오늘의 픽: $NVO (카탈리스트: D+0 ADA 2026 Phase 3 REIMAGINE 1-3 전체 결과 오늘 발표, 공매도 14M→21.72M 급증, RSI ~28 극단 과매도), $ABBV (카탈리스트: D+4 2026-06-09 Goldman Sachs 47th Global Healthcare Conference fireside chat, ASCO 파이프라인 데이터 공개 후 +3.53%) [와치리스트 외 발굴]
+- 뉴스 토픽: [헬스케어/ADA] NVO CagriSema REIMAGINE Phase 3 오늘 발표 / Structure Therapeutics $GPCR aleniglipron 경구 GLP-1 16.3% 체중 감소 Phase 2 / MRNA+MRK 암 백신 5년 데이터(49% 재발 위험 감소) ASCO 2026 / [매크로] AVGO -15% AI 반도체 가이던스 미상향 / 5월 고용지표 8:30 ET 오늘 발표(컨센 6~8만명, ADP 12.2만명) / S&P 7,584 / 다우 51,562 ATH / BTC $63,194 -14% 주간 / SpaceX IPO 로드쇼 진행 중($135/주, $1.77T, 6/12 상장) / [기업] TSLA 오스틴 로보택시 42대 vs Waymo 577대 / NVDA RTX Spark 노트북 칩 / GOOGL $80B 주식 발행 완료 / OKLO $67 DOE 차익실현 소강
+- 팟캐스트: (24시간 이내 신규 에피소드 미확인 — 섹션 생략)
