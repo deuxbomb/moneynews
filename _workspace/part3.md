@@ -1,54 +1,45 @@
+📊 AVGO 충격파 — 나스닥 단기 조정이냐, AI 사이클 균열이냐
+
+어제 브로드컴(AVGO)이 -15% 폭락했다. AI 맞춤형 반도체(ASIC) 매출이 늘고 있음에도, 시장이 원한 "AI 반도체 전망 상향"이 없었기 때문이다. AVGO가 기침하자 엔비디아·마이크론·AMD 모두 동반 하락했다. 그러나 이것이 AI 사이클의 균열인지, 단순 차익실현인지는 오늘 고용지표와 다음 주 NVDA 파트너 데이터로 판가름 난다. 현재 헤지펀드 반도체 비중은 10%로 역대 최고치다 — 선반영이 많다는 뜻이고, 실망 시 낙폭도 크다는 뜻이다. 반면 기관 로테이션 자금이 헬스케어·방산으로 유입되는 그림은 뚜렷하다.
 
 ---
 
-📰 AVGO가 흔든 하루, 크립토가 구조적 전환을 선언하다
+🏥 ADA 2026 개막 — GLP-1의 다음 챕터가 오늘 뉴올리언스에서 쓰인다
 
-**[증시] AI는 맞췄는데, 소프트웨어에 뒤통수 맞은 AVGO**
+1️⃣ 경구용 GLP-1, 주사기를 버릴 준비가 됐다
 
-어제 밤 Broadcom이 Q2 FY26 실적을 발표했다. AI 반도체 매출 $108억(+143% YoY) — 컨센서스 초과. 총 매출 $222억(+48% YoY) — 컨센서스 초과. Non-GAAP EPS $2.44 — 컨센서스 초과. 그런데 주가는 -15%다. 이유는 두 가지다. 첫째, 인프라 소프트웨어 매출 $71.8억이 컨센서스 $73.2억에 1.9% 못 미쳤다. VMware 통합 효과가 기대만큼 빠르지 않다는 신호다. 둘째, Hock Tan CEO는 연간 AI 반도체 매출 가이던스 $1,000억(+100% YoY)을 올리지 않았다. Q3 AI 매출 $160억(+200% YoY) 가이던스는 강력했지만, 시장은 "연간 목표를 올렸어야 한다"고 반응했다. AVGO의 교훈: 하늘을 찌른 기대치는 실제 성과가 훌륭해도 만족하지 않는다. [stocktitan](https://www.stocktitan.net/news/AVGO/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial-if4yrbje8hq6.html)
+세계 당뇨 학회(ADA 2026, 6/5~8)의 첫날 가장 큰 화제는 알레니글리프론(aleniglipron)이다. Structure Therapeutics($GPCR)가 발표한 Phase 2 ACCESS II 결과는 역대 경구형 GLP-1 중 최고 수치다. 44주간 180mg 용량에서 체중 감소 **16.3%(약 18kg)**를 달성했다. 625명 이상의 참가자에서 약물 유발 간 손상(DILI), 지속적 간 효소 상승, QTc 연장이 없었다. 배경은 이렇다 — 현재 GLP-1 시장의 최대 장벽은 "주사"다. 전체 처방 포기 이유의 35%가 바늘 공포증이다. 경구형이 같은 효과를 낸다면, 시장은 지금의 3~4배가 된다. 알레니글리프론의 Phase 3 IND는 Q3 2026 제출 예정이다. NVO의 ozempic 경구제 리벨서스(세마글루타이드 경구제)는 5~7%대인데, 16%는 다른 차원이다. 의미는 단순하다: GLP-1 경쟁이 이제 본격적으로 '차세대 경구제' 라운드로 이동했다. [BioSpace](https://www.biospace.com/press-releases/structure-therapeutics-reports-positive-topline-data-from-phase-2-access-ii-trial-with-once-daily-oral-small-molecule-glp-1-receptor-agonist-aleniglipron)
 
----
+2️⃣ 노보 노디스크($NVO), CagriSema 재활 프로젝트 시작
 
-📊 핀테크/크립토 — 목요일 주축 뉴스
+노보 노디스크가 오늘 ADA 학회에서 Phase 3 REIMAGINE 1-3 전체 결과를 발표한다. 지난 2월 헤드라인은 이미 긍정적이었지만(CagriSema > 세마글루타이드 단독), 오늘 추가되는 순응도 조정 분석이 핵심이다. "완전 순응 시 40.4%가 체중 25% 이상 감소, 23.1%는 30% 이상 감소"라는 수치는 기존 어떤 약과도 다른 영역이다. 배경: CagriSema는 세마글루타이드(GLP-1)와 카그릴린타이드(아밀린 유사체)의 복합제다. 아밀린은 위 배출 속도를 늦추고 포만감을 연장하는 메커니즘으로, GLP-1과 시너지가 있다. Phase 3가 이미 완료된 상태여서 FDA 허가 타임라인은 LLY의 트리플 작용제(retatrutide)보다 6~12개월 앞서 있다. 전망: 오늘 발표가 시장 기대를 충족하면 NVO 주가 반등 + 공매도 세력 커버링 가능성. 반면 미스면 $35 재테스트. [PR Newswire](https://www.prnewswire.com/news-releases/novo-nordisk-advances-cardiometabolic-pipeline-with-new-data-featuring-cagrisema-and-zenagamtide-at-the-american-diabetes-associations-2026-scientific-sessions-302783110.html)
 
-**1. 코인베이스, 퍼펄 선물 미국 최초 승인 — 크립토 파생상품의 문이 열렸다**
+3️⃣ 암 백신이 5년 후에도 살아있다 — MRNA·MRK의 역대급 데이터
 
-CFTC가 Coinbase에 글로벌 크립토 무기한 선물(Perpetual Futures) 거래 허가를 내줬다. Deribit($31억 BTC 옵션 오픈인터레스트, 코인베이스가 $29억에 인수)와 파트너십으로 운영된다. 퍼펄 선물은 전 세계 크립토 거래량의 80%를 차지하는 상품이다. 미국 투자자들이 이 시장에 합법적으로 들어올 수 있는 첫 번째 공식 채널이 생겼다.
-
-BTC·ETH·SOL·DOGE 등 '디지털 상품' 퍼펄을 지원하며, 기관 온보딩은 이미 시작됐다. 소매 접근은 추후 단계적으로 개방된다. $COIN은 이 소식에 +4% 급등했다. 배경을 보면 더 선명하다. CLARITY Act가 상원 표결을 기다리는 지금, CFTC 승인은 "입법이 완성되기 전에도 규제 기관이 크립토를 정상화하기 시작했다"는 신호다. 반면 Jamie Dimon(JPMorgan CEO)은 오늘 Coinbase CEO Brian Armstrong을 직접 공격하며 CLARITY Act 반대를 선언했다. "코인베이스는 사실상 은행처럼 기능하면서 은행 규제를 피하고 있다"는 논리다. 지금은 규제 경쟁의 전선이 갈라지는 순간이다. [Blockonomi](https://blockonomi.com/coinbase-coin-stock-jumps-4-following-cftc-approval-for-perpetual-futures-trading/) · [cryptonews](https://cryptonews.net/news/legal/32949652/)
-
-**2. 스페이스X, 역대 최대 IPO의 막을 올리다 — $135, 오늘부터 로드쇼**
-
-SpaceX가 오늘 주당 $135 고정가로 IPO 로드쇼를 시작했다. $1.77조 밸류에이션, $75B 조달, 사우디 아람코($294억)의 2.5배. S-1에 따르면 Anthropic이 xAI에 월 $12.5억(연간 $15B)을 컴퓨트 비용으로 지불하는 계약이 있다. 이것 하나가 SpaceX를 단순한 로켓 회사에서 AI 인프라 회사로 탈바꿈시킨다. 소매 투자자 30% 물량은 HOOD·SoFi·피델리티·슈왑·E-Trade에서 청약 가능하다. D+7(6/11) 가격 결정, D+8(6/12) 나스닥 상장. 가격이 올라갈 가능성도 있다 — $135는 "최소한"의 숫자일 수 있다. [CNBC](https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html) · [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/261945743-avgo-stock-forecast-why-broadcom-dropped-17-percent-and-whats-next-tradingkey)
-
-**3. GOOGL, $84.75B 자본 조달 완료 — 버크셔가 구글에 $100억을 베팅하다**
-
-Alphabet이 $84.75억(당초 $80B에서 증액) 규모 자본 조달을 완료했다. 구성은 ① 버크셔 해서웨이 사모 $100억(Class A $5B, Class C $5B, 시가 대비 6% 할인) ② 공모 $300억(전환우선주 $150억 + 보통주 $150억) ③ ATM(시장 매출) $400억(Q3 2026부터 단계적). 목적은 하나다: AI 컴퓨트 인프라 확장. 버핏의 후계자들이 AI 인프라에 $100억을 베팅했다는 사실이 시장에 전하는 메시지는 "이건 거품이 아니다"에 가깝다. 다만 주식 희석(약 2%)이 단기 악재로 작용할 수 있어 GOOGL 주가는 소폭 하락 중이다. [Seeking Alpha](https://seekingalpha.com/news/4599490-alphabet-raises-80b-for-ai-investments-including-10b-from-berkshire-hathaway) · [Bloomberg](https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending)
+지난 1일 ASCO 2026에서 Moderna($MRNA)와 Merck($MRK)가 발표한 데이터는 조용히 역사를 바꿨다. 흑색종 Stage III/IV 환자에서 맞춤형 mRNA 암 백신(intismeran) + Keytruda 병용은 5년 추적에서 재발·사망 위험을 **49% 감소**, 원격 전이·사망 위험을 **59% 감소**시켰다. 60.3개월 중앙값 추적 — 지금까지 나온 개인화 암 백신 중 가장 긴 데이터다. 주가는 흥미롭게도 발표 당일 하락했다가 6/3에 +6.8%로 반등했다. 배경: 시장이 "ASCO 전 매수-발표 후 매도" 패턴을 그대로 따랐다. 전망: Goldman Sachs Healthcare Conference(6/9)에서 MRNA CEO가 새 파이프라인 업데이트를 발표할 예정이다. 개인화 암 백신 시장은 2030년 $120B 추정이며, MRNA는 여기서 선두주자 지위를 굳히고 있다. [BioSpace](https://www.biospace.com/drug-development/asco-modernas-mrna-based-melanoma-vaccine-shows-encouraging-5-year-survival) · [Moderna+Merck](https://finance.yahoo.com/sectors/healthcare/articles/moderna-merck-present-5-data-120000678.html)
 
 ---
 
 🏢 기업 뉴스
 
-**$TSLA — 오스틴 무인 로보택시, 공식 런칭**
+$TSLA 오스틴의 숫자가 공개됐다 — 42 대 577
 
-6월 3일, Tesla가 오스틴 광역권에서 무감독 로보택시 서비스를 공식 런칭했다. 4월에 달라스·휴스턴에 이어 세 번째 텍사스 도시다. FSD는 현재 10개국에서 운영 중이며, Q1 FY26 기준 구독자 수는 130만 명을 넘었다. 누적 주행거리 84억 마일 — Waymo(2억 마일)의 42배다. 여전히 대규모 상업화까지 갈 길은 멀지만, "약속에서 데이터로" 전환은 분명히 가속화되고 있다. [GuruFocus](https://www.gurufocus.com/news/8900269/tesla-expands-robotaxi-service-signaling-shift-towards-ai-and-automation)
+테슬라가 텍사스 오스틴에서 운행 중인 무인 로보택시 대수가 공식적으로 42대로 집계됐다. Waymo가 오스틴에서 운행 중인 577대와 비교하면 13:1의 격차다. 테슬라는 "FSD 구독자 130만 명, 10개국 서비스"라는 숫자를 내세우지만, 로보택시 규모에서는 아직 멀었다. 배경: 테슬라의 장기 논리는 소프트웨어(FSD)를 글로벌 플리트에 배포하는 것이고, Waymo는 특정 도시에 완전 자율 차량을 투입하는 다른 전략이다. 전망: 올 하반기 Cybercab 양산이 시작되면 테슬라 로보택시 대수가 급증할 전망. SpaceX 합병 논쟁(Polymarket 52%)은 계속된다.
 
-**$COIN — CFTC 승인으로 +4%**, 크립토 파생상품 최전선 (위 참조)
+$NVDA RTX Spark — AI PC 전쟁의 새 무기
 
-**$NVDA — 오늘 배당락(Ex-Dividend Day)**
+엔비디아가 노트북용 RTX Spark 슈퍼칩을 발표했다. ASUS·Dell·HP·Microsoft 제품에 올 가을 탑재 예정이다. 클라우드 AI 작업을 로컬 디바이스로 옮기는 "Physical AI" 전략의 연장선이다. AVGO 충격파로 NVDA 주가는 단기 하락 중이지만, Q2 $91B 가이던스와 BlackWell 공급은 변함없다. 배경: COMPUTEX에서 발표한 Physical AI 로드맵 (Cosmos 3, GR00T N1.7)이 지금 제품화 단계에 진입 중. 전망: AVGO -15% 쇼크가 섹터 전체에 단기 역풍이지만, 근본적 AI 수요 사이클은 훼손되지 않았다.
 
-NVIDIA가 오늘 배당락일을 맞는다. 분기 배당은 소액이지만, 배당락일 특성상 주가에 기계적 조정이 반영된다. 실질적인 시장 영향보다는 Physical AI 모멘텀과 COMPUTEX 이후 소강 국면이 더 큰 요인이다. Q3 AI 매출 가이던스 $88B는 변함없이 유효하다.
+$GOOGL $80B 주식 발행 완료 — AI에 돈을 쏟아붓는다
 
-**$GOOGL — AI 인프라 올인** (위 참조)
+알파벳이 $84.75B 규모 주식 발행을 완료했다. Berkshire Hathaway가 $10B를 취득했고, 나머지는 기관투자자에 배정됐다. 조달 자금 전액은 AI 인프라(데이터센터, 컴퓨팅) 투자에 사용된다. 배경: Google I/O에서 발표한 Gemini 3.5·Android XR·AI Mode 10억 명 돌파 등이 투자 근거. Q1 FY26 카펙스 $35.7B, FY26 가이던스 $180~190B — 경쟁사들과의 AI 군비경쟁이 본격화됐다.
+
+$OKLO DOE 차익실현 이후 조정
+
+OKLO가 $73에서 $67로 8.5% 하락했다. DOE 잉여 플루토늄 연료 전환 협상 선정(5/27) 이후 차익실현 매물이 지속 중이다. AI 데이터센터 핵 캠퍼스 계약(Meta 1.2GW 등)과 NVIDIA 파트너십은 여전히 살아있다. 배경: $80 BofA 목표가 대비 아직 16% 업사이드 존재. 전망: $65~70 지지선 여부를 확인 중.
 
 ---
 
-🌍 흥미로운 이야기
+💡 흥미로운 이야기
 
-**이란, 이란, 이란 — 유가는 $95, 나스닥은 기침 중**
-
-미 하원이 트럼프 대통령의 대이란 군사작전 권한을 제한하는 결의안을 통과시켰다. 공화당 일부도 동조했다. 동시에 트럼프는 "이번 주말 딜 가능"이라 말했지만 이란 외교장관은 "중요한 진전 없음"이라 반박했다. WTI는 $95에서 -0.9% 하락했지만 여전히 $100 위험을 인식하고 있다. $100 돌파 시나리오: 이란 협상 결렬 → WTI $105+ → 인플레 우려 재점화 → 금리 인하 기대 후퇴 → 성장주 추가 타격. 오늘 밤 주목해야 할 변수다. [PBS](https://www.pbs.org/newshour/economy/doubts-about-the-u-s-iran-ceasefire-push-oil-prices-toward-100-and-slow-stocks)
-
-**BTC $62K — ETF 순유출 10연속 세션의 무게**
-
-비트코인이 $62,347까지 밀렸다. 불과 2주 전만 해도 $77K였다. 미국 비트코인 ETF에서 10 거래세션 연속 순유출이 일어났다. 기관 자금이 빠지는 속도가 소매 매수보다 빠른 국면이다. 단기 지지선은 2월 저점 $60K 근방이다. 역설적으로 이 구간은 COIN에게는 파생상품 수요가 폭발하는 시점이기도 하다. [CoinDesk](https://www.coindesk.com/daybook-us/2026/06/01/bitcoin-remains-under-pressure-as-etf-outflows-higher-oil-prices-weigh-on-crypto-markets)
+SpaceX IPO가 역대 최대 기록을 갈아치운다 — $135/주, $1.77T 가치평가로 나스닥 상장 D-7이다. 로드쇼 기간(6/4~8) 555.6M주 매각, $75B 조달이 목표다. Morningstar는 "공정 가치의 2배"라며 경고했지만, Starlink(10.3M 구독자, 분기 영업이익 $1.19B)가 버팀목 역할을 한다. 한국 투자자들은 미래에셋($5B 배정 신청)·Tiger ETF(25%) 경로로 접근 가능하다. [TechTimes](https://www.techtimes.com/articles/317676/20260603/spacex-ipo-roadshow-begins-morningstar-calls-175t-valuation-nearly-twice-fair-value.htm) · [CNBC](https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html)

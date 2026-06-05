@@ -1,9 +1,3 @@
-- 핵심 주제: CBO가 5월 12일 발표한 골든돔 20년 비용 추산 $1.2T vs. 정부 추산 $185B(6.5배 격차). 우주기반 요격체(SBI) 70%가 비용 구조 핵심. 40년 SDI→GMD→골든돔 역사, 아이언돔·NATO·중국A2AD·K방산 국제 비교, Bull/Base/Bear 3개 시나리오로 투자 시사점 도출.
-- 다룬 종목/기업: $RTX (Raytheon), $LMT (Lockheed Martin), $NOC (Northrop Grumman), $RKLB (Rocket Lab), SpaceX, Anduril, 한국방산
-- 핵심 주장/결론: SBI 기술 실현 가능성이 검증되지 않아 Base(지상 중심 재편)가 가장 현실적. RTX·LMT는 Base에서도 확실한 수혜. NOC는 과매도(RSI 32.65) + 복수수주 이중 플레이. 2028 SBI 시연이 핵심 분기점.
-- 1차 자료 출처: CBO 보고서(Federal News Network/Defense One 보도) × 1, 백악관 EO14186 × 1, RTX 2025 실적 보도자료 × 1, LMT GovCon Wire × 1, Space Force OTA 계약 × 1, Arms Control Center GMD FAQ × 1, Gen. Guetlein 의회 발언(Breaking Defense) × 1 (총 7건)
-- 판정: Minor (4개 개선점 반영 — 스타링크 6,000기 환각 제거, RTX 백로그 맥락 추가, Base 시나리오 Guetlein 연결 강화, 시사점 첫 문장 교체)
-
 ## 2026-05-18 22:00 [PM] (테마: AI 인프라/반도체)
 - 헤드라인: 핵발전소에 드론이 떴다 — 코스피는 버텼고, 오늘 밤 미장이 흔들린다
 - 오늘의 픽: $ANET (카탈리스트: D+1 JP모건 TMC 컨퍼런스 5/19, $142 vs 목표 $183), $AMD (카탈리스트: NVDA 어닝 섹터 촉매 D+2 5/20, 데이터센터 +57%) [와치리스트 외]
@@ -298,3 +292,9 @@
 - 핵심 주장/결론: 스테이블코인은 이미 크립토의 영역을 넘어 글로벌 달러 패권의 디지털 전선. 핵심 체크포인트: CLARITY Act 8주 이내 상원 표결($COIN 수익 모델 확장 여부) + SoFiUSD 분기 거래량 공개(은행 스테이블코인 실수요 첫 증거) + 한국 DABA 입법 일정(국내 핀테크 재편).
 - 1차 자료 출처: White House GENIUS Act 팩트시트 × 1, SoFi IR 보도자료 × 1, Mastercard IR 보도자료 × 1, ECB Schnabel 공식 연설 × 1, Ripple OCC 신청서 × 1, Circle OCC 승인 × 1, Citi "Stablecoins 2030" 보고서 × 1 (총 7건)
 - 판정: Minor → Accept (4개 개선점 반영 — 단정 표현 완화, 국제 비교 독립 섹션 신설, 도입부 hook 강화, 마지막 여운 문장 추가)
+
+## 2026-06-04 13:30 [PM] (테마: 핀테크/결제/크립토)
+- 헤드라인: AVGO가 무너진 날, 스페이스X가 막을 올렸다 — 이란이 흔들고, 나스닥이 기침한다
+- 오늘의 픽: $HOOD (카탈리스트: SpaceX IPO 로드쇼 D+0 시작·D+7 가격결정 6/11·D+8 상장 6/12, 소매 30% 창구 역할, 8/10), $NU (카탈리스트: $1B 자사주매입 D+0 TODAY 발동·신규 CFO 7/13 Visa 출신 Rob Livingston, 9/10) [와치리스트 외]
+- 뉴스 토픽: [핀테크/크립토] COIN CFTC 퍼펄 선물 미국 최초 승인 +4% / SpaceX IPO 로드쇼 TODAY $135·$1.77T·6/12 상장 / GOOGL $84.75B 자본 조달 버크셔 $10B / Jamie Dimon CLARITY Act 공개 반대 / BTC $62,347 ETF 순유출 10연속 / [기업] AVGO -15% 소프트웨어 미스+가이던스 무변화 / TSLA 오스틴 무인 로보택시 6/3 공식런칭 FSD 10개국 1.3M 구독 / NVDA 오늘 배당락 / [매크로] 이란전쟁 리스크+WTI $95+나스닥선물 -0.9% / 코스피 8,801 ATH권(6/2) 현충일 후 재개장 / 원달러 1,530(2009년 최고) / Goldman "코스피 35% 추가 상승"
+- 팟캐스트: TBPN "Google Taps Berkshire, History of Confidential IPO Filings, AI Executive Order, Putin's Longevity" (2026-06-02)
