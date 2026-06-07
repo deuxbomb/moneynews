@@ -1,38 +1,27 @@
 # 앵커 소스 — 14:00 트리거가 우선 활용
-# 테마: Roblox ($RBLX) 종목 해부 — 아이들의 놀이터가 성인의 경제가 된다 (2026-06-06)
+# 테마: SpaceX IPO 🔮 미래전망 — 2026-06-07
 
-## 1차 자료 (필수 3건 이상)
+## 1차 자료 (필수 3종 이상)
 
-- [SEC 8-K, May 2026 지표 + 자사주매입] https://www.sec.gov/Archives/edgar/data/0001315098/000131509826000108/ex991-may2026x.htm
-  — 2026년 5월 운영 지표 + $3B 자사주매입 발표. DAU, 예약매출, 크리에이터 배분 데이터.
+- **[SEC S-1 공식 제출]** https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm — SpaceX 전체 재무제표, 3개 사업부(Space/Connectivity/AI) 분리 공시, 리스크 팩터 완전 공개. **최우선 활용.**
 
-- [SEC 10-Q, Q1 2026] https://www.sec.gov/Archives/edgar/data/0001315098/000162828026028904/rblx-20260331.htm
-  — Q1 2026 분기보고서. 매출, EBITDA, 현금흐름, 가이던스 하향 배경 공식 수치.
+- **[Morningstar 재무 차트 분석]** https://www.morningstar.com/stocks/6-charts-spacexs-s-1-financials — S-1 기반 6개 핵심 재무 차트. Starlink ARPU 하락 추이, 부문별 수익성 시각화.
 
-- [SEC 8-K, Q1 2026 어닝] https://www.sec.gov/Archives/edgar/data/0001315098/000162828026028882/ex991-q12026earningsshar.htm
-  — Q1 2026 주주서한 + 어닝 발표. 18+ 성인 사용자 성장 전략 언급.
+- **[Via Satellite — 재무 첫 공개 분석]** https://www.satellitetoday.com/finance/2026/05/20/spacexs-ipo-filing-gives-first-look-into-companys-financials/ — Starlink $11.4B 매출 (2025), Connectivity $4.4B 흑자, Space·AI 적자 구조 상세.
 
-- [SEC 8-K, May 28] https://www.sec.gov/Archives/edgar/data/0001315098/000131509826000124/rblx-20260528.htm
-  — 5월 28일 8-K: 크리에이터 이코노미 개편 관련 최신 발표 가능성 확인 권장.
+- **[Hargreaves Lansdown — S-1 해설]** https://www.hl.co.uk/news/inside-spacexs-ipo-filing-revenue-starlink-ai-and-key-financials — Starlink 구독자 1,030만(Q1 2026), ARPU $99→$66 추이 정리.
 
-- [Q1 2026 어닝콜 트랜스크립트] https://www.fool.com/earnings/call-transcripts/2026/04/30/roblox-rblx-q1-2026-earnings-call-transcript/
-  — Q1 2026 컨퍼런스콜 전체. 성인 사용자 전략, 가이던스 하향 이유, 크리에이터 이코노미 발언 확인.
+## 보조 자료
 
-## 보조 소스
+- **[CNBC — IPO 로드쇼 보도]** https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html — $135/주 고정가, Goldman 주관, 6/12 나스닥 상장 확인.
 
-- [크리에이터 수익률 인상 상세] https://www.netinfluencer.com/roblox-to-raise-developer-exchange-rate-for-games-aimed-at-18-plus-players-as-adult-cohort-surges/
-  — June 8 시행 세부 내용: 26.6% → 37.8%, R15 프레임워크, 적격 게임 조건.
+- **[Capital.com — SpaceX IPO 타임라인]** https://capital.com/en-int/learn/ipo/spacex-ipo — 로드쇼 6/4 출발, 6/11 리테일 이벤트 1,500명, 6/12 상장.
 
-- [자사주매입 반응] https://www.gurufocus.com/news/8870393/roblox-rblx-initiates-3b-share-buyback-program-stock-rises
-  — $3B 자사주매입 시장 반응 + 가이던스 하향 맥락.
+- **[Zacks — IPO 가이드]** https://www.zacks.com/featured-articles/741/spacex-ipo — 밸류에이션 비교 (Tesla $1.6T, SpaceX $1.77T) + 역대 최대 IPO 맥락.
 
-- [RBLX YTD -42% 분석] https://finance.yahoo.com/markets/stocks/articles/time-reassess-roblox-rblx-42-060942310.html
-  — 주가 하락 원인 분석 + 분석가 컨센서스 (Buy, $64.81 PT).
+## 추가 수집 권장 (14:00 리서처용)
 
-## 추가 수집 권장 (14:00 리서처)
-- Roblox Q4 2025 / FY2025 실적 (8-K): DAU 연간 추이, 수익화율 추적
-- SEC EDGAR Q4 2025 shareholder letter: https://www.sec.gov/Archives/edgar/data/0001315098/000131509826000009/ex991-q42025shareholder.htm
-- Epic Games Fab 크리에이터 수익 배분 공식 자료 (비교용): https://www.fab.com/
-- Roblox 공식 Developer Exchange 정책 페이지 (현재 배분율 확인): https://create.roblox.com/docs/production/monetization/developer-exchange
-- 텐센트 미니게임 수익 배분 구조 기사 (중국 비교용) — WebSearch로 추가 수집
-- 네이버 제페토 크리에이터 이코노미 자료 (한국 비교용) — WebSearch
+- SpaceX S-1 중 "Rocket Launch History" 섹션 → Falcon 9 재사용 횟수 1차 데이터
+- Amazon Kuiper 현황 (경쟁 위협 구체화): WebSearch "Amazon Kuiper subscribers 2026"
+- 한화에어로스페이스 우주 사업 IR: WebSearch "한화에어로스페이스 발사체 2026"
+- Rocket Lab 최근 어닝콜: WebSearch "RKLB earnings call 2026 transcript"
