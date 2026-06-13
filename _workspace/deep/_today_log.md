@@ -1,9 +1,9 @@
 
-## 2026-06-04 05:55 [DEEP] (테마 클러스터: 핀테크/결제/크립토, 유형: 🎤 보이스 컴필)
-- 제목: 달러가 다시 태어나는 날 — 스테이블코인 패권전쟁, 5인의 선언이 말하는 것
-- 테마 유형: 보이스 컴필 (주요 인사 발언 5인 교차 분석)
-- 핵심 주제: 2026년 하반기 스테이블코인이 크립토를 넘어 글로벌 달러 패권의 디지털 전선이 되는 구조적 전환을 분석. SoFiUSD(미국 최초 국법은행 퍼블릭체인 스테이블코인, 5/27), ECB Schnabel 서울 달러 스테이블코인 패권 경고(6/1), CLARITY Act Senate Calendar 등재(6/1), Mastercard BVNK $1.8B 인수를 5인(Armstrong·Scott·Allaire·Schnabel·Mastercard) 발언 교차 분석. 미국·EU·한국·중국·싱가포르 국제 비교 + Terra 붕괴→GENIUS Act까지 12년 시계열 + 반대 시각 5가지 + $COIN/$MA/$SOFI 투자 시사점.
-- 다룬 종목/기업: $COIN (Coinbase), $MA (Mastercard), $SOFI (SoFi), $SQ (Block), $V (Visa), Circle (USDC), Tether (USDT), Ripple (RLUSD), JPMorgan (JPMD), SoFi Bank
-- 핵심 주장/결론: 스테이블코인은 이미 크립토의 영역을 넘어 글로벌 달러 패권의 디지털 전선. 핵심 체크포인트: CLARITY Act 8주 이내 상원 표결($COIN 수익 모델 확장 여부) + SoFiUSD 분기 거래량 공개(은행 스테이블코인 실수요 첫 증거) + 한국 DABA 입법 일정(국내 핀테크 재편).
-- 1차 자료 출처: White House GENIUS Act 팩트시트 × 1, SoFi IR 보도자료 × 1, Mastercard IR 보도자료 × 1, ECB Schnabel 공식 연설 × 1, Ripple OCC 신청서 × 1, Circle OCC 승인 × 1, Citi "Stablecoins 2030" 보고서 × 1 (총 7건)
-- 판정: Minor → Accept (4개 개선점 반영 — 단정 표현 완화, 국제 비교 독립 섹션 신설, 도입부 hook 강화, 마지막 여운 문장 추가)
+## 2026-06-13 14:00 [DEEP] (테마 클러스터: 소비재/미디어/엔터, 유형: 📊 종목 해부)
+- 제목: 631만 명이 돌아왔다 — FOX Corporation, 케이블이 죽는 시대에 피는 이벤트 경제
+- 테마 유형: 종목해부 (한 종목 완전 분해 — 관심종목 외 발굴, 토요일 고정)
+- 핵심 주제: FIFA 월드컵 2026 개막(6/11) + USMNT 첫 경기(6/12) 직후 타이밍에 FOX Corporation($FOXA) 완전 분해. 월드컵 개막전 631만명 역대 비USMNT 최고 기록(+97%)을 앵커로, FOX의 "이벤트 경제" 비즈니스 모델(슈퍼볼→월드컵→중간선거), Tubi($440M 인수 → MAU 1억명 성장), FY2021~2025 매출 시계열, 미국·영국·독일·브라질·한국 방송권 비교, 케이블 구독자 하락 Bear case, 3촉매 투자 전략($58→$73.88) 분석.
+- 다룬 종목/기업: $FOXA (FOX Corporation), Tubi, Fox News, FOX Sports, $NFLX (비교), Pluto TV (비교)
+- 핵심 주장/결론: FOX는 P/E 11배의 "사양 산업 할인"을 받고 있지만, 월드컵 + 중간선거 이중 촉매와 Tubi 임베디드 가치(독립 평가 $30~50억)는 $73.88 평균 PT 대비 27% 상승 여력을 지지. 3단 분할 매수(USMNT 16강/Q4 어닝/선거 피크) 권장.
+- 1차 자료 출처: SEC EDGAR Fox 10-K FY2025 × 1, Fox Corp Q3 FY2026 공식 보도자료 × 1, FOX Sports 월드컵 시청률 보도자료 × 1, Fox Corp Q1 FY2026 실적 보도자료 × 1, Fox $50억 자사주매입 발표 × 1, Fox Q3 2026 Earnings Call Transcript (Motley Fool) × 1 (총 6건)
+- 판정: Minor (3개 개선점 반영 — Tubi 인수가 오기 수정, 도입부 마지막 문장 강화, 시사점 클로징 여운 강화)
