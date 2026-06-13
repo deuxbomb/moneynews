@@ -129,3 +129,5 @@ FOX Corporation($FOXA) 현재 주가 $58는 선행 P/E 11.3배, EV/EBITDA 8.4배
 - [FOX Corporation stock surged 7% after Q3 2026 earnings — TIKR](https://www.tikr.com/blog/fox-corporation-stock-surged-7-after-q3-2026-earnings-can-the-world-cup-and-midterms-push-it-higher) — 밸류에이션 분석
 - [2026 Election Cycle $11.6B record — TV Tech](https://www.tvtechnology.com/business/study-2026-election-cycle-to-hit-record-usd11-6-billion-ad-spend) — 중간선거 광고 규모
 - [FIFA World Cup 2026 global broadcasting comparison — Tips.GG](https://tips.gg/article/how-to-watch-the-2026-fifa-world-cup-every-broadcaster-by-country-wc2026/) — 국제 중계권 비교
+
+<!-- slack_trigger: 2026-06-13 -->
