@@ -546,8 +546,14 @@
 - 1차 자료 출처: SEC EDGAR Fox 10-K FY2025 × 1, Fox Corp Q3 FY2026 공식 보도자료 × 1, FOX Sports 월드컵 시청률 보도자료 × 1, Fox Corp Q1 FY2026 실적 보도자료 × 1, Fox $50억 자사주매입 발표 × 1, Fox Q3 2026 Earnings Call Transcript (Motley Fool) × 1 (총 6건)
 - 판정: Minor (3개 개선점 반영 — Tubi 인수가 오기 수정, 도입부 마지막 문장 강화, 시사점 클로징 여운 강화)
 
-## 2026-06-16 15:30 [PM] (테마: EV/자율주행/모빌리티)
-- 헤드라인: 워시가 방아쇠를 당기기 전날 밤 — 스페이스X가 세상을 뒤집고, 유가는 바닥을 쳤다
-- 오늘의 픽: $AUR (카탈리스트: 인사이더 David Wehner 82,500주 매수 D-1·Craig-Hallum Buy $18 D-4·자율트럭 200대 연내 목표, 7.5/10), $NIO (카탈리스트: 모건스탠리 Buy D-4·5월 인도 +62.3% YoY·Q2 목표 110K~115K 검증, 7.0/10) [와치리스트 외 발굴]
-- 뉴스 토픽: [매크로] 워시 FOMC 첫 정례회의 개회(결정 내일·동결 97.4%)·WTI $77 미이란 합의 -4.8%·BTC $66,304·코스피 8,668 +1.43% / [EV/자율주행] Tesla Cybercab 오스틴 전역+LA+달라스+SF 확장 but 운행 20대·Rivian R2 인도 개시 6/9+자율주행 로드맵 발표·OKLO +7.9% Standard Nuclear 연료재활용 동맹+일본 $62B SMR 투자검토 / [스마트머니] ARK SPCX 편입 위해 TSLA·AMD·HOOD 매도·ARKQ TSLA 134,703주 추가 / [SPCX] 상장 4일 만에 시총 $2.94T 아마존·MS 추월 세계 4위
-- 팟캐스트: All-In Podcast "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections" (2026-06-13)
+## 2026-06-16 15:00 [AM] (테마: EV/자율주행/모빌리티)
+- 헤드라인: 케빈 워시의 첫 망치, 이란의 백기 — 코스피 8,700 돌파, 스페이스X의 $600억 베팅
+- 오늘의 픽: $JOBY (카탈리스트: FAA Stage 4 완료→Stage 5 심사 진행 중, White House AAM 부스트, ARK 119K주 매수, 8/10), $RIVN (카탈리스트: R2 고객 인도 6/9 개시+Autonomy+ $2,500 L2+ 런칭, Q1 EPS 54% 비트, 7/10) [와치리스트 외 발굴]
+- 뉴스 토픽: [EV/자율주행] VinFast+NVIDIA+Autobrains L4 로보택시 동남아 / Rivian R2 인도 개시+Autonomy+ 론칭 / JOBY FAA Stage4 완료+ARK 매수+eVTOL 소비자 79% 이용의사 / Tesla FSD v14.3.4 롤아웃+Cybercab 오스틴 20대 vs Waymo 577대 / [매크로] 미-이란 MOU 서명+WTI $80 하락+FOMC 개막(케빈 워시 첫 회의)+주택착공 -15.4% / KOSPI 8,726 +2.11% / 원달러 1,511.6원 / [기업] SpaceX SPCX Cursor/Anysphere $60B 인수 발표+SPCX +8.9% / COIN +6.16% BTC 반등 / OKLO $61 DOE 모멘텀 / NVDA DRIVE Hyperion 글로벌 로보택시 플랫폼 / [스마트머니] ARK JOBY 119K주 대규모 매수 / Aurora AUR Uber 블록딜 오버행 + 크레이그-할럼 Buy $18
+- 팟캐스트: All-In Podcast "Anthropic's Fable Backlash, Nationalizing AI, Inflation" (2026-06-13)
+
+## 2026-06-16 15:00 [AM] (테마: EV/자율주행/모빌리티)
+- 헤드라인: 케빈 워시의 첫 망치, 이란의 백기 — 코스피 8,700 돌파, 스페이스X의 $600억 베팅
+- 오늘의 픽: $JOBY (카탈리스트: FAA Stage 4 완료→Stage 5 심사 진행 중, White House AAM 부스트, ARK 119K주 매수, 8/10), $RIVN (카탈리스트: R2 고객 인도 6/9 개시+Autonomy+ $2,500 L2+ 런칭, Q1 EPS 54% 비트, 7/10) [와치리스트 외 발굴]
+- 뉴스 토픽: [EV/자율주행] VinFast+NVIDIA+Autobrains L4 로보택시 동남아 / Rivian R2 인도 개시+Autonomy+ 론칭 / JOBY FAA Stage4 완료+ARK 매수+eVTOL 소비자 79% 이용의사 / Tesla FSD v14.3.4 롤아웃+Cybercab 오스틴 20대 vs Waymo 577대 / [매크로] 미-이란 MOU 서명+WTI $80 하락+FOMC 개막(케빈 워시 첫 회의)+주택착공 -15.4% / KOSPI 8,726 +2.11% / 원달러 1,511.6원 / [기업] SpaceX SPCX Cursor/Anysphere $60B 인수 발표+SPCX +8.9% / COIN +6.16% BTC 반등 / OKLO $61 DOE 모멘텀 / NVDA DRIVE Hyperion 글로벌 로보택시 플랫폼 / [스마트머니] ARK JOBY 119K주 대규모 매수 / Aurora AUR Uber 블록딜 오버행 + 크레이그-할럼 Buy $18
+- 팟캐스트: All-In Podcast "Anthropic's Fable Backlash, Nationalizing AI, Inflation" (2026-06-13)

@@ -1,6 +1,6 @@
 
-## 2026-06-05 01:09 [AM] (테마: 헬스케어/바이오/의료기기)
-- 헤드라인: 고용이 시장을 심판한다 — ADA가 헬스케어를 깨우는 날, 나스닥은 AVGO 충격을 소화한다
-- 오늘의 픽: $NVO (카탈리스트: D+0 ADA 2026 Phase 3 REIMAGINE 1-3 전체 결과 오늘 발표, 공매도 14M→21.72M 급증, RSI ~28 극단 과매도), $ABBV (카탈리스트: D+4 2026-06-09 Goldman Sachs 47th Global Healthcare Conference fireside chat, ASCO 파이프라인 데이터 공개 후 +3.53%) [와치리스트 외 발굴]
-- 뉴스 토픽: [헬스케어/ADA] NVO CagriSema REIMAGINE Phase 3 오늘 발표 / Structure Therapeutics $GPCR aleniglipron 경구 GLP-1 16.3% 체중 감소 Phase 2 / MRNA+MRK 암 백신 5년 데이터(49% 재발 위험 감소) ASCO 2026 / [매크로] AVGO -15% AI 반도체 가이던스 미상향 / 5월 고용지표 8:30 ET 오늘 발표(컨센 6~8만명, ADP 12.2만명) / S&P 7,584 / 다우 51,562 ATH / BTC $63,194 -14% 주간 / SpaceX IPO 로드쇼 진행 중($135/주, $1.77T, 6/12 상장) / [기업] TSLA 오스틴 로보택시 42대 vs Waymo 577대 / NVDA RTX Spark 노트북 칩 / GOOGL $80B 주식 발행 완료 / OKLO $67 DOE 차익실현 소강
-- 팟캐스트: (24시간 이내 신규 에피소드 미확인 — 섹션 생략)
+## 2026-06-16 15:00 [AM] (테마: EV/자율주행/모빌리티)
+- 헤드라인: 케빈 워시의 첫 망치, 이란의 백기 — 코스피 8,700 돌파, 스페이스X의 $600억 베팅
+- 오늘의 픽: $JOBY (카탈리스트: FAA Stage 4 완료→Stage 5 심사 진행 중, White House AAM 부스트, ARK 119K주 매수, 8/10), $RIVN (카탈리스트: R2 고객 인도 6/9 개시+Autonomy+ $2,500 L2+ 런칭, Q1 EPS 54% 비트, 7/10) [와치리스트 외 발굴]
+- 뉴스 토픽: [EV/자율주행] VinFast+NVIDIA+Autobrains L4 로보택시 동남아 / Rivian R2 인도 개시+Autonomy+ 론칭 / JOBY FAA Stage4 완료+ARK 매수+eVTOL 소비자 79% 이용의사 / Tesla FSD v14.3.4 롤아웃+Cybercab 오스틴 20대 vs Waymo 577대 / [매크로] 미-이란 MOU 서명+WTI $80 하락+FOMC 개막(케빈 워시 첫 회의)+주택착공 -15.4% / KOSPI 8,726 +2.11% / 원달러 1,511.6원 / [기업] SpaceX SPCX Cursor/Anysphere $60B 인수 발표+SPCX +8.9% / COIN +6.16% BTC 반등 / OKLO $61 DOE 모멘텀 / NVDA DRIVE Hyperion 글로벌 로보택시 플랫폼 / [스마트머니] ARK JOBY 119K주 대규모 매수 / Aurora AUR Uber 블록딜 오버행 + 크레이그-할럼 Buy $18
+- 팟캐스트: All-In Podcast "Anthropic's Fable Backlash, Nationalizing AI, Inflation" (2026-06-13)
