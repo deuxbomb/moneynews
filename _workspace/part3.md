@@ -1,45 +1,67 @@
-📊 AVGO 충격파 — 나스닥 단기 조정이냐, AI 사이클 균열이냐
+📰 오늘의 뉴스 — 하늘과 땅, 평화와 AI가 한꺼번에 움직인 날
 
-어제 브로드컴(AVGO)이 -15% 폭락했다. AI 맞춤형 반도체(ASIC) 매출이 늘고 있음에도, 시장이 원한 "AI 반도체 전망 상향"이 없었기 때문이다. AVGO가 기침하자 엔비디아·마이크론·AMD 모두 동반 하락했다. 그러나 이것이 AI 사이클의 균열인지, 단순 차익실현인지는 오늘 고용지표와 다음 주 NVDA 파트너 데이터로 판가름 난다. 현재 헤지펀드 반도체 비중은 10%로 역대 최고치다 — 선반영이 많다는 뜻이고, 실망 시 낙폭도 크다는 뜻이다. 반면 기관 로테이션 자금이 헬스케어·방산으로 유입되는 그림은 뚜렷하다.
+━━━━━━━━━━━━━━━━━━━━━━━
+⚡ 증시 포인트: 이란이 시장에 석유를 쏟아붓다
+━━━━━━━━━━━━━━━━━━━━━━━
 
----
+미국과 이란이 마침내 양해각서에 서명했다. 파키스탄의 중재로 이뤄진 이번 합의는 호르무즈 해협 재개방과 추가 협상 프레임워크를 담고 있다. 시장의 즉각적 반응은 유가였다 — WTI가 하루 만에 5% 넘게 폭락해 $80선으로 내려앉았다. 이란에서 페르시아만을 통해 나오는 원유가 다시 흐를 수 있다는 기대감이 선물 시장을 강타했다.
 
-🏥 ADA 2026 개막 — GLP-1의 다음 챕터가 오늘 뉴올리언스에서 쓰인다
+코스피의 반응이 인상적이다. 8,726.60으로 +2.11% 급등했다 — 한국 수출기업들은 에너지 수입비용이 줄어드는 구조적 수혜국이기 때문이다. 원달러도 1,511원으로 안정적이다. 반면 미국 시장은 FOMC 회의 개막이라는 변수에 눌려 조심스러운 보합세(S&P +0.13%)를 유지했다. 주택착공은 5월 -15.4%로 충격적 감소를 기록했다 — 2020년 5월 이후 최저치다. 그러나 이란 평화→에너지비용 하락→소비 여력 확대의 논리가 시장을 지지하고 있다. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026)
 
-1️⃣ 경구용 GLP-1, 주사기를 버릴 준비가 됐다
+━━━━━━━━━━━━━━━━━━━━━━━
+🚗 오늘의 테마: EV/자율주행/모빌리티 — 로보택시 전쟁의 3개 전선
+━━━━━━━━━━━━━━━━━━━━━━━
 
-세계 당뇨 학회(ADA 2026, 6/5~8)의 첫날 가장 큰 화제는 알레니글리프론(aleniglipron)이다. Structure Therapeutics($GPCR)가 발표한 Phase 2 ACCESS II 결과는 역대 경구형 GLP-1 중 최고 수치다. 44주간 180mg 용량에서 체중 감소 **16.3%(약 18kg)**를 달성했다. 625명 이상의 참가자에서 약물 유발 간 손상(DILI), 지속적 간 효소 상승, QTc 연장이 없었다. 배경은 이렇다 — 현재 GLP-1 시장의 최대 장벽은 "주사"다. 전체 처방 포기 이유의 35%가 바늘 공포증이다. 경구형이 같은 효과를 낸다면, 시장은 지금의 3~4배가 된다. 알레니글리프론의 Phase 3 IND는 Q3 2026 제출 예정이다. NVO의 ozempic 경구제 리벨서스(세마글루타이드 경구제)는 5~7%대인데, 16%는 다른 차원이다. 의미는 단순하다: GLP-1 경쟁이 이제 본격적으로 '차세대 경구제' 라운드로 이동했다. [BioSpace](https://www.biospace.com/press-releases/structure-therapeutics-reports-positive-topline-data-from-phase-2-access-ii-trial-with-once-daily-oral-small-molecule-glp-1-receptor-agonist-aleniglipron)
+1. 🌏 베트남이 동남아 로보택시 패권에 뛰어들었다 — VinFast × NVIDIA × Autobrains L4 선언
 
-2️⃣ 노보 노디스크($NVO), CagriSema 재활 프로젝트 시작
+이야기: GTC 타이베이에서 발표된 이번 파트너십은 베트남의 VinFast가 NVIDIA DRIVE Hyperion 10 컴퓨팅 플랫폼과 Autobrains의 에이전틱 AI 소프트웨어를 결합해 동남아시아 특화 Level 4 로보택시 시스템을 개발하겠다는 내용이다.
 
-노보 노디스크가 오늘 ADA 학회에서 Phase 3 REIMAGINE 1-3 전체 결과를 발표한다. 지난 2월 헤드라인은 이미 긍정적이었지만(CagriSema > 세마글루타이드 단독), 오늘 추가되는 순응도 조정 분석이 핵심이다. "완전 순응 시 40.4%가 체중 25% 이상 감소, 23.1%는 30% 이상 감소"라는 수치는 기존 어떤 약과도 다른 영역이다. 배경: CagriSema는 세마글루타이드(GLP-1)와 카그릴린타이드(아밀린 유사체)의 복합제다. 아밀린은 위 배출 속도를 늦추고 포만감을 연장하는 메커니즘으로, GLP-1과 시너지가 있다. Phase 3가 이미 완료된 상태여서 FDA 허가 타임라인은 LLY의 트리플 작용제(retatrutide)보다 6~12개월 앞서 있다. 전망: 오늘 발표가 시장 기대를 충족하면 NVO 주가 반등 + 공매도 세력 커버링 가능성. 반면 미스면 $35 재테스트. [PR Newswire](https://www.prnewswire.com/news-releases/novo-nordisk-advances-cardiometabolic-pipeline-with-new-data-featuring-cagrisema-and-zenagamtide-at-the-american-diabetes-associations-2026-scientific-sessions-302783110.html)
+배경: 동남아시아는 글로벌 자율주행 업계에서 "마지막 어려운 지역"으로 불려왔다 — 복잡한 교통, 비공식 차로, 오토바이 혼류. 이 환경에서 L4를 실현한다는 건 기술적으로 가장 까다로운 도전이다. NVIDIA는 DRIVE Hyperion 플랫폼을 "글로벌 로보택시 표준"으로 밀어붙이는 전략을 추구 중이다. VinFast로서는 자국 시장 자율주행 데이터를 먼저 확보할 수 있는 기회이기도 하다.
 
-3️⃣ 암 백신이 5년 후에도 살아있다 — MRNA·MRK의 역대급 데이터
-
-지난 1일 ASCO 2026에서 Moderna($MRNA)와 Merck($MRK)가 발표한 데이터는 조용히 역사를 바꿨다. 흑색종 Stage III/IV 환자에서 맞춤형 mRNA 암 백신(intismeran) + Keytruda 병용은 5년 추적에서 재발·사망 위험을 **49% 감소**, 원격 전이·사망 위험을 **59% 감소**시켰다. 60.3개월 중앙값 추적 — 지금까지 나온 개인화 암 백신 중 가장 긴 데이터다. 주가는 흥미롭게도 발표 당일 하락했다가 6/3에 +6.8%로 반등했다. 배경: 시장이 "ASCO 전 매수-발표 후 매도" 패턴을 그대로 따랐다. 전망: Goldman Sachs Healthcare Conference(6/9)에서 MRNA CEO가 새 파이프라인 업데이트를 발표할 예정이다. 개인화 암 백신 시장은 2030년 $120B 추정이며, MRNA는 여기서 선두주자 지위를 굳히고 있다. [BioSpace](https://www.biospace.com/drug-development/asco-modernas-mrna-based-melanoma-vaccine-shows-encouraging-5-year-survival) · [Moderna+Merck](https://finance.yahoo.com/sectors/healthcare/articles/moderna-merck-present-5-data-120000678.html)
-
----
-
-🏢 기업 뉴스
-
-$TSLA 오스틴의 숫자가 공개됐다 — 42 대 577
-
-테슬라가 텍사스 오스틴에서 운행 중인 무인 로보택시 대수가 공식적으로 42대로 집계됐다. Waymo가 오스틴에서 운행 중인 577대와 비교하면 13:1의 격차다. 테슬라는 "FSD 구독자 130만 명, 10개국 서비스"라는 숫자를 내세우지만, 로보택시 규모에서는 아직 멀었다. 배경: 테슬라의 장기 논리는 소프트웨어(FSD)를 글로벌 플리트에 배포하는 것이고, Waymo는 특정 도시에 완전 자율 차량을 투입하는 다른 전략이다. 전망: 올 하반기 Cybercab 양산이 시작되면 테슬라 로보택시 대수가 급증할 전망. SpaceX 합병 논쟁(Polymarket 52%)은 계속된다.
-
-$NVDA RTX Spark — AI PC 전쟁의 새 무기
-
-엔비디아가 노트북용 RTX Spark 슈퍼칩을 발표했다. ASUS·Dell·HP·Microsoft 제품에 올 가을 탑재 예정이다. 클라우드 AI 작업을 로컬 디바이스로 옮기는 "Physical AI" 전략의 연장선이다. AVGO 충격파로 NVDA 주가는 단기 하락 중이지만, Q2 $91B 가이던스와 BlackWell 공급은 변함없다. 배경: COMPUTEX에서 발표한 Physical AI 로드맵 (Cosmos 3, GR00T N1.7)이 지금 제품화 단계에 진입 중. 전망: AVGO -15% 쇼크가 섹터 전체에 단기 역풍이지만, 근본적 AI 수요 사이클은 훼손되지 않았다.
-
-$GOOGL $80B 주식 발행 완료 — AI에 돈을 쏟아붓는다
-
-알파벳이 $84.75B 규모 주식 발행을 완료했다. Berkshire Hathaway가 $10B를 취득했고, 나머지는 기관투자자에 배정됐다. 조달 자금 전액은 AI 인프라(데이터센터, 컴퓨팅) 투자에 사용된다. 배경: Google I/O에서 발표한 Gemini 3.5·Android XR·AI Mode 10억 명 돌파 등이 투자 근거. Q1 FY26 카펙스 $35.7B, FY26 가이던스 $180~190B — 경쟁사들과의 AI 군비경쟁이 본격화됐다.
-
-$OKLO DOE 차익실현 이후 조정
-
-OKLO가 $73에서 $67로 8.5% 하락했다. DOE 잉여 플루토늄 연료 전환 협상 선정(5/27) 이후 차익실현 매물이 지속 중이다. AI 데이터센터 핵 캠퍼스 계약(Meta 1.2GW 등)과 NVIDIA 파트너십은 여전히 살아있다. 배경: $80 BofA 목표가 대비 아직 16% 업사이드 존재. 전망: $65~70 지지선 여부를 확인 중.
+의미: 로보택시 경쟁이 북미·중국에서 동남아까지 확전됐다. NVIDIA($NVDA)는 특정 차량 제조사보다 플랫폼 공급자로서 로보택시 전체 생태계의 수혜를 받는다. [Globe Newswire](https://www.globenewswire.com/news-release/2026/06/01/3303989/0/en/NVIDIA-DRIVE-Hyperion-Becomes-the-Global-Platform-for-a-Robotaxi-Ready-World.html)
 
 ---
 
-💡 흥미로운 이야기
+2. 🚙 Rivian, 드디어 실물을 배달하다 — R2 인도 개시 + Autonomy+ $2,500에 L2+가 담겼다
 
-SpaceX IPO가 역대 최대 기록을 갈아치운다 — $135/주, $1.77T 가치평가로 나스닥 상장 D-7이다. 로드쇼 기간(6/4~8) 555.6M주 매각, $75B 조달이 목표다. Morningstar는 "공정 가치의 2배"라며 경고했지만, Starlink(10.3M 구독자, 분기 영업이익 $1.19B)가 버팀목 역할을 한다. 한국 투자자들은 미래에셋($5B 배정 신청)·Tiger ETF(25%) 경로로 접근 가능하다. [TechTimes](https://www.techtimes.com/articles/317676/20260603/spacex-ipo-roadshow-begins-morningstar-calls-175t-valuation-nearly-twice-fair-value.htm) · [CNBC](https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html)
+이야기: 6월 9일, Rivian이 예약 홀더들에게 최초로 R2 SUV를 공개 인도했다. 동시에 $2,500짜리 Autonomy+ 패키지를 론칭했는데 — 미국·캐나다 3.5백만 마일 도로에서 핸즈프리 주행이 가능한 L2+ 시스템이다. 올 Q3엔 Universal Hands-Free 2.0(신호등·정지 표지판 자동 처리)까지 업데이트된다.
+
+배경: Rivian의 R2는 연간 20,000~25,000대 인도를 목표로 하고 있다. Uber는 이미 $1.25B를 투자하며 50,000대 로보택시 협약을 맺었고, 2028년 SF·마이애미 상업 서비스를 예정하고 있다. 자율주행 모듈(ACM3)은 2026년 말 R2 탑재 예정이다.
+
+전망: Q1 EPS가 컨센서스를 54% 상회한 데 이어 첫 분기 실배달 데이터(Q2)가 8월에 나온다. 10,000대+ 달성이 확인되면 애널리스트들의 "$18 평균 목표가" 재확인이 시작된다. [Business Wire](https://www.businesswire.com/news/home/20260609965893/en/Rivian-Begins-R2-Public-Customer-Deliveries-Opens-Orders-for-Reservation-Holders)
+
+---
+
+3. ✈️ JOBY, FAA Stage 4 완료 — 역대 최초 상업용 에어택시 인증이 코앞이다
+
+이야기: 3월에 FAA Stage 4(내공중성 적합성) 심사를 완료한 JOBY Aviation이 어제 +5.85%로 급등했다. ARK가 119,000주를 매수했고, Jefferies 소비자 조사에서 응답자의 79%가 "에어택시를 이용할 의향이 있다"는 결과가 나왔다. White House AAM(첨단 항공 모빌리티) 프로그램 부스트까지 겹쳤다.
+
+배경: JOBY는 이미 FAA의 5개 eVTOL 통합 파일럿 프로그램 전부에 선정됐다 — 뉴욕/뉴저지, 텍사스, 플로리다, 노스캐롤라이나, 유타. Delta Air Lines와의 파트너십으로 H2 2026 뉴욕·LA 서비스를 목표하고 있다. 현금 $2.47B로 런웨이는 안전하다.
+
+전망: FAA Stage 5(생산 표준화) 완료가 역사적 이벤트가 된다. 통과 시 세계 최초 상업용 eVTOL 인증서가 발급된다. 현재 주가 $9.80은 이 이벤트가 실현될 경우 $15+ 목표 전망이 다수다. [Aircraft Insider](https://www.aircraftinsider.com/joby-aviation-clears-faa-stage-4-certification-commercial-evtol-passenger-flights-could-launch-by-end-of-2026/)
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🏢 기업 뉴스 — 와치리스트 심층 분석
+━━━━━━━━━━━━━━━━━━━━━━━
+
+$TSLA | FSD v14.3.4 롤아웃, 그리고 Cybercab의 초라한 현실
+FSD v14.3.4가 얼리액세스 테스터들에게 배포되기 시작했다. 첫 인상은 "매우 긍정적"이라는 평. 유럽(네덜란드 RDW 승인)에 이어 벨기에·그리스도 FSD 합법화가 임박하면서 유럽 전역 FSD 도미노가 진행 중이다.
+
+그러나 오스틴 로보택시의 현실은 냉정하다. 6월 3일 텍사스 전역으로 운영 구역을 확대했지만 실제 운행 차량은 20대 수준 — Waymo가 텍사스에서만 577대를 운행하는 것과 비교된다. Elon Musk는 FSD v15(파라미터 10B+) 완성 이후 본격 확장하겠다고 못 박았다. 스케일 업의 타임라인은 "2026 말~2027 초"다. 주가 $411, 시장은 FSD v15를 기다린다. [TechTimes](https://www.techtimes.com/articles/318160/20260610/tesla-robotaxi-trails-waymo-42-577-texasaustin-map-masks-20-car-fleet-until-fsd-v15-rewrite.htm)
+
+$COIN | CLARITY Act + BTC 반등으로 +6.16%
+BTC가 $66,000대로 회복하자 $COIN이 +6.16% 상승했다. CLARITY Act(미국 디지털자산 규제 프레임워크)의 상원 전체 표결 일정이 좁혀지고 있다는 소식도 호재다. 주가 $170 레벨은 CLARITY Act 최종 통과 시 $200+ 재도전의 발판이다.
+
+$NVDA | DRIVE Hyperion — 글로벌 로보택시 플랫폼 선언의 실체
+NVIDIA가 DRIVE Hyperion 10을 "글로벌 로보택시 표준 플랫폼"으로 공식 포지셔닝했다. VinFast(동남아), Waymo, Aurora, Mobileye와 함께 사실상 모든 L4 플레이어가 NVIDIA의 컴퓨팅 위에서 움직이고 있다. $NVDA는 차량을 팔지 않고 자율주행 사이클 전체의 인프라 과금자(infrastructure taxer)가 되고 있다.
+
+$OKLO | DOE 잉여 핵연료 + Meta 1.2GW 파트너십 시너지
+Meta의 1.2GW 핵캠퍼스 계약과 DOE 잉여 플루토늄 프로그램 선정 모멘텀이 지속되며 $61 레벨을 유지 중이다. BofA Buy $80 목표가 유효.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🔮 흥미로운 이야기 — 상장 4일 만에 $600억을 베팅한 기업
+━━━━━━━━━━━━━━━━━━━━━━━
+
+1. SpaceX가 AI 코딩 툴 Cursor의 모회사 Anysphere를 $600억 전액 주식 교환 방식으로 인수했다. 공모 가격 $135, 기업가치 $2T로 상장한 지 단 4일 만의 결단이다. Cursor의 ARR은 이미 $40억 — xAI(Grok)의 코딩 AI 영역 확장이다. SpaceX 자회사 X67이 합병 법인으로 Q3 클로징 예정. $SPCX는 이 발표로 장중 +8.9% 급등했다. [ProActive Investors](https://www.proactiveinvestors.com/companies/news/1093977/spacex-to-acquire-ai-coding-platform-cursor-in-60b-stock-transaction-1093977.html)
+
+2. 미국 5월 주택착공이 예상을 크게 밑도는 -15.4%를 기록했다 — 2020년 5월 이후 최저치. 고금리의 상흔이 주택 공급에도 남아있다. FOMC가 이 숫자를 어떻게 해석할지가 내일 발표의 관전 포인트다.
