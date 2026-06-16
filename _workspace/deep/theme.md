@@ -1,70 +1,84 @@
-# 딥다이브 테마 선정 — 2026-06-15 (월요일)
+# 딥다이브 테마 선정 — 2026-06-16 (화요일)
 
 ## 오늘 요일 테마 클러스터
-**월요일 → AI 인프라/반도체**
+**화요일 → EV/자율주행/모빌리티**
 
 ## 분석 유형 (5유형 요일 회전)
-**📡 테크 트렌드 — 여러 기업이 같은 방향 → 산업 흐름 조망**
+**📊 종목 해부 — 한 종목 완전 분해 (관심종목 외 발굴)**
 
 ---
 
 ## 다양성 체크 — 지난 7일 [DEEP] 항목
 | 날짜 | 테마 | 유형 |
 |------|------|------|
-| 2026-06-13 | 소비재/미디어/엔터 | 📊 종목 해부 |
+| 2026-06-15 (월) | AI 인프라/반도체 | 📡 테크 트렌드 (HBM4 16-Hi 전쟁) |
+| 2026-06-14 (일) | 산업재/방산/우주 | 🔮 미래전망 (SpaceX IPO 이후 방산·우주 재편) |
+| 2026-06-13 (토) | 소비재/미디어/엔터 | 📊 종목 해부 (FOX Corporation) |
 
-→ 지난 7일 중 AI 인프라/반도체 DEEP 0건 ✅  
-→ 가장 최근 AI/반도체 DEEP(6/1, Physical AI·로봇)과 완전히 다른 각도(메모리·공급망) ✅  
-→ HBM을 단독 주제로 다룬 DEEP 전례 없음 ✅
+→ **EV/자율주행/모빌리티 DEEP는 5/26 이후 없음 ✅**
+→ 지난 7일 중 Rivian($RIVN) 딥다이브 전례 없음 ✅ (5/19 AM 픽 1~2줄 언급은 딥다이브와 무관)
+→ 종목 해부 유형은 6/13(FOX)에 사용됐지만 요일별 고정 규칙(화요일=종목해부)에 따라 오늘도 적용
 
 ---
 
 ## 후보 테마 3개
 
-### 후보 1: HBM4 16-Hi 전쟁 — SK하이닉스·삼성·마이크론, AI 메모리 왕좌 3파전 ✅ **선정**
+### 후보 1: RIVN (Rivian Automotive) — ✅ **선정**
+**"$78에서 $16로, 그리고 자율주행으로 — Rivian, EV 제조사의 세 번째 도박"**
 
-NVIDIA의 Rubin Ultra 가속기(Q4 2026)는 HBM4 16-Hi(16층 스택) 탑재를 요구하고 있다. SK하이닉스는 CES 2026에서 48GB 16-Hi 패키지를 세계 최초 공개하며 선두를 달리고 있으나, 삼성은 자체 4nm 파운드리 + 구리-구리 하이브리드 본딩으로 도전장을, 마이크론은 2026년 HBM4 대량생산 진입을 선언했다. 16층 스택은 "HBM 역사상 가장 어려운 기술 전환"으로 불리며, 수율·발열·비용 3중 허들이 공급 제약의 핵심 변수다.
+오늘(6/16) CEO RJ Scaringe가 공개 인터뷰에서 자율주행 3단계 로드맵을 발표했고, RIVN 주가가 프리마켓에서 상승했다. 구체적 내용: ① 2026년 하반기 Gen 2 차량에 Supervised P2P 자율주행 출시(Tesla FSD와 직접 비교), ② 2027년 Eyes-Off 비감독 모드, ③ 2028년 Uber와 상업 로보택시(SF+마이애미 시작, 2031년 25개 도시 확장). Uber $1.25B 딜(3/19 발표, 최초 $300M+성과조건)로 50,000대 R2 로보택시 배포 계획. VW $5B 전략투자도 배경.
 
-- **핵심 URL**: https://www.tweaktown.com/news/109495/sk-hynix-samsung-and-micron-fighting-for-nvidia-supply-contracts-for-new-16-hi-hbm4-orders/index.html
-- https://www.trendforce.com/news/2026/01/09/news-nvidia-demand-fuels-hbm4-race-12-layer-ramps-16-layer-push-by-sk-hynix-samsung-and-micron/
-- https://www.koreaherald.com/article/10645471
+- 핵심 URL: https://www.benzinga.com/trading-ideas/movers/26/06/53193201/rivian-shares-advance-as-ceo-outlines-aggressive-autonomous-driving-roadmap
+- https://thenextweb.com/news/rivian-point-to-point-self-driving-tesla-fsd-scaringe-uber-robotaxi
+- https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/
 
-### 후보 2: AVGO 쇼크 이후 AI 반도체 리바운드 — $1.3조 증발, 그래도 사야 하는 이유 ❌ 탈락
+### 후보 2: GRAB (Grab Holdings) — ❌ 탈락
+**"동남아 최초 로보택시의 역설 — Grab과 WeRide가 Punggol에서 그리는 꿈"**
 
-Broadcom Q2 FY2026(6/3) 어닝비트에도 AI 가이던스 미달($16B vs $17.2B 컨센서스)로 6/4~5 이틀간 SOX -10%, AVGO -14%, MRVL -17%, AMD -10%의 대규모 셀-오프 발생. 이후 반등.
+2026년 4월 Grab-WeRide가 싱가포르 Punggol에서 Southeast Asia 최초 무인 로보택시 서비스 "Ai.R"를 런칭. 오늘(6/16) ANI News에서 이를 조명하는 기사가 게재됐다.
 
-- **탈락 이유**: 6/4~6/5 AM/PM 뉴스레터에서 이미 깊게 다뤘을 가능성이 높음. 이벤트 발생 10일 이상 경과 → 오늘 딥다이브 타이밍으로는 신선도 부족. 단, HBM4 테마는 AVGO 쇼크와 연결 고리를 '반대 시각' 섹션에서 활용 가능(AI 반도체 가이던스 둔화 우려가 HBM 공급자에도 영향).
+- 탈락 이유: 주요 카탈리스트(서비스 런칭)가 4월 발생 — 오늘 기사는 회고적 분석 콘텐츠로 24시간 이내 신규 이벤트 없음. 동남아 중심 종목이라 한국 독자의 직접 투자 접근성이 낮음. RIVN이 오늘 실시간 CEO 발언 + 주가 움직임으로 타이밍 우위.
 
-### 후보 3: SIA 보고서가 그린 $2.8조 AI 팩토리 청사진 ❌ 탈락
+### 후보 3: UBER (Uber Technologies) — ❌ 탈락
+**"운전 안 하는 세상에서 더 강해지는 회사 — Uber, 자율주행 오케스트레이터 해부"**
 
-SIA(반도체산업협회)가 2026년 5월 발표한 보고서에서 AI 데이터센터 서버 랙 가치의 95%를 반도체가 차지하며, 2028년까지 반도체에만 최대 $2.8T 투자가 집행될 것으로 전망했다.
+21개 AV 파트너십(Waymo, Aurora, Rivian, Lucid 등), BofA 매수 재확인 $119 PT. 자율주행이 확산될수록 플랫폼에 수요가 집중되는 역설적 포지션.
 
-- **탈락 이유**: 보고서가 5월 발행이라 신선도 7점 미달 우려. 오늘자 신규 카탈리스트 없음. 테크트렌드 각도는 유효하지만, 6/1 Physical AI DEEP에서 이미 대형 NVIDIA 인프라 전망을 다뤘고 내용이 오버랩될 수 있음.
+- 탈락 이유: 오늘 날짜 특정 카탈리스트 없음. 6/4 PM 뉴스레터에서 Uber-Rivian 딜이 이미 언급됨. RIVN CEO 발언이 오늘 날짜 카탈리스트로 더 명확. Uber의 AV 오케스트레이터 역할은 RIVN 딥다이브 '시사점' 섹션에서 커버 가능.
 
 ---
 
-## 선정 테마: 후보 1 — HBM4 16-Hi 전쟁
+## 선정 테마: 후보 1 — RIVN (Rivian Automotive)
 
-**제목 방향 제안**: "16층의 전쟁 — SK하이닉스·삼성·마이크론, AI 메모리 왕좌를 놓고 쏜다"
+**제목 방향 제안**: "공장은 돌아가고, 이제 운전까지 — Rivian이 Tesla와 Waymo 사이에서 그리는 자율주행 청사진"
+
+또는: "$78 → $16 → 자율주행 — Rivian의 세 번째 챕터, 지금 들어야 하는가"
 
 **선정 이유**:
-1. **요일 테마 정렬**: 월요일 AI 인프라/반도체 클러스터, 📡 테크트렌드 유형 완벽 정렬 (3개 기업이 같은 방향 → 산업 흐름 조망)
-2. **지난 14일 차별화**: HBM을 단독 메인 테마로 다룬 DEEP 전례 없음. 6/1은 Physical AI/로봇, 5/25는 인프라 공급자 지형, 5/11은 ASIC vs GPU — 모두 다른 각도
-3. **1차 자료 확보 가능성**: SK하이닉스 IR, 삼성전자 IR, Micron SEC 10-K, TrendForce HBM 리포트, Korea Herald, Epoch AI HBM 공급망 분석 — 모두 공개 접근 가능
-4. **시장 관심도**: NVIDIA Rubin Ultra(Q4 2026) 출하를 앞두고 HBM 공급 계약 경쟁이 실시간 진행 중. Broadcom 쇼크 이후 '다음 AI 반도체 슈퍼사이클의 진짜 병목'에 시장 이목 집중
-5. **한국 투자자 직결**: SK하이닉스·삼성전자가 국내 핵심 종목이며, 이 전쟁의 승패가 두 회사 주가에 직접 연결됨
+1. 요일 테마 정렬 — 화요일 EV/자율주행/모빌리티 클러스터 + 종목 해부 완벽 정렬
+2. 오늘(6/16) 날짜 카탈리스트 — CEO Scaringe 자율주행 로드맵 발표 → 주가 프리마켓 상승
+3. 지난 7일 차별화 — EV/자율주행 DEEP 공백 3주+, RIVN 딥다이브 전례 없음
+4. 1차 자료 확보 가능성 — SEC 10-K(2025), Q1 2026 IR 보도자료, Uber-Rivian MOU 공시, VW투자 IR 발표 모두 공개 접근 가능
+5. 시장 관심도 — Tesla FSD vs Rivian Autonomy 직접 비교 발언 + Uber 50K 로보택시 딜 실행 중
+6. 한국 독자 직결 — $16 저가권 서학개미 관심 EV 종목, 자율주행 밸류에이션 재평가 관심
 
 **다룰 좋은 관점 (14:00 작성용 힌트)**:
 
-- **시계열**: HBM의 10년 진화 — HBM1(2013, 2Hi 8GB) → HBM2(2016, 8Hi) → HBM2E(2020) → HBM3(2022, 8Hi) → HBM3E(2024, 12Hi) → HBM4 12-Hi(2025) → HBM4 16-Hi(2026). 각 세대별 대역폭·용량·수율 난이도 추이
+- 시계열: Rivian 15년 궤적 — 2009년 창업 → 2021년 IPO($78, 시총 $155B) → 2022~2023 EV 버블 붕괴(-90%) → 2024 VW $5B 투자 구원 → 2025 연간 생산 정상화 → 2026 자율주행 선언. 각 변곡점마다 밸류에이션 프레임이 어떻게 바뀌었는가
 
-- **국제 비교**: 한국(SK하이닉스 50%+ 점유·삼성 35%) vs 미국(마이크론 15%) vs TSMC(파운드리 파트너). 중국 CXMT는 HBM3 복제 단계로 16-Hi는 5~7년 뒤. 지정학(미국 수출규제)이 마이크론에 부여하는 '미국산 프리미엄'
+- 국제 비교: Tesla FSD(강화학습 기반) vs Rivian Autonomy(지도 기반 P2P) vs Waymo(지오펜스 L4) vs Mobileye SuperVision(ADAS+) vs NIO/XPEV(중국 L3+) 5자 기술 아키텍처·타임라인 비교. 현대차 자율주행 전략과의 국내 비교도.
 
-- **반대 시각**: ① NVIDIA가 2026년 2월 16-Hi 사양 완화 가능성 검토(TrendForce 보도) — 수요 자체가 줄어들 수 있음 ② 16층 수율 리스크로 전환이 지연되면 HBM3E가 더 오래 공급됨 ③ AVGO 가이던스 미달 사례처럼 AI 인프라 투자 속도가 예상보다 느릴 수 있음
+- 반대 시각: ① 2028년 로보택시까지 현금 얼마나 소진? (분기 burn vs 보유 현금) ② Tesla가 4년 앞선 Supervised 자율주행 영역에서 Rivian이 추격 가능한가 ③ Uber 딜의 $300M 선납 + 성과조건부 잔액 — 자율주행 실패 시 딜 리스크 ④ VW 파트너십은 양날의 검(R&D 분담 vs 독립 플랫폼 가치 희석)
 
-- **시사점**: SK하이닉스($000660.KS, ADR: $HXSCL) HBM 프리미엄이 이미 주가에 얼마나 반영됐는가? 삼성전자 파운드리+메모리 수직통합 전략의 재역전 조건. 마이크론($MU) 미국 CHIPS Act 보조금과 지정학 헤징 플레이. 한국 ETF($EWY) 관점에서 HBM 두 기업의 가중치 의미
+- 투자 시사점: 현재 $16 = EV 제조사 밸류에이션(P/S ~1x). 자율주행 성공 시 플랫폼 리레이팅(P/S 5~10x) 가능성. Uber 50K 계약 × $45K 예상 차량가 = $2.25B 잠재 매출. 진입/이탈 신호: ① 2026 H2 Supervised 출시 및 실제 사용자 반응 ② Q3 실적 현금 소진 속도 ③ Uber 추가 $300M 마일스톤 트리거 여부
 
 ---
 
-## 추가 메모: 요일 테마와 시장 분위기
-오늘(6/15 월요일)은 AI 인프라/반도체 요일 테마와 시장 분위기가 잘 정렬되어 있다. 6/4~5 반도체 대규모 셀-오프 이후 리바운드 국면에서, 시장이 "AI 수요 본질"을 재점검하는 시점이며, HBM4 16-Hi 전쟁은 그 본질적 병목을 가장 잘 보여주는 테마다.
+## 앵커 소스 사전 메모
+(14:00 리서처가 우선 활용)
+
+- SEC EDGAR RIVN 10-K FY2025: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RIVN&type=10-K
+- Rivian IR 공식: https://rivian.com/investors
+- Uber-Rivian 파트너십 공식 (TechCrunch 3/19): https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/
+- CEO Scaringe 자율주행 로드맵 발언 (Benzinga 6/16): https://www.benzinga.com/trading-ideas/movers/26/06/53193201/rivian-shares-advance-as-ceo-outlines-aggressive-autonomous-driving-roadmap
+- CEO 직접 인터뷰 — Tesla FSD 비교 (NextWeb): https://thenextweb.com/news/rivian-point-to-point-self-driving-tesla-fsd-scaringe-uber-robotaxi
