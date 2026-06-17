@@ -1,15 +1,3 @@
-- 다룬 종목/기업: $RTX (Raytheon), $LMT (Lockheed Martin), $NOC (Northrop Grumman), $RKLB (Rocket Lab), SpaceX, Anduril, 한국방산
-- 핵심 주장/결론: SBI 기술 실현 가능성이 검증되지 않아 Base(지상 중심 재편)가 가장 현실적. RTX·LMT는 Base에서도 확실한 수혜. NOC는 과매도(RSI 32.65) + 복수수주 이중 플레이. 2028 SBI 시연이 핵심 분기점.
-- 1차 자료 출처: CBO 보고서(Federal News Network/Defense One 보도) × 1, 백악관 EO14186 × 1, RTX 2025 실적 보도자료 × 1, LMT GovCon Wire × 1, Space Force OTA 계약 × 1, Arms Control Center GMD FAQ × 1, Gen. Guetlein 의회 발언(Breaking Defense) × 1 (총 7건)
-- 판정: Minor (4개 개선점 반영 — 스타링크 6,000기 환각 제거, RTX 백로그 맥락 추가, Base 시나리오 Guetlein 연결 강화, 시사점 첫 문장 교체)
-
-## 2026-05-19 14:00 [DEEP] (테마 클러스터: EV/자율주행/모빌리티, 유형: 📊 종목 해부)
-- 제목: $3.8조가 날아갔는데 주가는 올랐다 — Mobileye, ADAS 왕좌에서 27% 성장의 다음 스텝
-- 테마 유형: 종목해부 (한 종목 완전 분해 — 관심종목 외 발굴)
-- 핵심 주제: Q1 2026에서 +27% 성장, 조정 EPS 컨센서스 33% 상회, $3.788B 비현금 굿윌 손상으로 GAAP 손실 $3.8B임에도 주가 +15.17%. 2022년 IPO 후 재고 위기로 80%+ 폭락한 기업의 부활 사이클 진입 여부를 5섹션으로 해부. Intel 77~88% 지분 오버행, Q2 -6% 역성장 가이던스, EyeQ6H Surround ADAS 19M 단위 파이프라인($24.5B), 미국·중국·한국 경쟁 국제 비교 수록.
-- 다룬 종목/기업: $MBLY (Mobileye), $INTC (Intel), $QCOM (Qualcomm), $NVDA (비교), $TSLA (비교), 현대모비스, 삼성전자
-- 핵심 주장/결론: Q1 27% 성장과 $250M 자사주매입은 부활 신호이나, Q2 -6% 가이던스와 Intel 오버행이라는 두 지뢰가 공존. Q2 실적이 가이던스보다 낫다면 진입 신호, Intel 블록딜이 나오면 즉시 관망 전환. 분할 매수(30%-30%-40%) 권장.
-- 1차 자료 출처: SEC 8-K Q1 2026 × 1, Mobileye IR Q1 보도자료 × 1, BusinessWire × 1, SEC 8-K FY2025 × 1, Mobileye IR Surround ADAS × 1, Mobileye IR SuperVision 파이프라인 × 1, SEC DEF 14A Proxy 2026 × 1 (총 7건)
 - 판정: Minor (4개 개선점 반영 — "히브리대" 환각 제거, $75M 맥락 문장 추가, Bull/Bear 행동 기준 명확화, 회사 소개 위치 조정)
 
 ## 2026-05-19 22:00 [PM] (테마: EV/자율주행/모빌리티)
@@ -298,3 +286,15 @@
 - 핵심 주장/결론: FOX는 P/E 11배의 "사양 산업 할인"을 받고 있지만, 월드컵 + 중간선거 이중 촉매와 Tubi 임베디드 가치(독립 평가 $30~50억)는 $73.88 평균 PT 대비 27% 상승 여력을 지지. 3단 분할 매수(USMNT 16강/Q4 어닝/선거 피크) 권장.
 - 1차 자료 출처: SEC EDGAR Fox 10-K FY2025 × 1, Fox Corp Q3 FY2026 공식 보도자료 × 1, FOX Sports 월드컵 시청률 보도자료 × 1, Fox Corp Q1 FY2026 실적 보도자료 × 1, Fox $50억 자사주매입 발표 × 1, Fox Q3 2026 Earnings Call Transcript (Motley Fool) × 1 (총 6건)
 - 판정: Minor (3개 개선점 반영 — Tubi 인수가 오기 수정, 도입부 마지막 문장 강화, 시사점 클로징 여운 강화)
+
+## 2026-06-16 15:00 [AM] (테마: EV/자율주행/모빌리티)
+- 헤드라인: 케빈 워시의 첫 망치, 이란의 백기 — 코스피 8,700 돌파, 스페이스X의 $600억 베팅
+- 오늘의 픽: $JOBY (카탈리스트: FAA Stage 4 완료→Stage 5 심사 진행 중, White House AAM 부스트, ARK 119K주 매수, 8/10), $RIVN (카탈리스트: R2 고객 인도 6/9 개시+Autonomy+ $2,500 L2+ 런칭, Q1 EPS 54% 비트, 7/10) [와치리스트 외 발굴]
+- 뉴스 토픽: [EV/자율주행] VinFast+NVIDIA+Autobrains L4 로보택시 동남아 / Rivian R2 인도 개시+Autonomy+ 론칭 / JOBY FAA Stage4 완료+ARK 매수+eVTOL 소비자 79% 이용의사 / Tesla FSD v14.3.4 롤아웃+Cybercab 오스틴 20대 vs Waymo 577대 / [매크로] 미-이란 MOU 서명+WTI $80 하락+FOMC 개막(케빈 워시 첫 회의)+주택착공 -15.4% / KOSPI 8,726 +2.11% / 원달러 1,511.6원 / [기업] SpaceX SPCX Cursor/Anysphere $60B 인수 발표+SPCX +8.9% / COIN +6.16% BTC 반등 / OKLO $61 DOE 모멘텀 / NVDA DRIVE Hyperion 글로벌 로보택시 플랫폼 / [스마트머니] ARK JOBY 119K주 대규모 매수 / Aurora AUR Uber 블록딜 오버행 + 크레이그-할럼 Buy $18
+- 팟캐스트: All-In Podcast "Anthropic's Fable Backlash, Nationalizing AI, Inflation" (2026-06-13)
+
+## 2026-06-16 15:00 [AM] (테마: EV/자율주행/모빌리티)
+- 헤드라인: 케빈 워시의 첫 망치, 이란의 백기 — 코스피 8,700 돌파, 스페이스X의 $600억 베팅
+- 오늘의 픽: $JOBY (카탈리스트: FAA Stage 4 완료→Stage 5 심사 진행 중, White House AAM 부스트, ARK 119K주 매수, 8/10), $RIVN (카탈리스트: R2 고객 인도 6/9 개시+Autonomy+ $2,500 L2+ 런칭, Q1 EPS 54% 비트, 7/10) [와치리스트 외 발굴]
+- 뉴스 토픽: [EV/자율주행] VinFast+NVIDIA+Autobrains L4 로보택시 동남아 / Rivian R2 인도 개시+Autonomy+ 론칭 / JOBY FAA Stage4 완료+ARK 매수+eVTOL 소비자 79% 이용의사 / Tesla FSD v14.3.4 롤아웃+Cybercab 오스틴 20대 vs Waymo 577대 / [매크로] 미-이란 MOU 서명+WTI $80 하락+FOMC 개막(케빈 워시 첫 회의)+주택착공 -15.4% / KOSPI 8,726 +2.11% / 원달러 1,511.6원 / [기업] SpaceX SPCX Cursor/Anysphere $60B 인수 발표+SPCX +8.9% / COIN +6.16% BTC 반등 / OKLO $61 DOE 모멘텀 / NVDA DRIVE Hyperion 글로벌 로보택시 플랫폼 / [스마트머니] ARK JOBY 119K주 대규모 매수 / Aurora AUR Uber 블록딜 오버행 + 크레이그-할럼 Buy $18
+- 팟캐스트: All-In Podcast "Anthropic's Fable Backlash, Nationalizing AI, Inflation" (2026-06-13)
