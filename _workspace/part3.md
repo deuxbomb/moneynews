@@ -1,67 +1,37 @@
-📰 오늘의 뉴스 — 하늘과 땅, 평화와 AI가 한꺼번에 움직인 날
 
-━━━━━━━━━━━━━━━━━━━━━━━
-⚡ 증시 포인트: 이란이 시장에 석유를 쏟아붓다
-━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━
+📊 증시 포인트 — 점도표 하나에 달린 하반기
+━━━━━━━━━━━━━━━━━━━━
+오늘 밤 FOMC의 핵심은 금리가 아니라 '미래 지도'입니다. 동결은 98.4% 확정. 하지만 3월 점도표가 '올해 최소 1회 인하'를 가리켰던 것과 달리, 이번엔 그 마지막 인하 점마저 사라질 거란 관측이 지배적이에요. 물가가 4.2%로 다시 고개를 든 게 결정적이었습니다. 일부 위원은 아예 '인상'으로 돌아설 수 있다는 전망까지. 워시 신임 의장은 점도표 자체에 회의적이었던 인물이라, 첫 기자회견에서 그가 점도표를 어떻게 '해석하지 말라'고 말할지가 진짜 변수예요. 인하 기대가 완전히 증발하면 장기금리·달러가 재차 들썩이고, 그동안 랠리를 이끈 AI 빅테크의 밸류에이션엔 부담이 됩니다. 다우(가치·경기방어)만 사상 최고를 쓰고 나스닥(성장)이 밀린 어제의 로테이션이, 바로 그 시나리오를 미리 연습한 장면이었습니다. [CBS](https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/) · [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026)
 
-미국과 이란이 마침내 양해각서에 서명했다. 파키스탄의 중재로 이뤄진 이번 합의는 호르무즈 해협 재개방과 추가 협상 프레임워크를 담고 있다. 시장의 즉각적 반응은 유가였다 — WTI가 하루 만에 5% 넘게 폭락해 $80선으로 내려앉았다. 이란에서 페르시아만을 통해 나오는 원유가 다시 흐를 수 있다는 기대감이 선물 시장을 강타했다.
+━━━━━━━━━━━━━━━━━━━━
+⚡ 오늘의 테마: AI가 삼킨 전력, 누가 굽는가
+━━━━━━━━━━━━━━━━━━━━
+1. 가스가 'AI의 베이스로드'로 떠올랐다
+미국 천연가스 가격은 $3.0/MMBtu 부근까지 밀렸습니다. 예상보다 큰 저장량 증가에 2주 만의 최저. 표면적으론 약세지만, 그 아래에서 구조는 바뀌고 있어요. 데이터센터는 태양광·풍력의 간헐성을 견디지 못하고, 24시간 끊기지 않는 전력을 원합니다. 그 빈자리를 채우는 1순위가 천연가스. Range Resources는 2030년까지 데이터센터발 가스 수요만 2.5Bcf/d, LNG 수출 능력은 2026년에만 4Bcf/d 늘어난다고 봅니다. 지금의 낮은 가스값은 '수요 폭발 직전의 고요'일 수 있다는 얘기예요. [Natural Gas Intelligence](https://www.naturalgasintel.com/news/natural-gas-positions-for-firmer-2026-as-power-demand-lng-lift-floor/)
 
-코스피의 반응이 인상적이다. 8,726.60으로 +2.11% 급등했다 — 한국 수출기업들은 에너지 수입비용이 줄어드는 구조적 수혜국이기 때문이다. 원달러도 1,511원으로 안정적이다. 반면 미국 시장은 FOMC 회의 개막이라는 변수에 눌려 조심스러운 보합세(S&P +0.13%)를 유지했다. 주택착공은 5월 -15.4%로 충격적 감소를 기록했다 — 2020년 5월 이후 최저치다. 그러나 이란 평화→에너지비용 하락→소비 여력 확대의 논리가 시장을 지지하고 있다. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026)
+2. 원전, '약속'에서 '설계 승인'으로 한 걸음 더
+원자력은 여전히 AI 전력의 가장 뜨거운 장기 베팅입니다. DOE는 6/5 Oklo의 Aurora 원자로(아이다호 국립연구소)에 대한 예비 안전성분석(PDSA)을 승인했어요 — 규제 경로의 실질적 진전. 메타는 일리노이에서 20년, 아마존은 펜실베이니아 서스쿼해나에서 1.9GW의 원전 전력 계약을 이미 확보했고, NuScale($SMR)은 유일한 NRC 승인 SMR 설계를 무기로 TVA·ENTRA1 향 6GW 파이프라인을 밀고 있습니다. 다만 NuScale 주가는 $12대에서 $10 부근으로 밀리며 '약속 대비 희석 우려'의 줄다리기 중. [World Nuclear News](https://www.world-nuclear-news.org/articles/doe-approval-milestone-for-oklo-reactor) · [StocksToTrade](https://stockstotrade.com/news/nuscale-power-corporation-smr-news-2026_06_12/)
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🚗 오늘의 테마: EV/자율주행/모빌리티 — 로보택시 전쟁의 3개 전선
-━━━━━━━━━━━━━━━━━━━━━━━
+3. 연료전지·우라늄, 같은 파도의 다른 면
+연료전지의 Bloom Energy($BE)는 Oracle(최대 2.8GW)·Nebius($26억 규모) 등 AI 데이터센터 전력 공급 계약을 연달아 따내며 올해 +219% 폭주, '추가 증자 없이도 수요를 댈 수 있다'고 선언했습니다. 우라늄 쪽에선 Cameco($CCJ)가 6/1 TEPCO의 Cigar Lake 지분 5%를 인수해 보유율을 57.4%로 끌어올렸고, Urenco는 미국 농축 능력을 약 50% 증설하겠다고 발표. AI 전력 사이클은 가스→원전→연료전지→우라늄까지 공급망 전체를 동시에 데우고 있어요. [StocksToTrade](https://stockstotrade.com/news/bloom-energy-corporation-be-news-2026_06_12/)
 
-1. 🌏 베트남이 동남아 로보택시 패권에 뛰어들었다 — VinFast × NVIDIA × Autobrains L4 선언
+━━━━━━━━━━━━━━━━━━━━
+🏢 기업 뉴스 — 와치리스트 심층
+━━━━━━━━━━━━━━━━━━━━
+$GOOGL TPU가 'GPU의 대항마'에서 '돈 버는 사업'으로
+구글이 자체 TPU(텐서처리장치)를 Broadcom을 통해 Anthropic 같은 외부 고객에게 직접 판매하기 시작했습니다. 그동안 클라우드 안에서만 쓰던 칩을 밖으로 내보내, 새로운 고마진 매출원을 연 거예요. 알파벳은 어제 +1.06%로 버텼지만 엔비디아는 -2.37%로 밀렸습니다. 시장이 'AI 칩 = 엔비디아 독점'이라는 등식에 처음으로 균열을 의심하기 시작한 신호. 한 애널리스트는 "AI 자본지출이 둔화되는 국면에선 알파벳의 모델이 더 견고할 수 있다"고 평했습니다. TPU 직판이 의미 있는 매출로 자리 잡으면, AI 인프라 패권 구도 자체가 다극화될 수 있어요. 단기적으론 두 거인의 주가 디커플링을 주시할 때입니다. [Motley Fool](https://www.fool.com/investing/2026/06/16/nvidia-vs-alphabet-better-ai-chip-stock-goog/)
 
-이야기: GTC 타이베이에서 발표된 이번 파트너십은 베트남의 VinFast가 NVIDIA DRIVE Hyperion 10 컴퓨팅 플랫폼과 Autobrains의 에이전틱 AI 소프트웨어를 결합해 동남아시아 특화 Level 4 로보택시 시스템을 개발하겠다는 내용이다.
+$COIN 거래소에서 '슈퍼 금융앱'으로
+Coinbase가 신상품을 무더기로 공개했습니다. 크립토·전통주식 양쪽의 옵션 거래, 자동 배당이 붙는 토큰화 주식 거래, 스테이킹한 솔라나를 담보로 한 대출, 그리고 시간 기반 가격 예측 시장까지. 단순 암호화폐 거래소를 넘어 '주식·파생·예측이 한 앱에 모인 종합 금융 플랫폼'으로의 변신 선언이에요. CLARITY Act 입법 기대가 깔린 상황에서, 규제가 열리면 가장 넓은 상품 라인업을 가진 플레이어가 되겠다는 포석. 주가는 $168.50으로 차분했지만, 사업 영역 확장 속도는 결코 차분하지 않습니다. [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-gears-launch-tokenized-stock-trading-190038248.html)
 
-배경: 동남아시아는 글로벌 자율주행 업계에서 "마지막 어려운 지역"으로 불려왔다 — 복잡한 교통, 비공식 차로, 오토바이 혼류. 이 환경에서 L4를 실현한다는 건 기술적으로 가장 까다로운 도전이다. NVIDIA는 DRIVE Hyperion 플랫폼을 "글로벌 로보택시 표준"으로 밀어붙이는 전략을 추구 중이다. VinFast로서는 자국 시장 자율주행 데이터를 먼저 확보할 수 있는 기회이기도 하다.
+$NFLX 성장의 엔진을 'M&A'로 갈아끼우나
+넷플릭스가 Roku 인수전에서 패한 뒤 Lionsgate를 저울질하고 있다는 관측이 나왔습니다. 자체 콘텐츠로 키워온 회사가 '인수를 통한 확장'으로 방향을 트는 신호일 수 있어요. 미디어 딜 실패와 법적 리스크가 겹치며 주가는 $78.80으로 약세. 콘텐츠 단가는 치솟고 구독 성장은 성숙기에 접어든 지금, 넷플릭스가 어떤 자산을 사서 다음 성장을 살지가 하반기 관전 포인트입니다. [One News Page](https://www.onenewspage.com/n/Markets/1ztfzbml4r/Stock-Market-Today-June-16-Netflix-Falls-After.htm)
 
-의미: 로보택시 경쟁이 북미·중국에서 동남아까지 확전됐다. NVIDIA($NVDA)는 특정 차량 제조사보다 플랫폼 공급자로서 로보택시 전체 생태계의 수혜를 받는다. [Globe Newswire](https://www.globenewswire.com/news-release/2026/06/01/3303989/0/en/NVIDIA-DRIVE-Hyperion-Becomes-the-Global-Platform-for-a-Robotaxi-Ready-World.html)
+$TSLA 로보택시의 진짜 스위치는 'FSD v15'
+테슬라가 로보택시 대규모 확장의 조건을 명확히 했습니다 — FSD v15 출시 전까지는 본격 확대 없음. 현재 오스틴·댈러스·휴스턴에서 제한 운행 중이고, 의미 있는 로보택시 매출은 여전히 2027년 스토리. 다만 FSD 구독은 Q1 기준 128만 명(+51% YoY)으로 소프트웨어 매출 엔진은 돌아가고 있어요. 마진이 6.4%→3.9%로 눌린 상황이라, 자율주행 실행력이 밸류에이션을 정당화할 유일한 열쇠입니다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/tesla-robotaxi-rollout-fsd-expansion-211417687.html)
 
----
-
-2. 🚙 Rivian, 드디어 실물을 배달하다 — R2 인도 개시 + Autonomy+ $2,500에 L2+가 담겼다
-
-이야기: 6월 9일, Rivian이 예약 홀더들에게 최초로 R2 SUV를 공개 인도했다. 동시에 $2,500짜리 Autonomy+ 패키지를 론칭했는데 — 미국·캐나다 3.5백만 마일 도로에서 핸즈프리 주행이 가능한 L2+ 시스템이다. 올 Q3엔 Universal Hands-Free 2.0(신호등·정지 표지판 자동 처리)까지 업데이트된다.
-
-배경: Rivian의 R2는 연간 20,000~25,000대 인도를 목표로 하고 있다. Uber는 이미 $1.25B를 투자하며 50,000대 로보택시 협약을 맺었고, 2028년 SF·마이애미 상업 서비스를 예정하고 있다. 자율주행 모듈(ACM3)은 2026년 말 R2 탑재 예정이다.
-
-전망: Q1 EPS가 컨센서스를 54% 상회한 데 이어 첫 분기 실배달 데이터(Q2)가 8월에 나온다. 10,000대+ 달성이 확인되면 애널리스트들의 "$18 평균 목표가" 재확인이 시작된다. [Business Wire](https://www.businesswire.com/news/home/20260609965893/en/Rivian-Begins-R2-Public-Customer-Deliveries-Opens-Orders-for-Reservation-Holders)
-
----
-
-3. ✈️ JOBY, FAA Stage 4 완료 — 역대 최초 상업용 에어택시 인증이 코앞이다
-
-이야기: 3월에 FAA Stage 4(내공중성 적합성) 심사를 완료한 JOBY Aviation이 어제 +5.85%로 급등했다. ARK가 119,000주를 매수했고, Jefferies 소비자 조사에서 응답자의 79%가 "에어택시를 이용할 의향이 있다"는 결과가 나왔다. White House AAM(첨단 항공 모빌리티) 프로그램 부스트까지 겹쳤다.
-
-배경: JOBY는 이미 FAA의 5개 eVTOL 통합 파일럿 프로그램 전부에 선정됐다 — 뉴욕/뉴저지, 텍사스, 플로리다, 노스캐롤라이나, 유타. Delta Air Lines와의 파트너십으로 H2 2026 뉴욕·LA 서비스를 목표하고 있다. 현금 $2.47B로 런웨이는 안전하다.
-
-전망: FAA Stage 5(생산 표준화) 완료가 역사적 이벤트가 된다. 통과 시 세계 최초 상업용 eVTOL 인증서가 발급된다. 현재 주가 $9.80은 이 이벤트가 실현될 경우 $15+ 목표 전망이 다수다. [Aircraft Insider](https://www.aircraftinsider.com/joby-aviation-clears-faa-stage-4-certification-commercial-evtol-passenger-flights-could-launch-by-end-of-2026/)
-
-━━━━━━━━━━━━━━━━━━━━━━━
-🏢 기업 뉴스 — 와치리스트 심층 분석
-━━━━━━━━━━━━━━━━━━━━━━━
-
-$TSLA | FSD v14.3.4 롤아웃, 그리고 Cybercab의 초라한 현실
-FSD v14.3.4가 얼리액세스 테스터들에게 배포되기 시작했다. 첫 인상은 "매우 긍정적"이라는 평. 유럽(네덜란드 RDW 승인)에 이어 벨기에·그리스도 FSD 합법화가 임박하면서 유럽 전역 FSD 도미노가 진행 중이다.
-
-그러나 오스틴 로보택시의 현실은 냉정하다. 6월 3일 텍사스 전역으로 운영 구역을 확대했지만 실제 운행 차량은 20대 수준 — Waymo가 텍사스에서만 577대를 운행하는 것과 비교된다. Elon Musk는 FSD v15(파라미터 10B+) 완성 이후 본격 확장하겠다고 못 박았다. 스케일 업의 타임라인은 "2026 말~2027 초"다. 주가 $411, 시장은 FSD v15를 기다린다. [TechTimes](https://www.techtimes.com/articles/318160/20260610/tesla-robotaxi-trails-waymo-42-577-texasaustin-map-masks-20-car-fleet-until-fsd-v15-rewrite.htm)
-
-$COIN | CLARITY Act + BTC 반등으로 +6.16%
-BTC가 $66,000대로 회복하자 $COIN이 +6.16% 상승했다. CLARITY Act(미국 디지털자산 규제 프레임워크)의 상원 전체 표결 일정이 좁혀지고 있다는 소식도 호재다. 주가 $170 레벨은 CLARITY Act 최종 통과 시 $200+ 재도전의 발판이다.
-
-$NVDA | DRIVE Hyperion — 글로벌 로보택시 플랫폼 선언의 실체
-NVIDIA가 DRIVE Hyperion 10을 "글로벌 로보택시 표준 플랫폼"으로 공식 포지셔닝했다. VinFast(동남아), Waymo, Aurora, Mobileye와 함께 사실상 모든 L4 플레이어가 NVIDIA의 컴퓨팅 위에서 움직이고 있다. $NVDA는 차량을 팔지 않고 자율주행 사이클 전체의 인프라 과금자(infrastructure taxer)가 되고 있다.
-
-$OKLO | DOE 잉여 핵연료 + Meta 1.2GW 파트너십 시너지
-Meta의 1.2GW 핵캠퍼스 계약과 DOE 잉여 플루토늄 프로그램 선정 모멘텀이 지속되며 $61 레벨을 유지 중이다. BofA Buy $80 목표가 유효.
-
-━━━━━━━━━━━━━━━━━━━━━━━
-🔮 흥미로운 이야기 — 상장 4일 만에 $600억을 베팅한 기업
-━━━━━━━━━━━━━━━━━━━━━━━
-
-1. SpaceX가 AI 코딩 툴 Cursor의 모회사 Anysphere를 $600억 전액 주식 교환 방식으로 인수했다. 공모 가격 $135, 기업가치 $2T로 상장한 지 단 4일 만의 결단이다. Cursor의 ARR은 이미 $40억 — xAI(Grok)의 코딩 AI 영역 확장이다. SpaceX 자회사 X67이 합병 법인으로 Q3 클로징 예정. $SPCX는 이 발표로 장중 +8.9% 급등했다. [ProActive Investors](https://www.proactiveinvestors.com/companies/news/1093977/spacex-to-acquire-ai-coding-platform-cursor-in-60b-stock-transaction-1093977.html)
-
-2. 미국 5월 주택착공이 예상을 크게 밑도는 -15.4%를 기록했다 — 2020년 5월 이후 최저치. 고금리의 상흔이 주택 공급에도 남아있다. FOMC가 이 숫자를 어떻게 해석할지가 내일 발표의 관전 포인트다.
+━━━━━━━━━━━━━━━━━━━━
+💫 흥미로운 이야기
+━━━━━━━━━━━━━━━━━━━━
+1. 캐시 우드의 '스페이스X 자금 마련' 대청소가 계속됩니다. ARK는 6/15 하루 $1.63억을 팔았는데(Roku $95.5M, AMD $72.3M, 테슬라 $18.1M 등), 6/16엔 Archer Aviation(ACHR) 222만 주(~$12.7M)를 또 처분했어요. 사상 최대 IPO로 상장한 SpaceX 지분을 채워 넣기 위한 포트폴리오 대수술입니다. 성장주 펀드매니저가 '비상장의 끝판왕'을 담으려 상장 성장주를 줄이는 아이러니한 장면. [ECIKS](https://eciks.org/9286-72630-ark-invest-sales-cathie-wood-163-million)
