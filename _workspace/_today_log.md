@@ -1,6 +1,6 @@
 
-## 2026-06-16 15:00 [AM] (테마: EV/자율주행/모빌리티)
-- 헤드라인: 케빈 워시의 첫 망치, 이란의 백기 — 코스피 8,700 돌파, 스페이스X의 $600억 베팅
-- 오늘의 픽: $JOBY (카탈리스트: FAA Stage 4 완료→Stage 5 심사 진행 중, White House AAM 부스트, ARK 119K주 매수, 8/10), $RIVN (카탈리스트: R2 고객 인도 6/9 개시+Autonomy+ $2,500 L2+ 런칭, Q1 EPS 54% 비트, 7/10) [와치리스트 외 발굴]
-- 뉴스 토픽: [EV/자율주행] VinFast+NVIDIA+Autobrains L4 로보택시 동남아 / Rivian R2 인도 개시+Autonomy+ 론칭 / JOBY FAA Stage4 완료+ARK 매수+eVTOL 소비자 79% 이용의사 / Tesla FSD v14.3.4 롤아웃+Cybercab 오스틴 20대 vs Waymo 577대 / [매크로] 미-이란 MOU 서명+WTI $80 하락+FOMC 개막(케빈 워시 첫 회의)+주택착공 -15.4% / KOSPI 8,726 +2.11% / 원달러 1,511.6원 / [기업] SpaceX SPCX Cursor/Anysphere $60B 인수 발표+SPCX +8.9% / COIN +6.16% BTC 반등 / OKLO $61 DOE 모멘텀 / NVDA DRIVE Hyperion 글로벌 로보택시 플랫폼 / [스마트머니] ARK JOBY 119K주 대규모 매수 / Aurora AUR Uber 블록딜 오버행 + 크레이그-할럼 Buy $18
-- 팟캐스트: All-In Podcast "Anthropic's Fable Backlash, Nationalizing AI, Inflation" (2026-06-13)
+## 2026-06-18 16:30 [PM] (테마: 핀테크/결제/크립토)
+- 헤드라인: 9,000을 처음 만진 날 — 워시가 매를 들었는데, 코스피는 역사를 새로 썼다
+- 오늘의 픽: $GLXY (카탈리스트: Russell 정기 재조정 발효 6/26 장마감후 D-8, Russell 1000 편입 거론, 기계적 패시브 매수), $UPST (카탈리스트: 신임 CEO 폴 구 자사주 $1.375M 매입 5/13 + Q1 매출 +44%/실행액 +61%, 국법은행 인가 대기) [와치리스트 외 발굴]
+- 뉴스 토픽: [매크로] 워시 첫 FOMC 매파 점도표(동결 but 9/18명 연내 인상·6명 복수인상, 말 중간값 3.4→3.8%, PCE 2.7→3.6%) / 3대지수 급락(다우 -0.98% S&P -1.21% 나스닥 -1.34%) / 코스피 장중 첫 9,000 돌파(9,008.84) 반도체 주도 외국인 -7,091억 개인 +7,163억 / 코스닥 -3.1% 1,000선 반납 / WTI $75.5 / BTC $64~65K [핀테크/크립토] Stripe-Visa-Mastercard 스테이블코인 컨소시엄 vs 서클(CRCL -11%) / Mastercard 정산망 스테이블코인 개방(USDC·PYUSD·RLUSD·SoFiUSD) / Russell 6/26 크립토 무더기 편입(GLXY·Gemini·BMNR·SBET) / 매파 Fed 크립토 디커플링(MSTR -5% vs HOOD +9.15%) / Upstart 내부자 매수 / Affirm 씨티 PT $100 [기업] COIN 토큰화주식·AI어드바이저·Better BTC담보모기지(-1.94% $165.98) / GOOGL TPU 외부판매 시총 $4.8T NVDA 격차 $230B / TSLA 로보택시 오스틴 전역 확대 but 차량 ~20대 정체 v15 대기 / OKLO ARMEC 인수+Standard Nuclear 핵연료+NRC 가속승인 / NFLX iHeart 비디오팟캐스트 확대 / MU 6/24 실적 앞두고 +8% 프리마켓 [스마트머니] ARK 매수 LLY $46.2M·Block XYZ $17.7M / 매도 HOOD $26.7M(2주연속)·ROKU $33M·TWST
+- 팟캐스트: (12시간 이내 검증된 신규 에피소드 미확보 — 섹션 생략)
