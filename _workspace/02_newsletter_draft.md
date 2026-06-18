@@ -142,3 +142,5 @@ OCC는 2026년 2월 25일 NPR에서 "rebuttable presumption"을 도입했다. �
 - [Yahoo Finance](https://finance.yahoo.com/news/coinbase-ceo-says-banks-eventually-140000885.html) — Armstrong "banks will flip"
 - [Benzinga](https://www.benzinga.com/crypto/cryptocurrency/26/05/52475777/jeremy-allaire-stablecoin-rewards-usdc-adoption) — Allaire "powerful tailwind"
 - [CoinDesk](https://www.coindesk.com/policy/2025/12/30/south-korea-s-long-awaited-crypto-law-stalls-over-who-can-issue-stablecoins) — 한국 DABA 지연
+
+<!-- slack_trigger: 2026-06-18 -->
