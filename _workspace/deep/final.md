@@ -1,131 +1,144 @@
-# 631만 명이 돌아왔다 — FOX Corporation, 케이블이 죽는 시대에 피는 이벤트 경제
+# D-30, 이자를 금지한 법이 달러를 살릴까 죽일까 — 4인의 엇갈린 선언
 
-*2026년 6월 13일 (토) | 소비재/미디어/엔터 | 📊 종목 해부 | $FOXA*
-
----
-
-## 이 경기는 시작에 불과했다
-
-6월 11일 오후 1시(동부 시간), 애틀랜타 메르세데스-벤츠 스타디움에서 멕시코와 남아프리카공화국의 공이 굴러가기 시작하던 순간, FOX Sports 임원들은 숨을 죽였다. 개막 경기. 미국팀도 없다. 여름 점심시간. 어디서 봐야 하는지 모르는 사람도 많다. 그런데 어느새 631만 명이 TV와 스트리밍 앞으로 모여들었다.
-
-이 숫자가 얼마나 특별한가? 비(非)USMNT 조별리그 경기로는 미국 역사상 영어 방송 최고 시청률이다. 그것도 FOX가 2022년 카타르 월드컵에서 기록했던 평균 조별리그 시청률 대비 **97% 증가**. 거의 2배다. 케이블이 죽는다는 이야기가 나온 지 10년이 됐는데, FOX는 여전히 사람들이 돌아오는 집을 갖고 있었다. 피크 순간에는 800만 명이 동시에 시청했다.
-
-그리고 어제(6월 12일), 미국 대 파라과이의 경기가 열렸다. USMNT가 처음 공을 차는 날. 전통적으로 미국 내 스포츠 시청률은 자국팀 참여 여부에 극적으로 반응한다. 지금 이 순간, $FOXA라는 주식이 세상에서 가장 직접적인 수혜 종목 중 하나다.
-
-FOX Corporation. 주가 $58. 시가총액 $23.7B. "케이블이 죽어간다"는 이야기가 나온 지 10년이 됐지만, 이 회사는 어떻게 여전히 수익을 내고 있을까. 그리고 이번 여름, 무언가가 달라질 수 있을까.
+**2026-06-18 | 머뉴 딥다이브 | 🎤 보이스 컴필 | 핀테크/결제/크립토**
 
 ---
 
-## 21세기폭스의 유산에서 독자 생존까지 — FOX Corp 7년의 실적 곡선
+## 다보스의 설전, 그리고 30일 후
 
-FOX Corporation이 탄생한 날은 2019년 3월 19일이다. 디즈니가 21세기폭스의 영화 스튜디오, FX 채널, 스타 인터내셔널 등 엔터테인먼트 자산 전체를 **713억 달러**에 사들인 후, "나머지"로 만들어진 회사가 지금의 FOX다. Fox News, Fox Sports, FOX 방송망, 28개 지역 방송국. 할리우드 스튜디오도 없고, 세계적 IP 프랜차이즈도 없다. 순수 뉴스·스포츠·방송에만 집중하는 구조다.
+2026년 1월 21일, 다보스 세계경제포럼의 한 무대. Coinbase CEO Brian Armstrong이 프랑스 중앙은행 총재와 정면으로 맞붙었다. Armstrong이 먼저 선언했다.
 
-분사 직후 시장의 반응은 냉담했다. "남은 것들로 만든 회사"라는 이미지. 미국 케이블 가입자 수는 이미 하락 중이었고, 스트리밍 전쟁이 본격화되던 시기였다.
+*"Americans should be able to earn more money on their money. Banks should have to compete on a level playing field."*
 
-그런데 FOX는 조용히 결정적인 수를 뒀다. **2020년 4월, Tubi를 4억 4,000만 달러(약 5,800억 원)에 인수한 것**이다. 당시 Tubi는 무료 광고 지원 스트리밍(AVOD) 서비스였고, 업계의 관심 밖이었다. Netflix, Disney+, HBO Max가 구독 모델로 전쟁을 벌이는 동안, FOX는 "무료"라는 정반대 방향으로 베팅했다.
+중앙은행 총재가 반박했다. 스테이블코인이 이자를 지급하는 건 금융 안정성을 위협한다고. 양복 차림의 두 사람 사이엔, 5개월 뒤 미국 의회를 통과할 법률의 씨앗이 자라고 있었다.
 
-이후 5년의 실적을 보면 FOX의 경영 전략이 선명하게 보인다:
+지금으로부터 정확히 **30일 후인 2026년 7월 18일**, 그 법률 — GENIUS Act — 의 최종 이행 규칙이 확정된다. OCC, FDIC, NCUA, Treasury, FinCEN, OFAC 6개 연방기관이 동시에 마감일을 맞는다. 스테이블코인 이자를 "어디까지 금지하는가"를 정의하는 규칙이다.
 
-| 회계연도 | 연매출 | 핵심 이벤트 |
-|---------|--------|-----------|
-| FY2021 | $12.91B | 베이스라인 |
-| FY2022 | $13.97B | 카타르 월드컵(11-12월) + 중간선거 |
-| FY2023 | $14.91B | 슈퍼볼 LVII |
-| FY2024 | $13.98B | 이벤트 공백, 전년 대비 하락 |
-| FY2025 | $16.30B | 슈퍼볼 LIX + 선거 광고 최대 |
-
-패턴이 선명하다. **FOX는 "이벤트 경제" 회사**다. 슈퍼볼이 있으면 매출이 뛴다. 월드컵이 있으면 뛴다. 중간선거·대선이 있으면 뛴다. 이런 이벤트가 없는 해(FY2024)에는 매출이 정체하거나 후퇴한다.
-
-FY2026(7월 2025~6월 2026) Q3 성적표가 이 공식을 잘 보여준다. 3월에 마감된 분기에 광고 매출은 $1.56B으로 전년 대비 $480M 급감했다 — 전년 동기에 슈퍼볼 LIX 단독으로 $800M 이상이 들어갔기 때문이다. 그런데도 **Adj. EBITDA $954M은 Q3 사상 최고**였다. 슈퍼볼 없이도 마진이 개선된 것이다. 이유는 두 가지: Cable 유통 수수료 +5% 성장, 그리고 Tubi의 3분기 연속 손익분기 달성.
-
-FY2026 Q4(4~6월)와 FY2027 Q1(7~9월)은 다르다. 지금 이 글을 쓰는 이 순간, 월드컵이 이미 시작됐고 USMNT가 첫 경기를 치렀다. 그리고 11월에는 $11.6B 규모의 미국 중간선거가 기다리고 있다.
+다보스에서 시작된 설전은 이제 행정기관 회의실에서 계속되고 있다. 2026년 6월 9일, FinCEN-OFAC AML 코멘트 기간이 마감됐다. 30일 후면 결론이 나온다. 그 결론은 현재 총 공급량 **$3,200억**에 달하는 스테이블코인 시장의 판도를 뒤바꾼다. ([KuCoin](https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026)) 지금 이 글을 읽는 당신에게 직결된 이야기다.
 
 ---
 
-## 영국은 무료, 브라질은 유튜브 — 왜 미국만 케이블이 필요한가
+## $30억에서 $3,200억 — 스테이블코인이 10년 만에 세상의 달러가 된 법
 
-2026년 FIFA 월드컵 중계권 구조를 국가별로 비교하면, FOX의 수익 모델이 글로벌 스탠다드와 얼마나 다른지가 드러난다.
+숫자가 놀랍다. 2019년 전체 스테이블코인 공급은 고작 **$30억** 수준이었다. DeFi 붐이 덮친 2020년에 $300억, 강세장의 2021년엔 $1,500억까지 치솟았다. 그러다 2022년 5월, 테라/루나 붕괴가 덮쳤다. $1,200억으로 급락했고, 2023년 3월엔 실리콘밸리은행(SVB) 사태로 USDC가 한때 달러 연동이 끊기는 충격도 겪었다.
 
-| 국가 | 방송사 | 비용 구조 | 무료 접근성 |
-|------|--------|---------|-----------|
-| **미국** | FOX Sports + Telemundo | 케이블 구독 필요 (Tubi 일부 무료) | 부분 무료 |
-| **영국** | BBC + ITV + STV | 완전 무료 (수신료 기반) | 104경기 전부 무료 |
-| **독일** | ARD + ZDF + MagentaTV | 공영 무료 + 텔레콤 유료 | 주요 경기 무료 |
-| **브라질** | CazéTV on YouTube | 완전 무료 | 104경기 YouTube |
-| **한국** | KBS·MBC·SBS + 스포티비 | 지상파 무료 + 유료 혼합 | 주요 경기 무료 |
+그런데 흔들릴 때마다 시장은 더 강하게 돌아왔다. 2024년 $1,700억으로 회복했고, 2025년 7월 GENIUS Act 발효를 전후해 $2,200억을 돌파했다. 그리고 2026년 4월, **$3,200억** 선을 처음 넘었다. 2019년 대비 100배 이상 성장한 숫자다.
 
-특히 브라질의 딜이 충격적이다. FIFA가 YouTube와 직접 계약을 맺어, 브라질 시청자는 104경기 전체를 무료로 스트리밍할 수 있다. 2026년 3월에는 FIFA가 YouTube와 추가 협약을 체결해 각 경기 처음 10분을 **전 세계 무료**로 제공하기로 했다. TikTok 파트너십도 따로 존재한다.
+왜 이렇게 폭발적으로 성장했을까? 스테이블코인은 이제 "달러의 디지털 복사본"을 넘어 글로벌 금융 인프라가 됐다. **전체 크립토 거래량의 75%** 가 스테이블코인 기반으로 이루어지고, USDT는 하루 거래량 $500억이 넘는다. 99%가 달러 표시. 사실상 디지털 달러 생태계가 완성된 셈이다.
 
-반면 미국은 FOX Sports 시청에 케이블 패키지 또는 스트리밍 구독이 필요하다. 이것이 FOX의 약점인가, 강점인가?
+그런데 여기에 거대한 아이러니가 있다. 이 $3,200억짜리 시장이 **"이자를 못 받는"** 구조로 설계됐다. GENIUS Act 섹션 4(a)(11)은 명시한다. 스테이블코인 발행사는 보유자에게 이자·수익을 지급할 수 없다고. 미국 연방 법률이 현재 은행 예금 금리(약 4.5%)에 접근할 수 없게 만든 것이다. ([Congress.gov CRS IF13174](https://www.congress.gov/crs-product/IF13174))
 
-역설적으로 **강점일 수 있다**. 영국·독일이 수신료 기반 공영방송 시스템을 유지하는 동안, FOX는 순수 광고 수익 모델로 운영한다. 세계 최대 스포츠 이벤트의 광고 프리미엄을 100% 취할 수 있다는 뜻이다. CEO Murdoch가 "월드컵은 수익을 낼 것"이라고 단언한 배경이다.
+그러자 **Coinbase**가 칼을 찾았다. 법이 금지하는 건 "발행사"의 이자 지급이다. Coinbase는 발행사가 아니라 거래소다. Circle(USDC 발행사)에서 받은 준비금 수익을 고객에게 pass-through로 제공하면 된다. 현재 약 **4~5% Treasury 수익**을 이 방식으로 지급 중이다. 이것이 은행권이 말하는 "loophole"이고, OCC가 30일 안에 막을 수도 있는 구멍이다.
 
-그리고 Tubi의 역할이 여기서 결정적이다. 케이블을 끊은 코드커터들도 Tubi를 통해 일부 경기를 무료로 시청할 수 있다. FOX는 광고 수익을 포기하지 않으면서도 도달 범위를 넓혔다. 100만 명이 Tubi로 월드컵을 보면, 그것도 FOX의 광고 수익이다.
-
-AVOD 시장에서 Tubi의 위치를 보면 이 전략의 성과가 드러난다. 미국 FAST(무료 광고 지원 TV) 서비스 전체가 미국 TV 시청의 5.7%를 차지하는데, Tubi는 그 안에서 2.2%로 7위를 기록 중이다. 6위 Roku Channel(2.9%)과 격차가 크지 않다. 5년 전 4억 4,000만 달러에 산 자산이 MAU 1억 명을 넘기고 분기 손익분기를 달성했다.
-
-그러나 국제 비교에서 놓치지 말아야 할 핵심 인사이트가 있다. 브라질·영국·독일의 사례는 "월드컵은 공짜로 보는 것"이라는 글로벌 기대치를 강화한다. 미국에서 처음 월드컵을 보려는 Z세대가 FOX One 앱이나 Tubi를 발견하지 못한다면, 그 잠재 시청자는 유실된다. 도달 범위의 확대와 광고 단가의 프리미엄 사이에서, FOX의 성과는 이번 대회가 끝날 때까지 정확히 측정되지 않는다.
-
-한국의 경우는 미국 투자자에게 흥미로운 참조점을 준다. KBS·MBC·SBS 지상파가 무료 중계하고, 스포티비 등 유료 서비스가 병행된다. 한국 시장에서 스포티비(유료)와 지상파(무료)의 공존이 수십 년간 유지되어 온 것처럼, FOX와 Tubi의 하이브리드 모델이 미국에서 안착할 가능성은 충분하다. 다만 미국은 케이블 의존도가 높아 케이블 코드컷의 충격이 한국보다 크다는 차이가 있다.
+최근 3년(2023~2026)의 흐름을 정리하면 이렇다. 2023년: 규제 혼돈 속 시장 회복. 2024년: 비트코인 현물 ETF 승인 이후 기관 자금 유입. 2025년: GENIUS Act 입법으로 법적 프레임워크 확립. 2026년: 이제 세부 규칙 설계 단계. 스테이블코인은 "발명"에서 "규제"를 지나, 지금 "설계"의 마지막 단계에 와 있다.
 
 ---
 
-## "미디어가 죽는다"는 내러티브 — FOX Bull 테이시스가 틀릴 수 있는 이유
+## 유럽은 왜 실패했고, 한국은 왜 아직도 싸우고 있나
 
-FOX Corporation의 bull thesis는 매력적이다. 월드컵 + 중간선거 = 역대급 이벤트 시즌, Tubi의 수익화, 자사주매입 $50억 인가. 그러나 이 내러티브가 실현되지 않을 가능성을 냉정하게 짚어야 한다.
+미국의 이 논쟁이 전 세계에 미치는 파장을 이해하려면 다른 나라들의 현황을 먼저 봐야 한다.
 
-**첫째, 케이블 구독자 감소는 멈추지 않는다.** 2010년 1억 가구를 넘었던 미국 케이블 TV 구독 가구 수는 2025년 기준 7,000만 이하로 떨어졌다. 연평균 5.4% 감소율이 유지되면 2029년까지 2,000만 명이 추가 이탈한다. FOX News의 케이블 유통 수수료 수입은 구독자에 비례한다. 이 감소는 FOX의 수익 구조에 구조적인 압박을 가한다.
+**유럽 — 규제 명확성이 시장 성공을 보장하지 않는다**
 
-**둘째, Fox News의 절대적 우위도 서서히 침식되고 있다.** 97분기 연속 케이블 뉴스 1위라는 기록은 인상적이지만, Q1 2026 시청률은 전년 동기 대비 소폭 하락했다. 반면 CNN과 MSNBC는 같은 기간 YoY 상승했다. 케이블 뉴스 시장 자체의 파이가 줄어드는 속도보다 FOX의 점유율 감소 속도가 느리지만, 방향성은 같다.
+EU는 2024년 12월 MiCA(Markets in Crypto-Assets) 스테이블코인 조항을 발효했다. 선제적 입법이었다. 7개국에서 14개 발행사가 인가를 받고 약 20개 규정 준수 스테이블코인이 유통 중이다. 2026년 7월 1일부터는 DAC8 세금 신고까지 의무화된다. 겉보기엔 성공적이다.
 
-**셋째, USMNT 리스크는 실제다.** 미국 시청자들은 자국팀이 없는 경기에 상대적으로 무관심하다. 2022 카타르 월드컵에서 미국이 16강에서 탈락하자 이후 경기의 FOX 영어 방송 시청률이 크게 하락했다. 만약 이번 대회에서도 USMNT가 조별리그 또는 16강에서 조기 탈락한다면, 7월 초까지 이어지는 FOX의 황금 중계 일정이 훨씬 덜 가치있어진다.
+그런데 결과가 씁쓸하다. 유로 스테이블코인은 달러 패권을 극복하지 못하고 있다. 규제가 선명해졌지만, 유동성·네트워크 효과·무역 거래에서 달러 스테이블코인의 구조적 우위는 그대로다. 프랑스 중앙은행 총재가 다보스에서 Armstrong과 맞붙은 건 이 현실에 대한 불안 때문이었다. 달러 스테이블코인이 이자까지 지급하기 시작하면, 유럽 자국 통화 기반 디지털 금융의 공간이 더 좁아진다.
 
-**넷째, 방영권 비용과 실제 마진은 블랙박스다.** FOX Sports가 미국 영어 방송권 비용으로 얼마를 지불했는지 공식 발표된 수치가 없다. Murdoch가 "수익을 낼 것"이라고 했지만, 비용 구조가 불투명한 상황에서 투자자가 마진을 추정하기 어렵다. 이것은 긍정적 서프라이즈의 여지이기도 하지만, 동시에 불확실성이기도 하다.
+**일본 — 은행 중심 신중 접근**
 
-**다섯째, "전통 미디어" 할인은 쉽게 사라지지 않는다.** Netflix(P/E 30~40배), Disney+(성장주 프리미엄)와 달리 FOX는 P/E 11배에 거래된다. 시장은 FOX를 "사양 산업"으로 분류하고 있다. Tubi가 실적에서 더 큰 비중을 차지하거나, 별도 스핀오프 논의가 생기지 않는 한 이 할인이 갑자기 해소될 가능성은 낮다.
+2023년 6월 자금결제법 개정 이후, 일본 금융청은 기존 금융기관 중심의 스테이블코인 발행을 지원한다. 2025년 11월엔 3대 시중은행이 스테이블코인 발행을 추진하기 시작했다. 보수적이지만 안정적. 혁신보다 시스템 안정을 택한 모델이다.
+
+**한국 — 원화 스테이블코인의 권력 다툼**
+
+한국의 상황은 미국의 이자 논쟁과 구조적으로 닮아 있다. 한국은행(BOK)과 금융위원회(FSC)가 맞붙고 있다. BOK는 스테이블코인 발행 은행에 51% 이상 지분을 요구한다. 금융 안정성 우선. FSC는 반대한다. 기술력 있는 핀테크도 참여해야 경쟁력이 생긴다고. ([CoinDesk](https://www.coindesk.com/policy/2025/12/30/south-korea-s-long-awaited-crypto-law-stalls-over-who-can-issue-stablecoins))
+
+이재명 대통령은 원화 스테이블코인을 국가 프로젝트로 지정했다. 달러 스테이블코인 의존도를 줄이기 위해서다. 법안은 올해 가을 국회 제출 목표. 하지만 BOK-FSC 갈등이 해결되지 않으면 일정이 더 밀릴 수 있다. 결국 한국이 미적거리는 동안, USDC와 USDT는 한국인 투자자의 지갑을 더 깊이 파고든다.
+
+**중국 — 프라이빗 금지, 위안 패권 도전**
+
+중국은 가장 극단적 선택을 했다. 사적 스테이블코인 전면 금지. 디지털 위안(e-CNY)을 국가 프로젝트로 밀어붙인다. 2025년 말 기준 300만 지갑, 누적 거래 16.7조 위안. 홍콩·상하이에서 위안 스테이블코인 파일럿도 검토 중이다. 하지만 달러 스테이블코인의 글로벌 네트워크를 위안으로 대체하기엔 갈 길이 멀다.
+
+**국제 비교의 핵심 결론**: 이자 논쟁의 승자가 곧 디지털 달러 패권의 설계자다. 이자를 줄 수 있는 달러 스테이블코인이 탄생한다면, 유럽·한국·중국이 각자 추진하는 자국 통화 디지털화 전략은 더 불리한 지형에서 경쟁하게 된다.
 
 ---
 
-## $58에서 $74로 — 월드컵·선거·Tubi, 3중 촉매의 진입 전략
+## 이해관계의 충돌 — 4인이 같은 법을 다르게 읽는 이유
 
-FOX Corporation($FOXA) 현재 주가 $58는 선행 P/E 11.3배, EV/EBITDA 8.4배에 거래되고 있다. 애널리스트 17명의 평균 목표주가 **$73.88**은 현재 대비 **27% 상승 여력**을 시사한다. 고점 전망 $97까지 포함하면 67% 상승 여력도 가능한 범위다.
+이제 핵심 논쟁으로 들어가보자. 4인의 발언을 이면의 이해관계와 함께 교차 분석한다.
 
-이 목표가에 도달하려면 세 가지 촉매가 순차적으로 작동해야 한다.
+**🟢 Jeremy Allaire (Circle CEO) — "이자 없어도 괜찮아요, 우린 다른 길이 있어요"**
 
-**촉매 ①: USMNT 16강 진출 확인 (6월 말~7월 초)**
-미국이 조별리그를 통과하면 7월까지 이어지는 고시청률 경기들이 FOX에 추가된다. USMNT 경기 시청률은 비USMNT 경기 대비 평균 2~3배 높다. 16강 진출 확인 시 Q4 FY2026 광고 매출 전망 상향, 주가 재평가 가능성.
+Allaire는 GENIUS Act의 이자 금지를 *"powerful tailwind"*로 프레이밍했다. ([Benzinga](https://www.benzinga.com/crypto/cryptocurrency/26/05/52475777/jeremy-allaire-stablecoin-rewards-usdc-adoption)) 이자 대신 거래 기반 리워드·로열티를 통해 USDC 채택을 확산시키겠다는 전략. "수동적 보유에 이자를 주는 게 아니라, 실제 사용에 보상을 준다" — 철학적으로도 맞는 말처럼 들린다.
 
-**촉매 ②: Q4 FY2026 어닝 발표 (8월)**
-7월 말 FOX 회계연도가 마감된다. 8월 어닝에서 월드컵 기간의 광고 매출이 처음으로 집계된다. 컨센서스 $16.5B+ 달성 시 "이벤트 경제" 공식이 다시 한 번 검증된다.
+하지만 Allaire의 속내를 들여다보면 층위가 있다. Circle FY2025 총매출 $27.47억 중 준비금 수입이 **96%($26.37억)**를 차지한다. 이자 금지는 Circle 자체엔 큰 타격이 없다. Circle은 발행사라서 어차피 이자를 못 준다. 진짜 위협은 OCC 규칙이 Coinbase의 pass-through 구조를 차단하는 것이다. 그렇게 되면 최대 파트너이자 유통 채널인 Coinbase가 위축되고, 결국 USDC 수요도 줄어든다. Allaire는 갈등을 피하고 타협의 길을 모색하는 포지션이다.
 
-**촉매 ③: 2026 중간선거 피크 (10~11월)**
-2026 선거 사이클 총 지출 $11.6B(역대 최고). 방송 TV가 48% 흡수. FOX의 28개 지역 방송국은 플로리다·조지아·애리조나 등 핵심 스윙스테이트에 집중 배치되어 있다. 10~11월 로컬 방송 광고 수익 폭발이 예상된다.
+**🔴 Brian Armstrong (Coinbase CEO) — "GENIUS Act 건드리면 전쟁이다"**
 
-**자본 환원 안전망:** FOX는 2025년 8월 $50억 추가 자사주매입 인가, FY2026 9개월에 이미 $19억 집행. 배당 $0.56/년. 주가 하방을 지지하는 강력한 버퍼다.
+Armstrong의 발언은 훨씬 강경하다. X 포스트에서 직접 선언했다. ([CoinTelegraph](https://www.tradingview.com/news/cointelegraph:b1d0bdd1a094b:0-coinbase-ceo-says-reopening-genius-act-is-red-line-slams-bank-lobbying/))
 
-**투자 포지션 전략:**
-- 지금(~6월 말): 40% 진입 — 월드컵 상승 모멘텀 및 USMNT 결과 전
-- 8월 어닝 후: 30% 추가 — Q4 FY2026 광고 수익 확인 후
-- 10월 선거 광고 피크 전: 나머지 30%
+*"We won't let anyone reopen GENIUS. Red line issue for us."*
+*"It takes some serious mental gymnastics for banks to lobby against stablecoin yield."*
 
-**Bull case:** USMNT 8강 진출 + 선거 광고 폭증 → $90~$97 범위 (고점 애널리스트 PT)
-**Bear case:** USMNT 조별리그 탈락 + 케이블 가속 하락 → $50 지지선 테스트
+왜 이렇게 강경할까? Coinbase의 수익 구조를 보면 이해된다. Circle은 Coinbase 플랫폼에서 유통되는 USDC의 준비금 수입 **100%**를 Coinbase에 귀속시킨다. 다른 채널은 50%. FY2024 Circle이 Coinbase에 지급한 금액만 **$9.08억**이다. ([Decrypt](https://decrypt.co/312757/coinbase-circles-residual-usdc-reserve-revenue-filing)) Coinbase가 고객에게 ~4~5% Treasury 수익을 pass-through로 제공할 수 있는 건 바로 이 구조 덕분이다. Armstrong의 "red line"은 곧 Coinbase 수익의 생명선을 지키겠다는 선언이다.
 
-**Tubi의 숨겨진 가치:** MAU 1억, 23% 성장, 손익분기 달성 스트리밍 서비스를 시장은 FOX의 전통 미디어 배수(EV/EBITDA 8배)로 묶어서 보고 있다. Tubi를 독립적으로 평가하면 — 비교 기업은 Pluto TV(Paramount 내 embedded), Peacock Free — $30억~$50억의 잠재 가치가 FOX 주가에 반영되지 않고 있다. 스핀오프 또는 인수 제안이 나오는 순간, 이 가치가 현실화된다.
+Armstrong은 역발상도 꺼냈다. *"The banks will actually flip and be lobbying FOR the ability to pay interest and yield on stablecoins in a few years."* ([Yahoo Finance](https://finance.yahoo.com/news/coinbase-ceo-says-banks-eventually-140000885.html)) 은행들도 결국 스테이블코인 이자를 원하게 될 것이라는 예측. 지금의 반발이 임시방편일 뿐이라는 논리다.
 
-가장 핵심적인 질문은 이것이다. 케이블이 죽는 시대에 FOX는 어떻게 살아남을 것인가. 대답은 이미 나오고 있다 — 이벤트(월드컵·선거)로 광고를 폭발시키고, Tubi로 코드커터를 붙잡고, 자사주매입으로 EPS를 키운다. 주가 $58는 이 전략이 실패할 것이라는 가정 위에 서 있다. 그 가정이 틀렸다는 증거는 이미 6월 11일에 나왔다. 631만 명이 FOX 앞으로 돌아왔다.
+**⚫ BPI / 은행권 — "법의 허점을 지금 당장 막아야 한다"**
+
+Bank Policy Institute(BPI)는 Treasury와 FDIC에 서한을 보냈다. ([BPI](https://bpi.com/banks-submit-recommendations-on-treasurys-implementation-of-the-genius-act/))
+
+*"The requirements in the GENIUS Act... prohibiting the payment of interest and yield on stablecoins should not be evaded or undermined."*
+
+은행권의 논리는 명확하다. GENIUS Act가 이자 금지를 명시했는데, Coinbase가 "발행사가 아니라서" 면제된다는 건 입법 취지를 훼손한다. CRS Report(IF13174)도 "GENIUS Act가 '홀더' 정의를 명시하지 않아 3자 모델이 법적 공백 지대를 형성했다"고 기록했다. Treasury 자문위원회는 미국 transactional deposits **$6.6조**가 스테이블코인 위협에 노출됐다고 판단한다. Citi는 2030년까지 최대 **$9,080억**이 이탈할 수 있다고 추정한다. ([Congress.gov CRS IF13174](https://www.congress.gov/crs-product/IF13174)) 은행들이 "mental gymnastics"를 감수하며 로비하는 이유다.
+
+**🟡 OCC — "중간이지만, 쐐기를 박는다"**
+
+OCC는 2026년 2월 25일 NPR에서 "rebuttable presumption"을 도입했다. 발행사가 계열사/제3자에 이자를 주고, 그 제3자가 홀더에게 이자를 지급하는 구조는 금지 위반으로 **추정**한다는 것이다. ([Gibson Dunn](https://www.gibsondunn.com/occ-proposes-comprehensive-stablecoin-regulatory-framework-to-implement-the-genius-act/)) 이 규칙이 확정되면 Circle-Coinbase 구조가 직격탄을 맞을 수 있다. 단, "rebuttable(반증 가능)"이라는 여지가 있어 7/18 최종 규칙의 예외 조항이 관건이다.
+
+흥미로운 반전: 백악관 CEA(경제자문위원회)는 2026년 4월 보고서에서 "스테이블코인 이자 금지가 은행 대출에 미치는 영향은 과장됐다"고 downplay했다. 트럼프 행정부 안에서도 의견이 갈린다.
+
+---
+
+## D-30이 끝나면 — 투자자가 지금 해야 할 질문
+
+이 논쟁은 결국 하나의 경제적 질문으로 수렴한다. **스테이블코인 이자가 허용되면 은행 예금이 얼마나 빠져나가는가?**
+
+**낙관론(Bull)**: 백악관이 과장이라고 했다. USDC 순환량은 Q1 2026 기준 이미 **$770억(+28% YoY)**으로 이자 금지 속에서도 성장 중이다. 시장은 이미 답을 내리고 있다는 신호. Standard Chartered의 $5,000억 예금 이탈 추산도 "yield 완전 허용" 극단 시나리오라는 점을 감안해야 한다.
+
+**비관론(Bear)**: 그러나 Citi의 $9,080억 이탈 추산, $6.6조 위협 예금 수치는 무시하기 어렵다. 신용 공급 위축과 금리 상승은 크립토 시장만의 이야기가 아니라 전체 경제의 문제가 된다. OCC rebuttable presumption이 강화되면 $COIN의 핵심 수익 구조가 흔들린다.
+
+**$COIN (Coinbase)**: 양날의 검. OCC rebuttable presumption 강화 시 고객 yield pass-through 구조가 위협받는다. 반면 2026년 OCC 국법 신탁은행 면허 취득으로 제도권 진입을 완성했다. 기관 채택 가속이라는 더 큰 흐름의 수혜자이기도 하다. **7/18 이후 고객 이자 지급이 실제로 바뀌는지가 핵심 모니터링 지표.**
+
+**$CRCL (Circle)**: 준비금 수입 96% 의존, Coinbase 지급 구조, 금리 사이클 — 세 변수 모두 불확실하다. 7/18 이후 두 회사 계약 재조정 여부를 주목하자.
+
+**규제 명확성 수혜주**: $MA(Mastercard), $SQ(Block), $SOFI — 이자 논쟁과 별개로, 규제 프레임워크 확립 자체가 기업의 스테이블코인 결제 채택을 가속시킨다. 발행 리스크 없이 인프라 포지션을 가져가는 전략이 안전할 수 있다.
+
+30일 후, 이 논쟁의 한쪽이 이길 것이다. 그 승자가 디지털 달러의 다음 챕터를 설계한다. 과연 달러는 이자를 줄 수 있는 화폐가 될 것인가, 아니면 그냥 빠른 결제 수단으로만 남을 것인가 — 그 답이 30일 후 워싱턴에서 나온다.
+
+---
+
+## 머뉴's Advice
+
+**① 7월 18일을 투자 이벤트로 표기해두자**: 최종 규칙 확정 직후 $COIN·$CRCL의 반응이 시장의 실질 영향 판단 기준이 된다. 규칙이 "soft"하면 두 종목 모두 반등, "hard"하면 $COIN 조정·$CRCL 중립 가능.
+
+**② Armstrong의 "red line"을 글자 그대로 믿지 말자**: Coinbase 수익의 핵심 구조가 달린 문제라 과장된 언어를 쓸 유인이 있다. 실제 OCC 규칙 원문과 Coinbase 공식 대응을 직접 확인하는 습관이 필요하다.
+
+**③ 한국 투자자라면 DABA 입법 일정도 추적하자**: 원화 스테이블코인이 늦어지면 국내 핀테크(카카오페이, 토스 등)의 달러 스테이블코인 생태계 종속이 심화된다. 가을 국회 제출 여부가 다음 분기점.
 
 ---
 
 ## 출처
 
-- [SEC EDGAR Fox Corp 10-K FY2025](https://www.sec.gov/Archives/edgar/data/0001754301/000162828025038077/fox-20250630.htm) — 사업구조, 리스크요인 (1차 자료)
-- [Fox Corporation Q3 FY2026 공식 보도자료](https://www.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-reports-third-quarter-fiscal-2026-financial-results/) — Q3 재무실적 (1차 자료)
-- [FOX Sports 월드컵 개막전 시청률 보도자료](https://www.foxsports.com/stories/presspass/fox-sports-scores-record-viewership-fifa-world-cup-2026-opening-match) — 631만명 기록 (1차 자료)
-- [Fox Corp Q1 FY2026 실적 보도자료](https://www.prnewswire.com/news-releases/fox-reports-first-quarter-fiscal-2026-revenues-of-3-74-billion-net-income-of-609-million-and-adjusted-ebitda-of-1-07-billion-302599738.html) — Q1 재무실적 (1차 자료)
-- [Fox Corporation $50억 자사주매입 발표](https://investor.foxcorporation.com/news-releases/news-release-details/fox-corporation-announces-2-billion-incremental-stock-repurchase) — 자본환원 정책 (1차 자료)
-- [Fox FOXA Q3 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/11/fox-foxa-q3-2026-earnings-call-transcript/) — CEO 코멘트, 세그먼트 가이던스 (1차 자료)
-- [2026 FIFA World Cup opening match record ratings — Yahoo Sports](https://sports.yahoo.com/articles/2026-fifa-world-cup-opening-010025395.html) — 개막전 시청률
-- [FOX Corporation stock surged 7% after Q3 2026 earnings — TIKR](https://www.tikr.com/blog/fox-corporation-stock-surged-7-after-q3-2026-earnings-can-the-world-cup-and-midterms-push-it-higher) — 밸류에이션 분석
-- [2026 Election Cycle $11.6B record — TV Tech](https://www.tvtechnology.com/business/study-2026-election-cycle-to-hit-record-usd11-6-billion-ad-spend) — 중간선거 광고 규모
-- [FIFA World Cup 2026 global broadcasting comparison — Tips.GG](https://tips.gg/article/how-to-watch-the-2026-fifa-world-cup-every-broadcaster-by-country-wc2026/) — 국제 중계권 비교
+- [Congress.gov CRS Report IF13174](https://www.congress.gov/crs-product/IF13174) — "The Stablecoin Yield Debate" (2026-03-06)
+- [Congress.gov](https://www.congress.gov/bill/119th-congress/senate-bill/1582) — GENIUS Act S.1582 원문
+- [Gibson Dunn](https://www.gibsondunn.com/occ-proposes-comprehensive-stablecoin-regulatory-framework-to-implement-the-genius-act/) — OCC NPR 분석
+- [White House](https://www.whitehouse.gov/research/2026/04/effects-of-stablecoin-yield-prohibition-on-bank-lending/) — CEA 보고서 (2026-04)
+- [BPI](https://bpi.com/banks-submit-recommendations-on-treasurys-implementation-of-the-genius-act/) — 은행권 공식 서한
+- [AlphaSpread](https://www.alphaspread.com/market-news/earnings/circle-reports-q1-2026-earnings-as-usdc-circulation-and-revenue-grow) — Circle Q1 2026 실적
+- [Decrypt](https://decrypt.co/312757/coinbase-circles-residual-usdc-reserve-revenue-filing) — Coinbase-Circle 수익 공유 구조
+- [KuCoin](https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026) — 스테이블코인 시장 현황
+- [CoinDesk](https://www.coindesk.com/business/2026/01/21/coinbase-ceo-brian-armstrong-spars-with-france-s-central-bank-chief-at-davos-over-the-yield-and-bitcoin-standard) — Armstrong at Davos
+- [CoinTelegraph](https://www.tradingview.com/news/cointelegraph:b1d0bdd1a094b:0-coinbase-ceo-says-reopening-genius-act-is-red-line-slams-bank-lobbying/) — Armstrong "red line"
+- [Yahoo Finance](https://finance.yahoo.com/news/coinbase-ceo-says-banks-eventually-140000885.html) — Armstrong "banks will flip"
+- [Benzinga](https://www.benzinga.com/crypto/cryptocurrency/26/05/52475777/jeremy-allaire-stablecoin-rewards-usdc-adoption) — Allaire "powerful tailwind"
+- [CoinDesk](https://www.coindesk.com/policy/2025/12/30/south-korea-s-long-awaited-crypto-law-stalls-over-who-can-issue-stablecoins) — 한국 DABA 지연

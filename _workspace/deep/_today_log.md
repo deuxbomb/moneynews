@@ -1,9 +1,9 @@
 
-## 2026-06-13 14:00 [DEEP] (테마 클러스터: 소비재/미디어/엔터, 유형: 📊 종목 해부)
-- 제목: 631만 명이 돌아왔다 — FOX Corporation, 케이블이 죽는 시대에 피는 이벤트 경제
-- 테마 유형: 종목해부 (한 종목 완전 분해 — 관심종목 외 발굴, 토요일 고정)
-- 핵심 주제: FIFA 월드컵 2026 개막(6/11) + USMNT 첫 경기(6/12) 직후 타이밍에 FOX Corporation($FOXA) 완전 분해. 월드컵 개막전 631만명 역대 비USMNT 최고 기록(+97%)을 앵커로, FOX의 "이벤트 경제" 비즈니스 모델(슈퍼볼→월드컵→중간선거), Tubi($440M 인수 → MAU 1억명 성장), FY2021~2025 매출 시계열, 미국·영국·독일·브라질·한국 방송권 비교, 케이블 구독자 하락 Bear case, 3촉매 투자 전략($58→$73.88) 분석.
-- 다룬 종목/기업: $FOXA (FOX Corporation), Tubi, Fox News, FOX Sports, $NFLX (비교), Pluto TV (비교)
-- 핵심 주장/결론: FOX는 P/E 11배의 "사양 산업 할인"을 받고 있지만, 월드컵 + 중간선거 이중 촉매와 Tubi 임베디드 가치(독립 평가 $30~50억)는 $73.88 평균 PT 대비 27% 상승 여력을 지지. 3단 분할 매수(USMNT 16강/Q4 어닝/선거 피크) 권장.
-- 1차 자료 출처: SEC EDGAR Fox 10-K FY2025 × 1, Fox Corp Q3 FY2026 공식 보도자료 × 1, FOX Sports 월드컵 시청률 보도자료 × 1, Fox Corp Q1 FY2026 실적 보도자료 × 1, Fox $50억 자사주매입 발표 × 1, Fox Q3 2026 Earnings Call Transcript (Motley Fool) × 1 (총 6건)
-- 판정: Minor (3개 개선점 반영 — Tubi 인수가 오기 수정, 도입부 마지막 문장 강화, 시사점 클로징 여운 강화)
+## 2026-06-18 14:00 [DEEP] (테마 클러스터: 핀테크/결제/크립토, 유형: 🎤 보이스 컴필)
+- 제목: D-30, 이자를 금지한 법이 달러를 살릴까 죽일까 — 4인의 엇갈린 선언
+- 테마 유형: 보이스 컴필 (주요 인사 발언 4인 교차 분석)
+- 핵심 주제: 2026-07-18(D-30) GENIUS Act 최종 이행 규칙 확정을 앞두고, 스테이블코인 이자 금지 조항(섹션 4(a)(11))의 해석을 둘러싼 4인의 충돌하는 목소리를 교차 분석. Allaire(Circle) "powerful tailwind", Armstrong(Coinbase) "red line", BPI/은행권 "loophole 즉시 차단", OCC "rebuttable presumption". Coinbase-Circle 수익 공유 구조($9.08억/년)를 Armstrong 강경 발언의 이면으로 조명. 스테이블코인 $30억(2019)→$3,200억(2026) 시계열 + EU·일본·한국·중국 국제 비교 수록.
+- 다룬 종목/기업: $COIN (Coinbase), $CRCL (Circle), $MA (Mastercard), $SQ (Block), $SOFI, USDT(Tether), USDC(Circle)
+- 핵심 주장/결론: 이자 논쟁의 승자가 디지털 달러의 다음 챕터를 설계한다. 7/18 이후 $COIN 고객 yield 지급 변화가 핵심 모니터링 지표. 한국 DABA 가을 입법이 국내 투자자 분기점.
+- 1차 자료 출처: Congress.gov CRS IF13174 × 1, GENIUS Act S.1582 원문 × 1, OCC NPR (Gibson Dunn 법무 분석) × 1, White House CEA 보고서 × 1, BPI 공식 서한 × 1, Circle Q1 2026 SEC 8-K × 1, Decrypt (Circle SEC 공시 기반) × 1 (총 7건)
+- 판정: Minor (4개 개선점 반영)

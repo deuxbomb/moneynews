@@ -1,168 +1,124 @@
-# 리서치 노트: FOX Corporation ($FOXA) 종목 해부
-**작성일**: 2026-06-13 (토) | 딥다이브 리서처
+# 리서치 노트 — GENIUS Act D-30: 이자를 줄 것인가, 말 것인가
+
+**작성일**: 2026-06-18 (목) | 딥다이브 리서처  
+**1차 자료 인용 건수: 7건 확보** ✅  
+1. Congress.gov CRS Report IF13174 (2026-03-06) — "The Stablecoin Yield Debate"  
+2. Congress.gov GENIUS Act 원문 S.1582 (119th Congress)  
+3. OCC NPR (2026-02-25) — GENIUS Act 이행 규칙 제안 (법무법인 공식 분석 기반)  
+4. White House CEA 보고서 (2026-04) — "Effects of Stablecoin Yield Prohibition on Bank Lending"  
+5. BPI (Bank Policy Institute) 공식 서한 — Treasury/FDIC 제출 (2026-04)  
+6. Circle Q1 2026 SEC 8-K (실적 공시)  
+7. Decrypt — Coinbase-Circle 수익 공유 구조 (Circle SEC 공시 기반)
 
 ---
 
-## 1차 자료 인용 현황 (기준: 3건 이상)
+## 테마
+**GENIUS Act D-30: 이자를 줄 것인가, 말 것인가 — 달러 스테이블코인 설계의 마지막 결전**
 
-| # | 소스 | URL | 활용 내용 |
-|---|------|-----|---------|
-| 1 | SEC EDGAR Fox Corp 10-K FY2025 | https://www.sec.gov/Archives/edgar/data/0001754301/000162828025038077/fox-20250630.htm | 사업구조, 세그먼트 정의, 리스크요인 |
-| 2 | Fox Corporation Q3 FY2026 공식 보도자료 | https://www.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-reports-third-quarter-fiscal-2026-financial-results/ | Q3 재무실적 |
-| 3 | FOX Sports 월드컵 개막전 시청률 보도자료 | https://www.foxsports.com/stories/presspass/fox-sports-scores-record-viewership-fifa-world-cup-2026-opening-match | 631만명 역대 비USMNT 최고 |
-| 4 | Fox Corp Q1 FY2026 실적 보도자료 | https://www.prnewswire.com/news-releases/fox-reports-first-quarter-fiscal-2026-revenues-of-3-74-billion-net-income-of-609-million-and-adjusted-ebitda-of-1-07-billion-302599738.html | Q1 재무실적 |
-| 5 | Fox Corporation $50억 자사주매입 추가 승인 | https://investor.foxcorporation.com/news-releases/news-release-details/fox-corporation-announces-2-billion-incremental-stock-repurchase | 2025년 8월 자본환원 정책 |
-| 6 | Fox FOXA Q3 2026 Earnings Call Transcript (Motley Fool) | https://www.fool.com/earnings/call-transcripts/2026/05/11/fox-foxa-q3-2026-earnings-call-transcript/ | CEO Murdoch 코멘트 |
+## 유형
+🎤 보이스 컴필 (4인 발언 교차 분석)
 
-1차 자료 총 6건 확보 (기준 3건 충족)
-
----
-
-## 회사 개요
-
-FOX Corporation (NASDAQ: FOXA, FOX)
-- 설립: 2019년 3월 19일 (21세기폭스로부터 분사 — 디즈니의 $713억 엔터테인먼트 자산 인수 후 남은 자산)
-- CEO: Lachlan Murdoch
-- FY 마감: 매년 6월 30일
-
-사업부문 (SEC 10-K 기준):
-1. Cable Network Programming: Fox News Channel, Fox Business Network
-2. Television: FOX 방송망, 28개 지역 방송국, Tubi (AVOD)
-3. Corporate/Other
+## 선정 이유
+2026-07-18(오늘 기준 30일 후) 미국 6개 연방기관이 최종 스테이블코인 이행 규칙을 확정해야 한다. 
+핵심 쟁점은 단 하나: **이자(yield) 금지 조항을 어떻게 해석할 것인가?**
+Circle CEO(양보파) vs Coinbase CEO(강경파) vs 은행권(전면 차단) vs OCC(중간) — 4인의 목소리가 완전히 다른 방향을 가리킨다.
+6/4 DEEP(스테이블코인 패권전쟁, 입법 순간)의 후속이지만 이제는 **법 집행 단계의 설계 논쟁**으로 다른 각도.
 
 ---
 
-## 주가 및 밸류에이션 (2026년 6월 기준)
+## 팩트 (출처 필수)
 
-주가: ~$58 (FOXA)
-시총: ~$23.73B
-TTM 매출: ~$16.1B
-이익률: 11.6%
-P/E (선행): 11.34x
-EV/EBITDA: 8.35x
-애널리스트 평균 PT: $73.88 (범위: $54~$97)
-컨센서스: Buy (8 매수 / 10 보유 / 1 매도, 총 17명)
-배당: $0.56/년 (반기 지급, 수익률 ~0.86%)
+### GENIUS Act 기본 사실
+1. GENIUS Act(Guiding and Establishing National Innovation for US Stablecoins) 2025-07-18 서명 발효. 상원 68-30 초당파 통과(2025-06-17), 하원 308-122 통과(2025-07-17). — 출처: https://www.congress.gov/bill/119th-congress/senate-bill/1582
 
----
+2. 법 발효 후 1년(= 2026-07-18)까지 OCC, FDIC, NCUA, Treasury, FinCEN, OFAC 6개 기관이 최종 이행 규칙 확정 의무. — 출처: Congress.gov S.1582, https://coinpaprika.com/news/genius-act-clock-ticking-six-agencies/
 
-## 재무 실적 (연간 — FY ends June 30)
+3. FinCEN-OFAC AML 코멘트 기간 종료 2026-06-09 (오늘 기준 9일 전 만료). 현재 6개 기관 모두 최종 규칙 작성 중. — 출처: https://en.spaziocrypto.com/stablecoins/genius-act-stablecoin-deadlines-june-july-2026/
 
-FY2021: $12.91B
-FY2022: $13.97B (카타르 월드컵, 중간선거)
-FY2023: $14.91B (슈퍼볼 LVII)
-FY2024: $13.98B (이벤트 공백)
-FY2025: $16.30B (슈퍼볼 LIX + 정치 광고 폭증)
+4. GENIUS Act 이자 금지 조항: 섹션 4(a)(11) — "Permitted Payment Stablecoin Issuers는 스테이블코인 보유·사용·유지만을 이유로 홀더에게 이자·수익(이자, 토큰, 기타 대가)을 지급할 수 없다." — 출처: GENIUS Act 법문, https://perkinscoie.com/insights/update/stablecoin-interest-yield-and-rewards-occ-proposes-sweeping-regulations-under
 
-FY2026 분기별:
-- Q1 (Jul-Sep 2025): $3.74B 매출, $1.07B EBITDA
-- Q2 (Oct-Dec 2025): $5.18B 매출 (NFL 피크, 정치광고)
-- Q3 (Jan-Mar 2026): $3.99B 매출, $954M EBITDA (Q3 역대최고), EPS $1.32 (컨센 $0.99 대비 +33% 서프라이즈)
-  - 광고 매출: $1.56B (전년 $2.04B — 슈퍼볼 기저효과, Super Bowl LIX $800M+ 포함)
-  - 유통 매출: +3% YoY (Cable +5%)
-  - Cable 세그먼트: $1.74B (+6% YoY)
-  - TV 세그먼트: $2.2B (-19% YoY, 슈퍼볼 기저)
+5. 법에서 "holder(홀더)" 정의를 명시하지 않음 → 3자 모델(발행사→거래소→투자자) 구조가 법 적용 공백 지대 형성. — 출처: CRS Report IF13174 https://www.congress.gov/crs-product/IF13174
 
----
+### OCC 규칙 제안 (1차 자료)
+6. OCC 2026-02-25 NPR: "Rebuttable presumption" 신설 제안 — 발행사가 계열사/제3자에게 이자 지급 → 그 계열사/제3자가 홀더에게 이자 지급하는 구조 = 사실상 금지 위반으로 **추정**. 반증 책임은 발행사에. — 출처: https://www.gibsondunn.com/occ-proposes-comprehensive-stablecoin-regulatory-framework-to-implement-the-genius-act/
 
-## Tubi (FOX AVOD 서비스)
+7. FDIC 2026-04-10 NPR: FDIC 관할 은행의 스테이블코인 발행 요건 확정 제안. Federal Register 발행. — 출처: https://www.federalregister.gov/documents/2026/04/10/2026-06974
 
-인수: 2020년 4월, $440M
-MAU: ~1억명 (100M)
-매출 성장: +23% YoY (Q3 FY2026)
-총 시청 시간: +19% YoY
-손익: 3분기 연속 breakeven 이상
-미국 스트리밍 시청 점유율: 2.2% (전체 7위)
-디지털 투자: $290M 미만 (전년 대비 감소 — 수익화 방향)
-사용자 특성: 절반 이상이 MZ세대
+### Coinbase-Circle 수익 구조 (핵심 팩트)
+8. Circle Q1 2026 실적: 매출 $6.94억(+20% YoY), USDC 순환량 $770억(+28% YoY), 온체인 거래량 $21.5조(+263%). 순이익 $5,500만(-15% YoY). — 출처: Circle 공식 보도자료, SEC 8-K https://www.alphaspread.com/market-news/earnings/circle-reports-q1-2026-earnings-as-usdc-circulation-and-revenue-grow
 
-AVOD 경쟁 (미국 FAST 시청 점유율):
-- FAST 전체: 미국 전체 TV 시청의 5.7%
-- Roku Channel: 2.9% (6위)
-- Tubi: 2.2% (7위)
-- Pluto TV (Paramount): 2.0% 미만
+9. Circle FY2025 총매출 $27.47억 중 준비금 수입 $26.37억(96%). 분배비용 $10.1억 중 Coinbase 지급 $9.08억(90%). — 출처: https://www.tikr.com/blog/circle-internet-group-grew-revenue-from-85-million-to-2-7-billion-in-four-years-but-the-rate-cycle-has-the-stock-down-74 (Circle SEC 공시 기반)
 
----
+10. Coinbase-Circle 계약: Coinbase 플랫폼 USDC 준비금 수입 **100%** Coinbase 귀속. 다른 채널은 50%. 2024년 Coinbase가 전체 USDC의 22% 보유(2022년 5% → 급증). — 출처: https://decrypt.co/312757/coinbase-circles-residual-usdc-reserve-revenue-filing
 
-## Fox News 메트릭
+11. 이것이 은행권이 말하는 **"loophole"**: Coinbase는 스테이블코인 발행사가 아니므로 GENIUS Act 이자 금지 조항 미적용. 고객에게 Treasury 수익 ~4~5% pass-through 제공 가능. — 출처: CRS Report IF13174, https://clsbluesky.law.columbia.edu/2025/12/11/circle-coinbase-and-the-prohibition-on-interest-under-the-genius-act/
 
-24년 연속 케이블 뉴스 1위
-Q1 2026 prime 평균 시청자: 258.5만명
-케이블 뉴스 primetime 점유율: ~60%
-97연속 분기 케이블 뉴스 1위 (Q1 2026 기준)
-FY2026 신규 프리미엄 광고주: 200+ 추가
-YoY: 소폭 하락 (구조적 케이블 감소)
+### 스테이블코인 시장 데이터
+12. 총 스테이블코인 공급량 추이:
+    - 2019년: ~$30억
+    - 2020년: ~$300억 (DeFi 붐)
+    - 2021년: ~$1,500억 (강세장)
+    - 2022년 5월: UST/LUNA 붕괴 → ~$1,200억
+    - 2023년 3월: SVB 위기, USDC 일시 depeg → $1,200억~$1,400억
+    - 2024년: $1,700억 회복
+    - 2025년 7월 (GENIUS Act): $2,200억
+    - 2026년 4월: $3,200억 돌파
+    - 2026년 5월: $3,210억 (USDT 57.96%=$1,854억, USDC ~$780억)
+    — 출처: https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026, bitcoinfoundation.org
+
+13. 스테이블코인이 전체 크립토 거래량의 75% 차지 (Q1 2026). USDT 일평균 거래량 $500억+ — 출처: CoinGlass
+
+14. 상위 5개 발행사가 전체 공급의 89.24% 장악. 99%가 USD 표시. — 출처: KuCoin
+
+### 이해관계 충돌 구조
+15. Treasury 자문위원회: 미국 transactional deposits $6.6조가 스테이블코인 위협에 "at risk". (2026년 3월 잔고 $2,810억 대비) — 출처: CRS Report IF13174
+
+16. Citi 추정: 2030년 스테이블코인 $0.5조~$3.7조. 예금 이탈 $1,820억~$9,080억. — 출처: CRS Report IF13174
+
+17. Standard Chartered: yield 허용 시 2028년까지 은행 예금 $5,000억 스테이블코인 이탈 — 출처: https://www.cnbc.com/2026/05/04/circle-jumps-16percent-on-clarity-act-compromise-that-preserves-stablecoin-rewards.html
+
+18. White House CEA 2026-04 보고서: "스테이블코인 이자 금지가 은행 대출에 미치는 영향은 과장됐다" — 은행 우려 downplay. — 출처: https://www.whitehouse.gov/research/2026/04/effects-of-stablecoin-yield-prohibition-on-bank-lending/
 
 ---
 
-## FIFA 월드컵 2026 카탈리스트
+## 직접 인용 (정확한 원문만)
 
-개막: 2026년 6월 11일 (애틀랜타)
-개막전 (멕시코 2-0 남아공):
-- 평균 시청자: 631만명 (FOX+FS1+Tubi)
-- 비USMNT 조별리그 역대 영어권 최고 기록
-- 2022 FOX 평균 조별리그 대비 +97%
-- 피크: 800만명
+1. **Brian Armstrong** (Coinbase CEO), X 포스트:
+> "We won't let anyone reopen GENIUS. Red line issue for us."
+> "It takes some serious mental gymnastics [for banks to lobby against stablecoin yield]."
+— 출처: https://www.tradingview.com/news/cointelegraph:b1d0bdd1a094b:0-coinbase-ceo-says-reopening-genius-act-is-red-line-slams-bank-lobbying/
 
-USMNT 일정:
-- vs 파라과이: 6/12 로스앤젤레스 (어제)
-- vs 호주: TBD
-- vs 튀르키예: TBD
+2. **Brian Armstrong**, Davos 2026 (2026-01-21 CoinDesk):
+> "Americans should be able to earn more money on their money."
+> "Banks should have to compete on a level playing field."
+— 출처: https://www.coindesk.com/business/2026/01/21/coinbase-ceo-brian-armstrong-spars-with-france-s-central-bank-chief-at-davos-over-the-yield-and-bitcoin-standard
 
-FOX 보유: 미국 영어 방송 독점권 104경기
-CEO Murdoch (Q3 어닝콜): "월드컵은 수익을 낼 것이다. 스폰서들의 열기가 대단하다"
-세계 총 시청자 예상: ~60억명
-FOX 목표: 1.5억 미국 시청자
-방영권 비용: 비공개
+3. **Jeremy Allaire** (Circle CEO), 2026년 5월:
+Transaction-based rewards as a **"powerful tailwind" for USDC adoption** (이자 아닌 거래 기반 리워드 옹호)
+— 출처: https://www.benzinga.com/crypto/cryptocurrency/26/05/52475777/jeremy-allaire-stablecoin-rewards-usdc-adoption
 
----
+4. **BPI** (Bank Policy Institute), Treasury/FDIC 서한 (2026-04):
+> "The requirements in the GENIUS Act... prohibiting the payment of interest and yield on stablecoins should not be evaded or undermined."
+— 출처: https://bpi.com/banks-submit-recommendations-on-treasurys-implementation-of-the-genius-act/
 
-## 2026 중간선거 카탈리스트
-
-총 선거 광고 지출 예상: $11.6B (역대 최고, 2022 $8.9B 대비 +30%)
-방송 TV 점유율: 48% (~$5.6B)
-FOX의 강점: 28개 지역 방송국 — 플로리다, 조지아, 애리조나 등 스윙스테이트
+5. **Brian Armstrong** 추가 발언 (향후 예측):
+> "The banks will actually flip and be lobbying FOR the ability to pay interest and yield on stablecoins in a few years."
+— 출처: https://finance.yahoo.com/news/coinbase-ceo-says-banks-eventually-140000885.html
 
 ---
 
-## 자본 환원
-
-2025년 8월: 자사주매입 추가 $50억 승인
-2025년 10월: $15억 가속 매입(ASR)
-FY2026 9개월(Jul 2025~Mar 2026): $19억 매입 실행
-창사 이후 총: 221M 주, $8.53B
-배당: $0.56/년
+## 관련 종목
+- **$COIN**: Coinbase — loophole 수혜자 + OCC 국법 신탁은행 = 양날의 검. OCC rebuttable presumption 확정 시 수익 모델 리스크.
+- **$CRCL**: Circle — 준비금 수입 96%, 금리 하락 + Coinbase 지급 구조가 약점. IPO 이후 마진 압박.
+- **$TSLA, $NVDA**: 간접 — BigTech의 스테이블코인 발행 = 3인 위원회(Treasury+Fed+FDIC) 만장일치 승인 필요. 사실상 차단.
+- **$SQ, $SOFI, $MA**: 결제 인프라 — 규제 명확성 확보 시 스테이블코인 결제 채택 가속.
 
 ---
 
-## 국제 방송 비교
-
-미국 (FOX): 케이블 구독 필요, Tubi 일부 무료 — 부분 무료 모델
-영국 (BBC+ITV): 104경기 모두 무료
-독일 (ARD+ZDF+MagentaTV): 공영 무료 + 텔레콤 유료 혼합
-브라질 (CazéTV on YouTube): 104경기 전부 무료 YouTube
-한국 (KBS+MBC+SBS+스포티비): 지상파 무료 + 유료 혼합
-
-YouTube 협약 (2026년 3월): FIFA — 각 경기 첫 10분 전세계 무료 제공
-
----
-
-## Bear Case 데이터
-
-케이블 구독 가구: 1억(2010) → 7,000만 이하(2025), 연 5.4% 감소
-2029년까지 2,000만 추가 이탈 예상
-케이블 TV 시청 점유율: 20% (스트리밍 48%, 방송 21.7%)
-방송 TV 시청: -0.2% YoY (2026년 3월)
-Fox News: 97분기 1위이지만 YoY 시청률 소폭 하락
-월드컵 방영권 비용: 비공개 (실제 마진 불투명)
-USMNT 조기 탈락 시 후반전 시청률 급락 선례 (2022 카타르)
-
----
-
-## 핵심 밸류에이션 관점
-
-현재 $58 vs 평균 PT $73.88 = 27% 상승 여력
-EV/EBITDA 8.35x — 전통 미디어 할인 반영
-Tubi: MAU 1억, 23% 성장, 손익분기 — 독립 평가 시 $3~5B 잠재 가치 (FOX 내 embedded)
-
-수집 완료: 2026-06-13
+## 반론/리스크
+1. 규제 불확실성 장기화 시 기관 진입 지연
+2. 이자 허용 = 예금 이탈 가속 → 신용 공급 축소
+3. OCC rebuttable presumption 확정 → $COIN 수익 모델 직격
+4. EU MiCA 선례: 규제 명확성이 곧 시장 성공은 아님
+5. 한국 DABA 지연으로 원화 스테이블코인 공백 → 달러 의존도 심화
+6. Armstrong의 "red line" 발언 = 이해충돌(Coinbase 자체 수익이 loophole에서 발생)

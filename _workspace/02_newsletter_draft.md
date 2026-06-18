@@ -1,86 +1,144 @@
-# AI가 지갑을 든 날 — '에이전트 결제' 레일 전쟁, 5인의 선언
+# D-30, 이자를 금지한 법이 달러를 살릴까 죽일까 — 4인의 엇갈린 선언
 
-> 🎤 보이스 컴필 | 2026-06-18 (목) | 핀테크·결제·크립토
+**2026-06-18 | 머뉴 딥다이브 | 🎤 보이스 컴필 | 핀테크/결제/크립토**
 
-## "에이전트 경제가 인간 경제보다 커질 수 있다" — 그 한 문장이 현실이 된 한 주
+---
 
-결제 산업에서 가장 지루한 코드 중 하나가 'HTTP 402'였습니다. "Payment Required(결제가 필요함)"라는 뜻으로 웹 초창기에 만들어졌지만, 수십 년간 쓰이지 못하고 잠들어 있던 에러 코드였죠. 그런데 이 죽은 코드가 2026년 6월, 글로벌 결제 산업의 가장 뜨거운 전쟁터의 이름이 됐습니다. 🪦➡️🔥
+## 다보스의 설전, 그리고 30일 후
 
-지난 한 주는 결제 역사에서 두고두고 회자될 겁니다. 6월 10일 **Mastercard**가 "Agent Pay for Machines"를 내놨고, 바로 다음 날인 6월 11일 **Visa**가 "Intelligent Commerce Connect"와 함께 ChatGPT 안에 결제를 심었습니다. 그 직전 6월 2일엔 리눅스 재단이 코인베이스가 주도하는 'x402 재단'을 출범시켰고요. 카드 네트워크·빅테크·크립토가 약속이라도 한 듯 같은 주에 같은 선언을 했습니다. "이제 사람이 아니라 **AI 에이전트가 직접 결제하는 시대**가 온다"고요.
+2026년 1월 21일, 다보스 세계경제포럼의 한 무대. Coinbase CEO Brian Armstrong이 프랑스 중앙은행 총재와 정면으로 맞붙었다. Armstrong이 먼저 선언했다.
 
-이 흐름을 가장 도발적으로 요약한 사람은 코인베이스 CEO 브라이언 암스트롱입니다. 그는 [crypto.news](https://crypto.news/ai-agents-could-outspend-humans-coinbase-ceo-says/)를 통해 이렇게 말했습니다. **"에이전트 경제가 인간 경제보다 커질 수 있다(The agentic economy could be larger than the human economy)."** 곧 인간보다 더 많은 AI 에이전트가 거래를 하게 될 텐데, AI는 은행 계좌를 열 수 없으니 그 거래는 크립토(스테이블코인) 위에서 돌 거란 논리였죠. 오늘은 이 한 주에 쏟아진 5인의 목소리를 나란히 놓고, 같은 미래를 향한 서로 다른 베팅을 읽어보겠습니다.
+*"Americans should be able to earn more money on their money. Banks should have to compete on a level playing field."*
 
-## 죽은 코드가 1.5조 달러 시장이 되기까지 — 9개월의 압축 성장
+중앙은행 총재가 반박했다. 스테이블코인이 이자를 지급하는 건 금융 안정성을 위협한다고. 양복 차림의 두 사람 사이엔, 5개월 뒤 미국 의회를 통과할 법률의 씨앗이 자라고 있었다.
 
-에이전트 결제는 갑자기 튀어나온 게 아닙니다. 불과 9개월의 압축된 타임라인이 있죠. 📅
+지금으로부터 정확히 **30일 후인 2026년 7월 18일**, 그 법률 — GENIUS Act — 의 최종 이행 규칙이 확정된다. OCC, FDIC, NCUA, Treasury, FinCEN, OFAC 6개 연방기관이 동시에 마감일을 맞는다. 스테이블코인 이자를 "어디까지 금지하는가"를 정의하는 규칙이다.
 
-시작은 2025년 9월 16일, **Google**이 'Agent Payments Protocol(AP2)'을 60개+ 파트너와 함께 발표하면서였습니다. Mastercard·PayPal·Coinbase·아메리칸익스프레스·Salesforce가 모두 이름을 올렸죠. AP2는 에이전트끼리 대화하는 A2A 프로토콜과 MCP의 확장으로 작동하는데, 핵심은 세 가지 질문을 푸는 겁니다 — 사용자가 정말 이 에이전트에게 이 구매 권한을 줬는가(**Authorization**), 에이전트의 요청이 사용자의 진짜 의도를 반영하는가(**Authenticity**), 사고가 나면 누가 책임지는가(**Accountability**). Google은 여기에 코인베이스·이더리움 재단·메타마스크와 함께 'A2A x402 extension'을 붙여 스테이블코인 결제까지 1급 결제수단으로 끌어들였습니다([Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)).
+다보스에서 시작된 설전은 이제 행정기관 회의실에서 계속되고 있다. 2026년 6월 9일, FinCEN-OFAC AML 코멘트 기간이 마감됐다. 30일 후면 결론이 나온다. 그 결론은 현재 총 공급량 **$3,200억**에 달하는 스테이블코인 시장의 판도를 뒤바꾼다. ([KuCoin](https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026)) 지금 이 글을 읽는 당신에게 직결된 이야기다.
 
-그 다음은 빨랐습니다. 2026년 2월 11일 코인베이스가 x402 위에 'Agentic Wallets'를 올렸고, 4월엔 'Agentic.Market'을 열었습니다. 6월 현재 이 마켓에서만 **1억 6,500만 건의 거래**가 일어났고 **48만 개의 에이전트**가 거래에 참여했습니다([crypto.news](https://crypto.news/ai-agents-could-outspend-humans-coinbase-ceo-says/)). 코인베이스가 처리하는 스테이블코인 결제는 연 환산 **약 1조 달러**에 이릅니다([The Defiant](https://thedefiant.io/news/cefi/brian-armstrong-says-coinbase-processes-usd1t-in-stablecoin-payments-annually)). 네이버페이·카카오페이·토스의 연간 간편결제 총액(약 100조원, 700억 달러 안팎)과 견줘도 한 회사가 그 10배가 넘는 스테이블코인을 굴리고 있다는 뜻이죠.
+---
 
-숫자가 가리키는 방향은 분명합니다. Juniper Research는 에이전틱 커머스 거래액이 2026년 **80억 달러**에서 2030년 **1.5조 달러**로 폭증할 거라 봤고([Juniper](https://www.juniperresearch.com/press/agentic-commerce-set-to-generate-15-trillion-globally-by-2030-as-payments-infrastructure-leaders-revealed/)), McKinsey는 더 공격적으로 2030년까지 최대 **5조 달러** 매출을 전망합니다([McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-agentic-commerce-opportunity-how-ai-agents-are-ushering-in-a-new-era-for-consumers-and-merchants)). 좀 더 보수적인 Morgan Stanley조차 2030년 미국 이커머스에서만 1,900억~3,850억 달러를 예측하죠([Morgan Stanley](https://www.morganstanley.com/insights/articles/agentic-commerce-market-impact-outlook)). 죽었던 402 코드가 4년 만에 조 단위 시장의 문패가 된 셈입니다.
+## $30억에서 $3,200억 — 스테이블코인이 10년 만에 세상의 달러가 된 법
 
-이 시계열의 진짜 변곡점이 바로 지난주였습니다. **Mastercard**의 Agent Pay for Machines는 AI 에이전트가 '머신 속도'로 1센트 미만의 마이크로트랜잭션까지 결제하게 해주는 멀티레일 서비스로, 30개+ 파트너와 함께 출시됐습니다. 카드부터 Circle USDC·Paxos PYUSD·USDG·USDP·Ripple RLUSD·SoFiUSD 등 **6종 스테이블코인**까지 정산을 지원하죠([Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/mastercard-taps-coinbase-ripple-crypto-222300868.html)). 마스터카드 블록체인·디지털자산 담당 부사장 라지 다모다란은 [CoinDesk](https://www.coindesk.com/business/2026/06/10/mastercard-prepares-for-a-future-where-ai-agents-make-payments-with-latest-introduction)에 **"우리는 이미 다양한 제품과 서비스를 제공하는 수많은 서비스와 에이전트가 등장하는 걸 보고 있다"**고 말했습니다 — 여행 예약부터 웹사이트 제작, 아트워크 생성까지요.
+숫자가 놀랍다. 2019년 전체 스테이블코인 공급은 고작 **$30억** 수준이었다. DeFi 붐이 덮친 2020년에 $300억, 강세장의 2021년엔 $1,500억까지 치솟았다. 그러다 2022년 5월, 테라/루나 붕괴가 덮쳤다. $1,200억으로 급락했고, 2023년 3월엔 실리콘밸리은행(SVB) 사태로 USDC가 한때 달러 연동이 끊기는 충격도 겪었다.
 
-같은 발표에 참여한 스테이블코인 인프라 기업 BVNK의 공동창업자 크리스 함세는 한 발 더 나갔습니다. **"기업들이 점점 더 AI 에이전트를 통해 거래하면서 상거래의 근본적 전환이 일어나고 있다"**며 **"BVNK는 스테이블코인이 이 변화를 가능케 하는 강력한 역할을 하리라 믿는다 — 가치가 움직이는 방식에 더 빠른 속도와 프로그래밍 가능성(programmability), 효율을 가져다줄 것"**이라 했죠([Mastercard](https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html)).
+그런데 흔들릴 때마다 시장은 더 강하게 돌아왔다. 2024년 $1,700억으로 회복했고, 2025년 7월 GENIUS Act 발효를 전후해 $2,200억을 돌파했다. 그리고 2026년 4월, **$3,200억** 선을 처음 넘었다. 2019년 대비 100배 이상 성장한 숫자다.
 
-## "프론트엔드는 AI, 백엔드는 스테이블코인" — 미국이 그린 지도, 한국이 놓친 출발선
+왜 이렇게 폭발적으로 성장했을까? 스테이블코인은 이제 "달러의 디지털 복사본"을 넘어 글로벌 금융 인프라가 됐다. **전체 크립토 거래량의 75%** 가 스테이블코인 기반으로 이루어지고, USDT는 하루 거래량 $500억이 넘는다. 99%가 달러 표시. 사실상 디지털 달러 생태계가 완성된 셈이다.
 
-가장 큰 그림을 그린 건 **Visa**였습니다. 6월 11일 Visa는 'Intelligent Commerce Connect'로 가맹점·에이전트 개발자가 단 한 번의 통합으로 에이전틱 커머스에 올라타게 했습니다. Trusted Agent Protocol, Machine Payments Protocol, Agentic Commerce Protocol, Universal Commerce Protocol — 무려 4대 에이전트 프로토콜을 한 번에 지원하죠([thepaypers](https://thepaypers.com/payments/news/visa-launches-intelligent-commerce-connect-for-agentic-payments)). 같은 날 OpenAI와 손잡고 ChatGPT 안에 Visa 결제를 심어, 챗봇이 추천을 넘어 직접 구매를 완료할 수 있게 했습니다([Fortune](https://fortune.com/2026/06/11/visa-chatgpt-ai-agent-payments-shopping/)).
+그런데 여기에 거대한 아이러니가 있다. 이 $3,200억짜리 시장이 **"이자를 못 받는"** 구조로 설계됐다. GENIUS Act 섹션 4(a)(11)은 명시한다. 스테이블코인 발행사는 보유자에게 이자·수익을 지급할 수 없다고. 미국 연방 법률이 현재 은행 예금 금리(약 4.5%)에 접근할 수 없게 만든 것이다. ([Congress.gov CRS IF13174](https://www.congress.gov/crs-product/IF13174))
 
-Visa 최고제품·전략책임자 잭 포레스텔의 발언은 이 전쟁의 스케일을 단번에 보여줍니다. **"AI는 인터넷이나 모바일 기술이 그랬던 것보다 더 깊게 상거래를 바꿔놓을 것이다."** 그리고 결정적인 한 줄. **"AI는 상거래의 프론트엔드를 바꾸고 있고, 스테이블코인은 백엔드를 다시 짜고 있다(AI is transforming the front end of commerce. Stablecoins are reshaping the back end)."**([PYMNTS](https://www.pymnts.com/visa/2026/visa-launches-ai-and-stablecoin-tools-to-power-agentic-commerce/)) 카드 네트워크가 스스로 "우리 백엔드는 스테이블코인이 다시 짠다"고 인정한 것 — 이게 이번 주의 진짜 사건입니다.
+그러자 **Coinbase**가 칼을 찾았다. 법이 금지하는 건 "발행사"의 이자 지급이다. Coinbase는 발행사가 아니라 거래소다. Circle(USDC 발행사)에서 받은 준비금 수익을 고객에게 pass-through로 제공하면 된다. 현재 약 **4~5% Treasury 수익**을 이 방식으로 지급 중이다. 이것이 은행권이 말하는 "loophole"이고, OCC가 30일 안에 막을 수도 있는 구멍이다.
 
-그렇다면 한국은? 흥미롭게도 한국은 이 게임의 '선수'이자 동시에 '지각생'입니다. 🇰🇷 **카카오페이**는 6월 2일(미 동부시간) 출범한 리눅스 재단 'x402 재단'에 국내 결제사 중 처음이자 한국 기업 중 유일하게 창립멤버로 합류했습니다([플래텀](https://platum.kr/archives/284819) · [뉴스1](https://www.news1.kr/it-science/general-it/6126308)). 코인베이스·서클·솔라나·구글·AWS·MS·Visa·Mastercard·Stripe·Shopify가 함께한 그 명단에 카카오페이 이름이 올라간 거죠. 네이버페이·카카오페이·토스의 연간 순수 간편결제 거래액은 처음으로 **100조원**을 넘어섰고([파이낸셜뉴스](https://www.fnnews.com/news/202601011803461679)), 카카오그룹·토스는 원화 스테이블코인 TF까지 가동 중입니다.
+최근 3년(2023~2026)의 흐름을 정리하면 이렇다. 2023년: 규제 혼돈 속 시장 회복. 2024년: 비트코인 현물 ETF 승인 이후 기관 자금 유입. 2025년: GENIUS Act 입법으로 법적 프레임워크 확립. 2026년: 이제 세부 규칙 설계 단계. 스테이블코인은 "발명"에서 "규제"를 지나, 지금 "설계"의 마지막 단계에 와 있다.
 
-문제는 출발선입니다. 헤럴드경제 [크립토360](https://biz.heraldcorp.com/article/10759999)의 진단은 뼈아픕니다 — **"네이버·카카오·토스 기술력은 충분한데"** 한국은 왜 늦느냐는 거죠. 이유는 셋입니다. ① **망분리 규제**로 금융사가 최신 AI를 신용정보에 적용하기 어렵고, ② 자동결제 오류 시 **책임 소재**가 불명확한 데다 현행 구조는 모든 책임을 금융사가 지며, ③ 결정적으로 **법제 자체가 없습니다**([바이라인네트워크](https://byline.network/2026/05/0528-6/)). 다행히 정부가 움직였습니다. 금융 AI '7대 원칙'이 6월 22일 시행되며 망분리 완화와 AX 규율체계 구축에 속도가 붙습니다([전자신문](https://www.etnews.com/20260618000036)). 중국은 어떨까요? 마스터카드 Agent Pay 초기 파트너 명단에 앤트 인터내셔널(Ant International)이 이미 올라 있어, 아시아 결제 거인도 이 레일 위에 발을 걸쳐둔 상태입니다.
+---
 
-## "12곳"이라는 숫자 — 거대한 비전과 초라한 현실 사이
+## 유럽은 왜 실패했고, 한국은 왜 아직도 싸우고 있나
 
-여기까지만 보면 에이전트 결제는 이미 도착한 미래 같습니다. 하지만 반대편 목소리, 그것도 가장 앞서 달리던 주자의 후퇴를 봐야 균형이 잡힙니다. 🐻
+미국의 이 논쟁이 전 세계에 미치는 파장을 이해하려면 다른 나라들의 현황을 먼저 봐야 한다.
 
-바로 **OpenAI**입니다. OpenAI는 2025년 9월 ChatGPT에 'Instant Checkout(즉시 결제)'을 야심차게 띄웠지만, 2026년 3월 5~6개월 만에 사실상 접고 상품 '발견' 중심으로 방향을 틀었습니다. 충격적인 건 숫자입니다. Shopify의 **수백만** 가맹점 중 실제로 라이브였던 곳은 **약 12곳**뿐이었죠([CNBC](https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html)). OpenAI는 "초기 버전이 우리가 지향하는 수준의 유연성을 제공하지 못했다"고 인정했습니다. 사용자는 ChatGPT에서 리서치는 해도 구매는 안 했고, 수백만 SKU의 실시간 재고 동기화는 "10년짜리 난제"였으며, 세금·사기 방지 메커니즘조차 없었습니다.
+**유럽 — 규제 명확성이 시장 성공을 보장하지 않는다**
 
-회의론의 핵심은 세 갈래입니다. 첫째, **신뢰 격차**. 소비자는 수십 년간 아마존 원클릭과 애플페이에 길들여져 있어 챗봇에 카드를 맡기는 데 본능적 거부감이 있습니다. 포레스텔조차 "추천을 넘어 실제 구매까지 가려면 완전히 다른 수준의 신뢰가 필요하다"며 초기엔 다수 거래가 여전히 인간 승인을 거칠 거라 했죠([Fortune](https://fortune.com/2026/06/11/visa-chatgpt-ai-agent-payments-shopping/)). 둘째, **새로운 사기 벡터**. IMF는 최근 노트에서 프롬프트 인젝션 같은 공격으로 에이전트가 탈취되면 전통적 사기 탐지 모델이 무력화될 수 있다고 경고했습니다([IMF Note 2026/004](https://www.imf.org/-/media/files/publications/imf-notes/2026/english/insea2026004.pdf)). 셋째, **수요 미성숙**. 마이크로페이먼트에 대해 "demand is just not there yet(수요가 아직 없다)"는 냉정한 평가도 있습니다([CoinDesk](https://www.coindesk.com/markets/2026/03/11/coinbase-backed-ai-payments-protocol-wants-to-fix-micropayment-but-demand-is-just-not-there-yet)).
+EU는 2024년 12월 MiCA(Markets in Crypto-Assets) 스테이블코인 조항을 발효했다. 선제적 입법이었다. 7개국에서 14개 발행사가 인가를 받고 약 20개 규정 준수 스테이블코인이 유통 중이다. 2026년 7월 1일부터는 DAC8 세금 신고까지 의무화된다. 겉보기엔 성공적이다.
 
-그래서 이번 주 카드사들의 총공세를 다르게 읽을 수도 있습니다. OpenAI가 혼자 풀려다 실패한 '신뢰·정산·사기 방지'라는 난제를, Visa·Mastercard가 수십 년 쌓은 인프라로 대신 풀어주겠다는 신호라고요. 비전(1.5조 달러)과 현실(가맹점 12곳) 사이의 거리 — 이 간극을 메우는 자가 시장을 가져갈 겁니다.
+그런데 결과가 씁쓸하다. 유로 스테이블코인은 달러 패권을 극복하지 못하고 있다. 규제가 선명해졌지만, 유동성·네트워크 효과·무역 거래에서 달러 스테이블코인의 구조적 우위는 그대로다. 프랑스 중앙은행 총재가 다보스에서 Armstrong과 맞붙은 건 이 현실에 대한 불안 때문이었다. 달러 스테이블코인이 이자까지 지급하기 시작하면, 유럽 자국 통화 기반 디지털 금융의 공간이 더 좁아진다.
 
-## 카드망의 종말이 아니라 카드망의 변신 — 그래서 무엇을 사는가
+**일본 — 은행 중심 신중 접근**
 
-투자자에게 이번 주의 메시지는 명확합니다. "AI 에이전트가 카드사를 죽인다"는 오랜 베어 내러티브가, 적어도 단기적으로는 뒤집혔다는 것. Visa와 Mastercard는 디스럽션당하는 대신 **에이전트 경제의 레일 제공자**로 변신하며 정면돌파를 택했습니다. 💳
+2023년 6월 자금결제법 개정 이후, 일본 금융청은 기존 금융기관 중심의 스테이블코인 발행을 지원한다. 2025년 11월엔 3대 시중은행이 스테이블코인 발행을 추진하기 시작했다. 보수적이지만 안정적. 혁신보다 시스템 안정을 택한 모델이다.
 
-가장 직접적인 픽앤쇼블은 **$V**와 **$MA**입니다. 둘 다 카드와 스테이블코인을 모두 품는 멀티레일로 갔다는 게 핵심이죠. 특히 마스터카드가 1센트 미만 마이크로트랜잭션까지 잡으러 간 건, 인간 결제에선 불가능했던 새 거래 영역(에이전트가 데이터·API·컴퓨팅을 잘게 사는 시장)을 노린 포석입니다. 스테이블코인 레일 자체에 베팅한다면 **$COIN**(x402 표준 주도, 연 1조 달러 처리 — 단 머뉴 와치리스트 종목이니 별도 모니터링 중)과 USDC 발행사 **$CRCL**(Circle)이 핵심 길목입니다. 반대로 **$PYPL**은 AP2 파트너이긴 하나 6월 17일 벤처 부문을 정리하는 등 구조조정 한가운데라 이 사이클에선 상대적 열위로 보입니다([TechCrunch](https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/)).
+**한국 — 원화 스테이블코인의 권력 다툼**
 
-한국 투자자라면 **카카오페이(377300.KS)**를 주목할 만합니다. x402 재단 국내 유일 창립멤버라는 상징성에, 6월 22일 금융 AI 7대 원칙 시행이 규제 족쇄를 풀어주는 촉매가 될 수 있죠. 네이버페이를 품은 **네이버(035420.KS)** 역시 법제화가 진행되면 100조원 간편결제 기반 위에서 잠재 수혜를 누릴 후보입니다. 다만 "기술력은 충분한데"라는 표현이 곧 "아직 매출은 없다"는 뜻임을 잊지 마세요.
+한국의 상황은 미국의 이자 논쟁과 구조적으로 닮아 있다. 한국은행(BOK)과 금융위원회(FSC)가 맞붙고 있다. BOK는 스테이블코인 발행 은행에 51% 이상 지분을 요구한다. 금융 안정성 우선. FSC는 반대한다. 기술력 있는 핀테크도 참여해야 경쟁력이 생긴다고. ([CoinDesk](https://www.coindesk.com/policy/2025/12/30/south-korea-s-long-awaited-crypto-law-stalls-over-who-can-issue-stablecoins))
 
-**머뉴's Advice 💡**
-1. **레일 vs 신뢰를 구분하라.** 단기 수혜는 신뢰·정산 인프라를 쥔 $V·$MA에, 장기 옵션은 스테이블코인 레일($COIN·$CRCL)에 있습니다. 둘은 경쟁이 아니라 프론트엔드-백엔드로 한 몸이 되어갑니다.
-2. **'가맹점 12곳'을 체크포인트로 삼아라.** 진짜 신호는 발표가 아니라 채택률입니다. Mastercard Agent Pay 거래량, Visa Intelligent Commerce 정식 출시, x402 재단 실거래 데이터가 비전과 현실의 간극을 좁히는지 분기마다 확인하세요.
-3. **한국은 '법제화 트리거'를 기다려라.** 카카오페이·네이버는 기술이 아니라 규제가 변수입니다. 6월 22일 7대 원칙 시행과 원화 스테이블코인 입법 일정이 매수 타이밍의 방아쇠입니다.
+이재명 대통령은 원화 스테이블코인을 국가 프로젝트로 지정했다. 달러 스테이블코인 의존도를 줄이기 위해서다. 법안은 올해 가을 국회 제출 목표. 하지만 BOK-FSC 갈등이 해결되지 않으면 일정이 더 밀릴 수 있다. 결국 한국이 미적거리는 동안, USDC와 USDT는 한국인 투자자의 지갑을 더 깊이 파고든다.
 
-죽었던 402 코드가 다시 깨어났습니다. 질문은 더 이상 "AI가 결제할 것인가"가 아니라, "그 결제가 카드 위로 흐를 것인가, 스테이블코인 위로 흐를 것인가"입니다. 당신의 지갑은, 이미 그 답을 고르고 있을지도 모릅니다. 🤖💸
+**중국 — 프라이빗 금지, 위안 패권 도전**
+
+중국은 가장 극단적 선택을 했다. 사적 스테이블코인 전면 금지. 디지털 위안(e-CNY)을 국가 프로젝트로 밀어붙인다. 2025년 말 기준 300만 지갑, 누적 거래 16.7조 위안. 홍콩·상하이에서 위안 스테이블코인 파일럿도 검토 중이다. 하지만 달러 스테이블코인의 글로벌 네트워크를 위안으로 대체하기엔 갈 길이 멀다.
+
+**국제 비교의 핵심 결론**: 이자 논쟁의 승자가 곧 디지털 달러 패권의 설계자다. 이자를 줄 수 있는 달러 스테이블코인이 탄생한다면, 유럽·한국·중국이 각자 추진하는 자국 통화 디지털화 전략은 더 불리한 지형에서 경쟁하게 된다.
+
+---
+
+## 이해관계의 충돌 — 4인이 같은 법을 다르게 읽는 이유
+
+이제 핵심 논쟁으로 들어가보자. 4인의 발언을 이면의 이해관계와 함께 교차 분석한다.
+
+**🟢 Jeremy Allaire (Circle CEO) — "이자 없어도 괜찮아요, 우린 다른 길이 있어요"**
+
+Allaire는 GENIUS Act의 이자 금지를 *"powerful tailwind"*로 프레이밍했다. ([Benzinga](https://www.benzinga.com/crypto/cryptocurrency/26/05/52475777/jeremy-allaire-stablecoin-rewards-usdc-adoption)) 이자 대신 거래 기반 리워드·로열티를 통해 USDC 채택을 확산시키겠다는 전략. "수동적 보유에 이자를 주는 게 아니라, 실제 사용에 보상을 준다" — 철학적으로도 맞는 말처럼 들린다.
+
+하지만 Allaire의 속내를 들여다보면 층위가 있다. Circle FY2025 총매출 $27.47억 중 준비금 수입이 **96%($26.37억)**를 차지한다. 이자 금지는 Circle 자체엔 큰 타격이 없다. Circle은 발행사라서 어차피 이자를 못 준다. 진짜 위협은 OCC 규칙이 Coinbase의 pass-through 구조를 차단하는 것이다. 그렇게 되면 최대 파트너이자 유통 채널인 Coinbase가 위축되고, 결국 USDC 수요도 줄어든다. Allaire는 갈등을 피하고 타협의 길을 모색하는 포지션이다.
+
+**🔴 Brian Armstrong (Coinbase CEO) — "GENIUS Act 건드리면 전쟁이다"**
+
+Armstrong의 발언은 훨씬 강경하다. X 포스트에서 직접 선언했다. ([CoinTelegraph](https://www.tradingview.com/news/cointelegraph:b1d0bdd1a094b:0-coinbase-ceo-says-reopening-genius-act-is-red-line-slams-bank-lobbying/))
+
+*"We won't let anyone reopen GENIUS. Red line issue for us."*
+*"It takes some serious mental gymnastics for banks to lobby against stablecoin yield."*
+
+왜 이렇게 강경할까? Coinbase의 수익 구조를 보면 이해된다. Circle은 Coinbase 플랫폼에서 유통되는 USDC의 준비금 수입 **100%**를 Coinbase에 귀속시킨다. 다른 채널은 50%. FY2024 Circle이 Coinbase에 지급한 금액만 **$9.08억**이다. ([Decrypt](https://decrypt.co/312757/coinbase-circles-residual-usdc-reserve-revenue-filing)) Coinbase가 고객에게 ~4~5% Treasury 수익을 pass-through로 제공할 수 있는 건 바로 이 구조 덕분이다. Armstrong의 "red line"은 곧 Coinbase 수익의 생명선을 지키겠다는 선언이다.
+
+Armstrong은 역발상도 꺼냈다. *"The banks will actually flip and be lobbying FOR the ability to pay interest and yield on stablecoins in a few years."* ([Yahoo Finance](https://finance.yahoo.com/news/coinbase-ceo-says-banks-eventually-140000885.html)) 은행들도 결국 스테이블코인 이자를 원하게 될 것이라는 예측. 지금의 반발이 임시방편일 뿐이라는 논리다.
+
+**⚫ BPI / 은행권 — "법의 허점을 지금 당장 막아야 한다"**
+
+Bank Policy Institute(BPI)는 Treasury와 FDIC에 서한을 보냈다. ([BPI](https://bpi.com/banks-submit-recommendations-on-treasurys-implementation-of-the-genius-act/))
+
+*"The requirements in the GENIUS Act... prohibiting the payment of interest and yield on stablecoins should not be evaded or undermined."*
+
+은행권의 논리는 명확하다. GENIUS Act가 이자 금지를 명시했는데, Coinbase가 "발행사가 아니라서" 면제된다는 건 입법 취지를 훼손한다. CRS Report(IF13174)도 "GENIUS Act가 '홀더' 정의를 명시하지 않아 3자 모델이 법적 공백 지대를 형성했다"고 기록했다. Treasury 자문위원회는 미국 transactional deposits **$6.6조**가 스테이블코인 위협에 노출됐다고 판단한다. Citi는 2030년까지 최대 **$9,080억**이 이탈할 수 있다고 추정한다. ([Congress.gov CRS IF13174](https://www.congress.gov/crs-product/IF13174)) 은행들이 "mental gymnastics"를 감수하며 로비하는 이유다.
+
+**🟡 OCC — "중간이지만, 쐐기를 박는다"**
+
+OCC는 2026년 2월 25일 NPR에서 "rebuttable presumption"을 도입했다. 발행사가 계열사/제3자에 이자를 주고, 그 제3자가 홀더에게 이자를 지급하는 구조는 금지 위반으로 **추정**한다는 것이다. ([Gibson Dunn](https://www.gibsondunn.com/occ-proposes-comprehensive-stablecoin-regulatory-framework-to-implement-the-genius-act/)) 이 규칙이 확정되면 Circle-Coinbase 구조가 직격탄을 맞을 수 있다. 단, "rebuttable(반증 가능)"이라는 여지가 있어 7/18 최종 규칙의 예외 조항이 관건이다.
+
+흥미로운 반전: 백악관 CEA(경제자문위원회)는 2026년 4월 보고서에서 "스테이블코인 이자 금지가 은행 대출에 미치는 영향은 과장됐다"고 downplay했다. 트럼프 행정부 안에서도 의견이 갈린다.
+
+---
+
+## D-30이 끝나면 — 투자자가 지금 해야 할 질문
+
+이 논쟁은 결국 하나의 경제적 질문으로 수렴한다. **스테이블코인 이자가 허용되면 은행 예금이 얼마나 빠져나가는가?**
+
+**낙관론(Bull)**: 백악관이 과장이라고 했다. USDC 순환량은 Q1 2026 기준 이미 **$770억(+28% YoY)**으로 이자 금지 속에서도 성장 중이다. 시장은 이미 답을 내리고 있다는 신호. Standard Chartered의 $5,000억 예금 이탈 추산도 "yield 완전 허용" 극단 시나리오라는 점을 감안해야 한다.
+
+**비관론(Bear)**: 그러나 Citi의 $9,080억 이탈 추산, $6.6조 위협 예금 수치는 무시하기 어렵다. 신용 공급 위축과 금리 상승은 크립토 시장만의 이야기가 아니라 전체 경제의 문제가 된다. OCC rebuttable presumption이 강화되면 $COIN의 핵심 수익 구조가 흔들린다.
+
+**$COIN (Coinbase)**: 양날의 검. OCC rebuttable presumption 강화 시 고객 yield pass-through 구조가 위협받는다. 반면 2026년 OCC 국법 신탁은행 면허 취득으로 제도권 진입을 완성했다. 기관 채택 가속이라는 더 큰 흐름의 수혜자이기도 하다. **7/18 이후 고객 이자 지급이 실제로 바뀌는지가 핵심 모니터링 지표.**
+
+**$CRCL (Circle)**: 준비금 수입 96% 의존, Coinbase 지급 구조, 금리 사이클 — 세 변수 모두 불확실하다. 7/18 이후 두 회사 계약 재조정 여부를 주목하자.
+
+**규제 명확성 수혜주**: $MA(Mastercard), $SQ(Block), $SOFI — 이자 논쟁과 별개로, 규제 프레임워크 확립 자체가 기업의 스테이블코인 결제 채택을 가속시킨다. 발행 리스크 없이 인프라 포지션을 가져가는 전략이 안전할 수 있다.
+
+30일 후, 이 논쟁의 한쪽이 이길 것이다. 그 승자가 디지털 달러의 다음 챕터를 설계한다. 과연 달러는 이자를 줄 수 있는 화폐가 될 것인가, 아니면 그냥 빠른 결제 수단으로만 남을 것인가 — 그 답이 30일 후 워싱턴에서 나온다.
+
+---
+
+## 머뉴's Advice
+
+**① 7월 18일을 투자 이벤트로 표기해두자**: 최종 규칙 확정 직후 $COIN·$CRCL의 반응이 시장의 실질 영향 판단 기준이 된다. 규칙이 "soft"하면 두 종목 모두 반등, "hard"하면 $COIN 조정·$CRCL 중립 가능.
+
+**② Armstrong의 "red line"을 글자 그대로 믿지 말자**: Coinbase 수익의 핵심 구조가 달린 문제라 과장된 언어를 쓸 유인이 있다. 실제 OCC 규칙 원문과 Coinbase 공식 대응을 직접 확인하는 습관이 필요하다.
+
+**③ 한국 투자자라면 DABA 입법 일정도 추적하자**: 원화 스테이블코인이 늦어지면 국내 핀테크(카카오페이, 토스 등)의 달러 스테이블코인 생태계 종속이 심화된다. 가을 국회 제출 여부가 다음 분기점.
+
+---
 
 ## 출처
-- Google Cloud 공식 블로그 — AP2 발표: https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
-- Mastercard 공식 보도자료 — Agent Pay for Machines: https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html
-- CoinDesk — Mastercard agentic payments(다모다란 발언): https://www.coindesk.com/business/2026/06/10/mastercard-prepares-for-a-future-where-ai-agents-make-payments-with-latest-introduction
-- Yahoo Finance — Mastercard 6종 스테이블코인: https://finance.yahoo.com/markets/crypto/articles/mastercard-taps-coinbase-ripple-crypto-222300868.html
-- thepaypers — Visa Intelligent Commerce Connect: https://thepaypers.com/payments/news/visa-launches-intelligent-commerce-connect-for-agentic-payments
-- Fortune — Visa·ChatGPT 에이전트 결제: https://fortune.com/2026/06/11/visa-chatgpt-ai-agent-payments-shopping/
-- PYMNTS — Visa 포레스텔 발언: https://www.pymnts.com/visa/2026/visa-launches-ai-and-stablecoin-tools-to-power-agentic-commerce/
-- crypto.news — 암스트롱 "에이전트 경제" 발언/Agentic.Market 수치: https://crypto.news/ai-agents-could-outspend-humans-coinbase-ceo-says/
-- The Defiant — 코인베이스 연 1조 달러 스테이블코인: https://thedefiant.io/news/cefi/brian-armstrong-says-coinbase-processes-usd1t-in-stablecoin-payments-annually
-- CNBC — OpenAI Instant Checkout 후퇴: https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html
-- CoinDesk — 마이크로페이먼트 수요 회의론: https://www.coindesk.com/markets/2026/03/11/coinbase-backed-ai-payments-protocol-wants-to-fix-micropayment-but-demand-is-just-not-there-yet
-- IMF Note 2026/004 — How Agentic AI Will Reshape Payments: https://www.imf.org/-/media/files/publications/imf-notes/2026/english/insea2026004.pdf
-- Juniper Research — 에이전틱 커머스 1.5조 달러 전망: https://www.juniperresearch.com/press/agentic-commerce-set-to-generate-15-trillion-globally-by-2030-as-payments-infrastructure-leaders-revealed/
-- McKinsey — 에이전틱 커머스 5조 달러 전망: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-agentic-commerce-opportunity-how-ai-agents-are-ushering-in-a-new-era-for-consumers-and-merchants
-- Morgan Stanley — 에이전틱 커머스 임팩트: https://www.morganstanley.com/insights/articles/agentic-commerce-market-impact-outlook
-- 플래텀 — 카카오페이 x402 재단 합류: https://platum.kr/archives/284819
-- 뉴스1 — 카카오페이 x402 재단 창립멤버: https://www.news1.kr/it-science/general-it/6126308
-- 파이낸셜뉴스 — 네카토 간편결제 100조원: https://www.fnnews.com/news/202601011803461679
-- 헤럴드경제 크립토360 — 한국 지연 이유: https://biz.heraldcorp.com/article/10759999
-- 바이라인네트워크 — 금융사 AI 도입 부진(망분리): https://byline.network/2026/05/0528-6/
-- 전자신문 — 금융 AI 7대 원칙 6/22 시행: https://www.etnews.com/20260618000036
-- TechCrunch — PayPal Ventures 정리: https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/
 
-<!-- slack_trigger: 2026-06-18 deep -->
+- [Congress.gov CRS Report IF13174](https://www.congress.gov/crs-product/IF13174) — "The Stablecoin Yield Debate" (2026-03-06)
+- [Congress.gov](https://www.congress.gov/bill/119th-congress/senate-bill/1582) — GENIUS Act S.1582 원문
+- [Gibson Dunn](https://www.gibsondunn.com/occ-proposes-comprehensive-stablecoin-regulatory-framework-to-implement-the-genius-act/) — OCC NPR 분석
+- [White House](https://www.whitehouse.gov/research/2026/04/effects-of-stablecoin-yield-prohibition-on-bank-lending/) — CEA 보고서 (2026-04)
+- [BPI](https://bpi.com/banks-submit-recommendations-on-treasurys-implementation-of-the-genius-act/) — 은행권 공식 서한
+- [AlphaSpread](https://www.alphaspread.com/market-news/earnings/circle-reports-q1-2026-earnings-as-usdc-circulation-and-revenue-grow) — Circle Q1 2026 실적
+- [Decrypt](https://decrypt.co/312757/coinbase-circles-residual-usdc-reserve-revenue-filing) — Coinbase-Circle 수익 공유 구조
+- [KuCoin](https://www.kucoin.com/blog/Stablecoin-Liquidity-Hits-$320B-Milestone-in-May-2026) — 스테이블코인 시장 현황
+- [CoinDesk](https://www.coindesk.com/business/2026/01/21/coinbase-ceo-brian-armstrong-spars-with-france-s-central-bank-chief-at-davos-over-the-yield-and-bitcoin-standard) — Armstrong at Davos
+- [CoinTelegraph](https://www.tradingview.com/news/cointelegraph:b1d0bdd1a094b:0-coinbase-ceo-says-reopening-genius-act-is-red-line-slams-bank-lobbying/) — Armstrong "red line"
+- [Yahoo Finance](https://finance.yahoo.com/news/coinbase-ceo-says-banks-eventually-140000885.html) — Armstrong "banks will flip"
+- [Benzinga](https://www.benzinga.com/crypto/cryptocurrency/26/05/52475777/jeremy-allaire-stablecoin-rewards-usdc-adoption) — Allaire "powerful tailwind"
+- [CoinDesk](https://www.coindesk.com/policy/2025/12/30/south-korea-s-long-awaited-crypto-law-stalls-over-who-can-issue-stablecoins) — 한국 DABA 지연
