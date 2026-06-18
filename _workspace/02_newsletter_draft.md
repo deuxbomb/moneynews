@@ -1,112 +1,86 @@
-매파의 점도표가 떨어진 밤 — 크립토는 둘로 갈라졌다
+# AI가 지갑을 든 날 — '에이전트 결제' 레일 전쟁, 5인의 선언
 
-머뉴 MoneyNews | 2026년 6월 18일 (목) | 돈이 되는 모든 것에 대한 소식
+> 🎤 보이스 컴필 | 2026-06-18 (목) | 핀테크·결제·크립토
 
-🇰🇷 코스피 8,864.24 (+1.58%, 사상 최고) / 코스닥 1,031.96 (+1.30%) / 원달러 1,508원
-🇺🇸 S&P 500 7,420.10 (-1.21%) / 나스닥 26,021.66 (-1.34%) / 다우 51,492.55 (-0.98%) / WTI $75.5 / BTC $66,000
+## "에이전트 경제가 인간 경제보다 커질 수 있다" — 그 한 문장이 현실이 된 한 주
 
-📌 케빈 워시의 첫 점도표, 시장의 단꿈을 깨우다
-1. 워시 의장 취임 후 첫 FOMC. 금리는 3.50~3.75%로 동결(12-0 만장일치)이었지만, 진짜 충격은 점도표였다. 18명 중 9명이 "올해 안에 인상" 가능성을 점으로 찍었고, 6명은 두 차례 인상을 봤다. 연내 인하 전망은 통째로 삭제됐다. [NPR](https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting) · [CNBC](https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html)
-2. 워시 본인은 점도표에 점을 찍지 않은 유일한 위원이었다. 성명서는 과거보다 짧아졌고, 포워드 가이던스를 걷어내고 "데이터와 목표"만 남겼다. 시장은 이 새로운 화법을 매파로 읽었고, 국채 수익률은 급등했다. [Fox Business](https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-june-17-2026) · [TradingKey](https://www.tradingkey.com/analysis/economic/central-banks/261973912-fed-federal-fomc-2-economic-projections-decision-rates-tradingkey)
-3. 미장 3대 지수는 일제히 하락했다. 반대편에서 코스피는 SK하이닉스(+5.84%, 사상 최고)가 끌어올리며 8,864로 또 신고가를 썼다. 같은 매크로, 정반대 반응 — 한국은 반도체, 미국은 금리에 베팅했다. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-17-2026)
+결제 산업에서 가장 지루한 코드 중 하나가 'HTTP 402'였습니다. "Payment Required(결제가 필요함)"라는 뜻으로 웹 초창기에 만들어졌지만, 수십 년간 쓰이지 못하고 잠들어 있던 에러 코드였죠. 그런데 이 죽은 코드가 2026년 6월, 글로벌 결제 산업의 가장 뜨거운 전쟁터의 이름이 됐습니다. 🪦➡️🔥
 
-💰 관심 종목 현황
-$TSLA $397.51 (-1.6%) 목표가 $419.94 — 머스크 옵션 행사로 직접 지분 약 7.1억주, Goldman은 Q2 인도 42만대 상향
-$GOOGL $373.25 (+1.1%) 목표가 $432.83 (Strong Buy) — 앨라배마 데이터센터 $15억 증설, HSBC AI 파트너십
-$OKLO $61.14 (+6.4%) 목표가 $101.19 (Buy) — NVIDIA·로스앨러모스 핵연료 검증 협업 모멘텀 지속
-$NVDA $208.35 (+0.5%) 목표가 $305.67 — 필라델피아 반도체지수 -5.71% 충격을 하루 만에 소화
-$COIN $169.27 (-2.6%) 목표가 $250.23 — 토큰화 주식·글로벌 퍼프 선물 공개, ARK가 어제 $18M 순매수
-$NFLX $76.96 (-2.2%) — 라이온스게이트 인수 저울질, 매크로 약세에 동반 하락
-$OHI $45.52 (+0.7%) — 금리 변동성 속 헬스케어 리츠 방어주 역할
-$SPY ~$740 (-1.2%) — 매파 점도표에 위험자산 일제 후퇴
-$QQQ ~$721 (-1.3%) — 기술주 차익실현, 금리 민감 성장주 직격
+지난 한 주는 결제 역사에서 두고두고 회자될 겁니다. 6월 10일 **Mastercard**가 "Agent Pay for Machines"를 내놨고, 바로 다음 날인 6월 11일 **Visa**가 "Intelligent Commerce Connect"와 함께 ChatGPT 안에 결제를 심었습니다. 그 직전 6월 2일엔 리눅스 재단이 코인베이스가 주도하는 'x402 재단'을 출범시켰고요. 카드 네트워크·빅테크·크립토가 약속이라도 한 듯 같은 주에 같은 선언을 했습니다. "이제 사람이 아니라 **AI 에이전트가 직접 결제하는 시대**가 온다"고요.
 
-👀 오늘 주목할 것
-- 점도표가 "인하의 시대"를 지웠다. 채권 금리가 오르면 가장 먼저 매를 맞는 건 무수익 자산 — 비트코인($66K로 후퇴)과 고밸류 성장주다. 그런데 바로 그 크립토 진영 안에서, 오늘 정반대 두 갈래가 갈렸다. 한쪽은 규제와 금리에 무너지고(서클 -20%), 한쪽은 52주 신고가를 갈아치웠다(채굴기→AI 데이터센터 전환주). 오늘의 픽은 바로 그 후자 이야기다.
+이 흐름을 가장 도발적으로 요약한 사람은 코인베이스 CEO 브라이언 암스트롱입니다. 그는 [crypto.news](https://crypto.news/ai-agents-could-outspend-humans-coinbase-ceo-says/)를 통해 이렇게 말했습니다. **"에이전트 경제가 인간 경제보다 커질 수 있다(The agentic economy could be larger than the human economy)."** 곧 인간보다 더 많은 AI 에이전트가 거래를 하게 될 텐데, AI는 은행 계좌를 열 수 없으니 그 거래는 크립토(스테이블코인) 위에서 돌 거란 논리였죠. 오늘은 이 한 주에 쏟아진 5인의 목소리를 나란히 놓고, 같은 미래를 향한 서로 다른 베팅을 읽어보겠습니다.
 
-🔥 오늘의 픽 — 핀테크/크립토 (테마: "채굴기를 버린 크립토가 이긴다")
+## 죽은 코드가 1.5조 달러 시장이 되기까지 — 9개월의 압축 성장
 
-🌡️ 시장 온도
-공포·탐욕 지수는 매파 FOMC 직후 'Neutral'에서 'Fear' 쪽으로 한 칸 내려앉았다. VIX는 점도표 충격에 20선 위로 튀어 올랐고, 비트코인은 $66K로 밀리며 ETF 자금이 열흘째 빠져나갔다. 위험자산엔 한기가 돈다. 그런데 이 한기 속에서 정확히 같은 섹터의 두 종목이 정반대로 움직였다 — 한쪽은 무너지고, 한쪽은 신고가를 갈았다.
+에이전트 결제는 갑자기 튀어나온 게 아닙니다. 불과 9개월의 압축된 타임라인이 있죠. 📅
 
-🎯 오늘의 테마
-목요일은 핀테크/크립토의 날. 그런데 매파 점도표가 던진 질문은 잔인하다 — "현금흐름 없는 크립토에 아직도 돈을 줄 거냐?" 그 답이 어제 시장에 적나라하게 찍혔다. 스테이블코인 순수 플레이 서클(CRCL)은 CLARITY Act의 이자 금지 조항에 화요일 하루 -20%, 사상 최악의 폭락으로 $5.6B가 증발했다. 반대로 비트코인 채굴기로 출발했지만 2.2GW 전력 자산을 AI 데이터센터로 돌린 종목들은 같은 주에 52주 신고가를 줄줄이 갈아치웠다. 크립토 채굴 바스켓이 연초 대비 +56%, 비트코인은 -17%. 시장은 "크립토 베타"가 아니라 "AI가 임대료를 내주는 전력 인프라"에 값을 매기고 있다. 오늘의 픽은 바로 이 전환의 두 주역이다. 둘 다 와치리스트 9종목 밖, 둘 다 최근 14일 머뉴 미등장 신규 발굴이다.
+시작은 2025년 9월 16일, **Google**이 'Agent Payments Protocol(AP2)'을 60개+ 파트너와 함께 발표하면서였습니다. Mastercard·PayPal·Coinbase·아메리칸익스프레스·Salesforce가 모두 이름을 올렸죠. AP2는 에이전트끼리 대화하는 A2A 프로토콜과 MCP의 확장으로 작동하는데, 핵심은 세 가지 질문을 푸는 겁니다 — 사용자가 정말 이 에이전트에게 이 구매 권한을 줬는가(**Authorization**), 에이전트의 요청이 사용자의 진짜 의도를 반영하는가(**Authenticity**), 사고가 나면 누가 책임지는가(**Accountability**). Google은 여기에 코인베이스·이더리움 재단·메타마스크와 함께 'A2A x402 extension'을 붙여 스테이블코인 결제까지 1급 결제수단으로 끌어들였습니다([Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)).
 
-💡 픽 1: 노보그라츠의 두 번째 인생 — 비트코인 트레이더에서 AI 임대인으로
-$GLXY Galaxy Digital (시총 약 $6.4B, 크립토 금융/AI 인프라)
+그 다음은 빨랐습니다. 2026년 2월 11일 코인베이스가 x402 위에 'Agentic Wallets'를 올렸고, 4월엔 'Agentic.Market'을 열었습니다. 6월 현재 이 마켓에서만 **1억 6,500만 건의 거래**가 일어났고 **48만 개의 에이전트**가 거래에 참여했습니다([crypto.news](https://crypto.news/ai-agents-could-outspend-humans-coinbase-ceo-says/)). 코인베이스가 처리하는 스테이블코인 결제는 연 환산 **약 1조 달러**에 이릅니다([The Defiant](https://thedefiant.io/news/cefi/brian-armstrong-says-coinbase-processes-usd1t-in-stablecoin-payments-annually)). 네이버페이·카카오페이·토스의 연간 간편결제 총액(약 100조원, 700억 달러 안팎)과 견줘도 한 회사가 그 10배가 넘는 스테이블코인을 굴리고 있다는 뜻이죠.
 
-마이크 노보그라츠의 갤럭시디지털은 텍사스 서부 헬리오스(Helios) 캠퍼스를 CoreWeave에 15년 임대했다. 핵심은 타이밍이다 — 1차 페이즈 133MW의 임대료 인식(rent commencement)이 바로 이번 분기(Q2) 말, 즉 6월 30일까지 개시된다. D-12 안에 "비트코인 채굴 매출"이 아니라 "AI 데이터센터 임대료"라는 새 손익계산서 줄이 켜진다는 뜻이다. 지난 토요일엔 헬리오스 추가 테넌트 계약 루머와 모건스탠리 애널리스트의 긍정 코멘트에 주가가 하루 +22% 튀었다. (루머는 아직 공시로 확인되진 않았다 — 주의.)
+숫자가 가리키는 방향은 분명합니다. Juniper Research는 에이전틱 커머스 거래액이 2026년 **80억 달러**에서 2030년 **1.5조 달러**로 폭증할 거라 봤고([Juniper](https://www.juniperresearch.com/press/agentic-commerce-set-to-generate-15-trillion-globally-by-2030-as-payments-infrastructure-leaders-revealed/)), McKinsey는 더 공격적으로 2030년까지 최대 **5조 달러** 매출을 전망합니다([McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-agentic-commerce-opportunity-how-ai-agents-are-ushering-in-a-new-era-for-consumers-and-merchants)). 좀 더 보수적인 Morgan Stanley조차 2030년 미국 이커머스에서만 1,900억~3,850억 달러를 예측하죠([Morgan Stanley](https://www.morganstanley.com/insights/articles/agentic-commerce-market-impact-outlook)). 죽었던 402 코드가 4년 만에 조 단위 시장의 문패가 된 셈입니다.
 
-배경을 보면 왜 이게 '크립토의 변신'인지 분명해진다. 헬리오스는 3개 페이즈에 걸쳐 526MW 임대 용량을 확보했고, ERCOT는 추가 830MW를 승인해 총 1.6GW로 두 배 늘렸다. 풀 가동 시 연 $10억 이상 매출에 EBITDA 마진 90%대가 기대된다. 비트코인 가격이 어디로 가든, AI 하이퍼스케일러가 15년간 또박또박 임대료를 내는 구조다. 매파 장세에서 "현금흐름 가시성"이 프리미엄을 받는 이유가 여기 있다.
+이 시계열의 진짜 변곡점이 바로 지난주였습니다. **Mastercard**의 Agent Pay for Machines는 AI 에이전트가 '머신 속도'로 1센트 미만의 마이크로트랜잭션까지 결제하게 해주는 멀티레일 서비스로, 30개+ 파트너와 함께 출시됐습니다. 카드부터 Circle USDC·Paxos PYUSD·USDG·USDP·Ripple RLUSD·SoFiUSD 등 **6종 스테이블코인**까지 정산을 지원하죠([Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/mastercard-taps-coinbase-ripple-crypto-222300868.html)). 마스터카드 블록체인·디지털자산 담당 부사장 라지 다모다란은 [CoinDesk](https://www.coindesk.com/business/2026/06/10/mastercard-prepares-for-a-future-where-ai-agents-make-payments-with-latest-introduction)에 **"우리는 이미 다양한 제품과 서비스를 제공하는 수많은 서비스와 에이전트가 등장하는 걸 보고 있다"**고 말했습니다 — 여행 예약부터 웹사이트 제작, 아트워크 생성까지요.
 
-전망과 리스크: 1.6GW 전력 인터커넥션은 진짜 해자지만, 건설 지연·CoreWeave 단일 고객 집중·크립토 본업 변동성은 양날의 검이다. 6/30 임대료 개시 공시가 실제로 확인되는지가 1차 체크포인트다.
+같은 발표에 참여한 스테이블코인 인프라 기업 BVNK의 공동창업자 크리스 함세는 한 발 더 나갔습니다. **"기업들이 점점 더 AI 에이전트를 통해 거래하면서 상거래의 근본적 전환이 일어나고 있다"**며 **"BVNK는 스테이블코인이 이 변화를 가능케 하는 강력한 역할을 하리라 믿는다 — 가치가 움직이는 방식에 더 빠른 속도와 프로그래밍 가능성(programmability), 효율을 가져다줄 것"**이라 했죠([Mastercard](https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html)).
 
-📊 스코어카드
-기술적 2/3 | 수급 2/3 | 카탈리스트 2/2 | 펀더멘털 2/2 | 신선도 +1 | 종합 8.5/10
-📅 D-Day: 2026-06-30 헬리오스 1차 페이즈 133MW CoreWeave 임대료 인식 개시 (Q2말)
-RSI: 신고가권 과열 구간 | 시총 $6.4B | 현재가 $33.49 | 임대 매출 가시성: 연 $10억+ (풀가동 시)
+## "프론트엔드는 AI, 백엔드는 스테이블코인" — 미국이 그린 지도, 한국이 놓친 출발선
 
----
-💡 픽 2: 구글이 14%를 사들인 채굴기 — 테라울프의 재탄생
-$WULF TeraWulf (시총 약 $7B, 비트코인 채굴/AI 데이터센터)
+가장 큰 그림을 그린 건 **Visa**였습니다. 6월 11일 Visa는 'Intelligent Commerce Connect'로 가맹점·에이전트 개발자가 단 한 번의 통합으로 에이전틱 커머스에 올라타게 했습니다. Trusted Agent Protocol, Machine Payments Protocol, Agentic Commerce Protocol, Universal Commerce Protocol — 무려 4대 에이전트 프로토콜을 한 번에 지원하죠([thepaypers](https://thepaypers.com/payments/news/visa-launches-intelligent-commerce-connect-for-agentic-payments)). 같은 날 OpenAI와 손잡고 ChatGPT 안에 Visa 결제를 심어, 챗봇이 추천을 넘어 직접 구매를 완료할 수 있게 했습니다([Fortune](https://fortune.com/2026/06/11/visa-chatgpt-ai-agent-payments-shopping/)).
 
-테라울프는 어제 52주 신고가 $28.10을 찍었다. 방아쇠는 구글이다 — 구글이 지분을 8%에서 14%로 끌어올리고 $14억 백스톱을 추가하며 누적 지원 규모를 $3.2B로 늘렸다. 여기에 추가 3,250만주를 살 수 있는 워런트까지 받았다. 빅테크가 이렇게 직접 자본을 꽂는다는 건, 뉴욕 레이크 마리너 캠퍼스의 전력을 AI 학습용으로 사겠다는 강력한 신호다. BofA의 마이클 펑크는 최근 'Buy'로 커버리지를 개시하며 목표가 $34를 제시했다.
+Visa 최고제품·전략책임자 잭 포레스텔의 발언은 이 전쟁의 스케일을 단번에 보여줍니다. **"AI는 인터넷이나 모바일 기술이 그랬던 것보다 더 깊게 상거래를 바꿔놓을 것이다."** 그리고 결정적인 한 줄. **"AI는 상거래의 프론트엔드를 바꾸고 있고, 스테이블코인은 백엔드를 다시 짜고 있다(AI is transforming the front end of commerce. Stablecoins are reshaping the back end)."**([PYMNTS](https://www.pymnts.com/visa/2026/visa-launches-ai-and-stablecoin-tools-to-power-agentic-commerce/)) 카드 네트워크가 스스로 "우리 백엔드는 스테이블코인이 다시 짠다"고 인정한 것 — 이게 이번 주의 진짜 사건입니다.
 
-배경: 테라울프의 1분기 계약 용량은 522MW(뉴욕 레이크 마리너 + 텍사스 애버나시 JV). 구글 자금은 레이크 마리너에 160MW를 더하는 신규 빌딩 CB-5로 흘러가고, 하반기 가동을 목표로 한다. GLXY와 똑같은 공식이다 — 값싼 전력 위에 GPU를 얹고, 빅테크에 장기 임대. 다른 점은 '구글이 지분으로 보증한다'는 신뢰의 깊이다.
+그렇다면 한국은? 흥미롭게도 한국은 이 게임의 '선수'이자 동시에 '지각생'입니다. 🇰🇷 **카카오페이**는 6월 2일(미 동부시간) 출범한 리눅스 재단 'x402 재단'에 국내 결제사 중 처음이자 한국 기업 중 유일하게 창립멤버로 합류했습니다([플래텀](https://platum.kr/archives/284819) · [뉴스1](https://www.news1.kr/it-science/general-it/6126308)). 코인베이스·서클·솔라나·구글·AWS·MS·Visa·Mastercard·Stripe·Shopify가 함께한 그 명단에 카카오페이 이름이 올라간 거죠. 네이버페이·카카오페이·토스의 연간 순수 간편결제 거래액은 처음으로 **100조원**을 넘어섰고([파이낸셜뉴스](https://www.fnnews.com/news/202601011803461679)), 카카오그룹·토스는 원화 스테이블코인 TF까지 가동 중입니다.
 
-전망과 리스크: 부채 레버리지로 AI 전환을 가속하는 만큼, 금리 급등 국면에서 조달 비용은 부담이다. 채굴 본업 비중이 아직 크다는 점도 변동성 요인. 다만 구글의 14% 지분은 그 자체로 강력한 다운사이드 완충이다.
+문제는 출발선입니다. 헤럴드경제 [크립토360](https://biz.heraldcorp.com/article/10759999)의 진단은 뼈아픕니다 — **"네이버·카카오·토스 기술력은 충분한데"** 한국은 왜 늦느냐는 거죠. 이유는 셋입니다. ① **망분리 규제**로 금융사가 최신 AI를 신용정보에 적용하기 어렵고, ② 자동결제 오류 시 **책임 소재**가 불명확한 데다 현행 구조는 모든 책임을 금융사가 지며, ③ 결정적으로 **법제 자체가 없습니다**([바이라인네트워크](https://byline.network/2026/05/0528-6/)). 다행히 정부가 움직였습니다. 금융 AI '7대 원칙'이 6월 22일 시행되며 망분리 완화와 AX 규율체계 구축에 속도가 붙습니다([전자신문](https://www.etnews.com/20260618000036)). 중국은 어떨까요? 마스터카드 Agent Pay 초기 파트너 명단에 앤트 인터내셔널(Ant International)이 이미 올라 있어, 아시아 결제 거인도 이 레일 위에 발을 걸쳐둔 상태입니다.
 
-📊 스코어카드
-기술적 2/3 | 수급 3/3 | 카탈리스트 1/2 | 펀더멘털 2/2 | 신선도 +1 | 종합 8.0/10
-📅 D-Day: 구글 $3.2B 지원·14% 지분 확대 (6월 중순 발효) + CB-5 160MW 하반기 가동 예정
-RSI: 52주 신고가 과열 | 시총 약 $7B | 현재가 $28.10 | 애널리스트 목표가 $34 (BofA Buy)
+## "12곳"이라는 숫자 — 거대한 비전과 초라한 현실 사이
 
-⚠️ 투자 조언이 아닌 데이터 기반 분석입니다. 두 종목 모두 52주 신고가 과열 구간으로 추격매수 리스크가 큽니다.
+여기까지만 보면 에이전트 결제는 이미 도착한 미래 같습니다. 하지만 반대편 목소리, 그것도 가장 앞서 달리던 주자의 후퇴를 봐야 균형이 잡힙니다. 🐻
 
-📈 워시의 첫 회의가 남긴 것 — '인하의 시대' 종료
-케빈 워시 시대의 개막은 시장에 단호한 메시지를 남겼다. 금리는 동결됐지만 점도표는 매파로 확 기울었다. 18명 중 9명이 연내 인상에 점을 찍었고, 종전의 연내 인하 전망은 사라졌다. 워시는 정작 자신의 점은 찍지 않은 채, 과거보다 짧아진 성명서로 "포워드 가이던스를 걷어내고 데이터만 보겠다"고 선언했다. 시장은 이 화법을 곧바로 매파로 해석했다 — 국채 수익률은 급등했고 S&P 500은 -1.21%, 나스닥은 -1.34%로 밀렸다. 흥미로운 건 로테이션이다. 다우보다 금리 민감한 나스닥이 더 크게 빠졌고, 무수익 자산인 비트코인은 $66K로 후퇴했다. "돈의 값이 다시 오른다"는 신호 앞에서, 현금흐름 없는 자산부터 차례로 매를 맞고 있다. [CNBC](https://www.cnbc.com/2026/06/16/stock-market-today-live-updates.html) · [NPR](https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting)
+바로 **OpenAI**입니다. OpenAI는 2025년 9월 ChatGPT에 'Instant Checkout(즉시 결제)'을 야심차게 띄웠지만, 2026년 3월 5~6개월 만에 사실상 접고 상품 '발견' 중심으로 방향을 틀었습니다. 충격적인 건 숫자입니다. Shopify의 **수백만** 가맹점 중 실제로 라이브였던 곳은 **약 12곳**뿐이었죠([CNBC](https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html)). OpenAI는 "초기 버전이 우리가 지향하는 수준의 유연성을 제공하지 못했다"고 인정했습니다. 사용자는 ChatGPT에서 리서치는 해도 구매는 안 했고, 수백만 SKU의 실시간 재고 동기화는 "10년짜리 난제"였으며, 세금·사기 방지 메커니즘조차 없었습니다.
 
-💳 크립토가 둘로 갈라진 날 — 규제·금리의 칼날 위에서
-1. 서클(CRCL), 사상 최악의 하루. 상원 은행위를 15-9로 통과한 CLARITY Act의 최신 초안이 스테이블코인의 '유휴 잔액 이자(passive yield)'를 금지하는 쪽으로 굳어졌다. 은행들이 처음부터 요구하던 바로 그 조항이다. 스탠다드차타드는 이 조항이 빠졌다면 2028년까지 최대 $5,000억이 은행 예금에서 스테이블코인으로 옮겨갈 수 있었다고 추산했다. 그 미래가 막히자 서클은 화요일 하루 -20%, $5.6B가 증발했다. 미즈호는 목표가를 $135→$85로 낮췄다. 스테이블코인 '순수 플레이'의 취약성이 드러난 장면이다. [Motley Fool](https://www.fool.com/investing/2026/05/24/3-cryptocurrencies-to-watch-as-the-clarity-act-hea/) · [FinTech Weekly](https://www.fintechweekly.com/news/clarity-act-banks-winning-stablecoin-yield-2026)
-2. 그런데 CLARITY Act 자체는 7월 4일 서명을 목표로 상원 본회의 일정에 올라 있다. 6월 1일 입법 캘린더 등재 후, 갤럭시리서치는 30일 내 본회의 표결 가능성을 75%로 본다. 누군가에겐 악재, 누군가에겐 호재 — 규제 '확정'은 그 자체로 거래되는 카탈리스트다. [PYMNTS](https://www.pymnts.com/cryptocurrency/2026/clarity-act-nears-senate-floor-ahead-of-recess-deadline/) · [CryptoTimes](https://www.cryptotimes.io/2026/05/14/clarity-act-vote-timeline-what-happens-next/)
-3. 로빈후드(HOOD)는 매파 장세에서도 +8.78%로 역주행했다. 월드컵 예측시장이 폭발한 덕이다 — 6/11 $22억이던 업계 예측시장 거래대금이 미국-파라과이 개막전 다음날 $48억으로 두 배 뛰며 슈퍼볼 기록까지 넘어섰다. 번스타인은 로빈후드의 2026년 예측시장 매출이 $1.5억→$5.86억으로 불어 전체 매출의 10%를 차지할 수 있다고 본다. 같은 날 로빈후드는 정규직 10% 감축도 발표했다 — "린하고 고성과" 체제로의 전환이다. [Benzinga](https://www.benzinga.com/markets/prediction-markets/26/06/53237596/robinhoods-fastest-growing-business-has-a-regulation-problem-heres-what-it-means-for-hood)
+회의론의 핵심은 세 갈래입니다. 첫째, **신뢰 격차**. 소비자는 수십 년간 아마존 원클릭과 애플페이에 길들여져 있어 챗봇에 카드를 맡기는 데 본능적 거부감이 있습니다. 포레스텔조차 "추천을 넘어 실제 구매까지 가려면 완전히 다른 수준의 신뢰가 필요하다"며 초기엔 다수 거래가 여전히 인간 승인을 거칠 거라 했죠([Fortune](https://fortune.com/2026/06/11/visa-chatgpt-ai-agent-payments-shopping/)). 둘째, **새로운 사기 벡터**. IMF는 최근 노트에서 프롬프트 인젝션 같은 공격으로 에이전트가 탈취되면 전통적 사기 탐지 모델이 무력화될 수 있다고 경고했습니다([IMF Note 2026/004](https://www.imf.org/-/media/files/publications/imf-notes/2026/english/insea2026004.pdf)). 셋째, **수요 미성숙**. 마이크로페이먼트에 대해 "demand is just not there yet(수요가 아직 없다)"는 냉정한 평가도 있습니다([CoinDesk](https://www.coindesk.com/markets/2026/03/11/coinbase-backed-ai-payments-protocol-wants-to-fix-micropayment-but-demand-is-just-not-there-yet)).
 
-🏢 기업 뉴스 — 와치리스트 심층
-$COIN 코인베스트, "거래소를 넘어 종합 자산 플랫폼으로"
-코인베이스는 화요일, 미국 밖 고객을 대상으로 다음 달부터 '토큰화 미국 주식'을 출시한다고 밝혔다. 각 토큰은 실제 주식 1주에 1:1 백킹되며 배당권까지 부여되고, 24시간 거래·온체인 전송·담보·대여가 가능하다. 여기에 AI·방산·중국·기술 지수에 연동된 테마형 퍼페추얼 선물, 앤트로픽·오픈AI 같은 비상장사 연동 프리-IPO 선물 확대까지 예고했다.
-배경: 코인베이스는 5월 말 CFTC로부터 미국 최초로 규제 퍼페추얼 선물 승인을 받은 첫 사업자다. 향후 몇 달 안에 미국 현물 거래소, 해외 파생, 데리비트(Deribit)를 단일 글로벌 유동성 풀로 통합하겠다는 그림이다. 스테이블코인 이자가 막히는 와중에, 코인베이스는 '거래 활동 자체'를 늘리는 쪽으로 수익 모델을 다변화하고 있다.
-전망: ARK는 어제 코인베이스를 $18.4M 순매수하며 방향성에 베팅했다. 토큰화 주식이 실제 거래량으로 이어지는지가 관건이다. [CFTC](https://www.cftc.gov/PressRoom/PressReleases/9241-26) · [Crowdfund Insider](https://www.crowdfundinsider.com/2026/06/285977-coinbase-announces-true-tokenized-stocks/)
+그래서 이번 주 카드사들의 총공세를 다르게 읽을 수도 있습니다. OpenAI가 혼자 풀려다 실패한 '신뢰·정산·사기 방지'라는 난제를, Visa·Mastercard가 수십 년 쌓은 인프라로 대신 풀어주겠다는 신호라고요. 비전(1.5조 달러)과 현실(가맹점 12곳) 사이의 거리 — 이 간극을 메우는 자가 시장을 가져갈 겁니다.
 
-$TSLA 머스크의 옵션, 골드만의 인도 상향
-테슬라는 매크로 약세에 동반 하락했지만 두 갈래 소식이 눈길을 끈다. 일론 머스크가 약 3억 400만 주의 스톡옵션을 행사해 직접 보유 지분이 약 7.1억 주로 늘었다. 같은 날 골드만삭스는 테슬라의 Q2 인도가 컨센서스 40만 대를 웃돌 가능성이 크다며 전망치를 42만 대로 상향했다.
-배경: 아르헨티나 국영에너지사 YPF는 테슬라와 급속충전망·에너지저장 협력 의향서(LOI)를 체결했다. 자동차를 넘어 에너지·AI·로보틱스로 무게중심을 옮기는 테슬라의 행보가 이어진다.
-전망: 공정가치 추정치는 $420선으로 소폭 상향됐지만, 애널리스트들은 여전히 'Hold' 합의에 가깝다. Q2 인도 실적 확인까지 변동성 구간이다. [Public](https://public.com/stocks/tsla/forecast-price-target)
+## 카드망의 종말이 아니라 카드망의 변신 — 그래서 무엇을 사는가
 
-$GOOGL 데이터센터에 또 $15억, AI 자본지출은 멈추지 않는다
-알파벳은 앨라배마 기존 데이터센터 증설에 $15억을 추가 투입한다고 밝혔다. HSBC와의 AI 역량 강화 파트너십도 발표했다. 매크로 약세장에서 +1.1%로 버틴 몇 안 되는 빅테크다.
-배경: 앞서 알파벳은 AI 인프라 확장을 위해 $80B 규모 주식 발행과 버크셔 $10B 투자까지 끌어들였다. 자본을 쏟아붓는 속도가 곧 AI 경쟁의 척도다. 애널리스트 합의는 'Strong Buy', 평균 목표가 $432.83.
-전망: 자본지출 사이클이 클라우드·검색 AI 매출로 환원되는지가 다음 분기 핵심 체크포인트다. [stockanalysis](https://stockanalysis.com/stocks/googl/forecast/)
+투자자에게 이번 주의 메시지는 명확합니다. "AI 에이전트가 카드사를 죽인다"는 오랜 베어 내러티브가, 적어도 단기적으로는 뒤집혔다는 것. Visa와 Mastercard는 디스럽션당하는 대신 **에이전트 경제의 레일 제공자**로 변신하며 정면돌파를 택했습니다. 💳
 
-$OKLO·$NVDA 원자력과 반도체, AI 전력 동맹은 견고하다
-오클로는 +6.4%로 와치리스트 내 최강세였다. NVIDIA·로스앨러모스 연구소와의 핵연료 검증·AI 기반 원자로 R&D 협업 모멘텀이 이어진 결과다. 애널리스트 목표가는 $101.19(Buy)로 현재가 대비 큰 폭의 상승 여력을 본다. 한편 NVIDIA는 전일 필라델피아 반도체지수 -5.71% 급락 충격을 하루 만에 소화하며 $208선을 지켰다. [Public](https://public.com/stocks/oklo/forecast-price-target)
+가장 직접적인 픽앤쇼블은 **$V**와 **$MA**입니다. 둘 다 카드와 스테이블코인을 모두 품는 멀티레일로 갔다는 게 핵심이죠. 특히 마스터카드가 1센트 미만 마이크로트랜잭션까지 잡으러 간 건, 인간 결제에선 불가능했던 새 거래 영역(에이전트가 데이터·API·컴퓨팅을 잘게 사는 시장)을 노린 포석입니다. 스테이블코인 레일 자체에 베팅한다면 **$COIN**(x402 표준 주도, 연 1조 달러 처리 — 단 머뉴 와치리스트 종목이니 별도 모니터링 중)과 USDC 발행사 **$CRCL**(Circle)이 핵심 길목입니다. 반대로 **$PYPL**은 AP2 파트너이긴 하나 6월 17일 벤처 부문을 정리하는 등 구조조정 한가운데라 이 사이클에선 상대적 열위로 보입니다([TechCrunch](https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/)).
 
-📰 흥미로운 이야기
-1. ARK의 손바꿈이 선명하다. 캐시 우드는 어제 코인베이스를 $18.4M 사들이면서 로빈후드는 $29M 팔았다. 8% 급등한 로빈후드 강세에 차익을 실현하고, 규제 명확화 수혜가 더 클 코인베이스·블록으로 무게를 옮긴 손바꿈이다. 같은 크립토 핀테크 안에서도 ARK는 '거래소'에 베팅하고 '브로커'를 덜어냈다. [The Block](https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood)
+한국 투자자라면 **카카오페이(377300.KS)**를 주목할 만합니다. x402 재단 국내 유일 창립멤버라는 상징성에, 6월 22일 금융 AI 7대 원칙 시행이 규제 족쇄를 풀어주는 촉매가 될 수 있죠. 네이버페이를 품은 **네이버(035420.KS)** 역시 법제화가 진행되면 100조원 간편결제 기반 위에서 잠재 수혜를 누릴 후보입니다. 다만 "기술력은 충분한데"라는 표현이 곧 "아직 매출은 없다"는 뜻임을 잊지 마세요.
 
-🔬 딥다이브 — "AI가 임대료를 내주는 크립토"의 진짜 손익
-이번 주 핀테크/크립토 섹터를 관통하는 단 하나의 질문: 매파 금리 국면에서 어떤 크립토가 살아남는가? 답은 손익계산서에 있다.
+**머뉴's Advice 💡**
+1. **레일 vs 신뢰를 구분하라.** 단기 수혜는 신뢰·정산 인프라를 쥔 $V·$MA에, 장기 옵션은 스테이블코인 레일($COIN·$CRCL)에 있습니다. 둘은 경쟁이 아니라 프론트엔드-백엔드로 한 몸이 되어갑니다.
+2. **'가맹점 12곳'을 체크포인트로 삼아라.** 진짜 신호는 발표가 아니라 채택률입니다. Mastercard Agent Pay 거래량, Visa Intelligent Commerce 정식 출시, x402 재단 실거래 데이터가 비전과 현실의 간극을 좁히는지 분기마다 확인하세요.
+3. **한국은 '법제화 트리거'를 기다려라.** 카카오페이·네이버는 기술이 아니라 규제가 변수입니다. 6월 22일 7대 원칙 시행과 원화 스테이블코인 입법 일정이 매수 타이밍의 방아쇠입니다.
 
-[실적 캘린더] 정작 핀테크 대형주의 다음 실적은 한참 멀다. SoFi는 8월 4일, Affirm은 8월 20일, GLXY·WULF·IREN은 9월로 잡혀 있다. 즉 향후 2주 내 '어닝 서프라이즈' 카탈리스트는 거의 없고, 시장을 움직이는 건 ① 입법(CLARITY Act 본회의)과 ② AI 데이터센터 계약·임대료 개시 같은 운영 이벤트다. 오늘의 픽 GLXY가 6/30 임대료 인식이라는 '날짜 박힌' 카탈리스트로 돋보이는 이유다.
+죽었던 402 코드가 다시 깨어났습니다. 질문은 더 이상 "AI가 결제할 것인가"가 아니라, "그 결제가 카드 위로 흐를 것인가, 스테이블코인 위로 흐를 것인가"입니다. 당신의 지갑은, 이미 그 답을 고르고 있을지도 모릅니다. 🤖💸
 
-[애널리스트 컨센서스] 같은 섹터, 갈리는 시선. BofA는 테라울프(WULF)를 'Buy' $34로 신규 커버 — 구글 자금 유입을 핵심 근거로 꼽았다. 모건스탠리는 갤럭시(GLXY) 헬리오스에 긍정적이다. 반대로 미즈호는 서클(CRCL)을 $135→$85로 후려쳤다 — 비자·마스터카드·스트라이프가 USDC 경쟁 스테이블코인을 준비한다는 소식이 결정타였다. 코인베이스(COIN) 목표가는 $250.23로 현재가 대비 큰 괴리를 두고 있다. 애널리스트들은 "전력·인프라 자산을 가진 크립토"엔 후하고, "순수 토큰 모델"엔 박하다.
+## 출처
+- Google Cloud 공식 블로그 — AP2 발표: https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
+- Mastercard 공식 보도자료 — Agent Pay for Machines: https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html
+- CoinDesk — Mastercard agentic payments(다모다란 발언): https://www.coindesk.com/business/2026/06/10/mastercard-prepares-for-a-future-where-ai-agents-make-payments-with-latest-introduction
+- Yahoo Finance — Mastercard 6종 스테이블코인: https://finance.yahoo.com/markets/crypto/articles/mastercard-taps-coinbase-ripple-crypto-222300868.html
+- thepaypers — Visa Intelligent Commerce Connect: https://thepaypers.com/payments/news/visa-launches-intelligent-commerce-connect-for-agentic-payments
+- Fortune — Visa·ChatGPT 에이전트 결제: https://fortune.com/2026/06/11/visa-chatgpt-ai-agent-payments-shopping/
+- PYMNTS — Visa 포레스텔 발언: https://www.pymnts.com/visa/2026/visa-launches-ai-and-stablecoin-tools-to-power-agentic-commerce/
+- crypto.news — 암스트롱 "에이전트 경제" 발언/Agentic.Market 수치: https://crypto.news/ai-agents-could-outspend-humans-coinbase-ceo-says/
+- The Defiant — 코인베이스 연 1조 달러 스테이블코인: https://thedefiant.io/news/cefi/brian-armstrong-says-coinbase-processes-usd1t-in-stablecoin-payments-annually
+- CNBC — OpenAI Instant Checkout 후퇴: https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html
+- CoinDesk — 마이크로페이먼트 수요 회의론: https://www.coindesk.com/markets/2026/03/11/coinbase-backed-ai-payments-protocol-wants-to-fix-micropayment-but-demand-is-just-not-there-yet
+- IMF Note 2026/004 — How Agentic AI Will Reshape Payments: https://www.imf.org/-/media/files/publications/imf-notes/2026/english/insea2026004.pdf
+- Juniper Research — 에이전틱 커머스 1.5조 달러 전망: https://www.juniperresearch.com/press/agentic-commerce-set-to-generate-15-trillion-globally-by-2030-as-payments-infrastructure-leaders-revealed/
+- McKinsey — 에이전틱 커머스 5조 달러 전망: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-agentic-commerce-opportunity-how-ai-agents-are-ushering-in-a-new-era-for-consumers-and-merchants
+- Morgan Stanley — 에이전틱 커머스 임팩트: https://www.morganstanley.com/insights/articles/agentic-commerce-market-impact-outlook
+- 플래텀 — 카카오페이 x402 재단 합류: https://platum.kr/archives/284819
+- 뉴스1 — 카카오페이 x402 재단 창립멤버: https://www.news1.kr/it-science/general-it/6126308
+- 파이낸셜뉴스 — 네카토 간편결제 100조원: https://www.fnnews.com/news/202601011803461679
+- 헤럴드경제 크립토360 — 한국 지연 이유: https://biz.heraldcorp.com/article/10759999
+- 바이라인네트워크 — 금융사 AI 도입 부진(망분리): https://byline.network/2026/05/0528-6/
+- 전자신문 — 금융 AI 7대 원칙 6/22 시행: https://www.etnews.com/20260618000036
+- TechCrunch — PayPal Ventures 정리: https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/
 
-[옵션/수급 신호] 비트코인 현물 ETF는 열흘 연속 순유출. 매파 점도표로 무수익 자산 회피 심리가 짙다. 그럼에도 채굴기 바스켓은 연초 대비 +56%로 BTC(-17%)를 압도했다 — 수급이 '코인 가격'이 아니라 '전력 메가와트'를 따라가고 있다는 증거다. 변동성이 커진 만큼, 두 픽 모두 52주 신고가 과열 구간이라 추격보다 눌림목 분할이 합리적이다.
-
-🏦 스마트머니 동향
-가장 선명한 손바꿈은 ARK다. 캐시 우드는 어제 코인베이스를 $18.4M 순매수하고 로빈후드를 $29M 순매도했다 — 규제 명확화(CLARITY Act) 수혜가 더 클 '거래소'로 갈아타고, 8% 급등한 '브로커'에서 차익을 실현한 그림이다. 블록(Block)도 함께 담았다.
-
-빅테크의 직접 베팅도 주목할 변수다. 구글은 테라울프 지분을 8%→14%로 끌어올리고 $3.2B를 약속하며 워런트까지 확보했다 — 헤지펀드보다 무거운 '전략적 자본'이 크립토 채굴기에 꽂히는 새 흐름이다. 비트코인 트레저리 진영에서는 비트마인(BMNR)이 6/11 포춘 100 크립토 리스트에 올랐고, 6/14 기준 암호화폐·현금 보유가 $10.4B(ETH 562만 개 포함)에 달한다고 공시했다. 같은 크립토라도 자금은 '전력·인프라·규제 수혜'를 향해 차갑게 이동 중이다.
-
-🎙️ 오늘의 팟캐스트 — 일론, 이번엔 '우주 하이퍼스케일러'를 판다
-1. BG2Pod "The SpaceX IPO, Fable 5, AI Capex Update & Market Check" (2026-06-11)
-   브래드 거스너와 빌 걸리가 아트레이데스의 개빈 베이커·앤드루 폭스, 알티미터의 클라크 탱과 함께 임박한 스페이스X IPO를 해부했다. 핵심 논점은 도발적이다 — 스페이스X를 '로켓 회사'가 아니라 새로운 종류의 AI 하이퍼스케일러, 이른바 'Elon Web Services'로 봐야 한다는 것. 스타십의 급속 재사용, 스타링크 광대역·다이렉트투셀, 일론의 AI 컴퓨트 사업, xAI의 모델 야망, 커서(Cursor) 인수, 그리고 궤도 데이터센터의 장기 잠재력까지 펼쳐놓는다. 후반부엔 Fable 5·Mythos·ChatGPT 5.5로 이어지는 모델 경쟁, 엔비디아 vs ASIC, 식지 않는 AI 자본지출 붐을 짚는다. 매파 FOMC로 성장주 밸류에이션이 시험받는 지금, "현금흐름 없는 미래 자산에 어떻게 값을 매길 것인가"라는 질문이 스페이스X에서 오늘의 픽(채굴기→AI 데이터센터)까지 그대로 관통한다. [BG2Pod](https://pocketcasts.com/podcast/bg2pod-with-brad-gerstner-and-bill-gurley/3a3ff9d0-9dd2-013c-74fe-027201e7e97f/the-spacex-ipo-fable-5-ai-capex-update-market-check-w-gavin-baker-andrew-fox-clark-tang-bg2/d66917bd-89a1-4e9a-96c5-e690b1a2541f)
+<!-- slack_trigger: 2026-06-18 deep -->
