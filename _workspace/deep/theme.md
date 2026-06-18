@@ -1,84 +1,69 @@
-# 딥다이브 테마 선정 — 2026-06-16 (화요일)
+# 딥다이브 테마 선정 — 2026-06-18 (목)
 
 ## 오늘 요일 테마 클러스터
-**화요일 → EV/자율주행/모빌리티**
+**목요일 → 핀테크/결제/크립토**
 
 ## 분석 유형 (5유형 요일 회전)
-**📊 종목 해부 — 한 종목 완전 분해 (관심종목 외 발굴)**
+**🎤 보이스 컴필 — 주요 인사 발언 3개+ 교차 분석**
 
 ---
 
 ## 다양성 체크 — 지난 7일 [DEEP] 항목
-| 날짜 | 테마 | 유형 |
-|------|------|------|
-| 2026-06-15 (월) | AI 인프라/반도체 | 📡 테크 트렌드 (HBM4 16-Hi 전쟁) |
-| 2026-06-14 (일) | 산업재/방산/우주 | 🔮 미래전망 (SpaceX IPO 이후 방산·우주 재편) |
-| 2026-06-13 (토) | 소비재/미디어/엔터 | 📊 종목 해부 (FOX Corporation) |
+| 날짜 | 테마 클러스터 | 유형 |
+|------|--------------|------|
+| 06-16 (화) | EV/자율주행/모빌리티 | 📊 종목 해부 (Rivian) |
+| 06-15 (월) | AI 인프라/반도체 | 📡 테크 트렌드 (HBM4) |
+| 06-14 (일) | 산업재/방산/우주 | 🔮 미래전망 |
+| 06-13 (토) | 소비재/미디어/엔터 | 📊 종목 해부 (FOX) |
 
-→ **EV/자율주행/모빌리티 DEEP는 5/26 이후 없음 ✅**
-→ 지난 7일 중 Rivian($RIVN) 딥다이브 전례 없음 ✅ (5/19 AM 픽 1~2줄 언급은 딥다이브와 무관)
-→ 종목 해부 유형은 6/13(FOX)에 사용됐지만 요일별 고정 규칙(화요일=종목해부)에 따라 오늘도 적용
+→ 핀테크/크립토 DEEP은 **6/04가 마지막(14일 전)**, 지난 7일 윈도우 밖. ✅
+→ 단, 6/04는 **스테이블코인(USDC/USDT/달러의 온체인화)** 중심이었음. 오늘은 **AI 에이전트 결제 레일(M2M)** 로 각도를 완전히 분리하여 중복 회피. ✅
+→ 지난 3일 [AM]/[PM]: 6/17 AM에 "COIN 토큰화주식·옵션·스테이킹대출 신상품" 단신 언급. 오늘 딥테마는 COIN 단일 종목이 아닌 **결제 레일 표준 전쟁**으로 차별화. ✅
 
 ---
 
 ## 후보 테마 3개
 
-### 후보 1: RIVN (Rivian Automotive) — ✅ **선정**
-**"$78에서 $16로, 그리고 자율주행으로 — Rivian, EV 제조사의 세 번째 도박"**
+### 후보 1: AI 에이전트 결제 레일 전쟁 — Mastercard·Visa·Coinbase·Stripe·Google의 표준 패권 — ✅ **선정**
+2026년 6월, AI 에이전트가 **사람을 거치지 않고 서로 결제**하는 머신-투-머신(M2M) 시대를 두고 결제 거인들이 동시에 표준을 던졌다.
+- **Mastercard**: 6/10 'Agent Pay for Machines' 출시. 30개+ 기업(Coinbase·Stripe·Adyen) 합류, 권한·크리덴셜을 Polygon·Solana·Base 온체인 기록.
+- **Visa**: 6/12 OpenAI와 파트너십 — 'Visa Intelligent Commerce'를 LLM에 주입, 에이전트가 토큰화 결제 실행.
+- **Coinbase**: x402 프로토콜 — USDC로 계정·구독 없이 에이전트가 직접 결제(블록체인 분석·클라우드).
+- **Stripe**: Tempo 블록체인 기반 'Machine Payments Protocol(MPP)'.
+- **Google**: AP2 — 에이전트 위임 지출 승인 표준.
+- 핵심 URL: [Fortune](https://fortune.com/2026/06/10/mastercard-ai-payments-protocol-launch-agentic-finance/) · [American Banker](https://www.americanbanker.com/payments/news/visa-partners-with-openai-mastercard-pushes-machine-payments) · [CoinDesk](https://www.coindesk.com/business/2026/05/21/crypto-rails-are-becoming-the-default-payment-layer-for-ai-agents-report-says)
 
-오늘(6/16) CEO RJ Scaringe가 공개 인터뷰에서 자율주행 3단계 로드맵을 발표했고, RIVN 주가가 프리마켓에서 상승했다. 구체적 내용: ① 2026년 하반기 Gen 2 차량에 Supervised P2P 자율주행 출시(Tesla FSD와 직접 비교), ② 2027년 Eyes-Off 비감독 모드, ③ 2028년 Uber와 상업 로보택시(SF+마이애미 시작, 2031년 25개 도시 확장). Uber $1.25B 딜(3/19 발표, 최초 $300M+성과조건)로 50,000대 R2 로보택시 배포 계획. VW $5B 전략투자도 배경.
+**왜 보이스 컴필에 최적**: 같은 주제(에이전트 결제)에 5개 진영 임원이 동시에 상반된 비전을 던짐 — 교차 분석 포맷의 교과서. 인용 가능한 실명 발언 다수 확보(아래 앵커 참조).
 
-- 핵심 URL: https://www.benzinga.com/trading-ideas/movers/26/06/53193201/rivian-shares-advance-as-ceo-outlines-aggressive-autonomous-driving-roadmap
-- https://thenextweb.com/news/rivian-point-to-point-self-driving-tesla-fsd-scaringe-uber-robotaxi
-- https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/
+### 후보 2: MSTR/Saylor 비트코인 트레저리 모델 균열 — "절대 안 판다" 신화의 종말 — ❌ 탈락
+6월 Strategy(MSTR)가 2022년 이후 첫 32 BTC 매도($2.5M) 공개, "Never sell" 신화에 균열. Saylor·Phong Le 발언 대비 가능, MSTR 시총이 보유 BTC 순가치 하회 논란.
+- 탈락 이유: ① 단일 종목·단일 진영(Saylor vs Le) 중심이라 '3인+ 교차'의 다양성이 약함 ② 5/28 AM에 이미 MSTR 843,738 BTC 다룸 ③ 비트코인 가격 변동성 의존도가 높아 "테크 깊이"보다 "시황"에 가까움.
 
-### 후보 2: GRAB (Grab Holdings) — ❌ 탈락
-**"동남아 최초 로보택시의 역설 — Grab과 WeRide가 Punggol에서 그리는 꿈"**
-
-2026년 4월 Grab-WeRide가 싱가포르 Punggol에서 Southeast Asia 최초 무인 로보택시 서비스 "Ai.R"를 런칭. 오늘(6/16) ANI News에서 이를 조명하는 기사가 게재됐다.
-
-- 탈락 이유: 주요 카탈리스트(서비스 런칭)가 4월 발생 — 오늘 기사는 회고적 분석 콘텐츠로 24시간 이내 신규 이벤트 없음. 동남아 중심 종목이라 한국 독자의 직접 투자 접근성이 낮음. RIVN이 오늘 실시간 CEO 발언 + 주가 움직임으로 타이밍 우위.
-
-### 후보 3: UBER (Uber Technologies) — ❌ 탈락
-**"운전 안 하는 세상에서 더 강해지는 회사 — Uber, 자율주행 오케스트레이터 해부"**
-
-21개 AV 파트너십(Waymo, Aurora, Rivian, Lucid 등), BofA 매수 재확인 $119 PT. 자율주행이 확산될수록 플랫폼에 수요가 집중되는 역설적 포지션.
-
-- 탈락 이유: 오늘 날짜 특정 카탈리스트 없음. 6/4 PM 뉴스레터에서 Uber-Rivian 딜이 이미 언급됨. RIVN CEO 발언이 오늘 날짜 카탈리스트로 더 명확. Uber의 AV 오케스트레이터 역할은 RIVN 딥다이브 '시사점' 섹션에서 커버 가능.
+### 후보 3: 토큰화 증권 빅뱅 — SEC 혁신 면제 + Coinbase 21종 신상품 동시 출시 — ❌ 탈락
+6/16~17 Coinbase 21종 신상품(토큰화 美주식·비트코인 모기지·SEC등록 AI 어드바이저), SEC Atkins 위원장 '혁신 면제'로 미국 내 토큰화 주식 거래 허용 임박.
+- 탈락 이유: ① 6/17 AM 뉴스에 이미 등장(단신) ② COIN은 와치리스트 9종목 → 딥다이브는 발굴/차별화 선호 ③ 후보 1과 동일 클러스터 내에서 "에이전트 결제"가 더 신선하고 교차 발언이 풍부. (단, 후보 1 시사점 섹션에서 토큰화·COIN 신상품을 보조 소재로 연결 가능.)
 
 ---
 
-## 선정 테마: 후보 1 — RIVN (Rivian Automotive)
+## 선정 테마: 후보 1 — AI 에이전트 결제 레일 전쟁
 
-**제목 방향 제안**: "공장은 돌아가고, 이제 운전까지 — Rivian이 Tesla와 Waymo 사이에서 그리는 자율주행 청사진"
-
-또는: "$78 → $16 → 자율주행 — Rivian의 세 번째 챕터, 지금 들어야 하는가"
+**제목 방향 제안**: "당신 대신 AI가 결제하는 시대 — 마스터카드·비자·코인베이스가 같은 날 던진 5개의 표준, 진짜 승자는 누구인가"
 
 **선정 이유**:
-1. 요일 테마 정렬 — 화요일 EV/자율주행/모빌리티 클러스터 + 종목 해부 완벽 정렬
-2. 오늘(6/16) 날짜 카탈리스트 — CEO Scaringe 자율주행 로드맵 발표 → 주가 프리마켓 상승
-3. 지난 7일 차별화 — EV/자율주행 DEEP 공백 3주+, RIVN 딥다이브 전례 없음
-4. 1차 자료 확보 가능성 — SEC 10-K(2025), Q1 2026 IR 보도자료, Uber-Rivian MOU 공시, VW투자 IR 발표 모두 공개 접근 가능
-5. 시장 관심도 — Tesla FSD vs Rivian Autonomy 직접 비교 발언 + Uber 50K 로보택시 딜 실행 중
-6. 한국 독자 직결 — $16 저가권 서학개미 관심 EV 종목, 자율주행 밸류에이션 재평가 관심
+1. **요일 테마 정렬** — 목요일 핀테크/결제/크립토 정중앙.
+2. **지난 7일 차별화** — 핀테크 DEEP 6/04(스테이블코인)와 14일 간격 + 각도(M2M 에이전트 결제 레일)가 완전히 달라 중복 0.
+3. **1차 자료 확보 용이** — Mastercard 공식 보도자료(mastercard.com 6월), Visa Intelligent Commerce 공식 페이지, Coinbase x402 docs, Keyrock 리서치 리포트 등 1차 자료 ≥3건 확보 가능.
+4. **시장 관심도** — 결제·크립토·AI가 한 점에 모이는 2026 최대 핀테크 내러티브. 머니네버슬립/더밀크 미커버 각도(레일 표준 전쟁) 차별성 높음.
 
 **다룰 좋은 관점 (14:00 작성용 힌트)**:
-
-- 시계열: Rivian 15년 궤적 — 2009년 창업 → 2021년 IPO($78, 시총 $155B) → 2022~2023 EV 버블 붕괴(-90%) → 2024 VW $5B 투자 구원 → 2025 연간 생산 정상화 → 2026 자율주행 선언. 각 변곡점마다 밸류에이션 프레임이 어떻게 바뀌었는가
-
-- 국제 비교: Tesla FSD(강화학습 기반) vs Rivian Autonomy(지도 기반 P2P) vs Waymo(지오펜스 L4) vs Mobileye SuperVision(ADAS+) vs NIO/XPEV(중국 L3+) 5자 기술 아키텍처·타임라인 비교. 현대차 자율주행 전략과의 국내 비교도.
-
-- 반대 시각: ① 2028년 로보택시까지 현금 얼마나 소진? (분기 burn vs 보유 현금) ② Tesla가 4년 앞선 Supervised 자율주행 영역에서 Rivian이 추격 가능한가 ③ Uber 딜의 $300M 선납 + 성과조건부 잔액 — 자율주행 실패 시 딜 리스크 ④ VW 파트너십은 양날의 검(R&D 분담 vs 독립 플랫폼 가치 희석)
-
-- 투자 시사점: 현재 $16 = EV 제조사 밸류에이션(P/S ~1x). 자율주행 성공 시 플랫폼 리레이팅(P/S 5~10x) 가능성. Uber 50K 계약 × $45K 예상 차량가 = $2.25B 잠재 매출. 진입/이탈 신호: ① 2026 H2 Supervised 출시 및 실제 사용자 반응 ② Q3 실적 현금 소진 속도 ③ Uber 추가 $300M 마일스톤 트리거 여부
+- **시계열**: 카드 네트워크 진화 — 마그네틱(1960s) → 칩&핀 → 토큰화/탭(2010s) → **에이전트 결제(2026)**. 각 전환기마다 누가 레일을 쥐었나. 스테이블코인 거래량 2025년 $10.9조 → 에이전트 결제가 다음 폭발 변곡점인 근거.
+- **국제 비교**: 미국(카드사+크립토 하이브리드) vs 중국(알리페이/위챗페이 폐쇄형 슈퍼앱 에이전트) vs 유럽(PSD3·디지털유로 규제 우선) vs 한국(토스·카카오페이 + 한은 CBDC 실험). 누가 M2M 표준에서 앞서나.
+- **반대 시각**: ① Mastercard CEO Miebach 본인이 제기한 "뭔가 잘못되면 누가 책임지나(소비자 보호·환불·사기)" — 표준 난립이 오히려 채택 지연. ② 카드사가 "탈중개" 크립토 레일(x402)에 올라타는 것은 자기잠식. ③ 에이전트 결제 TAM이 과대평가됐을 가능성(실제 미세결제 수요 미검증).
 
 ---
 
-## 앵커 소스 사전 메모
-(14:00 리서처가 우선 활용)
-
-- SEC EDGAR RIVN 10-K FY2025: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RIVN&type=10-K
-- Rivian IR 공식: https://rivian.com/investors
-- Uber-Rivian 파트너십 공식 (TechCrunch 3/19): https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/
-- CEO Scaringe 자율주행 로드맵 발언 (Benzinga 6/16): https://www.benzinga.com/trading-ideas/movers/26/06/53193201/rivian-shares-advance-as-ceo-outlines-aggressive-autonomous-driving-roadmap
-- CEO 직접 인터뷰 — Tesla FSD 비교 (NextWeb): https://thenextweb.com/news/rivian-point-to-point-self-driving-tesla-fsd-scaringe-uber-robotaxi
+## 핵심 인용 발언 (보이스 컴필 소스 — 14:00 우선 활용)
+1. **Jorn Lambert (Mastercard CPO)**: "Agent Pay for Machines will create the conditions for a superbloom of AI business models... 매우 높은 볼륨, 매우 작은 금액, 매우 빠르고 극저지연으로 에이전트 간 매매 가능."
+2. **Michael Miebach (Mastercard CEO)**: 에이전트 커머스는 AI가 "우리 삶을 가장 빠르고 폭넓게 건드릴" 영역. 단 "뭔가 잘못되면?(소비자 보호)" 질문 재부상. — 내부 반대 시각의 핵심 인용.
+3. **Jack Forestell (Visa CPO)**: "AI 에이전트가 경제의 능동적 참여자가 되면서, Visa의 초점은 거래를 신뢰·안전·매끄럽게 만드는 것."
+4. **Marco Mahrus (OpenAI 파트너십/커머스 총괄)**: "커머스는 지금보다 훨씬 더 많은 곳·방식에서 일어날 것이고, 에이전트가 돈이 얽힌 작업 완수에 점점 더 큰 역할."
