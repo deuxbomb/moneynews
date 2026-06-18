@@ -1,131 +1,84 @@
-# 631만 명이 돌아왔다 — FOX Corporation, 케이블이 죽는 시대에 피는 이벤트 경제
+# AI가 지갑을 든 날 — '에이전트 결제' 레일 전쟁, 5인의 선언
 
-*2026년 6월 13일 (토) | 소비재/미디어/엔터 | 📊 종목 해부 | $FOXA*
+> 🎤 보이스 컴필 | 2026-06-18 (목) | 핀테크·결제·크립토
 
----
+## "에이전트 경제가 인간 경제보다 커질 수 있다" — 그 한 문장이 현실이 된 한 주
 
-## 이 경기는 시작에 불과했다
+결제 산업에서 가장 지루한 코드 중 하나가 'HTTP 402'였습니다. "Payment Required(결제가 필요함)"라는 뜻으로 웹 초창기에 만들어졌지만, 수십 년간 쓰이지 못하고 잠들어 있던 에러 코드였죠. 그런데 이 죽은 코드가 2026년 6월, 글로벌 결제 산업의 가장 뜨거운 전쟁터의 이름이 됐습니다. 🪦➡️🔥
 
-6월 11일 오후 1시(동부 시간), 애틀랜타 메르세데스-벤츠 스타디움에서 멕시코와 남아프리카공화국의 공이 굴러가기 시작하던 순간, FOX Sports 임원들은 숨을 죽였다. 개막 경기. 미국팀도 없다. 여름 점심시간. 어디서 봐야 하는지 모르는 사람도 많다. 그런데 어느새 631만 명이 TV와 스트리밍 앞으로 모여들었다.
+지난 한 주는 결제 역사에서 두고두고 회자될 겁니다. 6월 10일 **Mastercard**가 "Agent Pay for Machines"를 내놨고, 바로 다음 날인 6월 11일 **Visa**가 "Intelligent Commerce Connect"와 함께 ChatGPT 안에 결제를 심었습니다. 그 직전 6월 2일엔 리눅스 재단이 코인베이스가 주도하는 'x402 재단'을 출범시켰고요. 카드 네트워크·빅테크·크립토가 약속이라도 한 듯 같은 주에 같은 선언을 했습니다. "이제 사람이 아니라 **AI 에이전트가 직접 결제하는 시대**가 온다"고요.
 
-이 숫자가 얼마나 특별한가? 비(非)USMNT 조별리그 경기로는 미국 역사상 영어 방송 최고 시청률이다. 그것도 FOX가 2022년 카타르 월드컵에서 기록했던 평균 조별리그 시청률 대비 **97% 증가**. 거의 2배다. 피크 순간에는 800만 명이 동시에 시청했다.
+이 흐름을 가장 도발적으로 요약한 사람은 코인베이스 CEO 브라이언 암스트롱입니다. 그는 [crypto.news](https://crypto.news/ai-agents-could-outspend-humans-coinbase-ceo-says/)를 통해 이렇게 말했습니다. **"에이전트 경제가 인간 경제보다 커질 수 있다(The agentic economy could be larger than the human economy)."** 곧 인간보다 더 많은 AI 에이전트가 거래를 하게 될 텐데, AI는 은행 계좌를 열 수 없으니 그 거래는 크립토(스테이블코인) 위에서 돌 거란 논리였죠. 오늘은 이 한 주에 쏟아진 5인의 목소리를 나란히 놓고, 같은 미래를 향한 서로 다른 베팅을 읽어보겠습니다.
 
-그리고 어제(6월 12일), 미국 대 파라과이의 경기가 열렸다. USMNT가 처음 공을 차는 날. 전통적으로 미국 내 스포츠 시청률은 자국팀 참여 여부에 극적으로 반응한다. 지금 이 순간, $FOXA라는 주식이 세상에서 가장 직접적인 수혜 종목 중 하나다.
+## 죽은 코드가 1.5조 달러 시장이 되기까지 — 9개월의 압축 성장
 
-FOX Corporation. 주가 $58. 시가총액 $23.7B. "케이블이 죽어간다"는 이야기가 나온 지 10년이 됐지만, 이 회사는 어떻게 여전히 수익을 내고 있을까. 그리고 이번 여름, 무언가가 달라질 수 있을까.
+에이전트 결제는 갑자기 튀어나온 게 아닙니다. 불과 9개월의 압축된 타임라인이 있죠. 📅
 
----
+시작은 2025년 9월 16일, **Google**이 'Agent Payments Protocol(AP2)'을 60개+ 파트너와 함께 발표하면서였습니다. Mastercard·PayPal·Coinbase·아메리칸익스프레스·Salesforce가 모두 이름을 올렸죠. AP2는 에이전트끼리 대화하는 A2A 프로토콜과 MCP의 확장으로 작동하는데, 핵심은 세 가지 질문을 푸는 겁니다 — 사용자가 정말 이 에이전트에게 이 구매 권한을 줬는가(**Authorization**), 에이전트의 요청이 사용자의 진짜 의도를 반영하는가(**Authenticity**), 사고가 나면 누가 책임지는가(**Accountability**). Google은 여기에 코인베이스·이더리움 재단·메타마스크와 함께 'A2A x402 extension'을 붙여 스테이블코인 결제까지 1급 결제수단으로 끌어들였습니다([Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol)).
 
-## 21세기폭스의 유산에서 독자 생존까지 — FOX Corp 7년의 실적 곡선
+그 다음은 빨랐습니다. 2026년 2월 11일 코인베이스가 x402 위에 'Agentic Wallets'를 올렸고, 4월엔 'Agentic.Market'을 열었습니다. 6월 현재 이 마켓에서만 **1억 6,500만 건의 거래**가 일어났고 **48만 개의 에이전트**가 거래에 참여했습니다([crypto.news](https://crypto.news/ai-agents-could-outspend-humans-coinbase-ceo-says/)). 코인베이스가 처리하는 스테이블코인 결제는 연 환산 **약 1조 달러**에 이릅니다([The Defiant](https://thedefiant.io/news/cefi/brian-armstrong-says-coinbase-processes-usd1t-in-stablecoin-payments-annually)). 네이버페이·카카오페이·토스의 연간 간편결제 총액(약 100조원, 700억 달러 안팎)과 견줘도 한 회사가 그 10배가 넘는 스테이블코인을 굴리고 있다는 뜻이죠.
 
-FOX Corporation이 탄생한 날은 2019년 3월 19일이다. 디즈니가 21세기폭스의 영화 스튜디오, FX 채널, 스타 인터내셔널 등 엔터테인먼트 자산 전체를 **713억 달러**에 사들인 후, "나머지"로 만들어진 회사가 지금의 FOX다. Fox News, Fox Sports, FOX 방송망, 28개 지역 방송국. 할리우드 스튜디오도 없고, 세계적 IP 프랜차이즈도 없다. 순수 뉴스·스포츠·방송에만 집중하는 구조다.
+숫자가 가리키는 방향은 분명합니다. Juniper Research는 에이전틱 커머스 거래액이 2026년 **80억 달러**에서 2030년 **1.5조 달러**로 폭증할 거라 봤고([Juniper](https://www.juniperresearch.com/press/agentic-commerce-set-to-generate-15-trillion-globally-by-2030-as-payments-infrastructure-leaders-revealed/)), McKinsey는 더 공격적으로 2030년까지 최대 **5조 달러** 매출을 전망합니다([McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-agentic-commerce-opportunity-how-ai-agents-are-ushering-in-a-new-era-for-consumers-and-merchants)). 좀 더 보수적인 Morgan Stanley조차 2030년 미국 이커머스에서만 1,900억~3,850억 달러를 예측하죠([Morgan Stanley](https://www.morganstanley.com/insights/articles/agentic-commerce-market-impact-outlook)). 죽었던 402 코드가 4년 만에 조 단위 시장의 문패가 된 셈입니다.
 
-분사 직후 시장의 반응은 냉담했다. "남은 것들로 만든 회사"라는 이미지. 미국 케이블 가입자 수는 이미 하락 중이었고, 스트리밍 전쟁이 본격화되던 시기였다.
+이 시계열의 진짜 변곡점이 바로 지난주였습니다. **Mastercard**의 Agent Pay for Machines는 AI 에이전트가 '머신 속도'로 1센트 미만의 마이크로트랜잭션까지 결제하게 해주는 멀티레일 서비스로, 30개+ 파트너와 함께 출시됐습니다. 카드부터 Circle USDC·Paxos PYUSD·USDG·USDP·Ripple RLUSD·SoFiUSD 등 **6종 스테이블코인**까지 정산을 지원하죠([Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/mastercard-taps-coinbase-ripple-crypto-222300868.html)). 마스터카드 블록체인·디지털자산 담당 부사장 라지 다모다란은 [CoinDesk](https://www.coindesk.com/business/2026/06/10/mastercard-prepares-for-a-future-where-ai-agents-make-payments-with-latest-introduction)에 **"우리는 이미 다양한 제품과 서비스를 제공하는 수많은 서비스와 에이전트가 등장하는 걸 보고 있다"**고 말했습니다 — 여행 예약부터 웹사이트 제작, 아트워크 생성까지요.
 
-그런데 FOX는 조용히 결정적인 수를 뒀다. **2020년 4월, Tubi를 440달러에 인수한 것**이다. 당시 Tubi는 무료 광고 지원 스트리밍(AVOD) 서비스였고, 업계의 관심 밖이었다. Netflix, Disney+, HBO Max가 구독 모델로 전쟁을 벌이는 동안, FOX는 "무료"라는 정반대 방향으로 베팅했다.
+같은 발표에 참여한 스테이블코인 인프라 기업 BVNK의 공동창업자 크리스 함세는 한 발 더 나갔습니다. **"기업들이 점점 더 AI 에이전트를 통해 거래하면서 상거래의 근본적 전환이 일어나고 있다"**며 **"BVNK는 스테이블코인이 이 변화를 가능케 하는 강력한 역할을 하리라 믿는다 — 가치가 움직이는 방식에 더 빠른 속도와 프로그래밍 가능성(programmability), 효율을 가져다줄 것"**이라 했죠([Mastercard](https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html)).
 
-이후 5년의 실적을 보면 FOX의 경영 전략이 선명하게 보인다:
+## "프론트엔드는 AI, 백엔드는 스테이블코인" — 미국이 그린 지도, 한국이 놓친 출발선
 
-| 회계연도 | 연매출 | 핵심 이벤트 |
-|---------|--------|-----------|
-| FY2021 | $12.91B | 베이스라인 |
-| FY2022 | $13.97B | 카타르 월드컵(11-12월) + 중간선거 |
-| FY2023 | $14.91B | 슈퍼볼 LVII |
-| FY2024 | $13.98B | 이벤트 공백, 전년 대비 하락 |
-| FY2025 | $16.30B | 슈퍼볼 LIX + 선거 광고 최대 |
+가장 큰 그림을 그린 건 **Visa**였습니다. 6월 11일 Visa는 'Intelligent Commerce Connect'로 가맹점·에이전트 개발자가 단 한 번의 통합으로 에이전틱 커머스에 올라타게 했습니다. Trusted Agent Protocol, Machine Payments Protocol, Agentic Commerce Protocol, Universal Commerce Protocol — 무려 4대 에이전트 프로토콜을 한 번에 지원하죠([thepaypers](https://thepaypers.com/payments/news/visa-launches-intelligent-commerce-connect-for-agentic-payments)). 같은 날 OpenAI와 손잡고 ChatGPT 안에 Visa 결제를 심어, 챗봇이 추천을 넘어 직접 구매를 완료할 수 있게 했습니다([Fortune](https://fortune.com/2026/06/11/visa-chatgpt-ai-agent-payments-shopping/)).
 
-패턴이 선명하다. **FOX는 "이벤트 경제" 회사**다. 슈퍼볼이 있으면 매출이 뛴다. 월드컵이 있으면 뛴다. 중간선거·대선이 있으면 뛴다. 이런 이벤트가 없는 해(FY2024)에는 매출이 정체하거나 후퇴한다.
+Visa 최고제품·전략책임자 잭 포레스텔의 발언은 이 전쟁의 스케일을 단번에 보여줍니다. **"AI는 인터넷이나 모바일 기술이 그랬던 것보다 더 깊게 상거래를 바꿔놓을 것이다."** 그리고 결정적인 한 줄. **"AI는 상거래의 프론트엔드를 바꾸고 있고, 스테이블코인은 백엔드를 다시 짜고 있다(AI is transforming the front end of commerce. Stablecoins are reshaping the back end)."**([PYMNTS](https://www.pymnts.com/visa/2026/visa-launches-ai-and-stablecoin-tools-to-power-agentic-commerce/)) 카드 네트워크가 스스로 "우리 백엔드는 스테이블코인이 다시 짠다"고 인정한 것 — 이게 이번 주의 진짜 사건입니다.
 
-FY2026(7월 2025~6월 2026) Q3 성적표가 이 공식을 잘 보여준다. 3월에 마감된 분기에 광고 매출은 $1.56B으로 전년 대비 $480M 급감했다 — 전년 동기에 슈퍼볼 LIX 단독으로 $800M 이상이 들어갔기 때문이다. 그런데도 **Adj. EBITDA $954M은 Q3 사상 최고**였다. 슈퍼볼 없이도 마진이 개선된 것이다. 이유는 두 가지: Cable 유통 수수료 +5% 성장, 그리고 Tubi의 3분기 연속 손익분기 달성.
+그렇다면 한국은? 흥미롭게도 한국은 이 게임의 '선수'이자 동시에 '지각생'입니다. 🇰🇷 **카카오페이**는 6월 2일(미 동부시간) 출범한 리눅스 재단 'x402 재단'에 국내 결제사 중 처음이자 한국 기업 중 유일하게 창립멤버로 합류했습니다([플래텀](https://platum.kr/archives/284819) · [뉴스1](https://www.news1.kr/it-science/general-it/6126308)). 코인베이스·서클·솔라나·구글·AWS·MS·Visa·Mastercard·Stripe·Shopify가 함께한 그 명단에 카카오페이 이름이 올라간 거죠. 네이버페이·카카오페이·토스의 연간 순수 간편결제 거래액은 처음으로 **100조원**을 넘어섰고([파이낸셜뉴스](https://www.fnnews.com/news/202601011803461679)), 카카오그룹·토스는 원화 스테이블코인 TF까지 가동 중입니다.
 
-FY2026 Q4(4~6월)와 FY2027 Q1(7~9월)은 다르다. 지금 이 글을 쓰는 이 순간, 월드컵이 이미 시작됐고 USMNT가 첫 경기를 치렀다. 그리고 11월에는 $11.6B 규모의 미국 중간선거가 기다리고 있다.
+문제는 출발선입니다. 헤럴드경제 [크립토360](https://biz.heraldcorp.com/article/10759999)의 진단은 뼈아픕니다 — **"네이버·카카오·토스 기술력은 충분한데"** 한국은 왜 늦느냐는 거죠. 이유는 셋입니다. ① **망분리 규제**로 금융사가 최신 AI를 신용정보에 적용하기 어렵고, ② 자동결제 오류 시 **책임 소재**가 불명확한 데다 현행 구조는 모든 책임을 금융사가 지며, ③ 결정적으로 **법제 자체가 없습니다**([바이라인네트워크](https://byline.network/2026/05/0528-6/)). 다행히 정부가 움직였습니다. 금융 AI '7대 원칙'이 6월 22일 시행되며 망분리 완화와 AX 규율체계 구축에 속도가 붙습니다([전자신문](https://www.etnews.com/20260618000036)). 중국은 어떨까요? 마스터카드 Agent Pay 초기 파트너 명단에 앤트 인터내셔널(Ant International)이 이미 올라 있어, 아시아 결제 거인도 이 레일 위에 발을 걸쳐둔 상태입니다.
 
----
+## "12곳"이라는 숫자 — 거대한 비전과 초라한 현실 사이
 
-## 영국은 무료, 브라질은 유튜브 — 왜 미국만 케이블이 필요한가
+여기까지만 보면 에이전트 결제는 이미 도착한 미래 같습니다. 하지만 반대편 목소리, 그것도 가장 앞서 달리던 주자의 후퇴를 봐야 균형이 잡힙니다. 🐻
 
-2026년 FIFA 월드컵 중계권 구조를 국가별로 비교하면, FOX의 수익 모델이 글로벌 스탠다드와 얼마나 다른지가 드러난다.
+바로 **OpenAI**입니다. OpenAI는 2025년 9월 ChatGPT에 'Instant Checkout(즉시 결제)'을 야심차게 띄웠지만, 2026년 3월 5~6개월 만에 사실상 접고 상품 '발견' 중심으로 방향을 틀었습니다. 충격적인 건 숫자입니다. Shopify의 **수백만** 가맹점 중 실제로 라이브였던 곳은 **약 12곳**뿐이었죠([CNBC](https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html)). OpenAI는 "초기 버전이 우리가 지향하는 수준의 유연성을 제공하지 못했다"고 인정했습니다. 사용자는 ChatGPT에서 리서치는 해도 구매는 안 했고, 수백만 SKU의 실시간 재고 동기화는 "10년짜리 난제"였으며, 세금·사기 방지 메커니즘조차 없었습니다.
 
-| 국가 | 방송사 | 비용 구조 | 무료 접근성 |
-|------|--------|---------|-----------|
-| **미국** | FOX Sports + Telemundo | 케이블 구독 필요 (Tubi 일부 무료) | 부분 무료 |
-| **영국** | BBC + ITV + STV | 완전 무료 (수신료 기반) | 104경기 전부 무료 |
-| **독일** | ARD + ZDF + MagentaTV | 공영 무료 + 텔레콤 유료 | 주요 경기 무료 |
-| **브라질** | CazéTV on YouTube | 완전 무료 | 104경기 YouTube |
-| **한국** | KBS·MBC·SBS + 스포티비 | 지상파 무료 + 유료 혼합 | 주요 경기 무료 |
+회의론의 핵심은 세 갈래입니다. 첫째, **신뢰 격차**. 소비자는 수십 년간 아마존 원클릭과 애플페이에 길들여져 있어 챗봇에 카드를 맡기는 데 본능적 거부감이 있습니다. 포레스텔조차 "추천을 넘어 실제 구매까지 가려면 완전히 다른 수준의 신뢰가 필요하다"며 초기엔 다수 거래가 여전히 인간 승인을 거칠 거라 했죠([Fortune](https://fortune.com/2026/06/11/visa-chatgpt-ai-agent-payments-shopping/)). 둘째, **새로운 사기 벡터**. IMF는 최근 노트에서 프롬프트 인젝션 같은 공격으로 에이전트가 탈취되면 전통적 사기 탐지 모델이 무력화될 수 있다고 경고했습니다([IMF Note 2026/004](https://www.imf.org/-/media/files/publications/imf-notes/2026/english/insea2026004.pdf)). 셋째, **수요 미성숙**. 마이크로페이먼트에 대해 "demand is just not there yet(수요가 아직 없다)"는 냉정한 평가도 있습니다([CoinDesk](https://www.coindesk.com/markets/2026/03/11/coinbase-backed-ai-payments-protocol-wants-to-fix-micropayment-but-demand-is-just-not-there-yet)).
 
-특히 브라질의 딜이 충격적이다. FIFA가 YouTube와 직접 계약을 맺어, 브라질 시청자는 104경기 전체를 무료로 스트리밍할 수 있다. 2026년 3월에는 FIFA가 YouTube와 추가 협약을 체결해 각 경기 처음 10분을 **전 세계 무료**로 제공하기로 했다. TikTok 파트너십도 따로 존재한다.
+그래서 이번 주 카드사들의 총공세를 다르게 읽을 수도 있습니다. OpenAI가 혼자 풀려다 실패한 '신뢰·정산·사기 방지'라는 난제를, Visa·Mastercard가 수십 년 쌓은 인프라로 대신 풀어주겠다는 신호라고요. 비전(1.5조 달러)과 현실(가맹점 12곳) 사이의 거리 — 이 간극을 메우는 자가 시장을 가져갈 겁니다.
 
-반면 미국은 FOX Sports 시청에 케이블 패키지 또는 스트리밍 구독이 필요하다. 이것이 FOX의 약점인가, 강점인가?
+## 카드망의 종말이 아니라 카드망의 변신 — 그래서 무엇을 사는가
 
-역설적으로 **강점일 수 있다**. 영국·독일이 수신료 기반 공영방송 시스템을 유지하는 동안, FOX는 순수 광고 수익 모델로 운영한다. 세계 최대 스포츠 이벤트의 광고 프리미엄을 100% 취할 수 있다는 뜻이다. CEO Murdoch가 "월드컵은 수익을 낼 것"이라고 단언한 배경이다.
+투자자에게 이번 주의 메시지는 명확합니다. "AI 에이전트가 카드사를 죽인다"는 오랜 베어 내러티브가, 적어도 단기적으로는 뒤집혔다는 것. Visa와 Mastercard는 디스럽션당하는 대신 **에이전트 경제의 레일 제공자**로 변신하며 정면돌파를 택했습니다. 💳
 
-그리고 Tubi의 역할이 여기서 결정적이다. 케이블을 끊은 코드커터들도 Tubi를 통해 일부 경기를 무료로 시청할 수 있다. FOX는 광고 수익을 포기하지 않으면서도 도달 범위를 넓혔다. 100만 명이 Tubi로 월드컵을 보면, 그것도 FOX의 광고 수익이다.
+가장 직접적인 픽앤쇼블은 **$V**와 **$MA**입니다. 둘 다 카드와 스테이블코인을 모두 품는 멀티레일로 갔다는 게 핵심이죠. 특히 마스터카드가 1센트 미만 마이크로트랜잭션까지 잡으러 간 건, 인간 결제에선 불가능했던 새 거래 영역(에이전트가 데이터·API·컴퓨팅을 잘게 사는 시장)을 노린 포석입니다. 스테이블코인 레일 자체에 베팅한다면 **$COIN**(x402 표준 주도, 연 1조 달러 처리 — 단 머뉴 와치리스트 종목이니 별도 모니터링 중)과 USDC 발행사 **$CRCL**(Circle)이 핵심 길목입니다. 반대로 **$PYPL**은 AP2 파트너이긴 하나 6월 17일 벤처 부문을 정리하는 등 구조조정 한가운데라 이 사이클에선 상대적 열위로 보입니다([TechCrunch](https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/)).
 
-AVOD 시장에서 Tubi의 위치를 보면 이 전략의 성과가 드러난다. 미국 FAST(무료 광고 지원 TV) 서비스 전체가 미국 TV 시청의 5.7%를 차지하는데, Tubi는 그 안에서 2.2%로 7위를 기록 중이다. 6위 Roku Channel(2.9%)과 격차가 크지 않다. 5년 전 440달러에 산 자산이 100만 명의 MAU를 넘기고 분기 손익분기를 달성했다.
+한국 투자자라면 **카카오페이(377300.KS)**를 주목할 만합니다. x402 재단 국내 유일 창립멤버라는 상징성에, 6월 22일 금융 AI 7대 원칙 시행이 규제 족쇄를 풀어주는 촉매가 될 수 있죠. 네이버페이를 품은 **네이버(035420.KS)** 역시 법제화가 진행되면 100조원 간편결제 기반 위에서 잠재 수혜를 누릴 후보입니다. 다만 "기술력은 충분한데"라는 표현이 곧 "아직 매출은 없다"는 뜻임을 잊지 마세요.
 
-그러나 국제 비교에서 놓치지 말아야 할 핵심 인사이트가 있다. 브라질·영국·독일의 사례는 "월드컵은 공짜로 보는 것"이라는 글로벌 기대치를 강화한다. 미국에서 처음 월드컵을 보려는 Z세대가 FOX One 앱이나 Tubi를 발견하지 못한다면, 그 잠재 시청자는 유실된다. 도달 범위의 확대와 광고 단가의 프리미엄 사이에서, FOX의 성과는 이번 대회가 끝날 때까지 정확히 측정되지 않는다.
+**머뉴's Advice 💡**
+1. **레일 vs 신뢰를 구분하라.** 단기 수혜는 신뢰·정산 인프라를 쥔 $V·$MA에, 장기 옵션은 스테이블코인 레일($COIN·$CRCL)에 있습니다. 둘은 경쟁이 아니라 프론트엔드-백엔드로 한 몸이 되어갑니다.
+2. **'가맹점 12곳'을 체크포인트로 삼아라.** 진짜 신호는 발표가 아니라 채택률입니다. Mastercard Agent Pay 거래량, Visa Intelligent Commerce 정식 출시, x402 재단 실거래 데이터가 비전과 현실의 간극을 좁히는지 분기마다 확인하세요.
+3. **한국은 '법제화 트리거'를 기다려라.** 카카오페이·네이버는 기술이 아니라 규제가 변수입니다. 6월 22일 7대 원칙 시행과 원화 스테이블코인 입법 일정이 매수 타이밍의 방아쇠입니다.
 
-한국의 경우는 미국 투자자에게 흥미로운 참조점을 준다. KBS·MBC·SBS 지상파가 무료 중계하고, 스포티비 등 유료 서비스가 병행된다. 한국 시장에서 스포티비(유료)와 지상파(무료)의 공존이 수십 년간 유지되어 온 것처럼, FOX와 Tubi의 하이브리드 모델이 미국에서 안착할 가능성은 충분하다. 다만 미국은 케이블 의존도가 높아 케이블 코드컷의 충격이 한국보다 크다는 차이가 있다.
-
----
-
-## "미디어가 죽는다"는 내러티브 — FOX Bull 테이시스가 틀릴 수 있는 이유
-
-FOX Corporation의 bull thesis는 매력적이다. 월드컵 + 중간선거 = 역대급 이벤트 시즌, Tubi의 수익화, 자사주매입 $50억 인가. 그러나 이 내러티브가 실현되지 않을 가능성을 냉정하게 짚어야 한다.
-
-**첫째, 케이블 구독자 감소는 멈추지 않는다.** 2010년 1억 가구를 넘었던 미국 케이블 TV 구독 가구 수는 2025년 기준 7,000만 이하로 떨어졌다. 연평균 5.4% 감소율이 유지되면 2029년까지 2,000만 명이 추가 이탈한다. FOX News의 케이블 유통 수수료 수입은 구독자에 비례한다. 이 감소는 FOX의 수익 구조에 구조적인 압박을 가한다.
-
-**둘째, Fox News의 절대적 우위도 서서히 침식되고 있다.** 97분기 연속 케이블 뉴스 1위라는 기록은 인상적이지만, Q1 2026 시청률은 전년 동기 대비 소폭 하락했다. 반면 CNN과 MSNBC는 같은 기간 YoY 상승했다. 케이블 뉴스 시장 자체의 파이가 줄어드는 속도보다 FOX의 점유율 감소 속도가 느리지만, 방향성은 같다.
-
-**셋째, USMNT 리스크는 실제다.** 미국 시청자들은 자국팀이 없는 경기에 상대적으로 무관심하다. 2022 카타르 월드컵에서 미국이 16강에서 탈락하자 이후 경기의 FOX 영어 방송 시청률이 크게 하락했다. 만약 이번 대회에서도 USMNT가 조별리그 또는 16강에서 조기 탈락한다면, 7월 초까지 이어지는 FOX의 황금 중계 일정이 훨씬 덜 가치있어진다.
-
-**넷째, 방영권 비용과 실제 마진은 블랙박스다.** FOX Sports가 미국 영어 방송권 비용으로 얼마를 지불했는지 공식 발표된 수치가 없다. Murdoch가 "수익을 낼 것"이라고 했지만, 비용 구조가 불투명한 상황에서 투자자가 마진을 추정하기 어렵다. 이것은 긍정적 서프라이즈의 여지이기도 하지만, 동시에 불확실성이기도 하다.
-
-**다섯째, "전통 미디어" 할인은 쉽게 사라지지 않는다.** Netflix(P/E 30~40배), Disney+(성장주 프리미엄)와 달리 FOX는 P/E 11배에 거래된다. 시장은 FOX를 "사양 산업"으로 분류하고 있다. Tubi가 실적에서 더 큰 비중을 차지하거나, 별도 스핀오프 논의가 생기지 않는 한 이 할인이 갑자기 해소될 가능성은 낮다.
-
----
-
-## $58에서 $74로 — 월드컵·선거·Tubi, 3중 촉매의 진입 전략
-
-FOX Corporation($FOXA) 현재 주가 $58는 선행 P/E 11.3배, EV/EBITDA 8.4배에 거래되고 있다. 애널리스트 17명의 평균 목표주가 **$73.88**은 현재 대비 **27% 상승 여력**을 시사한다. 고점 전망 $97까지 포함하면 67% 상승 여력도 가능한 범위다.
-
-이 목표가에 도달하려면 세 가지 촉매가 순차적으로 작동해야 한다.
-
-**촉매 ①: USMNT 16강 진출 확인 (6월 말~7월 초)**
-미국이 조별리그를 통과하면 7월까지 이어지는 고시청률 경기들이 FOX에 추가된다. USMNT 경기 시청률은 비USMNT 경기 대비 평균 2~3배 높다. 16강 진출 확인 시 Q4 FY2026 광고 매출 전망 상향, 주가 재평가 가능성.
-
-**촉매 ②: Q4 FY2026 어닝 발표 (8월)**
-7월 말 FOX 회계연도가 마감된다. 8월 어닝에서 월드컵 기간의 광고 매출이 처음으로 집계된다. 컨센서스 $16.5B+ 달성 시 "이벤트 경제" 공식이 다시 한 번 검증된다.
-
-**촉매 ③: 2026 중간선거 피크 (10~11월)**
-2026 선거 사이클 총 지출 $11.6B(역대 최고). 방송 TV가 48% 흡수. FOX의 28개 지역 방송국은 플로리다·조지아·애리조나 등 핵심 스윙스테이트에 집중 배치되어 있다. 10~11월 로컬 방송 광고 수익 폭발이 예상된다.
-
-**자본 환원 안전망:** FOX는 2025년 8월 $50억 추가 자사주매입 인가, FY2026 9개월에 이미 $19억 집행. 배당 $0.56/년. 주가 하방을 지지하는 강력한 버퍼다.
-
-**투자 포지션 전략:**
-- 지금(~6월 말): 40% 진입 — 월드컵 상승 모멘텀 및 USMNT 결과 전
-- 8월 어닝 후: 30% 추가 — Q4 FY2026 광고 수익 확인 후
-- 10월 선거 광고 피크 전: 나머지 30%
-
-**Bull case:** USMNT 8강 진출 + 선거 광고 폭증 → $90~$97 범위 (고점 애널리스트 PT)
-**Bear case:** USMNT 조별리그 탈락 + 케이블 가속 하락 → $50 지지선 테스트
-
-**Tubi의 숨겨진 가치:** MAU 1억, 23% 성장, 손익분기 달성 스트리밍 서비스를 시장은 FOX의 전통 미디어 배수(EV/EBITDA 8배)로 묶어서 보고 있다. Tubi를 독립적으로 평가하면 — 비교 기업은 Pluto TV(Paramount 내 embedded), Peacock Free — $30억~$50억의 잠재 가치가 FOX 주가에 반영되지 않고 있다. 스핀오프 또는 인수 제안이 나오는 순간, 이 가치가 현실화된다.
-
-가장 핵심적인 질문은 이것이다. 케이블이 죽는 시대에 FOX는 어떻게 살아남을 것인가. 대답은 이미 나오고 있다 — 이벤트(월드컵·선거)로 광고를 폭발시키고, Tubi로 코드커터를 붙잡고, 자사주매입으로 EPS를 키운다. 주가 $58는 이 전략이 실패할 것이라는 가정 위에 서 있다. 세 개의 촉매가 순서대로 불을 붙인다면, 그 가정은 틀린 것일 수 있다.
-
----
+죽었던 402 코드가 다시 깨어났습니다. 질문은 더 이상 "AI가 결제할 것인가"가 아니라, "그 결제가 카드 위로 흐를 것인가, 스테이블코인 위로 흐를 것인가"입니다. 당신의 지갑은, 이미 그 답을 고르고 있을지도 모릅니다. 🤖💸
 
 ## 출처
-
-- [SEC EDGAR Fox Corp 10-K FY2025](https://www.sec.gov/Archives/edgar/data/0001754301/000162828025038077/fox-20250630.htm) — 사업구조, 리스크요인 (1차 자료)
-- [Fox Corporation Q3 FY2026 공식 보도자료](https://www.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-reports-third-quarter-fiscal-2026-financial-results/) — Q3 재무실적 (1차 자료)
-- [FOX Sports 월드컵 개막전 시청률 보도자료](https://www.foxsports.com/stories/presspass/fox-sports-scores-record-viewership-fifa-world-cup-2026-opening-match) — 631만명 기록 (1차 자료)
-- [Fox Corp Q1 FY2026 실적 보도자료](https://www.prnewswire.com/news-releases/fox-reports-first-quarter-fiscal-2026-revenues-of-3-74-billion-net-income-of-609-million-and-adjusted-ebitda-of-1-07-billion-302599738.html) — Q1 재무실적 (1차 자료)
-- [Fox Corporation $50억 자사주매입 발표](https://investor.foxcorporation.com/news-releases/news-release-details/fox-corporation-announces-2-billion-incremental-stock-repurchase) — 자본환원 정책 (1차 자료)
-- [Fox FOXA Q3 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/11/fox-foxa-q3-2026-earnings-call-transcript/) — CEO 코멘트, 세그먼트 가이던스 (1차 자료)
-- [2026 FIFA World Cup opening match record ratings — Yahoo Sports](https://sports.yahoo.com/articles/2026-fifa-world-cup-opening-010025395.html) — 개막전 시청률
-- [FOX Corporation stock surged 7% after Q3 2026 earnings — TIKR](https://www.tikr.com/blog/fox-corporation-stock-surged-7-after-q3-2026-earnings-can-the-world-cup-and-midterms-push-it-higher) — 밸류에이션 분석
-- [2026 Election Cycle $11.6B record — TV Tech](https://www.tvtechnology.com/business/study-2026-election-cycle-to-hit-record-usd11-6-billion-ad-spend) — 중간선거 광고 규모
-- [FIFA World Cup 2026 global broadcasting comparison — Tips.GG](https://tips.gg/article/how-to-watch-the-2026-fifa-world-cup-every-broadcaster-by-country-wc2026/) — 국제 중계권 비교
+- Google Cloud 공식 블로그 — AP2 발표: https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
+- Mastercard 공식 보도자료 — Agent Pay for Machines: https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html
+- CoinDesk — Mastercard agentic payments(다모다란 발언): https://www.coindesk.com/business/2026/06/10/mastercard-prepares-for-a-future-where-ai-agents-make-payments-with-latest-introduction
+- Yahoo Finance — Mastercard 6종 스테이블코인: https://finance.yahoo.com/markets/crypto/articles/mastercard-taps-coinbase-ripple-crypto-222300868.html
+- thepaypers — Visa Intelligent Commerce Connect: https://thepaypers.com/payments/news/visa-launches-intelligent-commerce-connect-for-agentic-payments
+- Fortune — Visa·ChatGPT 에이전트 결제: https://fortune.com/2026/06/11/visa-chatgpt-ai-agent-payments-shopping/
+- PYMNTS — Visa 포레스텔 발언: https://www.pymnts.com/visa/2026/visa-launches-ai-and-stablecoin-tools-to-power-agentic-commerce/
+- crypto.news — 암스트롱 "에이전트 경제" 발언/Agentic.Market 수치: https://crypto.news/ai-agents-could-outspend-humans-coinbase-ceo-says/
+- The Defiant — 코인베이스 연 1조 달러 스테이블코인: https://thedefiant.io/news/cefi/brian-armstrong-says-coinbase-processes-usd1t-in-stablecoin-payments-annually
+- CNBC — OpenAI Instant Checkout 후퇴: https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html
+- CoinDesk — 마이크로페이먼트 수요 회의론: https://www.coindesk.com/markets/2026/03/11/coinbase-backed-ai-payments-protocol-wants-to-fix-micropayment-but-demand-is-just-not-there-yet
+- IMF Note 2026/004 — How Agentic AI Will Reshape Payments: https://www.imf.org/-/media/files/publications/imf-notes/2026/english/insea2026004.pdf
+- Juniper Research — 에이전틱 커머스 1.5조 달러 전망: https://www.juniperresearch.com/press/agentic-commerce-set-to-generate-15-trillion-globally-by-2030-as-payments-infrastructure-leaders-revealed/
+- McKinsey — 에이전틱 커머스 5조 달러 전망: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-agentic-commerce-opportunity-how-ai-agents-are-ushering-in-a-new-era-for-consumers-and-merchants
+- Morgan Stanley — 에이전틱 커머스 임팩트: https://www.morganstanley.com/insights/articles/agentic-commerce-market-impact-outlook
+- 플래텀 — 카카오페이 x402 재단 합류: https://platum.kr/archives/284819
+- 뉴스1 — 카카오페이 x402 재단 창립멤버: https://www.news1.kr/it-science/general-it/6126308
+- 파이낸셜뉴스 — 네카토 간편결제 100조원: https://www.fnnews.com/news/202601011803461679
+- 헤럴드경제 크립토360 — 한국 지연 이유: https://biz.heraldcorp.com/article/10759999
+- 바이라인네트워크 — 금융사 AI 도입 부진(망분리): https://byline.network/2026/05/0528-6/
+- 전자신문 — 금융 AI 7대 원칙 6/22 시행: https://www.etnews.com/20260618000036
+- TechCrunch — PayPal Ventures 정리: https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/
