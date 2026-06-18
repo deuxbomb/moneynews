@@ -1,168 +1,71 @@
-# 리서치 노트: FOX Corporation ($FOXA) 종목 해부
-**작성일**: 2026-06-13 (토) | 딥다이브 리서처
+# 리서치 노트 — 2026-06-18 (목) 핀테크/크립토 · 🎤 보이스 컴필
+
+## 1차 자료 인용 건수: 8건 (기준 3건 충족)
+1. Armstrong X 게시물 (2026-06-15) — 본인 발언 1차
+2. Dimon 폭스비즈니스 인터뷰 (2026-05-29 방영) — 본인 발언 1차
+3. Cuban X 게시물 (2026-06-16) — 본인 발언 1차
+4. CLARITY Act H.R.3633 — congress.gov 법안 원문 + 상원 은행위 section-by-section
+5. CryptoQuant 온체인 데이터 — 1차 데이터
+6. Fed FOMC 점도표/SEP (2026-06-17) — 연준 1차
+7. EU MiCA — ESMA 규정 1차
+8. 한국은행 원화 스테이블코인 구상 — BOK 1차
 
 ---
 
-## 1차 자료 인용 현황 (기준: 3건 이상)
-
-| # | 소스 | URL | 활용 내용 |
-|---|------|-----|---------|
-| 1 | SEC EDGAR Fox Corp 10-K FY2025 | https://www.sec.gov/Archives/edgar/data/0001754301/000162828025038077/fox-20250630.htm | 사업구조, 세그먼트 정의, 리스크요인 |
-| 2 | Fox Corporation Q3 FY2026 공식 보도자료 | https://www.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-reports-third-quarter-fiscal-2026-financial-results/ | Q3 재무실적 |
-| 3 | FOX Sports 월드컵 개막전 시청률 보도자료 | https://www.foxsports.com/stories/presspass/fox-sports-scores-record-viewership-fifa-world-cup-2026-opening-match | 631만명 역대 비USMNT 최고 |
-| 4 | Fox Corp Q1 FY2026 실적 보도자료 | https://www.prnewswire.com/news-releases/fox-reports-first-quarter-fiscal-2026-revenues-of-3-74-billion-net-income-of-609-million-and-adjusted-ebitda-of-1-07-billion-302599738.html | Q1 재무실적 |
-| 5 | Fox Corporation $50억 자사주매입 추가 승인 | https://investor.foxcorporation.com/news-releases/news-release-details/fox-corporation-announces-2-billion-incremental-stock-repurchase | 2025년 8월 자본환원 정책 |
-| 6 | Fox FOXA Q3 2026 Earnings Call Transcript (Motley Fool) | https://www.fool.com/earnings/call-transcripts/2026/05/11/fox-foxa-q3-2026-earnings-call-transcript/ | CEO Murdoch 코멘트 |
-
-1차 자료 총 6건 확보 (기준 3건 충족)
+## 핵심 테마
+비트코인 "바닥" 논쟁(암스트롱 vs 온체인)은 표면. 진짜 전선은 **은행 vs 크립토, '예금(deposit)'을 둘러싼 패권 전쟁**. 미국(CLARITY Act)·EU(MiCA)·한국(디지털자산기본법) 3대륙에서 동시에, 각국 중앙권력이 디지털 화폐 발행을 '은행 중심'으로 되돌리려는 동일한 구도.
 
 ---
 
-## 회사 개요
+## 목소리 1 — 브라이언 암스트롱 (코인베이스 CEO) [Bull]
+- 2026-06-15 X: "I'm as bullish as ever on Bitcoin, and still long." 직감상 BTC가 $60,000 수준에서 바닥쳤다고 봄. 단 "아무도 확신 못 함" 단서.
+- 비트코인 4년 반감기 사이클 근거 — 급등 후 깊은 조정 반복, 사이클은 그때그때 상황을 실제보다 좋거나 나쁘게 보이게 함.
+- 크립토는 이제 BTC보다 훨씬 넓다 — 스테이블코인·파생(perps)·예측시장 모두 상승. 2030년엔 "훨씬 높은 가격" 확신.
+- 2026-06-16: 적격투자자(accredited investor) 규정을 "역진세(regressive tax)"라 비판, 일반 투자자도 초기 단계 접근권 줘야 한다며 개혁 촉구.
+- CLARITY Act 지지: 법안이 "미국 금융시스템을 더 빠르고·싸고·접근가능하게" 만든다.
+- 출처: CoinDesk 2026-06-15, Crowdfund Insider, blockchainreporter, beincrypto
 
-FOX Corporation (NASDAQ: FOXA, FOX)
-- 설립: 2019년 3월 19일 (21세기폭스로부터 분사 — 디즈니의 $713억 엔터테인먼트 자산 인수 후 남은 자산)
-- CEO: Lachlan Murdoch
-- FY 마감: 매년 6월 30일
+## 목소리 2 — 제이미 다이먼 (JP모건 CEO) [은행 진영 / 회의론]
+- 2026-05-29 방영 폭스비즈니스 인터뷰: 암스트롱을 "full of sh*t"이라 칭하고 CLARITY Act 저지 선언.
+- "은행처럼 예금을 받으려면 은행 규칙을 따라야 한다(If he takes deposits like a bank, he should have bank rules)" — AML, 자본, 유동성, 법률, 재무보고, 투명성 등 열거.
+- 은행권은 현재 버전 CLARITY Act를 "받아들이지 않을 것(will not accept)".
+- 아이러니(반대시각 핵심): JP모건은 이미 예금 토큰 **JPMD**를 운영 — 그것도 **코인베이스의 퍼블릭 체인 Base** 위에서(2025-06 출시, 기관 전용 permissioned). 다이먼은 2017 "비트코인 사기" → 2024-07 "스테이블코인 신봉자" 전향.
+- 출처: Fortune 2026-06-01, Bloomberg 2026-05-29, Fox Business, CNN 2026-06-05("Big banks' gloves come off"), CNBC 2025-06-17(JPMD)
 
-사업부문 (SEC 10-K 기준):
-1. Cable Network Programming: Fox News Channel, Fox Business Network
-2. Television: FOX 방송망, 28개 지역 방송국, Tubi (AVOD)
-3. Corporate/Other
+## 목소리 3 — 마크 큐반 [냉소 / 제3의 시각]
+- 2026-06-16 X: 암스트롱의 적격투자자 개혁 글에 "just sell em memecoins(그냥 밈코인이나 팔아라)"고 일축. 규제 접근권 논쟁을 펀치라인으로.
+- 맥락: 큐반은 2026년 5월 BTC 대부분 매각(인플레 헤지 실패), 크립토를 "실망스럽다", 밈코인을 "쓰레기(garbage)"라 평.
+- 출처: TheStreet, Benzinga, crypto-economy, Yahoo Finance
 
----
-
-## 주가 및 밸류에이션 (2026년 6월 기준)
-
-주가: ~$58 (FOXA)
-시총: ~$23.73B
-TTM 매출: ~$16.1B
-이익률: 11.6%
-P/E (선행): 11.34x
-EV/EBITDA: 8.35x
-애널리스트 평균 PT: $73.88 (범위: $54~$97)
-컨센서스: Buy (8 매수 / 10 보유 / 1 매도, 총 17명)
-배당: $0.56/년 (반기 지급, 수익률 ~0.86%)
-
----
-
-## 재무 실적 (연간 — FY ends June 30)
-
-FY2021: $12.91B
-FY2022: $13.97B (카타르 월드컵, 중간선거)
-FY2023: $14.91B (슈퍼볼 LVII)
-FY2024: $13.98B (이벤트 공백)
-FY2025: $16.30B (슈퍼볼 LIX + 정치 광고 폭증)
-
-FY2026 분기별:
-- Q1 (Jul-Sep 2025): $3.74B 매출, $1.07B EBITDA
-- Q2 (Oct-Dec 2025): $5.18B 매출 (NFL 피크, 정치광고)
-- Q3 (Jan-Mar 2026): $3.99B 매출, $954M EBITDA (Q3 역대최고), EPS $1.32 (컨센 $0.99 대비 +33% 서프라이즈)
-  - 광고 매출: $1.56B (전년 $2.04B — 슈퍼볼 기저효과, Super Bowl LIX $800M+ 포함)
-  - 유통 매출: +3% YoY (Cable +5%)
-  - Cable 세그먼트: $1.74B (+6% YoY)
-  - TV 세그먼트: $2.2B (-19% YoY, 슈퍼볼 기저)
+## 목소리 4 — 온체인 데이터 / CryptoQuant [데이터의 목소리]
+- BTC가 실현가격(realized price) ~$53,600 역사적 가치 구간 진입했으나, 수요는 "deeply negative", 항복(capitulation) 아직 미발생.
+- 최근 30일 실현 손실 187K BTC < 2월 패닉 400K BTC < FTX 붕괴 후 1.2M BTC. 역사적 바닥은 매도세 소진 후 형성 — "아직 거기 아님".
+- 6월 저점 ~$59,130–$59,291.
+- 출처: CryptoQuant via beincrypto, cryptonomist, CoinDesk
 
 ---
 
-## Tubi (FOX AVOD 서비스)
+## 매크로 / 가격 (시계열용)
+- BTC 2026-06-18: $65K 하회(~$64,500), 24h 전 $65,802 대비 -2%.
+- Fed 2026-06-17 FOMC (신임 의장 Kevin Warsh): 금리 3.50–3.75% 동결. 매파 점도표 — 18명 중 9명 연내 1회+ 인상, 6명 2회 전망. PCE 전망 3.6%로 상향(3월 2.7%). 크립토엔 근시일 최악 시나리오. 5월 저점 $59,130 = 마지노선. 24h간 $159M 거래소 유출, 대형 투자자 +$78M.
+- 출처: blockchainreporter 2026-06-17, 2026-06-16
 
-인수: 2020년 4월, $440M
-MAU: ~1억명 (100M)
-매출 성장: +23% YoY (Q3 FY2026)
-총 시청 시간: +19% YoY
-손익: 3분기 연속 breakeven 이상
-미국 스트리밍 시청 점유율: 2.2% (전체 7위)
-디지털 투자: $290M 미만 (전년 대비 감소 — 수익화 방향)
-사용자 특성: 절반 이상이 MZ세대
+## CLARITY Act (H.R.3633) — 미국 시장구조법
+- Digital Asset Market Clarity Act. CFTC/SEC 관할 분리, 크립토 거래소가 예금에 이자성 지급 허용 → 이게 은행권 분노의 핵심 뇌관.
+- 상원 은행위 15-9 가결(5/14, 당론투표 + 민주 Gallego·Alsobrooks 합류). 6/1 상원 본회의 캘린더 등재.
+- 남은 길: 상원 농업위 버전과 조정 → 60표 본회의 통과 → 하원 버전 조정 → 서명. 여름 휴회/중간선거 전 약 8주 본회의 시간, 법안에 약 1주 필요. Alsobrooks 추가 협상 가능성 = 불확실성.
+- 예측시장: 연내 법제화 확률 59~72%.
+- 출처: CNBC 2026-05-14, congress.gov H.R.3633, CoinDesk 2026-06-02, The Hill, Decrypt
 
-AVOD 경쟁 (미국 FAST 시청 점유율):
-- FAST 전체: 미국 전체 TV 시청의 5.7%
-- Roku Channel: 2.9% (6위)
-- Tubi: 2.2% (7위)
-- Pluto TV (Paramount): 2.0% 미만
+## 국제 비교
+- **EU MiCA**: 경과기간 2026-07-01 종료 → EU 전역 전면 시행. 스테이블코인 준비금 ≥60%를 신용기관(은행) 예치 의무. EU 단일 라이선스/패스포팅. → 유럽은 이미 '은행을 중심에' 입법 완료. (ESMA, sumsub)
+- **한국**: 디지털자산기본법 2단계 2026년으로 지연 — 원화 스테이블코인 발행권 쟁점. 한국은행은 은행 컨소시엄 ≥51% 지분 보유 요구(스테이블코인 = 사실상 화폐 대체재 → 통화관리·지급결제 위협 우려). 금융위는 반대(기술기업 위축·혁신 저해). 자본금 5억~250억 이견. 한은 '한강(Hangang)' 플랫폼 = 백업 체인 구상. (TokenPost, 한국은행, 파이낸셜뉴스, 헤럴드경제)
 
----
+## 통합 명제
+2026년 진짜 크립토 스토리는 '가격'이 아니라 '예금 경제권'을 누가 쥐느냐의 제도 전쟁. 미·EU·한국 모두 결론이 비슷한 방향(은행 중심 회귀)으로 수렴 중. 4개의 목소리는 이 전선을 각자 다른 각도에서 비춘다.
 
-## Fox News 메트릭
-
-24년 연속 케이블 뉴스 1위
-Q1 2026 prime 평균 시청자: 258.5만명
-케이블 뉴스 primetime 점유율: ~60%
-97연속 분기 케이블 뉴스 1위 (Q1 2026 기준)
-FY2026 신규 프리미엄 광고주: 200+ 추가
-YoY: 소폭 하락 (구조적 케이블 감소)
-
----
-
-## FIFA 월드컵 2026 카탈리스트
-
-개막: 2026년 6월 11일 (애틀랜타)
-개막전 (멕시코 2-0 남아공):
-- 평균 시청자: 631만명 (FOX+FS1+Tubi)
-- 비USMNT 조별리그 역대 영어권 최고 기록
-- 2022 FOX 평균 조별리그 대비 +97%
-- 피크: 800만명
-
-USMNT 일정:
-- vs 파라과이: 6/12 로스앤젤레스 (어제)
-- vs 호주: TBD
-- vs 튀르키예: TBD
-
-FOX 보유: 미국 영어 방송 독점권 104경기
-CEO Murdoch (Q3 어닝콜): "월드컵은 수익을 낼 것이다. 스폰서들의 열기가 대단하다"
-세계 총 시청자 예상: ~60억명
-FOX 목표: 1.5억 미국 시청자
-방영권 비용: 비공개
-
----
-
-## 2026 중간선거 카탈리스트
-
-총 선거 광고 지출 예상: $11.6B (역대 최고, 2022 $8.9B 대비 +30%)
-방송 TV 점유율: 48% (~$5.6B)
-FOX의 강점: 28개 지역 방송국 — 플로리다, 조지아, 애리조나 등 스윙스테이트
-
----
-
-## 자본 환원
-
-2025년 8월: 자사주매입 추가 $50억 승인
-2025년 10월: $15억 가속 매입(ASR)
-FY2026 9개월(Jul 2025~Mar 2026): $19억 매입 실행
-창사 이후 총: 221M 주, $8.53B
-배당: $0.56/년
-
----
-
-## 국제 방송 비교
-
-미국 (FOX): 케이블 구독 필요, Tubi 일부 무료 — 부분 무료 모델
-영국 (BBC+ITV): 104경기 모두 무료
-독일 (ARD+ZDF+MagentaTV): 공영 무료 + 텔레콤 유료 혼합
-브라질 (CazéTV on YouTube): 104경기 전부 무료 YouTube
-한국 (KBS+MBC+SBS+스포티비): 지상파 무료 + 유료 혼합
-
-YouTube 협약 (2026년 3월): FIFA — 각 경기 첫 10분 전세계 무료 제공
-
----
-
-## Bear Case 데이터
-
-케이블 구독 가구: 1억(2010) → 7,000만 이하(2025), 연 5.4% 감소
-2029년까지 2,000만 추가 이탈 예상
-케이블 TV 시청 점유율: 20% (스트리밍 48%, 방송 21.7%)
-방송 TV 시청: -0.2% YoY (2026년 3월)
-Fox News: 97분기 1위이지만 YoY 시청률 소폭 하락
-월드컵 방영권 비용: 비공개 (실제 마진 불투명)
-USMNT 조기 탈락 시 후반전 시청률 급락 선례 (2022 카타르)
-
----
-
-## 핵심 밸류에이션 관점
-
-현재 $58 vs 평균 PT $73.88 = 27% 상승 여력
-EV/EBITDA 8.35x — 전통 미디어 할인 반영
-Tubi: MAU 1억, 23% 성장, 손익분기 — 독립 평가 시 $3~5B 잠재 가치 (FOX 내 embedded)
-
-수집 완료: 2026-06-13
+## 투자 시사점 (시사점 섹션용)
+- $COIN: CLARITY 예금-이자 조항이 최대 촉매이자 리스크. 상원 본회의 표결(~8주 내)이 단일 변수. 통과 시 거래소 예금 사업 = 수익모델 확장.
+- $JPM: 예금 토큰(JPMD) 옵셔널리티 — 은행이 이기든 크립토가 이기든 양다리.
+- 워치: ①상원 CLARITY 본회의 표결(여름 휴회 전), ②BTC $59,130 저점 — 붕괴 시 $53,600 항복 구간 / 사수 시 암스트롱 명제 유효, ③MiCA 7/1 전면시행 효과, ④한국 디지털자산기본법 = 은행 주도 KRW 스테이블코인이면 KB·신한 등 수혜.
+- 리스크: 근시일엔 매크로(Warsh 매파)가 규제 호재를 압도.
