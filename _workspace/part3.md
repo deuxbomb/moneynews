@@ -1,37 +1,30 @@
 
-━━━━━━━━━━━━━━━━━━━━
-📊 증시 포인트 — 점도표 하나에 달린 하반기
-━━━━━━━━━━━━━━━━━━━━
-오늘 밤 FOMC의 핵심은 금리가 아니라 '미래 지도'입니다. 동결은 98.4% 확정. 하지만 3월 점도표가 '올해 최소 1회 인하'를 가리켰던 것과 달리, 이번엔 그 마지막 인하 점마저 사라질 거란 관측이 지배적이에요. 물가가 4.2%로 다시 고개를 든 게 결정적이었습니다. 일부 위원은 아예 '인상'으로 돌아설 수 있다는 전망까지. 워시 신임 의장은 점도표 자체에 회의적이었던 인물이라, 첫 기자회견에서 그가 점도표를 어떻게 '해석하지 말라'고 말할지가 진짜 변수예요. 인하 기대가 완전히 증발하면 장기금리·달러가 재차 들썩이고, 그동안 랠리를 이끈 AI 빅테크의 밸류에이션엔 부담이 됩니다. 다우(가치·경기방어)만 사상 최고를 쓰고 나스닥(성장)이 밀린 어제의 로테이션이, 바로 그 시나리오를 미리 연습한 장면이었습니다. [CBS](https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/) · [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026)
+📈 워시의 첫 회의가 남긴 것 — '인하의 시대' 종료
+케빈 워시 시대의 개막은 시장에 단호한 메시지를 남겼다. 금리는 동결됐지만 점도표는 매파로 확 기울었다. 18명 중 9명이 연내 인상에 점을 찍었고, 종전의 연내 인하 전망은 사라졌다. 워시는 정작 자신의 점은 찍지 않은 채, 과거보다 짧아진 성명서로 "포워드 가이던스를 걷어내고 데이터만 보겠다"고 선언했다. 시장은 이 화법을 곧바로 매파로 해석했다 — 국채 수익률은 급등했고 S&P 500은 -1.21%, 나스닥은 -1.34%로 밀렸다. 흥미로운 건 로테이션이다. 다우보다 금리 민감한 나스닥이 더 크게 빠졌고, 무수익 자산인 비트코인은 $66K로 후퇴했다. "돈의 값이 다시 오른다"는 신호 앞에서, 현금흐름 없는 자산부터 차례로 매를 맞고 있다. [CNBC](https://www.cnbc.com/2026/06/16/stock-market-today-live-updates.html) · [NPR](https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting)
 
-━━━━━━━━━━━━━━━━━━━━
-⚡ 오늘의 테마: AI가 삼킨 전력, 누가 굽는가
-━━━━━━━━━━━━━━━━━━━━
-1. 가스가 'AI의 베이스로드'로 떠올랐다
-미국 천연가스 가격은 $3.0/MMBtu 부근까지 밀렸습니다. 예상보다 큰 저장량 증가에 2주 만의 최저. 표면적으론 약세지만, 그 아래에서 구조는 바뀌고 있어요. 데이터센터는 태양광·풍력의 간헐성을 견디지 못하고, 24시간 끊기지 않는 전력을 원합니다. 그 빈자리를 채우는 1순위가 천연가스. Range Resources는 2030년까지 데이터센터발 가스 수요만 2.5Bcf/d, LNG 수출 능력은 2026년에만 4Bcf/d 늘어난다고 봅니다. 지금의 낮은 가스값은 '수요 폭발 직전의 고요'일 수 있다는 얘기예요. [Natural Gas Intelligence](https://www.naturalgasintel.com/news/natural-gas-positions-for-firmer-2026-as-power-demand-lng-lift-floor/)
+💳 크립토가 둘로 갈라진 날 — 규제·금리의 칼날 위에서
+1. 서클(CRCL), 사상 최악의 하루. 상원 은행위를 15-9로 통과한 CLARITY Act의 최신 초안이 스테이블코인의 '유휴 잔액 이자(passive yield)'를 금지하는 쪽으로 굳어졌다. 은행들이 처음부터 요구하던 바로 그 조항이다. 스탠다드차타드는 이 조항이 빠졌다면 2028년까지 최대 $5,000억이 은행 예금에서 스테이블코인으로 옮겨갈 수 있었다고 추산했다. 그 미래가 막히자 서클은 화요일 하루 -20%, $5.6B가 증발했다. 미즈호는 목표가를 $135→$85로 낮췄다. 스테이블코인 '순수 플레이'의 취약성이 드러난 장면이다. [Motley Fool](https://www.fool.com/investing/2026/05/24/3-cryptocurrencies-to-watch-as-the-clarity-act-hea/) · [FinTech Weekly](https://www.fintechweekly.com/news/clarity-act-banks-winning-stablecoin-yield-2026)
+2. 그런데 CLARITY Act 자체는 7월 4일 서명을 목표로 상원 본회의 일정에 올라 있다. 6월 1일 입법 캘린더 등재 후, 갤럭시리서치는 30일 내 본회의 표결 가능성을 75%로 본다. 누군가에겐 악재, 누군가에겐 호재 — 규제 '확정'은 그 자체로 거래되는 카탈리스트다. [PYMNTS](https://www.pymnts.com/cryptocurrency/2026/clarity-act-nears-senate-floor-ahead-of-recess-deadline/) · [CryptoTimes](https://www.cryptotimes.io/2026/05/14/clarity-act-vote-timeline-what-happens-next/)
+3. 로빈후드(HOOD)는 매파 장세에서도 +8.78%로 역주행했다. 월드컵 예측시장이 폭발한 덕이다 — 6/11 $22억이던 업계 예측시장 거래대금이 미국-파라과이 개막전 다음날 $48억으로 두 배 뛰며 슈퍼볼 기록까지 넘어섰다. 번스타인은 로빈후드의 2026년 예측시장 매출이 $1.5억→$5.86억으로 불어 전체 매출의 10%를 차지할 수 있다고 본다. 같은 날 로빈후드는 정규직 10% 감축도 발표했다 — "린하고 고성과" 체제로의 전환이다. [Benzinga](https://www.benzinga.com/markets/prediction-markets/26/06/53237596/robinhoods-fastest-growing-business-has-a-regulation-problem-heres-what-it-means-for-hood)
 
-2. 원전, '약속'에서 '설계 승인'으로 한 걸음 더
-원자력은 여전히 AI 전력의 가장 뜨거운 장기 베팅입니다. DOE는 6/5 Oklo의 Aurora 원자로(아이다호 국립연구소)에 대한 예비 안전성분석(PDSA)을 승인했어요 — 규제 경로의 실질적 진전. 메타는 일리노이에서 20년, 아마존은 펜실베이니아 서스쿼해나에서 1.9GW의 원전 전력 계약을 이미 확보했고, NuScale($SMR)은 유일한 NRC 승인 SMR 설계를 무기로 TVA·ENTRA1 향 6GW 파이프라인을 밀고 있습니다. 다만 NuScale 주가는 $12대에서 $10 부근으로 밀리며 '약속 대비 희석 우려'의 줄다리기 중. [World Nuclear News](https://www.world-nuclear-news.org/articles/doe-approval-milestone-for-oklo-reactor) · [StocksToTrade](https://stockstotrade.com/news/nuscale-power-corporation-smr-news-2026_06_12/)
-
-3. 연료전지·우라늄, 같은 파도의 다른 면
-연료전지의 Bloom Energy($BE)는 Oracle(최대 2.8GW)·Nebius($26억 규모) 등 AI 데이터센터 전력 공급 계약을 연달아 따내며 올해 +219% 폭주, '추가 증자 없이도 수요를 댈 수 있다'고 선언했습니다. 우라늄 쪽에선 Cameco($CCJ)가 6/1 TEPCO의 Cigar Lake 지분 5%를 인수해 보유율을 57.4%로 끌어올렸고, Urenco는 미국 농축 능력을 약 50% 증설하겠다고 발표. AI 전력 사이클은 가스→원전→연료전지→우라늄까지 공급망 전체를 동시에 데우고 있어요. [StocksToTrade](https://stockstotrade.com/news/bloom-energy-corporation-be-news-2026_06_12/)
-
-━━━━━━━━━━━━━━━━━━━━
 🏢 기업 뉴스 — 와치리스트 심층
-━━━━━━━━━━━━━━━━━━━━
-$GOOGL TPU가 'GPU의 대항마'에서 '돈 버는 사업'으로
-구글이 자체 TPU(텐서처리장치)를 Broadcom을 통해 Anthropic 같은 외부 고객에게 직접 판매하기 시작했습니다. 그동안 클라우드 안에서만 쓰던 칩을 밖으로 내보내, 새로운 고마진 매출원을 연 거예요. 알파벳은 어제 +1.06%로 버텼지만 엔비디아는 -2.37%로 밀렸습니다. 시장이 'AI 칩 = 엔비디아 독점'이라는 등식에 처음으로 균열을 의심하기 시작한 신호. 한 애널리스트는 "AI 자본지출이 둔화되는 국면에선 알파벳의 모델이 더 견고할 수 있다"고 평했습니다. TPU 직판이 의미 있는 매출로 자리 잡으면, AI 인프라 패권 구도 자체가 다극화될 수 있어요. 단기적으론 두 거인의 주가 디커플링을 주시할 때입니다. [Motley Fool](https://www.fool.com/investing/2026/06/16/nvidia-vs-alphabet-better-ai-chip-stock-goog/)
+$COIN 코인베스트, "거래소를 넘어 종합 자산 플랫폼으로"
+코인베이스는 화요일, 미국 밖 고객을 대상으로 다음 달부터 '토큰화 미국 주식'을 출시한다고 밝혔다. 각 토큰은 실제 주식 1주에 1:1 백킹되며 배당권까지 부여되고, 24시간 거래·온체인 전송·담보·대여가 가능하다. 여기에 AI·방산·중국·기술 지수에 연동된 테마형 퍼페추얼 선물, 앤트로픽·오픈AI 같은 비상장사 연동 프리-IPO 선물 확대까지 예고했다.
+배경: 코인베이스는 5월 말 CFTC로부터 미국 최초로 규제 퍼페추얼 선물 승인을 받은 첫 사업자다. 향후 몇 달 안에 미국 현물 거래소, 해외 파생, 데리비트(Deribit)를 단일 글로벌 유동성 풀로 통합하겠다는 그림이다. 스테이블코인 이자가 막히는 와중에, 코인베이스는 '거래 활동 자체'를 늘리는 쪽으로 수익 모델을 다변화하고 있다.
+전망: ARK는 어제 코인베이스를 $18.4M 순매수하며 방향성에 베팅했다. 토큰화 주식이 실제 거래량으로 이어지는지가 관건이다. [CFTC](https://www.cftc.gov/PressRoom/PressReleases/9241-26) · [Crowdfund Insider](https://www.crowdfundinsider.com/2026/06/285977-coinbase-announces-true-tokenized-stocks/)
 
-$COIN 거래소에서 '슈퍼 금융앱'으로
-Coinbase가 신상품을 무더기로 공개했습니다. 크립토·전통주식 양쪽의 옵션 거래, 자동 배당이 붙는 토큰화 주식 거래, 스테이킹한 솔라나를 담보로 한 대출, 그리고 시간 기반 가격 예측 시장까지. 단순 암호화폐 거래소를 넘어 '주식·파생·예측이 한 앱에 모인 종합 금융 플랫폼'으로의 변신 선언이에요. CLARITY Act 입법 기대가 깔린 상황에서, 규제가 열리면 가장 넓은 상품 라인업을 가진 플레이어가 되겠다는 포석. 주가는 $168.50으로 차분했지만, 사업 영역 확장 속도는 결코 차분하지 않습니다. [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/coinbase-gears-launch-tokenized-stock-trading-190038248.html)
+$TSLA 머스크의 옵션, 골드만의 인도 상향
+테슬라는 매크로 약세에 동반 하락했지만 두 갈래 소식이 눈길을 끈다. 일론 머스크가 약 3억 400만 주의 스톡옵션을 행사해 직접 보유 지분이 약 7.1억 주로 늘었다. 같은 날 골드만삭스는 테슬라의 Q2 인도가 컨센서스 40만 대를 웃돌 가능성이 크다며 전망치를 42만 대로 상향했다.
+배경: 아르헨티나 국영에너지사 YPF는 테슬라와 급속충전망·에너지저장 협력 의향서(LOI)를 체결했다. 자동차를 넘어 에너지·AI·로보틱스로 무게중심을 옮기는 테슬라의 행보가 이어진다.
+전망: 공정가치 추정치는 $420선으로 소폭 상향됐지만, 애널리스트들은 여전히 'Hold' 합의에 가깝다. Q2 인도 실적 확인까지 변동성 구간이다. [Public](https://public.com/stocks/tsla/forecast-price-target)
 
-$NFLX 성장의 엔진을 'M&A'로 갈아끼우나
-넷플릭스가 Roku 인수전에서 패한 뒤 Lionsgate를 저울질하고 있다는 관측이 나왔습니다. 자체 콘텐츠로 키워온 회사가 '인수를 통한 확장'으로 방향을 트는 신호일 수 있어요. 미디어 딜 실패와 법적 리스크가 겹치며 주가는 $78.80으로 약세. 콘텐츠 단가는 치솟고 구독 성장은 성숙기에 접어든 지금, 넷플릭스가 어떤 자산을 사서 다음 성장을 살지가 하반기 관전 포인트입니다. [One News Page](https://www.onenewspage.com/n/Markets/1ztfzbml4r/Stock-Market-Today-June-16-Netflix-Falls-After.htm)
+$GOOGL 데이터센터에 또 $15억, AI 자본지출은 멈추지 않는다
+알파벳은 앨라배마 기존 데이터센터 증설에 $15억을 추가 투입한다고 밝혔다. HSBC와의 AI 역량 강화 파트너십도 발표했다. 매크로 약세장에서 +1.1%로 버틴 몇 안 되는 빅테크다.
+배경: 앞서 알파벳은 AI 인프라 확장을 위해 $80B 규모 주식 발행과 버크셔 $10B 투자까지 끌어들였다. 자본을 쏟아붓는 속도가 곧 AI 경쟁의 척도다. 애널리스트 합의는 'Strong Buy', 평균 목표가 $432.83.
+전망: 자본지출 사이클이 클라우드·검색 AI 매출로 환원되는지가 다음 분기 핵심 체크포인트다. [stockanalysis](https://stockanalysis.com/stocks/googl/forecast/)
 
-$TSLA 로보택시의 진짜 스위치는 'FSD v15'
-테슬라가 로보택시 대규모 확장의 조건을 명확히 했습니다 — FSD v15 출시 전까지는 본격 확대 없음. 현재 오스틴·댈러스·휴스턴에서 제한 운행 중이고, 의미 있는 로보택시 매출은 여전히 2027년 스토리. 다만 FSD 구독은 Q1 기준 128만 명(+51% YoY)으로 소프트웨어 매출 엔진은 돌아가고 있어요. 마진이 6.4%→3.9%로 눌린 상황이라, 자율주행 실행력이 밸류에이션을 정당화할 유일한 열쇠입니다. [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/tesla-robotaxi-rollout-fsd-expansion-211417687.html)
+$OKLO·$NVDA 원자력과 반도체, AI 전력 동맹은 견고하다
+오클로는 +6.4%로 와치리스트 내 최강세였다. NVIDIA·로스앨러모스 연구소와의 핵연료 검증·AI 기반 원자로 R&D 협업 모멘텀이 이어진 결과다. 애널리스트 목표가는 $101.19(Buy)로 현재가 대비 큰 폭의 상승 여력을 본다. 한편 NVIDIA는 전일 필라델피아 반도체지수 -5.71% 급락 충격을 하루 만에 소화하며 $208선을 지켰다. [Public](https://public.com/stocks/oklo/forecast-price-target)
 
-━━━━━━━━━━━━━━━━━━━━
-💫 흥미로운 이야기
-━━━━━━━━━━━━━━━━━━━━
-1. 캐시 우드의 '스페이스X 자금 마련' 대청소가 계속됩니다. ARK는 6/15 하루 $1.63억을 팔았는데(Roku $95.5M, AMD $72.3M, 테슬라 $18.1M 등), 6/16엔 Archer Aviation(ACHR) 222만 주(~$12.7M)를 또 처분했어요. 사상 최대 IPO로 상장한 SpaceX 지분을 채워 넣기 위한 포트폴리오 대수술입니다. 성장주 펀드매니저가 '비상장의 끝판왕'을 담으려 상장 성장주를 줄이는 아이러니한 장면. [ECIKS](https://eciks.org/9286-72630-ark-invest-sales-cathie-wood-163-million)
+📰 흥미로운 이야기
+1. ARK의 손바꿈이 선명하다. 캐시 우드는 어제 코인베이스를 $18.4M 사들이면서 로빈후드는 $29M 팔았다. 8% 급등한 로빈후드 강세에 차익을 실현하고, 규제 명확화 수혜가 더 클 코인베이스·블록으로 무게를 옮긴 손바꿈이다. 같은 크립토 핀테크 안에서도 ARK는 '거래소'에 베팅하고 '브로커'를 덜어냈다. [The Block](https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood)

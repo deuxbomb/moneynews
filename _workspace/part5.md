@@ -1,6 +1,4 @@
 
-━━━━━━━━━━━━━━━━━━━━
-🎙️ 오늘의 팟캐스트 — "모델은 흔해지는가"
-━━━━━━━━━━━━━━━━━━━━
-1. 20VC "Perplexity의 아라빈드 스리니바스 — 파운데이션 모델은 범용재가 될 것인가" (2026-06-15)
-퍼플렉시티 CEO 아라빈드 스리니바스가 20VC에 출연해 AI 업계의 가장 예민한 질문을 정면으로 다뤘습니다. 핵심 주제는 세 가지 — ① 파운데이션 모델은 결국 '범용재(commodity)'로 흔해질 것인가, ② 모델 성능의 '수확 체감'은 이미 시작됐는가, ③ OpenAI vs Anthropic, 누가 이기고 왜 그런가. 스리니바스의 베팅은 명확합니다. 다음 성능 도약은 더 큰 모델이 아니라 **추론(reasoning)** 에서 나온다는 것. 거대 모델 군비경쟁이 평준화되면, 진짜 해자는 모델 자체가 아니라 그 위에 무엇을 세우느냐(제품·검색·에이전트)로 옮겨간다는 메시지예요. 알파벳이 TPU를 외부에 풀고, 칩·모델 양쪽에서 '독점이 깨질 수 있다'는 의심이 시장에 번지는 지금 타이밍과 절묘하게 맞물리는 대담입니다. [20VC](https://www.thetwentyminutevc.com/aravind-srinivas)
+🎙️ 오늘의 팟캐스트 — 일론, 이번엔 '우주 하이퍼스케일러'를 판다
+1. BG2Pod "The SpaceX IPO, Fable 5, AI Capex Update & Market Check" (2026-06-11)
+   브래드 거스너와 빌 걸리가 아트레이데스의 개빈 베이커·앤드루 폭스, 알티미터의 클라크 탱과 함께 임박한 스페이스X IPO를 해부했다. 핵심 논점은 도발적이다 — 스페이스X를 '로켓 회사'가 아니라 새로운 종류의 AI 하이퍼스케일러, 이른바 'Elon Web Services'로 봐야 한다는 것. 스타십의 급속 재사용, 스타링크 광대역·다이렉트투셀, 일론의 AI 컴퓨트 사업, xAI의 모델 야망, 커서(Cursor) 인수, 그리고 궤도 데이터센터의 장기 잠재력까지 펼쳐놓는다. 후반부엔 Fable 5·Mythos·ChatGPT 5.5로 이어지는 모델 경쟁, 엔비디아 vs ASIC, 식지 않는 AI 자본지출 붐을 짚는다. 매파 FOMC로 성장주 밸류에이션이 시험받는 지금, "현금흐름 없는 미래 자산에 어떻게 값을 매길 것인가"라는 질문이 스페이스X에서 오늘의 픽(채굴기→AI 데이터센터)까지 그대로 관통한다. [BG2Pod](https://pocketcasts.com/podcast/bg2pod-with-brad-gerstner-and-bill-gurley/3a3ff9d0-9dd2-013c-74fe-027201e7e97f/the-spacex-ipo-fable-5-ai-capex-update-market-check-w-gavin-baker-andrew-fox-clark-tang-bg2/d66917bd-89a1-4e9a-96c5-e690b1a2541f)
