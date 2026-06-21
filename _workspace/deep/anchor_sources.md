@@ -1,31 +1,20 @@
-# 앵커 소스 — 2026-06-16 RIVN 종목 해부
-# 14:00 트리거가 우선 활용
+# 앵커 소스 — 14:00 트리거가 우선 활용
 
-## 1차 자료 (필수 ≥3건)
+테마: AI 전력 병목 — 변압기·스위치기어 부족 (산업재/인프라, 🔮 미래전망)
 
-- [SEC EDGAR] RIVN 10-K FY2025 — https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RIVN&type=10-K
-  하이라이트: 연간 생산·납품 실적, 현금 보유, R&D 지출, VW 투자 상세
+## 1차 자료 (SEC / 정부)
+- [GE Vernova 8-K Q1 FY2026 보도자료](https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000063/gevpressrelease1q26.htm) — 전력화 부문 수주 +86%, 데이터센터 장비 $2.4B 단일분기, 백로그 추이
+- [GE Vernova 10-Q Q1 FY2026](https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000064/gev-20260331.htm) — 세그먼트별 백로그·수주잔고 상세
+- [Eaton 8-K Q1 FY2026 (Exhibit 99)](https://www.sec.gov/Archives/edgar/data/0001551182/000155118226000010/etn03312026exhibit99.htm) — 전력관리 부문 실적, $1.2B 증설 맥락
+- DOE/EIA 그리드 전력수요 보고서 (14:00에 WebSearch로 보강: "DOE data center electricity demand 2026", "EIA grid capacity")
 
-- [Rivian IR] Q1 2026 실적 보도자료 — https://rivian.com/investors
-  하이라이트: Q1 2026 매출, 현금 burn, 생산 가이던스 62K~67K대
+## 보조 자료 (산업 분석)
+- [PowerMag — Transformers in 2026: Shortage, Scramble, or Self-Inflicted Crisis?](https://www.powermag.com/transformers-in-2026-shortage-scramble-or-self-inflicted-crisis/) — 반대 시각(조달 관행 vs 진짜 부족) 핵심 소스
+- [WEF — 그리드 연결이 AI의 전략적 병목인가 (2026.05)](https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/)
+- [Yahoo Finance — GE Vernova 백로그 $119B](https://finance.yahoo.com/markets/stocks/articles/ge-vernova-backlog-surges-ai-001642387.html)
+- [Energy News Beat — 데이터센터 절반 변압기 부족으로 지연](https://energynewsbeat.co/ai/more-than-half-of-the-data-centers-may-be-delayed-due-to-lack-of-transformers-and-electrical-equipment-2/) — 중국 60% 생산 장악·$9.3B 수출 통계
 
-- [TechCrunch] Uber-Rivian $1.25B 파트너십 발표 (2026-03-19) — https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/
-  하이라이트: $300M 선납 + 성과조건부 $950M, 50K R2 로보택시, 2028 SF+마이애미 출시
-
-## 보조 자료 (오늘 날짜 카탈리스트)
-
-- [Benzinga] CEO Scaringe 자율주행 로드맵 발표 — 오늘 주가 상승 (2026-06-16)
-  https://www.benzinga.com/trading-ideas/movers/26/06/53193201/rivian-shares-advance-as-ceo-outlines-aggressive-autonomous-driving-roadmap
-
-- [The Next Web] CEO 직접 인터뷰 — Tesla FSD 수준 비교 발언
-  https://thenextweb.com/news/rivian-point-to-point-self-driving-tesla-fsd-scaringe-uber-robotaxi
-
-- RIVN 오늘 주가 범위: $15.98~$16.75 (Benzinga, 2026-06-16)
-
-## 추가 수집 권장 (14:00 리서처)
-
-- Rivian-VW 파트너십 IR 발표 (VW $5B, 2024년): rivian.com/investors 또는 SEC 8-K
-- Rivian Q4 2025 또는 Q1 2026 어닝콜 트랜스크립트: Motley Fool 또는 Seeking Alpha
-- 자율주행 기술 비교 자료: Waymo 공식 safety report, Mobileye IR
-- 중국 EV 자율주행 경쟁 현황: NIO/XPEV Q1 2026 실적 보도자료
-- 현대차 자율주행 전략 국내 비교: 현대차 IR 또는 모비스 공식 자료
+## 14:00에 추가 수집 권장
+- 한국 전력기기 3사 1차 자료: HD현대일렉트릭·효성중공업·LS일렉트릭 IR/공시 (美 수출 비중, 수주잔고) — "HD현대일렉트릭 변압기 수출 2026", "효성중공업 미국 수주"
+- 중국 변압기 수출 통계 원자료 (해관총서/Reuters)
+- 변압기 리드타임 시계열 (Wood Mackenzie / NIETC / DOE)
